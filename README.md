@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grit Marketing](https://www.gritmarketing.net)** | **[Business Leadership & Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/69646fa0a112b4026612516a?utm_campaign=1051&utm_source=git)** | Lindon, UT | On Site | Jan 11 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Spring Retail Management Internship](https://jobright.ai/jobs/info/69645c0925e187150780c6d7?utm_campaign=1051&utm_source=git)** | Johnson Creek, WI | On Site | Jan 11 |
 | **[Fusion100](http://Fusion100co.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696457fca112b40266124a86?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 11 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68c77ec1c96a22563ecf15ff?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Jan 11 |
@@ -146,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader FT 6598](https://jobright.ai/jobs/info/6962b3dd2cbf4e44756c9394?utm_campaign=1051&utm_source=git)** | Kodiak, AK | On Site | Jan 10 |
 | **[TD](https://www.td.com)** | **[TD Insurance Private Client Advice Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6962b07ea112b4026610fe88?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | On Site | Jan 10 |
 | **[Mitsubishi Chemical Advanced Materials](https://www.mcam.com/)** | **[Inside Sales Internship (Mitsubishi Chemical Advanced Materials)](https://jobright.ai/jobs/info/6962af242cbf4e44756c9132?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Jan 10 |
-| **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/6962a62d25e18715077f707a?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 10 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[ATS Sales & Eng Intern](https://jobright.ai/jobs/info/696275b625e18715077f4b0c?utm_campaign=1051&utm_source=git)** | Hartford, CT | Hybrid | Jan 10 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - New England & Capital District,](https://jobright.ai/jobs/info/696270752cbf4e44756c645b?utm_campaign=1051&utm_source=git)** | South Windsor, CT | On Site | Jan 10 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Spring Retail Management Internship](https://jobright.ai/jobs/info/69626a8625e18715077f480a?utm_campaign=1051&utm_source=git)** | Pooler, GA | On Site | Jan 10 |
