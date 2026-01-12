@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68c77ec1c96a22563ecf15ff?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Jan 11 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69643134a112b402661226a3?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Jan 11 |
 | ↳ | **[Summer Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6964309425e187150780a190?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 11 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69642a9525e187150780a103?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jan 11 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Towerstone Intern - Summer 2026](https://jobright.ai/jobs/info/692f72cafa28370be26aa337?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | On Site | Jan 11 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69637b5d2cbf4e44756d3360?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Customer Value Strategy](https://jobright.ai/jobs/info/690ecfe544146d3b6ec58005?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 11 |
-| **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Sales Internship Program](https://jobright.ai/jobs/info/69637895a112b40266119cce?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 11 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Sales Development Internship (Nationwide - Summer '26)](https://jobright.ai/jobs/info/691ab48abcdbf3560c9d9d20?utm_campaign=1051&utm_source=git)** | Davidson, NC | On Site | Jan 11 |
 | **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Part-Time Open Innovation Intern (Summer 2026)](https://jobright.ai/jobs/info/696374222cbf4e44756d318c?utm_campaign=1051&utm_source=git)** | La Jolla, CA | Hybrid | Jan 11 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Global Procurement Intern](https://jobright.ai/jobs/info/695c761a5e4962051b599469?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Jan 11 |
