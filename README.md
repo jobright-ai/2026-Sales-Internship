@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ann Taylor](http://www.anntaylor.com)** | **[Spring Retail Management Internship](https://jobright.ai/jobs/info/69645c0925e187150780c6d7?utm_campaign=1051&utm_source=git)** | Johnson Creek, WI | On Site | Jan 11 |
+| **[Fusion100](http://Fusion100co.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696457fca112b40266124a86?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 11 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68c77ec1c96a22563ecf15ff?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Jan 11 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69643134a112b402661226a3?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Jan 11 |
 | ↳ | **[Summer Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6964309425e187150780a190?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eece28d078b81ad160f8ff?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f1801def766b3f0fd0ec78?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Jan 10 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f17fc0ef766b3f0fd0ec2c?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 10 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Inhouse Sales Engineer Intern](https://jobright.ai/jobs/info/695fc65fa1bbea1d9a7a8689?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Commercial Banking - Westchester/Hudson Valley NY](https://jobright.ai/jobs/info/6945f3e9d1953b5d11befd25?utm_campaign=1051&utm_source=git)** | White Plains, NY | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
