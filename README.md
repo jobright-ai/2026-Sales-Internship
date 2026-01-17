@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern (Volunteer)](https://jobright.ai/jobs/info/696b2bd25fc86241853a889e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 16 |
 | **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/696b2288db26b618950eb0dc?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 16 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/696b21f3350cf43803127a0d?utm_campaign=1051&utm_source=git)** | Coconut Creek, FL | On Site | Jan 16 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (California) - Summer '26](https://jobright.ai/jobs/info/696b192c5fc86241853a7d6b?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Jan 16 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Summer 2026/Sales/CS](https://jobright.ai/jobs/info/696b0d23db26b618950e8754?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 16 |
-| **[H15DEN](https://h15den.com)** | **[User Acquisition and Business Development - Internship](https://jobright.ai/jobs/info/696b0c60db26b618950e86e8?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 16 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/696b09d9350cf43803124e22?utm_campaign=1051&utm_source=git)** | Camrose, Alberta, Canada | On Site | Jan 16 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Purchasing](https://jobright.ai/jobs/info/696af491350cf4380312307b?utm_campaign=1051&utm_source=git)** | Midland, MI | On Site | Jan 16 |
 | ↳ | **[2025-2026 Campus Internship - Purchasing](https://jobright.ai/jobs/info/696af58d5fc86241853a3ad4?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 16 |
