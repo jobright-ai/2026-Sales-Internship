@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Moxie Pest Control](https://www.moxieservices.com)** | **[Door to Door Sales Representative (Summer 2026)](https://jobright.ai/jobs/info/696bdd5cdb26b618950f4c07?utm_campaign=1051&utm_source=git)** | Bentonville, AR | On Site | Jan 17 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader- Uniforms FT 6602](https://jobright.ai/jobs/info/696bffa2350cf4380313417b?utm_campaign=1051&utm_source=git)** | Yorktown, VA | On Site | Jan 17 |
+| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Spring 2026 Retail Management Internship - Auburn Village Mall](https://jobright.ai/jobs/info/696bf48edb26b618950f5c17?utm_campaign=1051&utm_source=git)** | Store 1530-Colonial University Villag-ANN-Auburn, AL 36830 | On Site | Jan 17 |
+| **[National Life Group](https://www.nationallife.com)** | **[Advanced Sales Internship - Summer 2026](https://jobright.ai/jobs/info/696bf366350cf43803132661?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Jan 17 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader- Uniforms FT 6603](https://jobright.ai/jobs/info/696beafb5fc86241853b2be4?utm_campaign=1051&utm_source=git)** | Centreville, VA | On Site | Jan 17 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69320b7dfa28370be26c1317?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Jan 17 |
 | **[MetalTek International](https://www.metaltek.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/696bcda7350cf43803131655?utm_campaign=1051&utm_source=git)** | Watertown, WI | On Site | Jan 17 |
+| **[Moxie Pest Control](https://www.moxieservices.com)** | **[Door to Door Sales Representative (Summer 2026)](https://jobright.ai/jobs/info/696bdd5cdb26b618950f4c07?utm_campaign=1051&utm_source=git)** | Bentonville, AR | On Site | Jan 17 |
 | **[Nautical Boat Club of Lake Murray, SC](https://nauticalboatclub.com/irmo-lake-murray/)** | **[Sales Intern](https://jobright.ai/jobs/info/696bc3c4db26b618950f479c?utm_campaign=1051&utm_source=git)** | Irmo, SC | On Site | Jan 17 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Insurance sales Intern](https://jobright.ai/jobs/info/696bbb7b5fc86241853b096d?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Inpro](http://inpro.co.kr)** | **[Sales Intern](https://jobright.ai/jobs/info/696bbb5d5fc86241853b06f7?utm_campaign=1051&utm_source=git)** | Muskego, WI | On Site | Jan 17 |
@@ -82,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[GAF](http://www.gaf.com/)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/68f93f2b6de2db04dc3e7436?utm_campaign=1051&utm_source=git)** | Parsippany, NJ | Hybrid | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6967f7e01703f05405a994ea?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Jan 17 |
 | **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6900accf4539ea1f21418f71?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 17 |
-| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Application Sales Engineering Intern](https://jobright.ai/jobs/info/696ac4eadb26b618950e0bc0?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 17 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Starting in Summer 2026](https://jobright.ai/jobs/info/696b906cdb26b618950f1def?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69674afef25a38006695adde?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | Hybrid | Jan 17 |
 | ↳ | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6967a62bf25a3800669600b5?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Jan 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Qualcomm](http://www.qualcomm.com)** | **[Sales & Business Development Internship - Summer 2026](https://jobright.ai/jobs/info/6961d21ee7ed9a5731baa01c?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 17 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/696072cc7ebc25398eb669a4?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Jan 17 |
 | **[Belk](http://www.belk.com)** | **[Spring Intern: Sewing Down South Pop-Up Shop / Charleston, SC](https://jobright.ai/jobs/info/696b6eeedb26b618950efb8f?utm_campaign=1051&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Jan 17 |
-| **[Nucor Corporation](http://www.nucor.com)** | **[Sales Development Internship (Summer 2026)](https://jobright.ai/jobs/info/696b6e1f5fc86241853acdc3?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Jan 17 |
-| **[Camping World](https://investor.campingworld.com)** | **[Loyalty Operations Intern](https://jobright.ai/jobs/info/693e4d1849a7695fbd04922e?utm_campaign=1051&utm_source=git)** | Lincolnshire, IL | Hybrid | Jan 17 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Beef & Pork Sales Intern Summer 2026](https://jobright.ai/jobs/info/696b62195fc86241853acb49?utm_campaign=1051&utm_source=git)** | Springdale, AR | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
