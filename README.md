@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Associate](https://jobright.ai/jobs/info/696ba0bc5fc86241853afd20?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 17 |
+| **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/696b9f66350cf4380312f37c?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 17 |
+| **[H15DEN](https://h15den.com)** | **[User Acquisition and BD Internship](https://jobright.ai/jobs/info/696b9dcd350cf4380312f252?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 17 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/696b9995db26b618950f23ba?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
+| **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Austin, Summer 2026](https://jobright.ai/jobs/info/68df18e35ab4977c2e950062?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 17 |
+| **[SWBC](https://www.swbc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd8beea125e75c422ac0aa?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 17 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern- Capacity Portfolio Representative - Starting in Summer 2026](https://jobright.ai/jobs/info/696b9648350cf4380312ee82?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
+| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Philadelphia](https://jobright.ai/jobs/info/68c1ef4c63b706703e110570?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 17 |
+| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6933bdd6a0dde7020e2f1654?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Jan 17 |
+| **[IBM](http://www.ibm.com)** | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/693323a6764507023d1b27c8?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jan 17 |
 | **[Ocean Spray Cranberries](http://www.oceanspray.com/)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/68dd8b48ddc10244dd680876?utm_campaign=1051&utm_source=git)** | Lakeville, MA | Hybrid | Jan 17 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Long Island](https://jobright.ai/jobs/info/68c1efde63b706703e110642?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69332c12a0dde7020e2eb032?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Jan 17 |
@@ -74,6 +84,10 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933624c764507023d1b511c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 17 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Texas](https://jobright.ai/jobs/info/68c1ee4963b706703e110470?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Ohio](https://jobright.ai/jobs/info/68c1edf84d652f044775bca1?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jan 17 |
+| ↳ | **[Summer Jr. Executive Sales Intern - New Jersey](https://jobright.ai/jobs/info/68c1eae34d652f044775b9d3?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jan 17 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Tampa](https://jobright.ai/jobs/info/68c1ed8a4d652f044775bc30?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 17 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Denver](https://jobright.ai/jobs/info/68c1f07033864f172f9bbcb5?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jan 17 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Miami](https://jobright.ai/jobs/info/68c1edb363b706703e1103d7?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 17 |
 | **[BGB Group](http://bgbgroup.com/)** | **[Spring 2026 Account Services Internship](https://jobright.ai/jobs/info/68ffd2d90ab3b222462ae777?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933b87b764507023d1b8a5f?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | Hybrid | Jan 17 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Milwaukee](https://jobright.ai/jobs/info/68c1ed894d652f044775bc2c?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 17 |
@@ -104,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Sales Strategy & Ops](https://jobright.ai/jobs/info/69336c29764507023d1b5776?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Jan 17 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Murfreesboro, TN](https://jobright.ai/jobs/info/6932fa56764507023d1b16a9?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Jan 17 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2026)](https://jobright.ai/jobs/info/68df07f15ab4977c2e94ca94?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Jan 17 |
+| **[Contingenci® by Good Human LLC](http://www.contingenci.com)** | **[Medical Sales Internship (Veterinary) / High Commission + Mentorship](https://jobright.ai/jobs/info/696b99bddb26b618950f23dc?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jan 17 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Offsite (Nashville)](https://jobright.ai/jobs/info/6933388da0dde7020e2eb868?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jan 17 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Muncie, IN](https://jobright.ai/jobs/info/693302bbf131d96e4845f2b5?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Jan 17 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/6932f709764507023d1b15a6?utm_campaign=1051&utm_source=git)** | Windsor, NY | On Site | Jan 17 |
@@ -114,6 +129,10 @@ For a complete list, click the following sortable link below:
 | **[TowneBank](https://www.townebank.com/)** | **[Towne Insurance Summer Internship](https://jobright.ai/jobs/info/6933b07ef131d96e48465f47?utm_campaign=1051&utm_source=git)** | Glen Allen, VA | On Site | Jan 17 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Ames, IA](https://jobright.ai/jobs/info/6932fc52764507023d1b1768?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Jan 17 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/691840e315b4156367180813?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 17 |
+| **[IBM](http://www.ibm.com)** | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69333a5ca0dde7020e2eb9c9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 17 |
+| ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/693370fba0dde7020e2ee0cd?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Jan 17 |
+| ↳ | **[Digital Seller Intern– Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933719fa0dde7020e2ee144?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 17 |
+| ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933741af131d96e4846382b?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jan 17 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Ann Arbor, MI](https://jobright.ai/jobs/info/6932f323764507023d1b1423?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Jan 17 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Seattle](https://jobright.ai/jobs/info/69338c0ca0dde7020e2ef0e9?utm_campaign=1051&utm_source=git)** | Seattle, WA | Hybrid | Jan 17 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Minneapolis, MN](https://jobright.ai/jobs/info/6932f17a764507023d1b1376?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 17 |
@@ -138,23 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/696b77c6db26b618950efdef?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jan 17 |
 | ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/696b7eb7350cf4380312c9db?utm_campaign=1051&utm_source=git)** | Menomonee Falls, WI | On Site | Jan 17 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern (Volunteer)](https://jobright.ai/jobs/info/696b2bd25fc86241853a889e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 16 |
-| **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/696b2288db26b618950eb0dc?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 16 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/696b21f3350cf43803127a0d?utm_campaign=1051&utm_source=git)** | Coconut Creek, FL | On Site | Jan 16 |
-| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (California) - Summer '26](https://jobright.ai/jobs/info/696b192c5fc86241853a7d6b?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Jan 16 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Summer 2026/Sales/CS](https://jobright.ai/jobs/info/696b0d23db26b618950e8754?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 16 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/696b09d9350cf43803124e22?utm_campaign=1051&utm_source=git)** | Camrose, Alberta, Canada | On Site | Jan 16 |
-| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Purchasing](https://jobright.ai/jobs/info/696af491350cf4380312307b?utm_campaign=1051&utm_source=git)** | Midland, MI | On Site | Jan 16 |
-| ↳ | **[2025-2026 Campus Internship - Purchasing](https://jobright.ai/jobs/info/696af58d5fc86241853a3ad4?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 16 |
-| **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Account Management Intern (Summer)](https://jobright.ai/jobs/info/694a07597d506e3808f52c24?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Jan 16 |
-| **[MoLo Solutions](https://shipmolo.com/)** | **[Intern, Carrier Sales](https://jobright.ai/jobs/info/696b04355fc86241853a4e3e?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 16 |
-| **[First Capital REIT](https://fcr.ca/)** | **[Real Estate Services Intern (Summer 2026)](https://jobright.ai/jobs/info/696afebedb26b618950e7410?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 16 |
-| **[LOFT](https://www.loft.com/)** | **[Spring Retail Management Internship](https://jobright.ai/jobs/info/696afde9db26b618950e730b?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Jan 16 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Technology - BizApps (May 2026)](https://jobright.ai/jobs/info/696622a87a34f5392054b4a8?utm_campaign=1051&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Jan 16 |
-| ↳ | **[Co-op or Intern, Technology - BizApps (May 2026)](https://jobright.ai/jobs/info/6965cb665ad3a93f82312a1f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 16 |
-| **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Sales Internship (Remote, US)](https://jobright.ai/jobs/info/696ae97d5fc86241853a2366?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | Jan 16 |
-| **[MoLo Solutions](https://shipmolo.com/)** | **[Intern, Carrier Sales](https://jobright.ai/jobs/info/696b0837350cf43803124c0a?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | Hybrid | Jan 16 |
-| **[Cambria](http://www.cambriausa.com)** | **[Sales Segment Management Intern](https://jobright.ai/jobs/info/696ae1f7350cf438031208fb?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Jan 16 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/696adef7350cf4380312057c?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 16 |
-| **[Farm Sanctuary](https://farmsanctuary.org)** | **[Intern, Hospitality and Retail](https://jobright.ai/jobs/info/69658b925ad3a93f8230d331?utm_campaign=1051&utm_source=git)** | Watkins Glen, NY | On Site | Jan 16 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship Summer 2026/Sales/CS](https://jobright.ai/jobs/info/696b06a9db26b618950e7f48?utm_campaign=1051&utm_source=git)** | US-TX-Dallas | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
