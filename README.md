@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qualcomm](http://www.qualcomm.com)** | **[Sales & Business Development Internship - Summer 2026](https://jobright.ai/jobs/info/6961d21ee7ed9a5731baa01c?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 17 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/696072cc7ebc25398eb669a4?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Jan 17 |
+| **[Belk](http://www.belk.com)** | **[Spring Intern: Sewing Down South Pop-Up Shop / Charleston, SC](https://jobright.ai/jobs/info/696b6eeedb26b618950efb8f?utm_campaign=1051&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Jan 17 |
+| **[Nucor Corporation](http://www.nucor.com)** | **[Sales Development Internship (Summer 2026)](https://jobright.ai/jobs/info/696b6e1f5fc86241853acdc3?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Jan 17 |
+| **[Camping World](https://investor.campingworld.com)** | **[Loyalty Operations Intern](https://jobright.ai/jobs/info/693e4d1849a7695fbd04922e?utm_campaign=1051&utm_source=git)** | Lincolnshire, IL | Hybrid | Jan 17 |
+| **[Blue Ventis](blueventis.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/696b6604350cf4380312c335?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 17 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Beef & Pork Sales Intern Summer 2026](https://jobright.ai/jobs/info/696b62195fc86241853acb49?utm_campaign=1051&utm_source=git)** | Springdale, AR | On Site | Jan 17 |
+| **[Tech Verses](techverses.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/696b5e895fc86241853ac9ed?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 17 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative](https://jobright.ai/jobs/info/696b5c46db26b618950ef41a?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Jan 17 |
+| **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Purina Farm & Ranch Feed Sales Intern](https://jobright.ai/jobs/info/696b5b05db26b618950ef3a8?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 17 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern, National Sales](https://jobright.ai/jobs/info/696b55ca350cf4380312b75e?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 17 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern (Volunteer)](https://jobright.ai/jobs/info/696b2bd25fc86241853a889e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 16 |
 | **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/696b2288db26b618950eb0dc?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 16 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sinco, Inc.](https://www.sinco-inc.com/)** | **[Culinary-Focused Foodservice Sales Internship](https://jobright.ai/jobs/info/696a82bedb26b618950dad6c?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Innovation Ventures Intern - Summer 2026](https://jobright.ai/jobs/info/696a7fc05fc8624185397d59?utm_campaign=1051&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | **[Sims Metal](http://www.simsmm.com)** | **[Buyer Intern](https://jobright.ai/jobs/info/696a7f425fc8624185397ce2?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jan 16 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern](https://jobright.ai/jobs/info/696a7e67350cf4380311725a?utm_campaign=1051&utm_source=git)** | Lincoln, NE | Hybrid | Jan 16 |
-| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Business Markets](https://jobright.ai/jobs/info/696a7cda5fc8624185397aba?utm_campaign=1051&utm_source=git)** | EDMONTON, Alberta, Canada | On Site | Jan 16 |
-| **[Otis Elevator Co.](http://www.otis.com/)** | **[Sales Intern - Las Vegas](https://jobright.ai/jobs/info/696a7b86350cf4380311703e?utm_campaign=1051&utm_source=git)** | OT336: SAL - LAS VEGAS, NV 711 Pilot Road, Suite D, LAS VEGAS, NV, 89119 USA | On Site | Jan 16 |
-| **[Magna International](http://www.magna.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/696a7b55db26b618950da9a4?utm_campaign=1051&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
-| **[Coveo](http://www.coveo.com)** | **[Business Development Intern, Summer 2026](https://jobright.ai/jobs/info/696a77c75fc8624185397801?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 16 |
-| **[Magna International](http://www.magna.com/)** | **[NA Sales Intern - Summer 2026](https://jobright.ai/jobs/info/696a77b3350cf43803116d69?utm_campaign=1051&utm_source=git)** | Southfield, Michigan, US | On Site | Jan 16 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Chicago North Suburbs](https://jobright.ai/jobs/info/696a7385db26b618950da4bb?utm_campaign=1051&utm_source=git)** | IL - Niles | On Site | Jan 16 |
-| ↳ | **[Retail Store Management Internship - Chicago North Suburbs](https://jobright.ai/jobs/info/696a73505fc86241853976ae?utm_campaign=1051&utm_source=git)** | IL - Evanston | On Site | Jan 16 |
-| ↳ | **[Retail Store Management Internship - Chicago North Suburbs](https://jobright.ai/jobs/info/696a732e350cf43803116b06?utm_campaign=1051&utm_source=git)** | IL - Wilmette | On Site | Jan 16 |
-| ↳ | **[Retail Store Management Internship - Chicago North Suburbs](https://jobright.ai/jobs/info/696a7118db26b618950da3ae?utm_campaign=1051&utm_source=git)** | IL - Northbrook | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
