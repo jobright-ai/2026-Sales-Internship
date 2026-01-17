@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern, National Sales](https://jobright.ai/jobs/info/696b55ca350cf4380312b75e?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 17 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern (Volunteer)](https://jobright.ai/jobs/info/696b2bd25fc86241853a889e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 16 |
 | **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/696b2288db26b618950eb0dc?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 16 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/696b21f3350cf43803127a0d?utm_campaign=1051&utm_source=git)** | Coconut Creek, FL | On Site | Jan 16 |
@@ -71,9 +72,9 @@ For a complete list, click the following sortable link below:
 | **[LOFT](https://www.loft.com/)** | **[Spring Retail Management Internship](https://jobright.ai/jobs/info/696afde9db26b618950e730b?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Jan 16 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Technology - BizApps (May 2026)](https://jobright.ai/jobs/info/696622a87a34f5392054b4a8?utm_campaign=1051&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Jan 16 |
 | ↳ | **[Co-op or Intern, Technology - BizApps (May 2026)](https://jobright.ai/jobs/info/6965cb665ad3a93f82312a1f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 16 |
+| **[Cambria](http://www.cambriausa.com)** | **[Sales Segment Management Intern](https://jobright.ai/jobs/info/696aebe3db26b618950e54f1?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Jan 16 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Sales Internship (Remote, US)](https://jobright.ai/jobs/info/696ae97d5fc86241853a2366?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | Jan 16 |
 | **[MoLo Solutions](https://shipmolo.com/)** | **[Intern, Carrier Sales](https://jobright.ai/jobs/info/696b0837350cf43803124c0a?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | Hybrid | Jan 16 |
-| **[Cambria](http://www.cambriausa.com)** | **[Sales Segment Management Intern](https://jobright.ai/jobs/info/696ae1f7350cf438031208fb?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Jan 16 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/696adef7350cf4380312057c?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | **[Farm Sanctuary](https://farmsanctuary.org)** | **[Intern, Hospitality and Retail](https://jobright.ai/jobs/info/69658b925ad3a93f8230d331?utm_campaign=1051&utm_source=git)** | Watkins Glen, NY | On Site | Jan 16 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship Summer 2026/Sales/CS](https://jobright.ai/jobs/info/696b06a9db26b618950e7f48?utm_campaign=1051&utm_source=git)** | US-TX-Dallas | On Site | Jan 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Store Management Internship - Chicago North Suburbs](https://jobright.ai/jobs/info/696a73505fc86241853976ae?utm_campaign=1051&utm_source=git)** | IL - Evanston | On Site | Jan 16 |
 | ↳ | **[Retail Store Management Internship - Chicago North Suburbs](https://jobright.ai/jobs/info/696a732e350cf43803116b06?utm_campaign=1051&utm_source=git)** | IL - Wilmette | On Site | Jan 16 |
 | ↳ | **[Retail Store Management Internship - Chicago North Suburbs](https://jobright.ai/jobs/info/696a7118db26b618950da3ae?utm_campaign=1051&utm_source=git)** | IL - Northbrook | On Site | Jan 16 |
-| ↳ | **[Retail Store Management Internship - Chicago North Suburbs](https://jobright.ai/jobs/info/696a71105fc86241853974e9?utm_campaign=1051&utm_source=git)** | IL - Mount Prospect | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
