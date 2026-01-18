@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marbella AI](marbellaai.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696c13a65fc86241853b4ac8?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 17 |
+| **[Fusion100](http://Fusion100co.com)** | **[Campus Sales Intern](https://jobright.ai/jobs/info/696c139c5fc86241853b4ac6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 17 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Consultative Sales Intern](https://jobright.ai/jobs/info/696c0fe6350cf43803134343?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | Remote | Jan 17 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader- Uniforms FT 6602](https://jobright.ai/jobs/info/696bffa2350cf4380313417b?utm_campaign=1051&utm_source=git)** | Yorktown, VA | On Site | Jan 17 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Spring 2026 Retail Management Internship - Auburn Village Mall](https://jobright.ai/jobs/info/696bf48edb26b618950f5c17?utm_campaign=1051&utm_source=git)** | Store 1530-Colonial University Villag-ANN-Auburn, AL 36830 | On Site | Jan 17 |
 | **[National Life Group](https://www.nationallife.com)** | **[Advanced Sales Internship - Summer 2026](https://jobright.ai/jobs/info/696bf366350cf43803132661?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Jan 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/69606fb9a112b402660f2e25?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Jan 17 |
 | ↳ | **[2026 Management and Sales Internship - San Antonio](https://jobright.ai/jobs/info/68c4ccd17279451d6a037c94?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 17 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Edwardsville, IL](https://jobright.ai/jobs/info/6933001c764507023d1b18fa?utm_campaign=1051&utm_source=git)** | Edwardsville, IL | On Site | Jan 17 |
-| **[Qualcomm](http://www.qualcomm.com)** | **[Sales & Business Development Internship - Summer 2026](https://jobright.ai/jobs/info/6961d21ee7ed9a5731baa01c?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 17 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/696072cc7ebc25398eb669a4?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Jan 17 |
-| **[Belk](http://www.belk.com)** | **[Spring Intern: Sewing Down South Pop-Up Shop / Charleston, SC](https://jobright.ai/jobs/info/696b6eeedb26b618950efb8f?utm_campaign=1051&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
