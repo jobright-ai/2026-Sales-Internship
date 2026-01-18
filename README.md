@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Arvento A](arventoa.us)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/696cf4125fc86241853c01a3?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 18 |
+| **[A Tiger Cub](https://atigercub.com)** | **[Revenue and Partnerships Lead](https://jobright.ai/jobs/info/696d1c24350cf43803141a0b?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 18 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696d19be5fc86241853c1de6?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 18 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Client Services & Sales Intern](https://jobright.ai/jobs/info/696d0919350cf4380313ff22?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Jan 18 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - National Security Partnerships & Business Development, Onsite](https://jobright.ai/jobs/info/6969a53f639b452fb57f963d?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Jan 18 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Sales Intern – Summer 2026Business Graduates](https://jobright.ai/jobs/info/696d0508db26b61895102c4e?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jan 18 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Management Program Associates](https://jobright.ai/jobs/info/696d04ef5fc86241853c0325?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Jan 18 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Spring Retail Management Internship](https://jobright.ai/jobs/info/696cf11c5fc86241853c0189?utm_campaign=1051&utm_source=git)** | Bluffton, SC | On Site | Jan 18 |
 | **[Propio Language Services](http://propio-ls.com)** | **[Post-Sales Client Onboarding Intern](https://jobright.ai/jobs/info/6961b9bfe7ed9a5731ba8dce?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Jan 18 |
 | **[H15DEN](https://h15den.com)** | **[User Acquisition & BD - Micro Internship](https://jobright.ai/jobs/info/696ce6a1db26b61895102844?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 18 |
@@ -74,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Jr. Executive Sales Intern - Stamford](https://jobright.ai/jobs/info/68c1ece04d652f044775bbb0?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a5f5f131d96e48465769?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Jan 18 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/691d3a827481340785ed50da?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Jan 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933cbebf131d96e48467243?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jan 18 |
-| ↳ | **[Spring 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/68ddd9c1a125e75c422af518?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | Jan 18 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/68ddd9c1a125e75c422af518?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | Jan 18 |
+| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933cbebf131d96e48467243?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jan 18 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/6933baf6f131d96e484667e5?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Jan 18 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Partnerships Manager Intern](https://jobright.ai/jobs/info/696cdb345fc86241853bf847?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8acca125e75c422abdfd?utm_campaign=1051&utm_source=git)** | Rainbow City, AL | On Site | Jan 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Milwaukee](https://jobright.ai/jobs/info/68c1ed894d652f044775bc2c?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/693d1dfaaa598a08c3eddce6?utm_campaign=1051&utm_source=git)** | Research Park, CA | Hybrid | Jan 17 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/68c1efd163b706703e110630?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 17 |
-| ↳ | **[Summer Jr. Executive Sales Intern - New Orleans](https://jobright.ai/jobs/info/68c1ec044d652f044775baee?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Jan 17 |
-| **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Reno Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/691624086f36db06ef053367?utm_campaign=1051&utm_source=git)** | Reno, NV | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69677974f25a38006695d9a7?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | On Site | Jan 17 |
-| ↳ | **[Subscription and Annuity Representative Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69335a00f131d96e484625cb?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
-| ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/693358d8f131d96e484624b2?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
