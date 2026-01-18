@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoPatible](https://copatible.com)** | **[Community Partnerships & In Person Events Intern](https://jobright.ai/jobs/info/696c50fc5fc86241853b75c8?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Jan 17 |
+| **[LOFT](https://www.loft.com/)** | **[Spring 2026 Retail Management Internship - Auburn Village Mall](https://jobright.ai/jobs/info/696c4ada5fc86241853b748a?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Jan 17 |
+| **[Fresco (YC F24)](https://fresco-ai.com/)** | **[SDR Intern](https://jobright.ai/jobs/info/696c3f445fc86241853b6f62?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
 | **[Velastra](velastra.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/696c3ba35fc86241853b6ea0?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Fresco (YC F24)](https://fresco-ai.com/)** | **[SDR Intern](https://jobright.ai/jobs/info/696c3550db26b618950f8e15?utm_campaign=1051&utm_source=git)** | San Francisco, CA, US | On Site | Jan 17 |
 | **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/696c29505fc86241853b55fa?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 17 |
 | **[Marbella AI](marbellaai.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696c13a65fc86241853b4ac8?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 17 |
-| **[Fusion100](http://Fusion100co.com)** | **[Campus Sales Intern](https://jobright.ai/jobs/info/696c139c5fc86241853b4ac6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Consultative Sales Intern](https://jobright.ai/jobs/info/696c0fe6350cf43803134343?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | Remote | Jan 17 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader- Uniforms FT 6602](https://jobright.ai/jobs/info/696bffa2350cf4380313417b?utm_campaign=1051&utm_source=git)** | Yorktown, VA | On Site | Jan 17 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Spring 2026 Retail Management Internship - Auburn Village Mall](https://jobright.ai/jobs/info/696bf48edb26b618950f5c17?utm_campaign=1051&utm_source=git)** | Store 1530-Colonial University Villag-ANN-Auburn, AL 36830 | On Site | Jan 17 |
@@ -137,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Sales Strategy & Ops](https://jobright.ai/jobs/info/69336c29764507023d1b5776?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Jan 17 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Murfreesboro, TN](https://jobright.ai/jobs/info/6932fa56764507023d1b16a9?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Jan 17 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2026)](https://jobright.ai/jobs/info/68df07f15ab4977c2e94ca94?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Jan 17 |
+| **[IBM](http://www.ibm.com)** | **[Technology Lifecycle Services Renewals Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/693369e8a0dde7020e2edac7?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | On Site | Jan 17 |
 | **[Contingenci® by Good Human LLC](http://www.contingenci.com)** | **[Medical Sales Internship (Veterinary) / High Commission + Mentorship](https://jobright.ai/jobs/info/696b99bddb26b618950f23dc?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jan 17 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Offsite (Nashville)](https://jobright.ai/jobs/info/6933388da0dde7020e2eb868?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jan 17 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Muncie, IN](https://jobright.ai/jobs/info/693302bbf131d96e4845f2b5?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Jan 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933741af131d96e4846382b?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jan 17 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Ann Arbor, MI](https://jobright.ai/jobs/info/6932f323764507023d1b1423?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Jan 17 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Seattle](https://jobright.ai/jobs/info/69338c0ca0dde7020e2ef0e9?utm_campaign=1051&utm_source=git)** | Seattle, WA | Hybrid | Jan 17 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Minneapolis, MN](https://jobright.ai/jobs/info/6932f17a764507023d1b1376?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 17 |
-| ↳ | **[Student Housing Operations Intern - Sunderland, MA](https://jobright.ai/jobs/info/6932fcc2f131d96e4845f04b?utm_campaign=1051&utm_source=git)** | Sunderland, MA | On Site | Jan 17 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship - Texas Coast](https://jobright.ai/jobs/info/68ccf53e77add66568abc935?utm_campaign=1051&utm_source=git)** | Beaumont, TX | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
