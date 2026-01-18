@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vertiv](https://www.Vertiv.com)** | **[Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/696c9835350cf4380313ba0d?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 18 |
 | **[Smart Bricks](https://www.smart-bricks.com/)** | **[MBA Intern – Founder’s Office (US Expansion)](https://jobright.ai/jobs/info/696c8a29db26b618950fd936?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Jan 17 |
 | **[CoPatible](https://copatible.com)** | **[Community Partnerships & In Person Events Intern](https://jobright.ai/jobs/info/696c50fc5fc86241853b75c8?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Jan 17 |
 | **[LOFT](https://www.loft.com/)** | **[Spring 2026 Retail Management Internship - Auburn Village Mall](https://jobright.ai/jobs/info/696c4ada5fc86241853b748a?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Jan 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69333a5ca0dde7020e2eb9c9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 17 |
 | ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/693370fba0dde7020e2ee0cd?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Jan 17 |
 | ↳ | **[Digital Seller Intern– Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933719fa0dde7020e2ee144?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 17 |
-| ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933741af131d96e4846382b?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
