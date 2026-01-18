@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern (Franchise)](https://jobright.ai/jobs/info/6934420a764507023d1bc7d0?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Jan 18 |
+| **[STO Building Group](https://stobuildinggroup.com)** | **[Intern - MV](https://jobright.ai/jobs/info/6917f03145fb6f5ead8a00ac?utm_campaign=1051&utm_source=git)** | Mountain View, CA | Hybrid | Jan 18 |
+| **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6967612af25a38006695c521?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 18 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/696c9835350cf4380313ba0d?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 18 |
 | **[Smart Bricks](https://www.smart-bricks.com/)** | **[MBA Intern – Founder’s Office (US Expansion)](https://jobright.ai/jobs/info/696c8a29db26b618950fd936?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Jan 17 |
 | **[CoPatible](https://copatible.com)** | **[Community Partnerships & In Person Events Intern](https://jobright.ai/jobs/info/696c50fc5fc86241853b75c8?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Jan 17 |
@@ -78,10 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Insurance sales Intern](https://jobright.ai/jobs/info/696bbb7b5fc86241853b096d?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Inpro](http://inpro.co.kr)** | **[Sales Intern](https://jobright.ai/jobs/info/696bbb5d5fc86241853b06f7?utm_campaign=1051&utm_source=git)** | Muskego, WI | On Site | Jan 17 |
 | **[Orbient 24](orbient24.us)** | **[Insurance Sales Intern](https://jobright.ai/jobs/info/696bb84d350cf4380312fa23?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jan 17 |
-| **[Fusionpact Technologies Inc](https://www.fusionpact.com)** | **[Business Development Intern: AI/ML & Agentic Solutions](https://jobright.ai/jobs/info/696bb070db26b618950f2c79?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Arvento A](arventoa.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/696bb068db26b618950f2c77?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jan 17 |
 | **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/696b9f66350cf4380312f37c?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 17 |
-| **[H15DEN](https://h15den.com)** | **[User Acquisition and BD Internship](https://jobright.ai/jobs/info/696b9dcd350cf4380312f252?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 17 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/696b9995db26b618950f23ba?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Austin, Summer 2026](https://jobright.ai/jobs/info/68df18e35ab4977c2e950062?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 17 |
 | **[SWBC](https://www.swbc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd8beea125e75c422ac0aa?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/691840e315b4156367180813?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69333a5ca0dde7020e2eb9c9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 17 |
 | ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/693370fba0dde7020e2ee0cd?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Jan 17 |
-| ↳ | **[Digital Seller Intern– Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933719fa0dde7020e2ee144?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
