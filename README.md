@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Velastra](velastra.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/696c3ba35fc86241853b6ea0?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 17 |
+| **[Fresco (YC F24)](https://fresco-ai.com/)** | **[SDR Intern](https://jobright.ai/jobs/info/696c3550db26b618950f8e15?utm_campaign=1051&utm_source=git)** | San Francisco, CA, US | On Site | Jan 17 |
+| **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/696c29505fc86241853b55fa?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 17 |
 | **[Marbella AI](marbellaai.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696c13a65fc86241853b4ac8?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 17 |
 | **[Fusion100](http://Fusion100co.com)** | **[Campus Sales Intern](https://jobright.ai/jobs/info/696c139c5fc86241853b4ac6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Consultative Sales Intern](https://jobright.ai/jobs/info/696c0fe6350cf43803134343?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | Remote | Jan 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Minneapolis, MN](https://jobright.ai/jobs/info/6932f17a764507023d1b1376?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 17 |
 | ↳ | **[Student Housing Operations Intern - Sunderland, MA](https://jobright.ai/jobs/info/6932fcc2f131d96e4845f04b?utm_campaign=1051&utm_source=git)** | Sunderland, MA | On Site | Jan 17 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship - Texas Coast](https://jobright.ai/jobs/info/68ccf53e77add66568abc935?utm_campaign=1051&utm_source=git)** | Beaumont, TX | On Site | Jan 17 |
-| ↳ | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/69606fb9a112b402660f2e25?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Jan 17 |
-| ↳ | **[2026 Management and Sales Internship - San Antonio](https://jobright.ai/jobs/info/68c4ccd17279451d6a037c94?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 17 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Edwardsville, IL](https://jobright.ai/jobs/info/6933001c764507023d1b18fa?utm_campaign=1051&utm_source=git)** | Edwardsville, IL | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
