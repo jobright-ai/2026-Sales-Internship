@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H15DEN](https://h15den.com)** | **[User Acquisition & BD - Micro-Internship](https://jobright.ai/jobs/info/696d37a05fc86241853c26de?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 18 |
 | **[A Tiger Cub](https://atigercub.com)** | **[Revenue and Partnerships Lead](https://jobright.ai/jobs/info/696d1c24350cf43803141a0b?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 18 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696d19be5fc86241853c1de6?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 18 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Client Services & Sales Intern](https://jobright.ai/jobs/info/696d0919350cf4380313ff22?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Jan 18 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Management Program Associates](https://jobright.ai/jobs/info/696d04ef5fc86241853c0325?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Jan 18 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Spring Retail Management Internship](https://jobright.ai/jobs/info/696cf11c5fc86241853c0189?utm_campaign=1051&utm_source=git)** | Bluffton, SC | On Site | Jan 18 |
 | **[Propio Language Services](http://propio-ls.com)** | **[Post-Sales Client Onboarding Intern](https://jobright.ai/jobs/info/6961b9bfe7ed9a5731ba8dce?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Jan 18 |
-| **[H15DEN](https://h15den.com)** | **[User Acquisition & BD - Micro Internship](https://jobright.ai/jobs/info/696ce6a1db26b61895102844?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 18 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Seattle](https://jobright.ai/jobs/info/68c1edf963b706703e110423?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Fairbanks](https://jobright.ai/jobs/info/68ddd9da09bda65a4b62479f?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | On Site | Jan 18 |
 | **[Global Business Development Association (GBDA)](https://www.gbdassociation.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/696ce06adb26b618951024d3?utm_campaign=1051&utm_source=git)** | SD Metro Area | Remote | Jan 18 |
@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Jr. Executive Sales Intern - Stamford](https://jobright.ai/jobs/info/68c1ece04d652f044775bbb0?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a5f5f131d96e48465769?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Jan 18 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/691d3a827481340785ed50da?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Jan 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/68ddd9c1a125e75c422af518?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | Jan 18 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933cbebf131d96e48467243?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jan 18 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933cbebf131d96e48467243?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jan 18 |
+| ↳ | **[Spring 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/68ddd9c1a125e75c422af518?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | Jan 18 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/6933baf6f131d96e484667e5?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Jan 18 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Partnerships Manager Intern](https://jobright.ai/jobs/info/696cdb345fc86241853bf847?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8acca125e75c422abdfd?utm_campaign=1051&utm_source=git)** | Rainbow City, AL | On Site | Jan 18 |
@@ -123,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[MetalTek International](https://www.metaltek.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/696bcda7350cf43803131655?utm_campaign=1051&utm_source=git)** | Watertown, WI | On Site | Jan 17 |
 | **[Moxie Pest Control](https://www.moxieservices.com)** | **[Door to Door Sales Representative (Summer 2026)](https://jobright.ai/jobs/info/696bdd5cdb26b618950f4c07?utm_campaign=1051&utm_source=git)** | Bentonville, AR | On Site | Jan 17 |
 | **[Nautical Boat Club of Lake Murray, SC](https://nauticalboatclub.com/irmo-lake-murray/)** | **[Sales Intern](https://jobright.ai/jobs/info/696bc3c4db26b618950f479c?utm_campaign=1051&utm_source=git)** | Irmo, SC | On Site | Jan 17 |
-| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Insurance sales Intern](https://jobright.ai/jobs/info/696bbb7b5fc86241853b096d?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Inpro](http://inpro.co.kr)** | **[Sales Intern](https://jobright.ai/jobs/info/696bbb5d5fc86241853b06f7?utm_campaign=1051&utm_source=git)** | Muskego, WI | On Site | Jan 17 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/696b9995db26b618950f23ba?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Austin, Summer 2026](https://jobright.ai/jobs/info/68df18e35ab4977c2e950062?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Milwaukee](https://jobright.ai/jobs/info/68c1ed894d652f044775bc2c?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/693d1dfaaa598a08c3eddce6?utm_campaign=1051&utm_source=git)** | Research Park, CA | Hybrid | Jan 17 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/68c1efd163b706703e110630?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 17 |
+| ↳ | **[Summer Jr. Executive Sales Intern - New Orleans](https://jobright.ai/jobs/info/68c1ec044d652f044775baee?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
