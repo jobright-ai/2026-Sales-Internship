@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Fleet & Alternate Sales Summer (STAR) Intern](https://jobright.ai/jobs/info/696dc3ccdb26b6189510c3e6?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 18 |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - Great Lakes Region](https://jobright.ai/jobs/info/696dbbd15fc86241853c95f2?utm_campaign=1051&utm_source=git)** | Hamilton County, OH | Hybrid | Jan 18 |
+| **[E3A Healthcare Pte Ltd](https://www.e3ahealth.com)** | **[Business Development Associate (Intern)](https://jobright.ai/jobs/info/696daca05fc86241853c7611?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 18 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/696d8f8f5fc86241853c687a?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jan 18 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Student Sales Development Program](https://jobright.ai/jobs/info/696d82555fc86241853c6184?utm_campaign=1051&utm_source=git)** | Barrie, Ontario, Canada | On Site | Jan 18 |
 | **[NAI Sioux Falls](https://www.siouxfallscommercial.com)** | **[Commercial Broker Summer Intern](https://jobright.ai/jobs/info/696d7afb350cf438031442ca?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Jan 18 |
@@ -117,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Propio Language Services](http://propio-ls.com)** | **[Post-Sales Client Onboarding Intern](https://jobright.ai/jobs/info/6961b9bfe7ed9a5731ba8dce?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Jan 18 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Seattle](https://jobright.ai/jobs/info/68c1edf963b706703e110423?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Fairbanks](https://jobright.ai/jobs/info/68ddd9da09bda65a4b62479f?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | On Site | Jan 18 |
+| **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd964044d32141e0bf8989?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 18 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Kansas City](https://jobright.ai/jobs/info/68c1ef5363b706703e110576?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8bde44d32141e0bf7eda?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Jan 18 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Las Vegas](https://jobright.ai/jobs/info/68c1efe763b706703e11064a?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Jan 18 |
@@ -138,7 +142,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Kennewick](https://jobright.ai/jobs/info/68ddda34a125e75c422af617?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Jan 18 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Providence](https://jobright.ai/jobs/info/68c1f02c33864f172f9bbc6d?utm_campaign=1051&utm_source=git)** | Providence, RI | Hybrid | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68df2d0b6be63b6ec996cd76?utm_campaign=1051&utm_source=git)** | Panama City, FL | On Site | Jan 18 |
-| **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd9750a125e75c422acefd?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 18 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Chicago, Summer 2026](https://jobright.ai/jobs/info/68df1a616be63b6ec996bc2d?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Truck Rental Sales Account Specialist Internship - Pasco](https://jobright.ai/jobs/info/6933e8fe764507023d1baa39?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Jan 18 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/6933abe9764507023d1b7f69?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jan 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6967612af25a38006695c521?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 18 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/696c9835350cf4380313ba0d?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 18 |
 | **[Smart Bricks](https://www.smart-bricks.com/)** | **[MBA Intern – Founder’s Office (US Expansion)](https://jobright.ai/jobs/info/696c8a29db26b618950fd936?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Jan 17 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Technical Sales Intern - Equipment (Remote)](https://jobright.ai/jobs/info/696da7ffdb26b61895109b07?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 17 |
-| **[LOFT](https://www.loft.com/)** | **[Spring 2026 Retail Management Internship - Auburn Village Mall](https://jobright.ai/jobs/info/696c4ada5fc86241853b748a?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Jan 17 |
-| **[Fresco (YC F24)](https://fresco-ai.com/)** | **[SDR Intern](https://jobright.ai/jobs/info/696c3f445fc86241853b6f62?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
