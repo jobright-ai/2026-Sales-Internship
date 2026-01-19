@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/696d8f8f5fc86241853c687a?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jan 18 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Student Sales Development Program](https://jobright.ai/jobs/info/696d82555fc86241853c6184?utm_campaign=1051&utm_source=git)** | Barrie, Ontario, Canada | On Site | Jan 18 |
 | **[NAI Sioux Falls](https://www.siouxfallscommercial.com)** | **[Commercial Broker Summer Intern](https://jobright.ai/jobs/info/696d7afb350cf438031442ca?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Jan 18 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Sales Internship - Mountain](https://jobright.ai/jobs/info/696d6bca5fc86241853c457e?utm_campaign=1051&utm_source=git)** | Midvale, UT | On Site | Jan 18 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d4ad4350cf43803143f0a?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | Jan 18 |
 | **[ASTM International](http://www.astm.org)** | **[Intern, Business Development, Sales & Finance](https://jobright.ai/jobs/info/696d3f18350cf4380314238f?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 18 |
 | **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Wealth Advisor Intern](https://jobright.ai/jobs/info/696d3e2a350cf4380314234e?utm_campaign=1051&utm_source=git)** | Greenwich, CT | Hybrid | Jan 18 |
-| **[A Tiger Cub](https://atigercub.com)** | **[Revenue and Partnerships Lead](https://jobright.ai/jobs/info/696d1c24350cf43803141a0b?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 18 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696d19be5fc86241853c1de6?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 18 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Client Services & Sales Intern](https://jobright.ai/jobs/info/696d0919350cf4380313ff22?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Jan 18 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - National Security Partnerships & Business Development, Onsite](https://jobright.ai/jobs/info/6969a53f639b452fb57f963d?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Jan 18 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6967612af25a38006695c521?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 18 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/696c9835350cf4380313ba0d?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 18 |
 | **[Smart Bricks](https://www.smart-bricks.com/)** | **[MBA Intern – Founder’s Office (US Expansion)](https://jobright.ai/jobs/info/696c8a29db26b618950fd936?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Jan 17 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Technical Sales Intern - Equipment (Remote)](https://jobright.ai/jobs/info/696da7ffdb26b61895109b07?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 17 |
 | **[LOFT](https://www.loft.com/)** | **[Spring 2026 Retail Management Internship - Auburn Village Mall](https://jobright.ai/jobs/info/696c4ada5fc86241853b748a?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Jan 17 |
 | **[Fresco (YC F24)](https://fresco-ai.com/)** | **[SDR Intern](https://jobright.ai/jobs/info/696c3f445fc86241853b6f62?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
-| **[Velastra](velastra.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/696c3ba35fc86241853b6ea0?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
