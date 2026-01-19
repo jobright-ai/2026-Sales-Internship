@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696ea2f4350cf43803156a76?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Jan 19 |
+| **[Swimmingly®](https://swimmingly.app)** | **[Customer Success Intern - Summer](https://jobright.ai/jobs/info/696e9c6adb26b618951183f0?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 19 |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Associate](https://jobright.ai/jobs/info/696e985b350cf43803155450?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 19 |
+| **[NVR, Inc.](http://www.nvrinc.com)** | **[Campus - Mortgage Hedging & Trading Summer Intern](https://jobright.ai/jobs/info/696e924f5fc86241853d49c3?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | Jan 19 |
+| **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Summer Intern, Sales](https://jobright.ai/jobs/info/696e8d3edb26b61895116a97?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
+| **[Billy.Social](http://billy.social)** | **[STAGE - coordonateur.trice expérience-client](https://jobright.ai/jobs/info/696e8b1adb26b6189511682f?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 19 |
 | **[Alta Marketing](https://www.sellalta.com)** | **[Door to Door Sales and Marketing Internship](https://jobright.ai/jobs/info/696e8912350cf43803153fdc?utm_campaign=1051&utm_source=git)** | Corvallis, OR | On Site | Jan 19 |
 | **[Fortis M&A Partners](https://www.fortisma.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696e84fa5fc86241853d3d2c?utm_campaign=1051&utm_source=git)** | Greater Indianapolis | On Site | Jan 19 |
 | **[Speech4ALL Health Tech](https://www.linkedin.com/company/97220495)** | **[Sales & Growth Intern](https://jobright.ai/jobs/info/696e7be9350cf4380315357c?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jan 19 |
@@ -125,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d58735fc86241853c43e2?utm_campaign=1051&utm_source=git)** | Missouri, United States | Remote | Jan 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d586edb26b61895106bd8?utm_campaign=1051&utm_source=git)** | New Jersey, United States | Remote | Jan 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d586cdb26b61895106bd7?utm_campaign=1051&utm_source=git)** | North Dakota, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d5865db26b61895106bd6?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Jan 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d58655fc86241853c43df?utm_campaign=1051&utm_source=git)** | Maine, United States | Remote | Jan 18 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d5865db26b61895106bd6?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Jan 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d58625fc86241853c43dd?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | Jan 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d5860350cf43803144044?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | Jan 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d5860350cf43803144045?utm_campaign=1051&utm_source=git)** | New Mexico, United States | Remote | Jan 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d4e9d350cf43803143f7d?utm_campaign=1051&utm_source=git)** | Nevada, United States | Remote | Jan 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d4c095fc86241853c42f4?utm_campaign=1051&utm_source=git)** | Iowa, United States | Remote | Jan 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d4bf15fc86241853c42ed?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d4be8350cf43803143f5c?utm_campaign=1051&utm_source=git)** | Arkansas, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d4be3350cf43803143f58?utm_campaign=1051&utm_source=git)** | Kansas, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d4bd4db26b61895106ac3?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d4bd05fc86241853c42e3?utm_campaign=1051&utm_source=git)** | Alaska, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d4bcd350cf43803143f52?utm_campaign=1051&utm_source=git)** | Maryland, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d4bc0350cf43803143f4f?utm_campaign=1051&utm_source=git)** | Delaware, United States | Remote | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
