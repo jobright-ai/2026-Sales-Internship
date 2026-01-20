@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Transwestern](https://transwestern.com)** | **[Brokerage Summer Intern - Miami](https://jobright.ai/jobs/info/69372ff7a0dde7020e2ffbc4?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 20 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - El Paso, TX](https://jobright.ai/jobs/info/696f68f23ed06875134a57f8?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Jan 20 |
+| **[Transwestern](https://transwestern.com)** | **[Brokerage Summer Intern - Houston](https://jobright.ai/jobs/info/6937304da0dde7020e2ffc07?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 20 |
+| ↳ | **[Brokerage Summer Intern - Phoenix](https://jobright.ai/jobs/info/69372167a0dde7020e2ff3c5?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 20 |
+| ↳ | **[Commercial Real Estate Summer Intern - Atlanta](https://jobright.ai/jobs/info/69372a50aabec14a727c499f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
+| **[NiCE](http://nice.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6936dffba0dde7020e2fd93d?utm_campaign=1051&utm_source=git)** | Sandy, UT | Hybrid | Jan 20 |
+| **[Transwestern](https://transwestern.com)** | **[Brokerage Summer Intern - Austin](https://jobright.ai/jobs/info/69373464aabec14a727c5093?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 20 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Partnership Intern - (TikTok Shop - Global Selling) - 2026 Summer(BS/MS))](https://jobright.ai/jobs/info/69671d77f25a380066957bb3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
+| **[Hudson Pacific Properties](http://hudsonpacificproperties.com)** | **[2026 NextGen Summer Internship - Leasing - Los Angeles](https://jobright.ai/jobs/info/6944d3b450bbaf765056e3b3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer- Relationship Manager Student Intern, Commercial Financial Services](https://jobright.ai/jobs/info/696f59c80f4e0f657ea3b513?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 20 |
 | **[Chosen Ones, LLC](https://www.linkedin.com/company/108762149)** | **[Startup Intern / Apprentice – Product, Operations & Business Development (Cortexel LLC)](https://jobright.ai/jobs/info/696f2c4582817106e9764a37?utm_campaign=1051&utm_source=git)** | San Antonio, TX | Hybrid | Jan 19 |
 | **[Tech Verses](techverses.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/696f22a482817106e97647ce?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 19 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vans, Sales Performance Management Summer (STAR) Intern](https://jobright.ai/jobs/info/696f16040f4e0f657ea38488?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 19 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Oklahoma City District)](https://jobright.ai/jobs/info/6942fb36dd382f5f5668f21c?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Jan 19 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c417c214bb275ce0190e90?utm_campaign=1051&utm_source=git)** | Miles City, MT | On Site | Jan 19 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - East Texas](https://jobright.ai/jobs/info/68f4843d76a51a4307bd1f82?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Jan 19 |
-| ↳ | **[2026 Management and Sales Summer Internship (Northern Michigan)](https://jobright.ai/jobs/info/696e1ba75fc86241853cdd48?utm_campaign=1051&utm_source=git)** | Flushing, MI | On Site | Jan 19 |
-| ↳ | **[2026 Management and Sales Summer Internship (Madison)](https://jobright.ai/jobs/info/696e1b97350cf4380314db18?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Jan 19 |
-| ↳ | **[2026 Management and Sales Summer Internship (Detroit)](https://jobright.ai/jobs/info/696e1b625fc86241853cdcae?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Jan 19 |
-| ↳ | **[2026 Management and Sales Intern - Valley District](https://jobright.ai/jobs/info/6955cc75f1f8465b79ecafef?utm_campaign=1051&utm_source=git)** | Mission, TX | On Site | Jan 19 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c924f9a0c52d598ea36263?utm_campaign=1051&utm_source=git)** | Kalispell, MT | On Site | Jan 19 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship - Houston](https://jobright.ai/jobs/info/6956018f9f1b381eb26f3b64?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 19 |
-| ↳ | **[2026 Management & Sales Intern - Mid-Texas](https://jobright.ai/jobs/info/696e1b2c350cf4380314db0e?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Jan 19 |
-| ↳ | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/696072d37ebc25398eb669ac?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Jan 19 |
-| ↳ | **[2026 Management & Sales Intern - Texarkana](https://jobright.ai/jobs/info/68c47a89e396b25cb5c686ee?utm_campaign=1051&utm_source=git)** | Bossier City, LA | On Site | Jan 19 |
-| ↳ | **[Management and Sales Summer 2026 Internship (Mid Kansas District)](https://jobright.ai/jobs/info/68e047e71852e62f007e9ae7?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
