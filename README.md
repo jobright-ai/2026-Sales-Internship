@@ -57,14 +57,35 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Louisville, KY (Starting Summer 2026)](https://jobright.ai/jobs/info/696ebe06350cf4380315a83a?utm_campaign=1051&utm_source=git)** | 8210 Renaissance Pkwy, Durham,NC 27713-6688 | On Site | Jan 19 |
+| **[GenAIx](https://genaix.org)** | **[GTM/Sales Intern](https://jobright.ai/jobs/info/696ebd92db26b6189511cda9?utm_campaign=1051&utm_source=git)** | United States | On Site | Jan 19 |
+| **[GSD&M](http://www.gsdm.com)** | **[Account Leadership Intern](https://jobright.ai/jobs/info/696ebbeb350cf4380315a1a9?utm_campaign=1051&utm_source=git)** | Austin | Hybrid | Jan 19 |
+| **[Baldor Specialty Foods, Inc.](https://www.baldorfood.com)** | **[Intern- Sales](https://jobright.ai/jobs/info/696ebb3e5fc86241853da364?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jan 19 |
+| **[Boomi](https://boomi.com/)** | **[Sales Development Representative Summer Intern](https://jobright.ai/jobs/info/696ebb175fc86241853da2db?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jan 19 |
+| **[GSD&M](http://www.gsdm.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/696ebaf85fc86241853da26f?utm_campaign=1051&utm_source=git)** | Austin | Hybrid | Jan 19 |
+| **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696eb97c350cf43803159a7f?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jan 19 |
+| **[RBC](https://www.rbc.com)** | **[Commercial Banking Advisor Intern](https://jobright.ai/jobs/info/696eb8c0db26b6189511bf3b?utm_campaign=1051&utm_source=git)** | 19888 WILLOWBROOK DR:LANGLEY | On Site | Jan 19 |
+| **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/695c3ab222c9dc0d3d54195c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 19 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Louisville, KY (Starting Summer 2026)](https://jobright.ai/jobs/info/696eb7f5350cf43803159593?utm_campaign=1051&utm_source=git)** | 3600 Mall Rd, Louisville,KY 40218-5403 | On Site | Jan 19 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Men's Buying Internship (Summer 2026)](https://jobright.ai/jobs/info/696eb7e4350cf43803159573?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Jan 19 |
+| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/696eb2c85fc86241853d8d91?utm_campaign=1051&utm_source=git)** | Cape Breton, Nova Scotia, Canada | On Site | Jan 19 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Charlotte](https://jobright.ai/jobs/info/696eb0825fc86241853d8ae3?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 19 |
+| **[RBC](https://www.rbc.com)** | **[Summer 2026 - Relationship Manager Student Intern, Commercial Financial Services- EN](https://jobright.ai/jobs/info/696eaf6c350cf438031585ad?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 19 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/696eae87350cf438031583c9?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 19 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/696eabed350cf43803157dcc?utm_campaign=1051&utm_source=git)** | Stephenville, Newfoundland and Labrador, Canada | On Site | Jan 19 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/696eab67350cf43803157cce?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jan 19 |
+| **[Crest Vale](crestvale.us)** | **[Trading Associate](https://jobright.ai/jobs/info/696eab01350cf43803157bee?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 19 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/696eaa1c350cf438031579a2?utm_campaign=1051&utm_source=git)** | Collingwood, Ontario, Canada | On Site | Jan 19 |
+| **[NVR, Inc.](http://www.nvrinc.com)** | **[Campus - Mortgage Hedging & Trading Summer Intern](https://jobright.ai/jobs/info/696e924f5fc86241853d49c3?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | Jan 19 |
+| **[Abbott](https://www.abbott.com)** | **[Abbott Nutrition Consumer Sales Internship Summer 2026](https://jobright.ai/jobs/info/696ea894350cf43803157640?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 19 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/696ea78adb26b61895119bcf?utm_campaign=1051&utm_source=git)** | Kingston, Ontario, Canada | On Site | Jan 19 |
+| ↳ | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/696ea6c1db26b618951199dc?utm_campaign=1051&utm_source=git)** | Selwyn, Ontario, Canada | On Site | Jan 19 |
 | **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696ea2f4350cf43803156a76?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Jan 19 |
 | **[Swimmingly®](https://swimmingly.app)** | **[Customer Success Intern - Summer](https://jobright.ai/jobs/info/696e9c6adb26b618951183f0?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 19 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Associate](https://jobright.ai/jobs/info/696e985b350cf43803155450?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 19 |
-| **[NVR, Inc.](http://www.nvrinc.com)** | **[Campus - Mortgage Hedging & Trading Summer Intern](https://jobright.ai/jobs/info/696e924f5fc86241853d49c3?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | Jan 19 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Summer Intern, Sales](https://jobright.ai/jobs/info/696e8d3edb26b61895116a97?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
 | **[Billy.Social](http://billy.social)** | **[STAGE - coordonateur.trice expérience-client](https://jobright.ai/jobs/info/696e8b1adb26b6189511682f?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 19 |
 | **[Alta Marketing](https://www.sellalta.com)** | **[Door to Door Sales and Marketing Internship](https://jobright.ai/jobs/info/696e8912350cf43803153fdc?utm_campaign=1051&utm_source=git)** | Corvallis, OR | On Site | Jan 19 |
-| **[Fortis M&A Partners](https://www.fortisma.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696e84fa5fc86241853d3d2c?utm_campaign=1051&utm_source=git)** | Greater Indianapolis | On Site | Jan 19 |
 | **[Speech4ALL Health Tech](https://www.linkedin.com/company/97220495)** | **[Sales & Growth Intern](https://jobright.ai/jobs/info/696e7be9350cf4380315357c?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jan 19 |
 | **[Cognitia AI](https://www.cognitia-ai.com)** | **[Founder's Associate Intern](https://jobright.ai/jobs/info/696e6fad350cf438031531ba?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 19 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6969ee9bf25a38006698b197?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Jan 19 |
@@ -85,7 +106,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Affinity Market Group Sales Enablement Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/69524248f1f8465b79e9970f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
 | ↳ | **[Account Manager Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/69524299935649778e200e6c?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 19 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Technical Sales Summer 2026 Internship](https://jobright.ai/jobs/info/69457d0863141d1884550845?utm_campaign=1051&utm_source=git)** | Euclid, OH | On Site | Jan 19 |
-| **[Veltrana Group](veltranagroup.us)** | **[Sales internship pacific](https://jobright.ai/jobs/info/696e33fc5fc86241853d0410?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 19 |
 | **[Veritiv](https://www.veritiv.com)** | **[Pricing Analyst Intern](https://jobright.ai/jobs/info/68e0422bf758fe1f97e4bb4b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 19 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Spring Internship 2026 - Planning & Allocation](https://jobright.ai/jobs/info/693695daa0dde7020e2fc784?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 19 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Sales/Operations Internship - Raleigh, NC](https://jobright.ai/jobs/info/68a9204f758f2e4ac3ff77c5?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Jan 19 |
@@ -131,30 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d58735fc86241853c43e2?utm_campaign=1051&utm_source=git)** | Missouri, United States | Remote | Jan 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d586edb26b61895106bd8?utm_campaign=1051&utm_source=git)** | New Jersey, United States | Remote | Jan 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d586cdb26b61895106bd7?utm_campaign=1051&utm_source=git)** | North Dakota, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d58655fc86241853c43df?utm_campaign=1051&utm_source=git)** | Maine, United States | Remote | Jan 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d5865db26b61895106bd6?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Jan 18 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d58655fc86241853c43df?utm_campaign=1051&utm_source=git)** | Maine, United States | Remote | Jan 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d58625fc86241853c43dd?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d5860350cf43803144044?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | Jan 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d5860350cf43803144045?utm_campaign=1051&utm_source=git)** | New Mexico, United States | Remote | Jan 18 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d5860350cf43803144044?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | Jan 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d585b350cf43803144042?utm_campaign=1051&utm_source=git)** | South Dakota, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d58595fc86241853c43db?utm_campaign=1051&utm_source=git)** | Utah, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d58535fc86241853c43d8?utm_campaign=1051&utm_source=git)** | Montana, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d5847db26b61895106bce?utm_campaign=1051&utm_source=git)** | Oregon, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d5846350cf4380314403b?utm_campaign=1051&utm_source=git)** | Idaho, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d5842350cf43803144038?utm_campaign=1051&utm_source=git)** | Hawaii, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d5565db26b61895106bb5?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d55425fc86241853c43b6?utm_campaign=1051&utm_source=git)** | Wisconsin, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d54eddb26b61895106b97?utm_campaign=1051&utm_source=git)** | West Virginia, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d54ec350cf4380314400d?utm_campaign=1051&utm_source=git)** | Vermont, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d548e350cf43803143ff3?utm_campaign=1051&utm_source=git)** | Wyoming, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d521e5fc86241853c4366?utm_campaign=1051&utm_source=git)** | Rhode Island, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d51fd5fc86241853c435f?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d51d05fc86241853c4356?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d51c1350cf43803143fc1?utm_campaign=1051&utm_source=git)** | Oklahoma, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d51b6350cf43803143fbe?utm_campaign=1051&utm_source=git)** | New Hampshire, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d4eec350cf43803143f8d?utm_campaign=1051&utm_source=git)** | Mississippi, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d4eb2350cf43803143f82?utm_campaign=1051&utm_source=git)** | Nebraska, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d4e9d350cf43803143f7d?utm_campaign=1051&utm_source=git)** | Nevada, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d4c095fc86241853c42f4?utm_campaign=1051&utm_source=git)** | Iowa, United States | Remote | Jan 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/696d4bf15fc86241853c42ed?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
