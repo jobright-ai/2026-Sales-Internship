@@ -119,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6969ee9bf25a38006698b197?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Jan 19 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/696e6c275fc86241853d31e7?utm_campaign=1051&utm_source=git)** | Traverse City, MI | On Site | Jan 19 |
 | **[Ozark Pest Control](https://Ozarkpestnwa.com)** | **[Sales And Marketing Internship](https://jobright.ai/jobs/info/69605d61a1bbea1d9a7b3933?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | Jan 19 |
-| **[Tech Verses](techverses.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/696e664f5fc86241853d2f4d?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 19 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Summer - National Security Partnerships & Business Development, Onsite](https://jobright.ai/jobs/info/69457abf9516540735379460?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Jan 19 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Crop Insurance Intern](https://jobright.ai/jobs/info/696e61badb26b618951153b1?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Jan 19 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/696e616a5fc86241853d1545?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jan 19 |
@@ -130,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer Internship - Financial Representative](https://jobright.ai/jobs/info/696e45575fc86241853d0a6f?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Jan 19 |
 | **[Blackwell Academy D/A](https://dr-renee-blackwell-portfolio.my.canva.site/dr-blackwell-portfolio)** | **[Business Development Intern](https://jobright.ai/jobs/info/696e43cc350cf43803150899?utm_campaign=1051&utm_source=git)** | Wilmington, DE | Remote | Jan 19 |
 | **[TD](https://www.td.com)** | **[Group Support Associate Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695243415bb7de448ef56b3a?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 19 |
-| ↳ | **[Account Manager Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/69524299935649778e200e6c?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 19 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Technical Sales Summer 2026 Internship](https://jobright.ai/jobs/info/69457d0863141d1884550845?utm_campaign=1051&utm_source=git)** | Euclid, OH | On Site | Jan 19 |
 | **[Veritiv](https://www.veritiv.com)** | **[Pricing Analyst Intern](https://jobright.ai/jobs/info/68e0422bf758fe1f97e4bb4b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 19 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Spring Internship 2026 - Planning & Allocation](https://jobright.ai/jobs/info/693695daa0dde7020e2fc784?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 19 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship - Houston](https://jobright.ai/jobs/info/6956018f9f1b381eb26f3b64?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 19 |
 | ↳ | **[2026 Management & Sales Intern - Mid-Texas](https://jobright.ai/jobs/info/696e1b2c350cf4380314db0e?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Jan 19 |
 | ↳ | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/696072d37ebc25398eb669ac?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Jan 19 |
+| ↳ | **[2026 Management & Sales Intern - Texarkana](https://jobright.ai/jobs/info/68c47a89e396b25cb5c686ee?utm_campaign=1051&utm_source=git)** | Bossier City, LA | On Site | Jan 19 |
+| ↳ | **[Management and Sales Summer 2026 Internship (Mid Kansas District)](https://jobright.ai/jobs/info/68e047e71852e62f007e9ae7?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
