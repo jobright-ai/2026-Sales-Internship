@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Pricing](https://jobright.ai/jobs/info/69546bb25bb7de448ef7595b?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Jan 21 |
+| **[Seagate Technology](http://www.seagate.com)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/6966d80aa112b4026614e997?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 21 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer- Client Advisor Student Intern](https://jobright.ai/jobs/info/6970a923333b6343a14d2cd7?utm_campaign=1051&utm_source=git)** | Wood Buffalo, Alberta, Canada | On Site | Jan 21 |
 | **[Handy Banjo](http://www.handybanjo.com)** | **[Cold Outreach Intern](https://jobright.ai/jobs/info/69709b51333b6343a14d2916?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Programmatic/National Sales Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69709395333b6343a14d0f9c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Aerobotics](https://www.aerobotics.com/)** | **[Internship: Field Operations & Customer Success (California)](https://jobright.ai/jobs/info/69708ef651f726477182d174?utm_campaign=1051&utm_source=git)** | Fresno, CA | Hybrid | Jan 21 |
@@ -83,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Cotiviti](http://www.cotiviti.com)** | **[Intern - Retail](https://jobright.ai/jobs/info/69704351587dfa0bb55dc482?utm_campaign=1051&utm_source=git)** | Ontario, Canada | Remote | Jan 20 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Account Management Internship – Summer 2026](https://jobright.ai/jobs/info/697028d3587dfa0bb55daad3?utm_campaign=1051&utm_source=git)** | Chicago, IL 60607, United States | On Site | Jan 20 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Technical Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/69703ff0333b6343a14ca92b?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/697062a3333b6343a14cee0f?utm_campaign=1051&utm_source=git)** | Pickering, Ontario, Canada | On Site | Jan 20 |
-| ↳ | **[2025 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/69705bc0333b6343a14ce7ee?utm_campaign=1051&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 20 |
+| **[RBC](https://www.rbc.com)** | **[2025 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/69705bc0333b6343a14ce7ee?utm_campaign=1051&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 20 |
+| ↳ | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/697062a3333b6343a14cee0f?utm_campaign=1051&utm_source=git)** | Pickering, Ontario, Canada | On Site | Jan 20 |
 | ↳ | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/69705d47587dfa0bb55e0473?utm_campaign=1051&utm_source=git)** | North Grenville, Ontario, Canada | On Site | Jan 20 |
 | ↳ | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/69705d0e51f726477182b268?utm_campaign=1051&utm_source=git)** | Smiths Falls, Ontario, Canada | On Site | Jan 20 |
 | ↳ | **[Relationship Manager, Business Markets, Intern- EN](https://jobright.ai/jobs/info/6970602451f726477182b3df?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Danfoss](https://www.danfoss.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/697013b582817106e9772f48?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Jan 20 |
 | **[Southwestern Family of Companies](http://southwestern.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/697014fd0f4e0f657ea47067?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Jan 20 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Purchasing Intern](https://jobright.ai/jobs/info/696fec5182817106e976f2f0?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 20 |
-| **[CRH](http://crh.com)** | **[PM/Estimating Intern](https://jobright.ai/jobs/info/6970132882817106e9772ea5?utm_campaign=1051&utm_source=git)** | New Britain, CT | On Site | Jan 20 |
-| **[RBC](https://www.rbc.com)** | **[Group Advantage, Relationship Manager Intern- EN](https://jobright.ai/jobs/info/6970138d0f4e0f657ea46f63?utm_campaign=1051&utm_source=git)** | L'ancienne-Lorette, Quebec, Canada | Hybrid | Jan 20 |
-| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Dallas Senior Housing, Investment Sales](https://jobright.ai/jobs/info/696fe91a0f4e0f657ea4309d?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
