@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Handy Banjo](http://www.handybanjo.com)** | **[Cold Outreach Intern](https://jobright.ai/jobs/info/69709b51333b6343a14d2916?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 21 |
+| **[Spectrum Reach](https://www.spectrumreach.com)** | **[Programmatic/National Sales Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69709395333b6343a14d0f9c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Aerobotics](https://www.aerobotics.com/)** | **[Internship: Field Operations & Customer Success (California)](https://jobright.ai/jobs/info/69708ef651f726477182d174?utm_campaign=1051&utm_source=git)** | Fresno, CA | Hybrid | Jan 21 |
 | **[Victaulic](https://www.victaulic.com)** | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/691e3b1909cc522e87737e73?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | On Site | Jan 21 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Skillbridge Intern - Nationwide](https://jobright.ai/jobs/info/69708068587dfa0bb55e1bc2?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Jan 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[PM/Estimating Intern](https://jobright.ai/jobs/info/6970132882817106e9772ea5?utm_campaign=1051&utm_source=git)** | New Britain, CT | On Site | Jan 20 |
 | **[RBC](https://www.rbc.com)** | **[Group Advantage, Relationship Manager Intern- EN](https://jobright.ai/jobs/info/6970138d0f4e0f657ea46f63?utm_campaign=1051&utm_source=git)** | L'ancienne-Lorette, Quebec, Canada | Hybrid | Jan 20 |
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Dallas Senior Housing, Investment Sales](https://jobright.ai/jobs/info/696fe91a0f4e0f657ea4309d?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
-| **[BMO](http://www.bmo.com)** | **[Administrative Assistant Intern (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/696fe8fe3ed06875134ad362?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 20 |
-| **[Brixenta](brixenta.us)** | **[Sales Internship](https://jobright.ai/jobs/info/697017dd82817106e9773283?utm_campaign=1051&utm_source=git)** | Mount Hermon Heights, MD | Remote | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
