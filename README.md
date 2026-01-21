@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orvanta](orvanta.us)** | **[sales internship-pacific](https://jobright.ai/jobs/info/6970ed8b51f72647718324af?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 21 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Commercial Excellence, Training and Enablement Summer Internship](https://jobright.ai/jobs/info/693d342050bbaf7650505bec?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jan 21 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e387c6f758fe1f97e5f06f?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 21 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round) (FR)](https://jobright.ai/jobs/info/69386f46a0dde7020e3107af?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 21 |
@@ -87,10 +88,15 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Metro New Jersey)](https://jobright.ai/jobs/info/68c76fda7d0db4114273c15e?utm_campaign=1051&utm_source=git)** | Warren, NJ | On Site | Jan 21 |
 | **[DISH TV](https://www.dish.com)** | **[Sales Lead Enablement Intern](https://jobright.ai/jobs/info/6954441d5bb7de448ef73efd?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Jan 21 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Hudson Valley)](https://jobright.ai/jobs/info/68c7cc9a5c38e536d41a6f9c?utm_campaign=1051&utm_source=git)** | Danbury, CT | On Site | Jan 21 |
-| ↳ | **[2026 Management and Sales Internship (Long Island)](https://jobright.ai/jobs/info/68c7cc5df42a830e1c7e82a2?utm_campaign=1051&utm_source=git)** | West Hempstead, NY | On Site | Jan 21 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Associate Internship](https://jobright.ai/jobs/info/6970ec4e51f72647718323e9?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 21 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Long Island)](https://jobright.ai/jobs/info/68c7cc5df42a830e1c7e82a2?utm_campaign=1051&utm_source=git)** | West Hempstead, NY | On Site | Jan 21 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Chattanooga, TN](https://jobright.ai/jobs/info/6954d8b0463e8c6081333e04?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | Hybrid | Jan 21 |
-| **[IBM](http://www.ibm.com)** | **[Intern 2026: IBM Quantum Sales and Operations](https://jobright.ai/jobs/info/6967f7091703f05405a9933c?utm_campaign=1051&utm_source=git)** | Yorktown Heights, NY | On Site | Jan 21 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e382bcb99ec3563b0e0d76?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Jan 21 |
+| **[IBM](http://www.ibm.com)** | **[Intern 2026: IBM Quantum Sales and Operations](https://jobright.ai/jobs/info/69389efba0dde7020e313883?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Jan 21 |
+| ↳ | **[Intern 2026: IBM Quantum Sales and Operations](https://jobright.ai/jobs/info/6967f7091703f05405a9933c?utm_campaign=1051&utm_source=git)** | Yorktown Heights, NY | On Site | Jan 21 |
+| **[TOTE Maritime](https://www.totemaritime.com/)** | **[Internship - Summer 2026 - Sales](https://jobright.ai/jobs/info/6970ef20333b6343a14d60de?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jan 21 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37c89b99ec3563b0e0a8b?utm_campaign=1051&utm_source=git)** | Pleasanton, CA | On Site | Jan 21 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37ea8b99ec3563b0e0bd7?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jan 21 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e382bcb99ec3563b0e0d76?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Jan 21 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern- Portland, ME](https://jobright.ai/jobs/info/6954d770f1f8465b79ec06d3?utm_campaign=1051&utm_source=git)** | Portland, ME | Hybrid | Jan 21 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Retention Strategy Intern](https://jobright.ai/jobs/info/69543c0daa05c26e7aaea7f4?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Jan 21 |
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Rutgers](https://jobright.ai/jobs/info/6970c161333b6343a14d3134?utm_campaign=1051&utm_source=git)** | South Plainfield, NJ | On Site | Jan 21 |
@@ -117,8 +123,7 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/697064ec51f726477182b638?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | On Site | Jan 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6970621451f726477182b4b8?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Jan 20 |
 | ↳ | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6970605b51f726477182b403?utm_campaign=1051&utm_source=git)** | Lithonia, GA | On Site | Jan 20 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/6970600951f726477182b3c6?utm_campaign=1051&utm_source=git)** | Manchester, NH | On Site | Jan 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69705e2751f726477182b2ca?utm_campaign=1051&utm_source=git)** | Decatur, GA | On Site | Jan 20 |
+| ↳ | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69705e2751f726477182b2ca?utm_campaign=1051&utm_source=git)** | Decatur, GA | On Site | Jan 20 |
 | ↳ | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69705c6551f726477182b1d0?utm_campaign=1051&utm_source=git)** | McDonough, GA | On Site | Jan 20 |
 | ↳ | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69705b56587dfa0bb55dfe94?utm_campaign=1051&utm_source=git)** | Morrow, GA | On Site | Jan 20 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Small Business Internship](https://jobright.ai/jobs/info/69705a18333b6343a14cd876?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Jan 20 |
@@ -139,7 +144,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/69705d0e51f726477182b268?utm_campaign=1051&utm_source=git)** | Smiths Falls, Ontario, Canada | On Site | Jan 20 |
 | ↳ | **[Relationship Manager, Business Markets, Intern- EN](https://jobright.ai/jobs/info/6970602451f726477182b3df?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 20 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Commercialization Intern](https://jobright.ai/jobs/info/69703a1651f7264771826adc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 20 |
-| **[3B Real Estate](https://www.linkedin.com/company/107257237)** | **[Real Estate Client Engagement Associate Intern](https://jobright.ai/jobs/info/6970320951f72647718262cd?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 20 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Remote Business Development Intern](https://jobright.ai/jobs/info/69704cc551f7264771828395?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 20 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Account Management Internship – Summer 2026](https://jobright.ai/jobs/info/69702c61587dfa0bb55dae7a?utm_campaign=1051&utm_source=git)** | Rogers, AR 72758, United States | On Site | Jan 20 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Intern - Retail](https://jobright.ai/jobs/info/69702baa587dfa0bb55dad89?utm_campaign=1051&utm_source=git)** | CA-ON-Remote | Remote | Jan 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[3.1 Phillip Lim](https://www.31philliplim.com/)** | **[Wholesale Intern](https://jobright.ai/jobs/info/6970169e0f4e0f657ea471cc?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jan 20 |
 | **[RBC](https://www.rbc.com)** | **[2025 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/697016633ed06875134b14b4?utm_campaign=1051&utm_source=git)** | OTTAWA, Ontario, Canada | On Site | Jan 20 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - Northeast Region](https://jobright.ai/jobs/info/697015620f4e0f657ea470af?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Jan 20 |
-| **[CLEAR](http://www.clearme.com)** | **[Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/697014fe3ed06875134b1380?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 20 |
-| **[Sunset Ventures](https://www.sunsetventures.xyz)** | **[Venture Capital Fellowship](https://jobright.ai/jobs/info/6970145d82817106e9772fd3?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Jan 20 |
-| **[KZ_K STUDIO](https://kzkstudionyc.com/)** | **[Designer Fashion Sales Intern](https://jobright.ai/jobs/info/697012eb0f4e0f657ea46ebf?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jan 20 |
-| **[A-LIGN](http://www.a-lign.com/)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/697011d43ed06875134b107e?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
