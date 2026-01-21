@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Seller Live Project Intern (TikTok Shop Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69706c8351f726477182c19d?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jan 20 |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69706ac351f726477182c0f9?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/697064ec51f726477182b638?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | On Site | Jan 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6970621451f726477182b4b8?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Jan 20 |
 | ↳ | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6970605b51f726477182b403?utm_campaign=1051&utm_source=git)** | Lithonia, GA | On Site | Jan 20 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69705b56587dfa0bb55dfe94?utm_campaign=1051&utm_source=git)** | Morrow, GA | On Site | Jan 20 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Small Business Internship](https://jobright.ai/jobs/info/69705a18333b6343a14cd876?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Jan 20 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - National Security Partnerships & Business Development, Onsite](https://jobright.ai/jobs/info/6969a53f639b452fb57f963d?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Jan 20 |
+| **[Howies Hockey](https://howieshockeytape.com)** | **[Sales Internship (Athletics & PT/OT)](https://jobright.ai/jobs/info/69706f5b51f726477182c331?utm_campaign=1051&utm_source=git)** | Caledonia, MI | On Site | Jan 20 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Account Management Internship – Summer 2026](https://jobright.ai/jobs/info/6970501c587dfa0bb55dd6ed?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jan 20 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Merchandising and Inventory Management Intern](https://jobright.ai/jobs/info/69705017587dfa0bb55dd6e8?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Jan 20 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Account Management Internship – Summer 2026](https://jobright.ai/jobs/info/69704f06587dfa0bb55dd61f?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
@@ -75,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Cotiviti](http://www.cotiviti.com)** | **[Intern - Retail](https://jobright.ai/jobs/info/69704351587dfa0bb55dc482?utm_campaign=1051&utm_source=git)** | Ontario, Canada | Remote | Jan 20 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Account Management Internship – Summer 2026](https://jobright.ai/jobs/info/697028d3587dfa0bb55daad3?utm_campaign=1051&utm_source=git)** | Chicago, IL 60607, United States | On Site | Jan 20 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Technical Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/69703ff0333b6343a14ca92b?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
-| **[RBC](https://www.rbc.com)** | **[2025 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/69705bc0333b6343a14ce7ee?utm_campaign=1051&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 20 |
-| ↳ | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/697062a3333b6343a14cee0f?utm_campaign=1051&utm_source=git)** | Pickering, Ontario, Canada | On Site | Jan 20 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/697062a3333b6343a14cee0f?utm_campaign=1051&utm_source=git)** | Pickering, Ontario, Canada | On Site | Jan 20 |
+| ↳ | **[2025 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/69705bc0333b6343a14ce7ee?utm_campaign=1051&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 20 |
 | ↳ | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/69705d47587dfa0bb55e0473?utm_campaign=1051&utm_source=git)** | North Grenville, Ontario, Canada | On Site | Jan 20 |
 | ↳ | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/69705d0e51f726477182b268?utm_campaign=1051&utm_source=git)** | Smiths Falls, Ontario, Canada | On Site | Jan 20 |
 | ↳ | **[Relationship Manager, Business Markets, Intern- EN](https://jobright.ai/jobs/info/6970602451f726477182b3df?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 20 |
@@ -138,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Tyson Foods](http://tysonfoods.com)** | **[Carcass Merchandising Summer 2026 Intern](https://jobright.ai/jobs/info/696ff34c0f4e0f657ea440f8?utm_campaign=1051&utm_source=git)** | Off-Site Employees (Corp Use) Texas | On Site | Jan 20 |
 | **[Ephrata National Bank](http://epnb.com)** | **[Comm/Ag/Mortgage Lending Intern](https://jobright.ai/jobs/info/696ff31082817106e976fe66?utm_campaign=1051&utm_source=git)** | Ephrata Corporate Office, Ephrata, PA, US | On Site | Jan 20 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Residential Operations, Community, Summer 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/696ff1d13ed06875134ae2a5?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
+| **[CRH](http://crh.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69706e3351f726477182c28e?utm_campaign=1051&utm_source=git)** | Wilsonville, OR | On Site | Jan 20 |
 | **[Goosehead Insurance](https://www.goosehead.com)** | **[Skybound Sales Internship (Minneapolis, MN)](https://jobright.ai/jobs/info/697012053ed06875134b10b6?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 20 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Finance Club Partner (Student Leadership Program)](https://jobright.ai/jobs/info/696ff0e63ed06875134ae02b?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jan 20 |
 | **[CRH](http://crh.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697029b6587dfa0bb55dab4b?utm_campaign=1051&utm_source=git)** | Newington, CT | On Site | Jan 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SANY America](http://sanyamerica.com)** | **[Intern-Business Analyst](https://jobright.ai/jobs/info/696fe75f0f4e0f657ea42e5d?utm_campaign=1051&utm_source=git)** | Peachtree City, GA | Remote | Jan 20 |
 | **[Sands Capital](http://www.sandscapital.com)** | **[Global Ventures Intern (Graduate Students) - Summer 2026](https://jobright.ai/jobs/info/6970089d0f4e0f657ea46475?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | Jan 20 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Account Management Intern (Summer)](https://jobright.ai/jobs/info/696fe6d03ed06875134ad091?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 20 |
-| **[North Star Resource Group](http://northstarfinancial.com)** | **[Sales and Marketing Internship – Financial Advising Development Program](https://jobright.ai/jobs/info/694b17803019f50a4fe62b50?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Jan 20 |
-| **[Endeavor](http://www.endeavor.org)** | **[Global Partnerships Intern, Partnerships (Summer 2026)](https://jobright.ai/jobs/info/696fe5903ed06875134acf27?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
-| **[Minitab](http://www.minitab.com/en-us/)** | **[Sales Technology Intern](https://jobright.ai/jobs/info/696fe57f0f4e0f657ea42be0?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | Jan 20 |
-| **[ASTM International](http://www.astm.org)** | **[Intern, Business Development, Sales & Finance](https://jobright.ai/jobs/info/695c3ce122c9dc0d3d541bc1?utm_campaign=1051&utm_source=git)** | Washington, DC | Remote | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
