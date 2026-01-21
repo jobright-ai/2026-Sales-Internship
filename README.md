@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aerobotics](https://www.aerobotics.com/)** | **[Internship: Field Operations & Customer Success (California)](https://jobright.ai/jobs/info/69708ef651f726477182d174?utm_campaign=1051&utm_source=git)** | Fresno, CA | Hybrid | Jan 21 |
+| **[Victaulic](https://www.victaulic.com)** | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/691e3b1909cc522e87737e73?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | On Site | Jan 21 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Skillbridge Intern - Nationwide](https://jobright.ai/jobs/info/69708068587dfa0bb55e1bc2?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Jan 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller Live Project Intern (TikTok Shop Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69706c8351f726477182c19d?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jan 20 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69706ac351f726477182c0f9?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Dallas Senior Housing, Investment Sales](https://jobright.ai/jobs/info/696fe91a0f4e0f657ea4309d?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
 | **[BMO](http://www.bmo.com)** | **[Administrative Assistant Intern (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/696fe8fe3ed06875134ad362?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 20 |
 | **[Brixenta](brixenta.us)** | **[Sales Internship](https://jobright.ai/jobs/info/697017dd82817106e9773283?utm_campaign=1051&utm_source=git)** | Mount Hermon Heights, MD | Remote | Jan 20 |
-| **[SANY America](http://sanyamerica.com)** | **[Intern-Business Analyst](https://jobright.ai/jobs/info/696fe75f0f4e0f657ea42e5d?utm_campaign=1051&utm_source=git)** | Peachtree City, GA | Remote | Jan 20 |
-| **[Sands Capital](http://www.sandscapital.com)** | **[Global Ventures Intern (Graduate Students) - Summer 2026](https://jobright.ai/jobs/info/6970089d0f4e0f657ea46475?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
