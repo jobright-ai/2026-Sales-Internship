@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Commercial Excellence, Training and Enablement Summer Internship](https://jobright.ai/jobs/info/693d342050bbaf7650505bec?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jan 21 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e387c6f758fe1f97e5f06f?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 21 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round) (FR)](https://jobright.ai/jobs/info/69386f46a0dde7020e3107af?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 21 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37cb4b99ec3563b0e0a9b?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Jan 21 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/6938a07baabec14a727d88ce?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 21 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/69002dade0c73b3a111a2f5c?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Jan 21 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Purchasing Summer Internship](https://jobright.ai/jobs/info/69546018aa05c26e7aaed993?utm_campaign=1051&utm_source=git)** | Lake Forest, IL | On Site | Jan 21 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8f2aef9c6ff7aedf15335?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Jan 21 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e381dff758fe1f97e5ebca?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Jan 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8f07a95f5211cd2cebb76?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Jan 21 |
 | ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/690026330ab3b222462b2480?utm_campaign=1051&utm_source=git)** | Mechanicsville, VA | On Site | Jan 21 |
@@ -81,13 +89,18 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Hudson Valley)](https://jobright.ai/jobs/info/68c7cc9a5c38e536d41a6f9c?utm_campaign=1051&utm_source=git)** | Danbury, CT | On Site | Jan 21 |
 | ↳ | **[2026 Management and Sales Internship (Long Island)](https://jobright.ai/jobs/info/68c7cc5df42a830e1c7e82a2?utm_campaign=1051&utm_source=git)** | West Hempstead, NY | On Site | Jan 21 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Chattanooga, TN](https://jobright.ai/jobs/info/6954d8b0463e8c6081333e04?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | Hybrid | Jan 21 |
-| ↳ | **[Unum Scholar Intern- Portland, ME](https://jobright.ai/jobs/info/6954d770f1f8465b79ec06d3?utm_campaign=1051&utm_source=git)** | Portland, ME | Hybrid | Jan 21 |
+| **[IBM](http://www.ibm.com)** | **[Intern 2026: IBM Quantum Sales and Operations](https://jobright.ai/jobs/info/6967f7091703f05405a9933c?utm_campaign=1051&utm_source=git)** | Yorktown Heights, NY | On Site | Jan 21 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e382bcb99ec3563b0e0d76?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Jan 21 |
+| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern- Portland, ME](https://jobright.ai/jobs/info/6954d770f1f8465b79ec06d3?utm_campaign=1051&utm_source=git)** | Portland, ME | Hybrid | Jan 21 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Retention Strategy Intern](https://jobright.ai/jobs/info/69543c0daa05c26e7aaea7f4?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Jan 21 |
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Rutgers](https://jobright.ai/jobs/info/6970c161333b6343a14d3134?utm_campaign=1051&utm_source=git)** | South Plainfield, NJ | On Site | Jan 21 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Energy Sales Intern](https://jobright.ai/jobs/info/68ccfc70d11b445e0bee572e?utm_campaign=1051&utm_source=git)** | New Town, ND | Hybrid | Jan 21 |
 | **[Carboline](https://www.carboline.com)** | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/6970c0d7587dfa0bb55e49dd?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Jan 21 |
 | **[Brighthouse Financial](https://www.brighthousefinancial.com)** | **[Internal Sales Associate - Spring 2026 (Charlotte, NC (Hybrid) or Remote)](https://jobright.ai/jobs/info/6933f361a0dde7020e2f3310?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Jan 21 |
+| **[IBM](http://www.ibm.com)** | **[Intern 2026: IBM Quantum Sales and Operations](https://jobright.ai/jobs/info/6938a531a0dde7020e3143b4?utm_campaign=1051&utm_source=git)** | Albany, NY | On Site | Jan 21 |
 | **[Cleveland Guardians](https://www.mlb.com/guardians)** | **[Retail Operations Internship](https://jobright.ai/jobs/info/69389ecaaabec14a727d863c?utm_campaign=1051&utm_source=git)** | Cleveland, OH | Hybrid | Jan 21 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Account Manager Intern - South Jordan, UT](https://jobright.ai/jobs/info/6938a31eb95c305f206ddd9d?utm_campaign=1051&utm_source=git)** | South Jordan, UT | Hybrid | Jan 21 |
+| ↳ | **[Wealth Operations Intern - South Jordan, UT](https://jobright.ai/jobs/info/69389f99b95c305f206dd619?utm_campaign=1051&utm_source=git)** | South Jordan, UT | On Site | Jan 21 |
 | **[Transwestern](https://transwestern.com)** | **[Brokerage Summer Intern - Dallas](https://jobright.ai/jobs/info/6970b504333b6343a14d2f4c?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Supply Summer Internship / Bentonville, AR, USA](https://jobright.ai/jobs/info/6954db76f1f8465b79ec0752?utm_campaign=1051&utm_source=git)** | Bentonville, AR | On Site | Jan 21 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Customer Value Analyst](https://jobright.ai/jobs/info/691bb5ecbcdbf3560c9e1c7d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 21 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sunset Ventures](https://www.sunsetventures.xyz)** | **[Venture Capital Fellowship](https://jobright.ai/jobs/info/6970145d82817106e9772fd3?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Jan 20 |
 | **[KZ_K STUDIO](https://kzkstudionyc.com/)** | **[Designer Fashion Sales Intern](https://jobright.ai/jobs/info/697012eb0f4e0f657ea46ebf?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jan 20 |
 | **[A-LIGN](http://www.a-lign.com/)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/697011d43ed06875134b107e?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 20 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69702dd5587dfa0bb55db029?utm_campaign=1051&utm_source=git)** | Lincoln, NE | Hybrid | Jan 20 |
-| **[A-LIGN](http://www.a-lign.com/)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/69700e2b0f4e0f657ea469dc?utm_campaign=1051&utm_source=git)** | Tampa, United States | On Site | Jan 20 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Value Realization Insights](https://jobright.ai/jobs/info/69700d710f4e0f657ea46912?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 20 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Inter, Sales, Specialty Retail, e.l.f & Naturium](https://jobright.ai/jobs/info/69700cb282817106e97728e3?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Skybound Sales Internship (Seattle, WA)](https://jobright.ai/jobs/info/69700bf882817106e9772839?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jan 20 |
-| **[CLEAR](http://www.clearme.com)** | **[Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/69700b0282817106e9772740?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jan 20 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Value Realization Insights](https://jobright.ai/jobs/info/697007a33ed06875134b0663?utm_campaign=1051&utm_source=git)** | San Jose | On Site | Jan 20 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Small Business Internship](https://jobright.ai/jobs/info/697004800f4e0f657ea46221?utm_campaign=1051&utm_source=git)** | Raleigh - Beechleaf | On Site | Jan 20 |
-| **[CIBC](https://www.cibc.com)** | **[Financial Service Representative - Intern](https://jobright.ai/jobs/info/6970041e82817106e977212f?utm_campaign=1051&utm_source=git)** | Sherbrooke, QC | On Site | Jan 20 |
-| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Foodservice Internship - Summer 2026](https://jobright.ai/jobs/info/697002a03ed06875134b02e2?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
-| **[CIBC](https://www.cibc.com)** | **[Financial Service Representative - Intern](https://jobright.ai/jobs/info/69701f4582817106e9773743?utm_campaign=1051&utm_source=git)** | Sherbrooke, Quebec, Canada | On Site | Jan 20 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Skybound Sales Internship (Charlotte, NC)](https://jobright.ai/jobs/info/697000e63ed06875134b0120?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 20 |
-| ↳ | **[Skybound Sales Internship (Indianapolis, IN)](https://jobright.ai/jobs/info/6970002f82817106e9771d65?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
