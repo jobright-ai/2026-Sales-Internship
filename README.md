@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nautical Boat Club of Lake Murray, SC](https://nauticalboatclub.com/irmo-lake-murray/)** | **[Sales Intern](https://jobright.ai/jobs/info/696bc3c4db26b618950f479c?utm_campaign=1051&utm_source=git)** | Irmo, SC | Hybrid | Jan 21 |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Pricing Data](https://jobright.ai/jobs/info/69711b0f51f726477183548d?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
 | **[Tricentis](https://tricentis.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69710d1e587dfa0bb55ea096?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 21 |
 | **[Scott Insurance](https://www.scottins.com/)** | **[Intern](https://jobright.ai/jobs/info/69710791587dfa0bb55e94e1?utm_campaign=1051&utm_source=git)** | Richmond, VA, US | On Site | Jan 21 |
 | **[BMO](http://www.bmo.com)** | **[Investment Specialist, Summer 2026 (co-op/internship)-4 Months](https://jobright.ai/jobs/info/6971045651f72647718334d4?utm_campaign=1051&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 21 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer 2026 College Financial Representative Internship](https://jobright.ai/jobs/info/69710230333b6343a14d837c?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 21 |
 | ↳ | **[College Financial Representative Intern- Summer 2026](https://jobright.ai/jobs/info/6970fe87333b6343a14d68a1?utm_campaign=1051&utm_source=git)** | Middleton, WI | Hybrid | Jan 21 |
+| **[Piedmont Plastics](http://piedmontplastics.com)** | **[Sales Support Specialist Intern - Multiple Locations](https://jobright.ai/jobs/info/69711a02333b6343a14d9007?utm_campaign=1051&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 21 |
 | **[Maitsys](www.maitsys.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6970fbbb333b6343a14d66fa?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 21 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[Strategic partnerships: startup internship program #1](https://jobright.ai/jobs/info/6970fa6651f7264771832aca?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 21 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - New England & Capital District,](https://jobright.ai/jobs/info/6970f9ab333b6343a14d656c?utm_campaign=1051&utm_source=git)** | South Windsor, CT | On Site | Jan 21 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[HP](http://www.hp.com)** | **[Year-round Inside Sales Intern](https://jobright.ai/jobs/info/69646815a112b40266124ebd?utm_campaign=1051&utm_source=git)** | Rio Rancho, NM | Hybrid | Jan 21 |
 | **[Tricentis](https://tricentis.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6970f68351f72647718327ee?utm_campaign=1051&utm_source=git)** | Austin, Texas | Hybrid | Jan 21 |
 | **[Orvanta](orvanta.us)** | **[sales internship-pacific](https://jobright.ai/jobs/info/6970ed8b51f72647718324af?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 21 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Commercial Excellence, Training and Enablement Summer Internship](https://jobright.ai/jobs/info/693d342050bbaf7650505bec?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jan 21 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Risk management and Sales intern](https://jobright.ai/jobs/info/697102bf587dfa0bb55e8459?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 21 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e387c6f758fe1f97e5f06f?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 21 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round) (FR)](https://jobright.ai/jobs/info/69386f46a0dde7020e3107af?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/697062a3333b6343a14cee0f?utm_campaign=1051&utm_source=git)** | Pickering, Ontario, Canada | On Site | Jan 20 |
 | ↳ | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/69705d47587dfa0bb55e0473?utm_campaign=1051&utm_source=git)** | North Grenville, Ontario, Canada | On Site | Jan 20 |
 | ↳ | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/69705d0e51f726477182b268?utm_campaign=1051&utm_source=git)** | Smiths Falls, Ontario, Canada | On Site | Jan 20 |
-| ↳ | **[Relationship Manager, Business Markets, Intern- EN](https://jobright.ai/jobs/info/6970602451f726477182b3df?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 20 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Commercialization Intern](https://jobright.ai/jobs/info/69703a1651f7264771826adc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
