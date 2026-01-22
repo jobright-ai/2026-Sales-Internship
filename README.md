@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - South Region](https://jobright.ai/jobs/info/69716f0451f726477183b852?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | Jan 21 |
+| **[Echo Global Logistics](https://www.echo.com)** | **[Client Sales Intern – Dallas](https://jobright.ai/jobs/info/69716eb151f726477183b81a?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jan 21 |
+| **[ClarkDietrich](https://www.clarkdietrich.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/697168e751f726477183b3a7?utm_campaign=1051&utm_source=git)** | Warren, OH | On Site | Jan 21 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/69716616333b6343a14deef7?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Jan 21 |
 | **[Galderma](http://www.galderma.com)** | **[US Sales Capabilities & Coaching Intern](https://jobright.ai/jobs/info/69715d3e51f726477183a9ff?utm_campaign=1051&utm_source=git)** | Boston | On Site | Jan 21 |
 | **[Old Republic Title](http://www.oldrepublictitle.com/)** | **[Business Development Internship](https://jobright.ai/jobs/info/697158c2333b6343a14de2c9?utm_campaign=1051&utm_source=git)** | NY, New York City (521 5th Ave, FL 23) | On Site | Jan 21 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Sales Internship - Group Benefits (Summer 2026)](https://jobright.ai/jobs/info/697157e5587dfa0bb55ef89f?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jan 21 |
@@ -93,6 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971524351f7264771839df6?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69715242333b6343a14ddc35?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/697151ed333b6343a14ddbf9?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Jan 21 |
+| **[McKinstry](http://www.mckinstry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69716e33333b6343a14df5c2?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jan 21 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Sales Internship - Group Benefits (Summer 2026)](https://jobright.ai/jobs/info/6971517b333b6343a14ddb5d?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Jan 21 |
 | **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971517151f7264771839d4f?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971511451f7264771839d15?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Jan 21 |
@@ -126,7 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971470e587dfa0bb55eda8e?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/697146d9587dfa0bb55ed9df?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/697146b0587dfa0bb55ed977?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Jan 21 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/697145f151f726477183841b?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 21 |
+| **[Todd](https://toddagriscience.com)** | **[Sales Development Representative (Summer '26)](https://jobright.ai/jobs/info/697169a451f726477183b45b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 21 |
+| **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/697145f151f726477183841b?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/697145ae587dfa0bb55ed720?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971452951f7264771838262?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971451751f726477183824b?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Jan 21 |
@@ -137,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69714482333b6343a14dbd67?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69714479587dfa0bb55ed452?utm_campaign=1051&utm_source=git)** | Pueblo, CO | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69714457587dfa0bb55ed405?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Jan 21 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971444751f7264771838058?utm_campaign=1051&utm_source=git)** | Fishers, IN | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971444751f7264771838057?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
+| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971444751f7264771838058?utm_campaign=1051&utm_source=git)** | Fishers, IN | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/697143e1333b6343a14dbbfc?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/697143df587dfa0bb55ed2f0?utm_campaign=1051&utm_source=git)** | Arlington, TX | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/697143cf587dfa0bb55ed2d4?utm_campaign=1051&utm_source=git)** | Lees Summit, MO | On Site | Jan 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69714228587dfa0bb55ecf7a?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/697141fc333b6343a14db7ac?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/697141ef333b6343a14db790?utm_campaign=1051&utm_source=git)** | Denton, TX | On Site | Jan 21 |
-| **[Alfa Laval](http://www.alfalaval.com)** | **[Sustainability Business Development Intern Summer 2026](https://jobright.ai/jobs/info/697141e951f7264771837b14?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Jan 21 |
-| **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/697141c3587dfa0bb55ece7a?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Jan 21 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69714180587dfa0bb55ecdf8?utm_campaign=1051&utm_source=git)** | Toledo, OH | On Site | Jan 21 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971414851f72647718379de?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Jan 21 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971411a333b6343a14db5a6?utm_campaign=1051&utm_source=git)** | Salem, OR | On Site | Jan 21 |
-| **[Kloeckner Metals - Americas](http://www.kloecknermetals.com/)** | **[Regional Sales Internship - Summer 2026](https://jobright.ai/jobs/info/69714110333b6343a14db594?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
