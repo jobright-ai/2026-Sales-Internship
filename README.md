@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veltrana Group](veltranagroup.us)** | **[Sales internship pacific](https://jobright.ai/jobs/info/697252d19b83b424830e3a09?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Jan 22 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Southern California and Phoenix](https://jobright.ai/jobs/info/6972398d584a1c1ef6fd3682?utm_campaign=1051&utm_source=git)** | Moreno Valley, CA | On Site | Jan 22 |
 | **[Fitch Solutions](https://www.fitchsolutions.com)** | **[Commercial Graduate Program, Fitch Solutions, New York - September 2026](https://jobright.ai/jobs/info/691ae78cbcdbf3560c9db973?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691db6b3748c4e1301ec7e18?utm_campaign=1051&utm_source=git)** | St Albert, Alberta, Canada | On Site | Jan 22 |
@@ -98,13 +99,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e12c409cc522e87735be3?utm_campaign=1051&utm_source=git)** | Hawkesbury, Ontario, Canada | On Site | Jan 22 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68e446d71852e62f00803f08?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jan 22 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/691cfc85ff7024498416caf4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 22 |
+| **[CommScope](http://www.commscope.com)** | **[Enablement and Development Intern](https://jobright.ai/jobs/info/6939c97948a8ce22990dcd91?utm_campaign=1051&utm_source=git)** | Shakopee, MN | On Site | Jan 22 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6892eb9cf5ee707a15dca2b4?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jan 22 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Youngstown, OH (Summer 2026)](https://jobright.ai/jobs/info/68e40b2f1852e62f00800754?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Jan 22 |
 | **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Advisor Internship Program (AIP) (Toronto/Waterloo/Ottawa)](https://jobright.ai/jobs/info/691ddc9961dc50590a64b156?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 22 |
+| ↳ | **[Advisor Internship Program (AIP) (Victoria/Kelowna)](https://jobright.ai/jobs/info/691dc1e061dc50590a649e81?utm_campaign=1051&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Jan 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8f15a983e6768bc553cea?utm_campaign=1051&utm_source=git)** | Butte, MT | On Site | Jan 22 |
 | ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/69002e84e0c73b3a111a301d?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Jan 22 |
 | ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8ef27f9c6ff7aedf14cc5?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Jan 22 |
 | ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/690023510ab3b222462b223c?utm_campaign=1051&utm_source=git)** | Suffolk, VA | On Site | Jan 22 |
+| ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8fa51f9c6ff7aedf1584a?utm_campaign=1051&utm_source=git)** | Columbia Falls, MT | On Site | Jan 22 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer- Client Advisor Student Intern](https://jobright.ai/jobs/info/6971f13947b64f4e963e3728?utm_campaign=1051&utm_source=git)** | Quesnel, British Columbia, Canada | On Site | Jan 22 |
 | **[IBM](http://www.ibm.com)** | **[Digital Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6940e3a249a7695fbd0666c5?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 22 |
 | **[TeamViewer](https://www.teamviewer.com)** | **[Sales & Data Internship - Hybrid - Clearwater, FL](https://jobright.ai/jobs/info/69397734ac80bb5492bbfb04?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Hybrid | Jan 22 |
@@ -114,10 +118,12 @@ For a complete list, click the following sortable link below:
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69721031cda45e6953584104?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 22 |
 | **[Applied Fluid Power](https://www.appliedfluidpower.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69021a1998707b2b0fe6c7c9?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Jan 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Franchise and Partnership Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/6972424e584a1c1ef6fd3b5e?utm_campaign=1051&utm_source=git)** | Glendale, CA | On Site | Jan 22 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Sales Experience & Analytics](https://jobright.ai/jobs/info/695a109daa05c26e7ab3ae50?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 22 |
 | **[Brighton Jones](http://brightonjones.com)** | **[Private Wealth Management Summer Internship (Seattle - June 2026 start)](https://jobright.ai/jobs/info/69017e45d5259a1b3cff561b?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jan 22 |
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Sales/Customer Success](https://jobright.ai/jobs/info/68e58dd0ae2b894b1d710ef8?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Jan 22 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/6971a51451f726477183fb91?utm_campaign=1051&utm_source=git)** | Trumbull, CT | On Site | Jan 22 |
 | **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Global Banking - SF, CHI](https://jobright.ai/jobs/info/6955f030f1f8465b79ecddd1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Franchise and Partnership Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/697246f9584a1c1ef6fd3d97?utm_campaign=1051&utm_source=git)** | Glendale, CA | On Site | Jan 22 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/69720013cda45e69535838c5?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Jan 22 |
 | ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6972000247b64f4e963e3d19?utm_campaign=1051&utm_source=git)** | Orland Park, IL | On Site | Jan 22 |
 | **[Flexera](https://www.flexera.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/694af46d67a69734cac608c1?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/69719cf6333b6343a14e3621?utm_campaign=1051&utm_source=git)** | West Jordan, UT | Hybrid | Jan 21 |
 | **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719c98333b6343a14e35c8?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 21 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/69719c32333b6343a14e3570?utm_campaign=1051&utm_source=git)** | Eagle Mountain, UT | Hybrid | Jan 21 |
-| **[Raymond West](https://raymondwest.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69719c16587dfa0bb55f4b0d?utm_campaign=1051&utm_source=git)** | Auburn, WA | On Site | Jan 21 |
-| **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719bbf51f726477183f5aa?utm_campaign=1051&utm_source=git)** | North Charleston, SC | On Site | Jan 21 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719bbf51f726477183f5ab?utm_campaign=1051&utm_source=git)** | Wake Forest, NC | On Site | Jan 21 |
-| **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69616943a112b402660feb25?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Jan 21 |
-| **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719b72333b6343a14e34d6?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Jan 21 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719b16587dfa0bb55f4a38?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
