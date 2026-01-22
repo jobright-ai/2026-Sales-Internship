@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69727c014ccbf64f8df26e23?utm_campaign=1051&utm_source=git)** | Kettle Falls, Washington, United States | On Site | Jan 22 |
+| **[Creator24](https://creator24.ai/)** | **[Tech Sales Intern](https://jobright.ai/jobs/info/6972787b584a1c1ef6fd72de?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 22 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/697273f59b83b424830e630d?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Jan 22 |
+| **[Minitab](http://www.minitab.com/en-us/)** | **[Business Development Intern](https://jobright.ai/jobs/info/697273024ccbf64f8df26534?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | Jan 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commerce Operations Associate Intern, New York City,  Summer 2026](https://jobright.ai/jobs/info/697269344ccbf64f8df26105?utm_campaign=1051&utm_source=git)** | New York, NY, USA | Hybrid | Jan 22 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/696eae87350cf438031583c9?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 22 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/6972649c4ccbf64f8df25e1b?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 22 |
@@ -76,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691db6b3748c4e1301ec7e18?utm_campaign=1051&utm_source=git)** | St Albert, Alberta, Canada | On Site | Jan 22 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e0c21a49a885af9a241b0?utm_campaign=1051&utm_source=git)** | Embrun, Ontario, Canada | On Site | Jan 22 |
 | **[NRC Health](https://nrchealth.com)** | **[Summer 2026 Business Development Strategy Intern](https://jobright.ai/jobs/info/6939fb1f56b68f3dc4e749b0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jan 22 |
+| **[Aerobotics](https://www.aerobotics.com/)** | **[Internship: Field Operations & Customer Success (California)](https://jobright.ai/jobs/info/697274cf584a1c1ef6fd6eff?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Jan 22 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68cf02fadbd9fb154ede44e5?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Jan 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933efdaf131d96e484687ad?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Jan 22 |
 | ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a5f8f131d96e48465784?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Jan 22 |
@@ -104,12 +109,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691ddade61dc50590a64afb2?utm_campaign=1051&utm_source=git)** | Spruce Grove, Alberta, Canada | On Site | Jan 22 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691dc54261dc50590a64a11e?utm_campaign=1051&utm_source=git)** | Cornwall, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e02fb09cc522e87734d2e?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Jan 22 |
-| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e03cca49a885af9a23b2b?utm_campaign=1051&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 22 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691ddf2d748c4e1301ec9a3f?utm_campaign=1051&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Jan 22 |
+| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e03cca49a885af9a23b2b?utm_campaign=1051&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 22 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e0a85a49a885af9a24025?utm_campaign=1051&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e08b809cc522e8773515b?utm_campaign=1051&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 22 |
-| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e12c409cc522e87735be3?utm_campaign=1051&utm_source=git)** | Hawkesbury, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691dcbb6748c4e1301ec8d44?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Jan 22 |
+| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e12c409cc522e87735be3?utm_campaign=1051&utm_source=git)** | Hawkesbury, Ontario, Canada | On Site | Jan 22 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68e446d71852e62f00803f08?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jan 22 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/691cfc85ff7024498416caf4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[CommScope](http://www.commscope.com)** | **[Enablement and Development Intern](https://jobright.ai/jobs/info/6939c97948a8ce22990dcd91?utm_campaign=1051&utm_source=git)** | Shakopee, MN | On Site | Jan 22 |
@@ -128,7 +133,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Success Internship (Onsite in Clearwater, FL)](https://jobright.ai/jobs/info/693976f9ac80bb5492bbfad0?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Jan 22 |
 | **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Global Banking - New York](https://jobright.ai/jobs/info/696a576d350cf43803114355?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Sales Data Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68ffe8bee0c73b3a111a0473?utm_campaign=1051&utm_source=git)** | New Stanton, PA | Hybrid | Jan 22 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69721031cda45e6953584104?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 22 |
 | **[Applied Fluid Power](https://www.appliedfluidpower.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69021a1998707b2b0fe6c7c9?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Jan 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Franchise and Partnership Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/6972424e584a1c1ef6fd3b5e?utm_campaign=1051&utm_source=git)** | Glendale, CA | On Site | Jan 22 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Sales Experience & Analytics](https://jobright.ai/jobs/info/695a109daa05c26e7ab3ae50?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Corporate Partnerships Intern](https://jobright.ai/jobs/info/6971d46947b64f4e963e0eef?utm_campaign=1051&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 21 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6971d423b707bf728a4b5ff5?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jan 21 |
 | ↳ | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/6971d04447b64f4e963e0b81?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jan 21 |
-| **[Blue Ventis](blueventis.us)** | **[Sales Representative Intern](https://jobright.ai/jobs/info/6971f48ecda45e6953583324?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 21 |
-| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Corporate Partnerships & Ticket Sales Intern, Greensboro Swarm](https://jobright.ai/jobs/info/6971daedcda45e6953580cab?utm_campaign=1051&utm_source=git)** | Greensboro, North Carolina, United States | On Site | Jan 21 |
-| ↳ | **[Premium Sales & Services Intern](https://jobright.ai/jobs/info/6971b6f251f7264771842c6b?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
-| **[Galderma](http://www.galderma.com)** | **[US Sales Capabilities & Coaching Intern](https://jobright.ai/jobs/info/6971a900587dfa0bb55f5c1e?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
