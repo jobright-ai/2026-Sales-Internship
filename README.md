@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Premium Sales & Services Intern](https://jobright.ai/jobs/info/6971b6f251f7264771842c6b?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 371](https://jobright.ai/jobs/info/6971db2d47b64f4e963e12d0?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Jan 22 |
+| ↳ | **[PHARMACY/PHARMCST-INTERN STORE 396](https://jobright.ai/jobs/info/6971d9abcda45e6953580bb8?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Jan 22 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 346](https://jobright.ai/jobs/info/6971d6d447b64f4e963e1096?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Jan 21 |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Corporate Partnerships Intern](https://jobright.ai/jobs/info/6971d46947b64f4e963e0eef?utm_campaign=1051&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 21 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6971d423b707bf728a4b5ff5?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jan 21 |
+| ↳ | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/6971d04447b64f4e963e0b81?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jan 21 |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Corporate Partnerships & Ticket Sales Intern, Greensboro Swarm](https://jobright.ai/jobs/info/6971daedcda45e6953580cab?utm_campaign=1051&utm_source=git)** | Greensboro, North Carolina, United States | On Site | Jan 21 |
+| ↳ | **[Premium Sales & Services Intern](https://jobright.ai/jobs/info/6971b6f251f7264771842c6b?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[Orvanta](orvanta.us)** | **[Sales Internship](https://jobright.ai/jobs/info/6971ae93587dfa0bb55f7899?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 21 |
 | **[Galderma](http://www.galderma.com)** | **[US Sales Capabilities & Coaching Intern](https://jobright.ai/jobs/info/6971a900587dfa0bb55f5c1e?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 21 |
 | **[Vanguard Truck Centers](https://www.vanguardtrucks.com)** | **[Truck Sales Intern](https://jobright.ai/jobs/info/6971a6fa333b6343a14e423b?utm_campaign=1051&utm_source=git)** | Forest Park, GA | On Site | Jan 21 |
@@ -73,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719c98333b6343a14e35c8?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 21 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/69719c32333b6343a14e3570?utm_campaign=1051&utm_source=git)** | Eagle Mountain, UT | Hybrid | Jan 21 |
 | **[Raymond West](https://raymondwest.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69719c16587dfa0bb55f4b0d?utm_campaign=1051&utm_source=git)** | Auburn, WA | On Site | Jan 21 |
-| **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719bbf51f726477183f5aa?utm_campaign=1051&utm_source=git)** | North Charleston, SC | On Site | Jan 21 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719bbf51f726477183f5ab?utm_campaign=1051&utm_source=git)** | Wake Forest, NC | On Site | Jan 21 |
+| **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719bbf51f726477183f5ab?utm_campaign=1051&utm_source=git)** | Wake Forest, NC | On Site | Jan 21 |
+| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719bbf51f726477183f5aa?utm_campaign=1051&utm_source=git)** | North Charleston, SC | On Site | Jan 21 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69616943a112b402660feb25?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Jan 21 |
 | **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719b72333b6343a14e34d6?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719b16587dfa0bb55f4a38?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Jan 21 |
@@ -117,15 +124,15 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) -Wenatchee, WA (Starting Summer 2026)](https://jobright.ai/jobs/info/69718a8e51f726477183e5ec?utm_campaign=1051&utm_source=git)** | Wenatchee, WA | On Site | Jan 21 |
 | **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Demand Planning Analyst Intern](https://jobright.ai/jobs/info/695dfd3861d5475ac1a0c236?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 21 |
 | **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971bd0251f7264771842fac?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | On Site | Jan 21 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971a88b587dfa0bb55f5bde?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971b08a587dfa0bb55f7a1d?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Jan 21 |
+| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971a88b587dfa0bb55f5bde?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971b6d251f7264771842c4e?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | On Site | Jan 21 |
+| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971b8c051f7264771842d8a?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971b88f333b6343a14e6d8e?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971bb6a333b6343a14e6f09?utm_campaign=1051&utm_source=git)** | Glendale, AZ | On Site | Jan 21 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971b8c051f7264771842d8a?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Jan 21 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971b835333b6343a14e6d53?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971bd2e333b6343a14e6ff7?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971badb333b6343a14e6ecc?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Jan 21 |
+| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971b835333b6343a14e6d53?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971aba6587dfa0bb55f763e?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6971b6dc51f7264771842c57?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Jan 21 |
 | **[Pacific BMW](http://pacificbmw.com)** | **[Dealership Intern - Part-time](https://jobright.ai/jobs/info/6971876c51f726477183e319?utm_campaign=1051&utm_source=git)** | Service, Glendale, CA, US | On Site | Jan 21 |
@@ -141,8 +148,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/6971a2b5587dfa0bb55f4fb1?utm_campaign=1051&utm_source=git)** | Norfolk, VA | Hybrid | Jan 21 |
 | ↳ | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/6971a115587dfa0bb55f4eb1?utm_campaign=1051&utm_source=git)** | Kaysville, UT | Hybrid | Jan 21 |
 | ↳ | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/69719d97333b6343a14e367d?utm_campaign=1051&utm_source=git)** | Las Vegas, NM | Hybrid | Jan 21 |
-| **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719e92333b6343a14e36f9?utm_campaign=1051&utm_source=git)** | Islip, NY | On Site | Jan 21 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719ed0333b6343a14e3723?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Jan 21 |
+| **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719ed0333b6343a14e3723?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Jan 21 |
+| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719e92333b6343a14e36f9?utm_campaign=1051&utm_source=git)** | Islip, NY | On Site | Jan 21 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719df251f726477183f774?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Jan 21 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/6971a24951f726477183fa1c?utm_campaign=1051&utm_source=git)** | Millcreek, UT | Hybrid | Jan 21 |
 | **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719fb7333b6343a14e3795?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Dealership Intern - Part-time](https://jobright.ai/jobs/info/69717e73333b6343a14e1a43?utm_campaign=1051&utm_source=git)** | Parts, Glendale, CA, US | On Site | Jan 21 |
 | **[Terrain](http://shopterrain.com)** | **[Terrain Buying Intern- Delaware Valley University](https://jobright.ai/jobs/info/69717dbb333b6343a14e1989?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[MADE Hoops](https://www.madehoops.com/)** | **[Basketball Recruiting/Sales Internship](https://jobright.ai/jobs/info/69719f8a587dfa0bb55f4def?utm_campaign=1051&utm_source=git)** | United States | On Site | Jan 21 |
-| **[NDM Hospitality](https://ndmhospitality.com)** | **[Sales & Event Internship - Island H2O Water Park](https://jobright.ai/jobs/info/69717c1f51f726477183d851?utm_campaign=1051&utm_source=git)** | Kissimmee,FL,US | On Site | Jan 21 |
-| **[Transfinder](http://www.transfinder.com/)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6971787a51f726477183d42e?utm_campaign=1051&utm_source=git)** | Schenectady, NY | On Site | Jan 21 |
-| **[Detail Connect](https://www.detailconnect.app/)** | **[Remote Sales](https://jobright.ai/jobs/info/69719db3333b6343a14e368f?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 21 |
-| **[Arvento A](arventoa.us)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/697199db587dfa0bb55f492c?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jan 21 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - South Region](https://jobright.ai/jobs/info/69716f0451f726477183b852?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | Jan 21 |
-| **[Mouser Electronics](http://mouser.com)** | **[Customer Development Intern](https://jobright.ai/jobs/info/69718b3c333b6343a14e2639?utm_campaign=1051&utm_source=git)** | Mansfield, TX, United States | On Site | Jan 21 |
-| **[Echo Global Logistics](https://www.echo.com)** | **[Client Sales Intern – Dallas](https://jobright.ai/jobs/info/69716eb151f726477183b81a?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
