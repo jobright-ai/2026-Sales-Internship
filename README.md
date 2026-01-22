@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commerce Operations Associate Intern, New York City,  Summer 2026](https://jobright.ai/jobs/info/697269344ccbf64f8df26105?utm_campaign=1051&utm_source=git)** | New York, NY, USA | Hybrid | Jan 22 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/696eae87350cf438031583c9?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 22 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/6972649c4ccbf64f8df25e1b?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 22 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/697261e9584a1c1ef6fd6596?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jan 22 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Inside Sales - Business Development Intern](https://jobright.ai/jobs/info/69725f459b83b424830e583d?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Jan 22 |
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Intermediary Sales Intern](https://jobright.ai/jobs/info/69725c1f584a1c1ef6fd60d9?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts | On Site | Jan 22 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Insurance Sales Intern](https://jobright.ai/jobs/info/6972536b584a1c1ef6fd469b?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jan 22 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - New England & Capital District,](https://jobright.ai/jobs/info/69725369584a1c1ef6fd469a?utm_campaign=1051&utm_source=git)** | South Windsor, CT | On Site | Jan 22 |
 | **[Veltrana Group](veltranagroup.us)** | **[Sales internship pacific](https://jobright.ai/jobs/info/697252d19b83b424830e3a09?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Jan 22 |
+| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69726cda4ccbf64f8df262d6?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jan 22 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69726f68584a1c1ef6fd6d6d?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 22 |
+| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Business Markets](https://jobright.ai/jobs/info/697269394ccbf64f8df2610c?utm_campaign=1051&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Jan 22 |
+| **[University Health Network](https://www.uhn.ca/)** | **[Junior Coordinator (Intern), Gift Processing](https://jobright.ai/jobs/info/696a15a9350cf43803110fe3?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 22 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Southern California and Phoenix](https://jobright.ai/jobs/info/6972398d584a1c1ef6fd3682?utm_campaign=1051&utm_source=git)** | Moreno Valley, CA | On Site | Jan 22 |
 | **[Citi](https://www.citi.com)** | **[Client - Global Strategy & Macro Group, Summer Analyst, New York City - US 2027](https://jobright.ai/jobs/info/697259de9b83b424830e4acb?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
 | **[Fitch Solutions](https://www.fitchsolutions.com)** | **[Commercial Graduate Program, Fitch Solutions, New York - September 2026](https://jobright.ai/jobs/info/691ae78cbcdbf3560c9db973?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
@@ -97,8 +104,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691ddade61dc50590a64afb2?utm_campaign=1051&utm_source=git)** | Spruce Grove, Alberta, Canada | On Site | Jan 22 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691dc54261dc50590a64a11e?utm_campaign=1051&utm_source=git)** | Cornwall, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e02fb09cc522e87734d2e?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Jan 22 |
-| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691ddf2d748c4e1301ec9a3f?utm_campaign=1051&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e03cca49a885af9a23b2b?utm_campaign=1051&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 22 |
+| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691ddf2d748c4e1301ec9a3f?utm_campaign=1051&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e0a85a49a885af9a24025?utm_campaign=1051&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e08b809cc522e8773515b?utm_campaign=1051&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e12c409cc522e87735be3?utm_campaign=1051&utm_source=git)** | Hawkesbury, Ontario, Canada | On Site | Jan 22 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Blue Ventis](blueventis.us)** | **[Sales Representative Intern](https://jobright.ai/jobs/info/6971f48ecda45e6953583324?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 21 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Corporate Partnerships & Ticket Sales Intern, Greensboro Swarm](https://jobright.ai/jobs/info/6971daedcda45e6953580cab?utm_campaign=1051&utm_source=git)** | Greensboro, North Carolina, United States | On Site | Jan 21 |
 | ↳ | **[Premium Sales & Services Intern](https://jobright.ai/jobs/info/6971b6f251f7264771842c6b?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
-| **[Orvanta](orvanta.us)** | **[Sales Internship](https://jobright.ai/jobs/info/6971ae93587dfa0bb55f7899?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 21 |
 | **[Galderma](http://www.galderma.com)** | **[US Sales Capabilities & Coaching Intern](https://jobright.ai/jobs/info/6971a900587dfa0bb55f5c1e?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 21 |
-| **[Vanguard Truck Centers](https://www.vanguardtrucks.com)** | **[Truck Sales Intern](https://jobright.ai/jobs/info/6971a6fa333b6343a14e423b?utm_campaign=1051&utm_source=git)** | Forest Park, GA | On Site | Jan 21 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69719f73587dfa0bb55f4de1?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
-| **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/69719f0e587dfa0bb55f4d8e?utm_campaign=1051&utm_source=git)** | Farmington, NM | Hybrid | Jan 21 |
-| ↳ | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/69719e49333b6343a14e36d5?utm_campaign=1051&utm_source=git)** | Herriman, UT | Hybrid | Jan 21 |
-| **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69719dfb51f726477183f77b?utm_campaign=1051&utm_source=git)** | Madison, AL | On Site | Jan 21 |
-| **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/69719dda51f726477183f765?utm_campaign=1051&utm_source=git)** | Las Cruces, NM | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
