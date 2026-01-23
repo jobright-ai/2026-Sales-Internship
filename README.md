@@ -95,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Cheekwood](https://cheekwood.org)** | **[Development Intern - Summer 2026](https://jobright.ai/jobs/info/6972da8b98522904c697ad39?utm_campaign=1051&utm_source=git)** | Nashville,TN,US | On Site | Jan 22 |
 | **[APTIM](https://www.aptim.com/)** | **[Business Development & Growth Intern (STRIVE Program)](https://jobright.ai/jobs/info/6972bde89b83b424830ec54b?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jan 22 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Commercial & Market Access](https://jobright.ai/jobs/info/6972bc239b83b424830ec3a7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 22 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer- Relationship Manager Student Intern](https://jobright.ai/jobs/info/6972dc1b1d55d64a20533e1f?utm_campaign=1051&utm_source=git)** | VANCOUVER, British Columbia, Canada | On Site | Jan 22 |
-| ↳ | **[2026 Summer- Relationship Manager Student Intern](https://jobright.ai/jobs/info/6972d9c30488fd59f7d5d451?utm_campaign=1051&utm_source=git)** | NORTH VANCOUVER, British Columbia, Canada | On Site | Jan 22 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer- Relationship Manager Student Intern](https://jobright.ai/jobs/info/6972d9c30488fd59f7d5d451?utm_campaign=1051&utm_source=git)** | NORTH VANCOUVER, British Columbia, Canada | On Site | Jan 22 |
+| ↳ | **[2026 Summer- Relationship Manager Student Intern](https://jobright.ai/jobs/info/6972dc1b1d55d64a20533e1f?utm_campaign=1051&utm_source=git)** | VANCOUVER, British Columbia, Canada | On Site | Jan 22 |
 | **[Denver Art Museum](https://www.denverartmuseum.org/en)** | **[Retail Pathways Exploration Internship](https://jobright.ai/jobs/info/6972e35f0488fd59f7d5e06b?utm_campaign=1051&utm_source=git)** | Denver Art Museum - Denver, CO 80204 | On Site | Jan 22 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Connected Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6972dcca0488fd59f7d5d83a?utm_campaign=1051&utm_source=git)** | Watertown, South Dakota, United States | On Site | Jan 22 |
 | **[PITT OHIO](http://www.pittohio.com)** | **[Sale CRM Intern](https://jobright.ai/jobs/info/6972dac71d55d64a20533c7a?utm_campaign=1051&utm_source=git)** | US-PA-Pittsburgh | On Site | Jan 22 |
@@ -137,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[AD Mortgage LLC](https://admortgage.com/)** | **[Business Development Specialist Intern](https://jobright.ai/jobs/info/69729f839b83b424830ea2de?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 22 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Field Sales Intern](https://jobright.ai/jobs/info/69729d40584a1c1ef6fda5b1?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
 | **[AMD](http://www.amd.com)** | **[2026 Undergraduate Business Development Server Loads Intern/Co-op](https://jobright.ai/jobs/info/69729bc8584a1c1ef6fda2e1?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Jan 22 |
-| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69729bc2584a1c1ef6fda2dd?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | Hybrid | Jan 22 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/69729b494ccbf64f8df29b26?utm_campaign=1051&utm_source=git)** | Kuna, ID | Hybrid | Jan 22 |
 | ↳ | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/69729a2f584a1c1ef6fd9f33?utm_campaign=1051&utm_source=git)** | Eagle, ID | Hybrid | Jan 22 |
 | ↳ | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/69729a209b83b424830e96d5?utm_campaign=1051&utm_source=git)** | Meridian, ID | Hybrid | Jan 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE SALES INTERN SPRING '26 - WDAM](https://jobright.ai/jobs/info/69728bd79b83b424830e7c5d?utm_campaign=1051&utm_source=git)** | Moselle, MS | On Site | Jan 22 |
 | **[AD Mortgage LLC](https://admortgage.com/)** | **[Business Development Specialist Intern](https://jobright.ai/jobs/info/6972a82d4ccbf64f8df2b48f?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 22 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Business Development Intern](https://jobright.ai/jobs/info/697289f9584a1c1ef6fd857e?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | Jan 22 |
+| **[Cologix, Inc.](http://www.cologix.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/69728872584a1c1ef6fd83bc?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
