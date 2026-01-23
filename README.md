@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69738711206da320f49d84f5?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | Jan 23 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Columbia](https://jobright.ai/jobs/info/697395f1206da320f49d8c94?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Jan 23 |
+| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69738e6737785856350d6178?utm_campaign=1051&utm_source=git)** | Michigan, United States | On Site | Jan 23 |
+| ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69738c7e206da320f49d889e?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | On Site | Jan 23 |
+| ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69738711206da320f49d84f5?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | Jan 23 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Purchases Internship](https://jobright.ai/jobs/info/68a7a6bb33dd7158bbca893c?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Jan 23 |
 | **[SBA Communications](http://www.sbasite.com)** | **[Intern - Asset Development](https://jobright.ai/jobs/info/69027ea0ff462851fefe3cc6?utm_campaign=1051&utm_source=git)** | Hillsborough County, FL | On Site | Jan 23 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Purchases Internship](https://jobright.ai/jobs/info/68a98a216acf96396f728550?utm_campaign=1051&utm_source=git)** | Mason, OH | On Site | Jan 23 |
@@ -97,7 +100,11 @@ For a complete list, click the following sortable link below:
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Client Engagement - Portfolio Solutions Group – Graduate-Level Internship](https://jobright.ai/jobs/info/68cd83061ad6b16f0289ab69?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933f40ea0dde7020e2f357f?utm_campaign=1051&utm_source=git)** | Grand Island, NE | On Site | Jan 23 |
 | **[AB InBev APAC](http://www.ab-inbev.cn/)** | **[2023 SET(Sales Execellent Trainee) Summer Intern 채용 (Test)](https://jobright.ai/jobs/info/695a1676f1f8465b79f06ab1?utm_campaign=1051&utm_source=git)** | Tower City, ND | Hybrid | Jan 23 |
+| **[Procter & Gamble](https://us.pg.com/)** | **[Purchases Internship](https://jobright.ai/jobs/info/68a3690a1ab5f8579e8a555a?utm_campaign=1051&utm_source=git)** | St Bernard, OH | On Site | Jan 23 |
+| ↳ | **[Purchases Internship](https://jobright.ai/jobs/info/68a7ab34d627244576e2de84?utm_campaign=1051&utm_source=git)** | West Chester, OH | On Site | Jan 23 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Export Sales Intern](https://jobright.ai/jobs/info/693afb65d4054a2bc024e1a6?utm_campaign=1051&utm_source=git)** | Green Bay, WI | Hybrid | Jan 23 |
 | **[Precision Castparts](http://precast.com)** | **[Sales Intern (Co-Op)](https://jobright.ai/jobs/info/690249a5ff462851fefe18b2?utm_campaign=1051&utm_source=git)** | Rialto, CA | On Site | Jan 23 |
+| **[Vanillakart](https://vanillakart.com/)** | **[Business development and sales intern (unpaid)](https://jobright.ai/jobs/info/69738e13206da320f49d89b9?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69736bce37785856350d3641?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commerce Operations Associate Intern, New York City,  Summer 2026](https://jobright.ai/jobs/info/69736b2c37785856350d3633?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Summer Sales & Marketing Intern](https://jobright.ai/jobs/info/68cb7413efdec76df36bce5d?utm_campaign=1051&utm_source=git)** | Kaukauna, WI | On Site | Jan 23 |
@@ -115,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Purchasing (Summer 2026)](https://jobright.ai/jobs/info/69735d51bc8e722e7b18326c?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Jan 23 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/697380aa206da320f49d824e?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 23 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69737b8d206da320f49d7f11?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 23 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6973796ebc8e722e7b1852e9?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Jan 23 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69737b68206da320f49d7efc?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Jan 23 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6973796ebc8e722e7b1852e9?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Jan 23 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69737dbf206da320f49d806d?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Jan 23 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – South San Francisco Bay, California (Starting Summer 2026)](https://jobright.ai/jobs/info/69737a92206da320f49d7e80?utm_campaign=1051&utm_source=git)** | Gilroy, CA | On Site | Jan 23 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - San Diego North County, CA (Starting Summer 2026](https://jobright.ai/jobs/info/6973794e206da320f49d7da9?utm_campaign=1051&utm_source=git)** | Escondido, CA | On Site | Jan 23 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Canada Off-Premise Sales Intern](https://jobright.ai/jobs/info/6972e5681d55d64a205348f1?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 22 |
 | **[griddable.io](https://griddable.io)** | **[Sales Development Representative, Nonprofit (Early Career)](https://jobright.ai/jobs/info/69730b36694e99351d145b6e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[BMO](http://www.bmo.com)** | **[Personal Banking Associate, Summer 2026 (co-op/internship)-4 Months](https://jobright.ai/jobs/info/6972e24398522904c697b5ea?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 22 |
-| **[Southern Glazer's Wine & Spirits](https://www.southernglazers.com/careers)** | **[2026 Summer Internship / Inside Sales / Addison, TX](https://jobright.ai/jobs/info/6972fe75206da320f49cf3b4?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
-| ↳ | **[2026 Summer Internship / Inside Sales / Miami, FL](https://jobright.ai/jobs/info/6973004c694e99351d14458a?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 22 |
-| **[Wurth Elektronik](https://www.we-ics.com)** | **[Connected Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6972e0ee0488fd59f7d5dd5d?utm_campaign=1051&utm_source=git)** | Watertown, SD | Hybrid | Jan 22 |
-| **[San Francisco Glens SC](https://www.sfglensacademy.com)** | **[Merchandise Operations Intern](https://jobright.ai/jobs/info/6972f7f1206da320f49cee97?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
-| **[Supercarb](https://www.supercarb.tech/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6972da070488fd59f7d5d4b2?utm_campaign=1051&utm_source=git)** | San Leandro, CA | On Site | Jan 22 |
-| **[Cologix, Inc.](http://www.cologix.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/6972ff391790715e866beb47?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jan 22 |
-| **[Bridges AI Consulting](https://bridgesai.consulting/)** | **[Sales Intern](https://jobright.ai/jobs/info/6972d6270488fd59f7d5cf84?utm_campaign=1051&utm_source=git)** | Basking Ridge, NJ | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
