@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Omaha, NE - Summer 2026](https://jobright.ai/jobs/info/69730b55206da320f49d0ee4?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Jan 22 |
+| **[McKinstry](http://www.mckinstry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69730a2a206da320f49d092e?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 22 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6972fb71694e99351d144187?utm_campaign=1051&utm_source=git)** | Delta, British Columbia, Canada | On Site | Jan 22 |
 | ↳ | **[2026 Summer- Relationship Manager Student Intern](https://jobright.ai/jobs/info/6972f6b0206da320f49cedb6?utm_campaign=1051&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jan 22 |
 | **[Southern Glazer's Wine & Spirits](https://www.southernglazers.com/careers)** | **[2026 Summer Internship / Inside Sales / Wilsonville, OR](https://jobright.ai/jobs/info/6972f616694e99351d143e1e?utm_campaign=1051&utm_source=git)** | Wilsonville, OR | On Site | Jan 22 |
@@ -64,10 +66,14 @@ For a complete list, click the following sortable link below:
 | **[Southern Glazer's Wine & Spirits](https://www.southernglazers.com/careers)** | **[2026 Summer Internship / Inside Sales / Wilsonville, OR](https://jobright.ai/jobs/info/6972ec3998522904c697bd7c?utm_campaign=1051&utm_source=git)** | Oregon - CORP | On Site | Jan 22 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship](https://jobright.ai/jobs/info/6972e9151d55d64a20534b0e?utm_campaign=1051&utm_source=git)** | West Fargo, ND | On Site | Jan 22 |
 | **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Canada Off-Premise Sales Intern](https://jobright.ai/jobs/info/6972e5681d55d64a205348f1?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 22 |
+| **[griddable.io](https://griddable.io)** | **[Sales Development Representative, Nonprofit (Early Career)](https://jobright.ai/jobs/info/69730b36694e99351d145b6e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[BMO](http://www.bmo.com)** | **[Personal Banking Associate, Summer 2026 (co-op/internship)-4 Months](https://jobright.ai/jobs/info/6972e24398522904c697b5ea?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 22 |
+| **[Southern Glazer's Wine & Spirits](https://www.southernglazers.com/careers)** | **[2026 Summer Internship / Inside Sales / Addison, TX](https://jobright.ai/jobs/info/6972fe75206da320f49cf3b4?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
+| ↳ | **[2026 Summer Internship / Inside Sales / Miami, FL](https://jobright.ai/jobs/info/6973004c694e99351d14458a?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 22 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Connected Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6972e0ee0488fd59f7d5dd5d?utm_campaign=1051&utm_source=git)** | Watertown, SD | Hybrid | Jan 22 |
 | **[San Francisco Glens SC](https://www.sfglensacademy.com)** | **[Merchandise Operations Intern](https://jobright.ai/jobs/info/6972f7f1206da320f49cee97?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
 | **[Supercarb](https://www.supercarb.tech/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6972da070488fd59f7d5d4b2?utm_campaign=1051&utm_source=git)** | San Leandro, CA | On Site | Jan 22 |
+| **[Cologix, Inc.](http://www.cologix.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/6972ff391790715e866beb47?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jan 22 |
 | **[Bridges AI Consulting](https://bridgesai.net/)** | **[Sales Intern](https://jobright.ai/jobs/info/6972d6270488fd59f7d5cf84?utm_campaign=1051&utm_source=git)** | Basking Ridge, NJ | Hybrid | Jan 22 |
 | **[DAVID AI](https://getdavid.ai/)** | **[Sales Development Representative Internship](https://jobright.ai/jobs/info/6972f8ee1790715e866be6b6?utm_campaign=1051&utm_source=git)** | Provo, UT | On Site | Jan 22 |
 | **[Boomi](https://boomi.com/)** | **[Strategy & Business  Development Summer Intern (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/6972d5561d55d64a205335b9?utm_campaign=1051&utm_source=git)** | Canada | Hybrid | Jan 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Sales and Relationship Management Internship - Summer 2026](https://jobright.ai/jobs/info/6972b7689b83b424830ec022?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 22 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Business Development Intern](https://jobright.ai/jobs/info/697289f9584a1c1ef6fd857e?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | Jan 22 |
 | **[Cologix, Inc.](http://www.cologix.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/69728872584a1c1ef6fd83bc?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jan 22 |
-| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69728856584a1c1ef6fd8397?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 22 |
-| **[MaRS Discovery District](http://marsdd.com)** | **[Intern, Health Sciences - Summer 2026](https://jobright.ai/jobs/info/6972a4cc584a1c1ef6fdb70c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 22 |
-| **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/index#)** | **[Business Development Intern](https://jobright.ai/jobs/info/697287f79b83b424830e78b3?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 22 |
-| **[ACR (AmerCareRoyal)](https://amercareroyal.com)** | **[E-Commerce Internship](https://jobright.ai/jobs/info/697286e6584a1c1ef6fd8204?utm_campaign=1051&utm_source=git)** | Exton, PA | Hybrid | Jan 22 |
-| **[Coty](https://www.coty.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6972b6a59b83b424830ebf40?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 22 |
-| **[Kloeckner Metals - Americas](http://www.kloecknermetals.com/)** | **[Regional Operations and Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6972a2a74ccbf64f8df2abaf?utm_campaign=1051&utm_source=git)** | Santa Fe Springs, CA | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
