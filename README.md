@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Ventis](blueventis.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/69748f9e206da320f49ed5e2?utm_campaign=1051&utm_source=git)** | Ventura County, CA | Remote | Jan 24 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Towerstone Intern - Summer 2026](https://jobright.ai/jobs/info/692f72cafa28370be26aa337?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | On Site | Jan 24 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Merchandising & Retail Intern - Summer 2026](https://jobright.ai/jobs/info/69747aee37785856350e90d5?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Business Development Intern](https://jobright.ai/jobs/info/6974789d37785856350e8ee4?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Sales Intern - Summer 2026](https://jobright.ai/jobs/info/697475a5206da320f49eb444?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
@@ -109,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69742e0dbc8e722e7b19244e?utm_campaign=1051&utm_source=git)** | US-TN-Nashville | On Site | Jan 23 |
 | ↳ | **[Sales Internship](https://jobright.ai/jobs/info/69742f4ebc8e722e7b1925d6?utm_campaign=1051&utm_source=git)** | Jacksonville, FL, US | On Site | Jan 23 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/69742e4dbc8e722e7b192498?utm_campaign=1051&utm_source=git)** | Remote (Atlanta, Georgia, US) | Remote | Jan 23 |
-| ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/69742b9337785856350e2559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
 | ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/69742c0f206da320f49e4e24?utm_campaign=1051&utm_source=git)** | Remote (Nashville, Tennessee, US) | Remote | Jan 23 |
+| ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/69742b9337785856350e2559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern – Partnership Services](https://jobright.ai/jobs/info/69742a0c206da320f49e4bce?utm_campaign=1051&utm_source=git)** | US-NC-Wilson | On Site | Jan 23 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Specialist (Los Angeles)](https://jobright.ai/jobs/info/697409b3bc8e722e7b18ed8c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 23 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/695842d4aa05c26e7ab2306d?utm_campaign=1051&utm_source=git)** | Neenah, WI | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CBC Real Estate](https://www.cbcrealestate.com/)** | **[Ticket Sales & Promotions Summer Intern](https://jobright.ai/jobs/info/6973e62c37785856350db5ff?utm_campaign=1051&utm_source=git)** | Zebulon, NC, US | On Site | Jan 23 |
 | **[Primax](http://primax.us)** | **[Intern – Primax Sales Operations](https://jobright.ai/jobs/info/6973e5d3206da320f49dddfe?utm_campaign=1051&utm_source=git)** | North Carolina - Remote | Remote | Jan 23 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Sales Support - Summer 2026](https://jobright.ai/jobs/info/6973e36a206da320f49ddc27?utm_campaign=1051&utm_source=git)** | Brillion, WI | On Site | Jan 23 |
-| **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Category Management](https://jobright.ai/jobs/info/6973e33e37785856350db410?utm_campaign=1051&utm_source=git)** | Hershey, PA | Hybrid | Jan 23 |
-| **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973e276206da320f49ddb27?utm_campaign=1051&utm_source=git)** | Buffalo, NY | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
