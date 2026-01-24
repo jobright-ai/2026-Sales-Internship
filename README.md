@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Specialist (Los Angeles)](https://jobright.ai/jobs/info/697409b3bc8e722e7b18ed8c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 23 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/695842d4aa05c26e7ab2306d?utm_campaign=1051&utm_source=git)** | Neenah, WI | On Site | Jan 23 |
 | **[TIH](https://www.truistinsurance.com/)** | **[Broker Assistant Intern](https://jobright.ai/jobs/info/697405a3bc8e722e7b18ea15?utm_campaign=1051&utm_source=git)** | CRC - New York NY, 565 5th Avenue | On Site | Jan 23 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – VyStar Insurance Agency](https://jobright.ai/jobs/info/6974052937785856350ded8a?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Sales Strategy](https://jobright.ai/jobs/info/6973f4bebc8e722e7b18dae2?utm_campaign=1051&utm_source=git)** | Illinois - Chicago | On Site | Jan 23 |
 | **[ABB](https://global.abb/group/en)** | **[Electrification Sales Intern - Summer 2026](https://jobright.ai/jobs/info/695ed85ca112b402660d8f2b?utm_campaign=1051&utm_source=git)** | Cary, NC | On Site | Jan 23 |
 | **[Schulte Hospitality Group](http://schultehospitality.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6973f2a9bc8e722e7b18d89c?utm_campaign=1051&utm_source=git)** | Bardstown, KY | On Site | Jan 23 |
+| **[GreenPoint Ag](https://www.greenpointag.com/)** | **[Intern II- -Wholesale Pricing & Analytics](https://jobright.ai/jobs/info/69741287206da320f49e1ee2?utm_campaign=1051&utm_source=git)** | Decatur, AL | On Site | Jan 23 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6973e1eabc8e722e7b18b4e3?utm_campaign=1051&utm_source=git)** | Akron, OH | On Site | Jan 23 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973eff9bc8e722e7b18d627?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | ↳ | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973ef8437785856350dc016?utm_campaign=1051&utm_source=git)** | St Clair Shores, MI | Hybrid | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2025 Summer Sales Intern](https://jobright.ai/jobs/info/6973e42437785856350db4f1?utm_campaign=1051&utm_source=git)** | Chatham, Ontario, Canada | On Site | Jan 23 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales & Logistics Intern](https://jobright.ai/jobs/info/6973bcc637785856350d917d?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales Intern, D.C](https://jobright.ai/jobs/info/6973ba5f37785856350d8f76?utm_campaign=1051&utm_source=git)** | Capitol Heights-Maryland-United States of America | On Site | Jan 23 |
-| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – VyStar Insurance Agency](https://jobright.ai/jobs/info/6973d98abc8e722e7b18a912?utm_campaign=1051&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
-| **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Acquisitions & Development Intern](https://jobright.ai/jobs/info/6973d632206da320f49dd04c?utm_campaign=1051&utm_source=git)** | NY - New York - Loews Hotels & Co Corporate Office | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
