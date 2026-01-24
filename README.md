@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Legacy FC](https://bostonlegacyfc.com)** | **[Partnerships Operations & Activation Intern (academic credit)](https://jobright.ai/jobs/info/6974f7fd206da320f49f2748?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
+| ↳ | **[Partnerships Operations & Activation Intern (paid)](https://jobright.ai/jobs/info/6974f63937785856350eef00?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69320b7dfa28370be26c1317?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Jan 24 |
+| **[Appli AI](https://applisolutions.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6974ed7b206da320f49f1193?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 24 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Endoscopy Commercial Strategy & Excellence Intern 2026](https://jobright.ai/jobs/info/6974ed4dbc8e722e7b19e3a7?utm_campaign=1051&utm_source=git)** | Marlborough, MA | Hybrid | Jan 24 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Commercial Year-Round intern (May 2026 Start)](https://jobright.ai/jobs/info/6965ad772cbf4e44756f5adb?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jan 24 |
 | **[Starbeam](www.starbeam.org)** | **[Sales + Marketing Intern](https://jobright.ai/jobs/info/6974e75dbc8e722e7b19e20b?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Jan 24 |
 | **[Prosource](https://www.totalprosource.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/6974e4f337785856350ee82c?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jan 24 |
@@ -89,7 +94,8 @@ For a complete list, click the following sortable link below:
 | **[David Yurman](http://www.davidyurman.com)** | **[Planning Analytics Intern](https://jobright.ai/jobs/info/691f924409cc522e877431fc?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Pre/Post Sale Operations Intern](https://jobright.ai/jobs/info/693cd92550bbaf7650500353?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b30fd64a22104aa91e5e?utm_campaign=1051&utm_source=git)** | Hayward, CA | On Site | Jan 24 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/69025a79ff462851fefe23af?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Jan 24 |
+| **[GreenPoint Ag](https://www.greenpointag.com/)** | **[Intern II- -Wholesale Pricing & Analytics](https://jobright.ai/jobs/info/6974ea39206da320f49f1122?utm_campaign=1051&utm_source=git)** | Decatur, AL | On Site | Jan 24 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/69025a79ff462851fefe23af?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Jan 24 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690257cf00a1816c41e9d1e9?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 24 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6902563e98707b2b0fe6e59d?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Sales Operations Summer Intern](https://jobright.ai/jobs/info/693ce66449a7695fbd039342?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 24 |
@@ -133,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/689560b64ed2ea559ca55583?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974cf20bc8e722e7b19d693?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974ca7937785856350edb6b?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Jan 24 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974c9d8206da320f49f0187?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Jan 24 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cc08bc8e722e7b19d4ab?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jan 24 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974c9d8206da320f49f0187?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Jan 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974cc49bc8e722e7b19d4d7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
 | ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974ca7837785856350edb6a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
 | ↳ | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974cc4f37785856350edc5d?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jan 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GoFundMe](http://www.gofundme.com)** | **[Customer Success Manager Intern](https://jobright.ai/jobs/info/691f814ca49a885af9a30fc6?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Jan 24 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/693bc42a49a7695fbd02af4e?utm_campaign=1051&utm_source=git)** | Middlebury, CT | On Site | Jan 24 |
 | **[ADP](http://www.adp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6968de1e639b452fb57ea9a9?utm_campaign=1051&utm_source=git)** | Allentown, PA | Remote | Jan 24 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69686b871703f05405aa1f2a?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Jan 24 |
-| **[TERRY ASSET MANAGEMENT LLC](https://www.linkedin.com/company/58812246)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6974d160206da320f49f0605?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Jan 24 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6974d2d437785856350ee01c?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 24 |
-| **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Retail Operations](https://jobright.ai/jobs/info/69582d67f1f8465b79eec113?utm_campaign=1051&utm_source=git)** | Englewood Cliffs, NJ | On Site | Jan 24 |
-| **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68e8821f09580a2fe57f86ba?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | On Site | Jan 24 |
-| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e850b9cc49a84b7e104ffa?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
