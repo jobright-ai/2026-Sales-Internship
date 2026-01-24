@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Sales Internship - Mountain](https://jobright.ai/jobs/info/697502b9206da320f49f2d5f?utm_campaign=1051&utm_source=git)** | Midvale, UT | Remote | Jan 24 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6974fe0a37785856350f061d?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 24 |
+| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Ad Sales Intern](https://jobright.ai/jobs/info/6974fb22bc8e722e7b19fe20?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 24 |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/6974fa2b206da320f49f2c1a?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 24 |
 | **[Boston Legacy FC](https://bostonlegacyfc.com)** | **[Partnerships Operations & Activation Intern (academic credit)](https://jobright.ai/jobs/info/6974f7fd206da320f49f2748?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
 | ↳ | **[Partnerships Operations & Activation Intern (paid)](https://jobright.ai/jobs/info/6974f63937785856350eef00?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69320b7dfa28370be26c1317?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Jan 24 |
@@ -64,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Endoscopy Commercial Strategy & Excellence Intern 2026](https://jobright.ai/jobs/info/6974ed4dbc8e722e7b19e3a7?utm_campaign=1051&utm_source=git)** | Marlborough, MA | Hybrid | Jan 24 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Commercial Year-Round intern (May 2026 Start)](https://jobright.ai/jobs/info/6965ad772cbf4e44756f5adb?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jan 24 |
 | **[Starbeam](www.starbeam.org)** | **[Sales + Marketing Intern](https://jobright.ai/jobs/info/6974e75dbc8e722e7b19e20b?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Jan 24 |
-| **[Prosource](https://www.totalprosource.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/6974e4f337785856350ee82c?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jan 24 |
 | **[MADE Hoops](https://www.madehoops.com/)** | **[Local Sponsorship Intern](https://jobright.ai/jobs/info/6974dc12bc8e722e7b19dcdb?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 24 |
 | **[BoomerTechnologyGroup.com](https://www.boomertechnologygroup.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6974db9b37785856350ee3d1?utm_campaign=1051&utm_source=git)** | Princeton, NJ | Hybrid | Jan 24 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690257be98707b2b0fe6e704?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Jan 24 |
@@ -139,11 +142,11 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/689560b64ed2ea559ca55583?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974cf20bc8e722e7b19d693?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974ca7937785856350edb6b?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Jan 24 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cc08bc8e722e7b19d4ab?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jan 24 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974c9d8206da320f49f0187?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Jan 24 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974cc49bc8e722e7b19d4d7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
-| ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974ca7837785856350edb6a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cc08bc8e722e7b19d4ab?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jan 24 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974ca7837785856350edb6a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
 | ↳ | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974cc4f37785856350edc5d?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jan 24 |
+| ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974cc49bc8e722e7b19d4d7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cedb37785856350eddf1?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Jan 24 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974ca2e206da320f49f01b6?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974c943bc8e722e7b19d34f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ADP](http://www.adp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696cde0cdb26b618951022f2?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Jan 24 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/6903d36963502c0aded6cecf?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Jan 24 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693c29c049a7695fbd0301b0?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Customer Success Manager Intern](https://jobright.ai/jobs/info/691f814ca49a885af9a30fc6?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Jan 24 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/693bc42a49a7695fbd02af4e?utm_campaign=1051&utm_source=git)** | Middlebury, CT | On Site | Jan 24 |
-| **[ADP](http://www.adp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6968de1e639b452fb57ea9a9?utm_campaign=1051&utm_source=git)** | Allentown, PA | Remote | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
