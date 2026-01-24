@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Legacy FC](https://bostonlegacyfc.com)** | **[Partnerships Operations & Activation Intern (paid)](https://jobright.ai/jobs/info/697531fa206da320f49f55ce?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
+| **[MeaVana](https://meavana.com/)** | **[Business Development Specialist](https://jobright.ai/jobs/info/69752a17bc8e722e7b1a0cc0?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Jan 24 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader FT 6610](https://jobright.ai/jobs/info/697526cf37785856350f1320?utm_campaign=1051&utm_source=git)** | Cape May, NJ | On Site | Jan 24 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Sales Internship - Mountain](https://jobright.ai/jobs/info/697502b9206da320f49f2d5f?utm_campaign=1051&utm_source=git)** | Midvale, UT | Remote | Jan 24 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6974fe0a37785856350f061d?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 24 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Ad Sales Intern](https://jobright.ai/jobs/info/6974fb22bc8e722e7b19fe20?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 24 |
@@ -144,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cc08bc8e722e7b19d4ab?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jan 24 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974c9d8206da320f49f0187?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Jan 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974cc4f37785856350edc5d?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jan 24 |
-| ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974ca7837785856350edb6a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
 | ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974cc49bc8e722e7b19d4d7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
+| ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974ca7837785856350edb6a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cedb37785856350eddf1?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Jan 24 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974ca2e206da320f49f01b6?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974c943bc8e722e7b19d34f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974d4c637785856350ee06d?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jan 24 |
 | **[American Industrial Transport - AITX](https://aitx.com/)** | **[Commercial Intern (Sales Team)](https://jobright.ai/jobs/info/69583ad29f1b381eb27122c6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 24 |
 | **[ADP](http://www.adp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696cde0cdb26b618951022f2?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Jan 24 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/6903d36963502c0aded6cecf?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Jan 24 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693c29c049a7695fbd0301b0?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Customer Success Manager Intern](https://jobright.ai/jobs/info/691f814ca49a885af9a30fc6?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
