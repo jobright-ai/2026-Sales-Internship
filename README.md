@@ -57,15 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Boston Legacy FC](https://bostonlegacyfc.com)** | **[Partnerships Operations & Activation Intern (paid)](https://jobright.ai/jobs/info/697531fa206da320f49f55ce?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
-| **[MeaVana](https://meavana.com/)** | **[Business Development Specialist](https://jobright.ai/jobs/info/69752a17bc8e722e7b1a0cc0?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Jan 24 |
+| **[Voya Financial](https://www.voya.com/)** | **[Wealth Management Investor Channel Internship](https://jobright.ai/jobs/info/69753977bc8e722e7b1a2800?utm_campaign=1051&utm_source=git)** | MA-Boston, 121 Seaport Blvd | On Site | Jan 24 |
+| **[Boston Legacy FC](https://bostonlegacyfc.com)** | **[Partnerships Operations & Activation Intern (academic credit)](https://jobright.ai/jobs/info/6975348137785856350f2ff0?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
+| ↳ | **[Partnerships Operations & Activation Intern (paid)](https://jobright.ai/jobs/info/697531fa206da320f49f55ce?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader FT 6610](https://jobright.ai/jobs/info/697526cf37785856350f1320?utm_campaign=1051&utm_source=git)** | Cape May, NJ | On Site | Jan 24 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Sales Internship - Mountain](https://jobright.ai/jobs/info/697502b9206da320f49f2d5f?utm_campaign=1051&utm_source=git)** | Midvale, UT | Remote | Jan 24 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6974fe0a37785856350f061d?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 24 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Ad Sales Intern](https://jobright.ai/jobs/info/6974fb22bc8e722e7b19fe20?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 24 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/6974fa2b206da320f49f2c1a?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 24 |
-| **[Boston Legacy FC](https://bostonlegacyfc.com)** | **[Partnerships Operations & Activation Intern (academic credit)](https://jobright.ai/jobs/info/6974f7fd206da320f49f2748?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
-| ↳ | **[Partnerships Operations & Activation Intern (paid)](https://jobright.ai/jobs/info/6974f63937785856350eef00?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
+| **[Boston Legacy FC](https://bostonlegacyfc.com)** | **[Partnerships Operations & Activation Intern (paid)](https://jobright.ai/jobs/info/6974f63937785856350eef00?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69320b7dfa28370be26c1317?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Jan 24 |
 | **[Appli AI](https://applisolutions.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6974ed7b206da320f49f1193?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 24 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Endoscopy Commercial Strategy & Excellence Intern 2026](https://jobright.ai/jobs/info/6974ed4dbc8e722e7b19e3a7?utm_campaign=1051&utm_source=git)** | Marlborough, MA | Hybrid | Jan 24 |
