@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Business Development Intern](https://jobright.ai/jobs/info/6974789d37785856350e8ee4?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Sales Intern - Summer 2026](https://jobright.ai/jobs/info/697475a5206da320f49eb444?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Management Program Associate Intern](https://jobright.ai/jobs/info/69744f9b37785856350e59d6?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/69744a6a37785856350e4706?utm_campaign=1051&utm_source=git)** | Remote (Nashville, Tennessee, US) | Remote | Jan 23 |
 | ↳ | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/69744a3fbc8e722e7b194398?utm_campaign=1051&utm_source=git)** | Remote (Atlanta, Georgia, US) | Remote | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Category Management](https://jobright.ai/jobs/info/6973e33e37785856350db410?utm_campaign=1051&utm_source=git)** | Hershey, PA | Hybrid | Jan 23 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973e276206da320f49ddb27?utm_campaign=1051&utm_source=git)** | Buffalo, NY | Hybrid | Jan 23 |
 | **[Group 1001](https://group1001.com/)** | **[IT Business Relationship Management Intern](https://jobright.ai/jobs/info/6973e05737785856350db139?utm_campaign=1051&utm_source=git)** | Zionsville, Indiana | Hybrid | Jan 23 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) / Peoria, AZ  - Summer 2026](https://jobright.ai/jobs/info/6973dfc0206da320f49dd88a?utm_campaign=1051&utm_source=git)** | Peoria, AZ 85383 | On Site | Jan 23 |
-| **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973ddff206da320f49dd6e7?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
