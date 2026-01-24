@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e850b9cc49a84b7e104ffa?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Jan 24 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Merchandising & Retail Intern - Summer 2026](https://jobright.ai/jobs/info/6974a268206da320f49edfa2?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 24 |
+| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e854a209580a2fe57f6878?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6955f6da9f1b381eb26f2c6c?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 24 |
+| **[Xylem](https://heimplanet.com/)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/69620d3f25e18715077eebf6?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
+| **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/6905dcdf63502c0aded7eb87?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Jan 24 |
+| **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Insurance and Risk Management Intern](https://jobright.ai/jobs/info/6974968a37785856350eb52b?utm_campaign=1051&utm_source=git)** | Syracuse, NY | Hybrid | Jan 24 |
 | **[Blue Ventis](blueventis.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/69748f9e206da320f49ed5e2?utm_campaign=1051&utm_source=git)** | Ventura County, CA | Remote | Jan 24 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Towerstone Intern - Summer 2026](https://jobright.ai/jobs/info/692f72cafa28370be26aa337?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | On Site | Jan 24 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Merchandising & Retail Intern - Summer 2026](https://jobright.ai/jobs/info/69747aee37785856350e90d5?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Business Development Intern](https://jobright.ai/jobs/info/6974789d37785856350e8ee4?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Sales Intern - Summer 2026](https://jobright.ai/jobs/info/697475a5206da320f49eb444?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Management Program Associate Intern](https://jobright.ai/jobs/info/69744f9b37785856350e59d6?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 23 |
@@ -110,9 +116,9 @@ For a complete list, click the following sortable link below:
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern – Partnership Services](https://jobright.ai/jobs/info/69742e41bc8e722e7b192488?utm_campaign=1051&utm_source=git)** | Wilson, NC | On Site | Jan 23 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69742e0dbc8e722e7b19244e?utm_campaign=1051&utm_source=git)** | US-TN-Nashville | On Site | Jan 23 |
 | ↳ | **[Sales Internship](https://jobright.ai/jobs/info/69742f4ebc8e722e7b1925d6?utm_campaign=1051&utm_source=git)** | Jacksonville, FL, US | On Site | Jan 23 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/69742e4dbc8e722e7b192498?utm_campaign=1051&utm_source=git)** | Remote (Atlanta, Georgia, US) | Remote | Jan 23 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/69742b9337785856350e2559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
 | ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/69742c0f206da320f49e4e24?utm_campaign=1051&utm_source=git)** | Remote (Nashville, Tennessee, US) | Remote | Jan 23 |
-| ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/69742b9337785856350e2559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
+| ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/69742e4dbc8e722e7b192498?utm_campaign=1051&utm_source=git)** | Remote (Atlanta, Georgia, US) | Remote | Jan 23 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern – Partnership Services](https://jobright.ai/jobs/info/69742a0c206da320f49e4bce?utm_campaign=1051&utm_source=git)** | US-NC-Wilson | On Site | Jan 23 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Specialist (Los Angeles)](https://jobright.ai/jobs/info/697409b3bc8e722e7b18ed8c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 23 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/695842d4aa05c26e7ab2306d?utm_campaign=1051&utm_source=git)** | Neenah, WI | On Site | Jan 23 |
@@ -135,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Electrification Sales Intern - Summer 2026](https://jobright.ai/jobs/info/695ed85ca112b402660d8f2b?utm_campaign=1051&utm_source=git)** | Cary, NC | On Site | Jan 23 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Specialist (Los Angeles)](https://jobright.ai/jobs/info/697418a737785856350e1406?utm_campaign=1051&utm_source=git)** | Sacramento, CA | Remote | Jan 23 |
 | **[GreenPoint Ag](https://www.greenpointag.com/)** | **[Intern II- -Wholesale Pricing & Analytics](https://jobright.ai/jobs/info/69741287206da320f49e1ee2?utm_campaign=1051&utm_source=git)** | Decatur, AL | On Site | Jan 23 |
-| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Sales Team Data Science - Summer Intern](https://jobright.ai/jobs/info/6974358d206da320f49e55c4?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI | On Site | Jan 23 |
-| ↳ | **[Sales & Project Management Intern](https://jobright.ai/jobs/info/697434ff37785856350e2e09?utm_campaign=1051&utm_source=git)** | Plymouth, MI | On Site | Jan 23 |
+| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Sales & Project Management Intern](https://jobright.ai/jobs/info/697434ff37785856350e2e09?utm_campaign=1051&utm_source=git)** | Plymouth, MI | On Site | Jan 23 |
+| ↳ | **[Sales Team Data Science - Summer Intern](https://jobright.ai/jobs/info/6974358d206da320f49e55c4?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI | On Site | Jan 23 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6973e1eabc8e722e7b18b4e3?utm_campaign=1051&utm_source=git)** | Akron, OH | On Site | Jan 23 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973eff9bc8e722e7b18d627?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | ↳ | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973ef8437785856350dc016?utm_campaign=1051&utm_source=git)** | St Clair Shores, MI | Hybrid | Jan 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6973e907bc8e722e7b18c4c7?utm_campaign=1051&utm_source=git)** | Saanich, British Columbia, Canada | On Site | Jan 23 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973e893bc8e722e7b18c395?utm_campaign=1051&utm_source=git)** | Towson, MD | Hybrid | Jan 23 |
 | ↳ | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973e876206da320f49de025?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | Hybrid | Jan 23 |
-| **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Sales Trainee](https://jobright.ai/jobs/info/6973e838bc8e722e7b18c2ad?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jan 23 |
-| **[Wurth Elektronik](https://www.we-ics.com)** | **[Inside Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6973e826bc8e722e7b18c271?utm_campaign=1051&utm_source=git)** | Watertown, SD | Hybrid | Jan 23 |
-| **[National Life Group](https://www.nationallife.com)** | **[Advanced Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6973e79dbc8e722e7b18c0ff?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Jan 23 |
-| **[CBC Real Estate](https://www.cbcrealestate.com/)** | **[Ticket Sales & Promotions Summer Intern](https://jobright.ai/jobs/info/6973e62c37785856350db5ff?utm_campaign=1051&utm_source=git)** | Zebulon, NC, US | On Site | Jan 23 |
-| **[Primax](http://primax.us)** | **[Intern – Primax Sales Operations](https://jobright.ai/jobs/info/6973e5d3206da320f49dddfe?utm_campaign=1051&utm_source=git)** | North Carolina - Remote | Remote | Jan 23 |
-| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Sales Support - Summer 2026](https://jobright.ai/jobs/info/6973e36a206da320f49ddc27?utm_campaign=1051&utm_source=git)** | Brillion, WI | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
