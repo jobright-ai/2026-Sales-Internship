@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/69744a6a37785856350e4706?utm_campaign=1051&utm_source=git)** | Remote (Nashville, Tennessee, US) | Remote | Jan 23 |
+| ↳ | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/69744a3fbc8e722e7b194398?utm_campaign=1051&utm_source=git)** | Remote (Atlanta, Georgia, US) | Remote | Jan 23 |
+| ↳ | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/69744a0c206da320f49e6dc0?utm_campaign=1051&utm_source=git)** | Remote (New York, New York, US) | Remote | Jan 23 |
+| ↳ | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/697449d4206da320f49e6c9f?utm_campaign=1051&utm_source=git)** | Remote (Los Angeles, California, US) | Remote | Jan 23 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/697439e237785856350e3469?utm_campaign=1051&utm_source=git)** | Oak Bay, British Columbia, Canada | On Site | Jan 23 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/69743d63206da320f49e62cd?utm_campaign=1051&utm_source=git)** | Delta, British Columbia, Canada | On Site | Jan 23 |
+| ↳ | **[Relationship Manager  Commercial Financial Services Intern](https://jobright.ai/jobs/info/69744491bc8e722e7b193cc2?utm_campaign=1051&utm_source=git)** | Owen Sound, Ontario, Canada | On Site | Jan 23 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Merchandising & Retail Intern - Summer 2026](https://jobright.ai/jobs/info/697442fb206da320f49e6702?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
+| **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/69744130206da320f49e65b7?utm_campaign=1051&utm_source=git)** | West Chester, PA | On Site | Jan 23 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Ticket Sales Intern - Summer 2026](https://jobright.ai/jobs/info/697440da206da320f49e6574?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Prime Time International](https://www.primetimeproduce.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69743d99206da320f49e62f8?utm_campaign=1051&utm_source=git)** | Camarillo, CA | On Site | Jan 23 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69743d63206da320f49e62cd?utm_campaign=1051&utm_source=git)** | Delta, British Columbia, Canada | On Site | Jan 23 |
-| **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2025 Summer Intern: Digital Business](https://jobright.ai/jobs/info/68db12b26df7b8311bb15e8a?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026 - Commercial Lines Intern](https://jobright.ai/jobs/info/69743aa2bc8e722e7b193529?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/697439e237785856350e3469?utm_campaign=1051&utm_source=git)** | Oak Bay, British Columbia, Canada | On Site | Jan 23 |
 | **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Acquisitions & Development Intern](https://jobright.ai/jobs/info/69742ea1206da320f49e5107?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[Calix](http://www.calix.com)** | **[Channel and Ecosystem Partner Intern](https://jobright.ai/jobs/info/69742d97bc8e722e7b1923b4?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Lucid Software](https://lucid.co)** | **[Deal Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/69742d78206da320f49e4fc5?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 23 |
@@ -94,13 +100,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Internship](https://jobright.ai/jobs/info/69741ba1206da320f49e3c92?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 | **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Summer 2026 Community Development & Philanthropy Intern](https://jobright.ai/jobs/info/69741b87206da320f49e3c75?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 23 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[IT Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/697433c5206da320f49e5448?utm_campaign=1051&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Jan 23 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Merchandising & Retail Intern - Summer 2026](https://jobright.ai/jobs/info/69743013bc8e722e7b1926ab?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern – Partnership Services](https://jobright.ai/jobs/info/69742e41bc8e722e7b192488?utm_campaign=1051&utm_source=git)** | Wilson, NC | On Site | Jan 23 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69742e0dbc8e722e7b19244e?utm_campaign=1051&utm_source=git)** | US-TN-Nashville | On Site | Jan 23 |
 | ↳ | **[Sales Internship](https://jobright.ai/jobs/info/69742f4ebc8e722e7b1925d6?utm_campaign=1051&utm_source=git)** | Jacksonville, FL, US | On Site | Jan 23 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/69742e4dbc8e722e7b192498?utm_campaign=1051&utm_source=git)** | Remote (Atlanta, Georgia, US) | Remote | Jan 23 |
-| ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/69742b9337785856350e2559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/69742b9337785856350e2559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
 | ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/69742c0f206da320f49e4e24?utm_campaign=1051&utm_source=git)** | Remote (Nashville, Tennessee, US) | Remote | Jan 23 |
+| ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/69742e4dbc8e722e7b192498?utm_campaign=1051&utm_source=git)** | Remote (Atlanta, Georgia, US) | Remote | Jan 23 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern – Partnership Services](https://jobright.ai/jobs/info/69742a0c206da320f49e4bce?utm_campaign=1051&utm_source=git)** | US-NC-Wilson | On Site | Jan 23 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Specialist (Los Angeles)](https://jobright.ai/jobs/info/697409b3bc8e722e7b18ed8c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 23 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/695842d4aa05c26e7ab2306d?utm_campaign=1051&utm_source=git)** | Neenah, WI | On Site | Jan 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973ddff206da320f49dd6e7?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 23 |
 | ↳ | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973dcd7bc8e722e7b18ab77?utm_campaign=1051&utm_source=git)** | Detroit, MI | Hybrid | Jan 23 |
 | **[VertoTech](vertotech.us)** | **[Sales Internship](https://jobright.ai/jobs/info/6973fc5b206da320f49e0cbf?utm_campaign=1051&utm_source=git)** | Midvale, UT | Remote | Jan 23 |
-| **[Fusion100](http://Fusion100co.com)** | **[Campus Sales Intern](https://jobright.ai/jobs/info/6973dbb3206da320f49dd519?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 23 |
-| **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[BUSINESS DEVELOPMENT INTERN (Part-Time)](https://jobright.ai/jobs/info/6973db6237785856350dad31?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Jan 23 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[Business Development Intern-Corporate](https://jobright.ai/jobs/info/6973dac1bc8e722e7b18aa78?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Jan 23 |
-| **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973d78e37785856350daa02?utm_campaign=1051&utm_source=git)** | Akron, OH | Hybrid | Jan 23 |
-| **[Velera](https://www.velera.com)** | **[Intern – Primax Sales Operations](https://jobright.ai/jobs/info/6973f56737785856350dd1e1?utm_campaign=1051&utm_source=git)** | Greater Wilmington Area | Remote | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
