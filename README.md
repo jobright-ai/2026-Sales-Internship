@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/695842d4aa05c26e7ab2306d?utm_campaign=1051&utm_source=git)** | Neenah, WI | On Site | Jan 23 |
+| **[TIH](https://www.truistinsurance.com/)** | **[Broker Assistant Intern](https://jobright.ai/jobs/info/697405a3bc8e722e7b18ea15?utm_campaign=1051&utm_source=git)** | CRC - New York NY, 565 5th Avenue | On Site | Jan 23 |
+| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – VyStar Insurance Agency](https://jobright.ai/jobs/info/6974052937785856350ded8a?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
+| **[Lucid Software](https://lucid.co)** | **[Deal Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/6974024237785856350dea86?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 23 |
+| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Specialist (AZ)](https://jobright.ai/jobs/info/6973ffdbbc8e722e7b18e3fa?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Jan 23 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Women's Buying Intern](https://jobright.ai/jobs/info/6973fdca206da320f49e0dd8?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Jan 23 |
+| **[Group 1001](https://group1001.com/)** | **[IT Business Relationship Management Intern](https://jobright.ai/jobs/info/6973fd8d37785856350de623?utm_campaign=1051&utm_source=git)** | Zionsville, IN | On Site | Jan 23 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6973fcfe206da320f49e0d43?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jan 23 |
+| **[Imperial PFS](https://www.ipfs.com)** | **[Technology Sales Support Summer Intern](https://jobright.ai/jobs/info/6973fc7f206da320f49e0cd7?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
+| **[Capitol Broadcasting Company](http://www.capitolbroadcasting.com)** | **[Ticket Sales & Promotions Summer Intern](https://jobright.ai/jobs/info/6973fc3f206da320f49e0c8a?utm_campaign=1051&utm_source=git)** | Zebulon, NC | On Site | Jan 23 |
+| **[Master Builders Solutions](https://www.master-builders-solutions.com/en-in)** | **[Technical Sales & Operations Intern](https://jobright.ai/jobs/info/68f1bde5ef766b3f0fd119d3?utm_campaign=1051&utm_source=git)** | Beachwood, OH | On Site | Jan 23 |
 | **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/6973f8cd37785856350ddc6d?utm_campaign=1051&utm_source=git)** | West Chester, PA | On Site | Jan 23 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/6973f5a5bc8e722e7b18dbdd?utm_campaign=1051&utm_source=git)** | Queens, NY | On Site | Jan 23 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Sales Strategy](https://jobright.ai/jobs/info/6973f4bebc8e722e7b18dae2?utm_campaign=1051&utm_source=git)** | Illinois - Chicago | On Site | Jan 23 |
@@ -70,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973ed2f206da320f49de5bb?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 23 |
 | **[Velera](https://www.velera.com)** | **[Intern – Primax Sales Operations](https://jobright.ai/jobs/info/6973ebfb206da320f49de475?utm_campaign=1051&utm_source=git)** | North Carolina - Remote | Remote | Jan 23 |
 | **[SS8 Networks](http://www.ss8.com)** | **[Global Channel Partner Manager – U.S. Government & International (Req ID: 2026-03)](https://jobright.ai/jobs/info/6973eba5206da320f49de40b?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 23 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/6974074937785856350def28?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 23 |
 | **[CBC New Media Group, LLC](https://www.linkedin.com/company/5866674)** | **[Ticket Sales & Promotions Summer Intern](https://jobright.ai/jobs/info/6973ea07206da320f49de20f?utm_campaign=1051&utm_source=git)** | Zebulon, NC, US | On Site | Jan 23 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973e9debc8e722e7b18c6fe?utm_campaign=1051&utm_source=git)** | Youngstown, OH | Hybrid | Jan 23 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6973e907bc8e722e7b18c4c7?utm_campaign=1051&utm_source=git)** | Saanich, British Columbia, Canada | On Site | Jan 23 |
@@ -87,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) / Peoria, AZ  - Summer 2026](https://jobright.ai/jobs/info/6973dfc0206da320f49dd88a?utm_campaign=1051&utm_source=git)** | Peoria, AZ 85383 | On Site | Jan 23 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973ddff206da320f49dd6e7?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 23 |
 | ↳ | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973dcd7bc8e722e7b18ab77?utm_campaign=1051&utm_source=git)** | Detroit, MI | Hybrid | Jan 23 |
+| **[VertoTech](vertotech.us)** | **[Sales Internship](https://jobright.ai/jobs/info/6973fc5b206da320f49e0cbf?utm_campaign=1051&utm_source=git)** | Midvale, UT | Remote | Jan 23 |
 | **[Fusion100](http://Fusion100co.com)** | **[Campus Sales Intern](https://jobright.ai/jobs/info/6973dbb3206da320f49dd519?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[BUSINESS DEVELOPMENT INTERN (Part-Time)](https://jobright.ai/jobs/info/6973db6237785856350dad31?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Jan 23 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Business Development Intern-Corporate](https://jobright.ai/jobs/info/6973dac1bc8e722e7b18aa78?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Jan 23 |
@@ -99,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[GreenPoint Ag](https://www.greenpointag.com/)** | **[Intern II- -Wholesale Pricing & Analytics](https://jobright.ai/jobs/info/6973d4ad37785856350da702?utm_campaign=1051&utm_source=git)** | Decatur, Alabama | On Site | Jan 23 |
 | **[Reyes Coca-Cola Bottling](https://www.reyescocacola.com/)** | **[Sales Internship (Foodservice & On Premise)](https://jobright.ai/jobs/info/6973f6febc8e722e7b18dd4c?utm_campaign=1051&utm_source=git)** | West Dundee, IL | On Site | Jan 23 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973d35337785856350da616?utm_campaign=1051&utm_source=git)** | Youngstown, OH, US | Hybrid | Jan 23 |
-| **[Thompson Coburn LLP](http://www.thompsoncoburn.com)** | **[Marketing & Business Development Summer Intern](https://jobright.ai/jobs/info/6973f6fc206da320f49dfdb0?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[Sunoco LP](https://www.sunocolp.com)** | **[Intern - Unbranded Sales](https://jobright.ai/jobs/info/6973f0febc8e722e7b18d701?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | On Site | Jan 23 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973d1e0bc8e722e7b18a174?utm_campaign=1051&utm_source=git)** | US-NY-Buffalo | Hybrid | Jan 23 |
 | ↳ | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973d123206da320f49dcb80?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO, US | Hybrid | Jan 23 |
@@ -114,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) / Fullerton, CA - Summer 2026](https://jobright.ai/jobs/info/6973cbbd206da320f49dc506?utm_campaign=1051&utm_source=git)** | Fullerton, CA 92832 | On Site | Jan 23 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973cba1bc8e722e7b189a04?utm_campaign=1051&utm_source=git)** | US-MI-St. Clair Shores | Hybrid | Jan 23 |
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Small Business](https://jobright.ai/jobs/info/6973cb98bc8e722e7b1899f6?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Jan 23 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/6973cb88206da320f49dc4c7?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 23 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973cb7dbc8e722e7b1899d7?utm_campaign=1051&utm_source=git)** | St. Clair Shores, MI, US | Hybrid | Jan 23 |
 | **[Tech Verses](techverses.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/6973cb5bbc8e722e7b1899ab?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 23 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973cb42206da320f49dc466?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, US | Hybrid | Jan 23 |
@@ -134,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Lamar Advertising Company](http://www.lamar.com)** | **[National Sales Intern](https://jobright.ai/jobs/info/6973c6cc206da320f49dbeff?utm_campaign=1051&utm_source=git)** | BATON ROUGE, Louisiana, United States | On Site | Jan 23 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) /  Granada Hills, CA - Summer 2026](https://jobright.ai/jobs/info/6973c610206da320f49dbe26?utm_campaign=1051&utm_source=git)** | Granada Hills, CA 91344 | On Site | Jan 23 |
 | ↳ | **[Retail Management Internship (Stores) / Mesa, AZ  - Summer 2026](https://jobright.ai/jobs/info/6973ec39bc8e722e7b18cd0a?utm_campaign=1051&utm_source=git)** | Mesa, AZ 85209 | On Site | Jan 23 |
-| ↳ | **[Retail Management Internship (Stores) / West Hills, CA - Summer 2026](https://jobright.ai/jobs/info/6973e39dbc8e722e7b18b887?utm_campaign=1051&utm_source=git)** | West Hills, CA 91307 | On Site | Jan 23 |
 | ↳ | **[Retail Management Internship (Stores) / Queen Creek, AZ - Summer 2026](https://jobright.ai/jobs/info/6973e83037785856350db807?utm_campaign=1051&utm_source=git)** | Queen Creek, AZ 85142 | On Site | Jan 23 |
+| ↳ | **[Retail Management Internship (Stores) / West Hills, CA - Summer 2026](https://jobright.ai/jobs/info/6973e39dbc8e722e7b18b887?utm_campaign=1051&utm_source=git)** | West Hills, CA 91307 | On Site | Jan 23 |
 | **[Tombras](http://tombras.com)** | **[Account Service Intern](https://jobright.ai/jobs/info/6973bfcb206da320f49dba85?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Sales Internship - South Central](https://jobright.ai/jobs/info/6973be6a37785856350d9263?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Jan 23 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Inside Sales / Wilsonville, OR](https://jobright.ai/jobs/info/6973dec0206da320f49dd7ae?utm_campaign=1051&utm_source=git)** | Wilsonville, OR | On Site | Jan 23 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales Intern, D.C](https://jobright.ai/jobs/info/6973ba5f37785856350d8f76?utm_campaign=1051&utm_source=git)** | Capitol Heights-Maryland-United States of America | On Site | Jan 23 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – VyStar Insurance Agency](https://jobright.ai/jobs/info/6973d98abc8e722e7b18a912?utm_campaign=1051&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
 | **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Acquisitions & Development Intern](https://jobright.ai/jobs/info/6973d632206da320f49dd04c?utm_campaign=1051&utm_source=git)** | NY - New York - Loews Hotels & Co Corporate Office | On Site | Jan 23 |
-| **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026 - Commercial Lines Intern](https://jobright.ai/jobs/info/6973b87d37785856350d8def?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
-| ↳ | **[HUB International Internship Program Summer 2026 - Commercial Lines Intern](https://jobright.ai/jobs/info/6973b7ff206da320f49db572?utm_campaign=1051&utm_source=git)** | Wilmington, MA | Hybrid | Jan 23 |
-| **[Cohen & Co](http://www.cohencpa.com)** | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973d87a206da320f49dd2f8?utm_campaign=1051&utm_source=git)** | US-MD-Towson | Hybrid | Jan 23 |
-| ↳ | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973d55937785856350da77b?utm_campaign=1051&utm_source=git)** | US-OH-Youngstown | Hybrid | Jan 23 |
-| ↳ | **[M&A Sourcing Intern](https://jobright.ai/jobs/info/6973d6e9206da320f49dd123?utm_campaign=1051&utm_source=git)** | Towson, MD, US | Hybrid | Jan 23 |
-| **[Energy Transfer](http://www.energytransfer.com)** | **[Intern - Unbranded Sales](https://jobright.ai/jobs/info/6973d7a137785856350daa16?utm_campaign=1051&utm_source=git)** | NEWTOWN SQUARE, Pennsylvania, United States | On Site | Jan 23 |
-| **[Leggett Ventures](https://leggettventures.com)** | **[Leggett Ventures Intern](https://jobright.ai/jobs/info/6973b734bc8e722e7b188b96?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 23 |
-| **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern (Kalamazoo)- Summer 2026](https://jobright.ai/jobs/info/6973b729206da320f49db501?utm_campaign=1051&utm_source=git)** | Portage, MI | On Site | Jan 23 |
-| **[COARE Companies](https://coarecommunities.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6973b71e206da320f49db4fd?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 23 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Corporate Business Development MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6973b5b7206da320f49db463?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | Hybrid | Jan 23 |
-| **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026 - Commercial Lines Intern](https://jobright.ai/jobs/info/6973b592bc8e722e7b188a69?utm_campaign=1051&utm_source=git)** | Summit, NJ | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
