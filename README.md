@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Appli AI](https://applisolutions.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6975683dbc8e722e7b1a4395?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 24 |
 | **[HP Marketing](https://www.hpros.com/)** | **[Sales Intern 2026 Summer](https://jobright.ai/jobs/info/69753e4dbc8e722e7b1a28bc?utm_campaign=1051&utm_source=git)** | Melbourne, FL | On Site | Jan 24 |
 | **[Voya Financial](https://www.voya.com/)** | **[Wealth Management Investor Channel Internship](https://jobright.ai/jobs/info/69753977bc8e722e7b1a2800?utm_campaign=1051&utm_source=git)** | MA-Boston, 121 Seaport Blvd | On Site | Jan 24 |
 | **[Boston Legacy FC](https://bostonlegacyfc.com)** | **[Partnerships Operations & Activation Intern (academic credit)](https://jobright.ai/jobs/info/6975348137785856350f2ff0?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974c9d8206da320f49f0187?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Jan 24 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cc08bc8e722e7b19d4ab?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jan 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974cc4f37785856350edc5d?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jan 24 |
-| ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974ca7837785856350edb6a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
 | ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974cc49bc8e722e7b19d4d7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
+| ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974ca7837785856350edb6a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cedb37785856350eddf1?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Jan 24 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974ca2e206da320f49f01b6?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974c943bc8e722e7b19d34f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cecd37785856350edde7?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Jan 24 |
 | ↳ | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974d26c206da320f49f06a2?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974d4c637785856350ee06d?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jan 24 |
-| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Commercial Intern (Sales Team)](https://jobright.ai/jobs/info/69583ad29f1b381eb27122c6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
