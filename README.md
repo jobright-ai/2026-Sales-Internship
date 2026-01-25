@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e855ba09580a2fe57f6929?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 25 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Coach Summer Store Leadership Intern-San Diego, California](https://jobright.ai/jobs/info/697601a3206da320f49fea45?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 25 |
+| ↳ | **[Kate Spade Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/6976018f206da320f49fea44?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 25 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship -Austin](https://jobright.ai/jobs/info/69561bf3aa05c26e7ab05bf0?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 25 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Coach Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/6975ffc9206da320f49fea13?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 25 |
+| ↳ | **[Kate Spade Summer Store Leadership Intern-Costa Mesa, California](https://jobright.ai/jobs/info/6975fece37785856350fc589?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Jan 25 |
+| **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68edc51881fdd1626d39f369?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jan 25 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693d7fa550bbaf7650508626?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 25 |
+| ↳ | **[Area Leader Trainee Intern - Field](https://jobright.ai/jobs/info/693d7a4850bbaf76505084f6?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Jan 25 |
+| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e85033cc49a84b7e104f97?utm_campaign=1051&utm_source=git)** | Rosemont, IL | On Site | Jan 25 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68e8547cc72beb74cb31d998?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 25 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68e855ba09580a2fe57f6929?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/694392e294730b739876c32d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Sales Strategy & Operations Manager](https://jobright.ai/jobs/info/68e88e64c72beb74cb320111?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 25 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) /  Granada Hills, CA - Summer 2026](https://jobright.ai/jobs/info/6975d0a437785856350fa683?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
@@ -122,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Sales Operations Summer Intern](https://jobright.ai/jobs/info/693ce66449a7695fbd039342?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690252b300a1816c41e9ce51?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Jan 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f4cbd3f782d2f1afba1d2?utm_campaign=1051&utm_source=git)** | Marlton, NJ | On Site | Jan 24 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974c74fbc8e722e7b19d25d?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Jan 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974c629206da320f49effb5?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern - Raleigh South](https://jobright.ai/jobs/info/68fc3718f55bb021a88a17d8?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Jan 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/69355b8aa0dde7020e2f883a?utm_campaign=1051&utm_source=git)** | Missoula, MT | On Site | Jan 24 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Confluent](https://confluent.io)** | **[Partner Sales Operations Skillbridge Intern](https://jobright.ai/jobs/info/691f769909cc522e87741885?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Resource Sales Intern](https://jobright.ai/jobs/info/691f8f9809cc522e87742f73?utm_campaign=1051&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jan 24 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Proprietary Dispensed Beverages Category Intern](https://jobright.ai/jobs/info/691f476ca49a885af9a2dada?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Jan 24 |
-| ↳ | **[Non Alcs Category Manager Intern](https://jobright.ai/jobs/info/691f4ad23f782d2f1afba002?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Jan 24 |
-| **[Sarhan Hotel Group](www.sarhanhotelgroup.com)** | **[Hotel Brokerage Intern](https://jobright.ai/jobs/info/6974b55a206da320f49ee3c8?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 24 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693c265550bbaf76504f78b8?utm_campaign=1051&utm_source=git)** | San Angelo, TX | On Site | Jan 24 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer- Client Advisor Student Intern](https://jobright.ai/jobs/info/69722fa5cda18b7438649136?utm_campaign=1051&utm_source=git)** | Kamloops, British Columbia, Canada | On Site | Jan 24 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6974b351206da320f49ee37e?utm_campaign=1051&utm_source=git)** | Strathmore, Alberta, Canada | On Site | Jan 24 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Summer Internship Program- Tucson, AZ](https://jobright.ai/jobs/info/695900cbf1f8465b79ef9616?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Jan 24 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Franchise and Partnership Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/6972424e584a1c1ef6fd3b5e?utm_campaign=1051&utm_source=git)** | Glendale, CA | On Site | Jan 24 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 CIB Markets - Summer Internship, Early Careers](https://jobright.ai/jobs/info/6957e55c9f1b381eb270d2da?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 24 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/689560b64ed2ea559ca55583?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
