@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e855ba09580a2fe57f6929?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 25 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/694392e294730b739876c32d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Sales Strategy & Operations Manager](https://jobright.ai/jobs/info/68e88e64c72beb74cb320111?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 25 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) /  Granada Hills, CA - Summer 2026](https://jobright.ai/jobs/info/6975d0a437785856350fa683?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
 | ↳ | **[Retail Management Internship (Stores) / Peoria, AZ  - Summer 2026](https://jobright.ai/jobs/info/6975d09237785856350fa67b?utm_campaign=1051&utm_source=git)** | Peoria, AZ | On Site | Jan 25 |
 | ↳ | **[Retail Management Internship (Stores) / Costa Mesa, CA - Summer 2026](https://jobright.ai/jobs/info/6975d08537785856350fa677?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Jan 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Franchise and Partnership Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/6972424e584a1c1ef6fd3b5e?utm_campaign=1051&utm_source=git)** | Glendale, CA | On Site | Jan 24 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 CIB Markets - Summer Internship, Early Careers](https://jobright.ai/jobs/info/6957e55c9f1b381eb270d2da?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/689560b64ed2ea559ca55583?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 24 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974cf20bc8e722e7b19d693?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974ca7937785856350edb6b?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Jan 24 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974c9d8206da320f49f0187?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
