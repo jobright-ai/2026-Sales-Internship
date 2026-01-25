@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[David Yurman](http://www.davidyurman.com)** | **[Planning Intern](https://jobright.ai/jobs/info/6920f88f3f782d2f1afcda0b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 25 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/692121b9a49a885af9a432ae?utm_campaign=1051&utm_source=git)** | Exton, PA | On Site | Jan 25 |
+| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68eca40d1eecd439f43fc67e?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Jan 25 |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Real Estate (Store Facilities)](https://jobright.ai/jobs/info/69760d85bc8e722e7b1aba9e?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Jan 25 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a589f131d96e484655f7?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Jan 25 |
+| ↳ | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/69355e06f131d96e4846e1e4?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Jan 25 |
+| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933fe30f131d96e48468f35?utm_campaign=1051&utm_source=git)** | Montgomery, AL | On Site | Jan 25 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Operations Support](https://jobright.ai/jobs/info/6903e721d64a22104aa94c87?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Jan 25 |
+| **[Cable One/Sparklight Careers](https://www.cableone.biz)** | **[Business Development Summer Intern](https://jobright.ai/jobs/info/690d8a25221b890c27807751?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 25 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/6941089e49a7695fbd069038?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Jan 25 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Coach Summer Store Leadership Intern-San Diego, California](https://jobright.ai/jobs/info/697601a3206da320f49fea45?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 25 |
 | ↳ | **[Kate Spade Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/6976018f206da320f49fea44?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 25 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship -Austin](https://jobright.ai/jobs/info/69561bf3aa05c26e7ab05bf0?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 25 |
@@ -133,13 +143,13 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690252b300a1816c41e9ce51?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Jan 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f4cbd3f782d2f1afba1d2?utm_campaign=1051&utm_source=git)** | Marlton, NJ | On Site | Jan 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974c629206da320f49effb5?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern - Raleigh South](https://jobright.ai/jobs/info/68fc3718f55bb021a88a17d8?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Jan 24 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Sales Intern - Raleigh South](https://jobright.ai/jobs/info/68fc3718f55bb021a88a17d8?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Jan 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/69355b8aa0dde7020e2f883a?utm_campaign=1051&utm_source=git)** | Missoula, MT | On Site | Jan 24 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Sales Engineer II (OEM)](https://jobright.ai/jobs/info/6971a56d51f726477183fdc0?utm_campaign=1051&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/69354a75f131d96e4846dd44?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Jan 24 |
 | **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Sales Internship](https://jobright.ai/jobs/info/695911049f1b381eb271ef18?utm_campaign=1051&utm_source=git)** | Brookfield, WI | On Site | Jan 24 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/695910c29f1b381eb271ef07?utm_campaign=1051&utm_source=git)** | Hampton, NJ | On Site | Jan 24 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/690afa95d046ab6061ce1c34?utm_campaign=1051&utm_source=git)** | Smyrna, TN | On Site | Jan 24 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/690afa95d046ab6061ce1c34?utm_campaign=1051&utm_source=git)** | Smyrna, TN | On Site | Jan 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/693513adf131d96e4846ccb3?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 24 |
 | **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Sales Internship](https://jobright.ai/jobs/info/693c361650bbaf76504f7d57?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 24 |
 | **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Sales Operations (f/m/d)](https://jobright.ai/jobs/info/6957cd89f1f8465b79ee7e9b?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 24 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693af040d4054a2bc024dca2?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Jan 24 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/68cb3d9a9e3a822f5d244022?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Multi Market Sales Intern](https://jobright.ai/jobs/info/693c9d1650bbaf76504fe596?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 24 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/691f90d8a49a885af9a31dc2?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jan 24 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - Jacksonville](https://jobright.ai/jobs/info/691fde8ea49a885af9a34e5a?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jan 24 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693ae1f85f2c001987ece570?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 24 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - Banking Advisor Student Intern, Manitoba](https://jobright.ai/jobs/info/693c91d550bbaf76504fc5d7?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 24 |
-| **[North Star Resource Group](http://northstarfinancial.com)** | **[Sales and Marketing Internship – Financial Advising Development Program](https://jobright.ai/jobs/info/69584b839f1b381eb27136e7?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 24 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/68955ab773b3a600fe886dd6?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Jan 24 |
-| **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Advisor Internship Program (AIP) (Calgary/Edmonton/Saskatoon)](https://jobright.ai/jobs/info/691de088748c4e1301ec9b8c?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 24 |
-| **[Confluent](https://confluent.io)** | **[Partner Sales Operations Skillbridge Intern](https://jobright.ai/jobs/info/691f769909cc522e87741885?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 24 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Resource Sales Intern](https://jobright.ai/jobs/info/691f8f9809cc522e87742f73?utm_campaign=1051&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jan 24 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Proprietary Dispensed Beverages Category Intern](https://jobright.ai/jobs/info/691f476ca49a885af9a2dada?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
