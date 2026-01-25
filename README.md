@@ -146,7 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Internship (Stores) / Peoria, AZ  - Summer 2026](https://jobright.ai/jobs/info/6975d09237785856350fa67b?utm_campaign=1051&utm_source=git)** | Peoria, AZ | On Site | Jan 25 |
 | ↳ | **[Retail Management Internship (Stores) / Costa Mesa, CA - Summer 2026](https://jobright.ai/jobs/info/6975d08537785856350fa677?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Jan 25 |
 | ↳ | **[Retail Management Internship (Stores) / West Hills, CA - Summer 2026](https://jobright.ai/jobs/info/6975d05237785856350fa662?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
-| ↳ | **[Retail Management Internship (Stores) / Mesa, AZ  - Summer 2026](https://jobright.ai/jobs/info/6975cdcebc8e722e7b1a9b2d?utm_campaign=1051&utm_source=git)** | Mesa, AZ | On Site | Jan 25 |
+| **[Cheekwood](https://cheekwood.org)** | **[Development Intern - Summer 2026](https://jobright.ai/jobs/info/6976589b206da320f4a02c5a?utm_campaign=1051&utm_source=git)** | Nashville, TN, US | On Site | Jan 25 |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) / Mesa, AZ  - Summer 2026](https://jobright.ai/jobs/info/6975cdcebc8e722e7b1a9b2d?utm_campaign=1051&utm_source=git)** | Mesa, AZ | On Site | Jan 25 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) / Fullerton, CA - Summer 2026](https://jobright.ai/jobs/info/6975ccb4206da320f49fca87?utm_campaign=1051&utm_source=git)** | Fullerton, CA | On Site | Jan 24 |
 | ↳ | **[Retail Management Internship (Stores) / Queen Creek, AZ - Summer 2026](https://jobright.ai/jobs/info/6975cc6c206da320f49fca72?utm_campaign=1051&utm_source=git)** | Queen Creek, AZ | On Site | Jan 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6975b88b37785856350f9c59?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HP Marketing](https://www.hpros.com/)** | **[Sales Intern 2026 Summer](https://jobright.ai/jobs/info/69753e4dbc8e722e7b1a28bc?utm_campaign=1051&utm_source=git)** | Melbourne, FL | On Site | Jan 24 |
 | **[Voya Financial](https://www.voya.com/)** | **[Wealth Management Investor Channel Internship](https://jobright.ai/jobs/info/69753977bc8e722e7b1a2800?utm_campaign=1051&utm_source=git)** | MA-Boston, 121 Seaport Blvd | On Site | Jan 24 |
 | **[Boston Legacy FC](https://bostonlegacyfc.com)** | **[Partnerships Operations & Activation Intern (academic credit)](https://jobright.ai/jobs/info/6975348137785856350f2ff0?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
-| ↳ | **[Partnerships Operations & Activation Intern (paid)](https://jobright.ai/jobs/info/697531fa206da320f49f55ce?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
