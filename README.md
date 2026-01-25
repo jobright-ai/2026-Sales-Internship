@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Sales & Client Relations Intern](https://jobright.ai/jobs/info/697572c2bc8e722e7b1a49fa?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | Jan 24 |
 | **[Appli AI](https://applisolutions.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6975683dbc8e722e7b1a4395?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 24 |
 | **[HP Marketing](https://www.hpros.com/)** | **[Sales Intern 2026 Summer](https://jobright.ai/jobs/info/69753e4dbc8e722e7b1a28bc?utm_campaign=1051&utm_source=git)** | Melbourne, FL | On Site | Jan 24 |
 | **[Voya Financial](https://www.voya.com/)** | **[Wealth Management Investor Channel Internship](https://jobright.ai/jobs/info/69753977bc8e722e7b1a2800?utm_campaign=1051&utm_source=git)** | MA-Boston, 121 Seaport Blvd | On Site | Jan 24 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/6974fa2b206da320f49f2c1a?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 24 |
 | **[Boston Legacy FC](https://bostonlegacyfc.com)** | **[Partnerships Operations & Activation Intern (paid)](https://jobright.ai/jobs/info/6974f63937785856350eef00?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69320b7dfa28370be26c1317?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Jan 24 |
-| **[Appli AI](https://applisolutions.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6974ed7b206da320f49f1193?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 24 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Endoscopy Commercial Strategy & Excellence Intern 2026](https://jobright.ai/jobs/info/6974ed4dbc8e722e7b19e3a7?utm_campaign=1051&utm_source=git)** | Marlborough, MA | Hybrid | Jan 24 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Commercial Year-Round intern (May 2026 Start)](https://jobright.ai/jobs/info/6965ad772cbf4e44756f5adb?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jan 24 |
 | **[Starbeam](www.starbeam.org)** | **[Sales + Marketing Intern](https://jobright.ai/jobs/info/6974e75dbc8e722e7b19e20b?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Jan 24 |
@@ -146,10 +146,10 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/689560b64ed2ea559ca55583?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974cf20bc8e722e7b19d693?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974ca7937785856350edb6b?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Jan 24 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974c9d8206da320f49f0187?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Jan 24 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cc08bc8e722e7b19d4ab?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jan 24 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974cc4f37785856350edc5d?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jan 24 |
-| ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974cc49bc8e722e7b19d4d7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974c9d8206da320f49f0187?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Jan 24 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974cc49bc8e722e7b19d4d7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
+| ↳ | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974cc4f37785856350edc5d?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jan 24 |
 | ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974ca7837785856350edb6a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cedb37785856350eddf1?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Jan 24 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974ca2e206da320f49f01b6?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 24 |
