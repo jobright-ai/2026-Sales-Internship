@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk FT 6614](https://jobright.ai/jobs/info/697674ef206da320f4a037cd?utm_campaign=1051&utm_source=git)** | Centreville, VA | On Site | Jan 25 |
+| **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships & Ticket Sales Internship (Wofford College Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976748537785856351013c7?utm_campaign=1051&utm_source=git)** | Spartanburg, SC | On Site | Jan 25 |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Sales Business Development](https://jobright.ai/jobs/info/69767414206da320f4a0378f?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 25 |
 | **[Medha Cloud](https://medhahosting.com)** | **[Cloud Sales Engineer Intern - Medha Cloud](https://jobright.ai/jobs/info/697651ffbc8e722e7b1af975?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Appli AI](https://applisolutions.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69764d37377858563510071b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 25 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/69764be7206da320f4a02a89?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6975b78abc8e722e7b1a9149?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 24 |
 | **[Voya Financial](https://www.voya.com/)** | **[Wealth Management Investor Channel Internship](https://jobright.ai/jobs/info/6975821f206da320f49f806d?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/69759a36bc8e722e7b1a60e1?utm_campaign=1051&utm_source=git)** | Midvale, UT | On Site | Jan 24 |
-| **[HP Marketing](https://www.hpros.com/)** | **[Sales Intern 2026 Summer](https://jobright.ai/jobs/info/69753e4dbc8e722e7b1a28bc?utm_campaign=1051&utm_source=git)** | Melbourne, FL | On Site | Jan 24 |
-| **[Voya Financial](https://www.voya.com/)** | **[Wealth Management Investor Channel Internship](https://jobright.ai/jobs/info/69753977bc8e722e7b1a2800?utm_campaign=1051&utm_source=git)** | MA-Boston, 121 Seaport Blvd | On Site | Jan 24 |
-| **[Boston Legacy FC](https://bostonlegacyfc.com)** | **[Partnerships Operations & Activation Intern (academic credit)](https://jobright.ai/jobs/info/6975348137785856350f2ff0?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
