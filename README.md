@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medha Cloud](https://medhahosting.com)** | **[Cloud Sales Engineer Intern - Medha Cloud](https://jobright.ai/jobs/info/697651ffbc8e722e7b1af975?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Appli AI](https://applisolutions.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69764d37377858563510071b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 25 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/69764be7206da320f4a02a89?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 25 |
 | **[Mississippi Department of Employment Security](http://mdes.ms.gov)** | **[GRAY MEDIA FUTURE SALES INTERN SPRING '26 - WDAM](https://jobright.ai/jobs/info/697647573778585635100680?utm_campaign=1051&utm_source=git)** | Laurel, MS | On Site | Jan 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69762c03206da320f4a00ea9?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903ab83ff462851fefed5b1?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Jan 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Voya Financial](https://www.voya.com/)** | **[Wealth Management Investor Channel Internship](https://jobright.ai/jobs/info/69753977bc8e722e7b1a2800?utm_campaign=1051&utm_source=git)** | MA-Boston, 121 Seaport Blvd | On Site | Jan 24 |
 | **[Boston Legacy FC](https://bostonlegacyfc.com)** | **[Partnerships Operations & Activation Intern (academic credit)](https://jobright.ai/jobs/info/6975348137785856350f2ff0?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
 | ↳ | **[Partnerships Operations & Activation Intern (paid)](https://jobright.ai/jobs/info/697531fa206da320f49f55ce?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader FT 6610](https://jobright.ai/jobs/info/697526cf37785856350f1320?utm_campaign=1051&utm_source=git)** | Cape May, NJ | On Site | Jan 24 |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Sales Internship - Mountain](https://jobright.ai/jobs/info/697502b9206da320f49f2d5f?utm_campaign=1051&utm_source=git)** | Midvale, UT | Remote | Jan 24 |
-| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6974fe0a37785856350f061d?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
