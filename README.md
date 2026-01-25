@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual - The South Florida Group](http://southfloridagroup.nm.com/ )** | **[College Financial Representative Summer Internship (2026 & 2027 Graduates)](https://jobright.ai/jobs/info/697687c43778585635103036?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 25 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[RV Sales Internship](https://jobright.ai/jobs/info/69767ac8bc8e722e7b1b10d3?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | Jan 25 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk FT 6614](https://jobright.ai/jobs/info/697674ef206da320f4a037cd?utm_campaign=1051&utm_source=git)** | Centreville, VA | On Site | Jan 25 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships & Ticket Sales Internship (Wofford College Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976748537785856351013c7?utm_campaign=1051&utm_source=git)** | Spartanburg, SC | On Site | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Internship (Stores) / Queen Creek, AZ - Summer 2026](https://jobright.ai/jobs/info/6975cc6c206da320f49fca72?utm_campaign=1051&utm_source=git)** | Queen Creek, AZ | On Site | Jan 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6975b88b37785856350f9c59?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6975b78abc8e722e7b1a9149?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 24 |
-| **[Voya Financial](https://www.voya.com/)** | **[Wealth Management Investor Channel Internship](https://jobright.ai/jobs/info/6975821f206da320f49f806d?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
