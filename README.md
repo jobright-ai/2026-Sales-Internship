@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Voya Financial](https://www.voya.com/)** | **[Wealth Management Investor Channel Internship](https://jobright.ai/jobs/info/6975821f206da320f49f806d?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
+| **[Appli AI](https://applisolutions.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69757776206da320f49f7cdf?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 24 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Sales & Client Relations Intern](https://jobright.ai/jobs/info/697572c2bc8e722e7b1a49fa?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | Jan 24 |
 | **[Appli AI](https://applisolutions.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6975683dbc8e722e7b1a4395?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 24 |
 | **[HP Marketing](https://www.hpros.com/)** | **[Sales Intern 2026 Summer](https://jobright.ai/jobs/info/69753e4dbc8e722e7b1a28bc?utm_campaign=1051&utm_source=git)** | Melbourne, FL | On Site | Jan 24 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Sales Internship - Mountain](https://jobright.ai/jobs/info/697502b9206da320f49f2d5f?utm_campaign=1051&utm_source=git)** | Midvale, UT | Remote | Jan 24 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6974fe0a37785856350f061d?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 24 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Ad Sales Intern](https://jobright.ai/jobs/info/6974fb22bc8e722e7b19fe20?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 24 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/6974fa2b206da320f49f2c1a?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 24 |
 | **[Boston Legacy FC](https://bostonlegacyfc.com)** | **[Partnerships Operations & Activation Intern (paid)](https://jobright.ai/jobs/info/6974f63937785856350eef00?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69320b7dfa28370be26c1317?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Jan 24 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Endoscopy Commercial Strategy & Excellence Intern 2026](https://jobright.ai/jobs/info/6974ed4dbc8e722e7b19e3a7?utm_campaign=1051&utm_source=git)** | Marlborough, MA | Hybrid | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974c943bc8e722e7b19d34f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cecd37785856350edde7?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Jan 24 |
 | ↳ | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974d26c206da320f49f06a2?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974d4c637785856350ee06d?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
