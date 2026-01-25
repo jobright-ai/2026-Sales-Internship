@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6975b88b37785856350f9c59?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 24 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6975b78abc8e722e7b1a9149?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 24 |
 | **[Appli AI](https://applisolutions.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6975ac6c206da320f49fb9a7?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 24 |
 | **[Voya Financial](https://www.voya.com/)** | **[Wealth Management Investor Channel Internship](https://jobright.ai/jobs/info/6975821f206da320f49f806d?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/69759a36bc8e722e7b1a60e1?utm_campaign=1051&utm_source=git)** | Midvale, UT | On Site | Jan 24 |
@@ -100,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f3a513f782d2f1afb9548?utm_campaign=1051&utm_source=git)** | Dover, DE | On Site | Jan 24 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Presale Business Manager Summer 2026 Internship Program](https://jobright.ai/jobs/info/691fec393f782d2f1afc1831?utm_campaign=1051&utm_source=git)** | Linthicum Heights, MD | Hybrid | Jan 24 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903af2263502c0aded6b1ad?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
+| **[Prosource](https://www.totalprosource.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/6975b2bb37785856350f983b?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jan 24 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Planning Analytics Intern](https://jobright.ai/jobs/info/691f924409cc522e877431fc?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Pre/Post Sale Operations Intern](https://jobright.ai/jobs/info/693cd92550bbaf7650500353?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b30fd64a22104aa91e5e?utm_campaign=1051&utm_source=git)** | Hayward, CA | On Site | Jan 24 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/689560b64ed2ea559ca55583?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974cf20bc8e722e7b19d693?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974ca7937785856350edb6b?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Jan 24 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cc08bc8e722e7b19d4ab?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jan 24 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974c9d8206da320f49f0187?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Jan 24 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cc08bc8e722e7b19d4ab?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jan 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974cc4f37785856350edc5d?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jan 24 |
-| ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974ca7837785856350edb6a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
 | ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974cc49bc8e722e7b19d4d7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
+| ↳ | **[Creative Services & Business Development Intern](https://jobright.ai/jobs/info/6974ca7837785856350edb6a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cedb37785856350eddf1?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Jan 24 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974ca2e206da320f49f01b6?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 24 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sales Research Business Development Intern](https://jobright.ai/jobs/info/6974c943bc8e722e7b19d34f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cecd37785856350edde7?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Jan 24 |
-| ↳ | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974d26c206da320f49f06a2?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
