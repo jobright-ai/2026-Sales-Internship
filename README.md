@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mississippi Department of Employment Security](http://mdes.ms.gov)** | **[GRAY MEDIA FUTURE SALES INTERN SPRING '26 - WDAM](https://jobright.ai/jobs/info/697647573778585635100680?utm_campaign=1051&utm_source=git)** | Laurel, MS | On Site | Jan 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69762c03206da320f4a00ea9?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903ab83ff462851fefed5b1?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Jan 25 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b5c4ff462851fefedc7d?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Jan 25 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Internship (Stores) / Queen Creek, AZ - Summer 2026](https://jobright.ai/jobs/info/6975cc6c206da320f49fca72?utm_campaign=1051&utm_source=git)** | Queen Creek, AZ | On Site | Jan 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6975b88b37785856350f9c59?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6975b78abc8e722e7b1a9149?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 24 |
-| **[Appli AI](https://applisolutions.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6975ac6c206da320f49fb9a7?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 24 |
 | **[Voya Financial](https://www.voya.com/)** | **[Wealth Management Investor Channel Internship](https://jobright.ai/jobs/info/6975821f206da320f49f806d?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/69759a36bc8e722e7b1a60e1?utm_campaign=1051&utm_source=git)** | Midvale, UT | On Site | Jan 24 |
 | **[HP Marketing](https://www.hpros.com/)** | **[Sales Intern 2026 Summer](https://jobright.ai/jobs/info/69753e4dbc8e722e7b1a28bc?utm_campaign=1051&utm_source=git)** | Melbourne, FL | On Site | Jan 24 |
