@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Business Markets](https://jobright.ai/jobs/info/697739fcfdeb8243a27a12f2?utm_campaign=1051&utm_source=git)** | Penticton, British Columbia, Canada | On Site | Jan 26 |
+| ↳ | **[Relationship Manager Intern, Business Markets](https://jobright.ai/jobs/info/697738af88e2b47213bb1c11?utm_campaign=1051&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Jan 26 |
 | **[Bluecrest Partners](bluecrestpartners.us)** | **[Sales Internship - Mountain](https://jobright.ai/jobs/info/697730b888e2b47213bafff8?utm_campaign=1051&utm_source=git)** | Midvale, UT | Remote | Jan 26 |
 | **[GSD&M](http://www.gsdm.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/696ebaf85fc86241853da26f?utm_campaign=1051&utm_source=git)** | Austin | Hybrid | Jan 26 |
 | **[Celonis](https://www.celonis.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6908c0d54a1b456627af8d0c?utm_campaign=1051&utm_source=git)** | New York, US, New York | On Site | Jan 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/6895001e73b3a600fe884312?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 25 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b96aff462851fefedede?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jan 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e8735e09580a2fe57f7b4e?utm_campaign=1051&utm_source=git)** | Alexandria, LA | On Site | Jan 25 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6921226400c9ee50eaecc023?utm_campaign=1051&utm_source=git)** | Springfield, PA | On Site | Jan 25 |
-| ↳ | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/693528d8a0dde7020e2f7a62?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
