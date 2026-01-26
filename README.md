@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6977bfa588e2b47213bbb5e6?utm_campaign=1051&utm_source=git)** | Londonderry, NH | On Site | Jan 26 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Towerstone Intern - Summer 2026](https://jobright.ai/jobs/info/692f72cafa28370be26aa337?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | On Site | Jan 26 |
+| **[Appli AI](https://applisolutions.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6977b76b52f3c27ec643d6d2?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/6977aefd88e2b47213bb9d49?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jan 26 |
 | ↳ | **[Focus Solutions Intern](https://jobright.ai/jobs/info/6977ae8088e2b47213bb9c7f?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jan 26 |
 | **[Stratify Edge](https://www.linkedin.com/company/108302914)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/6977ac1ffdeb8243a27a90af?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 26 |
@@ -65,6 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SFR Residential Lending Strategy - Summer 2026 Intern](https://jobright.ai/jobs/info/6977a6be88e2b47213bb909a?utm_campaign=1051&utm_source=git)** | Toronto | Hybrid | Jan 26 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/69779bd788e2b47213bb845c?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jan 26 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/6977945152f3c27ec643a5db?utm_campaign=1051&utm_source=git)** | Bensalem, PA | On Site | Jan 26 |
+| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Strategy and Business Development](https://jobright.ai/jobs/info/6977b69088e2b47213bbaa28?utm_campaign=1051&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | **[RBC](https://www.rbc.com)** | **[Summer 2026 - Relationship Manager Student Intern, Commercial Financial Markets](https://jobright.ai/jobs/info/6977ae8052f3c27ec643c84c?utm_campaign=1051&utm_source=git)** | QUÉBEC, Quebec, Canada | On Site | Jan 26 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intermediary Sales Part-Time Spring Intern](https://jobright.ai/jobs/info/6977aef288e2b47213bb9d32?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts, United States of America | On Site | Jan 26 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Employee Benefits Inside Sales Intern](https://jobright.ai/jobs/info/6977ae9888e2b47213bb9ca8?utm_campaign=1051&utm_source=git)** | Cranston RI | On Site | Jan 26 |
@@ -116,7 +120,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern - Customer Success](https://jobright.ai/jobs/info/6977231788e2b47213bafc61?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 26 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Development (Capture) Internship](https://jobright.ai/jobs/info/69770fcb52f3c27ec64317ab?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Blue Ventis](blueventis.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/6976fd5e88e2b47213bae6d9?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 25 |
-| **[Appli AI](https://applisolutions.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6976f8b0fdeb8243a279d830?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 25 |
 | **[Open Health Agents](https://www.hiagents.life/)** | **[🚀 Business Development Intern (Unpaid) – Healthcare Tech Startup (Remote)](https://jobright.ai/jobs/info/6976f861fdeb8243a279d815?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Six Flags](https://www.sixflags.com)** | **[Food & Beverage Procurement Internship- $19/HR](https://jobright.ai/jobs/info/6976eb6d52f3c27ec642e10b?utm_campaign=1051&utm_source=git)** | Waukegan, IL | On Site | Jan 25 |
 | **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Merchandise Intern](https://jobright.ai/jobs/info/6976e02b3778585635106612?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Jan 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[indiGO Auto Group](https://www.indigoautogroup.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6977b19288e2b47213bba1ce?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68c77ec1c96a22563ecf15ff?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Jan 25 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69769446206da320f4a05460?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Jan 25 |
-| **[Northwestern Mutual - The South Florida Group](http://southfloridagroup.nm.com/ )** | **[College Financial Representative Summer Internship (2026 & 2027 Graduates)](https://jobright.ai/jobs/info/697687c43778585635103036?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 25 |
-| **[Bish's RV, Inc.](https://www.bishs.com/)** | **[RV Sales Internship](https://jobright.ai/jobs/info/69767ac8bc8e722e7b1b10d3?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | Jan 25 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk FT 6614](https://jobright.ai/jobs/info/697674ef206da320f4a037cd?utm_campaign=1051&utm_source=git)** | Centreville, VA | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
