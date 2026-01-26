@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Merchandise Intern](https://jobright.ai/jobs/info/6976e02b3778585635106612?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Jan 25 |
+| **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (University of Akron) - Summer 2026](https://jobright.ai/jobs/info/6976dc5c3778585635106049?utm_campaign=1051&utm_source=git)** | Akron, OH | On Site | Jan 25 |
+| ↳ | **[Corporate Partnerships Internship (North Carolina Central Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976dc1e3778585635106039?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Jan 25 |
+| ↳ | **[Corporate Partnerships & Ticket Sales Internship (Southeastern Louisiana Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976dbc33778585635106010?utm_campaign=1051&utm_source=git)** | Hammond, LA | On Site | Jan 25 |
+| ↳ | **[Corporate Partnerships Internship (Missouri Western State Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976dbb03778585635106003?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Jan 25 |
+| ↳ | **[Corporate Partnerships Internship (Nicholls State Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976db523778585635105fd2?utm_campaign=1051&utm_source=git)** | Thibodaux, LA | On Site | Jan 25 |
+| ↳ | **[Corporate Partnerships Internship (Alabama State Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976d8c7bc8e722e7b1b4f84?utm_campaign=1051&utm_source=git)** | Montgomery, AL | On Site | Jan 25 |
+| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6976d8a6206da320f4a082d2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Ticket Sales Internship (Eastern Kentucky University) - Summer 2026](https://jobright.ai/jobs/info/6976d82e206da320f4a082b2?utm_campaign=1051&utm_source=git)** | Richmond, KY | On Site | Jan 25 |
+| ↳ | **[Corporate Partnerships Internship (Jacksonville State Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976d806206da320f4a082a9?utm_campaign=1051&utm_source=git)** | Jacksonville, AL | On Site | Jan 25 |
+| ↳ | **[Corporate Partnerships & Ticket Sales Internship (Ferris State Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976d7ec206da320f4a082a2?utm_campaign=1051&utm_source=git)** | Big Rapids, MI | On Site | Jan 25 |
+| ↳ | **[Corporate Partnerships Internship (University of Central Arkansas Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976d763bc8e722e7b1b4f2a?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Jan 25 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6976d355bc8e722e7b1b4977?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Hybrid | Jan 25 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships & Ticket Sales Internship (University of West Georgia) - Summer 2026](https://jobright.ai/jobs/info/6976cf5cbc8e722e7b1b490e?utm_campaign=1051&utm_source=git)** | Carrollton, GA | On Site | Jan 25 |
 | ↳ | **[Corporate Partnerships Internship (Ball State University) - Summer 2026](https://jobright.ai/jobs/info/6976cf2cbc8e722e7b1b48fb?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Jan 25 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933f8d0764507023d1bb277?utm_campaign=1051&utm_source=git)** | Albany, GA | On Site | Jan 25 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b1e363502c0aded6b39b?utm_campaign=1051&utm_source=git)** | Olympia, WA | On Site | Jan 25 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Planning Intern](https://jobright.ai/jobs/info/6920f88f3f782d2f1afcda0b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/692121b9a49a885af9a432ae?utm_campaign=1051&utm_source=git)** | Exton, PA | On Site | Jan 25 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68eca40d1eecd439f43fc67e?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Jan 25 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Real Estate (Store Facilities)](https://jobright.ai/jobs/info/69760d85bc8e722e7b1aba9e?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Jan 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a589f131d96e484655f7?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Jan 25 |
-| ↳ | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/69355e06f131d96e4846e1e4?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Jan 25 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933fe30f131d96e48468f35?utm_campaign=1051&utm_source=git)** | Montgomery, AL | On Site | Jan 25 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Operations Support](https://jobright.ai/jobs/info/6903e721d64a22104aa94c87?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Jan 25 |
-| **[Cable One/Sparklight Careers](https://www.cableone.biz)** | **[Business Development Summer Intern](https://jobright.ai/jobs/info/690d8a25221b890c27807751?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 25 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/6941089e49a7695fbd069038?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Jan 25 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Coach Summer Store Leadership Intern-San Diego, California](https://jobright.ai/jobs/info/697601a3206da320f49fea45?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 25 |
-| ↳ | **[Kate Spade Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/6976018f206da320f49fea44?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 25 |
-| **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Sales Intern -Summer 2026 (Bunzl Processor Division)](https://jobright.ai/jobs/info/68cc33af7342c7623ae60a50?utm_campaign=1051&utm_source=git)** | Riverside, MO | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
