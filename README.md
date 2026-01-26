@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Six Flags](https://www.sixflags.com)** | **[Food & Beverage Procurement Internship- $19/HR](https://jobright.ai/jobs/info/6976eb6d52f3c27ec642e10b?utm_campaign=1051&utm_source=git)** | Waukegan, IL | On Site | Jan 25 |
 | **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Merchandise Intern](https://jobright.ai/jobs/info/6976e02b3778585635106612?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Jan 25 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (University of Akron) - Summer 2026](https://jobright.ai/jobs/info/6976dc5c3778585635106049?utm_campaign=1051&utm_source=git)** | Akron, OH | On Site | Jan 25 |
 | ↳ | **[Corporate Partnerships Internship (North Carolina Central Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976dc1e3778585635106039?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Jan 25 |
@@ -98,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships & Ticket Sales Internship (Wofford College Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976748537785856351013c7?utm_campaign=1051&utm_source=git)** | Spartanburg, SC | On Site | Jan 25 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Sales Business Development](https://jobright.ai/jobs/info/69767414206da320f4a0378f?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 25 |
 | **[Medha Cloud](https://medhahosting.com)** | **[Cloud Sales Engineer Intern - Medha Cloud](https://jobright.ai/jobs/info/697651ffbc8e722e7b1af975?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
-| **[Appli AI](https://applisolutions.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69764d37377858563510071b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 25 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/69764be7206da320f4a02a89?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69762c03206da320f4a00ea9?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903ab83ff462851fefed5b1?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Jan 25 |
