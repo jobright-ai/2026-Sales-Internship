@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maximus](http://www.maximus.com/)** | **[Business Development (Capture) Internship](https://jobright.ai/jobs/info/69770fcb52f3c27ec64317ab?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Blue Ventis](blueventis.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/6976fd5e88e2b47213bae6d9?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 25 |
 | **[Appli AI](https://applisolutions.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6976f8b0fdeb8243a279d830?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 25 |
 | **[HI Agents](https://www.hiagents.life/)** | **[🚀 Business Development Intern (Unpaid) – Healthcare Tech Startup (Remote)](https://jobright.ai/jobs/info/6976f861fdeb8243a279d815?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/69355063764507023d1c00f4?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Jan 25 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Wallula, WA](https://jobright.ai/jobs/info/68b7d90aa10b650604b61644?utm_campaign=1051&utm_source=git)** | Touchet, WA | On Site | Jan 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933f8d0764507023d1bb277?utm_campaign=1051&utm_source=git)** | Albany, GA | On Site | Jan 25 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b1e363502c0aded6b39b?utm_campaign=1051&utm_source=git)** | Olympia, WA | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
