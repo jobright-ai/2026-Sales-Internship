@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6977506188e2b47213bb23b8?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 26 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69774fa688e2b47213bb23a4?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Jan 26 |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Supply Clerk Intern](https://jobright.ai/jobs/info/6921c8d53f782d2f1afd3d68?utm_campaign=1051&utm_source=git)** | CS-Bryan Area | On Site | Jan 26 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69774ebe52f3c27ec6434662?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jan 26 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69774e9e52f3c27ec6434658?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Jan 26 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69774e1288e2b47213bb2371?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Jan 26 |
+| **[Mitra AI](https://mitrai.com/)** | **[Pre Sales  - AI Native Intern](https://jobright.ai/jobs/info/69774d9888e2b47213bb2365?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 26 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69774d6752f3c27ec6434604?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Jan 26 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69774ce652f3c27ec64345f5?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 26 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69774ca552f3c27ec64345f1?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Jan 26 |
+| ↳ | **[Kate Spade Summer Store Leadership Intern-Costa Mesa, California](https://jobright.ai/jobs/info/69774930fdeb8243a27a16c8?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Jan 26 |
+| **[MathWorks](http://www.mathworks.com)** | **[Inside Sales Summer Intern](https://jobright.ai/jobs/info/695822e99f1b381eb27103ae?utm_campaign=1051&utm_source=git)** | Natick, MA | Hybrid | Jan 26 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Business Markets](https://jobright.ai/jobs/info/697739fcfdeb8243a27a12f2?utm_campaign=1051&utm_source=git)** | Penticton, British Columbia, Canada | On Site | Jan 26 |
 | ↳ | **[Relationship Manager Intern, Business Markets](https://jobright.ai/jobs/info/697738af88e2b47213bb1c11?utm_campaign=1051&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Jan 26 |
 | **[Bluecrest Partners](bluecrestpartners.us)** | **[Sales Internship - Mountain](https://jobright.ai/jobs/info/697730b888e2b47213bafff8?utm_campaign=1051&utm_source=git)** | Midvale, UT | Remote | Jan 26 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jan 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - Wolcott, CT](https://jobright.ai/jobs/info/6933ef97f131d96e484686d3?utm_campaign=1051&utm_source=git)** | Waterbury, CT | On Site | Jan 25 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/692118d300c9ee50eaecbadb?utm_campaign=1051&utm_source=git)** | Bensalem, PA | On Site | Jan 25 |
-| ↳ | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e87136cc49a84b7e1062e7?utm_campaign=1051&utm_source=git)** | Benton, AR | On Site | Jan 25 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903af9ed64a22104aa91be7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - Old Saybrook, CT](https://jobright.ai/jobs/info/68e868d5cc49a84b7e105e61?utm_campaign=1051&utm_source=git)** | New London, CT | On Site | Jan 25 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b030d64a22104aa91c66?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Jan 25 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68af4b512daaba398441cedf?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Jan 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69211f253f782d2f1afcf61a?utm_campaign=1051&utm_source=git)** | West Chester, PA | On Site | Jan 25 |
-| ↳ | **[Summer Truck Rental Account Specialist Internship - Chicopee, Massachusetts](https://jobright.ai/jobs/info/68e870b9cc49a84b7e106250?utm_campaign=1051&utm_source=git)** | Chicopee, MA | On Site | Jan 25 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b9ceff462851fefedf36?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jan 25 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903becad64a22104aa926aa?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Jan 25 |
-| **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/6895001e73b3a600fe884312?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 25 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b96aff462851fefedede?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jan 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e8735e09580a2fe57f7b4e?utm_campaign=1051&utm_source=git)** | Alexandria, LA | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
