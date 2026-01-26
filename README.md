@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citi](https://www.citi.com)** | **[Banking - Capital Markets, Summer Associate, New York (North America – 2026)](https://jobright.ai/jobs/info/6917c06cbcdbf3560c9cb049?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 26 |
 | **[Expeditors](http://www.expeditors.com)** | **[Supply Chain & Customs Brokerage Intern – Romulus, MI](https://jobright.ai/jobs/info/69776e8088e2b47213bb4b71?utm_campaign=1051&utm_source=git)** | Romulus, MI | On Site | Jan 26 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Wealth Management](https://jobright.ai/jobs/info/69776be852f3c27ec6436fac?utm_campaign=1051&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Jan 26 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/689567bd4ed2ea559ca55850?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jan 26 |
@@ -143,8 +144,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b5c4ff462851fefedc7d?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Jan 25 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903aacdff462851fefed518?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 25 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903ac18d64a22104aa91959?utm_campaign=1051&utm_source=git)** | Glendale, AZ | On Site | Jan 25 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/697625da37785856350fe970?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | On Site | Jan 25 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b1a663502c0aded6b372?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 25 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b1a663502c0aded6b372?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 25 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903aa9363502c0aded6ae45?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Jan 25 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903ad9763502c0aded6b04c?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Jan 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e86d3e09580a2fe57f788f?utm_campaign=1051&utm_source=git)** | Natchitoches, LA | On Site | Jan 25 |
