@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bluecrest Partners](bluecrestpartners.us)** | **[Sales Internship - Mountain](https://jobright.ai/jobs/info/697730b888e2b47213bafff8?utm_campaign=1051&utm_source=git)** | Midvale, UT | Remote | Jan 26 |
+| **[GSD&M](http://www.gsdm.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/696ebaf85fc86241853da26f?utm_campaign=1051&utm_source=git)** | Austin | Hybrid | Jan 26 |
+| **[Celonis](https://www.celonis.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6908c0d54a1b456627af8d0c?utm_campaign=1051&utm_source=git)** | New York, US, New York | On Site | Jan 26 |
+| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[New York Showroom Intern](https://jobright.ai/jobs/info/6977287e52f3c27ec64322eb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 26 |
+| **[Meridien Labs](meridienlabs.us)** | **[Sales Internship Pacific](https://jobright.ai/jobs/info/6977275752f3c27ec6432243?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 26 |
+| **[Workiva](http://www.workiva.com)** | **[2026 Summer Intern - Territory Development](https://jobright.ai/jobs/info/697723d4fdeb8243a279f387?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 26 |
+| ↳ | **[Summer 2026 Intern - Sales Program Management](https://jobright.ai/jobs/info/697723bf88e2b47213bafc9d?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 26 |
+| **[Veltrana Group](veltranagroup.us)** | **[Sales internship -pacific](https://jobright.ai/jobs/info/6977237c52f3c27ec64321bc?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 26 |
+| **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Partnerships](https://jobright.ai/jobs/info/69772379fdeb8243a279f371?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 26 |
+| ↳ | **[Summer 2026 Intern - Customer Success](https://jobright.ai/jobs/info/6977231788e2b47213bafc61?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 26 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Development (Capture) Internship](https://jobright.ai/jobs/info/69770fcb52f3c27ec64317ab?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Blue Ventis](blueventis.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/6976fd5e88e2b47213bae6d9?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 25 |
 | **[Appli AI](https://applisolutions.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6976f8b0fdeb8243a279d830?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 25 |
@@ -101,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk FT 6614](https://jobright.ai/jobs/info/697674ef206da320f4a037cd?utm_campaign=1051&utm_source=git)** | Centreville, VA | On Site | Jan 25 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships & Ticket Sales Internship (Wofford College Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976748537785856351013c7?utm_campaign=1051&utm_source=git)** | Spartanburg, SC | On Site | Jan 25 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Sales Business Development](https://jobright.ai/jobs/info/69767414206da320f4a0378f?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 25 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/69764be7206da320f4a02a89?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69762c03206da320f4a00ea9?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903ab83ff462851fefed5b1?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Jan 25 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b5c4ff462851fefedc7d?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Jan 25 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e8735e09580a2fe57f7b4e?utm_campaign=1051&utm_source=git)** | Alexandria, LA | On Site | Jan 25 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6921226400c9ee50eaecc023?utm_campaign=1051&utm_source=git)** | Springfield, PA | On Site | Jan 25 |
 | ↳ | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/693528d8a0dde7020e2f7a62?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Jan 25 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69211e20a49a885af9a4302e?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Jan 25 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903acc6d64a22104aa919bd?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Jan 25 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68cc6f4a7342c7623ae64c9b?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Jan 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - Berlin, CT](https://jobright.ai/jobs/info/6933ddbf764507023d1ba492?utm_campaign=1051&utm_source=git)** | New Britain, CT | On Site | Jan 25 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68cc9ce016d00d2beeb220d7?utm_campaign=1051&utm_source=git)** | Hewitt, TX | On Site | Jan 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68cc62a816d00d2beeb1ea98?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Jan 25 |
-| ↳ | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/69355063764507023d1c00f4?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Jan 25 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Wallula, WA](https://jobright.ai/jobs/info/68b7d90aa10b650604b61644?utm_campaign=1051&utm_source=git)** | Touchet, WA | On Site | Jan 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933f8d0764507023d1bb277?utm_campaign=1051&utm_source=git)** | Albany, GA | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
