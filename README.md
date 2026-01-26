@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (University of North Alabama Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976c7cb206da320f4a07adb?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jan 25 |
+| ↳ | **[Corporate Partnerships Internship (The Citadel Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976c7b0206da320f4a07ad4?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Jan 25 |
+| ↳ | **[Corporate Partnerships Internship (Fairleigh Dickinson Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976c784bc8e722e7b1b4734?utm_campaign=1051&utm_source=git)** | Teaneck, NJ | On Site | Jan 25 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6976b7bd206da320f4a05e9a?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 25 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6976b71e377858563510363a?utm_campaign=1051&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Jan 25 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6976b70b3778585635103636?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Jan 25 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6976b6d1bc8e722e7b1b27c5?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jan 25 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6976b6c23778585635103622?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 25 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6976b6bbbc8e722e7b1b27bf?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 25 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6976b6a6377858563510361c?utm_campaign=1051&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Jan 25 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6976b6a2377858563510361b?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 25 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6976b666bc8e722e7b1b27a4?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 25 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68c77ec1c96a22563ecf15ff?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Jan 25 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69769e9b206da320f4a0554b?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 25 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69769446206da320f4a05460?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Jan 25 |
@@ -68,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Medha Cloud](https://medhahosting.com)** | **[Cloud Sales Engineer Intern - Medha Cloud](https://jobright.ai/jobs/info/697651ffbc8e722e7b1af975?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Appli AI](https://applisolutions.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69764d37377858563510071b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 25 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/69764be7206da320f4a02a89?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 25 |
-| **[Mississippi Department of Employment Security](http://mdes.ms.gov)** | **[GRAY MEDIA FUTURE SALES INTERN SPRING '26 - WDAM](https://jobright.ai/jobs/info/697647573778585635100680?utm_campaign=1051&utm_source=git)** | Laurel, MS | On Site | Jan 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69762c03206da320f4a00ea9?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903ab83ff462851fefed5b1?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Jan 25 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b5c4ff462851fefedc7d?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Jan 25 |
@@ -82,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903ad2963502c0aded6b00a?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Jan 25 |
 | **[Brixenta](brixenta.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/697621b637785856350fe89a?utm_campaign=1051&utm_source=git)** | Bellevue, WA | Remote | Jan 25 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Sales Planning & Operations](https://jobright.ai/jobs/info/69056828122e8474c78d8c87?utm_campaign=1051&utm_source=git)** | Kirkland, WA | On Site | Jan 25 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/69761f0cbc8e722e7b1ada09?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Graybar](http://www.graybar.com)** | **[Summer 2026 Intern - Sales](https://jobright.ai/jobs/info/6920e82da49a885af9a4081b?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jan 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - East Granby, Connecticut](https://jobright.ai/jobs/info/6933f865764507023d1bb0f9?utm_campaign=1051&utm_source=git)** | Windsor, CT | On Site | Jan 25 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[COE - Presales Intern (2026 Summer Internship) - Remote](https://jobright.ai/jobs/info/692122fea49a885af9a433b1?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Jan 25 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Area Leader Trainee Intern - Field](https://jobright.ai/jobs/info/693d7a4850bbaf76505084f6?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Jan 25 |
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e85033cc49a84b7e104f97?utm_campaign=1051&utm_source=git)** | Rosemont, IL | On Site | Jan 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68e8547cc72beb74cb31d998?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 25 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68e855ba09580a2fe57f6929?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 25 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/694392e294730b739876c32d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
-| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Sales Strategy & Operations Manager](https://jobright.ai/jobs/info/68e88e64c72beb74cb320111?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 25 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) /  Granada Hills, CA - Summer 2026](https://jobright.ai/jobs/info/6975d0a437785856350fa683?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
-| ↳ | **[Retail Management Internship (Stores) / Peoria, AZ  - Summer 2026](https://jobright.ai/jobs/info/6975d09237785856350fa67b?utm_campaign=1051&utm_source=git)** | Peoria, AZ | On Site | Jan 25 |
-| ↳ | **[Retail Management Internship (Stores) / Costa Mesa, CA - Summer 2026](https://jobright.ai/jobs/info/6975d08537785856350fa677?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Jan 25 |
-| ↳ | **[Retail Management Internship (Stores) / West Hills, CA - Summer 2026](https://jobright.ai/jobs/info/6975d05237785856350fa662?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
-| **[Cheekwood](https://cheekwood.org)** | **[Development Intern - Summer 2026](https://jobright.ai/jobs/info/6976589b206da320f4a02c5a?utm_campaign=1051&utm_source=git)** | Nashville, TN, US | On Site | Jan 25 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) / Mesa, AZ  - Summer 2026](https://jobright.ai/jobs/info/6975cdcebc8e722e7b1a9b2d?utm_campaign=1051&utm_source=git)** | Mesa, AZ | On Site | Jan 25 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) / Fullerton, CA - Summer 2026](https://jobright.ai/jobs/info/6975ccb4206da320f49fca87?utm_campaign=1051&utm_source=git)** | Fullerton, CA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
