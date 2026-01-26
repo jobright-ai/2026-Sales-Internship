@@ -57,8 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intermediary Sales Part-Time Spring Intern](https://jobright.ai/jobs/info/6977a90752f3c27ec643bebd?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts, United States of America | On Site | Jan 26 |
+| **[EQ Bank | Equitable Bank](http://www.eqbank.ca)** | **[SFR Residential Lending Strategy - Summer 2026 Intern](https://jobright.ai/jobs/info/6977a70c88e2b47213bb9125?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
+| ↳ | **[SFR Residential Lending Strategy - Summer 2026 Intern](https://jobright.ai/jobs/info/6977a6be88e2b47213bb909a?utm_campaign=1051&utm_source=git)** | Toronto | Hybrid | Jan 26 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/69779bd788e2b47213bb845c?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jan 26 |
+| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/6977945152f3c27ec643a5db?utm_campaign=1051&utm_source=git)** | Bensalem, PA | On Site | Jan 26 |
+| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69778eaf52f3c27ec6439d21?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 26 |
+| **[DL1961](https://www.dl1961.com)** | **[Showoom Sales Intern](https://jobright.ai/jobs/info/69778e1452f3c27ec6439c71?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 26 |
+| **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/69744130206da320f49e65b7?utm_campaign=1051&utm_source=git)** | West Chester, PA | On Site | Jan 26 |
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Focus Solutions Intern](https://jobright.ai/jobs/info/69778780fdeb8243a27a60ed?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | **[Brixenta](brixenta.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/6977841288e2b47213bb676c?utm_campaign=1051&utm_source=git)** | Bellvue, CO | Remote | Jan 26 |
+| **[The Advisory Investment Bank](theadvisoryib.com)** | **[Business Development Investment Banking Internship](https://jobright.ai/jobs/info/697796e288e2b47213bb7f25?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 26 |
+| **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6977a09d52f3c27ec643b2a9?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
 | **[Citi](https://www.citi.com)** | **[Banking - Capital Markets, Summer Associate, New York (North America – 2026)](https://jobright.ai/jobs/info/6917c06cbcdbf3560c9cb049?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 26 |
 | **[Expeditors](http://www.expeditors.com)** | **[Supply Chain & Customs Brokerage Intern – Romulus, MI](https://jobright.ai/jobs/info/69776e8088e2b47213bb4b71?utm_campaign=1051&utm_source=git)** | Romulus, MI | On Site | Jan 26 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Wealth Management](https://jobright.ai/jobs/info/69776be852f3c27ec6436fac?utm_campaign=1051&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Jan 26 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903aacdff462851fefed518?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 25 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903ac18d64a22104aa91959?utm_campaign=1051&utm_source=git)** | Glendale, AZ | On Site | Jan 25 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b1a663502c0aded6b372?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 25 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903aa9363502c0aded6ae45?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Jan 25 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903ad9763502c0aded6b04c?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Jan 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e86d3e09580a2fe57f788f?utm_campaign=1051&utm_source=git)** | Natchitoches, LA | On Site | Jan 25 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903ad2963502c0aded6b00a?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Jan 25 |
-| **[Brixenta](brixenta.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/697621b637785856350fe89a?utm_campaign=1051&utm_source=git)** | Bellevue, WA | Remote | Jan 25 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Sales Planning & Operations](https://jobright.ai/jobs/info/69056828122e8474c78d8c87?utm_campaign=1051&utm_source=git)** | Kirkland, WA | On Site | Jan 25 |
-| **[Graybar](http://www.graybar.com)** | **[Summer 2026 Intern - Sales](https://jobright.ai/jobs/info/6920e82da49a885af9a4081b?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jan 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - East Granby, Connecticut](https://jobright.ai/jobs/info/6933f865764507023d1bb0f9?utm_campaign=1051&utm_source=git)** | Windsor, CT | On Site | Jan 25 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[COE - Presales Intern (2026 Summer Internship) - Remote](https://jobright.ai/jobs/info/692122fea49a885af9a433b1?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Jan 25 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b08c63502c0aded6b2d2?utm_campaign=1051&utm_source=git)** | Sandy Springs, GA | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
