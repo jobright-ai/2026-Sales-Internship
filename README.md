@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/68955f4a73b3a600fe886f4b?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 26 |
+| ↳ | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/68cd5383e23def7af55b8155?utm_campaign=1051&utm_source=git)** | Findlay, OH | On Site | Jan 26 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[7-Ventures and Emerging Brands Intern](https://jobright.ai/jobs/info/68e9175c0930fe0bc4622378?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Jan 26 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/697751d788e2b47213bb23e2?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jan 26 |
+| ↳ | **[Kate Spade Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/697750cf88e2b47213bb23c8?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 26 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Fresh Food Category Manager Intern](https://jobright.ai/jobs/info/68e914670930fe0bc46221e7?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Jan 26 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6977506188e2b47213bb23b8?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 26 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69774fa688e2b47213bb23a4?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Jan 26 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Supply Clerk Intern](https://jobright.ai/jobs/info/6921c8d53f782d2f1afd3d68?utm_campaign=1051&utm_source=git)** | CS-Bryan Area | On Site | Jan 26 |
@@ -84,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Maximus](http://www.maximus.com/)** | **[Business Development (Capture) Internship](https://jobright.ai/jobs/info/69770fcb52f3c27ec64317ab?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Blue Ventis](blueventis.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/6976fd5e88e2b47213bae6d9?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 25 |
 | **[Appli AI](https://applisolutions.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6976f8b0fdeb8243a279d830?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 25 |
-| **[HI Agents](https://www.hiagents.life/)** | **[🚀 Business Development Intern (Unpaid) – Healthcare Tech Startup (Remote)](https://jobright.ai/jobs/info/6976f861fdeb8243a279d815?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Open Health Agents](https://www.hiagents.life/)** | **[🚀 Business Development Intern (Unpaid) – Healthcare Tech Startup (Remote)](https://jobright.ai/jobs/info/6976f861fdeb8243a279d815?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Six Flags](https://www.sixflags.com)** | **[Food & Beverage Procurement Internship- $19/HR](https://jobright.ai/jobs/info/6976eb6d52f3c27ec642e10b?utm_campaign=1051&utm_source=git)** | Waukegan, IL | On Site | Jan 25 |
 | **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Merchandise Intern](https://jobright.ai/jobs/info/6976e02b3778585635106612?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Jan 25 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (University of Akron) - Summer 2026](https://jobright.ai/jobs/info/6976dc5c3778585635106049?utm_campaign=1051&utm_source=git)** | Akron, OH | On Site | Jan 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2026 - Eastern PA](https://jobright.ai/jobs/info/68cc351c7342c7623ae60d20?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 25 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b56aff462851fefedc57?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Jan 25 |
 | **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Sourcing Intern](https://jobright.ai/jobs/info/6920c2393f782d2f1afcb1c0?utm_campaign=1051&utm_source=git)** | Sycamore, IL | On Site | Jan 25 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903a7b6ff462851fefed238?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Jan 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/693417f5f131d96e48469645?utm_campaign=1051&utm_source=git)** | Valdosta, GA | On Site | Jan 25 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68af4b992daaba398441cf2b?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Jan 25 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jan 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - Wolcott, CT](https://jobright.ai/jobs/info/6933ef97f131d96e484686d3?utm_campaign=1051&utm_source=git)** | Waterbury, CT | On Site | Jan 25 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/692118d300c9ee50eaecbadb?utm_campaign=1051&utm_source=git)** | Bensalem, PA | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
