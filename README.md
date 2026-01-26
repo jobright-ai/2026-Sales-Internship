@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Ventis](blueventis.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/6976fd5e88e2b47213bae6d9?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 25 |
+| **[Appli AI](https://applisolutions.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6976f8b0fdeb8243a279d830?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 25 |
+| **[HI Agents](https://www.hiagents.life/)** | **[🚀 Business Development Intern (Unpaid) – Healthcare Tech Startup (Remote)](https://jobright.ai/jobs/info/6976f861fdeb8243a279d815?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Six Flags](https://www.sixflags.com)** | **[Food & Beverage Procurement Internship- $19/HR](https://jobright.ai/jobs/info/6976eb6d52f3c27ec642e10b?utm_campaign=1051&utm_source=git)** | Waukegan, IL | On Site | Jan 25 |
 | **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Merchandise Intern](https://jobright.ai/jobs/info/6976e02b3778585635106612?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Jan 25 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (University of Akron) - Summer 2026](https://jobright.ai/jobs/info/6976dc5c3778585635106049?utm_campaign=1051&utm_source=git)** | Akron, OH | On Site | Jan 25 |
@@ -98,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk FT 6614](https://jobright.ai/jobs/info/697674ef206da320f4a037cd?utm_campaign=1051&utm_source=git)** | Centreville, VA | On Site | Jan 25 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships & Ticket Sales Internship (Wofford College Athletics) - Summer 2026](https://jobright.ai/jobs/info/6976748537785856351013c7?utm_campaign=1051&utm_source=git)** | Spartanburg, SC | On Site | Jan 25 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Sales Business Development](https://jobright.ai/jobs/info/69767414206da320f4a0378f?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 25 |
-| **[Medha Cloud](https://medhahosting.com)** | **[Cloud Sales Engineer Intern - Medha Cloud](https://jobright.ai/jobs/info/697651ffbc8e722e7b1af975?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/69764be7206da320f4a02a89?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69762c03206da320f4a00ea9?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903ab83ff462851fefed5b1?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Jan 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/69355063764507023d1c00f4?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Jan 25 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Wallula, WA](https://jobright.ai/jobs/info/68b7d90aa10b650604b61644?utm_campaign=1051&utm_source=git)** | Touchet, WA | On Site | Jan 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933f8d0764507023d1bb277?utm_campaign=1051&utm_source=git)** | Albany, GA | On Site | Jan 25 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b1e363502c0aded6b39b?utm_campaign=1051&utm_source=git)** | Olympia, WA | On Site | Jan 25 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Planning Intern](https://jobright.ai/jobs/info/6920f88f3f782d2f1afcda0b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
