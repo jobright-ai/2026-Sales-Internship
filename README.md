@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Focus Solutions Intern](https://jobright.ai/jobs/info/69778780fdeb8243a27a60ed?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
+| **[Brixenta](brixenta.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/6977841288e2b47213bb676c?utm_campaign=1051&utm_source=git)** | Bellvue, CO | Remote | Jan 26 |
 | **[Citi](https://www.citi.com)** | **[Banking - Capital Markets, Summer Associate, New York (North America – 2026)](https://jobright.ai/jobs/info/6917c06cbcdbf3560c9cb049?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 26 |
 | **[Expeditors](http://www.expeditors.com)** | **[Supply Chain & Customs Brokerage Intern – Romulus, MI](https://jobright.ai/jobs/info/69776e8088e2b47213bb4b71?utm_campaign=1051&utm_source=git)** | Romulus, MI | On Site | Jan 26 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Wealth Management](https://jobright.ai/jobs/info/69776be852f3c27ec6436fac?utm_campaign=1051&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Jan 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - East Granby, Connecticut](https://jobright.ai/jobs/info/6933f865764507023d1bb0f9?utm_campaign=1051&utm_source=git)** | Windsor, CT | On Site | Jan 25 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[COE - Presales Intern (2026 Summer Internship) - Remote](https://jobright.ai/jobs/info/692122fea49a885af9a433b1?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Jan 25 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b08c63502c0aded6b2d2?utm_campaign=1051&utm_source=git)** | Sandy Springs, GA | On Site | Jan 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69211b8a3f782d2f1afcf381?utm_campaign=1051&utm_source=git)** | Lansdale, PA | On Site | Jan 25 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903aa8eff462851fefed4e0?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
