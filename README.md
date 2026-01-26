@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Expeditors](http://www.expeditors.com)** | **[Supply Chain & Customs Brokerage Intern – Romulus, MI](https://jobright.ai/jobs/info/69776e8088e2b47213bb4b71?utm_campaign=1051&utm_source=git)** | Romulus, MI | On Site | Jan 26 |
+| **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Wealth Management](https://jobright.ai/jobs/info/69776be852f3c27ec6436fac?utm_campaign=1051&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Jan 26 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/689567bd4ed2ea559ca55850?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jan 26 |
+| **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Charlotte, Summer 2026](https://jobright.ai/jobs/info/69054f59ff462851feffc9a6?utm_campaign=1051&utm_source=git)** | Charlotte Metro | On Site | Jan 26 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer Internship - Sales Management Trainee - OKC](https://jobright.ai/jobs/info/69354a36f131d96e4846dc75?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Jan 26 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Buying Intern](https://jobright.ai/jobs/info/69157c52286ccf0a1512eb52?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
+| **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/68cdb865e23def7af55be95a?utm_campaign=1051&utm_source=git)** | Detroit, MI | Hybrid | Jan 26 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/68955f4a73b3a600fe886f4b?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 26 |
 | ↳ | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/68cd5383e23def7af55b8155?utm_campaign=1051&utm_source=git)** | Findlay, OH | On Site | Jan 26 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[7-Ventures and Emerging Brands Intern](https://jobright.ai/jobs/info/68e9175c0930fe0bc4622378?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Jan 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b08c63502c0aded6b2d2?utm_campaign=1051&utm_source=git)** | Sandy Springs, GA | On Site | Jan 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69211b8a3f782d2f1afcf381?utm_campaign=1051&utm_source=git)** | Lansdale, PA | On Site | Jan 25 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903aa8eff462851fefed4e0?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL | On Site | Jan 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e86d7cc72beb74cb31e8b7?utm_campaign=1051&utm_source=git)** | Longview, TX | On Site | Jan 25 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6904df0eff462851feff836a?utm_campaign=1051&utm_source=git)** | Dothan, AL | On Site | Jan 25 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b15663502c0aded6b342?utm_campaign=1051&utm_source=git)** | Ontario, CA | On Site | Jan 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e87232cc49a84b7e106417?utm_campaign=1051&utm_source=git)** | Bossier City, LA | On Site | Jan 25 |
-| **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2026 - Eastern PA](https://jobright.ai/jobs/info/68cc351c7342c7623ae60d20?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 25 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b56aff462851fefedc57?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Jan 25 |
-| **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Sourcing Intern](https://jobright.ai/jobs/info/6920c2393f782d2f1afcb1c0?utm_campaign=1051&utm_source=git)** | Sycamore, IL | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
