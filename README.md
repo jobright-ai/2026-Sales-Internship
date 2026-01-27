@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corsair](http://www.corsair.com)** | **[Partnerships Intern, Gaming](https://jobright.ai/jobs/info/694089a350bbaf765052994f?utm_campaign=1051&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/68955eaa8c6d6b44267793da?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jan 27 |
+| **[Corsair](http://www.corsair.com)** | **[Sales Operations Intern – Data Analytics](https://jobright.ai/jobs/info/694067dcaa598a08c3f0079f?utm_campaign=1051&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d6463?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jan 27 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - St. Louis](https://jobright.ai/jobs/info/6922dbd4c0cefa13343d9b2b?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Jan 27 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Global Markets, Sales (Miami, FL)](https://jobright.ai/jobs/info/69568b0d9f1b381eb26fc8be?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 27 |
 | **[ADP](http://www.adp.com)** | **[Summer Sales Intern - Global Accounts](https://jobright.ai/jobs/info/695ca5655e4962051b59d755?utm_campaign=1051&utm_source=git)** | Allentown, PA | Remote | Jan 27 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Lexington](https://jobright.ai/jobs/info/68b1ffecbc187f64e1bd89d3?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Jan 27 |
 | **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/695ca82d5e4962051b59d808?utm_campaign=1051&utm_source=git)** | Allentown, PA | Remote | Jan 27 |
@@ -138,12 +144,12 @@ For a complete list, click the following sortable link below:
 | **[Yazaki North America](https://www.yii.tech/)** | **[Intern, Strategic Business Partnerships & Analytics](https://jobright.ai/jobs/info/69782743fdeb8243a27b1c39?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 26 |
 | **[Okta](http://www.okta.com)** | **[Customer Success Intern (Summer 2026)](https://jobright.ai/jobs/info/697821d788e2b47213bc220b?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | **[Docusign](http://www.docusign.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697831f439f7f96cc6d07a64?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 26 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Resource Sales Internship](https://jobright.ai/jobs/info/69781ee052f3c27ec6444b40?utm_campaign=1051&utm_source=git)** | Clackamas, OR | On Site | Jan 26 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Resource Sales Internship](https://jobright.ai/jobs/info/69782dfd52f3c27ec6445c84?utm_campaign=1051&utm_source=git)** | Clackamas, OR | On Site | Jan 26 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Sales and Operations Intern](https://jobright.ai/jobs/info/69781e8b88e2b47213bc1e3b?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 26 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, AEG Presents Global Partnerships](https://jobright.ai/jobs/info/69781f1488e2b47213bc1ecf?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 26 |
 | **[LINK Media, LLC](https://linknky.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69781ec788e2b47213bc1e76?utm_campaign=1051&utm_source=git)** | Covington, KY | On Site | Jan 26 |
-| **[Docusign](http://www.docusign.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69782e6a88e2b47213bc3508?utm_campaign=1051&utm_source=git)** | San Francisco, CA, US | Hybrid | Jan 26 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6978215152f3c27ec6444c97?utm_campaign=1051&utm_source=git)** | US-CA-San Francisco | Hybrid | Jan 26 |
+| **[Docusign](http://www.docusign.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6978215152f3c27ec6444c97?utm_campaign=1051&utm_source=git)** | US-CA-San Francisco | Hybrid | Jan 26 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69782e6a88e2b47213bc3508?utm_campaign=1051&utm_source=git)** | San Francisco, CA, US | Hybrid | Jan 26 |
 | **[Calix](http://www.calix.com)** | **[Regional Sales Intern](https://jobright.ai/jobs/info/697800d4fdeb8243a27b0132?utm_campaign=1051&utm_source=git)** | Remote - Canada | Remote | Jan 26 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Sales Operations Process Optimization Intern](https://jobright.ai/jobs/info/697823d888e2b47213bc2438?utm_campaign=1051&utm_source=git)** | Lake Orion, MI, US | On Site | Jan 26 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Women's Buying Intern](https://jobright.ai/jobs/info/6973fdca206da320f49e0dd8?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Jan 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Customer Insights Graduate Intern](https://jobright.ai/jobs/info/6978000e88e2b47213bc0bb9?utm_campaign=1051&utm_source=git)** | 100 Gundy Drive, Reading, PA, 19607, US | On Site | Jan 26 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Customer Insights Graduate Intern](https://jobright.ai/jobs/info/6977fe7a88e2b47213bc0ac0?utm_campaign=1051&utm_source=git)** | Reading, PA, United States | On Site | Jan 26 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6977fdf888e2b47213bc0a6a?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Jan 26 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Finance Club Partner (Student Leadership Program)](https://jobright.ai/jobs/info/69782d0752f3c27ec6445b4a?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jan 26 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/6977faee88e2b47213bc0842?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 26 |
-| **[Munich Re](https://www.munichre.com)** | **[Business Development Analyst Intern](https://jobright.ai/jobs/info/6977f6a5fdeb8243a27af9bb?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Jan 26 |
-| **[Okta](http://www.okta.com)** | **[Customer Success Intern (Summer 2026)](https://jobright.ai/jobs/info/6977ef07fdeb8243a27ae93f?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | Hybrid | Jan 26 |
-| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Sales Summer 2026 Internship](https://jobright.ai/jobs/info/6977ed5652f3c27ec6441c26?utm_campaign=1051&utm_source=git)** | Avon, OH | Hybrid | Jan 26 |
-| **[RBC](https://www.rbc.com)** | **[Summer 2026 - Relationship Manager Student Intern, Commercial Financial Markets- EN](https://jobright.ai/jobs/info/6977ed1afdeb8243a27ae4ec?utm_campaign=1051&utm_source=git)** | Québec, Quebec, Canada | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
