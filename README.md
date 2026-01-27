@@ -116,12 +116,12 @@ For a complete list, click the following sortable link below:
 | **[Yazaki North America](https://www.yii.tech/)** | **[Intern, Strategic Business Partnerships & Analytics](https://jobright.ai/jobs/info/69782743fdeb8243a27b1c39?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 26 |
 | **[Okta](http://www.okta.com)** | **[Customer Success Intern (Summer 2026)](https://jobright.ai/jobs/info/697821d788e2b47213bc220b?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | **[Docusign](http://www.docusign.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697831f439f7f96cc6d07a64?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 26 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Resource Sales Internship](https://jobright.ai/jobs/info/69781ee052f3c27ec6444b40?utm_campaign=1051&utm_source=git)** | Clackamas, OR | On Site | Jan 26 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Resource Sales Internship](https://jobright.ai/jobs/info/69782dfd52f3c27ec6445c84?utm_campaign=1051&utm_source=git)** | Clackamas, OR | On Site | Jan 26 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Sales and Operations Intern](https://jobright.ai/jobs/info/69781e8b88e2b47213bc1e3b?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 26 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, AEG Presents Global Partnerships](https://jobright.ai/jobs/info/69781f1488e2b47213bc1ecf?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 26 |
 | **[LINK Media, LLC](https://linknky.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69781ec788e2b47213bc1e76?utm_campaign=1051&utm_source=git)** | Covington, KY | On Site | Jan 26 |
-| **[Docusign](http://www.docusign.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6978215152f3c27ec6444c97?utm_campaign=1051&utm_source=git)** | US-CA-San Francisco | Hybrid | Jan 26 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69782e6a88e2b47213bc3508?utm_campaign=1051&utm_source=git)** | San Francisco, CA, US | Hybrid | Jan 26 |
+| **[Docusign](http://www.docusign.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69782e6a88e2b47213bc3508?utm_campaign=1051&utm_source=git)** | San Francisco, CA, US | Hybrid | Jan 26 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6978215152f3c27ec6444c97?utm_campaign=1051&utm_source=git)** | US-CA-San Francisco | Hybrid | Jan 26 |
 | **[Calix](http://www.calix.com)** | **[Regional Sales Intern](https://jobright.ai/jobs/info/697800d4fdeb8243a27b0132?utm_campaign=1051&utm_source=git)** | Remote - Canada | Remote | Jan 26 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Sales Operations Process Optimization Intern](https://jobright.ai/jobs/info/697823d888e2b47213bc2438?utm_campaign=1051&utm_source=git)** | Lake Orion, MI, US | On Site | Jan 26 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Women's Buying Intern](https://jobright.ai/jobs/info/6973fdca206da320f49e0dd8?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Jan 26 |
