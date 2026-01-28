@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Partnerships Agreements, Licensing, and Intellectual Property (IP), Hybrid](https://jobright.ai/jobs/info/6979a153d7df290257fc112c?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 27 |
+| **[LONG Building Technologies](http://long.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69799cffd7df290257fc06a0?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Jan 27 |
+| **[Scheels](http://www.scheels.com)** | **[Shipping Analyst Intern](https://jobright.ai/jobs/info/69799b990791bc1d72305055?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Jan 27 |
+| **[Mitra AI](https://mitrai.com/)** | **[Pre Sales  - AI Native Intern](https://jobright.ai/jobs/info/69799a370791bc1d72304fb1?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 27 |
+| **[Franklin Templeton](http://www.franklintempleton.com)** | **[Putnam Transfer Agency - Investor Services Internship](https://jobright.ai/jobs/info/6979993f0791bc1d72304f1e?utm_campaign=1051&utm_source=git)** | Massachusetts, United States of America | Remote | Jan 27 |
 | **[Scheels](http://www.scheels.com)** | **[Buyer & Planner Intern](https://jobright.ai/jobs/info/697995500791bc1d72304c91?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Jan 27 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69799352ca92cf0d6a82c22c?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 27 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/69799201ca92cf0d6a82be5e?utm_campaign=1051&utm_source=git)** | Kamloops, British Columbia, Canada | On Site | Jan 27 |
@@ -66,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Kymera Therapeutics](http://www.kymeratx.com/)** | **[Business Development MBA Intern](https://jobright.ai/jobs/info/697987bbca92cf0d6a82b014?utm_campaign=1051&utm_source=git)** | Greater Boston | On Site | Jan 27 |
 | **[InfluxData](http://influxdata.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/697986ccca92cf0d6a82af41?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Jan 27 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/697986b5ca92cf0d6a82af2e?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Jan 27 |
+| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: MOM Presales  Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/6979a274d7df290257fc11d7?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Jan 27 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Account Management Internship – Summer 2026](https://jobright.ai/jobs/info/69704f06587dfa0bb55dd61f?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695d68b6fbd62a0a6565fe2f?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 27 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6979803bca92cf0d6a82aa3b?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jan 27 |
@@ -124,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Selling - Intern](https://jobright.ai/jobs/info/6979387388e2b47213bd5ebd?utm_campaign=1051&utm_source=git)** | Bronx, NY | Hybrid | Jan 27 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Sales, Drug](https://jobright.ai/jobs/info/6979386388e2b47213bd5e96?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Enterprise Client Success Manager - Intern - Summer 2026](https://jobright.ai/jobs/info/697955ee88e2b47213bd8b84?utm_campaign=1051&utm_source=git)** | Atlanta GA | Hybrid | Jan 27 |
+| **[Shaw’s and Star Market](https://www.shaws.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/6979a0e5ca92cf0d6a82ef85?utm_campaign=1051&utm_source=git)** | Merrimack, NH | On Site | Jan 27 |
 | **[Starkey Hearing](https://www.starkey.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/697936e288e2b47213bd5b48?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Jan 27 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Carrier Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6979350552f3c27ec6457e94?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Strategic Partnerships](https://jobright.ai/jobs/info/695d9592fbd62a0a656648eb?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 27 |
@@ -148,13 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695d707cf5f3c43f38e23c57?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/695d6925fbd62a0a6565febd?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 27 |
 | **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794d3e39f7f96cc6d1c556?utm_campaign=1051&utm_source=git)** | San Angelo CJD Fiat, San Angelo, TX 76901 | On Site | Jan 27 |
-| ↳ | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794ae039f7f96cc6d1c264?utm_campaign=1051&utm_source=git)** | Midland Chevrolet, Midland, TX 79703 | On Site | Jan 27 |
 | ↳ | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794c5d52f3c27ec645ae1b?utm_campaign=1051&utm_source=git)** | San Angelo Chevrolet, San Angelo, TX 76903 | On Site | Jan 27 |
 | ↳ | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794d5188e2b47213bd853b?utm_campaign=1051&utm_source=git)** | Midland CJD, Midland, TX 79703 | On Site | Jan 27 |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship – Procurement](https://jobright.ai/jobs/info/6979486b88e2b47213bd7f2d?utm_campaign=1051&utm_source=git)** | Okemos, MI | Hybrid | Jan 27 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Western Michigan)](https://jobright.ai/jobs/info/697946dc52f3c27ec645a8af?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Jan 27 |
-| **[TeamViewer](https://www.teamviewer.com)** | **[Sales Intern - Hybrid, Clearwater, FL](https://jobright.ai/jobs/info/69794f0f88e2b47213bd8740?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Hybrid | Jan 27 |
-| **[The Marketing Cloud](https://www.stagwellmarketingcloud.com)** | **[Vertias Intern](https://jobright.ai/jobs/info/6979507552f3c27ec645b2e9?utm_campaign=1051&utm_source=git)** | Orange County, CA | Hybrid | Jan 27 |
-| **[Elevare Consulting](elevareconsulting.us)** | **[Inside Sales Internships](https://jobright.ai/jobs/info/697948c688e2b47213bd7f9e?utm_campaign=1051&utm_source=git)** | Redlands, CA | Remote | Jan 27 |
-| **[RBCx](https://www.rbcx.com/)** | **[2026 Summer - RBCx, Revenue Operations Intern (4 Months)](https://jobright.ai/jobs/info/697950ff52f3c27ec645b3a4?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
