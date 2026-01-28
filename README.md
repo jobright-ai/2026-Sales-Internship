@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/694176a2bdcf884a5add4033?utm_campaign=1051&utm_source=git)** | Ohio, United States | On Site | Jan 28 |
+| **[Everus](http://www.mducsg.com/)** | **[Corporate Development Intern - Summer 2026](https://jobright.ai/jobs/info/6941f61d50bbaf765053c836?utm_campaign=1051&utm_source=git)** | Boulder, CO | On Site | Jan 28 |
+| **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Las Vegas Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6924ca1d38cd5478a8d5dd17?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Jan 28 |
+| ↳ | **[Inland Empire (Ontario) Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6924dee0c0cefa13343e304a?utm_campaign=1051&utm_source=git)** | Rancho Cucamonga, CA | On Site | Jan 28 |
+| **[Legends Global](http://legends.net)** | **[Merchandise Internship: 2026 PGA Championship](https://jobright.ai/jobs/info/69517d09a2668b7f54542957?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 28 |
+| **[Fieldwire by Hilti](https://www.fieldwire.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6941ddd114ee092a69ffee74?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 28 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern-Field](https://jobright.ai/jobs/info/69416d9e14ee092a69ff9422?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Jan 28 |
+| **[Legends Global](http://legends.net)** | **[Intern - Partnership Sales](https://jobright.ai/jobs/info/6941dfc014ee092a69fff1bf?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jan 28 |
+| ↳ | **[Merchandise Internship- 2026 BNP Paribas Open](https://jobright.ai/jobs/info/6941d62114ee092a69ffe736?utm_campaign=1051&utm_source=git)** | Palm Springs, CA | On Site | Jan 28 |
+| **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68ce0776e23def7af55c1702?utm_campaign=1051&utm_source=git)** | Provo, UT | Hybrid | Jan 28 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Sales Operations Intern Summer 2026](https://jobright.ai/jobs/info/68d1e154a54edb3bf3e17197?utm_campaign=1051&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 28 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/6979ee1cb4589b4ee87c367f?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 28 |
 | **[Triple-S Steel](Www.sss-steel.no)** | **[Sales & Operations Intern](https://jobright.ai/jobs/info/6979ee03a5b9804527dfbdd9?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Jan 28 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shaw’s and Star Market](https://www.shaws.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/6979a0e5ca92cf0d6a82ef85?utm_campaign=1051&utm_source=git)** | Merrimack, NH | On Site | Jan 27 |
 | **[Starkey Hearing](https://www.starkey.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/697936e288e2b47213bd5b48?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Jan 27 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Carrier Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6979350552f3c27ec6457e94?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
-| **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Strategic Partnerships](https://jobright.ai/jobs/info/695d9592fbd62a0a656648eb?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 27 |
-| **[Fendi](http://www.fendi.com)** | **[Intern, Wholesale](https://jobright.ai/jobs/info/697933b488e2b47213bd5400?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jan 27 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[2026 Summer Intern - Inbound Sales Representative](https://jobright.ai/jobs/info/6979335288e2b47213bd52fe?utm_campaign=1051&utm_source=git)** | Allen, TX | On Site | Jan 27 |
-| **[Berkeley Nucleonics Corporation](http://berkeleynucleonics.com/)** | **[Nuclear Sales Engineer (Entry-Level)](https://jobright.ai/jobs/info/697951f339f7f96cc6d1c9a9?utm_campaign=1051&utm_source=git)** | San Rafael, CA | Hybrid | Jan 27 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Outbound Sales Representative - 2026 Summer Intern](https://jobright.ai/jobs/info/6979324588e2b47213bd5139?utm_campaign=1051&utm_source=git)** | Allen, TX | On Site | Jan 27 |
-| **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69616943a112b402660feb25?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Jan 27 |
-| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6979306f52f3c27ec64579ba?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Jan 27 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6979300688e2b47213bd4f8c?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Jan 27 |
-| **[Fendi](http://www.fendi.com)** | **[Intern, CRM](https://jobright.ai/jobs/info/69792f6c52f3c27ec6457822?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jan 27 |
-| **[Voya Financial](https://www.voya.com/)** | **[Sales Strategy Intern](https://jobright.ai/jobs/info/69792efe88e2b47213bd4e68?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
