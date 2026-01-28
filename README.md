@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orizon Energy](https://www.orizonenergy.ca)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/6979701d9c90a224ecc328ac?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 27 |
+| **[Scheels](http://www.scheels.com)** | **[Shipping Analyst Intern](https://jobright.ai/jobs/info/69796e860791bc1d72301750?utm_campaign=1051&utm_source=git)** | Fargo, North Dakota, United States | On Site | Jan 27 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Resource Sales Intern](https://jobright.ai/jobs/info/69796ae739f7f96cc6d1f425?utm_campaign=1051&utm_source=git)** | Clackamas, OR | On Site | Jan 27 |
+| **[Patterson Veterinary Supply](https://www.pattersonvet.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6979689639f7f96cc6d1f1e2?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Jan 27 |
+| **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty Insurance Intern](https://jobright.ai/jobs/info/6979663588e2b47213bdaf5e?utm_campaign=1051&utm_source=git)** | Hammond, LA | On Site | Jan 27 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695d6b2bf1f8465b79f395cf?utm_campaign=1051&utm_source=git)** | Rhode Island, United States | On Site | Jan 27 |
 | **[TeamViewer](https://www.teamviewer.com)** | **[Channel Sales Internship - Remote, USA](https://jobright.ai/jobs/info/6979600639f7f96cc6d1e551?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Remote | Jan 27 |
 | ↳ | **[Sales Intern - Hybrid, Clearwater, FL](https://jobright.ai/jobs/info/69795f9139f7f96cc6d1e1bf?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Hybrid | Jan 27 |
@@ -73,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales intern](https://jobright.ai/jobs/info/697956bb39f7f96cc6d1cc8f?utm_campaign=1051&utm_source=git)** | NY, New York | On Site | Jan 27 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Client Experience Summer Internship Program](https://jobright.ai/jobs/info/695d5c3efbd62a0a6565f3ab?utm_campaign=1051&utm_source=git)** | Pontiac, MI | On Site | Jan 27 |
 | **[TI Fluid Systems](https://www.tifluidsystems.com)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/695cd6b11dfa954d1c46f883?utm_campaign=1051&utm_source=git)** | Hayward, CA | On Site | Jan 27 |
+| **[InfluxData](http://influxdata.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6979716e9c90a224ecc329e3?utm_campaign=1051&utm_source=git)** | Remote US | Remote | Jan 27 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6979502b39f7f96cc6d1c842?utm_campaign=1051&utm_source=git)** | Roseville, MN | On Site | Jan 27 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026 - Atlanta, GA)](https://jobright.ai/jobs/info/695d96c8f1f8465b79f3dddb?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jan 27 |
 | **[Rycon Construction](http://ryconinc.com)** | **[Internship](https://jobright.ai/jobs/info/69794dcf88e2b47213bd85dc?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Jan 27 |
@@ -119,9 +125,9 @@ For a complete list, click the following sortable link below:
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/6960bc757ebc25398eb69abc?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 27 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695d707cf5f3c43f38e23c57?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/695d6925fbd62a0a6565febd?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 27 |
-| **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794c5d52f3c27ec645ae1b?utm_campaign=1051&utm_source=git)** | San Angelo Chevrolet, San Angelo, TX 76903 | On Site | Jan 27 |
+| **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794d5188e2b47213bd853b?utm_campaign=1051&utm_source=git)** | Midland CJD, Midland, TX 79703 | On Site | Jan 27 |
 | ↳ | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794ae039f7f96cc6d1c264?utm_campaign=1051&utm_source=git)** | Midland Chevrolet, Midland, TX 79703 | On Site | Jan 27 |
-| ↳ | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794d5188e2b47213bd853b?utm_campaign=1051&utm_source=git)** | Midland CJD, Midland, TX 79703 | On Site | Jan 27 |
+| ↳ | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794c5d52f3c27ec645ae1b?utm_campaign=1051&utm_source=git)** | San Angelo Chevrolet, San Angelo, TX 76903 | On Site | Jan 27 |
 | ↳ | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794d3e39f7f96cc6d1c556?utm_campaign=1051&utm_source=git)** | San Angelo CJD Fiat, San Angelo, TX 76901 | On Site | Jan 27 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship – Procurement](https://jobright.ai/jobs/info/6979486b88e2b47213bd7f2d?utm_campaign=1051&utm_source=git)** | Okemos, MI | Hybrid | Jan 27 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Western Michigan)](https://jobright.ai/jobs/info/697946dc52f3c27ec645a8af?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Jan 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[COE - Presales Intern (2026 Summer Internship) - Remote](https://jobright.ai/jobs/info/697939b752f3c27ec6458916?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Jan 27 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[National Digital Sales Intern](https://jobright.ai/jobs/info/69408a03aa598a08c3f03856?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Internship / COOP Opportunities](https://jobright.ai/jobs/info/697919fc52f3c27ec6455e98?utm_campaign=1051&utm_source=git)** | Jasper, IN | On Site | Jan 27 |
-| **[DigiStream Investigations](https://www.digistream.com)** | **[Sales Assistant Internship](https://jobright.ai/jobs/info/697919e352f3c27ec6455e7d?utm_campaign=1051&utm_source=git)** | Torrance, CA | Hybrid | Jan 27 |
-| **[Fendi](http://www.fendi.com)** | **[Intern, Retail Business Analyst](https://jobright.ai/jobs/info/69793e8b52f3c27ec6459525?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jan 27 |
-| **[ROAR Logistics](https://www.roarlogistics.com/)** | **[Title                                                   Intern - Foodservice K-12 Bid Team](https://jobright.ai/jobs/info/697919a939f7f96cc6d1763c?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Jan 27 |
-| **[TeamViewer](https://www.teamviewer.com)** | **[Channel Sales Internship - Remote, USA](https://jobright.ai/jobs/info/6979432439f7f96cc6d1badd?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Remote | Jan 27 |
-| **[Rich Products Corporation](https://rich.com)** | **[Intern - Foodservice K-12 Bid Team](https://jobright.ai/jobs/info/6979192739f7f96cc6d1758f?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Jan 27 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697918e852f3c27ec6455d6f?utm_campaign=1051&utm_source=git)** | Doral, FL | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
