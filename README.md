@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69630fff25e18715077fbeda?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Jan 27 |
+| **[Black Desert Resort](https://blackdesertresort.com/)** | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/6979b5ced7df290257fc2708?utm_campaign=1051&utm_source=git)** | US-WA-Cle Elum | On Site | Jan 27 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Partnerships Agreements, Licensing, and Intellectual Property (IP), Hybrid](https://jobright.ai/jobs/info/6979a153d7df290257fc112c?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 27 |
 | **[LONG Building Technologies](http://long.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69799cffd7df290257fc06a0?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Jan 27 |
 | **[Scheels](http://www.scheels.com)** | **[Shipping Analyst Intern](https://jobright.ai/jobs/info/69799b990791bc1d72305055?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Jan 27 |
@@ -75,6 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Uber Freight](https://www.uberfreight.com)** | **[Account Management Internship – Summer 2026](https://jobright.ai/jobs/info/69704f06587dfa0bb55dd61f?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695d68b6fbd62a0a6565fe2f?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 27 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6979803bca92cf0d6a82aa3b?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jan 27 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6979aabbd7df290257fc1e85?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 27 |
+| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern Advisory, Corporate Services, Global BusinessServices, Global Capability Centers and Outsourcing / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6979b785d7df290257fc283f?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
 | **[Coldwell Banker](http://www.coldwellbanker.com)** | **[Rental Agent Internship](https://jobright.ai/jobs/info/697998230791bc1d72304e4c?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Jan 27 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship – Procurement](https://jobright.ai/jobs/info/6979796c9c90a224ecc33155?utm_campaign=1051&utm_source=git)** | Okemos, MI | Hybrid | Jan 27 |
 | **[Ecolab](http://www.ecolab.com)** | **[Mining Engineering Technical Sales Internship](https://jobright.ai/jobs/info/695dbe4afbd62a0a65666fbb?utm_campaign=1051&utm_source=git)** | Blacksburg, VA | Hybrid | Jan 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Internship](https://jobright.ai/jobs/info/6976d6d0bc8e722e7b1b4cb7?utm_campaign=1051&utm_source=git)** | Dedham, MA | On Site | Jan 27 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/6960bc757ebc25398eb69abc?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 27 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695d707cf5f3c43f38e23c57?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/695d6925fbd62a0a6565febd?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 27 |
-| **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794d3e39f7f96cc6d1c556?utm_campaign=1051&utm_source=git)** | San Angelo CJD Fiat, San Angelo, TX 76901 | On Site | Jan 27 |
-| ↳ | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794c5d52f3c27ec645ae1b?utm_campaign=1051&utm_source=git)** | San Angelo Chevrolet, San Angelo, TX 76903 | On Site | Jan 27 |
-| ↳ | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794d5188e2b47213bd853b?utm_campaign=1051&utm_source=git)** | Midland CJD, Midland, TX 79703 | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
