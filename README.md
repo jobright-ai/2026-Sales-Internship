@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision eControl](https://www.precisionecontrol.com)** | **[eControl Sales Operations Intern](https://jobright.ai/jobs/info/6979d81bb4589b4ee87c132b?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, US | On Site | Jan 28 |
+| **[Vorys, Sater, Seymour and Pease LLP](http://www.vorys.com)** | **[eControl Sales Operations Intern](https://jobright.ai/jobs/info/6979d6e6a8de441ca734f479?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Jan 28 |
+| **[National Life Group](https://www.nationallife.com)** | **[Distribution Sales Team Intern - Summer 2026](https://jobright.ai/jobs/info/695ddedee4cdbb1454cfda7d?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Jan 28 |
+| **[HBK - Hottinger Brüel & Kjær](https://www.hbkworld.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/695dab9cf5f3c43f38e290b9?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Jan 28 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69630fff25e18715077fbeda?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Jan 27 |
 | **[Black Desert Resort](https://blackdesertresort.com/)** | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/6979b5ced7df290257fc2708?utm_campaign=1051&utm_source=git)** | US-WA-Cle Elum | On Site | Jan 27 |
+| ↳ | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/6979c500ca92cf0d6a8306d6?utm_campaign=1051&utm_source=git)** | Cle Elum, WA, US | On Site | Jan 27 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Partnerships Agreements, Licensing, and Intellectual Property (IP), Hybrid](https://jobright.ai/jobs/info/6979a153d7df290257fc112c?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 27 |
 | **[LONG Building Technologies](http://long.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69799cffd7df290257fc06a0?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Jan 27 |
 | **[Scheels](http://www.scheels.com)** | **[Shipping Analyst Intern](https://jobright.ai/jobs/info/69799b990791bc1d72305055?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Jan 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Presales Business Manager Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/69792e3c39f7f96cc6d1910f?utm_campaign=1051&utm_source=git)** | Allen, TX | On Site | Jan 27 |
 | **[Northwestern Mutual - Purcell Financial](https://purcellfinancial.nm.com)** | **[Financial Sales Internship - JUNIORS and SENIORS](https://jobright.ai/jobs/info/69792e3b39f7f96cc6d1910d?utm_campaign=1051&utm_source=git)** | Cincinnati Metro | On Site | Jan 27 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Sales Development Representative Summer FIS University Program 2026](https://jobright.ai/jobs/info/695d838df1f8465b79f3b63d?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jan 27 |
-| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Sales Intern , Summer 2026 - Houston, TX](https://jobright.ai/jobs/info/69792cb652f3c27ec6457432?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Jan 27 |
-| **[Shaw’s and Star Market](https://www.shaws.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/6976d66fbc8e722e7b1b4a5f?utm_campaign=1051&utm_source=git)** | Beverly, MA | On Site | Jan 27 |
-| ↳ | **[Retail Management Internship](https://jobright.ai/jobs/info/6976d6d0bc8e722e7b1b4cb7?utm_campaign=1051&utm_source=git)** | Dedham, MA | On Site | Jan 27 |
-| **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/6960bc757ebc25398eb69abc?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 27 |
-| **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695d707cf5f3c43f38e23c57?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
