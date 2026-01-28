@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Sales Operations Intern Summer 2026](https://jobright.ai/jobs/info/68d1e154a54edb3bf3e17197?utm_campaign=1051&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 28 |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/6979ee1cb4589b4ee87c367f?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 28 |
+| **[Triple-S Steel](Www.sss-steel.no)** | **[Sales & Operations Intern](https://jobright.ai/jobs/info/6979ee03a5b9804527dfbdd9?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Jan 28 |
+| **[Orbient 24](orbient24.us)** | **[Sales Internship - Mountain](https://jobright.ai/jobs/info/6979e2deb4589b4ee87c2510?utm_campaign=1051&utm_source=git)** | Midvale, UT | On Site | Jan 28 |
+| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/68dd7a55a125e75c422aaf2f?utm_campaign=1051&utm_source=git)** | Little Rock, Arkansas | On Site | Jan 28 |
 | **[Precision eControl](https://www.precisionecontrol.com)** | **[eControl Sales Operations Intern](https://jobright.ai/jobs/info/6979d81bb4589b4ee87c132b?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, US | On Site | Jan 28 |
 | **[Vorys, Sater, Seymour and Pease LLP](http://www.vorys.com)** | **[eControl Sales Operations Intern](https://jobright.ai/jobs/info/6979d6e6a8de441ca734f479?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Jan 28 |
 | **[National Life Group](https://www.nationallife.com)** | **[Distribution Sales Team Intern - Summer 2026](https://jobright.ai/jobs/info/695ddedee4cdbb1454cfda7d?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Jan 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6979300688e2b47213bd4f8c?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Jan 27 |
 | **[Fendi](http://www.fendi.com)** | **[Intern, CRM](https://jobright.ai/jobs/info/69792f6c52f3c27ec6457822?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jan 27 |
 | **[Voya Financial](https://www.voya.com/)** | **[Sales Strategy Intern](https://jobright.ai/jobs/info/69792efe88e2b47213bd4e68?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Jan 27 |
-| **[insightsoftware](https://www.insightsoftware.com)** | **[Business Development Associate (Intern to Hire)](https://jobright.ai/jobs/info/695d6947fbd62a0a6565fef5?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 27 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern (Franchise)](https://jobright.ai/jobs/info/695d1796f5f3c43f38e1e2e6?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Jan 27 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Presales Business Manager Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/69792e3c39f7f96cc6d1910f?utm_campaign=1051&utm_source=git)** | Allen, TX | On Site | Jan 27 |
-| **[Northwestern Mutual - Purcell Financial](https://purcellfinancial.nm.com)** | **[Financial Sales Internship - JUNIORS and SENIORS](https://jobright.ai/jobs/info/69792e3b39f7f96cc6d1910d?utm_campaign=1051&utm_source=git)** | Cincinnati Metro | On Site | Jan 27 |
-| **[FIS](http://www.fisglobal.com)** | **[Intern, Sales Development Representative Summer FIS University Program 2026](https://jobright.ai/jobs/info/695d838df1f8465b79f3b63d?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
