@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69799201ca92cf0d6a82be5e?utm_campaign=1051&utm_source=git)** | Kamloops, British Columbia, Canada | On Site | Jan 27 |
+| **[Scheels](http://www.scheels.com)** | **[Buyer & Planner Intern](https://jobright.ai/jobs/info/697995500791bc1d72304c91?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Jan 27 |
+| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69799352ca92cf0d6a82c22c?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 27 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/69799201ca92cf0d6a82be5e?utm_campaign=1051&utm_source=git)** | Kamloops, British Columbia, Canada | On Site | Jan 27 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695dc2f5efe5dd5cbd3d9cc2?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Jan 27 |
 | **[Shaw’s and Star Market](https://www.shaws.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/697237a7584a1c1ef6fd352e?utm_campaign=1051&utm_source=git)** | South Burlington, VT | On Site | Jan 27 |
 | **[CoralTree Hospitality](https://www.coraltreehospitality.com/)** | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/69798a3aca92cf0d6a82b20d?utm_campaign=1051&utm_source=git)** | Cle Elum, WA | On Site | Jan 27 |
@@ -67,13 +69,16 @@ For a complete list, click the following sortable link below:
 | **[Uber Freight](https://www.uberfreight.com)** | **[Account Management Internship – Summer 2026](https://jobright.ai/jobs/info/69704f06587dfa0bb55dd61f?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695d68b6fbd62a0a6565fe2f?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 27 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6979803bca92cf0d6a82aa3b?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jan 27 |
+| **[Coldwell Banker](http://www.coldwellbanker.com)** | **[Rental Agent Internship](https://jobright.ai/jobs/info/697998230791bc1d72304e4c?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Jan 27 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship – Procurement](https://jobright.ai/jobs/info/6979796c9c90a224ecc33155?utm_campaign=1051&utm_source=git)** | Okemos, MI | Hybrid | Jan 27 |
 | **[Ecolab](http://www.ecolab.com)** | **[Mining Engineering Technical Sales Internship](https://jobright.ai/jobs/info/695dbe4afbd62a0a65666fbb?utm_campaign=1051&utm_source=git)** | Blacksburg, VA | Hybrid | Jan 27 |
 | **[Suncadia](http://www.suncadiaresort.com)** | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/697991cad7df290257fbe8f5?utm_campaign=1051&utm_source=git)** | Cle Elum, WA | On Site | Jan 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales intern](https://jobright.ai/jobs/info/697971a69c90a224ecc32a1b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 27 |
+| **[Ecolab](http://www.ecolab.com)** | **[Mining Engineering Technical Sales Internship](https://jobright.ai/jobs/info/695dc16eefe5dd5cbd3d9a7a?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jan 27 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Sales Internship - South Central](https://jobright.ai/jobs/info/697991ead7df290257fbe915?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Jan 27 |
 | **[Orizon Energy](https://www.orizonenergy.ca)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/6979701d9c90a224ecc328ac?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 27 |
 | **[Scheels](http://www.scheels.com)** | **[Shipping Analyst Intern](https://jobright.ai/jobs/info/69796e860791bc1d72301750?utm_campaign=1051&utm_source=git)** | Fargo, North Dakota, United States | On Site | Jan 27 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Jackson, MS/New Orleans, LA (Starting Summer 2026)](https://jobright.ai/jobs/info/69799498ca92cf0d6a82c67b?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Jan 27 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Resource Sales Intern](https://jobright.ai/jobs/info/69796ae739f7f96cc6d1f425?utm_campaign=1051&utm_source=git)** | Clackamas, OR | On Site | Jan 27 |
 | **[Patterson Veterinary Supply](https://www.pattersonvet.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6979689639f7f96cc6d1f1e2?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Jan 27 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty Insurance Intern](https://jobright.ai/jobs/info/6979663588e2b47213bdaf5e?utm_campaign=1051&utm_source=git)** | Hammond, LA | On Site | Jan 27 |
@@ -142,19 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/6960bc757ebc25398eb69abc?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 27 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695d707cf5f3c43f38e23c57?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/695d6925fbd62a0a6565febd?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 27 |
-| **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794d5188e2b47213bd853b?utm_campaign=1051&utm_source=git)** | Midland CJD, Midland, TX 79703 | On Site | Jan 27 |
+| **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794d3e39f7f96cc6d1c556?utm_campaign=1051&utm_source=git)** | San Angelo CJD Fiat, San Angelo, TX 76901 | On Site | Jan 27 |
 | ↳ | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794ae039f7f96cc6d1c264?utm_campaign=1051&utm_source=git)** | Midland Chevrolet, Midland, TX 79703 | On Site | Jan 27 |
 | ↳ | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794c5d52f3c27ec645ae1b?utm_campaign=1051&utm_source=git)** | San Angelo Chevrolet, San Angelo, TX 76903 | On Site | Jan 27 |
-| ↳ | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794d3e39f7f96cc6d1c556?utm_campaign=1051&utm_source=git)** | San Angelo CJD Fiat, San Angelo, TX 76901 | On Site | Jan 27 |
+| ↳ | **[Store Operations Internship - Texas](https://jobright.ai/jobs/info/69794d5188e2b47213bd853b?utm_campaign=1051&utm_source=git)** | Midland CJD, Midland, TX 79703 | On Site | Jan 27 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship – Procurement](https://jobright.ai/jobs/info/6979486b88e2b47213bd7f2d?utm_campaign=1051&utm_source=git)** | Okemos, MI | Hybrid | Jan 27 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Western Michigan)](https://jobright.ai/jobs/info/697946dc52f3c27ec645a8af?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Jan 27 |
 | **[TeamViewer](https://www.teamviewer.com)** | **[Sales Intern - Hybrid, Clearwater, FL](https://jobright.ai/jobs/info/69794f0f88e2b47213bd8740?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Hybrid | Jan 27 |
 | **[The Marketing Cloud](https://www.stagwellmarketingcloud.com)** | **[Vertias Intern](https://jobright.ai/jobs/info/6979507552f3c27ec645b2e9?utm_campaign=1051&utm_source=git)** | Orange County, CA | Hybrid | Jan 27 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Inside Sales Internships](https://jobright.ai/jobs/info/697948c688e2b47213bd7f9e?utm_campaign=1051&utm_source=git)** | Redlands, CA | Remote | Jan 27 |
 | **[RBCx](https://www.rbcx.com/)** | **[2026 Summer - RBCx, Revenue Operations Intern (4 Months)](https://jobright.ai/jobs/info/697950ff52f3c27ec645b3a4?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 27 |
-| **[RBC](https://www.rbc.com)** | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/69794c5b88e2b47213bd83f5?utm_campaign=1051&utm_source=git)** | Grand Falls, New Brunswick, Canada | On Site | Jan 27 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6979443639f7f96cc6d1bb97?utm_campaign=1051&utm_source=git)** | Dalhousie, New Brunswick, Canada | On Site | Jan 27 |
-| ↳ | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6979418b88e2b47213bd748c?utm_campaign=1051&utm_source=git)** | Quispamsis, New Brunswick, Canada | On Site | Jan 27 |
-| **[Appli AI](https://applisolutions.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/697950ce52f3c27ec645b35c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 27 |
-| **[Southeast Climate & Energy Network](https://www.scen-us.org)** | **[Development & Fundraising Intern](https://jobright.ai/jobs/info/6979230e52f3c27ec6456958?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
