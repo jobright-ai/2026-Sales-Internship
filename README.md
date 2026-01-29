@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[VS&A Sales Engineering Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/697abfb5f6fc293b0a2cba84?utm_campaign=1051&utm_source=git)** | Allen, TX (TX139) | On Site | Jan 28 |
+| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697abd428dbbf73badc80d26?utm_campaign=1051&utm_source=git)** | Union City, CA, USA | Hybrid | Jan 28 |
 | **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Client Technology Intern - Sales Analytics Product](https://jobright.ai/jobs/info/697ab4d9f6fc293b0a2ca8a9?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Revenue Growth Management Intern](https://jobright.ai/jobs/info/697ab3d4f6fc293b0a2ca5fc?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[VS&A Sales Engineering Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/697ab228f6fc293b0a2ca1f5?utm_campaign=1051&utm_source=git)** | Allen, TX (TX139) | On Site | Jan 28 |
-| ↳ | **[VS&A Sales Engineering Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/697aaefd9d60e431a16c4974?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[VS&A Sales Engineering Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/697aaefd9d60e431a16c4974?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
 | **[The Plug Drink](https://theplugdrink.com/)** | **[Sales Development Intern (Greater Los Angeles Area)](https://jobright.ai/jobs/info/697aa64a8dbbf73badc7e3b1?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 28 |
 | **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 E-Commerce Intern](https://jobright.ai/jobs/info/697aa48b9d60e431a16c3b2e?utm_campaign=1051&utm_source=git)** | USCA > USA > Colorado > Denver HQ - VFC | Hybrid | Jan 28 |
 | **[The Duracell Company](http://www.duracell.com)** | **[Target Sales Intern](https://jobright.ai/jobs/info/697aa48af6fc293b0a2c8ce7?utm_campaign=1051&utm_source=git)** | 515 N. Flagler Drive, STE 600, West Palm Beach, FL, 33401, US | On Site | Jan 28 |
@@ -72,6 +73,9 @@ For a complete list, click the following sortable link below:
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Sales Development](https://jobright.ai/jobs/info/697a912ef6fc293b0a2c6fcb?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Sales Support Intern - Summer 2026](https://jobright.ai/jobs/info/697ab73e9d60e431a16c5edd?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Jan 28 |
 | ↳ | **[Sales Support Intern - Summer 2026](https://jobright.ai/jobs/info/697aaf8ff6fc293b0a2c9b27?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 28 |
+| ↳ | **[Sales Support Intern - Summer 2026](https://jobright.ai/jobs/info/697aba698dbbf73badc80b7e?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Jan 28 |
+| ↳ | **[Sales Support Intern - Summer 2026](https://jobright.ai/jobs/info/697abdc48dbbf73badc80da6?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jan 28 |
+| ↳ | **[Sales Support Intern - Summer 2026](https://jobright.ai/jobs/info/697aba4e9d60e431a16c646b?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jan 28 |
 | **[RBC](https://www.rbc.com)** | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/697a8fba9d60e431a16c1ca2?utm_campaign=1051&utm_source=git)** | Digby, Nova Scotia, Canada | On Site | Jan 28 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Corporate Accounts](https://jobright.ai/jobs/info/697a8f589d60e431a16c1bfa?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 28 |
 | **[RBC](https://www.rbc.com)** | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/697a8eef9d60e431a16c1b37?utm_campaign=1051&utm_source=git)** | Windsor, Nova Scotia, Canada | On Site | Jan 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, CRM, Naturium](https://jobright.ai/jobs/info/697a71d8f6fc293b0a2c42f0?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 28 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Technical Customer Success Intern](https://jobright.ai/jobs/info/697a75ea9d60e431a16bf4ba?utm_campaign=1051&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 28 |
 | **[Boomi](https://boomi.com/)** | **[Sales Development Representative Summer Intern (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/696ebb175fc86241853da2db?utm_campaign=1051&utm_source=git)** | Canada | Hybrid | Jan 28 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Technical Customer Success Intern](https://jobright.ai/jobs/info/697a77c3f6fc293b0a2c492e?utm_campaign=1051&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 28 |
-| ↳ | **[Summer 2026 - Technical Customer Success Intern](https://jobright.ai/jobs/info/697a7c019d60e431a16bfccf?utm_campaign=1051&utm_source=git)** | North Carolina | Hybrid | Jan 28 |
-| **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition Intern](https://jobright.ai/jobs/info/697a6bd89d60e431a16be9c5?utm_campaign=1051&utm_source=git)** | US-CA-Valencia | On Site | Jan 28 |
-| ↳ | **[Land Acquisition Intern](https://jobright.ai/jobs/info/697a7547f6fc293b0a2c45e5?utm_campaign=1051&utm_source=git)** | Valencia, CA, US | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
