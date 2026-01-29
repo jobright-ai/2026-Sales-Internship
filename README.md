@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toyota North America](https://www.toyota.com/usa/operations/map/tcal)** | **[2026 Integrated Customer Experience (ICX) Internship](https://jobright.ai/jobs/info/696fb26e3ed06875134a9eac?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jan 28 |
 | **[RESOLUT RE](https://resolutre.com/)** | **[Commercial Real Estate Apprentice](https://jobright.ai/jobs/info/697aeeed17b11b1c2e41cf66?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 28 |
 | **[Honeywell](http://www.honeywell.com)** | **[Intern (Master’s) – Business Development](https://jobright.ai/jobs/info/695ed7fb0badca5763af4f18?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 28 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Start Up and Incubator Sales Operations Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/697aed17c532c4768fe0b579?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Jan 28 |
@@ -79,7 +80,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697ad696c532c4768fe08cae?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Jan 28 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697ad6931423772304eaba8c?utm_campaign=1051&utm_source=git)** | Macon, GA | On Site | Jan 28 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697ad5e2c532c4768fe08c49?utm_campaign=1051&utm_source=git)** | Mesa, AZ | On Site | Jan 28 |
-| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697acfa2f6fc293b0a2cc7c1?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Jan 28 |
+| **[Beta University](https://betafellow.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/697af14f17b11b1c2e41d2db?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 28 |
+| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/697af2b01423772304eaeb8e?utm_campaign=1051&utm_source=git)** | New Westminster, British Columbia, Canada | On Site | Jan 28 |
+| **[Lotus Sales](www.lotussales.co)** | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697acfa2f6fc293b0a2cc7c1?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Jan 28 |
 | **[Razer Inc.](https://www.razer.com)** | **[Sales LATAM Intern](https://jobright.ai/jobs/info/697acf9e9d60e431a16c7641?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jan 28 |
 | **[Lotus Sales](www.lotussales.co)** | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697acf939d60e431a16c763b?utm_campaign=1051&utm_source=git)** | Westminster, CO | On Site | Jan 28 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697acf668dbbf73badc81d02?utm_campaign=1051&utm_source=git)** | Oxford, MS | On Site | Jan 28 |
@@ -124,11 +127,11 @@ For a complete list, click the following sortable link below:
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales & Marketing Internship / Southwestern Family of Companies](https://jobright.ai/jobs/info/697acc299d60e431a16c73d1?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 28 |
 | **[Seamgen](http://www.seamgen.com/)** | **[Sales AI Internship](https://jobright.ai/jobs/info/697aec401423772304eae15c?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
 | **[Lotus Sales](www.lotussales.co)** | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697acbe29d60e431a16c73a9?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV | On Site | Jan 28 |
-| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697acbe09d60e431a16c73a7?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jan 28 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697acbe09d60e431a16c73a6?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Jan 28 |
+| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697acbe09d60e431a16c73a7?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jan 28 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697acbcb8dbbf73badc81a8e?utm_campaign=1051&utm_source=git)** | Denton, TX | On Site | Jan 28 |
-| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697acbb69d60e431a16c7386?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Jan 28 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697acbb69d60e431a16c7385?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Jan 28 |
+| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697acbb69d60e431a16c7386?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Jan 28 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697acba68dbbf73badc81a71?utm_campaign=1051&utm_source=git)** | Fishers, IN | On Site | Jan 28 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697acb8c8dbbf73badc81a58?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Jan 28 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697acb698dbbf73badc81a3e?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Jan 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697ac9db9d60e431a16c7208?utm_campaign=1051&utm_source=git)** | Laredo, TX | On Site | Jan 28 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697ac9bbf6fc293b0a2cc3bd?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697ac9baf6fc293b0a2cc3bb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 28 |
-| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697ac9b99d60e431a16c71e5?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 28 |
-| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697ac9b29d60e431a16c71dc?utm_campaign=1051&utm_source=git)** | Grand Prairie, TX | On Site | Jan 28 |
-| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/697ac9ad8dbbf73badc818e9?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
