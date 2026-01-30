@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FULLBEAUTY Brands](http://fbbrands.com/)** | **[E-Commerce Intern](https://jobright.ai/jobs/info/697d255f137a051025661fe1?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jan 30 |
+| **[Integro Bank](https://www.integrobank.com/)** | **[Marketing, Sales & Business Development Intern](https://jobright.ai/jobs/info/697d250f137a051025661f21?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern)-South Denver, CO(Starting Summer 2026)](https://jobright.ai/jobs/info/692666da27bf2f41a2c45da5?utm_campaign=1051&utm_source=git)** | Parker, CO | On Site | Jan 30 |
+| **[PayPal](https://www.paypal.com/home)** | **[MBA - Corporate Development Intern](https://jobright.ai/jobs/info/697d22eb3f57a3356966d9ed?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Jan 30 |
+| **[Washington Commanders](http://www.commanders.com/)** | **[Intern, Partnership Solutions](https://jobright.ai/jobs/info/697d21083f57a3356966d777?utm_campaign=1051&utm_source=git)** | Riverdale, MD | On Site | Jan 30 |
+| **[FULLBEAUTY Brands](http://fbbrands.com/)** | **[Inventory Planning Intern](https://jobright.ai/jobs/info/697d1b02727747250d57d3db?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jan 30 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/697d11a2727747250d57c820?utm_campaign=1051&utm_source=git)** | Oshkosh, WI | On Site | Jan 30 |
-| **[FULLBEAUTY Brands](http://fbbrands.com/)** | **[Inventory Planning Intern](https://jobright.ai/jobs/info/697d11513f57a3356966c609?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jan 30 |
 | **[Smith & Associates](http://www.smithweb.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/697d0c48137a0510256601ca?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Membership Services (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d0bb0137a051025660104?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[Smith & Associates](http://www.smithweb.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697d0a69727747250d57c085?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 30 |
@@ -67,18 +72,25 @@ For a complete list, click the following sortable link below:
 | **[Professional Photographers of America](https://www.ppa.com)** | **[***MEMBERSHIP INTERN***](https://jobright.ai/jobs/info/697d08673f57a3356966bcd3?utm_campaign=1051&utm_source=git)** | 229 Peachtree Street Northeast, Atlanta, GA, USA | On Site | Jan 30 |
 | **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Derivatives Sales (f/m/d)](https://jobright.ai/jobs/info/697d052f3f57a3356966ba59?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 30 |
 | **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Company Store Retail Intern](https://jobright.ai/jobs/info/697d0100137a05102565f808?utm_campaign=1051&utm_source=git)** | Katy, TX | On Site | Jan 30 |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Commercial Sales Execution - West Area](https://jobright.ai/jobs/info/697d1e71727747250d57d82f?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
+| **[Orbient 24](orbient24.us)** | **[Inside Sales Intership](https://jobright.ai/jobs/info/697d1deb137a051025661650?utm_campaign=1051&utm_source=git)** | Redlands, CA | Remote | Jan 30 |
 | **[Danish Industry](http://di.dk)** | **[Internships at DI’s Office in New York City](https://jobright.ai/jobs/info/697cff20727747250d57b874?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jan 30 |
 | **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Walmart Sales Intern](https://jobright.ai/jobs/info/697cf9343f57a3356966b33f?utm_campaign=1051&utm_source=git)** | Bentonville, AR | Hybrid | Jan 30 |
 | **[Starteryou](https://starteryou.com/)** | **[Partnership Intern](https://jobright.ai/jobs/info/697cf78f3f57a3356966b1f5?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 30 |
 | **[good2grow™](https://www.good2grow.com/#home)** | **[Sales Intern - Philadelphia, PA](https://jobright.ai/jobs/info/697cf746727747250d57b34d?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 30 |
 | ↳ | **[Sales Intern - Norcal, CA](https://jobright.ai/jobs/info/697cf6bf137a05102565f182?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Jan 30 |
-| ↳ | **[Sales Intern - Denver, CO](https://jobright.ai/jobs/info/697cf58a727747250d57b26d?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jan 30 |
-| ↳ | **[Sales Intern - Atlanta, GA](https://jobright.ai/jobs/info/697cf4ce3f57a3356966b06c?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 30 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/697d17013f57a3356966cd0d?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Jan 30 |
+| **[good2grow™](https://www.good2grow.com/#home)** | **[Sales Intern - Denver, CO](https://jobright.ai/jobs/info/697cf58a727747250d57b26d?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jan 30 |
+| **[Swift](http://www.swift.com)** | **[Business Development Intern - Corporates and Partners (Hybrid)](https://jobright.ai/jobs/info/697d1dc5727747250d57d73c?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Jan 30 |
+| **[good2grow™](https://www.good2grow.com/#home)** | **[Sales Intern - Atlanta, GA](https://jobright.ai/jobs/info/697cf4ce3f57a3356966b06c?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 30 |
 | **[Reaction Tackle](https://www.reactiontackle.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/697cf4913f57a3356966b058?utm_campaign=1051&utm_source=git)** | Big Bend, WI | On Site | Jan 30 |
 | **[good2grow™](https://www.good2grow.com/#home)** | **[Sales Intern - Milwaukee, WI](https://jobright.ai/jobs/info/697cf4663f57a3356966b03d?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jan 30 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/697cf444727747250d57b1ef?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 30 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Global Partnerships (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d1a40137a05102566118a?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jan 30 |
+| ↳ | **[Internship: Senior Sales (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d1c193f57a3356966d38c?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[good2grow™](https://www.good2grow.com/#home)** | **[Sales Intern - Des Moines, IA](https://jobright.ai/jobs/info/697cf37c727747250d57b078?utm_campaign=1051&utm_source=git)** | Des Moines County, IA | On Site | Jan 30 |
 | ↳ | **[Sales Intern - DC/North VA](https://jobright.ai/jobs/info/697cf2e53f57a3356966ac8d?utm_campaign=1051&utm_source=git)** | DC-Baltimore Area | On Site | Jan 30 |
+| **[Driscoll's](http://www.driscolls.com)** | **[Latin America & Intercompany Sales Intern](https://jobright.ai/jobs/info/697d1d6c3f57a3356966d539?utm_campaign=1051&utm_source=git)** | US - Watsonville, California | On Site | Jan 30 |
 | **[Professional Photographers of America](https://www.ppa.com)** | **[Membership Intern](https://jobright.ai/jobs/info/697cf00c3f57a3356966a1ee?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 30 |
 | **[good2grow™](https://www.good2grow.com/#home)** | **[Sales Intern - Kansas City, KS or MO](https://jobright.ai/jobs/info/697cee90727747250d579dec?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jan 30 |
 | ↳ | **[Sales Intern - Boston, MA](https://jobright.ai/jobs/info/697cee5c3f57a33569669c5c?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 30 |
@@ -86,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/697cecda3f57a33569669721?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | Jan 30 |
 | **[Cool Gear International](https://shop.coolgearinc.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/697d08b53f57a3356966bd2b?utm_campaign=1051&utm_source=git)** | Plymouth, MA | Hybrid | Jan 30 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Middle & Large Business Underwriting – Inland Marine](https://jobright.ai/jobs/info/697ce75b727747250d579217?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Senior Sales (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce4883f57a33569668dae?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[EP Mapping Field Intern - Rochester, NY](https://jobright.ai/jobs/info/697ce363727747250d578f70?utm_campaign=1051&utm_source=git)** | Rochester, NY | Hybrid | Jan 30 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Middle & Large Business Underwriting – Los Angeles](https://jobright.ai/jobs/info/697cdf083f57a33569668a57?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Global Partnerships (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697cdde9137a05102565cac0?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jan 30 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Sales Intern](https://jobright.ai/jobs/info/6944c8a7a7227b3ece667202?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jan 30 |
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (TPA)](https://jobright.ai/jobs/info/68f086251f624a7ec1cf39df?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 30 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68d49e99fcd3367e8df164ce?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Jan 30 |
-| **[CN](http://www.cn.ca)** | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/69574912f1f8465b79ee05a5?utm_campaign=1051&utm_source=git)** | Brampton, Ontario, Canada | On Site | Jan 30 |
-| ↳ | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/69288446d47de4798ece30d5?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 30 |
-| **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (NYC)](https://jobright.ai/jobs/info/68f085aaeb273a32d97691d1?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 30 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/6929581866796e3028f8c033?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Jan 30 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68d44a3f17554c2d9eef7fef?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Jan 30 |
-| ↳ | **[Management and Sales Intern](https://jobright.ai/jobs/info/68d1fc8917554c2d9eee1eff?utm_campaign=1051&utm_source=git)** | Harrisburg, PA | On Site | Jan 30 |
-| ↳ | **[Management and Sales Summer Internship 2026 (Portland)](https://jobright.ai/jobs/info/68edcbca6335d3323612bdaf?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Jan 30 |
-| ↳ | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/6922b0b6c0cefa13343d8dee?utm_campaign=1051&utm_source=git)** | Casper, WY | On Site | Jan 30 |
-| **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (HOU)](https://jobright.ai/jobs/info/68f08acea6b9004b5e321310?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 30 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/6922d160c0cefa13343d97cf?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Jan 30 |
-| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division (MBA)](https://jobright.ai/jobs/info/695a1f05aa05c26e7ab3b8de?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
