@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/697d11a2727747250d57c820?utm_campaign=1051&utm_source=git)** | Oshkosh, WI | On Site | Jan 30 |
+| **[FULLBEAUTY Brands](http://fbbrands.com/)** | **[Inventory Planning Intern](https://jobright.ai/jobs/info/697d11513f57a3356966c609?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jan 30 |
+| **[Smith & Associates](http://www.smithweb.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/697d0c48137a0510256601ca?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 30 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Membership Services (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d0bb0137a051025660104?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jan 30 |
+| **[Smith & Associates](http://www.smithweb.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697d0a69727747250d57c085?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 30 |
+| **[Utah Mammoth](www.utahhockeyclub.com)** | **[Sales & Events Intern](https://jobright.ai/jobs/info/697d0999137a05102565fe68?utm_campaign=1051&utm_source=git)** | Sandy,UT,US | On Site | Jan 30 |
+| **[Kirby Risk](https://www.kirbyrisk.com)** | **[Sales Intern (Starting May 2026!)](https://jobright.ai/jobs/info/697d0918727747250d57bee3?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, USA | On Site | Jan 30 |
+| **[Professional Photographers of America](https://www.ppa.com)** | **[***MEMBERSHIP INTERN***](https://jobright.ai/jobs/info/697d08673f57a3356966bcd3?utm_campaign=1051&utm_source=git)** | 229 Peachtree Street Northeast, Atlanta, GA, USA | On Site | Jan 30 |
+| **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Derivatives Sales (f/m/d)](https://jobright.ai/jobs/info/697d052f3f57a3356966ba59?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 30 |
 | **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Company Store Retail Intern](https://jobright.ai/jobs/info/697d0100137a05102565f808?utm_campaign=1051&utm_source=git)** | Katy, TX | On Site | Jan 30 |
 | **[Danish Industry](http://di.dk)** | **[Internships at DI’s Office in New York City](https://jobright.ai/jobs/info/697cff20727747250d57b874?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jan 30 |
 | **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Walmart Sales Intern](https://jobright.ai/jobs/info/697cf9343f57a3356966b33f?utm_campaign=1051&utm_source=git)** | Bentonville, AR | Hybrid | Jan 30 |
@@ -75,10 +84,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern - Boston, MA](https://jobright.ai/jobs/info/697cee5c3f57a33569669c5c?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 30 |
 | **[Equinix](http://www.equinix.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697cee1e727747250d579cbf?utm_campaign=1051&utm_source=git)** | Chicago | Hybrid | Jan 30 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/697cecda3f57a33569669721?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | Jan 30 |
+| **[Cool Gear International](https://shop.coolgearinc.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/697d08b53f57a3356966bd2b?utm_campaign=1051&utm_source=git)** | Plymouth, MA | Hybrid | Jan 30 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Middle & Large Business Underwriting – Inland Marine](https://jobright.ai/jobs/info/697ce75b727747250d579217?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Senior Sales (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce4883f57a33569668dae?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[EP Mapping Field Intern - Rochester, NY](https://jobright.ai/jobs/info/697ce363727747250d578f70?utm_campaign=1051&utm_source=git)** | Rochester, NY | Hybrid | Jan 30 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Membership Services (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce100727747250d578e05?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Middle & Large Business Underwriting – Los Angeles](https://jobright.ai/jobs/info/697cdf083f57a33569668a57?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Global Partnerships (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697cdde9137a05102565cac0?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697cdd95137a05102565ca8f?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 30 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (HOU)](https://jobright.ai/jobs/info/68f08acea6b9004b5e321310?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 30 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/6922d160c0cefa13343d97cf?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Jan 30 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division (MBA)](https://jobright.ai/jobs/info/695a1f05aa05c26e7ab3b8de?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 30 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/68d1fd58a54edb3bf3e188ae?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Jan 30 |
-| ↳ | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b7989d1ade4306aa64c6ec?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Jan 30 |
-| **[American Cutting Edge, Inc.](http://www.americancuttingedge.com)** | **[Sales Intern](https://jobright.ai/jobs/info/695eb4520badca5763af2a71?utm_campaign=1051&utm_source=git)** | Miamisburg, OH | On Site | Jan 30 |
-| **[Crest Vale](crestvale.us)** | **[Trading Associate](https://jobright.ai/jobs/info/697cbe5c137a05102565b8cd?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Jan 30 |
-| **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (CLT)](https://jobright.ai/jobs/info/68f08ab31f624a7ec1cf3bb7?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 30 |
-| ↳ | **[Sales Intern (DEN)](https://jobright.ai/jobs/info/68f08c4aa6b9004b5e321579?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jan 30 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d42f16ffc1276de3fd7ffa?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Jan 30 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern-Field](https://jobright.ai/jobs/info/6944162a94730b7398774061?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 30 |
-| **[Forestar Group Inc.](https://www.forestar.com/)** | **[Summer 2026 Land Intern - Forestar](https://jobright.ai/jobs/info/69609b507ebc25398eb67c4d?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
