@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smithfield Foods](http://smithfieldfoods.com)** | **[Grain Intern - Summer 2025](https://jobright.ai/jobs/info/697c6bbb137a051025655f05?utm_campaign=1051&utm_source=git)** | Rose Hill, NC | On Site | Jan 30 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68f723939a65fd3458599fb0?utm_campaign=1051&utm_source=git)** | Alexandria, VA | On Site | Jan 30 |
+| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division (MBA)](https://jobright.ai/jobs/info/69636c7e25e1871507800cd6?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
+| **[ADP](http://www.adp.com)** | **[Summer 2026 Digital Sales Internship](https://jobright.ai/jobs/info/6971f13b47b64f4e963e372d?utm_campaign=1051&utm_source=git)** | Coraopolis, PA | Remote | Jan 30 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/697c8605137a0510256589f7?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 30 |
+| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Supply Chain Wholesale Internship](https://jobright.ai/jobs/info/697c8442137a0510256588f6?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Jan 30 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/697c752d3f57a33569662b04?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Jan 30 |
 | **[Stratify Edge](stratifyedge.us)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697c674c137a05102565536d?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Jan 30 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69608a7aa1bbea1d9a7b568e?utm_campaign=1051&utm_source=git)** | McLean, VA | Hybrid | Jan 29 |
@@ -100,8 +106,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship, Sales](https://jobright.ai/jobs/info/697c2b101423772304ec89fc?utm_campaign=1051&utm_source=git)** | Delano, CA, USA | On Site | Jan 29 |
 | **[Houston Astros](https://astros.mlb.com/)** | **[Corporate Partnerships Intern](https://jobright.ai/jobs/info/697c19741136d179eeefc72e?utm_campaign=1051&utm_source=git)** | Houston, Texas, United States | On Site | Jan 29 |
 | **[Provident](http://www.providentrealty.net/)** | **[Spring Intern - Real Estate Development (Hospitality)](https://jobright.ai/jobs/info/697c1e291136d179eeefd19e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 29 |
-| **[LMI](http://www.lmi.org)** | **[Business Development Intern (Spring 2026)](https://jobright.ai/jobs/info/697c14bd1423772304ec682a?utm_campaign=1051&utm_source=git)** | Tysons, VA, US | On Site | Jan 29 |
-| ↳ | **[Business Development Intern (Spring 2026)](https://jobright.ai/jobs/info/697c1f840b88cc7d64231c7e?utm_campaign=1051&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jan 29 |
+| **[LMI](http://www.lmi.org)** | **[Business Development Intern (Spring 2026)](https://jobright.ai/jobs/info/697c1f840b88cc7d64231c7e?utm_campaign=1051&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jan 29 |
+| ↳ | **[Business Development Intern (Spring 2026)](https://jobright.ai/jobs/info/697c14bd1423772304ec682a?utm_campaign=1051&utm_source=git)** | Tysons, VA, US | On Site | Jan 29 |
 | **[PowerFlex](https://www.powerflex.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/697c2a540b88cc7d64232de4?utm_campaign=1051&utm_source=git)** | New York City, NY | Hybrid | Jan 29 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer 2026 College Financial Representative Internship (Orange County, CA)](https://jobright.ai/jobs/info/697bf5111423772304ec400a?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jan 29 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/697bf4911423772304ec3f2f?utm_campaign=1051&utm_source=git)** | Ontario, Canada | On Site | Jan 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hilb Group](http://hilbgroup.com)** | **[Surety Intern](https://jobright.ai/jobs/info/697bdcb41136d179eeef71d0?utm_campaign=1051&utm_source=git)** | King of Prussia PA | On Site | Jan 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller Live Analytics Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS)](https://jobright.ai/jobs/info/694349c2dd382f5f566949d3?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jan 29 |
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[Summer 2026, Intern- Business Development](https://jobright.ai/jobs/info/697bd8df1136d179eeef695e?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Revenue Growth Management Strategy Intern](https://jobright.ai/jobs/info/697bb7880b88cc7d6422827e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
-| **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Derivatives Sales (f/m/d)](https://jobright.ai/jobs/info/697bb6c80b88cc7d64228187?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
-| **[Continental](https://www.continental.com)** | **[Intern - Sales, Summer 2026 - PLT](https://jobright.ai/jobs/info/697bb5a40b88cc7d6422804e?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Jan 29 |
-| **[3STEP Sports](https://threestep.com)** | **[Sales & Event Operations Internship](https://jobright.ai/jobs/info/697bdd2a1136d179eeef7297?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jan 29 |
-| **[Talus Bio](https://www.talus.bio)** | **[Business Development Intern](https://jobright.ai/jobs/info/697bd4ed1136d179eeef6059?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jan 29 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697bb32c1423772304ebdd96?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
