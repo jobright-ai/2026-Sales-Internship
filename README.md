@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/697c752d3f57a33569662b04?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Jan 30 |
 | **[Stratify Edge](stratifyedge.us)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697c674c137a05102565536d?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Jan 30 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69608a7aa1bbea1d9a7b568e?utm_campaign=1051&utm_source=git)** | McLean, VA | Hybrid | Jan 29 |
 | **[XPO](https://www.xpo.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697c40300b88cc7d64235990?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[3STEP Sports](https://threestep.com)** | **[Sales & Event Operations Internship](https://jobright.ai/jobs/info/697bdd2a1136d179eeef7297?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jan 29 |
 | **[Talus Bio](https://www.talus.bio)** | **[Business Development Intern](https://jobright.ai/jobs/info/697bd4ed1136d179eeef6059?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jan 29 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697bb32c1423772304ebdd96?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
-| **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/697bd48d1136d179eeef5f6e?utm_campaign=1051&utm_source=git)** | Monona, WI | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
