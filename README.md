@@ -57,20 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ripple](http://ripple.com)** | **[MBA Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/694b17573019f50a4fe62b06?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
+| **[Henkel](http://www.henkel.com)** | **[International Business Development & Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/69621a7e2cbf4e44756c13b1?utm_campaign=1051&utm_source=git)** | Culver City, CA | Hybrid | Jan 29 |
+| **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/6977921b52f3c27ec643a1eb?utm_campaign=1051&utm_source=git)** | Temple, TX | On Site | Jan 29 |
+| **[XPO](https://www.xpo.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697c2a261423772304ec8998?utm_campaign=1051&utm_source=git)** | Plainfield, IN, US, 461868 | On Site | Jan 29 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Commercialization Intern](https://jobright.ai/jobs/info/697c2a090b88cc7d64232d97?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 29 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Transaction Support](https://jobright.ai/jobs/info/696045197ebc25398eb64ab9?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Jan 29 |
+| **[XPO](https://www.xpo.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697c27ee1423772304ec87ef?utm_campaign=1051&utm_source=git)** | Dallas, TX, US, 75247 | On Site | Jan 29 |
+| **[Vizient, Inc](https://www.vizientinc.com)** | **[Enterprise Account Management - Intern](https://jobright.ai/jobs/info/697c26ed1423772304ec86eb?utm_campaign=1051&utm_source=git)** | Irving, TX | Hybrid | Jan 29 |
+| **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69603b16a1bbea1d9a7b211b?utm_campaign=1051&utm_source=git)** | Lakeville, MN | On Site | Jan 29 |
 | **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[Intern - Revenue Growth Management](https://jobright.ai/jobs/info/697c23d01423772304ec84a4?utm_campaign=1051&utm_source=git)** | Stamford, CT | Hybrid | Jan 29 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/697c17630b88cc7d64230b45?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Jan 29 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Sales](https://jobright.ai/jobs/info/697c159b1423772304ec69a6?utm_campaign=1051&utm_source=git)** | Delano, CA | On Site | Jan 29 |
 | **[Pens.com](http://www.pens.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/695ff39ba1bbea1d9a7abe30?utm_campaign=1051&utm_source=git)** | Shelbyville, TN | On Site | Jan 29 |
 | **[LMI](http://www.lmi.org)** | **[Business Development Intern (Spring 2026)](https://jobright.ai/jobs/info/697c134c1423772304ec652d?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Jan 29 |
 | ↳ | **[Business Development Intern (Spring 2026)](https://jobright.ai/jobs/info/697c11e50b88cc7d64230077?utm_campaign=1051&utm_source=git)** | US-VA-Tysons | On Site | Jan 29 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/697588f0bc8e722e7b1a534f?utm_campaign=1051&utm_source=git)** | Williams Lake, British Columbia, Canada | On Site | Jan 29 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Surety Intern](https://jobright.ai/jobs/info/697c0f381136d179eeefb3f7?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Jan 29 |
 | **[LMI](http://www.lmi.org)** | **[Business Development Intern (Spring 2026)](https://jobright.ai/jobs/info/697c0e4e1136d179eeefb1eb?utm_campaign=1051&utm_source=git)** | US-Remote | Remote | Jan 29 |
 | **[FlexGen](https://flexgen.com)** | **[Proposal Management Intern](https://jobright.ai/jobs/info/697c0bbb1136d179eeefada5?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Jan 29 |
 | **[Price Industries](https://www.priceindustries.com)** | **[Intern - Purchasing - Summer 2026](https://jobright.ai/jobs/info/696027cda1bbea1d9a7af9b6?utm_campaign=1051&utm_source=git)** | Suwanee, GA | On Site | Jan 29 |
+| **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Sales](https://jobright.ai/jobs/info/697c25cf1423772304ec85d1?utm_campaign=1051&utm_source=git)** | Delano, CA, USA | On Site | Jan 29 |
+| ↳ | **[Summer Internship, Sales](https://jobright.ai/jobs/info/697c2b101423772304ec89fc?utm_campaign=1051&utm_source=git)** | Delano, CA, USA | On Site | Jan 29 |
 | **[Houston Astros](https://astros.mlb.com/)** | **[Corporate Partnerships Intern](https://jobright.ai/jobs/info/697c19741136d179eeefc72e?utm_campaign=1051&utm_source=git)** | Houston, Texas, United States | On Site | Jan 29 |
 | **[Provident](http://www.providentrealty.net/)** | **[Spring Intern - Real Estate Development (Hospitality)](https://jobright.ai/jobs/info/697c1e291136d179eeefd19e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 29 |
-| **[LMI](http://www.lmi.org)** | **[Business Development Intern (Spring 2026)](https://jobright.ai/jobs/info/697c14bd1423772304ec682a?utm_campaign=1051&utm_source=git)** | Tysons, VA, US | On Site | Jan 29 |
-| ↳ | **[Business Development Intern (Spring 2026)](https://jobright.ai/jobs/info/697c1f840b88cc7d64231c7e?utm_campaign=1051&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jan 29 |
+| **[LMI](http://www.lmi.org)** | **[Business Development Intern (Spring 2026)](https://jobright.ai/jobs/info/697c1f840b88cc7d64231c7e?utm_campaign=1051&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jan 29 |
+| ↳ | **[Business Development Intern (Spring 2026)](https://jobright.ai/jobs/info/697c14bd1423772304ec682a?utm_campaign=1051&utm_source=git)** | Tysons, VA, US | On Site | Jan 29 |
+| **[PowerFlex](https://www.powerflex.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/697c2a540b88cc7d64232de4?utm_campaign=1051&utm_source=git)** | New York City, NY | Hybrid | Jan 29 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer 2026 College Financial Representative Internship (Orange County, CA)](https://jobright.ai/jobs/info/697bf5111423772304ec400a?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jan 29 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/697bf4911423772304ec3f2f?utm_campaign=1051&utm_source=git)** | Ontario, Canada | On Site | Jan 29 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Account Manager](https://jobright.ai/jobs/info/697bf2a31136d179eeef9575?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Jan 29 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba9f50b88cc7d642277d1?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 29 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba92e1136d179eeef2f70?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 29 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba91c0b88cc7d6422772f?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Jan 29 |
-| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/697ba8d91136d179eeef2f34?utm_campaign=1051&utm_source=git)** | St Albert, Alberta, Canada | On Site | Jan 29 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba7fe1136d179eeef2ea6?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Jan 29 |
-| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/697ba7e71136d179eeef2e9c?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Jan 29 |
-| **[Four Inc.](https://www.fourinc.com/)** | **[Indirect Channel Sales- Internship](https://jobright.ai/jobs/info/697bc8021136d179eeef4de8?utm_campaign=1051&utm_source=git)** | Herndon, Virginia, United States | Hybrid | Jan 29 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba7d31136d179eeef2e95?utm_campaign=1051&utm_source=git)** | Ontario, CA | On Site | Jan 29 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba7760b88cc7d64227628?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Jan 29 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba69e1423772304ebd543?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Jan 29 |
-| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/697ba5851136d179eeef2d80?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Jan 29 |
-| **[Butler Ag Equipment](https://butlerag.com)** | **[Butler Intern](https://jobright.ai/jobs/info/697ba53a0b88cc7d64227438?utm_campaign=1051&utm_source=git)** | Fargo, ND, US | On Site | Jan 29 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba4511423772304ebd39a?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Jan 29 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba4200b88cc7d64227111?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Jan 29 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba3e91423772304ebd215?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Jan 29 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba3e80b88cc7d64227088?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
