@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/697c17630b88cc7d64230b45?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Jan 29 |
+| **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Sales](https://jobright.ai/jobs/info/697c159b1423772304ec69a6?utm_campaign=1051&utm_source=git)** | Delano, CA | On Site | Jan 29 |
+| **[Pens.com](http://www.pens.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/695ff39ba1bbea1d9a7abe30?utm_campaign=1051&utm_source=git)** | Shelbyville, TN | On Site | Jan 29 |
+| **[Dynatrace](https://www.dynatrace.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/697c14d31423772304ec6854?utm_campaign=1051&utm_source=git)** | Boston, KY | Hybrid | Jan 29 |
+| **[LMI](http://www.lmi.org)** | **[Business Development Intern (Spring 2026)](https://jobright.ai/jobs/info/697c134c1423772304ec652d?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Jan 29 |
+| ↳ | **[Business Development Intern (Spring 2026)](https://jobright.ai/jobs/info/697c11e50b88cc7d64230077?utm_campaign=1051&utm_source=git)** | US-VA-Tysons | On Site | Jan 29 |
+| **[Hilb Group](http://hilbgroup.com)** | **[Surety Intern](https://jobright.ai/jobs/info/697c0f381136d179eeefb3f7?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Jan 29 |
+| **[LMI](http://www.lmi.org)** | **[Business Development Intern (Spring 2026)](https://jobright.ai/jobs/info/697c0e4e1136d179eeefb1eb?utm_campaign=1051&utm_source=git)** | US-Remote | Remote | Jan 29 |
+| **[FlexGen](https://flexgen.com)** | **[Proposal Management Intern](https://jobright.ai/jobs/info/697c0bbb1136d179eeefada5?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Jan 29 |
+| **[Price Industries](https://www.priceindustries.com)** | **[Intern - Purchasing - Summer 2026](https://jobright.ai/jobs/info/696027cda1bbea1d9a7af9b6?utm_campaign=1051&utm_source=git)** | Suwanee, GA | On Site | Jan 29 |
+| **[LMI](http://www.lmi.org)** | **[Business Development Intern (Spring 2026)](https://jobright.ai/jobs/info/697c14bd1423772304ec682a?utm_campaign=1051&utm_source=git)** | Tysons, VA, US | On Site | Jan 29 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer 2026 College Financial Representative Internship (Orange County, CA)](https://jobright.ai/jobs/info/697bf5111423772304ec400a?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jan 29 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/697bf4911423772304ec3f2f?utm_campaign=1051&utm_source=git)** | Ontario, Canada | On Site | Jan 29 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Account Manager](https://jobright.ai/jobs/info/697bf2a31136d179eeef9575?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Jan 29 |
@@ -77,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/697bff3f0b88cc7d6422ef66?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | On Site | Jan 29 |
 | **[NexaCore Consulting](nexacoreconsulting.us)** | **[Sales Internship - South Central](https://jobright.ai/jobs/info/697bd1621136d179eeef5842?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Jan 29 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/697bd02e0b88cc7d64229d88?utm_campaign=1051&utm_source=git)** | 1 Life Way, Pittsburgh, PA, 15205, US | On Site | Jan 29 |
-| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/697befe41423772304ec36b3?utm_campaign=1051&utm_source=git)** | Michigan, United States | On Site | Jan 29 |
-| ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/697bee071423772304ec3369?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | Jan 29 |
+| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/697bee071423772304ec3369?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | Jan 29 |
+| ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/697befe41423772304ec36b3?utm_campaign=1051&utm_source=git)** | Michigan, United States | On Site | Jan 29 |
 | ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/697bfd8b0b88cc7d6422ee08?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Hybrid | Jan 29 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Programmatic/National Sales Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697bcf691136d179eeef53d6?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 29 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/697bee1f1136d179eeef8df5?utm_campaign=1051&utm_source=git)** | West Virginia, United States | Hybrid | Jan 29 |
@@ -92,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[LCI Northwest](www.Lilypadcapital.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/697bf8750b88cc7d6422e7d1?utm_campaign=1051&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/697bc4d01136d179eeef49dd?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | ↳ | **[Revenue Growth Management Intern](https://jobright.ai/jobs/info/697bc4a31423772304ebf0bb?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
+| **[MarketScale](https://marketscale.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/697c0c770b88cc7d6422f8f0?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 29 |
 | **[Four Inc.](https://www.fourinc.com/)** | **[Enterprise Direct Sales- Internship](https://jobright.ai/jobs/info/697bc34f1136d179eeef4808?utm_campaign=1051&utm_source=git)** | Herndon, Virginia, United States | Hybrid | Jan 29 |
 | **[Sells](https://sellsadvisors.com)** | **[M&A Summer Internship](https://jobright.ai/jobs/info/697bc2b90b88cc7d64228fb0?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Account Management Internship – Summer 2026](https://jobright.ai/jobs/info/6970501c587dfa0bb55dd6ed?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jan 29 |
@@ -115,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697bb25a1423772304ebdcbc?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Jan 29 |
 | **[Four Inc.](https://www.fourinc.com/)** | **[Channel Development- Internship](https://jobright.ai/jobs/info/697bb2131136d179eeef35f8?utm_campaign=1051&utm_source=git)** | Herndon, Virginia, United States | Hybrid | Jan 29 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative Internship](https://jobright.ai/jobs/info/697bd12d1423772304ebff5c?utm_campaign=1051&utm_source=git)** | Kansas City, MO | Hybrid | Jan 29 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Commercialization Intern](https://jobright.ai/jobs/info/697bd0b51423772304ebfe65?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 29 |
 | **[TZ Medical](http://tzmedical.com)** | **[Medical Device Sales Internship Fall 2026 (Paid)](https://jobright.ai/jobs/info/697bd0471423772304ebfd96?utm_campaign=1051&utm_source=git)** | Tualatin, OR | On Site | Jan 29 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697baf741136d179eeef3466?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 29 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697bae0f0b88cc7d64227b33?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jan 29 |
@@ -137,8 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba7d31136d179eeef2e95?utm_campaign=1051&utm_source=git)** | Ontario, CA | On Site | Jan 29 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba7760b88cc7d64227628?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Jan 29 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba69e1423772304ebd543?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Jan 29 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/697ba63d0b88cc7d642275a5?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 29 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/697ba5851136d179eeef2d80?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Jan 29 |
+| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/697ba5851136d179eeef2d80?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Jan 29 |
 | **[Butler Ag Equipment](https://butlerag.com)** | **[Butler Intern](https://jobright.ai/jobs/info/697ba53a0b88cc7d64227438?utm_campaign=1051&utm_source=git)** | Fargo, ND, US | On Site | Jan 29 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba4511423772304ebd39a?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Jan 29 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba4200b88cc7d64227111?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Jan 29 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Driscoll's](http://www.driscolls.com)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/697ba36f0b88cc7d64226efc?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Jan 29 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba35b1423772304ebd038?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Jan 29 |
 | **[Ontario Brain Institute](http://www.braininstitute.ca)** | **[Business Development & Partnerships Intern](https://jobright.ai/jobs/info/697bc4a20b88cc7d642291b9?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 29 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba2e81423772304ebced6?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Jan 29 |
-| **[Coldwell Banker Realty](https://www.coldwellbankerhomes.com/northern-california/)** | **[Real Estate Intern](https://jobright.ai/jobs/info/697ba2b90b88cc7d64226ce9?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | Remote | Jan 29 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/697ba2360b88cc7d64226bae?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 29 |
-| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/697ba1ce1423772304ebcb44?utm_campaign=1051&utm_source=git)** | Spruce Grove, Alberta, Canada | On Site | Jan 29 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba1bd1423772304ebcae3?utm_campaign=1051&utm_source=git)** | Olympia, WA | On Site | Jan 29 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba03c1423772304ebc5e8?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Jan 29 |
-| **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Merchandiser Intern](https://jobright.ai/jobs/info/697bbd3f1423772304ebe90a?utm_campaign=1051&utm_source=git)** | United States of America, Kansas, Leawood, 66211 | On Site | Jan 29 |
-| **[Victaulic](https://www.victaulic.com)** | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/697bbc4c1423772304ebe7d8?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 29 |
-| **[Formlabs](http://www.formlabs.com)** | **[Go-to-Market MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/697bbc4f1423772304ebe7da?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Jan 29 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/697b9ce91423772304ebbca1?utm_campaign=1051&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
