@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ecolab](http://www.ecolab.com)** | **[Mining Engineering Technical Sales Internship](https://jobright.ai/jobs/info/696015307ebc25398eb6022c?utm_campaign=1051&utm_source=git)** | Lake City, FL | Hybrid | Jan 29 |
+| **[Panasonic North America](https://homes.panasonic.com/)** | **[SCM Demand Planner Intern (Summer 2026)](https://jobright.ai/jobs/info/69618a68e7ed9a5731ba673e?utm_campaign=1051&utm_source=git)** | Newark, NJ | Hybrid | Jan 29 |
 | **[LMC](https://www.lmc.net/)** | **[Intern - Purchasing](https://jobright.ai/jobs/info/697bdf6b1136d179eeef77b5?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Jan 29 |
 | **[Insight](https://www.insight.com)** | **[Client Executive Intern](https://jobright.ai/jobs/info/696039cba112b402660f062a?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 29 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - TAL, Technology - Campus 2026](https://jobright.ai/jobs/info/697bd84d0b88cc7d6422afb4?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 29 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Sells](https://sellsadvisors.com)** | **[M&A Summer Internship](https://jobright.ai/jobs/info/697bc2b90b88cc7d64228fb0?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Account Management Internship – Summer 2026](https://jobright.ai/jobs/info/6970501c587dfa0bb55dd6ed?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jan 29 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Murfreesboro, TN - Summer 2026)](https://jobright.ai/jobs/info/697bc12f0b88cc7d64228dbe?utm_campaign=1051&utm_source=git)** | Christiana, TN | On Site | Jan 29 |
+| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Sales, Strategy, & Planning Internship](https://jobright.ai/jobs/info/697be9351136d179eeef858d?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Jan 29 |
 | **[Four Inc.](https://www.fourinc.com/)** | **[Business Development- Internship](https://jobright.ai/jobs/info/697bbd5a1423772304ebe930?utm_campaign=1051&utm_source=git)** | Herndon, Virginia, United States | Hybrid | Jan 29 |
 | **[Welch Fluorocarbon Inc.](http://www.welchfluorocarbon.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/697bd9bd0b88cc7d6422b283?utm_campaign=1051&utm_source=git)** | Dover, NH, US | On Site | Jan 29 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Surety Intern](https://jobright.ai/jobs/info/697bdcb41136d179eeef71d0?utm_campaign=1051&utm_source=git)** | King of Prussia PA | On Site | Jan 29 |
@@ -97,6 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697badc71136d179eeef335a?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jan 29 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Account Manager](https://jobright.ai/jobs/info/697bada00b88cc7d64227ad1?utm_campaign=1051&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Jan 29 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697bad641136d179eeef32ff?utm_campaign=1051&utm_source=git)** | North Miami, FL | On Site | Jan 29 |
+| **[Dynareon](dynareon.us)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697bebc30b88cc7d6422d2f9?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 29 |
 | **[MAN Energy Solutions](https://www.man-es.com/)** | **[Regional Sales Team Support Intern](https://jobright.ai/jobs/info/697bd4470b88cc7d6422a69f?utm_campaign=1051&utm_source=git)** | US-Houston-Brookshire, 1758 Twinwood Parkway, Houston, Texas, United States of America | On Site | Jan 29 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/697bcfab1423772304ebfc69?utm_campaign=1051&utm_source=git)** | Oakville, Ontario, Canada | On Site | Jan 29 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/697bab9c0b88cc7d64227918?utm_campaign=1051&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CIM Group](https://www.cimgroup.com)** | **[Intern, Private Wealth Internal Sales](https://jobright.ai/jobs/info/6943553294730b73987661d4?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 29 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship - Erasmus+](https://jobright.ai/jobs/info/697ba9f81136d179eeef2ff7?utm_campaign=1051&utm_source=git)** | Malmo, NE | On Site | Jan 29 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division (MBA)](https://jobright.ai/jobs/info/68d330e517554c2d9eeee821?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Jan 29 |
-| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Partner Engagement Specialist Intern - Summer 2026](https://jobright.ai/jobs/info/69092968d046ab6061cd2535?utm_campaign=1051&utm_source=git)** | Neenah, WI | On Site | Jan 29 |
-| **[Capco](http://www.capco.com)** | **[Capco Summer Internship Program - Houston Summer 2026](https://jobright.ai/jobs/info/697b7b200b88cc7d64224599?utm_campaign=1051&utm_source=git)** | US - Houston | On Site | Jan 29 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Customer & Operations / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/697bd3c71136d179eeef5d8b?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jan 29 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Risk Management & Sales Internship](https://jobright.ai/jobs/info/697bac120b88cc7d64227975?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
