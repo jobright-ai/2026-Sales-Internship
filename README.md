@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Internship](https://jobright.ai/jobs/info/697d661f3f57a335696748fc?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 30 |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Commercial Sales Execution - Specialty Sales Analysis](https://jobright.ai/jobs/info/697d65c03f57a3356967487c?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
+| ↳ | **[Internship - Commercial Sales Execution - South Area](https://jobright.ai/jobs/info/697d64833f57a335696746db?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/697d640a137a0510256684c2?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jan 30 |
+| **[Lendistry](http://www.Lendistry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69796ed49c90a224ecc32780?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 30 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[TruServices Sales Intern](https://jobright.ai/jobs/info/697d5cfa3f57a33569673ed0?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[Sales Training Intern](https://jobright.ai/jobs/info/697d5ce3137a051025667cbe?utm_campaign=1051&utm_source=git)** | Lebanon, NJ | On Site | Jan 30 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Global Expansion Intern](https://jobright.ai/jobs/info/697d5c03727747250d583ed9?utm_campaign=1051&utm_source=git)** | US - Watsonville, California | On Site | Jan 30 |
@@ -68,6 +73,8 @@ For a complete list, click the following sortable link below:
 | **[BridgeBio](http://bridgebio.com)** | **[Business Development and Operations Intern](https://jobright.ai/jobs/info/697d583e3f57a335696738d8?utm_campaign=1051&utm_source=git)** | San Francisco, California, United States | On Site | Jan 30 |
 | **[CALSTART](http://www.calstart.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69616f5da112b402660ff221?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Latin America & Intercompany Sales Intern](https://jobright.ai/jobs/info/697d4ddd3f57a33569671a59?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Jan 30 |
+| **[Construction Specialties](https://www.c-sgroup.com/)** | **[Sales Training Intern](https://jobright.ai/jobs/info/697d63423f57a3356967453c?utm_campaign=1051&utm_source=git)** | US-NJ-Lebanon | On Site | Jan 30 |
+| **[Uber](http://www.uber.com)** | **[2026 Account Manager Internship, Chile](https://jobright.ai/jobs/info/697d65ec3f57a335696748b0?utm_campaign=1051&utm_source=git)** | CL-Santiago | Hybrid | Jan 30 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Customer Engagement Intern (CIC)](https://jobright.ai/jobs/info/697d40d93f57a33569671209?utm_campaign=1051&utm_source=git)** | Spring, TX | Hybrid | Jan 30 |
 | **[Besty AI](https://getbesty.ai)** | **[GTM Sales Intern](https://jobright.ai/jobs/info/697d3ee9137a051025664f46?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Buying Intern](https://jobright.ai/jobs/info/697d3ca93f57a33569670c61?utm_campaign=1051&utm_source=git)** | La Crosse, WI | On Site | Jan 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/697cecda3f57a33569669721?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | Jan 30 |
 | **[Cool Gear International](https://shop.coolgearinc.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/697d08b53f57a3356966bd2b?utm_campaign=1051&utm_source=git)** | Plymouth, MA | Hybrid | Jan 30 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Middle & Large Business Underwriting – Inland Marine](https://jobright.ai/jobs/info/697ce75b727747250d579217?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[EP Mapping Field Intern - Rochester, NY](https://jobright.ai/jobs/info/697ce363727747250d578f70?utm_campaign=1051&utm_source=git)** | Rochester, NY | Hybrid | Jan 30 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, Middle & Large Business Underwriting – Los Angeles](https://jobright.ai/jobs/info/697cdf083f57a33569668a57?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 30 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Global Partnerships (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697cdde9137a05102565cac0?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jan 30 |
-| **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697cdd95137a05102565ca8f?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 30 |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/697d03dd3f57a3356966b9b9?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jan 30 |
-| **[good2grow™](https://www.good2grow.com/#home)** | **[Sales Intern - Jacksonville, FL](https://jobright.ai/jobs/info/697cfb97137a05102565f564?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jan 30 |
-| ↳ | **[Sales Intern - New Orleans, LA](https://jobright.ai/jobs/info/697cf91d727747250d57b4ac?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
