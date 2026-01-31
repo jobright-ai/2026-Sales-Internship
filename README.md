@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Together AI](https://www.together.ai)** | **[Revenue Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/697e6106abff4c399a9d1556?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
+| **[Arvento A](arventoa.us)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697e606f7f40342e15d72700?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 31 |
 | **[LeFrak](http://lefrak.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/697e5c3a7f40342e15d725a5?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
 | **[Appli AI](https://applisolutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697e5576abff4c399a9d0df3?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697e42eece48107c05427f91?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Distributors](https://udiga.com)** | **[Sales Merchandiser Intern (College Students)](https://jobright.ai/jobs/info/697d6fea727747250d5858b6?utm_campaign=1051&utm_source=git)** | GA Smyrna 01 - Smyrna, GA 30082 | On Site | Jan 30 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Inside Sales (OTR)](https://jobright.ai/jobs/info/697d6f6f137a051025669263?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jan 30 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Corporate Partnerships Intern - Summer 2026](https://jobright.ai/jobs/info/697d864fabff4c399a9c3d87?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Internship](https://jobright.ai/jobs/info/697d661f3f57a335696748fc?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 30 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/697d640a137a0510256684c2?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
