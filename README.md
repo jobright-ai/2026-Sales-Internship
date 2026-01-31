@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zoox](https://www.zoox.com/)** | **[Procurement and Strategic Partnerships Intern](https://jobright.ai/jobs/info/6946071763141d188455b55c?utm_campaign=1051&utm_source=git)** | Foster City, CA | On Site | Jan 31 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Kate Spade Summer Store Leadership Intern-Costa Mesa, California](https://jobright.ai/jobs/info/697de8c37f40342e15d6c9a8?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Jan 31 |
+| ↳ | **[Kate Spade Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/697de6cf7f40342e15d6c92b?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 31 |
+| ↳ | **[Coach Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/697de2e2ce48107c05422fdd?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 31 |
+| ↳ | **[Coach Summer Store Leadership Intern-San Diego, California](https://jobright.ai/jobs/info/697de2b9abff4c399a9cb60b?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
+| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division (MBA)](https://jobright.ai/jobs/info/6960b6c0a112b402660f5ba9?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 31 |
+| **[Rakuten Kobo Inc.](http://www.kobo.com)** | **[Content Sales Intern, Audiobooks and Subscriptions (12 month contract)](https://jobright.ai/jobs/info/697dda697f40342e15d6c750?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
+| **[The Medical Affairs Company (TMAC)](http://www.themedicalaffairscompany.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/696181e5a112b40266100a4e?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Jan 31 |
+| **[Tom Wood Automotive](http://tomwood.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697dd61cabff4c399a9cb35c?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
+| **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship, Store Management - Garden City, NY](https://jobright.ai/jobs/info/697dd3367f40342e15d6c39a?utm_campaign=1051&utm_source=git)** | Garden City, NY | On Site | Jan 31 |
+| **[GoTo Foods](http://www.focusbrands.com/)** | **[Customer Engagement and Loyalty Intern- Summer 2026](https://jobright.ai/jobs/info/697308a31790715e866bfa3b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Birmingham/Montgomery, AL (Starting Summer 2026)](https://jobright.ai/jobs/info/697dbd787f40342e15d6a113?utm_campaign=1051&utm_source=git)** | Alabaster, AL | On Site | Jan 31 |
 | **[Inspire Greatness Within](https://igwinc.org)** | **[Business Development Representative (BDR) Intern](https://jobright.ai/jobs/info/697db659abff4c399a9c8c70?utm_campaign=1051&utm_source=git)** | Frankfort, IL | On Site | Jan 30 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Corporate Partnerships Intern - Summer 2026](https://jobright.ai/jobs/info/697daa6d7f40342e15d69132?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[broadhead.](http://broadheadco.com)** | **[Account Service Intern - Summer 2026](https://jobright.ai/jobs/info/697d2f8f137a051025663976?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/697d30c4727747250d57fe40?utm_campaign=1051&utm_source=git)** | Greater Jacksonville, NC Area | On Site | Jan 30 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - East Kansas City, MO (Starting Summer 2026)](https://jobright.ai/jobs/info/69252a74d47de4798eccdb5b?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Jan 30 |
-| **[Cologix, Inc.](http://www.cologix.com)** | **[Intern - Business Development (Remote: USA)](https://jobright.ai/jobs/info/697d2dae3f57a3356966f4da?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Remote | Jan 30 |
-| ↳ | **[Intern - Business Development (Remote: USA)](https://jobright.ai/jobs/info/697d2ed63f57a3356966f7ea?utm_campaign=1051&utm_source=git)** | Columbus, OH | Remote | Jan 30 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Commercial Sales Execution - South Area](https://jobright.ai/jobs/info/697d3b34727747250d580b3e?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 30 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Customer Engagement Intern (CIC)](https://jobright.ai/jobs/info/697d32af727747250d580362?utm_campaign=1051&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Jan 30 |
-| **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/697d3d6f727747250d580e75?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Jan 30 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/697d377f137a051025664559?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Jan 30 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/697d3dfd137a051025664df5?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jan 30 |
-| **[Smith & Associates](http://www.smithweb.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/697d0c48137a0510256601ca?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 30 |
-| **[Quantum Metric](https://quantummetric.com)** | **[Customer Success Strategy Intern - Spring 2026](https://jobright.ai/jobs/info/697d3190137a051025663f61?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 30 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Membership Services (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d0bb0137a051025660104?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jan 30 |
-| **[Smith & Associates](http://www.smithweb.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697d0a69727747250d57c085?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
