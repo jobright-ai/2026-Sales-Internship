@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/697e75daabff4c399a9d3475?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jan 31 |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/697e69c47f40342e15d73a4b?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Jan 31 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader PT 6622](https://jobright.ai/jobs/info/697e67cbce48107c05428f60?utm_campaign=1051&utm_source=git)** | Staten Island, NY | On Site | Jan 31 |
 | **[Together AI](https://www.together.ai)** | **[Revenue Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/697e6106abff4c399a9d1556?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
 | **[Arvento A](arventoa.us)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697e606f7f40342e15d72700?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 31 |
 | **[LeFrak](http://lefrak.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/697e5c3a7f40342e15d725a5?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Giants](https://www.mlb.com/giants)** | **[Partnerships & Business Development Intern](https://jobright.ai/jobs/info/697d7551727747250d585e04?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/697d73be3f57a33569675886?utm_campaign=1051&utm_source=git)** | Jurupa Valley, CA | On Site | Jan 30 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Inside Sales (OTR)](https://jobright.ai/jobs/info/697d70953f57a33569675558?utm_campaign=1051&utm_source=git)** | US - Remote | Remote | Jan 30 |
-| **[United Distributors](https://udiga.com)** | **[Sales Merchandiser Intern (College Students)](https://jobright.ai/jobs/info/697d6fea727747250d5858b6?utm_campaign=1051&utm_source=git)** | GA Smyrna 01 - Smyrna, GA 30082 | On Site | Jan 30 |
-| **[WEX](http://www.wexinc.com)** | **[Intern - Inside Sales (OTR)](https://jobright.ai/jobs/info/697d6f6f137a051025669263?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jan 30 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Corporate Partnerships Intern - Summer 2026](https://jobright.ai/jobs/info/697d864fabff4c399a9c3d87?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
