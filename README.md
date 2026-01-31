@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Commercial Sales Execution - South Area](https://jobright.ai/jobs/info/697d64833f57a335696746db?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
+| ↳ | **[Internship - Commercial Sales Execution - Specialty Sales Analysis](https://jobright.ai/jobs/info/697d65c03f57a3356967487c?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
+| **[Rakuten](http://global.rakuten.com)** | **[Content Sales Intern, Audiobooks and Subscriptions (12 month contract)](https://jobright.ai/jobs/info/697d95447f40342e15d675b5?utm_campaign=1051&utm_source=git)** | Toronto, Canada | Hybrid | Jan 30 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Global Expansion Intern](https://jobright.ai/jobs/info/697d91767f40342e15d673ac?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Jan 30 |
 | **[TE Connectivity](http://www.te.com)** | **[MBA Strategy & Business Development Intern](https://jobright.ai/jobs/info/697d8fffabff4c399a9c603d?utm_campaign=1051&utm_source=git)** | Berwyn, PA | On Site | Jan 30 |
 | **[Powell](http://www.powellind.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6961938be7ed9a5731ba6dfd?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Jan 30 |
@@ -64,9 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Digital Industries Automation - Sales Internship](https://jobright.ai/jobs/info/697d88df7f40342e15d65218?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jan 30 |
 | ↳ | **[SCM Procurement Business Partner Intern](https://jobright.ai/jobs/info/697d834d7f40342e15d64d30?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jan 30 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Development & Strategy Intern](https://jobright.ai/jobs/info/6945121163141d1884549637?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | On Site | Jan 30 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Commercial Sales Execution - Specialty Sales Analysis](https://jobright.ai/jobs/info/697d65c03f57a3356967487c?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
-| ↳ | **[Internship - Commercial Sales Execution - South Area](https://jobright.ai/jobs/info/697d64833f57a335696746db?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
-| ↳ | **[Internship - National Commercial Sales Execution](https://jobright.ai/jobs/info/697d69c9137a051025668c01?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - National Commercial Sales Execution](https://jobright.ai/jobs/info/697d69c9137a051025668c01?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
 | ↳ | **[Internship - National Commercial Sales Execution](https://jobright.ai/jobs/info/697d6e21727747250d5850c4?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 30 |
 | **[BridgeBio](http://bridgebio.com)** | **[Business Development and Operations Intern](https://jobright.ai/jobs/info/697d7cc43f57a3356967660c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Inventory Management](https://jobright.ai/jobs/info/697d7c653f57a3356967659f?utm_campaign=1051&utm_source=git)** | Port Washington, NY, US, 11050 | On Site | Jan 30 |
@@ -109,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Besty AI](https://getbesty.ai)** | **[GTM Sales Intern](https://jobright.ai/jobs/info/697d3ee9137a051025664f46?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Buying Intern](https://jobright.ai/jobs/info/697d3ca93f57a33569670c61?utm_campaign=1051&utm_source=git)** | La Crosse, WI | On Site | Jan 30 |
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Customer Programs Internship - Las Vegas](https://jobright.ai/jobs/info/697d3c753f57a33569670c1a?utm_campaign=1051&utm_source=git)** | 8360 South Durango, Las Vegas, NV, 89113, US | Hybrid | Jan 30 |
+| **[LaunchCapital](http://www.launchcapital.com)** | **[Go-to-Market MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/697d9bf8abff4c399a9c7132?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Jan 30 |
 | **[San Francisco Giants](https://www.mlb.com/giants)** | **[Partnerships & Business Development Intern](https://jobright.ai/jobs/info/697d3bf0137a051025664b1e?utm_campaign=1051&utm_source=git)** | Oracle Park, SF | On Site | Jan 30 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Applied Ventures Summer Intern](https://jobright.ai/jobs/info/697d3bd2137a051025664aed?utm_campaign=1051&utm_source=git)** | Santa Clara,CA | On Site | Jan 30 |
 | **[TRUMPF](https://www.trumpf.com/de_DE/)** | **[Software Sales Intern](https://jobright.ai/jobs/info/697d3a293f57a335696708f3?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
@@ -134,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Washington Commanders](http://www.commanders.com/)** | **[Intern, Partnership Solutions](https://jobright.ai/jobs/info/697d21083f57a3356966d777?utm_campaign=1051&utm_source=git)** | Riverdale, MD | On Site | Jan 30 |
 | **[TRUMPF](https://www.trumpf.com/de_DE/)** | **[Software Sales Intern](https://jobright.ai/jobs/info/697d3d35727747250d580e2f?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[FULLBEAUTY Brands](http://fbbrands.com/)** | **[Inventory Planning Intern](https://jobright.ai/jobs/info/697d1b02727747250d57d3db?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jan 30 |
+| **[niLuu Silk Sense](https://www.niluu.com)** | **[Showroom and Operations Intern](https://jobright.ai/jobs/info/697d98d2ce48107c0541e865?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 30 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/697d11a2727747250d57c820?utm_campaign=1051&utm_source=git)** | Oshkosh, WI | On Site | Jan 30 |
 | **[broadhead.](http://broadheadco.com)** | **[Account Service Intern - Summer 2026](https://jobright.ai/jobs/info/697d2f8f137a051025663976?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/697d30c4727747250d57fe40?utm_campaign=1051&utm_source=git)** | Greater Jacksonville, NC Area | On Site | Jan 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Events Intern](https://jobright.ai/jobs/info/697d0999137a05102565fe68?utm_campaign=1051&utm_source=git)** | Sandy,UT,US | On Site | Jan 30 |
 | **[Kirby Risk](https://www.kirbyrisk.com)** | **[Sales Intern (Starting May 2026!)](https://jobright.ai/jobs/info/697d0918727747250d57bee3?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, USA | On Site | Jan 30 |
 | **[Professional Photographers of America](https://www.ppa.com)** | **[***MEMBERSHIP INTERN***](https://jobright.ai/jobs/info/697d08673f57a3356966bcd3?utm_campaign=1051&utm_source=git)** | 229 Peachtree Street Northeast, Atlanta, GA, USA | On Site | Jan 30 |
-| **[Raymond Representation](https://raymondrep.com/)** | **[Partnerships Coordinator Internship](https://jobright.ai/jobs/info/697d2d7b3f57a3356966f404?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 30 |
-| **[Gregory Poole Equipment Company](http://www.gregorypoole.com)** | **[Corporate Intern - Sales](https://jobright.ai/jobs/info/697d2c7d137a051025663131?utm_campaign=1051&utm_source=git)** | 4807 Beryl Rd, Raleigh, NC 27606, USA | On Site | Jan 30 |
-| **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Derivatives Sales (f/m/d)](https://jobright.ai/jobs/info/697d052f3f57a3356966ba59?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
