@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Birmingham/Montgomery, AL (Starting Summer 2026)](https://jobright.ai/jobs/info/697dbd787f40342e15d6a113?utm_campaign=1051&utm_source=git)** | Alabaster, AL | On Site | Jan 31 |
 | **[Inspire Greatness Within](https://igwinc.org)** | **[Business Development Representative (BDR) Intern](https://jobright.ai/jobs/info/697db659abff4c399a9c8c70?utm_campaign=1051&utm_source=git)** | Frankfort, IL | On Site | Jan 30 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Corporate Partnerships Intern - Summer 2026](https://jobright.ai/jobs/info/697daa6d7f40342e15d69132?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - CRM](https://jobright.ai/jobs/info/697daa2bce48107c0541f8ec?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Driscoll's](http://www.driscolls.com)** | **[Latin America & Intercompany Sales Intern](https://jobright.ai/jobs/info/697d4ddd3f57a33569671a59?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Jan 30 |
 | **[Birchwood Automotive Group](https://www.birchwood.ca/)** | **[PROFESSIONAL INTERN - SERVICE DRIVE - BIRCHWOOD HONDA WEST](https://jobright.ai/jobs/info/697d6ddf3f57a335696752a1?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
 | ↳ | **[PROFESSIONAL INTERN - SALES ASSISTANT - BIRCHWOOD FORD](https://jobright.ai/jobs/info/697d72a83f57a33569675759?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
-| ↳ | **[PROFESSIONAL INTERN - SALES ASSISTANT - BIRCHWOOD HYUNDAI](https://jobright.ai/jobs/info/697d70e4137a0510256693d4?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
 | ↳ | **[PROFESSIONAL INTERN - SALES ASSISTANT - BMW/MINI](https://jobright.ai/jobs/info/697d71d3727747250d585a94?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
+| ↳ | **[PROFESSIONAL INTERN - SALES ASSISTANT - BIRCHWOOD HYUNDAI](https://jobright.ai/jobs/info/697d70e4137a0510256693d4?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
 | ↳ | **[PROFESSIONAL INTERN - SALES ASSISTANT](https://jobright.ai/jobs/info/697d76da727747250d585f9c?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
 | **[Universal Processing LLC (uP)](https://www.uprocessing.com/)** | **[Sales Operations Intern (Unpaid)](https://jobright.ai/jobs/info/697d6a183f57a33569674d29?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 30 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[Sales Training Intern](https://jobright.ai/jobs/info/697d63423f57a3356967453c?utm_campaign=1051&utm_source=git)** | US-NJ-Lebanon | On Site | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quantum Metric](https://quantummetric.com)** | **[Customer Success Strategy Intern - Spring 2026](https://jobright.ai/jobs/info/697d3190137a051025663f61?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Membership Services (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d0bb0137a051025660104?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[Smith & Associates](http://www.smithweb.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697d0a69727747250d57c085?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 30 |
-| **[FCX Performance](http://fcxperformance.com)** | **[Intern](https://jobright.ai/jobs/info/697d304c727747250d57fd19?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
