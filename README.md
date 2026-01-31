@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LeFrak](http://lefrak.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/697e5c3a7f40342e15d725a5?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
+| **[Appli AI](https://applisolutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697e5576abff4c399a9d0df3?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697e42eece48107c05427f91?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 31 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/697e343eabff4c399a9d05c6?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 31 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Associate(Internship)](https://jobright.ai/jobs/info/697e3420abff4c399a9d05ba?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Insurance Sales Intern](https://jobright.ai/jobs/info/697e339babff4c399a9d0598?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Corporate Partnerships Intern - Summer 2026](https://jobright.ai/jobs/info/697d864fabff4c399a9c3d87?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Internship](https://jobright.ai/jobs/info/697d661f3f57a335696748fc?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 30 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/697d640a137a0510256684c2?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jan 30 |
-| **[Lendistry](http://www.Lendistry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69796ed49c90a224ecc32780?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 30 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[TruServices Sales Intern](https://jobright.ai/jobs/info/697d5cfa3f57a33569673ed0?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
-| **[Construction Specialties](https://www.c-sgroup.com/)** | **[Sales Training Intern](https://jobright.ai/jobs/info/697d5ce3137a051025667cbe?utm_campaign=1051&utm_source=git)** | Lebanon, NJ | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
