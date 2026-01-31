@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/697e343eabff4c399a9d05c6?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 31 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Associate(Internship)](https://jobright.ai/jobs/info/697e3420abff4c399a9d05ba?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
+| **[Elevare Consulting](elevareconsulting.us)** | **[Insurance Sales Intern](https://jobright.ai/jobs/info/697e339babff4c399a9d0598?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jan 31 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Applied Ventures Summer Intern](https://jobright.ai/jobs/info/697e2c2dce48107c0542635f?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[Vanillakart](https://vanillakart.com/)** | **[business development and sales intern (unpaid)](https://jobright.ai/jobs/info/697e24137f40342e15d6fb59?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697e22f5abff4c399a9ce882?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lendistry](http://www.Lendistry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69796ed49c90a224ecc32780?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 30 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[TruServices Sales Intern](https://jobright.ai/jobs/info/697d5cfa3f57a33569673ed0?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[Sales Training Intern](https://jobright.ai/jobs/info/697d5ce3137a051025667cbe?utm_campaign=1051&utm_source=git)** | Lebanon, NJ | On Site | Jan 30 |
-| **[Driscoll's](http://www.driscolls.com)** | **[Global Expansion Intern](https://jobright.ai/jobs/info/697d5c03727747250d583ed9?utm_campaign=1051&utm_source=git)** | US - Watsonville, California | On Site | Jan 30 |
-| **[SS8 Networks](http://www.ss8.com)** | **[Global Channel Partner Manager – U.S. Government & International (Req ID: 2026-03)](https://jobright.ai/jobs/info/697d5bc43f57a33569673d5a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 30 |
-| **[Harbinger](https://harbingermotors.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/697d5ae33f57a33569673c67?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
