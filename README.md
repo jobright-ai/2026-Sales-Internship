@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Sales Internship - Summer 2026 (Denver, CO)](https://jobright.ai/jobs/info/695fcf787ebc25398eb5ace8?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jan 31 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/694a2edf63141d188459ed69?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jan 31 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d42d42ffc1276de3fd7e96?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 31 |
 | **[Zoox](https://www.zoox.com/)** | **[Procurement and Strategic Partnerships Intern](https://jobright.ai/jobs/info/6946071763141d188455b55c?utm_campaign=1051&utm_source=git)** | Foster City, CA | On Site | Jan 31 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Kate Spade Summer Store Leadership Intern-Costa Mesa, California](https://jobright.ai/jobs/info/697de8c37f40342e15d6c9a8?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Jan 31 |
 | ↳ | **[Kate Spade Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/697de6cf7f40342e15d6c92b?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 31 |
@@ -116,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Driscoll's](http://www.driscolls.com)** | **[Latin America & Intercompany Sales Intern](https://jobright.ai/jobs/info/697d4ddd3f57a33569671a59?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Jan 30 |
 | **[Birchwood Automotive Group](https://www.birchwood.ca/)** | **[PROFESSIONAL INTERN - SERVICE DRIVE - BIRCHWOOD HONDA WEST](https://jobright.ai/jobs/info/697d6ddf3f57a335696752a1?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
 | ↳ | **[PROFESSIONAL INTERN - SALES ASSISTANT - BIRCHWOOD FORD](https://jobright.ai/jobs/info/697d72a83f57a33569675759?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
-| ↳ | **[PROFESSIONAL INTERN - SALES ASSISTANT - BMW/MINI](https://jobright.ai/jobs/info/697d71d3727747250d585a94?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
 | ↳ | **[PROFESSIONAL INTERN - SALES ASSISTANT - BIRCHWOOD HYUNDAI](https://jobright.ai/jobs/info/697d70e4137a0510256693d4?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
+| ↳ | **[PROFESSIONAL INTERN - SALES ASSISTANT - BMW/MINI](https://jobright.ai/jobs/info/697d71d3727747250d585a94?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
 | ↳ | **[PROFESSIONAL INTERN - SALES ASSISTANT](https://jobright.ai/jobs/info/697d76da727747250d585f9c?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
 | **[Universal Processing LLC (uP)](https://www.uprocessing.com/)** | **[Sales Operations Intern (Unpaid)](https://jobright.ai/jobs/info/697d6a183f57a33569674d29?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 30 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[Sales Training Intern](https://jobright.ai/jobs/info/697d63423f57a3356967453c?utm_campaign=1051&utm_source=git)** | US-NJ-Lebanon | On Site | Jan 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FULLBEAUTY Brands](http://fbbrands.com/)** | **[Inventory Planning Intern](https://jobright.ai/jobs/info/697d1b02727747250d57d3db?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jan 30 |
 | **[niLuu Silk Sense](https://www.niluu.com)** | **[Showroom and Operations Intern](https://jobright.ai/jobs/info/697d98d2ce48107c0541e865?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 30 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/697d11a2727747250d57c820?utm_campaign=1051&utm_source=git)** | Oshkosh, WI | On Site | Jan 30 |
-| **[broadhead.](http://broadheadco.com)** | **[Account Service Intern - Summer 2026](https://jobright.ai/jobs/info/697d2f8f137a051025663976?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
-| **[AAA-The Auto Club Group](http://aaa.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/697d30c4727747250d57fe40?utm_campaign=1051&utm_source=git)** | Greater Jacksonville, NC Area | On Site | Jan 30 |
-| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - East Kansas City, MO (Starting Summer 2026)](https://jobright.ai/jobs/info/69252a74d47de4798eccdb5b?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
