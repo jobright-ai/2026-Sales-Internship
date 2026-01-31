@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[Applied Ventures Summer Intern](https://jobright.ai/jobs/info/697e2c2dce48107c0542635f?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
+| **[Vanillakart](https://vanillakart.com/)** | **[business development and sales intern (unpaid)](https://jobright.ai/jobs/info/697e24137f40342e15d6fb59?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697e22f5abff4c399a9ce882?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 31 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Towerstone Intern - Summer 2026](https://jobright.ai/jobs/info/692f72cafa28370be26aa337?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | On Site | Jan 31 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/697e1503abff4c399a9ce375?utm_campaign=1051&utm_source=git)** | Hayward, CA | On Site | Jan 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed20a46e5b153e5a60502?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Driscoll's](http://www.driscolls.com)** | **[Global Expansion Intern](https://jobright.ai/jobs/info/697d5c03727747250d583ed9?utm_campaign=1051&utm_source=git)** | US - Watsonville, California | On Site | Jan 30 |
 | **[SS8 Networks](http://www.ss8.com)** | **[Global Channel Partner Manager – U.S. Government & International (Req ID: 2026-03)](https://jobright.ai/jobs/info/697d5bc43f57a33569673d5a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/697d5ae33f57a33569673c67?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Jan 30 |
-| **[BMO](http://www.bmo.com)** | **[Personal Banking Associate, Summer 2026 (co-op/internship)-4 Months](https://jobright.ai/jobs/info/697d8265abff4c399a9c3ae3?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 30 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Software Sales Intern](https://jobright.ai/jobs/info/697d59ad3f57a33569673ac1?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
-| **[Sid Lee](http://sidlee.com/en)** | **[Account Services, Intern - Toronto](https://jobright.ai/jobs/info/697d59453f57a33569673a2d?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
