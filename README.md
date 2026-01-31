@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Towerstone Intern - Summer 2026](https://jobright.ai/jobs/info/692f72cafa28370be26aa337?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | On Site | Jan 31 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/697e1503abff4c399a9ce375?utm_campaign=1051&utm_source=git)** | Hayward, CA | On Site | Jan 31 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed20a46e5b153e5a60502?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jan 31 |
+| **[MongoDB](https://www.mongodb.com/)** | **[Sales Development Intern - Summer 2026](https://jobright.ai/jobs/info/6961b6b4e7ed9a5731ba8aaa?utm_campaign=1051&utm_source=git)** | Austin, CO | On Site | Jan 31 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961e41ea112b40266106487?utm_campaign=1051&utm_source=git)** | Winder, GA | On Site | Jan 31 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed30bd078b81ad160fbbd?utm_campaign=1051&utm_source=git)** | Westborough, MA | On Site | Jan 31 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed410e0db92422580bd5d?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Jan 31 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed84fd078b81ad1610031?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | On Site | Jan 31 |
+| **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Heavy Equipment Sales](https://jobright.ai/jobs/info/6961cc83a112b402661058b0?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed363e0db92422580bc4f?utm_campaign=1051&utm_source=git)** | Trevose, PA | On Site | Jan 31 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/692003db09cc522e877474d2?utm_campaign=1051&utm_source=git)** | Bonita Springs, FL | On Site | Jan 31 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/693bdbb04911ef04095f1576?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Jan 31 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d8eff3f4cd132506d575?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jan 31 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Rental Sales Intern](https://jobright.ai/jobs/info/6945d129951654073537fcca?utm_campaign=1051&utm_source=git)** | Galesburg, MI | On Site | Jan 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961e0d1a112b40266106364?utm_campaign=1051&utm_source=git)** | Cumming, GA | On Site | Jan 31 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68d4a2b3ffc1276de3fdcb75?utm_campaign=1051&utm_source=git)** | Charleston County, SC | On Site | Jan 31 |
@@ -85,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/697df9217f40342e15d6cd66?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/69704814587dfa0bb55dd075?utm_campaign=1051&utm_source=git)** | Charleston County, SC | On Site | Jan 31 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Proposal Intern](https://jobright.ai/jobs/info/6945da91d1953b5d11beecc4?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
+| **[Coca-Cola Canada Bottling Limited](https://cokecanada.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/697e13c9abff4c399a9ce2ae?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 31 |
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (MSP)](https://jobright.ai/jobs/info/68f08578eb273a32d97691b8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 31 |
 | **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Proposal](https://jobright.ai/jobs/info/6961e286e7ed9a5731baa709?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Jan 31 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69621cf325e18715077efcf2?utm_campaign=1051&utm_source=git)** | Santa Barbara, CA | On Site | Jan 31 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Personal Banking Associate, Summer 2026 (co-op/internship)-4 Months](https://jobright.ai/jobs/info/697d8265abff4c399a9c3ae3?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 30 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Software Sales Intern](https://jobright.ai/jobs/info/697d59ad3f57a33569673ac1?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
 | **[Sid Lee](http://sidlee.com/en)** | **[Account Services, Intern - Toronto](https://jobright.ai/jobs/info/697d59453f57a33569673a2d?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
-| **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern (Kalamazoo)- Summer 2026](https://jobright.ai/jobs/info/697d5915727747250d583b0d?utm_campaign=1051&utm_source=git)** | Portage, MI | On Site | Jan 30 |
-| **[BridgeBio](http://bridgebio.com)** | **[Business Development and Operations Intern](https://jobright.ai/jobs/info/697d583e3f57a335696738d8?utm_campaign=1051&utm_source=git)** | San Francisco, California, United States | On Site | Jan 30 |
-| **[WEX](http://www.wexinc.com)** | **[Intern - Inside Sales (OTR)](https://jobright.ai/jobs/info/697d7590727747250d585e47?utm_campaign=1051&utm_source=git)** | Tennessee - Remote Office | Remote | Jan 30 |
-| **[Expedia Group](https://www.expediagroup.com)** | **[Commercial Intern - 2026 - Austin](https://jobright.ai/jobs/info/697d7721137a051025669a14?utm_campaign=1051&utm_source=git)** | Austin Domain 11 - HomeAway | Hybrid | Jan 30 |
-| **[CALSTART](http://www.calstart.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69616f5da112b402660ff221?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 30 |
-| **[Driscoll's](http://www.driscolls.com)** | **[Latin America & Intercompany Sales Intern](https://jobright.ai/jobs/info/697d4ddd3f57a33569671a59?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Jan 30 |
-| **[Birchwood Automotive Group](https://www.birchwood.ca/)** | **[PROFESSIONAL INTERN - SERVICE DRIVE - BIRCHWOOD HONDA WEST](https://jobright.ai/jobs/info/697d6ddf3f57a335696752a1?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
-| ↳ | **[PROFESSIONAL INTERN - SALES ASSISTANT - BIRCHWOOD FORD](https://jobright.ai/jobs/info/697d72a83f57a33569675759?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
-| ↳ | **[PROFESSIONAL INTERN - SALES ASSISTANT - BIRCHWOOD HYUNDAI](https://jobright.ai/jobs/info/697d70e4137a0510256693d4?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
-| ↳ | **[PROFESSIONAL INTERN - SALES ASSISTANT - BMW/MINI](https://jobright.ai/jobs/info/697d71d3727747250d585a94?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
-| ↳ | **[PROFESSIONAL INTERN - SALES ASSISTANT](https://jobright.ai/jobs/info/697d76da727747250d585f9c?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
-| **[Universal Processing LLC (uP)](https://www.uprocessing.com/)** | **[Sales Operations Intern (Unpaid)](https://jobright.ai/jobs/info/697d6a183f57a33569674d29?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 30 |
-| **[Construction Specialties](https://www.c-sgroup.com/)** | **[Sales Training Intern](https://jobright.ai/jobs/info/697d63423f57a3356967453c?utm_campaign=1051&utm_source=git)** | US-NJ-Lebanon | On Site | Jan 30 |
-| **[Uber](http://www.uber.com)** | **[2026 Account Manager Internship, Chile](https://jobright.ai/jobs/info/697d65ec3f57a335696748b0?utm_campaign=1051&utm_source=git)** | CL-Santiago | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
