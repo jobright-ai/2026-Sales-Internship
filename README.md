@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inspire Greatness Within](https://igwinc.org)** | **[Business Development Representative (BDR) Intern](https://jobright.ai/jobs/info/697db659abff4c399a9c8c70?utm_campaign=1051&utm_source=git)** | Frankfort, IL | On Site | Jan 30 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Corporate Partnerships Intern - Summer 2026](https://jobright.ai/jobs/info/697daa6d7f40342e15d69132?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - CRM](https://jobright.ai/jobs/info/697daa2bce48107c0541f8ec?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | **[Columbia Hospitality](http://www.columbiahospitality.com)** | **[Sales & Events Intern / The SOMM Hotel & Spa](https://jobright.ai/jobs/info/697da9d1abff4c399a9c7f8d?utm_campaign=1051&utm_source=git)** | Woodinville, WA | On Site | Jan 30 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Commercial Sales Execution - South Area](https://jobright.ai/jobs/info/697d64833f57a335696746db?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
 | ↳ | **[Internship - Commercial Sales Execution - Specialty Sales Analysis](https://jobright.ai/jobs/info/697d65c03f57a3356967487c?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
 | **[Rakuten](http://global.rakuten.com)** | **[Content Sales Intern, Audiobooks and Subscriptions (12 month contract)](https://jobright.ai/jobs/info/697d95447f40342e15d675b5?utm_campaign=1051&utm_source=git)** | Toronto, Canada | Hybrid | Jan 30 |
-| **[Driscoll's](http://www.driscolls.com)** | **[Global Expansion Intern](https://jobright.ai/jobs/info/697d91767f40342e15d673ac?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Jan 30 |
 | **[TE Connectivity](http://www.te.com)** | **[MBA Strategy & Business Development Intern](https://jobright.ai/jobs/info/697d8fffabff4c399a9c603d?utm_campaign=1051&utm_source=git)** | Berwyn, PA | On Site | Jan 30 |
 | **[Powell](http://www.powellind.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6961938be7ed9a5731ba6dfd?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Jan 30 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - Client Advisor Student Intern- EN](https://jobright.ai/jobs/info/6978422188e2b47213bc550d?utm_campaign=1051&utm_source=git)** | Québec, Quebec, Canada | On Site | Jan 30 |
