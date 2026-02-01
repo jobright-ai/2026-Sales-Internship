@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The First National Bank and Trust Company of Newtown](http://fnbn.com)** | **[Intern I](https://jobright.ai/jobs/info/697f91be7f40342e15d84107?utm_campaign=1051&utm_source=git)** | Newtown, PA | On Site | Feb 01 |
+| **[Orvanta](orvanta.us)** | **[Sales Intern](https://jobright.ai/jobs/info/697f9145ce48107c0543a3f7?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Feb 01 |
+| **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/697f8ea67f40342e15d840c6?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Feb 01 |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/697f8831abff4c399a9e3205?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Feb 01 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/68dd7a55a125e75c422aaf2f?utm_campaign=1051&utm_source=git)** | Little Rock, Arkansas | On Site | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Homeownership Intern](https://jobright.ai/jobs/info/697f7156abff4c399a9e16b3?utm_campaign=1051&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
 | **[John Michael Kohler Arts Center](https://jmkac.org)** | **[DEVELOPMENT Summer 2026 Internship](https://jobright.ai/jobs/info/697f7152abff4c399a9e16b1?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | Feb 01 |
@@ -136,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Elevare Consulting](elevareconsulting.us)** | **[Insurance Sales Intern](https://jobright.ai/jobs/info/697e339babff4c399a9d0598?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jan 31 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Applied Ventures Summer Intern](https://jobright.ai/jobs/info/697e2c2dce48107c0542635f?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[Vanillakart](https://vanillakart.com/)** | **[business development and sales intern (unpaid)](https://jobright.ai/jobs/info/697e24137f40342e15d6fb59?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
-| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697e22f5abff4c399a9ce882?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 31 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Towerstone Intern - Summer 2026](https://jobright.ai/jobs/info/692f72cafa28370be26aa337?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | On Site | Jan 31 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/697e1503abff4c399a9ce375?utm_campaign=1051&utm_source=git)** | Hayward, CA | On Site | Jan 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed20a46e5b153e5a60502?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961e0d1a112b40266106364?utm_campaign=1051&utm_source=git)** | Cumming, GA | On Site | Jan 31 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68d4a2b3ffc1276de3fdcb75?utm_campaign=1051&utm_source=git)** | Charleston County, SC | On Site | Jan 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eece28d078b81ad160f8ff?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Jan 31 |
-| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed39ae0db92422580bcaa?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Jan 31 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d4fbf3f4cd132506d38c?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Jan 31 |
-| **[Paycom](http://www.paycom.com)** | **[Client Success Intern](https://jobright.ai/jobs/info/68cd1b16b2a74e1837ed2877?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
