@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/68dd7a55a125e75c422aaf2f?utm_campaign=1051&utm_source=git)** | Little Rock, Arkansas | On Site | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Homeownership Intern](https://jobright.ai/jobs/info/697f7156abff4c399a9e16b3?utm_campaign=1051&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
 | **[John Michael Kohler Arts Center](https://jmkac.org)** | **[DEVELOPMENT Summer 2026 Internship](https://jobright.ai/jobs/info/697f7152abff4c399a9e16b1?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | Feb 01 |
 | **[WOW Brand](http://wowpayments.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/697f6e9eabff4c399a9e168a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed39ae0db92422580bcaa?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Jan 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d4fbf3f4cd132506d38c?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Jan 31 |
 | **[Paycom](http://www.paycom.com)** | **[Client Success Intern](https://jobright.ai/jobs/info/68cd1b16b2a74e1837ed2877?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Jan 31 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/695780dff1f8465b79ee3696?utm_campaign=1051&utm_source=git)** | Cromwell, CT | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
