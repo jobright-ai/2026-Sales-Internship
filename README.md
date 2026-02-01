@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Appli AI](https://applisolutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697f0209abff4c399a9daca6?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
+| **[Mercadien](https://www.mercadien.com/)** | **[Lottery Internship](https://jobright.ai/jobs/info/697efd20ce48107c05431cab?utm_campaign=1051&utm_source=git)** | Hamilton, NJ | On Site | Jan 31 |
+| **[Vanillakart](https://vanillakart.com/)** | **[business development and sales intern (unpaid)](https://jobright.ai/jobs/info/697efb5f7f40342e15d7b720?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Summer Internship- South Division 2026](https://jobright.ai/jobs/info/697ef12e7f40342e15d7aec6?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Intern (unpaid)](https://jobright.ai/jobs/info/697ee8c07f40342e15d7a96a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 31 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Sales Enablement Summer 2026 Internship - Parsippany, Holmdel, New York](https://jobright.ai/jobs/info/695c4c0622c9dc0d3d543604?utm_campaign=1051&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Jan 31 |
@@ -65,12 +68,9 @@ For a complete list, click the following sortable link below:
 | **[Southwestern Advantage – Arizona Campus Division](https://southwesternadvantage.cc/internship?sessionId=121d86a5-eadf-43f9-92b4-4f283aa1cf9d&trigger_link=3Motsy1j5X5lVDizqJHv)** | **[Entrepreneurial Sales & Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/697ecc7cce48107c0542e38d?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Jan 31 |
 | **[immi](https://www.linkedin.com/company/110429764)** | **[Partnerships & Growth Intern (P&G Intern)](https://jobright.ai/jobs/info/697ec7407f40342e15d77a3f?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | Jan 31 |
 | **[Tokamak Energy](http://www.tokamakenergy.co.uk/)** | **[US Summer Intern](https://jobright.ai/jobs/info/697ec46ece48107c0542d887?utm_campaign=1051&utm_source=git)** | Washington Highlands, MD | Hybrid | Jan 31 |
-| **[Vanillakart](https://vanillakart.com/)** | **[business development and sales intern (unpaid)](https://jobright.ai/jobs/info/697ebd3eabff4c399a9d6212?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 31 |
-| ↳ | **[business development and sales intern (unpaid)](https://jobright.ai/jobs/info/697eba80ce48107c0542d6fb?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 31 |
-| **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/697eb98eabff4c399a9d61b3?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 31 |
+| **[Vanillakart](https://vanillakart.com/)** | **[business development and sales intern (unpaid)](https://jobright.ai/jobs/info/697eba80ce48107c0542d6fb?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 31 |
 | **[John Michael Kohler Arts Center](https://jmkac.org)** | **[DEVELOPMENT Summer 2026 Internship](https://jobright.ai/jobs/info/697ea83aabff4c399a9d5658?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | Jan 31 |
 | **[Blue Ventis](blueventis.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/697e9fddabff4c399a9d3b0c?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 31 |
-| **[H15DEN](https://h15den.com)** | **[Business Development (Micro Internship)](https://jobright.ai/jobs/info/697e90197f40342e15d74afc?utm_campaign=1051&utm_source=git)** | LA Metro Area | Remote | Jan 31 |
 | **[Dynareon](dynareon.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/697e8d557f40342e15d74abe?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 31 |
 | **[Blitz Corp](www.useblitz.co)** | **[Sales Intern](https://jobright.ai/jobs/info/697e8a13abff4c399a9d394d?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 31 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Sales Internship Program](https://jobright.ai/jobs/info/697e7f74abff4c399a9d381a?utm_campaign=1051&utm_source=git)** | Springfield, IL | On Site | Jan 31 |
@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Together AI](https://www.together.ai)** | **[Revenue Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/697e6106abff4c399a9d1556?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
 | **[Arvento A](arventoa.us)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697e606f7f40342e15d72700?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 31 |
 | **[LeFrak](http://lefrak.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/697e5c3a7f40342e15d725a5?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
-| **[Appli AI](https://applisolutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697e5576abff4c399a9d0df3?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697e42eece48107c05427f91?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 31 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Associate(Internship)](https://jobright.ai/jobs/info/697e3420abff4c399a9d05ba?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Insurance Sales Intern](https://jobright.ai/jobs/info/697e339babff4c399a9d0598?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jan 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Commercial Sales Execution - South Area](https://jobright.ai/jobs/info/697d64833f57a335696746db?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
 | ↳ | **[Internship - Commercial Sales Execution - Specialty Sales Analysis](https://jobright.ai/jobs/info/697d65c03f57a3356967487c?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
 | **[Rakuten](http://global.rakuten.com)** | **[Content Sales Intern, Audiobooks and Subscriptions (12 month contract)](https://jobright.ai/jobs/info/697d95447f40342e15d675b5?utm_campaign=1051&utm_source=git)** | Toronto, Canada | Hybrid | Jan 30 |
+| **[TE Connectivity](http://www.te.com)** | **[MBA Strategy & Business Development Intern](https://jobright.ai/jobs/info/697d8fffabff4c399a9c603d?utm_campaign=1051&utm_source=git)** | Berwyn, PA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
