@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H15DEN](https://h15den.com)** | **[Business Development - Micro-Internship](https://jobright.ai/jobs/info/697fb635ce48107c0543b0cc?utm_campaign=1051&utm_source=git)** | LA Metro Area | Remote | Feb 01 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales & Leadership Summer Internship](https://jobright.ai/jobs/info/697fb369abff4c399a9e3e92?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 01 |
+| ↳ | **[Sales and Leadership Summer Intern](https://jobright.ai/jobs/info/697fb2a1ce48107c0543afad?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Feb 01 |
+| ↳ | **[Sales and Leadership Summer Intern](https://jobright.ai/jobs/info/697faefbce48107c0543aead?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Feb 01 |
+| **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Buyer (Business Administration, Finance, Supply Chain Management)](https://jobright.ai/jobs/info/697fade8abff4c399a9e3c95?utm_campaign=1051&utm_source=git)** | Aiken, SC | On Site | Feb 01 |
 | **[Studio Belle](https://www.studiobelle.ca)** | **[Sales Intern – Client Experience & Booking (Leadership Track)](https://jobright.ai/jobs/info/697fa75dabff4c399a9e37e6?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Feb 01 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697fa17dce48107c0543a57e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697f98077f40342e15d841b6?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 01 |
@@ -74,8 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Murrieta, CA (Starting Summer 2026)](https://jobright.ai/jobs/info/68d607602116ff37ee091ee2?utm_campaign=1051&utm_source=git)** | Murrieta, CA | On Site | Feb 01 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) -Richland, WA (Starting Summer 2026)](https://jobright.ai/jobs/info/69450a8250bbaf765057177a?utm_campaign=1051&utm_source=git)** | Richland, WA | On Site | Feb 01 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Columbia + Greenville, SC (Starting Summer 2026)](https://jobright.ai/jobs/info/68b13d506fab621da7b0b89e?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Feb 01 |
-| **[H15DEN](https://h15den.com)** | **[Business Development - Micro Internship](https://jobright.ai/jobs/info/697f67bf7f40342e15d822d7?utm_campaign=1051&utm_source=git)** | LA Metro Area | Remote | Feb 01 |
-| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Jackson, MS/New Orleans, LA (Starting Summer 2026)](https://jobright.ai/jobs/info/69799498ca92cf0d6a82c67b?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Feb 01 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Jackson, MS/New Orleans, LA (Starting Summer 2026)](https://jobright.ai/jobs/info/69799498ca92cf0d6a82c67b?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Feb 01 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Pomona, CA (Starting Summer 2026)](https://jobright.ai/jobs/info/68d607f963d77d6f6f3f3e8f?utm_campaign=1051&utm_source=git)** | Pomona, CA | On Site | Feb 01 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69616943a112b402660feb25?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Feb 01 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) – Albuquerque, New Mexico (Starting Summer 2026)](https://jobright.ai/jobs/info/68dffc311852e62f007e62a3?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Feb 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed84fd078b81ad1610031?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | On Site | Jan 31 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Heavy Equipment Sales](https://jobright.ai/jobs/info/6961cc83a112b402661058b0?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed363e0db92422580bc4f?utm_campaign=1051&utm_source=git)** | Trevose, PA | On Site | Jan 31 |
-| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/692003db09cc522e877474d2?utm_campaign=1051&utm_source=git)** | Bonita Springs, FL | On Site | Jan 31 |
-| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/693bdbb04911ef04095f1576?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Jan 31 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d8eff3f4cd132506d575?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jan 31 |
-| **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Rental Sales Intern](https://jobright.ai/jobs/info/6945d129951654073537fcca?utm_campaign=1051&utm_source=git)** | Galesburg, MI | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
