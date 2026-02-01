@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/697fd812abff4c399a9e8433?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 01 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697fbe11ce48107c0543c22c?utm_campaign=1051&utm_source=git)** | Des Plaines, IL | On Site | Feb 01 |
 | **[H15DEN](https://h15den.com)** | **[Business Development - Micro-Internship](https://jobright.ai/jobs/info/697fb635ce48107c0543b0cc?utm_campaign=1051&utm_source=git)** | LA Metro Area | Remote | Feb 01 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales & Leadership Summer Internship](https://jobright.ai/jobs/info/697fb369abff4c399a9e3e92?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 01 |
@@ -120,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/68c9cc8e95f5211cd2cf4719?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 01 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/697f237a7f40342e15d7d71d?utm_campaign=1051&utm_source=git)** | Rockford, Illinois | On Site | Feb 01 |
 | **[Triple-S Steel](Www.sss-steel.no)** | **[Sales & Operations Intern](https://jobright.ai/jobs/info/697f1d5eabff4c399a9dc194?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Feb 01 |
-| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Associate](https://jobright.ai/jobs/info/697f17087f40342e15d7cd3b?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 01 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Insurance Intern - Business Insurance (Summer 2026)](https://jobright.ai/jobs/info/692fd4acef4b48533d1491a6?utm_campaign=1051&utm_source=git)** | Leawood, KS | On Site | Feb 01 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/697f0cfeabff4c399a9db783?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Feb 01 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Sales Internship - South Central](https://jobright.ai/jobs/info/697f0773ce48107c05432941?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Jan 31 |
