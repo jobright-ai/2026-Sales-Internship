@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68c77ec1c96a22563ecf15ff?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Jan 31 |
 | **[Southwestern Advantage – Arizona Campus Division](https://southwesternadvantage.cc/internship?sessionId=121d86a5-eadf-43f9-92b4-4f283aa1cf9d&trigger_link=3Motsy1j5X5lVDizqJHv)** | **[Entrepreneurial Sales & Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/697ecc7cce48107c0542e38d?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Jan 31 |
 | **[immi](https://www.linkedin.com/company/110429764)** | **[Partnerships & Growth Intern (P&G Intern)](https://jobright.ai/jobs/info/697ec7407f40342e15d77a3f?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | Jan 31 |
 | **[Tokamak Energy](http://www.tokamakenergy.co.uk/)** | **[US Summer Intern](https://jobright.ai/jobs/info/697ec46ece48107c0542d887?utm_campaign=1051&utm_source=git)** | Washington Highlands, MD | Hybrid | Jan 31 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Corsair](http://www.corsair.com)** | **[Partnership Operations Intern](https://jobright.ai/jobs/info/6945987f63141d1884552507?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Inventory Management](https://jobright.ai/jobs/info/697dfa3d7f40342e15d6cd91?utm_campaign=1051&utm_source=git)** | Port Washington, NY | On Site | Jan 31 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68d4492bffc1276de3fd9505?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Jan 31 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69621e7b2cbf4e44756c1793?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
 | **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68d4a6a28c62e63bc7feb407?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Jan 31 |
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (CLE)](https://jobright.ai/jobs/info/68f08cbf1f624a7ec1cf3ed3?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jan 31 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/697df9217f40342e15d6cd66?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
@@ -144,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Tom Wood Automotive](http://tomwood.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697dd61cabff4c399a9cb35c?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship, Store Management - Garden City, NY](https://jobright.ai/jobs/info/697dd3367f40342e15d6c39a?utm_campaign=1051&utm_source=git)** | Garden City, NY | On Site | Jan 31 |
 | **[GoTo Foods](http://www.focusbrands.com/)** | **[Customer Engagement and Loyalty Intern- Summer 2026](https://jobright.ai/jobs/info/697308a31790715e866bfa3b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
+| **[The Medical Affairs Company (TMAC)](http://www.themedicalaffairscompany.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/697ed2dbce48107c0542e6c8?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Jan 31 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Birmingham/Montgomery, AL (Starting Summer 2026)](https://jobright.ai/jobs/info/697dbd787f40342e15d6a113?utm_campaign=1051&utm_source=git)** | Alabaster, AL | On Site | Jan 31 |
 | **[Inspire Greatness Within](https://igwinc.org)** | **[Business Development Representative (BDR) Intern](https://jobright.ai/jobs/info/697db659abff4c399a9c8c70?utm_campaign=1051&utm_source=git)** | Frankfort, IL | On Site | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - CRM](https://jobright.ai/jobs/info/697daa2bce48107c0541f8ec?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Powell](http://www.powellind.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6961938be7ed9a5731ba6dfd?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Jan 30 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - Client Advisor Student Intern- EN](https://jobright.ai/jobs/info/6978422188e2b47213bc550d?utm_campaign=1051&utm_source=git)** | Québec, Quebec, Canada | On Site | Jan 30 |
 | **[Siemens](https://www.siemens.com)** | **[Digital Industries Automation - Sales Internship](https://jobright.ai/jobs/info/697d88df7f40342e15d65218?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jan 30 |
-| ↳ | **[SCM Procurement Business Partner Intern](https://jobright.ai/jobs/info/697d834d7f40342e15d64d30?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
