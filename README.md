@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H15DEN](https://h15den.com)** | **[Business Development (Micro Internship)](https://jobright.ai/jobs/info/697e90197f40342e15d74afc?utm_campaign=1051&utm_source=git)** | LA Metro Area | Remote | Jan 31 |
+| **[Dynareon](dynareon.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/697e8d557f40342e15d74abe?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 31 |
+| **[Blitz Corp](www.useblitz.co)** | **[Sales Intern](https://jobright.ai/jobs/info/697e8a13abff4c399a9d394d?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 31 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Sales Internship Program](https://jobright.ai/jobs/info/697e7f74abff4c399a9d381a?utm_campaign=1051&utm_source=git)** | Springfield, IL | On Site | Jan 31 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/697e7cdbce48107c0542adc3?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 31 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/697e75daabff4c399a9d3475?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Inventory Management](https://jobright.ai/jobs/info/697d7c653f57a3356967659f?utm_campaign=1051&utm_source=git)** | Port Washington, NY, US, 11050 | On Site | Jan 30 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Inside Sales (OTR)](https://jobright.ai/jobs/info/697d79c63f57a3356967635f?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Jan 30 |
 | **[The Provider Support Group](http://theprovidersupportgroup.org/)** | **[Business Development Representative (BDR) Intern](https://jobright.ai/jobs/info/697d78033f57a33569676251?utm_campaign=1051&utm_source=git)** | Frankfort, IL | Hybrid | Jan 30 |
-| **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - CRM](https://jobright.ai/jobs/info/697d77e6727747250d5860a5?utm_campaign=1051&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Commercial Sales Execution - Specialty Sales Analysis](https://jobright.ai/jobs/info/697d7755137a051025669a47?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 30 |
-| **[San Francisco Giants](https://www.mlb.com/giants)** | **[Partnerships & Business Development Intern](https://jobright.ai/jobs/info/697d7551727747250d585e04?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
