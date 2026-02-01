@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Ventis](blueventis.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/697e9fddabff4c399a9d3b0c?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 31 |
 | **[H15DEN](https://h15den.com)** | **[Business Development (Micro Internship)](https://jobright.ai/jobs/info/697e90197f40342e15d74afc?utm_campaign=1051&utm_source=git)** | LA Metro Area | Remote | Jan 31 |
 | **[Dynareon](dynareon.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/697e8d557f40342e15d74abe?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 31 |
 | **[Blitz Corp](www.useblitz.co)** | **[Sales Intern](https://jobright.ai/jobs/info/697e8a13abff4c399a9d394d?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BridgeBio](http://bridgebio.com)** | **[Business Development and Operations Intern](https://jobright.ai/jobs/info/697d7cc43f57a3356967660c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Inventory Management](https://jobright.ai/jobs/info/697d7c653f57a3356967659f?utm_campaign=1051&utm_source=git)** | Port Washington, NY, US, 11050 | On Site | Jan 30 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Inside Sales (OTR)](https://jobright.ai/jobs/info/697d79c63f57a3356967635f?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Jan 30 |
-| **[The Provider Support Group](http://theprovidersupportgroup.org/)** | **[Business Development Representative (BDR) Intern](https://jobright.ai/jobs/info/697d78033f57a33569676251?utm_campaign=1051&utm_source=git)** | Frankfort, IL | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
