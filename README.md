@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697f98077f40342e15d841b6?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 01 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697f97e67f40342e15d841a7?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Feb 01 |
 | **[The First National Bank and Trust Company of Newtown](http://fnbn.com)** | **[Intern I](https://jobright.ai/jobs/info/697f91be7f40342e15d84107?utm_campaign=1051&utm_source=git)** | Newtown, PA | On Site | Feb 01 |
 | **[Orvanta](orvanta.us)** | **[Sales Intern](https://jobright.ai/jobs/info/697f9145ce48107c0543a3f7?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Feb 01 |
 | **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/697f8ea67f40342e15d840c6?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d8eff3f4cd132506d575?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jan 31 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Rental Sales Intern](https://jobright.ai/jobs/info/6945d129951654073537fcca?utm_campaign=1051&utm_source=git)** | Galesburg, MI | On Site | Jan 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961e0d1a112b40266106364?utm_campaign=1051&utm_source=git)** | Cumming, GA | On Site | Jan 31 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68d4a2b3ffc1276de3fdcb75?utm_campaign=1051&utm_source=git)** | Charleston County, SC | On Site | Jan 31 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eece28d078b81ad160f8ff?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
