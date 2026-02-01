@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hajoca Corporation](https://www.hajoca.com)** | **[Summer Internship- South Division 2026](https://jobright.ai/jobs/info/697ef12e7f40342e15d7aec6?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Intern (unpaid)](https://jobright.ai/jobs/info/697ee8c07f40342e15d7a96a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 31 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Sales Enablement Summer 2026 Internship - Parsippany, Holmdel, New York](https://jobright.ai/jobs/info/695c4c0622c9dc0d3d543604?utm_campaign=1051&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Jan 31 |
 | **[Horizon Lane](horizonlane.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/697ed4e47f40342e15d7831f?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jan 31 |
@@ -145,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Rakuten Kobo Inc.](http://www.kobo.com)** | **[Content Sales Intern, Audiobooks and Subscriptions (12 month contract)](https://jobright.ai/jobs/info/697dda697f40342e15d6c750?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Corporate Partnerships Intern - Summer 2026](https://jobright.ai/jobs/info/697e0011abff4c399a9cc40c?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
 | **[Tom Wood Automotive](http://tomwood.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697dd61cabff4c399a9cb35c?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
-| **[Cell Signaling Technology (CST)](https://www.cellsignal.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/697ee8497f40342e15d7a7db?utm_campaign=1051&utm_source=git)** | Danvers, MA | On Site | Jan 31 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship, Store Management - Garden City, NY](https://jobright.ai/jobs/info/697dd3367f40342e15d6c39a?utm_campaign=1051&utm_source=git)** | Garden City, NY | On Site | Jan 31 |
 | **[GoTo Foods](http://www.focusbrands.com/)** | **[Customer Engagement and Loyalty Intern- Summer 2026](https://jobright.ai/jobs/info/697308a31790715e866bfa3b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
 | **[The Medical Affairs Company (TMAC)](http://www.themedicalaffairscompany.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/697ed2dbce48107c0542e6c8?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Jan 31 |
