@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Triple-S Steel](Www.sss-steel.no)** | **[Sales & Operations Intern](https://jobright.ai/jobs/info/697f1d5eabff4c399a9dc194?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Feb 01 |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Associate](https://jobright.ai/jobs/info/697f17087f40342e15d7cd3b?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 01 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Insurance Intern - Business Insurance (Summer 2026)](https://jobright.ai/jobs/info/692fd4acef4b48533d1491a6?utm_campaign=1051&utm_source=git)** | Leawood, KS | On Site | Feb 01 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/697f0cfeabff4c399a9db783?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Feb 01 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Sales Internship - South Central](https://jobright.ai/jobs/info/697f0773ce48107c05432941?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Jan 31 |
 | **[Appli AI](https://applisolutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697f0209abff4c399a9daca6?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Inspire Greatness Within](https://igwinc.org)** | **[Business Development Representative (BDR) Intern](https://jobright.ai/jobs/info/697db659abff4c399a9c8c70?utm_campaign=1051&utm_source=git)** | Frankfort, IL | On Site | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - CRM](https://jobright.ai/jobs/info/697daa2bce48107c0541f8ec?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | **[Columbia Hospitality](http://www.columbiahospitality.com)** | **[Sales & Events Intern / The SOMM Hotel & Spa](https://jobright.ai/jobs/info/697da9d1abff4c399a9c7f8d?utm_campaign=1051&utm_source=git)** | Woodinville, WA | On Site | Jan 30 |
-| **[Expedia Group](https://www.expediagroup.com)** | **[Commercial Intern - 2026 - Austin](https://jobright.ai/jobs/info/697da4e9ce48107c0541f4ee?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Jan 30 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Commercial Sales Execution - South Area](https://jobright.ai/jobs/info/697d64833f57a335696746db?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
-| ↳ | **[Internship - Commercial Sales Execution - Specialty Sales Analysis](https://jobright.ai/jobs/info/697d65c03f57a3356967487c?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
