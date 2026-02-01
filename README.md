@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[John Michael Kohler Arts Center](https://jmkac.org)** | **[DEVELOPMENT Summer 2026 Internship](https://jobright.ai/jobs/info/697ea83aabff4c399a9d5658?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | Jan 31 |
 | **[Blue Ventis](blueventis.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/697e9fddabff4c399a9d3b0c?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 31 |
 | **[H15DEN](https://h15den.com)** | **[Business Development (Micro Internship)](https://jobright.ai/jobs/info/697e90197f40342e15d74afc?utm_campaign=1051&utm_source=git)** | LA Metro Area | Remote | Jan 31 |
 | **[Dynareon](dynareon.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/697e8d557f40342e15d74abe?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 31 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[LeFrak](http://lefrak.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/697e5c3a7f40342e15d725a5?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
 | **[Appli AI](https://applisolutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697e5576abff4c399a9d0df3?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697e42eece48107c05427f91?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 31 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/697e343eabff4c399a9d05c6?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 31 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Associate(Internship)](https://jobright.ai/jobs/info/697e3420abff4c399a9d05ba?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Insurance Sales Intern](https://jobright.ai/jobs/info/697e339babff4c399a9d0598?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jan 31 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Applied Ventures Summer Intern](https://jobright.ai/jobs/info/697e2c2dce48107c0542635f?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
