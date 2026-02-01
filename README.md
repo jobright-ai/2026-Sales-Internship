@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Intern (unpaid)](https://jobright.ai/jobs/info/697ee8c07f40342e15d7a96a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 31 |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Sales Enablement Summer 2026 Internship - Parsippany, Holmdel, New York](https://jobright.ai/jobs/info/695c4c0622c9dc0d3d543604?utm_campaign=1051&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Jan 31 |
+| **[Horizon Lane](horizonlane.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/697ed4e47f40342e15d7831f?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jan 31 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68c77ec1c96a22563ecf15ff?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Jan 31 |
 | **[Southwestern Advantage – Arizona Campus Division](https://southwesternadvantage.cc/internship?sessionId=121d86a5-eadf-43f9-92b4-4f283aa1cf9d&trigger_link=3Motsy1j5X5lVDizqJHv)** | **[Entrepreneurial Sales & Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/697ecc7cce48107c0542e38d?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Jan 31 |
 | **[immi](https://www.linkedin.com/company/110429764)** | **[Partnerships & Growth Intern (P&G Intern)](https://jobright.ai/jobs/info/697ec7407f40342e15d77a3f?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | Jan 31 |
@@ -142,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Rakuten Kobo Inc.](http://www.kobo.com)** | **[Content Sales Intern, Audiobooks and Subscriptions (12 month contract)](https://jobright.ai/jobs/info/697dda697f40342e15d6c750?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Corporate Partnerships Intern - Summer 2026](https://jobright.ai/jobs/info/697e0011abff4c399a9cc40c?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
 | **[Tom Wood Automotive](http://tomwood.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697dd61cabff4c399a9cb35c?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
+| **[Cell Signaling Technology (CST)](https://www.cellsignal.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/697ee8497f40342e15d7a7db?utm_campaign=1051&utm_source=git)** | Danvers, MA | On Site | Jan 31 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship, Store Management - Garden City, NY](https://jobright.ai/jobs/info/697dd3367f40342e15d6c39a?utm_campaign=1051&utm_source=git)** | Garden City, NY | On Site | Jan 31 |
 | **[GoTo Foods](http://www.focusbrands.com/)** | **[Customer Engagement and Loyalty Intern- Summer 2026](https://jobright.ai/jobs/info/697308a31790715e866bfa3b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
 | **[The Medical Affairs Company (TMAC)](http://www.themedicalaffairscompany.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/697ed2dbce48107c0542e6c8?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Jan 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Commercial Sales Execution - South Area](https://jobright.ai/jobs/info/697d64833f57a335696746db?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
 | ↳ | **[Internship - Commercial Sales Execution - Specialty Sales Analysis](https://jobright.ai/jobs/info/697d65c03f57a3356967487c?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
 | **[Rakuten](http://global.rakuten.com)** | **[Content Sales Intern, Audiobooks and Subscriptions (12 month contract)](https://jobright.ai/jobs/info/697d95447f40342e15d675b5?utm_campaign=1051&utm_source=git)** | Toronto, Canada | Hybrid | Jan 30 |
-| **[TE Connectivity](http://www.te.com)** | **[MBA Strategy & Business Development Intern](https://jobright.ai/jobs/info/697d8fffabff4c399a9c603d?utm_campaign=1051&utm_source=git)** | Berwyn, PA | On Site | Jan 30 |
-| **[Powell](http://www.powellind.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6961938be7ed9a5731ba6dfd?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Jan 30 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - Client Advisor Student Intern- EN](https://jobright.ai/jobs/info/6978422188e2b47213bc550d?utm_campaign=1051&utm_source=git)** | Québec, Quebec, Canada | On Site | Jan 30 |
-| **[Siemens](https://www.siemens.com)** | **[Digital Industries Automation - Sales Internship](https://jobright.ai/jobs/info/697d88df7f40342e15d65218?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
