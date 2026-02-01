@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Sales Internship Program](https://jobright.ai/jobs/info/697e7f74abff4c399a9d381a?utm_campaign=1051&utm_source=git)** | Springfield, IL | On Site | Jan 31 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/697e7cdbce48107c0542adc3?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 31 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/697e75daabff4c399a9d3475?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jan 31 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/697e69c47f40342e15d73a4b?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Jan 31 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader PT 6622](https://jobright.ai/jobs/info/697e67cbce48107c05428f60?utm_campaign=1051&utm_source=git)** | Staten Island, NY | On Site | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - CRM](https://jobright.ai/jobs/info/697d77e6727747250d5860a5?utm_campaign=1051&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Commercial Sales Execution - Specialty Sales Analysis](https://jobright.ai/jobs/info/697d7755137a051025669a47?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 30 |
 | **[San Francisco Giants](https://www.mlb.com/giants)** | **[Partnerships & Business Development Intern](https://jobright.ai/jobs/info/697d7551727747250d585e04?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
-| **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/697d73be3f57a33569675886?utm_campaign=1051&utm_source=git)** | Jurupa Valley, CA | On Site | Jan 30 |
-| **[WEX](http://www.wexinc.com)** | **[Intern - Inside Sales (OTR)](https://jobright.ai/jobs/info/697d70953f57a33569675558?utm_campaign=1051&utm_source=git)** | US - Remote | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
