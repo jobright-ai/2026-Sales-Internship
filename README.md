@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/697f237a7f40342e15d7d71d?utm_campaign=1051&utm_source=git)** | Rockford, Illinois | On Site | Feb 01 |
 | **[Triple-S Steel](Www.sss-steel.no)** | **[Sales & Operations Intern](https://jobright.ai/jobs/info/697f1d5eabff4c399a9dc194?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Feb 01 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Associate](https://jobright.ai/jobs/info/697f17087f40342e15d7cd3b?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 01 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Insurance Intern - Business Insurance (Summer 2026)](https://jobright.ai/jobs/info/692fd4acef4b48533d1491a6?utm_campaign=1051&utm_source=git)** | Leawood, KS | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Birmingham/Montgomery, AL (Starting Summer 2026)](https://jobright.ai/jobs/info/697dbd787f40342e15d6a113?utm_campaign=1051&utm_source=git)** | Alabaster, AL | On Site | Jan 31 |
 | **[Inspire Greatness Within](https://igwinc.org)** | **[Business Development Representative (BDR) Intern](https://jobright.ai/jobs/info/697db659abff4c399a9c8c70?utm_campaign=1051&utm_source=git)** | Frankfort, IL | On Site | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - CRM](https://jobright.ai/jobs/info/697daa2bce48107c0541f8ec?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
-| **[Columbia Hospitality](http://www.columbiahospitality.com)** | **[Sales & Events Intern / The SOMM Hotel & Spa](https://jobright.ai/jobs/info/697da9d1abff4c399a9c7f8d?utm_campaign=1051&utm_source=git)** | Woodinville, WA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
