@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwestern Advantage – Arizona Campus Division](https://southwesternadvantage.cc/internship?sessionId=121d86a5-eadf-43f9-92b4-4f283aa1cf9d&trigger_link=3Motsy1j5X5lVDizqJHv)** | **[Entrepreneurial Sales & Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/697ecc7cce48107c0542e38d?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Jan 31 |
+| **[immi](https://www.linkedin.com/company/110429764)** | **[Partnerships & Growth Intern (P&G Intern)](https://jobright.ai/jobs/info/697ec7407f40342e15d77a3f?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | Jan 31 |
+| **[Tokamak Energy](http://www.tokamakenergy.co.uk/)** | **[US Summer Intern](https://jobright.ai/jobs/info/697ec46ece48107c0542d887?utm_campaign=1051&utm_source=git)** | Washington Highlands, MD | Hybrid | Jan 31 |
+| **[Vanillakart](https://vanillakart.com/)** | **[business development and sales intern (unpaid)](https://jobright.ai/jobs/info/697ebd3eabff4c399a9d6212?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 31 |
+| ↳ | **[business development and sales intern (unpaid)](https://jobright.ai/jobs/info/697eba80ce48107c0542d6fb?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 31 |
+| **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/697eb98eabff4c399a9d61b3?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 31 |
 | **[John Michael Kohler Arts Center](https://jmkac.org)** | **[DEVELOPMENT Summer 2026 Internship](https://jobright.ai/jobs/info/697ea83aabff4c399a9d5658?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | Jan 31 |
 | **[Blue Ventis](blueventis.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/697e9fddabff4c399a9d3b0c?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 31 |
 | **[H15DEN](https://h15den.com)** | **[Business Development (Micro Internship)](https://jobright.ai/jobs/info/697e90197f40342e15d74afc?utm_campaign=1051&utm_source=git)** | LA Metro Area | Remote | Jan 31 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - Client Advisor Student Intern- EN](https://jobright.ai/jobs/info/6978422188e2b47213bc550d?utm_campaign=1051&utm_source=git)** | Québec, Quebec, Canada | On Site | Jan 30 |
 | **[Siemens](https://www.siemens.com)** | **[Digital Industries Automation - Sales Internship](https://jobright.ai/jobs/info/697d88df7f40342e15d65218?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jan 30 |
 | ↳ | **[SCM Procurement Business Partner Intern](https://jobright.ai/jobs/info/697d834d7f40342e15d64d30?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jan 30 |
-| **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Development & Strategy Intern](https://jobright.ai/jobs/info/6945121163141d1884549637?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | On Site | Jan 30 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - National Commercial Sales Execution](https://jobright.ai/jobs/info/697d69c9137a051025668c01?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
-| ↳ | **[Internship - National Commercial Sales Execution](https://jobright.ai/jobs/info/697d6e21727747250d5850c4?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 30 |
-| **[BridgeBio](http://bridgebio.com)** | **[Business Development and Operations Intern](https://jobright.ai/jobs/info/697d7cc43f57a3356967660c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Inventory Management](https://jobright.ai/jobs/info/697d7c653f57a3356967659f?utm_campaign=1051&utm_source=git)** | Port Washington, NY, US, 11050 | On Site | Jan 30 |
-| **[WEX](http://www.wexinc.com)** | **[Intern - Inside Sales (OTR)](https://jobright.ai/jobs/info/697d79c63f57a3356967635f?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
