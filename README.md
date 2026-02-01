@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/697f0cfeabff4c399a9db783?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Feb 01 |
+| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Sales Internship - South Central](https://jobright.ai/jobs/info/697f0773ce48107c05432941?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Jan 31 |
 | **[Appli AI](https://applisolutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697f0209abff4c399a9daca6?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
 | **[Mercadien](https://www.mercadien.com/)** | **[Lottery Internship](https://jobright.ai/jobs/info/697efd20ce48107c05431cab?utm_campaign=1051&utm_source=git)** | Hamilton, NJ | On Site | Jan 31 |
 | **[Vanillakart](https://vanillakart.com/)** | **[business development and sales intern (unpaid)](https://jobright.ai/jobs/info/697efb5f7f40342e15d7b720?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Expedia Group](https://www.expediagroup.com)** | **[Commercial Intern - 2026 - Austin](https://jobright.ai/jobs/info/697da4e9ce48107c0541f4ee?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Jan 30 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Commercial Sales Execution - South Area](https://jobright.ai/jobs/info/697d64833f57a335696746db?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
 | ↳ | **[Internship - Commercial Sales Execution - Specialty Sales Analysis](https://jobright.ai/jobs/info/697d65c03f57a3356967487c?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
-| **[Rakuten](http://global.rakuten.com)** | **[Content Sales Intern, Audiobooks and Subscriptions (12 month contract)](https://jobright.ai/jobs/info/697d95447f40342e15d675b5?utm_campaign=1051&utm_source=git)** | Toronto, Canada | Hybrid | Jan 30 |
-| **[TE Connectivity](http://www.te.com)** | **[MBA Strategy & Business Development Intern](https://jobright.ai/jobs/info/697d8fffabff4c399a9c603d?utm_campaign=1051&utm_source=git)** | Berwyn, PA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
