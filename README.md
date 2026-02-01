@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697fbe11ce48107c0543c22c?utm_campaign=1051&utm_source=git)** | Des Plaines, IL | On Site | Feb 01 |
 | **[H15DEN](https://h15den.com)** | **[Business Development - Micro-Internship](https://jobright.ai/jobs/info/697fb635ce48107c0543b0cc?utm_campaign=1051&utm_source=git)** | LA Metro Area | Remote | Feb 01 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales & Leadership Summer Internship](https://jobright.ai/jobs/info/697fb369abff4c399a9e3e92?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 01 |
 | ↳ | **[Sales and Leadership Summer Intern](https://jobright.ai/jobs/info/697fb2a1ce48107c0543afad?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Feb 01 |
@@ -134,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Tokamak Energy](http://www.tokamakenergy.co.uk/)** | **[US Summer Intern](https://jobright.ai/jobs/info/697ec46ece48107c0542d887?utm_campaign=1051&utm_source=git)** | Washington Highlands, MD | Hybrid | Jan 31 |
 | **[Vanillakart](https://vanillakart.com/)** | **[business development and sales intern (unpaid)](https://jobright.ai/jobs/info/697eba80ce48107c0542d6fb?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Blue Ventis](blueventis.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/697e9fddabff4c399a9d3b0c?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 31 |
-| **[Dynareon](dynareon.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/697e8d557f40342e15d74abe?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 31 |
 | **[Blitz Corp](www.useblitz.co)** | **[Sales Intern](https://jobright.ai/jobs/info/697e8a13abff4c399a9d394d?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 31 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Sales Internship Program](https://jobright.ai/jobs/info/697e7f74abff4c399a9d381a?utm_campaign=1051&utm_source=git)** | Springfield, IL | On Site | Jan 31 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/697e7cdbce48107c0542adc3?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 31 |
