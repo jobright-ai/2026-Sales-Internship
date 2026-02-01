@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Studio Belle](https://www.studiobelle.ca)** | **[Sales Intern – Client Experience & Booking (Leadership Track)](https://jobright.ai/jobs/info/697fa75dabff4c399a9e37e6?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Feb 01 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697fa17dce48107c0543a57e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697f98077f40342e15d841b6?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 01 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697f97e67f40342e15d841a7?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Feb 01 |
 | **[The First National Bank and Trust Company of Newtown](http://fnbn.com)** | **[Intern I](https://jobright.ai/jobs/info/697f91be7f40342e15d84107?utm_campaign=1051&utm_source=git)** | Newtown, PA | On Site | Feb 01 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Together AI](https://www.together.ai)** | **[Revenue Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/697e6106abff4c399a9d1556?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
 | **[LeFrak](http://lefrak.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/697e5c3a7f40342e15d725a5?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697e42eece48107c05427f91?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 31 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Associate(Internship)](https://jobright.ai/jobs/info/697e3420abff4c399a9d05ba?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Insurance Sales Intern](https://jobright.ai/jobs/info/697e339babff4c399a9d0598?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jan 31 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Applied Ventures Summer Intern](https://jobright.ai/jobs/info/697e2c2dce48107c0542635f?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[Vanillakart](https://vanillakart.com/)** | **[business development and sales intern (unpaid)](https://jobright.ai/jobs/info/697e24137f40342e15d6fb59?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/693bdbb04911ef04095f1576?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Jan 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d8eff3f4cd132506d575?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jan 31 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Rental Sales Intern](https://jobright.ai/jobs/info/6945d129951654073537fcca?utm_campaign=1051&utm_source=git)** | Galesburg, MI | On Site | Jan 31 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961e0d1a112b40266106364?utm_campaign=1051&utm_source=git)** | Cumming, GA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
