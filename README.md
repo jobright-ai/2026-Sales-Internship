@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/68fca9b30ab3b2224629e2f1?utm_campaign=1051&utm_source=git)** | Sartell, MN | On Site | Feb 02 |
+| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Sales - Summer 2026](https://jobright.ai/jobs/info/6980d08babff4c399a9f8cfe?utm_campaign=1051&utm_source=git)** | Muscatine, IA | Hybrid | Feb 02 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Professional Development Intern](https://jobright.ai/jobs/info/6980c0907f40342e15d98c45?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Feb 02 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer Internship - Financial Representative](https://jobright.ai/jobs/info/6980c03249964d25b5e38196?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Feb 02 |
 | **[Carmeuse](http://www.carmeuse.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6980c00749964d25b5e3817d?utm_campaign=1051&utm_source=git)** | 11 Stanwix street, Pittsburgh, PA, 15222, US | On Site | Feb 02 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern (FTL)](https://jobright.ai/jobs/info/68f08c13eb273a32d9769669?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 01 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Twin Cities)](https://jobright.ai/jobs/info/694a178c63141d188459c44a?utm_campaign=1051&utm_source=git)** | Burnsville, MN | On Site | Feb 01 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Retail Loan Operations Intern](https://jobright.ai/jobs/info/697f6a9cce48107c05438798?utm_campaign=1051&utm_source=git)** | North Liberty, Iowa | On Site | Feb 01 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Corporate Procurement Intern](https://jobright.ai/jobs/info/697f37947f40342e15d7f60e?utm_campaign=1051&utm_source=git)** | Illinois, United States | On Site | Feb 01 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Outside Sales Specialist Intern](https://jobright.ai/jobs/info/68f13826e6870116b1f54ef7?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69637b5d2cbf4e44756d3360?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 01 |
-| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Sales Development Internship (Nationwide - Summer '26)](https://jobright.ai/jobs/info/691ab48abcdbf3560c9d9d20?utm_campaign=1051&utm_source=git)** | Davidson, NC | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
