@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6980df8449964d25b5e3973f?utm_campaign=1051&utm_source=git)** | Joliet, IL | On Site | Feb 02 |
+| **[GSD&M](http://www.gsdm.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/696ebaf85fc86241853da26f?utm_campaign=1051&utm_source=git)** | Austin | Hybrid | Feb 02 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6980dde249964d25b5e396a9?utm_campaign=1051&utm_source=git)** | Loveland, CO | On Site | Feb 02 |
+| **[Veltrana Group](veltranagroup.us)** | **[Sales Internship](https://jobright.ai/jobs/info/6980dda949964d25b5e3968d?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Feb 02 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6980dc2949964d25b5e395d3?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Feb 02 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6980d9a97f40342e15d9a05a?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Feb 02 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Starting in Summer 2026](https://jobright.ai/jobs/info/68ccfd70d11b445e0bee5945?utm_campaign=1051&utm_source=git)** | Sartell, MN | On Site | Feb 02 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6980d8407f40342e15d99ec2?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Feb 02 |
+| **[Valorantum](valorantum.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6980d3c9abff4c399a9f918a?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Feb 02 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6980d3687f40342e15d99b84?utm_campaign=1051&utm_source=git)** | Temecula, CA | On Site | Feb 02 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/68fca9b30ab3b2224629e2f1?utm_campaign=1051&utm_source=git)** | Sartell, MN | On Site | Feb 02 |
-| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Sales - Summer 2026](https://jobright.ai/jobs/info/6980d08babff4c399a9f8cfe?utm_campaign=1051&utm_source=git)** | Muscatine, IA | Hybrid | Feb 02 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Professional Development Intern](https://jobright.ai/jobs/info/6980c0907f40342e15d98c45?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Feb 02 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer Internship - Financial Representative](https://jobright.ai/jobs/info/6980c03249964d25b5e38196?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Feb 02 |
 | **[Carmeuse](http://www.carmeuse.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6980c00749964d25b5e3817d?utm_campaign=1051&utm_source=git)** | 11 Stanwix street, Pittsburgh, PA, 15222, US | On Site | Feb 02 |
@@ -68,6 +77,9 @@ For a complete list, click the following sortable link below:
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development and Sales Intern (unpaid)](https://jobright.ai/jobs/info/6980bc0f49964d25b5e38042?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Feb 02 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/6980babd7f40342e15d98a30?utm_campaign=1051&utm_source=git)** | Norristown, PA | On Site | Feb 02 |
 | ↳ | **[Sales, Strategy, & Planning Internship](https://jobright.ai/jobs/info/6980ba4449964d25b5e37fa8?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Feb 02 |
+| **[Veltrana Group](veltranagroup.us)** | **[Sales Internship Pacific](https://jobright.ai/jobs/info/6980dc467f40342e15d9a36b?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Feb 02 |
+| **[Coast To Coast Logistics](https://coasttocoastlogistics.com)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/6980d80e7f40342e15d99e9a?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | On Site | Feb 02 |
+| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Bussiness development Intern](https://jobright.ai/jobs/info/6980d87849964d25b5e39345?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 02 |
 | **[SourceFuse](https://www.sourcefuse.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6980b47049964d25b5e37d5d?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 02 |
 | **[Ebara Technologies](https://www.ebaratech.com/)** | **[Sales Forecasting & Budgeting Internship (30786)](https://jobright.ai/jobs/info/6980b0bfabff4c399a9f7b91?utm_campaign=1051&utm_source=git)** | Sacramento, CA - Sacramento, CA 95838 | On Site | Feb 02 |
 | **[LifeNet Health](https://www.lifenethealth.org/)** | **[2026 Summer Internship- Purchasing (10302-202659)](https://jobright.ai/jobs/info/6980b059abff4c399a9f7b4f?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Feb 02 |
@@ -123,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Studio Belle](https://www.studiobelle.ca)** | **[Sales Intern – Client Experience & Booking (Leadership Track)](https://jobright.ai/jobs/info/697fa75dabff4c399a9e37e6?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Feb 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697f98077f40342e15d841b6?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 01 |
 | **[The First National Bank and Trust Company of Newtown](http://fnbn.com)** | **[Intern I](https://jobright.ai/jobs/info/697f91be7f40342e15d84107?utm_campaign=1051&utm_source=git)** | Newtown, PA | On Site | Feb 01 |
-| **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/697f8ea67f40342e15d840c6?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Feb 01 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/697f8831abff4c399a9e3205?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Feb 01 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/68dd7a55a125e75c422aaf2f?utm_campaign=1051&utm_source=git)** | Little Rock, Arkansas | On Site | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Homeownership Intern](https://jobright.ai/jobs/info/697f7156abff4c399a9e16b3?utm_campaign=1051&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[2026 Internship - Business Strategy and Performance Analytics](https://jobright.ai/jobs/info/68f16639e6870116b1f58674?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Feb 01 |
 | **[Honeywell](http://www.honeywell.com)** | **[Offering Management – Summer 2026 Intern](https://jobright.ai/jobs/info/6950b8f6ce13cd105658a666?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 01 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Retail Loan Operations Intern](https://jobright.ai/jobs/info/697f46177f40342e15d7fa9e?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Feb 01 |
-| **[Applied Industrial Technologies](http://www.applied.com)** | **[Intern - Customer Service & Sales](https://jobright.ai/jobs/info/689e6a8583d13d1f5b6bc26f?utm_campaign=1051&utm_source=git)** | Portage, IN | On Site | Feb 01 |
-| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Technical Sales Engineer Intern](https://jobright.ai/jobs/info/6947adca7d506e3808f2fd96?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV | On Site | Feb 01 |
-| **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68b79a9a1ade4306aa64c913?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Feb 01 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/697f44ed7f40342e15d7fa4b?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Feb 01 |
-| **[Laveer Engineering](https://laveer.ca/)** | **[Sales Operations Intern Summer 2026](https://jobright.ai/jobs/info/697f3cef7f40342e15d7f8e4?utm_campaign=1051&utm_source=git)** | Cranberry Township, PA | Hybrid | Feb 01 |
-| **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (SD)](https://jobright.ai/jobs/info/68f085d2eb273a32d97691e4?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 01 |
-| ↳ | **[Sales Intern (FTL)](https://jobright.ai/jobs/info/68f08c13eb273a32d9769669?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 01 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Twin Cities)](https://jobright.ai/jobs/info/694a178c63141d188459c44a?utm_campaign=1051&utm_source=git)** | Burnsville, MN | On Site | Feb 01 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Retail Loan Operations Intern](https://jobright.ai/jobs/info/697f6a9cce48107c05438798?utm_campaign=1051&utm_source=git)** | North Liberty, Iowa | On Site | Feb 01 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Outside Sales Specialist Intern](https://jobright.ai/jobs/info/68f13826e6870116b1f54ef7?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 01 |
-| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69637b5d2cbf4e44756d3360?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
