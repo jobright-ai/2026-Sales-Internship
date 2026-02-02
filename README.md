@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uber](http://www.uber.com)** | **[2026 Account Management Intern, Chile](https://jobright.ai/jobs/info/697ffe79ce48107c054429ba?utm_campaign=1051&utm_source=git)** | CL-Santiago | Hybrid | Feb 01 |
+| **[Blue Ventis](blueventis.us)** | **[Sales Internship](https://jobright.ai/jobs/info/697feddf7f40342e15d8a4f8?utm_campaign=1051&utm_source=git)** | Ventura County, CA | Remote | Feb 01 |
 | **[Harbor Marketing Agency](https://www.harbormarketingagency.com/)** | **[Appointment Setting Intern](https://jobright.ai/jobs/info/697fe9c0abff4c399a9e9327?utm_campaign=1051&utm_source=git)** | Towson, MD | Hybrid | Feb 01 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697fe468ce48107c0543fefc?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Feb 01 |
 | **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697fe0f97f40342e15d89607?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 01 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/697fd812abff4c399a9e8433?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 01 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697fbe11ce48107c0543c22c?utm_campaign=1051&utm_source=git)** | Des Plaines, IL | On Site | Feb 01 |
-| **[H15DEN](https://h15den.com)** | **[Business Development - Micro-Internship](https://jobright.ai/jobs/info/697fb635ce48107c0543b0cc?utm_campaign=1051&utm_source=git)** | LA Metro Area | Remote | Feb 01 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales & Leadership Summer Internship](https://jobright.ai/jobs/info/697fb369abff4c399a9e3e92?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 01 |
+| ↳ | **[Sales & Leadership Summer Internship](https://jobright.ai/jobs/info/697fb369abff4c399a9e3e92?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 01 |
 | ↳ | **[Sales and Leadership Summer Intern](https://jobright.ai/jobs/info/697fb2a1ce48107c0543afad?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Feb 01 |
 | ↳ | **[Sales and Leadership Summer Intern](https://jobright.ai/jobs/info/697faefbce48107c0543aead?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Feb 01 |
 | **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Buyer (Business Administration, Finance, Supply Chain Management)](https://jobright.ai/jobs/info/697fade8abff4c399a9e3c95?utm_campaign=1051&utm_source=git)** | Aiken, SC | On Site | Feb 01 |
@@ -120,8 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Sales Development Internship (Nationwide - Summer '26)](https://jobright.ai/jobs/info/691ab48abcdbf3560c9d9d20?utm_campaign=1051&utm_source=git)** | Davidson, NC | On Site | Feb 01 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2023 Summer Intern - Sales](https://jobright.ai/jobs/info/67c7908b684906ab34c54a32?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Feb 01 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/695c500022c9dc0d3d5440ff?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Feb 01 |
-| **[Opus IVS - US](https://www.opusivs.com)** | **[Product Success Intern](https://jobright.ai/jobs/info/697f2a61ce48107c05434c23?utm_campaign=1051&utm_source=git)** | Dexter, MI | On Site | Feb 01 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/68c9cc8e95f5211cd2cf4719?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 01 |
+| ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/68c9cc8e95f5211cd2cf4719?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 01 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/697f237a7f40342e15d7d71d?utm_campaign=1051&utm_source=git)** | Rockford, Illinois | On Site | Feb 01 |
 | **[Triple-S Steel](Www.sss-steel.no)** | **[Sales & Operations Intern](https://jobright.ai/jobs/info/697f1d5eabff4c399a9dc194?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Feb 01 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Insurance Intern - Business Insurance (Summer 2026)](https://jobright.ai/jobs/info/692fd4acef4b48533d1491a6?utm_campaign=1051&utm_source=git)** | Leawood, KS | On Site | Feb 01 |
