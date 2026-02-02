@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Assistant Buyer Intern - Los Angeles](https://jobright.ai/jobs/info/689e87cafaa4e875e827d79a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 02 |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68ca3750f61c922772a750f1?utm_campaign=1051&utm_source=git)** | Ethan, SD | On Site | Feb 02 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6fd41d3fe025a3015d9e3?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 02 |
+| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d70cafd3fe025a3015e875?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 02 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Sales, Specialty Retail, e.l.f & Naturium](https://jobright.ai/jobs/info/69700cb282817106e97728e3?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d7067cd3fe025a3015e352?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
+| **[EnerMech](https://www.enermech.com/)** | **[Corporate Development Internship](https://jobright.ai/jobs/info/69780b6a52f3c27ec6443e59?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 02 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d70292894705799a2efc55?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 02 |
+| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6fde1894705799a2ef640?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Feb 02 |
+| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6ffa445853d0e39ccbcef?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Feb 02 |
+| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d700d7894705799a2ef983?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Feb 02 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Sales Internship Program](https://jobright.ai/jobs/info/6980788a7f40342e15d94d3d?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 02 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[After Sales and Client Services Intern (2025 Semester 1) - Generation H](https://jobright.ai/jobs/info/6980772149964d25b5e3432a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[Dynareon](dynareon.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/698075247f40342e15d94c75?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Feb 02 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Sales Enablement Summer 2026 Internship - Parsippany, Holmdel, New York](https://jobright.ai/jobs/info/695c4c0622c9dc0d3d543604?utm_campaign=1051&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Jan 31 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68c77ec1c96a22563ecf15ff?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Jan 31 |
 | **[Southwestern Advantage – Arizona Campus Division](https://southwesternadvantage.cc/internship?sessionId=121d86a5-eadf-43f9-92b4-4f283aa1cf9d&trigger_link=3Motsy1j5X5lVDizqJHv)** | **[Entrepreneurial Sales & Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/697ecc7cce48107c0542e38d?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Jan 31 |
-| **[immi](https://www.linkedin.com/company/110429764)** | **[Partnerships & Growth Intern (P&G Intern)](https://jobright.ai/jobs/info/697ec7407f40342e15d77a3f?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | Jan 31 |
-| **[Tokamak Energy](http://www.tokamakenergy.co.uk/)** | **[US Summer Intern](https://jobright.ai/jobs/info/697ec46ece48107c0542d887?utm_campaign=1051&utm_source=git)** | Washington Highlands, MD | Hybrid | Jan 31 |
-| **[Vanillakart](https://vanillakart.com/)** | **[business development and sales intern (unpaid)](https://jobright.ai/jobs/info/697eba80ce48107c0542d6fb?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 31 |
-| **[Blue Ventis](blueventis.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/697e9fddabff4c399a9d3b0c?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Jan 31 |
-| **[Blitz Corp](www.useblitz.co)** | **[Sales Intern](https://jobright.ai/jobs/info/697e8a13abff4c399a9d394d?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jan 31 |
-| **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Miami Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698036baabff4c399a9efb04?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 31 |
-| ↳ | **[Tampa Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698037457f40342e15d908d0?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 31 |
-| **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Sales Internship Program](https://jobright.ai/jobs/info/697e7f74abff4c399a9d381a?utm_campaign=1051&utm_source=git)** | Springfield, IL | On Site | Jan 31 |
-| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/697e7cdbce48107c0542adc3?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 31 |
-| **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/697e75daabff4c399a9d3475?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jan 31 |
-| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/697e69c47f40342e15d73a4b?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
