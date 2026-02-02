@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69804154abff4c399a9f0386?utm_campaign=1051&utm_source=git)** | Des Plaines, IL | On Site | Feb 01 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69803df8abff4c399a9f0304?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 01 |
+| **[Nasdaq](https://www.nasdaq.com)** | **[Vendor Management & Strategic Partnership Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/69803cd5ce48107c0544722f?utm_campaign=1051&utm_source=git)** | USA - New York City - New York | Hybrid | Feb 01 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Business Development Intern Summer 2026](https://jobright.ai/jobs/info/68d623a4ebcef82ef5cf67eb?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Feb 01 |
 | **[Uber](http://www.uber.com)** | **[2026 Account Management Intern, Chile](https://jobright.ai/jobs/info/697ffe79ce48107c054429ba?utm_campaign=1051&utm_source=git)** | CL-Santiago | Hybrid | Feb 01 |
 | **[Blue Ventis](blueventis.us)** | **[Sales Internship](https://jobright.ai/jobs/info/697feddf7f40342e15d8a4f8?utm_campaign=1051&utm_source=git)** | Ventura County, CA | Remote | Feb 01 |
@@ -64,13 +67,11 @@ For a complete list, click the following sortable link below:
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697fe468ce48107c0543fefc?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Feb 01 |
 | **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697fe0f97f40342e15d89607?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 01 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/697fd812abff4c399a9e8433?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 01 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697fbe11ce48107c0543c22c?utm_campaign=1051&utm_source=git)** | Des Plaines, IL | On Site | Feb 01 |
-| ↳ | **[Sales & Leadership Summer Internship](https://jobright.ai/jobs/info/697fb369abff4c399a9e3e92?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 01 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales & Leadership Summer Internship](https://jobright.ai/jobs/info/697fb369abff4c399a9e3e92?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 01 |
 | ↳ | **[Sales and Leadership Summer Intern](https://jobright.ai/jobs/info/697fb2a1ce48107c0543afad?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Feb 01 |
 | ↳ | **[Sales and Leadership Summer Intern](https://jobright.ai/jobs/info/697faefbce48107c0543aead?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Feb 01 |
 | **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Buyer (Business Administration, Finance, Supply Chain Management)](https://jobright.ai/jobs/info/697fade8abff4c399a9e3c95?utm_campaign=1051&utm_source=git)** | Aiken, SC | On Site | Feb 01 |
 | **[Studio Belle](https://www.studiobelle.ca)** | **[Sales Intern – Client Experience & Booking (Leadership Track)](https://jobright.ai/jobs/info/697fa75dabff4c399a9e37e6?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Feb 01 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697fa17dce48107c0543a57e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697f98077f40342e15d841b6?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 01 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697f97e67f40342e15d841a7?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Feb 01 |
 | **[The First National Bank and Trust Company of Newtown](http://fnbn.com)** | **[Intern I](https://jobright.ai/jobs/info/697f91be7f40342e15d84107?utm_campaign=1051&utm_source=git)** | Newtown, PA | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/697e1503abff4c399a9ce375?utm_campaign=1051&utm_source=git)** | Hayward, CA | On Site | Jan 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed20a46e5b153e5a60502?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jan 31 |
 | **[MongoDB](https://www.mongodb.com/)** | **[Sales Development Intern - Summer 2026](https://jobright.ai/jobs/info/6961b6b4e7ed9a5731ba8aaa?utm_campaign=1051&utm_source=git)** | Austin, CO | On Site | Jan 31 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961e41ea112b40266106487?utm_campaign=1051&utm_source=git)** | Winder, GA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
