@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harbor Marketing Agency](https://www.harbormarketingagency.com/)** | **[Appointment Setting Intern](https://jobright.ai/jobs/info/697fe9c0abff4c399a9e9327?utm_campaign=1051&utm_source=git)** | Towson, MD | Hybrid | Feb 01 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/697fe468ce48107c0543fefc?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Feb 01 |
 | **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697fe0f97f40342e15d89607?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 01 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/697fd812abff4c399a9e8433?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MongoDB](https://www.mongodb.com/)** | **[Sales Development Intern - Summer 2026](https://jobright.ai/jobs/info/6961b6b4e7ed9a5731ba8aaa?utm_campaign=1051&utm_source=git)** | Austin, CO | On Site | Jan 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961e41ea112b40266106487?utm_campaign=1051&utm_source=git)** | Winder, GA | On Site | Jan 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed30bd078b81ad160fbbd?utm_campaign=1051&utm_source=git)** | Westborough, MA | On Site | Jan 31 |
-| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed410e0db92422580bd5d?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
