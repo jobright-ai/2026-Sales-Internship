@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Sales Internship Program](https://jobright.ai/jobs/info/6980788a7f40342e15d94d3d?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 02 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[After Sales and Client Services Intern (2025 Semester 1) - Generation H](https://jobright.ai/jobs/info/6980772149964d25b5e3432a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 02 |
+| **[Dynareon](dynareon.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/698075247f40342e15d94c75?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Feb 02 |
 | **[Triple-S Steel](Www.sss-steel.no)** | **[Sales & Operations Intern](https://jobright.ai/jobs/info/69806c4749964d25b5e336a6?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Feb 02 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Vendor Management & Strategic Partnership Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/69806648abff4c399a9f2d8f?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Feb 02 |
 | **[Six Flags](https://www.sixflags.com)** | **[Food & Beverage Procurement Internship- $19/HR](https://jobright.ai/jobs/info/69806315abff4c399a9f2c13?utm_campaign=1051&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/697e7cdbce48107c0542adc3?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 31 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/697e75daabff4c399a9d3475?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jan 31 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/697e69c47f40342e15d73a4b?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Jan 31 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader PT 6622](https://jobright.ai/jobs/info/697e67cbce48107c05428f60?utm_campaign=1051&utm_source=git)** | Staten Island, NY | On Site | Jan 31 |
-| **[LeFrak](http://lefrak.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/697e5c3a7f40342e15d725a5?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
-| **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Las Vegas Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/697fde267f40342e15d89572?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
