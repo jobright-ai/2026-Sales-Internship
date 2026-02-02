@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rocket Lab](https://rocketlabcorp.com)** | **[Business Development Intern Summer 2026](https://jobright.ai/jobs/info/68d623a4ebcef82ef5cf67eb?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Feb 01 |
 | **[Uber](http://www.uber.com)** | **[2026 Account Management Intern, Chile](https://jobright.ai/jobs/info/697ffe79ce48107c054429ba?utm_campaign=1051&utm_source=git)** | CL-Santiago | Hybrid | Feb 01 |
 | **[Blue Ventis](blueventis.us)** | **[Sales Internship](https://jobright.ai/jobs/info/697feddf7f40342e15d8a4f8?utm_campaign=1051&utm_source=git)** | Ventura County, CA | Remote | Feb 01 |
 | **[Harbor Marketing Agency](https://www.harbormarketingagency.com/)** | **[Appointment Setting Intern](https://jobright.ai/jobs/info/697fe9c0abff4c399a9e9327?utm_campaign=1051&utm_source=git)** | Towson, MD | Hybrid | Feb 01 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Together AI](https://www.together.ai)** | **[Revenue Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/697e6106abff4c399a9d1556?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
 | **[LeFrak](http://lefrak.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/697e5c3a7f40342e15d725a5?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Las Vegas Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/697fde267f40342e15d89572?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Jan 31 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/697e42eece48107c05427f91?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 31 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Insurance Sales Intern](https://jobright.ai/jobs/info/697e339babff4c399a9d0598?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jan 31 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Applied Ventures Summer Intern](https://jobright.ai/jobs/info/697e2c2dce48107c0542635f?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[Vanillakart](https://vanillakart.com/)** | **[business development and sales intern (unpaid)](https://jobright.ai/jobs/info/697e24137f40342e15d6fb59?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
