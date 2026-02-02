@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Triple-S Steel](Www.sss-steel.no)** | **[Sales & Operations Intern](https://jobright.ai/jobs/info/69806c4749964d25b5e336a6?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Feb 02 |
+| **[Nasdaq](https://www.nasdaq.com)** | **[Vendor Management & Strategic Partnership Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/69806648abff4c399a9f2d8f?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Feb 02 |
+| **[Six Flags](https://www.sixflags.com)** | **[Food & Beverage Procurement Internship- $19/HR](https://jobright.ai/jobs/info/69806315abff4c399a9f2c13?utm_campaign=1051&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
+| **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/69806077ce48107c05449432?utm_campaign=1051&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
 | **[Dynatrace](https://www.dynatrace.com)** | **[Sales Enablement Intern - Solutions Engineering](https://jobright.ai/jobs/info/6980597dabff4c399a9f1b52?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Feb 01 |
 | ↳ | **[Sales Enablement Intern - Field Sales](https://jobright.ai/jobs/info/698058597f40342e15d92510?utm_campaign=1051&utm_source=git)** | Boston, KY | Hybrid | Feb 01 |
 | **[Blue Ventis](blueventis.us)** | **[Sales Internship-Pacific](https://jobright.ai/jobs/info/69804c0a7f40342e15d91dae?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Feb 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader PT 6622](https://jobright.ai/jobs/info/697e67cbce48107c05428f60?utm_campaign=1051&utm_source=git)** | Staten Island, NY | On Site | Jan 31 |
 | **[LeFrak](http://lefrak.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/697e5c3a7f40342e15d725a5?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Las Vegas Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/697fde267f40342e15d89572?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Jan 31 |
-| **[Elevare Consulting](elevareconsulting.us)** | **[Insurance Sales Intern](https://jobright.ai/jobs/info/697e339babff4c399a9d0598?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jan 31 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Applied Ventures Summer Intern](https://jobright.ai/jobs/info/697e2c2dce48107c0542635f?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
-| **[Vanillakart](https://vanillakart.com/)** | **[business development and sales intern (unpaid)](https://jobright.ai/jobs/info/697e24137f40342e15d6fb59?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Towerstone Intern - Summer 2026](https://jobright.ai/jobs/info/692f72cafa28370be26aa337?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
