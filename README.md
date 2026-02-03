@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Austin Parks Foundation](https://austinparks.org)** | **[Development Intern](https://jobright.ai/jobs/info/698164a8abff4c399aa05c73?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Feb 02 |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Core Publishing Solutions Business Development Intern – Summer 2026](https://jobright.ai/jobs/info/698162f77f40342e15da660a?utm_campaign=1051&utm_source=git)** | Eagan, MN | On Site | Feb 02 |
+| **[Steadily Insurance Company](https://www.steadily.com)** | **[Internship Accelerator Program](https://jobright.ai/jobs/info/6981610349964d25b5e455aa?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Feb 02 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69815e09abff4c399aa054f7?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
+| **[Appli AI](https://applisolutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69815a9fabff4c399aa0515f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
+| **[ServiceTrade](http://servicetrade.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/696536d8a112b4026613119c?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern - Corporate Partnerships, Professional Bull Riders](https://jobright.ai/jobs/info/6981595549964d25b5e44d59?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Feb 02 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Strategy and Business Development](https://jobright.ai/jobs/info/6981582a49964d25b5e44bed?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | Feb 02 |
+| **[Ottawa Senators Hockey Club](http://senators.nhl.com)** | **[Ticket Sale & Services Intern (Fall 2026/Winter 2027)](https://jobright.ai/jobs/info/6981581749964d25b5e44bd3?utm_campaign=1051&utm_source=git)** | Kanata, Ontario, Canada | On Site | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern - Global Partnerships Intern, UFC](https://jobright.ai/jobs/info/698157b57f40342e15da5a43?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/695c3ab222c9dc0d3d54195c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 02 |
 | **[SAS](http://www.sas.com)** | **[Sales Operations Intern (Year-Round)](https://jobright.ai/jobs/info/698156c67f40342e15da5934?utm_campaign=1051&utm_source=git)** | North Carolina | Hybrid | Feb 02 |
 | **[Five-S Group](https://www.fsgrp.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/698155a07f40342e15da57ef?utm_campaign=1051&utm_source=git)** | Baton Rouge,LA,US | On Site | Feb 02 |
@@ -71,9 +81,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Large Group Sales](https://jobright.ai/jobs/info/6981411849964d25b5e424c4?utm_campaign=1051&utm_source=git)** | Eagan, MN | Hybrid | Feb 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6965826e5ad3a93f8230cadc?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Feb 02 |
 | ↳ | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/696579cc5ad3a93f8230bf91?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Feb 02 |
+| **[Dexter & Company](https://dextercompany.com)** | **[Insurance Agency Intern](https://jobright.ai/jobs/info/69816423abff4c399aa05bc2?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Feb 02 |
+| **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/69656744a112b402661344d3?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 02 |
+| **[SAS](http://www.sas.com)** | **[Sales Operations Intern (Year-Round)](https://jobright.ai/jobs/info/69815e3aabff4c399aa0552d?utm_campaign=1051&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Core Publishing Solutions Business Development Intern – Summer 2026](https://jobright.ai/jobs/info/69815c25abff4c399aa052f6?utm_campaign=1051&utm_source=git)** | United States of America, Eagan, Minnesota | On Site | Feb 02 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - HVAC Sales](https://jobright.ai/jobs/info/69816047abff4c399aa0575f?utm_campaign=1051&utm_source=git)** | Onsite | On Site | Feb 02 |
+| ↳ | **[Intern - HVAC Sales](https://jobright.ai/jobs/info/6981583b49964d25b5e44c02?utm_campaign=1051&utm_source=git)** | Irvine, CA, US | On Site | Feb 02 |
+| **[SAS](http://www.sas.com)** | **[Sales Operations Intern (Year-Round)](https://jobright.ai/jobs/info/6981583dabff4c399aa04f35?utm_campaign=1051&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69813b1b7f40342e15da2e66?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Feb 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69813a7b49964d25b5e41f8d?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Feb 02 |
 | **[CoreVista Strategies](corevistastrategies.us)** | **[Trading Associate](https://jobright.ai/jobs/info/698139997f40342e15da2c32?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
+| **[Matriosh](Matriosh.com)** | **[Founder Office Intern](https://jobright.ai/jobs/info/698159b07f40342e15da5c42?utm_campaign=1051&utm_source=git)** | Menlo Park, CA | On Site | Feb 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/696578ad5ad3a93f8230bdfb?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Feb 02 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/698137b17f40342e15da2937?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6981379849964d25b5e41b28?utm_campaign=1051&utm_source=git)** | Humble, TX | On Site | Feb 02 |
@@ -139,22 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Goosehead Insurance](https://www.goosehead.com)** | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/698123ebabff4c399a9ff919?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Feb 02 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales & Leadership Intern](https://jobright.ai/jobs/info/698125f9abff4c399a9ffb0c?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Feb 02 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 E-Commerce Intern](https://jobright.ai/jobs/info/69810724abff4c399a9fd612?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Feb 02 |
-| **[Carta](https://carta.com/)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6981262749964d25b5e3f5c1?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 02 |
-| **[Swagelok Minnesota | North Dakota | Appleton](https://minn.swagelok.com)** | **[Sales Engineer Intern (For Summer 2026)](https://jobright.ai/jobs/info/69810604abff4c399a9fd4b5?utm_campaign=1051&utm_source=git)** | Chaska,MN,US | On Site | Feb 02 |
-| **[Crayola](http://www.crayola.com/)** | **[Global Consumer and Customer Leadership Intern](https://jobright.ai/jobs/info/698103217f40342e15d9dc9c?utm_campaign=1051&utm_source=git)** | Easton, Pennsylvania, United States | Hybrid | Feb 02 |
-| **[SAS](http://www.sas.com)** | **[Account Manager Intern (Year-Round)](https://jobright.ai/jobs/info/698102f0abff4c399a9fd14a?utm_campaign=1051&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
-| ↳ | **[Summer 2026 - Pricing Intern](https://jobright.ai/jobs/info/698102c57f40342e15d9dc17?utm_campaign=1051&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
-| **[Miami HEAT](http://HEAT.com)** | **[Corporate Partnerships Intern - Summer 2026](https://jobright.ai/jobs/info/6980fe23abff4c399a9fcc0b?utm_campaign=1051&utm_source=git)** | Miami, Florida, United States | On Site | Feb 02 |
-| **[Construction Specialties](https://www.c-sgroup.com/)** | **[Sales Training Intern](https://jobright.ai/jobs/info/697d5ce3137a051025667cbe?utm_campaign=1051&utm_source=git)** | Lebanon, NJ | On Site | Feb 02 |
-| **[Carmeuse](http://www.carmeuse.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6980fe09abff4c399a9fcbf3?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Feb 02 |
-| **[Island](https://island.io/)** | **[Sales Intern](https://jobright.ai/jobs/info/6980fe057f40342e15d9d5e2?utm_campaign=1051&utm_source=git)** | TX, Coppell, US | On Site | Feb 02 |
-| **[LifeNet Health](https://www.lifenethealth.org/)** | **[2026 Summer Internship- Purchasing](https://jobright.ai/jobs/info/6980fdbb7f40342e15d9d57d?utm_campaign=1051&utm_source=git)** | Virginia Beach, Virginia | On Site | Feb 02 |
-| **[Greysteel](https://www.greysteel.com/)** | **[CRE Sales Intern (Summer)](https://jobright.ai/jobs/info/6980fc6049964d25b5e3c7ba?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Feb 02 |
-| **[Faurecia](https://www.forvia.com)** | **[Year-Round Sales Intern](https://jobright.ai/jobs/info/6980fbf87f40342e15d9d351?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Feb 02 |
-| **[SAS](http://www.sas.com)** | **[Account Manager Intern (Year-Round)](https://jobright.ai/jobs/info/6980fb2749964d25b5e3c666?utm_campaign=1051&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
-| ↳ | **[Summer 2026 - Pricing Intern](https://jobright.ai/jobs/info/6980fad949964d25b5e3c61a?utm_campaign=1051&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
-| **[Crayola](http://www.crayola.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6980fa9949964d25b5e3c5c8?utm_campaign=1051&utm_source=git)** | Easton, Pennsylvania, United States | Hybrid | Feb 02 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Pricing Intern](https://jobright.ai/jobs/info/6980fa3a49964d25b5e3c571?utm_campaign=1051&utm_source=git)** | North Carolina | Hybrid | Feb 02 |
-| **[Crayola](http://www.crayola.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/6980fa0249964d25b5e3c532?utm_campaign=1051&utm_source=git)** | Easton, Pennsylvania, United States | Hybrid | Feb 02 |
-| **[NXP Semiconductors](https://www.nxp.com)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/6980f9cc49964d25b5e3c4f3?utm_campaign=1051&utm_source=git)** | Austin (Oakhill, Office) | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
