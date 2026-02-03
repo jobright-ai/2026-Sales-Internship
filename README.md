@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern- Capacity Portfolio Representative - Starting in Summer 2026](https://jobright.ai/jobs/info/696b9648350cf4380312ee82?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
+| **[ADT](http://www.adt.com)** | **[Corporate Partnership Intern](https://jobright.ai/jobs/info/6982182fc3101f1400c3bf89?utm_campaign=1051&utm_source=git)** | 1501 Yamato Road, Boca Raton, FL, 33431, US | Hybrid | Feb 03 |
+| **[Teamtalks.work](https://www.teamtalks.work)** | **[MBA Intern– Investor Intelligence & Capital Strategy](https://jobright.ai/jobs/info/6982150cc3101f1400c3bd95?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Feb 03 |
+| **[Intesa Sanpaolo](https://www.intesasanpaolo.com/)** | **[IMI CIB_Assistant RM Internship](https://jobright.ai/jobs/info/698212fca314e76369056feb?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Feb 03 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Sales Master's Intern](https://jobright.ai/jobs/info/698211e9a314e76369056f3f?utm_campaign=1051&utm_source=git)** | Pasadena, CA | Hybrid | Feb 03 |
 | **[Alro Steel](http://www.alro.com)** | **[Internship](https://jobright.ai/jobs/info/69821135c3101f1400c3baf6?utm_campaign=1051&utm_source=git)** | Bolingbrook, IL | On Site | Feb 03 |
 | **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Sales Operations (f/m/d)](https://jobright.ai/jobs/info/69820fdc0f6f7e7a2cdb335c?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Feb 03 |
@@ -64,12 +68,15 @@ For a complete list, click the following sortable link below:
 | **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cb7910efdec76df36bd277?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Feb 03 |
 | **[Combined, a Chubb Benefits Company](http://www.combinedinsurance.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/697467f7206da320f49ea98f?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | Hybrid | Feb 03 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68c77ec1c96a22563ecf15ff?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Feb 03 |
+| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/694973477d506e3808f48f98?utm_campaign=1051&utm_source=git)** | Lincoln, RI | On Site | Feb 03 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Graduate Intern Summer 2026 - Industry & Sales](https://jobright.ai/jobs/info/6949fd8a7d506e3808f510d7?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Feb 03 |
 | **[Echo Global Logistics](https://www.echo.com)** | **[Client Sales Intern - Detroit](https://jobright.ai/jobs/info/696620a45ad3a93f82318795?utm_campaign=1051&utm_source=git)** | Troy, MI | Hybrid | Feb 03 |
 | **[Mercadien](https://www.mercadien.com/)** | **[Lottery Internship](https://jobright.ai/jobs/info/6981f4eec3101f1400c3961e?utm_campaign=1051&utm_source=git)** | Hamilton, NJ | On Site | Feb 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Commercial Sales Execution - Specialty Sales Analysis](https://jobright.ai/jobs/info/6981f3d4a314e76369054881?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Feb 03 |
+| **[Outdoor Storage Hub, LLC](www.outdoorstoragehub.com)** | **[Paid University Intern — Real Estate (Florida Focus)](https://jobright.ai/jobs/info/698219e6c3101f1400c3c0cc?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Feb 03 |
 | **[STMicroelectronics](https://www.st.com)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/694a3df13019f50a4fe56789?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Feb 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Commercial Sales Execution - South Area](https://jobright.ai/jobs/info/6981f0c4a314e7636905474a?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Feb 03 |
+| **[CN](http://www.cn.ca)** | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/6982154a0f6f7e7a2cdb358a?utm_campaign=1051&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 03 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6981f0380f6f7e7a2cdb0b6f?utm_campaign=1051&utm_source=git)** | Cape Breton, Nova Scotia, Canada | On Site | Feb 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - National Commercial Sales Execution](https://jobright.ai/jobs/info/6981f002a314e763690546f7?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Feb 03 |
 | ↳ | **[Internship - Commercial Sales Execution - West Area](https://jobright.ai/jobs/info/6981eec3a314e76369054673?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Feb 03 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69815e09abff4c399aa054f7?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[Appli AI](https://applisolutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69815a9fabff4c399aa0515f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
 | **[ServiceTrade](http://servicetrade.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/696536d8a112b4026613119c?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Feb 02 |
-| **[TKO](https://tkogrp.com)** | **[Intern - Corporate Partnerships, Professional Bull Riders](https://jobright.ai/jobs/info/6981595549964d25b5e44d59?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Feb 02 |
-| **[James Hardie](https://www.jameshardie.com)** | **[Inside Sales Intern - Chicago, IL -AZEK](https://jobright.ai/jobs/info/698175877f40342e15da8026?utm_campaign=1051&utm_source=git)** | Chicago, IL, US, 60601 | On Site | Feb 02 |
-| **[Ottawa Senators Hockey Club](http://senators.nhl.com)** | **[Ticket Sale & Services Intern (Fall 2026/Winter 2027)](https://jobright.ai/jobs/info/6981581749964d25b5e44bd3?utm_campaign=1051&utm_source=git)** | Kanata, Ontario, Canada | On Site | Feb 02 |
-| **[TKO](https://tkogrp.com)** | **[Intern - Global Partnerships Intern, UFC](https://jobright.ai/jobs/info/698157b57f40342e15da5a43?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
-| **[SAS](http://www.sas.com)** | **[Sales Operations Intern (Year-Round)](https://jobright.ai/jobs/info/698156c67f40342e15da5934?utm_campaign=1051&utm_source=git)** | North Carolina | Hybrid | Feb 02 |
-| **[Alts](https://www.alterationspecialists.com)** | **[Sales & Stylist Internship - NYC & Los Angeles](https://jobright.ai/jobs/info/69818903abff4c399aa0a9e5?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
-| **[Carta](https://carta.com/)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/698152a57f40342e15da554e?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
