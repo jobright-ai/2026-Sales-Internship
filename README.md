@@ -57,13 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[LiveTrends Design Group](http://livetrendsdesign.com/)** | **[Sales Intern Admin](https://jobright.ai/jobs/info/6981c1c449964d25b5e4d4a4?utm_campaign=1051&utm_source=git)** | Apopka, FL | On Site | Feb 03 |
+| **[New York Power Authority](http://www.nypa.gov)** | **[Key Accounts, Developmental Intern](https://jobright.ai/jobs/info/694a09eac6f0e2546ceefa58?utm_campaign=1051&utm_source=git)** | Albany, NY | On Site | Feb 03 |
+| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/694974ebd1953b5d11c26ead?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Feb 03 |
+| **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/694a01df7d506e3808f51df3?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 03 |
+| **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6981dd48a314e76369053dfd?utm_campaign=1051&utm_source=git)** | Allentown, PA | Remote | Feb 03 |
+| **[Belk](http://www.belk.com)** | **[Spring Intern: Sewing Down South Pop-Up Shop / Charleston, SC](https://jobright.ai/jobs/info/6981db0a0f6f7e7a2cdb01cc?utm_campaign=1051&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Feb 03 |
+| **[Thélios](https://thelios.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6965dd4e2cbf4e44756f9627?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 03 |
+| **[Pliant](https://www.getpliant.com)** | **[Revenue Operations Intern (m/f/d) - US](https://jobright.ai/jobs/info/6981c8fe49964d25b5e4e1b6?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 03 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Strategy and Partnerships Intern](https://jobright.ai/jobs/info/696578cd2cbf4e44756f0a25?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Feb 03 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[2026 AWS Associate Customer Acquisition Rep Intern](https://jobright.ai/jobs/info/6965bdc92cbf4e44756f6986?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 03 |
 | **[Red Hat](http://www.redhat.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69656d3e6d52670c5c3e4870?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Feb 03 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist](https://jobright.ai/jobs/info/6981b1d07f40342e15dacf24?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Feb 03 |
 | ↳ | **[Intern - Associate Portfolio Executive](https://jobright.ai/jobs/info/6981b0a7abff4c399aa0c66e?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Feb 03 |
 | **[FanDuel](http://www.fanduel.com)** | **[CRM Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6981aa34abff4c399aa0c1b3?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Intern - Security Sales - Lenexa, KS](https://jobright.ai/jobs/info/6965cd79a112b4026613d693?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Feb 02 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Inside Sales Intern - Chicago, IL -AZEK](https://jobright.ai/jobs/info/6981a23249964d25b5e4b60c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69819fa349964d25b5e4b3eb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Feb 02 |
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69819e267f40342e15dac09c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
@@ -90,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Strategy and Business Development](https://jobright.ai/jobs/info/6981582a49964d25b5e44bed?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | Feb 02 |
 | **[Red Hat](http://www.redhat.com)** | **[Services Portfolio Intern](https://jobright.ai/jobs/info/696582775ad3a93f8230cae2?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Feb 02 |
 | **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Sales Intern, Summer 2026](https://jobright.ai/jobs/info/6981923c7f40342e15dab9cb?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Feb 02 |
-| **[Orange Capital Ventures](https://www.linkedin.com/company/107468644)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69818f1649964d25b5e4a926?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Feb 02 |
 | **[Ultimate Fighting Championship](http://UFC.com)** | **[Intern - Global Partnerships Intern, UFC](https://jobright.ai/jobs/info/69816b5babff4c399aa06ab2?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
 | **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[Internship, Merchandise Planning](https://jobright.ai/jobs/info/6981668549964d25b5e45c1f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6981667849964d25b5e45c0f?utm_campaign=1051&utm_source=git)** | Elk Grove, IL | On Site | Feb 02 |
@@ -106,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[James Hardie](https://www.jameshardie.com)** | **[Inside Sales Intern - Chicago, IL -AZEK](https://jobright.ai/jobs/info/698175877f40342e15da8026?utm_campaign=1051&utm_source=git)** | Chicago, IL, US, 60601 | On Site | Feb 02 |
 | **[Ottawa Senators Hockey Club](http://senators.nhl.com)** | **[Ticket Sale & Services Intern (Fall 2026/Winter 2027)](https://jobright.ai/jobs/info/6981581749964d25b5e44bd3?utm_campaign=1051&utm_source=git)** | Kanata, Ontario, Canada | On Site | Feb 02 |
 | **[TKO](https://tkogrp.com)** | **[Intern - Global Partnerships Intern, UFC](https://jobright.ai/jobs/info/698157b57f40342e15da5a43?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
-| **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/695c3ab222c9dc0d3d54195c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 02 |
 | **[SAS](http://www.sas.com)** | **[Sales Operations Intern (Year-Round)](https://jobright.ai/jobs/info/698156c67f40342e15da5934?utm_campaign=1051&utm_source=git)** | North Carolina | Hybrid | Feb 02 |
 | **[Five-S Group](https://www.fsgrp.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/698155a07f40342e15da57ef?utm_campaign=1051&utm_source=git)** | Baton Rouge,LA,US | On Site | Feb 02 |
 | **[Alts](https://www.alterationspecialists.com)** | **[Sales & Stylist Internship - NYC & Los Angeles](https://jobright.ai/jobs/info/69818903abff4c399aa0a9e5?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
@@ -118,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern - Summer 2026](https://jobright.ai/jobs/info/698149e67f40342e15da418e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 02 |
 | **[Orvanta](orvanta.us)** | **[Sales Internship Pacific](https://jobright.ai/jobs/info/6981734149964d25b5e46ca4?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Feb 02 |
 | **[Green Bay Packers](http://www.packers.com/)** | **[Lambeau Field & Titletown Events Operations Intern](https://jobright.ai/jobs/info/698179657f40342e15da83c9?utm_campaign=1051&utm_source=git)** | 1265 Lombardi Ave, Green Bay, WI 54304, USA | On Site | Feb 02 |
-| ↳ | **[Sales and Business Development: Fulfillment Intern](https://jobright.ai/jobs/info/6981701e49964d25b5e46a20?utm_campaign=1051&utm_source=git)** | 1265 Lombardi Ave, Green Bay, WI 54304, USA | On Site | Feb 02 |
 | ↳ | **[Sales and Business Development: Activation Intern - Milwaukee Office](https://jobright.ai/jobs/info/69817898abff4c399aa0740c?utm_campaign=1051&utm_source=git)** | Milwaukee, WI, USA | On Site | Feb 02 |
+| ↳ | **[Sales and Business Development: Fulfillment Intern](https://jobright.ai/jobs/info/6981701e49964d25b5e46a20?utm_campaign=1051&utm_source=git)** | 1265 Lombardi Ave, Green Bay, WI 54304, USA | On Site | Feb 02 |
 | **[Cadence](https://www.cadence.com)** | **[Intern - Customer Success Team](https://jobright.ai/jobs/info/69814442abff4c399aa02bbf?utm_campaign=1051&utm_source=git)** | SAN JOSE | On Site | Feb 02 |
 | **[Green Bay Packers](http://www.packers.com/)** | **[Sales and Business Development: Activation Intern](https://jobright.ai/jobs/info/698174db49964d25b5e46dfa?utm_campaign=1051&utm_source=git)** | 1265 Lombardi Ave, Green Bay, WI 54304, USA | On Site | Feb 02 |
 | ↳ | **[Sales and Business Development: Partnership Sales Intern](https://jobright.ai/jobs/info/6981709c49964d25b5e46a8b?utm_campaign=1051&utm_source=git)** | 1265 Lombardi Ave, Green Bay, WI 54304, USA | On Site | Feb 02 |
@@ -135,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Sales Operations Intern (Year-Round)](https://jobright.ai/jobs/info/69815e3aabff4c399aa0552d?utm_campaign=1051&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Core Publishing Solutions Business Development Intern – Summer 2026](https://jobright.ai/jobs/info/69815c25abff4c399aa052f6?utm_campaign=1051&utm_source=git)** | United States of America, Eagan, Minnesota | On Site | Feb 02 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/698166577f40342e15da69e4?utm_campaign=1051&utm_source=git)** | Pullman - 2420 | On Site | Feb 02 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - HVAC Sales](https://jobright.ai/jobs/info/6981583b49964d25b5e44c02?utm_campaign=1051&utm_source=git)** | Irvine, CA, US | On Site | Feb 02 |
-| ↳ | **[Intern - HVAC Sales](https://jobright.ai/jobs/info/6981765c7f40342e15da80eb?utm_campaign=1051&utm_source=git)** | US-CA-Irvine | On Site | Feb 02 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - HVAC Sales](https://jobright.ai/jobs/info/6981765c7f40342e15da80eb?utm_campaign=1051&utm_source=git)** | US-CA-Irvine | On Site | Feb 02 |
+| ↳ | **[Intern - HVAC Sales](https://jobright.ai/jobs/info/6981583b49964d25b5e44c02?utm_campaign=1051&utm_source=git)** | Irvine, CA, US | On Site | Feb 02 |
 | ↳ | **[Intern - HVAC Sales](https://jobright.ai/jobs/info/69816047abff4c399aa0575f?utm_campaign=1051&utm_source=git)** | Onsite | On Site | Feb 02 |
 | **[SAS](http://www.sas.com)** | **[Sales Operations Intern (Year-Round)](https://jobright.ai/jobs/info/6981583dabff4c399aa04f35?utm_campaign=1051&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69813b1b7f40342e15da2e66?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Feb 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TKO](https://tkogrp.com)** | **[Intern - Corporate Partnerships, Professional Bull Riders](https://jobright.ai/jobs/info/69813514abff4c399aa01bf5?utm_campaign=1051&utm_source=git)** | TX-Fort Worth (PBR) | On Site | Feb 02 |
 | **[San Francisco Giants](https://www.mlb.com/giants)** | **[Partnerships & Business Development Intern](https://jobright.ai/jobs/info/697d7551727747250d585e04?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 02 |
 | **[Western Digital](https://www.westerndigital.com)** | **[Early Career Talent - Sales & Marketing - Full-Time and Internship Opportunities](https://jobright.ai/jobs/info/69653753a112b402661311fe?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Feb 02 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/698133e3abff4c399aa01a7a?utm_campaign=1051&utm_source=git)** | Branson, MO | On Site | Feb 02 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Business Development (BD) & Proposal Management Department, Onsite](https://jobright.ai/jobs/info/698133b2abff4c399aa01a3e?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Feb 02 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69813310abff4c399aa01977?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Feb 02 |
-| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- New York, Hotels and Hospitality, Investment Sales](https://jobright.ai/jobs/info/698132b97f40342e15da22cb?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Feb 02 |
-| **[AMAROK Security](https://www.amarok.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69813025abff4c399aa016c9?utm_campaign=1051&utm_source=git)** | South Carolina, Columbia | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
