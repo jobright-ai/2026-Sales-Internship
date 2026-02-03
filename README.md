@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/695c3ab222c9dc0d3d54195c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 02 |
+| **[SAS](http://www.sas.com)** | **[Sales Operations Intern (Year-Round)](https://jobright.ai/jobs/info/698156c67f40342e15da5934?utm_campaign=1051&utm_source=git)** | North Carolina | Hybrid | Feb 02 |
+| **[Five-S Group](https://www.fsgrp.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/698155a07f40342e15da57ef?utm_campaign=1051&utm_source=git)** | Baton Rouge,LA,US | On Site | Feb 02 |
+| **[Carta](https://carta.com/)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/698152a57f40342e15da554e?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 02 |
 | **[GSD&M](http://www.gsdm.com)** | **[Account Leadership Intern](https://jobright.ai/jobs/info/696ebbeb350cf4380315a1a9?utm_campaign=1051&utm_source=git)** | Austin | Hybrid | Feb 02 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/69657ce85ad3a93f8230c45e?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69657c8ba112b40266136f78?utm_campaign=1051&utm_source=git)** | Hiram, GA | On Site | Feb 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Pricing Intern](https://jobright.ai/jobs/info/6980fa3a49964d25b5e3c571?utm_campaign=1051&utm_source=git)** | North Carolina | Hybrid | Feb 02 |
 | **[Crayola](http://www.crayola.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/6980fa0249964d25b5e3c532?utm_campaign=1051&utm_source=git)** | Easton, Pennsylvania, United States | Hybrid | Feb 02 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/6980f9cc49964d25b5e3c4f3?utm_campaign=1051&utm_source=git)** | Austin (Oakhill, Office) | On Site | Feb 02 |
-| ↳ | **[Demand Planning Intern](https://jobright.ai/jobs/info/6980f8837f40342e15d9cf4f?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Feb 02 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive](https://jobright.ai/jobs/info/69811e6049964d25b5e3ec74?utm_campaign=1051&utm_source=git)** | Kansas City, MO United States of America | On Site | Feb 02 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6980f6a7abff4c399a9fc37e?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Feb 02 |
-| **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Account Management (f/m/d)](https://jobright.ai/jobs/info/693c601150bbaf76504fa7da?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
