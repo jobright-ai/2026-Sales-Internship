@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clēnera](https://www.clenera.com/)** | **[Intern, Business Development Analytics](https://jobright.ai/jobs/info/698250b60f6f7e7a2cdb76ec?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Feb 03 |
+| **[Smith & Associates](http://www.smithweb.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698250b0348f733a5c351e0c?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 03 |
+| **[OTR Solutions](http://www.otrsolutions.com)** | **[Sales Intern (Summer Program)](https://jobright.ai/jobs/info/69824f570f6f7e7a2cdb7544?utm_campaign=1051&utm_source=git)** | Roswell, GA | On Site | Feb 03 |
+| **[Combined, a Chubb Benefits Company](http://www.combinedinsurance.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/696658f65ad3a93f8231b4c8?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Feb 03 |
 | **[TSCG](https://www.theshoppingcentergroup.com/)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/69824e950f6f7e7a2cdb7454?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Feb 03 |
 | **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69197cd445fb6f5ead8a8e2f?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Feb 03 |
 | **[OTR Solutions](http://www.otrsolutions.com)** | **[Fuel Sales Intern (Summer Program)](https://jobright.ai/jobs/info/698235bfc3101f1400c3e783?utm_campaign=1051&utm_source=git)** | Roswell, GA | On Site | Feb 03 |
-| ↳ | **[Sales Intern (Summer Program)](https://jobright.ai/jobs/info/6982371e0f6f7e7a2cdb5fc8?utm_campaign=1051&utm_source=git)** | Roswell, GA | On Site | Feb 03 |
 | **[Veeam Software](http://www.veeam.com)** | **[Customer Success Intern - Summer 2026](https://jobright.ai/jobs/info/69824c260f6f7e7a2cdb7232?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, USA | On Site | Feb 03 |
 | **[ITT Inc.](http://www.itt.com)** | **[Sales Intern - Year Round](https://jobright.ai/jobs/info/698244c4a314e7636905a8d3?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Feb 03 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Business Development Intern (Palm Bay, FL)](https://jobright.ai/jobs/info/69824201c3101f1400c3f23e?utm_campaign=1051&utm_source=git)** | Palm Bay, FL | On Site | Feb 03 |
@@ -74,11 +77,13 @@ For a complete list, click the following sortable link below:
 | **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Partnerships and Strategy](https://jobright.ai/jobs/info/6982379fc3101f1400c3e8bf?utm_campaign=1051&utm_source=git)** | Brentwood, TN | On Site | Feb 03 |
 | **[OTR Solutions](http://www.otrsolutions.com)** | **[Sales Underwriting Intern (Summer Program)](https://jobright.ai/jobs/info/698237360f6f7e7a2cdb5fd9?utm_campaign=1051&utm_source=git)** | Roswell, GA | On Site | Feb 03 |
 | **[OneStream Software](https://www.onestream.com)** | **[Intern](https://jobright.ai/jobs/info/6982365cc3101f1400c3e7d8?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 03 |
+| **[Kubby](https://www.kubby.io)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/698253bb348f733a5c352224?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 03 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Seasonal](https://jobright.ai/jobs/info/698232d3a314e763690596a4?utm_campaign=1051&utm_source=git)** | Texas - Dallas - Dallas Commercial (75201) | On Site | Feb 03 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Global Retail Sales Operations Intern](https://jobright.ai/jobs/info/698232c9a314e76369059692?utm_campaign=1051&utm_source=git)** | Pinehurst, NC | On Site | Feb 03 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Wholesale Intern (Spring 2026)](https://jobright.ai/jobs/info/69822f57c3101f1400c3d789?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 03 |
 | **[Clēnera](https://www.clenera.com/)** | **[Intern, Business Development Analytics](https://jobright.ai/jobs/info/69822da3a314e7636905866d?utm_campaign=1051&utm_source=git)** | Boise, Idaho, United States | On Site | Feb 03 |
 | **[BakerHostetler](http://www.bakerlaw.com/)** | **[Business Development and Marketing Intern](https://jobright.ai/jobs/info/69822d1e0f6f7e7a2cdb491b?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Feb 03 |
+| **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Client Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68f163a4e6870116b1f580a8?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Feb 03 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Premier Account Management Intern](https://jobright.ai/jobs/info/694973207d506e3808f48f95?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Feb 03 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Canada Sales Intern](https://jobright.ai/jobs/info/698242a00f6f7e7a2cdb6bc1?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Feb 03 |
 | **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Partnerships and Strategy](https://jobright.ai/jobs/info/69823dd0a314e7636905a327?utm_campaign=1051&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[James Hardie](https://www.jameshardie.com)** | **[Inside Sales Intern - Chicago, IL -AZEK](https://jobright.ai/jobs/info/6981a23249964d25b5e4b60c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69819e267f40342e15dac09c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
 | **[Docusign](http://www.docusign.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69819d8849964d25b5e4b1f9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
-| **[Inviox Studios](https://www.invioxstudios.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69819d4e7f40342e15dabfcc?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 02 |
-| **[FanDuel](http://www.fanduel.com)** | **[Sports Trader Intern - Summer 2026](https://jobright.ai/jobs/info/69819be849964d25b5e4b0ed?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | Hybrid | Feb 02 |
-| ↳ | **[Commercial Intern (Sportsbook) - Summer 2026](https://jobright.ai/jobs/info/69819af07f40342e15dabed8?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
-| **[Siemens](https://www.siemens.com)** | **[Integrated Security Systems Sales Internship](https://jobright.ai/jobs/info/6981946a7f40342e15dabaa6?utm_campaign=1051&utm_source=git)** | Buffalo Grove, IL | On Site | Feb 02 |
-| **[Cadence](https://www.cadence.com)** | **[Intern - Customer Success Team](https://jobright.ai/jobs/info/6981920249964d25b5e4ab4b?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
