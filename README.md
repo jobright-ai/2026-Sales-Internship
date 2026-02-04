@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Affairs Intern (JD or MBA Level), Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694bb124d64ebf28d82162e0?utm_campaign=1051&utm_source=git)** | Culver City, CA | On Site | Feb 04 |
+| **[Nokia](http://www.nokia.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6966cde7a112b4026614d2f7?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 04 |
+| **[Mercadien](https://www.mercadien.com/)** | **[Lottery Internship](https://jobright.ai/jobs/info/69834519348f733a5c364782?utm_campaign=1051&utm_source=git)** | Hamilton, NJ | On Site | Feb 04 |
+| **[Forestar Group Inc.](https://www.forestar.com/)** | **[Summer 2026 Land Intern - Atlanta Central - Forestar](https://jobright.ai/jobs/info/6979a1ac0791bc1d72306c49?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
+| **[Alro Steel](http://www.alro.com)** | **[Internship](https://jobright.ai/jobs/info/698341bf348f733a5c3646b4?utm_campaign=1051&utm_source=git)** | Bolingbrook, IL | On Site | Feb 04 |
+| **[Nokia](http://www.nokia.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6966d8f0a112b4026614ebbb?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Feb 04 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - Memphis](https://jobright.ai/jobs/info/698340f8348f733a5c364682?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Feb 04 |
+| **[Nokia](http://www.nokia.com)** | **[Sales & Partnership Intern](https://jobright.ai/jobs/info/696c3f1cdb26b618950f99ac?utm_campaign=1051&utm_source=git)** | Coppell, TX | On Site | Feb 04 |
+| **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/696c88d1db26b618950fd72b?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 04 |
+| **[Opus IVS - US](https://www.opusivs.com)** | **[Product Success Intern](https://jobright.ai/jobs/info/69833da501214b4cdacae3f9?utm_campaign=1051&utm_source=git)** | Dexter, MI | On Site | Feb 04 |
+| **[Forestar Group Inc.](https://www.forestar.com/)** | **[Summer 2026 Land Intern - Forestar](https://jobright.ai/jobs/info/6982d12d8232105a2d0b2de5?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Feb 04 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - South Orange County, CA (Starting Summer 2026](https://jobright.ai/jobs/info/69833a27348f733a5c364571?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Feb 04 |
+| **[barrière](https://www.mybarriere.com/)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/698337e001214b4cdacae2b6?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Feb 04 |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/698336d101214b4cdacae277?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 04 |
+| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/692faeddfa28370be26acbb4?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
 | **[Nokia](http://www.nokia.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6966e75fb098f4515f4e4858?utm_campaign=1051&utm_source=git)** | Coppell, TX | Hybrid | Feb 04 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Adobe Sales Academy BDR](https://jobright.ai/jobs/info/6912fe70c98948514c4800d3?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
 | **[Equinix](http://www.equinix.com)** | **[Opportunity Development Internship-Entry Level Sales BDR/SDR](https://jobright.ai/jobs/info/694b0a1967a69734cac61a34?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Feb 04 |
@@ -72,7 +87,10 @@ For a complete list, click the following sortable link below:
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Retail Admin Intern](https://jobright.ai/jobs/info/6966eb83a112b4026614fadd?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Feb 04 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69832003348f733a5c363d31?utm_campaign=1051&utm_source=git)** | Detroit Metro | Hybrid | Feb 04 |
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6966cb0f5ad3a93f82322a31?utm_campaign=1051&utm_source=git)** | Oxford, MS | Hybrid | Feb 04 |
-| ↳ | **[Underwriting Intern](https://jobright.ai/jobs/info/694b20101224705e900245da?utm_campaign=1051&utm_source=git)** | NOLA Region | Hybrid | Feb 04 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Pico Rivera, CA (Starting Summer 2026](https://jobright.ai/jobs/info/69833d07348f733a5c36461c?utm_campaign=1051&utm_source=git)** | Pico Rivera, CA | On Site | Feb 04 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - San Diego North County, CA (Starting Summer 2026](https://jobright.ai/jobs/info/69833d83348f733a5c36462f?utm_campaign=1051&utm_source=git)** | Escondido, CA | On Site | Feb 04 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Murrieta, CA (Starting Summer 2026)](https://jobright.ai/jobs/info/698344dd01214b4cdacae582?utm_campaign=1051&utm_source=git)** | Murrieta, CA | On Site | Feb 04 |
+| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/694b20101224705e900245da?utm_campaign=1051&utm_source=git)** | NOLA Region | Hybrid | Feb 04 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Licensing - Entertainment/Corporate Brands, Sports, OR Fashion/Lifestyle](https://jobright.ai/jobs/info/697d118a137a0510256606c6?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Feb 04 |
 | **[160over90](http://160over90.com/)** | **[Accounts, Intern](https://jobright.ai/jobs/info/6969da351703f05405abe8c2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/698314300f6f7e7a2cdc7cf2?utm_campaign=1051&utm_source=git)** | Abbotsford, British Columbia, Canada | On Site | Feb 04 |
@@ -81,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Pulsewave](https://www.pulsewave.app/)** | **[Sales Executive Intern](https://jobright.ai/jobs/info/6983105b348f733a5c361f2c?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 04 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69830e810f6f7e7a2cdc76dd?utm_campaign=1051&utm_source=git)** | Memphis Metro | Hybrid | Feb 04 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Commercial Sales Intern – Summer 2026](https://jobright.ai/jobs/info/69830a170f6f7e7a2cdc74c7?utm_campaign=1051&utm_source=git)** | Manchester, NH | Hybrid | Feb 04 |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Sales Internship - South Central](https://jobright.ai/jobs/info/698338fa01214b4cdacae2f7?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Feb 04 |
 | **[Blue Ventis](blueventis.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/6982fbaf348f733a5c3613fd?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Feb 03 |
 | **[Matriosh](Matriosh.com)** | **[Founder Office Intern](https://jobright.ai/jobs/info/6982f941348f733a5c361220?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 03 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6982e5b30f6f7e7a2cdc61b3?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | Feb 03 |
@@ -138,23 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/698287280a9e07331f8da1bf?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Feb 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/698287240a9e07331f8da1b9?utm_campaign=1051&utm_source=git)** | Grand Island, NE | On Site | Feb 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6982870e348f733a5c356f3a?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Feb 03 |
-| **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Demand Planning Analyst Intern](https://jobright.ai/jobs/info/6982a44b0f6f7e7a2cdbf670?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Feb 03 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/698286f2348f733a5c356f0e?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Feb 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/698286f2348f733a5c356f0d?utm_campaign=1051&utm_source=git)** | Woodbury, MN | On Site | Feb 03 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Sales Enablement Summer 2026 Internship - Parsippany, Holmdel, New York](https://jobright.ai/jobs/info/695c4c0622c9dc0d3d543604?utm_campaign=1051&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Feb 03 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6982868d0f6f7e7a2cdbc898?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Feb 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6982860a0a9e07331f8da01d?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Feb 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/698285ff0a9e07331f8da012?utm_campaign=1051&utm_source=git)** | Johnson City, TN | On Site | Feb 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/698285ff0a9e07331f8da013?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | On Site | Feb 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/698285fa0a9e07331f8da009?utm_campaign=1051&utm_source=git)** | North Little Rock, AR | On Site | Feb 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/698285490f6f7e7a2cdbc6b4?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Feb 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/698285220a9e07331f8d9ecc?utm_campaign=1051&utm_source=git)** | Portage, MI | On Site | Feb 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/698284bd0f6f7e7a2cdbc5d5?utm_campaign=1051&utm_source=git)** | Biloxi, MS | On Site | Feb 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/698284090f6f7e7a2cdbc4d4?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Feb 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/698283d80f6f7e7a2cdbc498?utm_campaign=1051&utm_source=git)** | Metairie, LA | On Site | Feb 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/698283c90f6f7e7a2cdbc47d?utm_campaign=1051&utm_source=git)** | Maple Grove, MN | On Site | Feb 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/698283c20a9e07331f8d9cfd?utm_campaign=1051&utm_source=git)** | Broomfield, CO | On Site | Feb 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6982839d0a9e07331f8d9cc6?utm_campaign=1051&utm_source=git)** | North Platte, NE | On Site | Feb 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/698283370f6f7e7a2cdbc3ce?utm_campaign=1051&utm_source=git)** | Rome, GA | On Site | Feb 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/698282a70f6f7e7a2cdbc2fd?utm_campaign=1051&utm_source=git)** | Owensboro, KY | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
