@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Sales Insights & Productivity - 2026 Summer Internship](https://jobright.ai/jobs/info/6984df7f0f6f7e7a2cdf5b45?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Feb 05 |
+| **[GE Vernova](https://www.gevernova.com)** | **[Procurement Internship (Buyer)](https://jobright.ai/jobs/info/6984ddf08da7a612045f2951?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 05 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6984dbd70f6f7e7a2cdf55b9?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Feb 05 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6984d8300f6f7e7a2cdf5304?utm_campaign=1051&utm_source=git)** | Lone Tree, CO | On Site | Feb 05 |
+| **[Shipley Energy](http://www.shipleyenergy.com/)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/6984d7728da7a612045f21de?utm_campaign=1051&utm_source=git)** | York, PA | On Site | Feb 05 |
 | **[State Street](https://www.statestreet.com/)** | **[Client Management - Summer Intern- CRD](https://jobright.ai/jobs/info/6984d4cc348f733a5c38eea6?utm_campaign=1051&utm_source=git)** | Burlington Massachusetts | On Site | Feb 05 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/6984d4578da7a612045f18d8?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Feb 05 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/6984d3368da7a612045f1576?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 05 |
@@ -69,9 +74,11 @@ For a complete list, click the following sortable link below:
 | **[4:13 Strong](www.413strong.org)** | **[Development Intern](https://jobright.ai/jobs/info/6984c5250f6f7e7a2cdf374c?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Feb 05 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68db07266df7b8311bb157f7?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Feb 05 |
 | **[Henkel](http://www.henkel.com)** | **[Commercial Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/698036ea7f40342e15d90727?utm_campaign=1051&utm_source=git)** | Stamford, CT | Hybrid | Feb 05 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6984dfa50f6f7e7a2cdf5b88?utm_campaign=1051&utm_source=git)** | Roseville, MN | On Site | Feb 05 |
 | **[Velastra](velastra.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/6984bff1348f733a5c38d76b?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - New Ventures & Strategic Alliances](https://jobright.ai/jobs/info/6984bf438da7a612045f0127?utm_campaign=1051&utm_source=git)** | Durham NC | Hybrid | Feb 05 |
 | **[Henkel](http://www.henkel.com)** | **[International Business Development & Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/698178fbabff4c399aa0746d?utm_campaign=1051&utm_source=git)** | Culver City, CA | Hybrid | Feb 05 |
+| **[Appli AI](https://applisolutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6984e1b9348f733a5c3901b1?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 05 |
 | **[Roku](https://www.roku.com)** | **[Ad Sales Intern](https://jobright.ai/jobs/info/6984b8ae8da7a612045ef888?utm_campaign=1051&utm_source=git)** | New York, New York | Hybrid | Feb 05 |
 | **[Henkel](http://www.henkel.com)** | **[E-commerce Management Intern, Hair Pros – Summer 2026](https://jobright.ai/jobs/info/695f8850a112b402660e2f89?utm_campaign=1051&utm_source=git)** | Culver City, CA | Hybrid | Feb 05 |
 | ↳ | **[North America Sales and Business Support Intern – Summer 2026](https://jobright.ai/jobs/info/69817d7a7f40342e15da88ea?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | Remote | Feb 05 |
@@ -121,18 +128,18 @@ For a complete list, click the following sortable link below:
 | **[TBK Bank, SSB](https://www.tbkbank.com/)** | **[Customer Success Manager Intern](https://jobright.ai/jobs/info/6968a4121703f05405aa7632?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 05 |
 | **[NiCE](http://nice.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/69688080639b452fb57e3193?utm_campaign=1051&utm_source=git)** | Sandy, UT | Hybrid | Feb 05 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Coach Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/698494480f6f7e7a2cdf0365?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6984971f8da7a612045ed6f2?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Feb 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69849335348f733a5c38a246?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - San Diego North County, CA (Starting Summer 2026](https://jobright.ai/jobs/info/698492720f6f7e7a2cdefe44?utm_campaign=1051&utm_source=git)** | Escondido, CA | On Site | Feb 05 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6984971f8da7a612045ed6f2?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Feb 05 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Pico Rivera, CA (Starting Summer 2026](https://jobright.ai/jobs/info/698492fc348f733a5c38a21c?utm_campaign=1051&utm_source=git)** | Pico Rivera, CA | On Site | Feb 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698498fc8da7a612045ed8e7?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Feb 05 |
 | ↳ | **[Coach Summer Store Leadership Intern-San Diego, California](https://jobright.ai/jobs/info/69849460348f733a5c38a370?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6984988b8da7a612045ed8cd?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Feb 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - South Orange County, CA (Starting Summer 2026](https://jobright.ai/jobs/info/69849415348f733a5c38a332?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Feb 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Pico Rivera, CA (Starting Summer 2026](https://jobright.ai/jobs/info/698492fc348f733a5c38a21c?utm_campaign=1051&utm_source=git)** | Pico Rivera, CA | On Site | Feb 05 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - San Diego North County, CA (Starting Summer 2026](https://jobright.ai/jobs/info/698492720f6f7e7a2cdefe44?utm_campaign=1051&utm_source=git)** | Escondido, CA | On Site | Feb 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698492bd0f6f7e7a2cdeff08?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 05 |
 | ↳ | **[Kate Spade Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/698499c58da7a612045ed907?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 05 |
-| ↳ | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69849324348f733a5c38a23b?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Feb 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6984989e8da7a612045ed8d0?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Feb 05 |
+| ↳ | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69849324348f733a5c38a23b?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Feb 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/6984924b348f733a5c38a187?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Feb 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/698490950f6f7e7a2cdefa83?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Feb 05 |
 | **[Citi](https://www.citi.com)** | **[Services - Summer Analyst Program, New York City - US, 2026](https://jobright.ai/jobs/info/69846f038da7a612045e9690?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 05 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/698463580f6f7e7a2cdebdb0?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Feb 05 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/698463320f6f7e7a2cdebd80?utm_campaign=1051&utm_source=git)** | Manchester, NH | On Site | Feb 05 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/698463160f6f7e7a2cdebd56?utm_campaign=1051&utm_source=git)** | St Cloud, MN | On Site | Feb 05 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6984630f0f6f7e7a2cdebd50?utm_campaign=1051&utm_source=git)** | Springfield, MA | On Site | Feb 05 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/698462ff0f6f7e7a2cdebd41?utm_campaign=1051&utm_source=git)** | Coralville, IA | On Site | Feb 05 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/698462c70f6f7e7a2cdebd02?utm_campaign=1051&utm_source=git)** | Oak Brook, IL | On Site | Feb 05 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/698462ba0f6f7e7a2cdebcf9?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Feb 05 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/698462b20f6f7e7a2cdebced?utm_campaign=1051&utm_source=git)** | Neptune City, NJ | On Site | Feb 05 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/698462ae348f733a5c386241?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 05 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/698462ab348f733a5c38623d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
