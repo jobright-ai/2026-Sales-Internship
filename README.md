@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valvoline Global Operations](https://www.valvolineglobal.com/en)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/6913740de344172248f714f3?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Feb 05 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Bookable Experiences Revenue Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69858d610f6f7e7a2ce068b7?utm_campaign=1051&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Feb 05 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/69858309348f733a5c39f6be?utm_campaign=1051&utm_source=git)** | Spanish Fork, UT | On Site | Feb 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Signature Experiences Pricing & Revenue Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698581d1348f733a5c39f4df?utm_campaign=1051&utm_source=git)** | Celebration, FL, USA | Hybrid | Feb 05 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Sales Internship](https://jobright.ai/jobs/info/69857f87348f733a5c39f232?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Feb 05 |
@@ -77,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/698565de348f733a5c39c50d?utm_campaign=1051&utm_source=git)** | Fort Bliss, TX | On Site | Feb 05 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6985643b0f6f7e7a2ce02169?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Feb 05 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6985635b0f6f7e7a2ce01f94?utm_campaign=1051&utm_source=git)** | La Marque, TX | On Site | Feb 05 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/698562f18da7a612045ff3c9?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Feb 05 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/698562f18da7a612045ff3c8?utm_campaign=1051&utm_source=git)** | Josephine, TX | On Site | Feb 05 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/698562f18da7a612045ff3c9?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Feb 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/69692d281703f05405ab0c15?utm_campaign=1051&utm_source=git)** | Fayetteville, GA | On Site | Feb 05 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/698562a3348f733a5c39c047?utm_campaign=1051&utm_source=git)** | Cinco Ranch, TX | On Site | Feb 05 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6985626d348f733a5c39bfe7?utm_campaign=1051&utm_source=git)** | Rio Grande City, TX | On Site | Feb 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/698563f4348f733a5c39c306?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Feb 05 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/698567d98da7a612045ff857?utm_campaign=1051&utm_source=git)** | Roma, TX | On Site | Feb 05 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69854752348f733a5c398f77?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6985474f348f733a5c398f74?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 05 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6985662f0f6f7e7a2ce022d1?utm_campaign=1051&utm_source=git)** | Buda, TX | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
