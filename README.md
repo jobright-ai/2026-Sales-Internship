@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/69858309348f733a5c39f6be?utm_campaign=1051&utm_source=git)** | Spanish Fork, UT | On Site | Feb 05 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Signature Experiences Pricing & Revenue Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698581d1348f733a5c39f4df?utm_campaign=1051&utm_source=git)** | Celebration, FL, USA | Hybrid | Feb 05 |
+| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Sales Internship](https://jobright.ai/jobs/info/69857f87348f733a5c39f232?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Feb 05 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69320b7dfa28370be26c1317?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Feb 05 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f7faa85dc1be601281f6b9?utm_campaign=1051&utm_source=git)** | Pleasant Hill, CA | Hybrid | Feb 05 |
 | **[Kapitalwise Inc.](https://www.kapitalwise.com)** | **[Sales Development Intern (SDR Intern) – Remote](https://jobright.ai/jobs/info/698574568da7a61204600fe4?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Viega LLC](https://viega.us)** | **[Sales Excellence Data Intern](https://jobright.ai/jobs/info/698571c70f6f7e7a2ce037c8?utm_campaign=1051&utm_source=git)** | Broomfield, CO | On Site | Feb 05 |
@@ -69,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Crane Aerospace & Electronics](http://www.craneae.com)** | **[Sales & Customer Administration Internship - Summer 2026](https://jobright.ai/jobs/info/6969ae4a639b452fb57f9e66?utm_campaign=1051&utm_source=git)** | Burbank, CA | On Site | Feb 05 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Business Markets Intern](https://jobright.ai/jobs/info/69856b750f6f7e7a2ce02eda?utm_campaign=1051&utm_source=git)** | Fredericton, New Brunswick, Canada | On Site | Feb 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/696927181703f05405ab07fe?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 05 |
+| **[Paycom](http://www.paycom.com)** | **[Client Success Manager Intern - Skillbridge](https://jobright.ai/jobs/info/694c8f595d7312113470e70f?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Feb 05 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/698565de348f733a5c39c50d?utm_campaign=1051&utm_source=git)** | Fort Bliss, TX | On Site | Feb 05 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6985643b0f6f7e7a2ce02169?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Feb 05 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6985635b0f6f7e7a2ce01f94?utm_campaign=1051&utm_source=git)** | La Marque, TX | On Site | Feb 05 |
@@ -95,7 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Zimmer Biomet](https://www.zimmerbiomet.com/en)** | **[2026 Summer Intern, Sales](https://jobright.ai/jobs/info/69855c758da7a612045fe118?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | Feb 05 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69855bd20f6f7e7a2ce01058?utm_campaign=1051&utm_source=git)** | Plainview, TX | On Site | Feb 05 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69855b8c0f6f7e7a2ce00fc9?utm_campaign=1051&utm_source=git)** | Cape Coral, FL | On Site | Feb 05 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69855a760f6f7e7a2ce00daa?utm_campaign=1051&utm_source=git)** | Snyder, TX | On Site | Feb 05 |
+| **[World Food Program USA](http://wfpusa.org)** | **[Intern, Institutional Partnerships](https://jobright.ai/jobs/info/6985840c8da7a612046027cd?utm_campaign=1051&utm_source=git)** | World Food Program USA - DC  - Washington, DC 20006 | Hybrid | Feb 05 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69855a760f6f7e7a2ce00daa?utm_campaign=1051&utm_source=git)** | Snyder, TX | On Site | Feb 05 |
 | **[TeamBuilder](http://www.teambuilder.io)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69855a3c8da7a612045fdc67?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Feb 05 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69855a13348f733a5c39ae73?utm_campaign=1051&utm_source=git)** | Scenic Oaks, TX | On Site | Feb 05 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/698559838da7a612045fdb11?utm_campaign=1051&utm_source=git)** | La Grange, IL | On Site | Feb 05 |
@@ -113,6 +119,9 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/693554b4764507023d1c0212?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Feb 05 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6981667849964d25b5e45c0f?utm_campaign=1051&utm_source=git)** | Elk Grove, IL | On Site | Feb 05 |
 | **[Byrne](https://www.byrne.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69854ced0f6f7e7a2cdff2f5?utm_campaign=1051&utm_source=git)** | Rockford, Michigan, United States | On Site | Feb 05 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/698580e8348f733a5c39f3a5?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Feb 05 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/698584110f6f7e7a2ce0563a?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Feb 05 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69857f490f6f7e7a2ce0503c?utm_campaign=1051&utm_source=git)** | Port Lavaca, TX | On Site | Feb 05 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69854bc1348f733a5c3992fc?utm_campaign=1051&utm_source=git)** | Westlake, TX | Hybrid | Feb 05 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69854bc0348f733a5c3992f9?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Feb 05 |
 | **[LIV Golf](https://www.livgolf.com)** | **[Business Operations - Partnerships Intern (Business Development)](https://jobright.ai/jobs/info/69854b5b348f733a5c39923d?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 05 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69854752348f733a5c398f77?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6985474f348f733a5c398f74?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 05 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6985662f0f6f7e7a2ce022d1?utm_campaign=1051&utm_source=git)** | Buda, TX | On Site | Feb 05 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/698567998da7a612045ff808?utm_campaign=1051&utm_source=git)** | Lago Vista, TX | On Site | Feb 05 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69856b408da7a612045ffd37?utm_campaign=1051&utm_source=git)** | Sulphur Springs, TX | On Site | Feb 05 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6985663e0f6f7e7a2ce022da?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Feb 05 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69856c8e8da7a612045fff54?utm_campaign=1051&utm_source=git)** | Palestine, TX | On Site | Feb 05 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69856c598da7a612045ffef6?utm_campaign=1051&utm_source=git)** | New Haven, CT | On Site | Feb 05 |
-| **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/695b6ae9aa05c26e7ab4c381?utm_campaign=1051&utm_source=git)** | Vernal, UT | On Site | Feb 05 |
-| **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Business Development and Sales](https://jobright.ai/jobs/info/6985441f8da7a612045fb8ec?utm_campaign=1051&utm_source=git)** | McLean, VA | On Site | Feb 05 |
-| **[Maximus](http://www.maximus.com/)** | **[Intern - Business Development - Federal Civilian Growth](https://jobright.ai/jobs/info/6979180a88e2b47213bd3281?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 05 |
-| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Walmart/Sam’s Sales Intern](https://jobright.ai/jobs/info/69697a66f25a380066981ffc?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
