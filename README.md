@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/6969e98d1703f05405abf2f8?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Feb 06 |
+| **[MantraCare](https://mantracare.org/)** | **[Business Development Internship](https://jobright.ai/jobs/info/6985b3c68ca8121a3a67e4f4?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 06 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6985af328ca8121a3a67e0a2?utm_campaign=1051&utm_source=git)** | Orangetown, NY | On Site | Feb 06 |
+| **[Bay FC](https://bayfc.com)** | **[Partnerships Intern](https://jobright.ai/jobs/info/6985ae800f6f7e7a2ce08f23?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
+| **[Cortif Technologies](https://cortif.ai/)** | **[SaaS sales position intern](https://jobright.ai/jobs/info/6985ad538da7a61204605e5a?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 06 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6985aa470f6f7e7a2ce08b20?utm_campaign=1051&utm_source=git)** | Wilmington Island, GA | On Site | Feb 06 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern - Raleigh North](https://jobright.ai/jobs/info/6969e7baf25a38006698acec?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Feb 06 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6985a89c348f733a5c3a2bb9?utm_campaign=1051&utm_source=git)** | Joplin, MO | On Site | Feb 06 |
+| **[InfraSingularity](https://infrasingularity.com)** | **[Business Development Intern (Web3)](https://jobright.ai/jobs/info/6985a424348f733a5c3a260b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Feb 06 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/6913740de344172248f714f3?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Feb 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Bookable Experiences Revenue Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69858d610f6f7e7a2ce068b7?utm_campaign=1051&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Feb 05 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/69858309348f733a5c39f6be?utm_campaign=1051&utm_source=git)** | Spanish Fork, UT | On Site | Feb 05 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Battelle](http://www.battelle.org)** | **[Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/698548460f6f7e7a2cdfee34?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | Feb 05 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6985662c0f6f7e7a2ce022cd?utm_campaign=1051&utm_source=git)** | Canyon, TX | On Site | Feb 05 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69856bb88da7a612045ffdfb?utm_campaign=1051&utm_source=git)** | Dumas, TX | On Site | Feb 05 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6985481a348f733a5c399073?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/698565628da7a612045ff50d?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Feb 05 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69856431348f733a5c39c396?utm_campaign=1051&utm_source=git)** | Fair Oaks Ranch, TX | On Site | Feb 05 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/698566468da7a612045ff63c?utm_campaign=1051&utm_source=git)** | Ingleside, TX | On Site | Feb 05 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/698547bf348f733a5c399043?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 05 |
-| **[LIV Golf](https://www.livgolf.com)** | **[Business Operations - Partnerships Intern (Partnerships Management)](https://jobright.ai/jobs/info/698547920f6f7e7a2cdfed6f?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 05 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/698563f4348f733a5c39c306?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Feb 05 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/698567d98da7a612045ff857?utm_campaign=1051&utm_source=git)** | Roma, TX | On Site | Feb 05 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69854752348f733a5c398f77?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
