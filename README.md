@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Calgary Chamber of Commerce](https://www.calgarychamber.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6986fd980f6f7e7a2ce238fa?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 07 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Global Partnerships – Data & Research](https://jobright.ai/jobs/info/6983b70b01214b4cdacb9682?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
 | **[Sinica Education](https://www.sinicaeducation.com)** | **[Bilingual Business Development and Marketing Internship (Chinese/English)](https://jobright.ai/jobs/info/6986d29c8da7a6120461d81d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
 | **[Dollar Tree Distribution, Inc.](https://www.linkedin.com/company/53969352)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/6986d2248ca8121a3a695281?utm_campaign=1051&utm_source=git)** | VA-Chesapeake | On Site | Feb 06 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Heinen's Grocery Store](http://www.heinens.com)** | **[Buyer Summer Associate (Intern)](https://jobright.ai/jobs/info/6986b6ed0f6f7e7a2ce1d109?utm_campaign=1051&utm_source=git)** | Corporate Office, Warrensville Heights, OH, US | On Site | Feb 06 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aae165fc862418539af8a?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 06 |
 | **[Alerus](https://www.alerus.com/)** | **[Corporate Banking Intern](https://jobright.ai/jobs/info/6986b4c88da7a61204619b2a?utm_campaign=1051&utm_source=git)** | Minnetonka, Minnesota, United States | On Site | Feb 06 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Sales & Relationship Management](https://jobright.ai/jobs/info/6986c4fb0f6f7e7a2ce1e8ca?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Feb 06 |
-| ↳ | **[Intern - Sales & Relationship Management](https://jobright.ai/jobs/info/6986bd5e8ca8121a3a6929f8?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Feb 06 |
+| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Sales & Relationship Management](https://jobright.ai/jobs/info/6986bd5e8ca8121a3a6929f8?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Feb 06 |
+| ↳ | **[Intern - Sales & Relationship Management](https://jobright.ai/jobs/info/6986c4fb0f6f7e7a2ce1e8ca?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Feb 06 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Latin America & Intercompany Sales Intern](https://jobright.ai/jobs/info/6980464a7f40342e15d9159e?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Feb 06 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Commercial Excellence Intern](https://jobright.ai/jobs/info/6986b6d20f6f7e7a2ce1d0ed?utm_campaign=1051&utm_source=git)** | Decatur, Indiana, United States | On Site | Feb 06 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/697ba36f0b88cc7d64226efc?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Feb 06 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/69867f658da7a61204614e14?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Feb 06 |
 | **[Los Angeles Football Club (LAFC)](http://lafc.com)** | **[Corporate Partnerships Sales Intern](https://jobright.ai/jobs/info/69867d8a8ca8121a3a68c9e6?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 06 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/69867d888ca8121a3a68c9e3?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Feb 06 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6986f15a8da7a6120461ffba?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Hybrid | Feb 06 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aac06db26b618950dd8dc?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Feb 06 |
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Business Development Intern (Private Jets)](https://jobright.ai/jobs/info/69867b888ca8121a3a68c6bd?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/69867b820f6f7e7a2ce178ae?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 06 |
