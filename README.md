@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6986a0c88da7a61204617cba?utm_campaign=1051&utm_source=git)** | Plymouth, MN | On Site | Feb 06 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69869fa98da7a61204617c28?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 06 |
+| **[Magna International](http://www.magna.com/)** | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/696ac2175fc862418539d9b2?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | Feb 06 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69869b678da7a61204617683?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Feb 06 |
+| **[Magna International](http://www.magna.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/696ab271350cf4380311b3cd?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Feb 06 |
+| **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/698697c98ca8121a3a68e7ac?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Feb 06 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Feb 06 |
+| **[HMX Corporation - HMX.ai](http://smartcloudinc.com)** | **[Agentic AI Sales & Go-To-Market Intern (Enterprise AI)](https://jobright.ai/jobs/info/698695db0f6f7e7a2ce19c81?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 06 |
+| **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Florida Panhandle](https://jobright.ai/jobs/info/698695850f6f7e7a2ce19beb?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/696abd5c350cf4380311c8a8?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Feb 06 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aa7085fc8624185399f22?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | Feb 06 |
 | **[Brooklyn Sports & Entertainment](https://www.bseglobal.net)** | **[Brooklyn Sports & Entertainment Summer Internship 2026](https://jobright.ai/jobs/info/69868b840f6f7e7a2ce18c0a?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 06 |
@@ -83,6 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Innovation Ventures Intern - Summer 2026](https://jobright.ai/jobs/info/696ac4ab5fc862418539de62?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Feb 06 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Multi-Channel Sales Intern](https://jobright.ai/jobs/info/697d4ddd3f57a33569671a59?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Feb 06 |
 | **[BWXT](http://www.bwxt.com/)** | **[Business Development Intern 2026](https://jobright.ai/jobs/info/698673a48ca8121a3a68bc39?utm_campaign=1051&utm_source=git)** | Lynchburg, VA | On Site | Feb 06 |
+| **[Ambia Solar](https://ambiasolar.com)** | **[Summer Intern](https://jobright.ai/jobs/info/698692f28ca8121a3a68e1b1?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Feb 06 |
+| **[The E.W. Scripps Company](http://www.scripps.com)** | **[Sales Intern (SUMMER)](https://jobright.ai/jobs/info/698694b98da7a61204616b52?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Feb 06 |
 | **[Brooklyn Sports & Entertainment](https://www.bseglobal.net)** | **[New York Liberty Summer Internship 2026](https://jobright.ai/jobs/info/6986724e0f6f7e7a2ce16c2f?utm_campaign=1051&utm_source=git)** | Brooklyn, NY 11232 | Hybrid | Feb 06 |
 | **[Persona](https://withpersona.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/698672230f6f7e7a2ce16c13?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aa6905fc8624185399e9b?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AssetMark](http://www.assetmark.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6986387d0f6f7e7a2ce11a8c?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 06 |
 | **[IBM](http://www.ibm.com)** | **[Digital Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/698438b48da7a612045e4a4a?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 06 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Sales Development Intern- Kansas City](https://jobright.ai/jobs/info/698634ae8ca8121a3a6864b8?utm_campaign=1051&utm_source=git)** | Kansas City, KS, United States | On Site | Feb 06 |
-| **[Kirby Risk](https://www.kirbyrisk.com)** | **[Sales Intern (Starting May 2026!) - Illinois](https://jobright.ai/jobs/info/69865e6a0f6f7e7a2ce14675?utm_campaign=1051&utm_source=git)** | Illinois, USA | On Site | Feb 06 |
-| **[Fintech](https://www.fintech.com/)** | **[Distributor Sales Specialist Intern](https://jobright.ai/jobs/info/698657588ca8121a3a688d60?utm_campaign=1051&utm_source=git)** | Tampa, Florida, United States | Hybrid | Feb 06 |
-| **[LumiSource, LLC](https://www.lumisource.com/)** | **[Sales Support Internship](https://jobright.ai/jobs/info/698666838da7a612046123e7?utm_campaign=1051&utm_source=git)** | ELK GROVE VILLAGE,IL,US | On Site | Feb 06 |
-| **[Ecolab](http://www.ecolab.com)** | **[Mining Engineering Technical Sales Internship](https://jobright.ai/jobs/info/6986308b8da7a6120460e212?utm_campaign=1051&utm_source=git)** | USA - Florida - Lake City | Hybrid | Feb 06 |
-| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Corporate Development Intern - Summer 2026](https://jobright.ai/jobs/info/69866b310f6f7e7a2ce16057?utm_campaign=1051&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Mergers, Acquisitions and Business Development Intern / Full-Time / OVG NY Corporate](https://jobright.ai/jobs/info/69865e930f6f7e7a2ce146c4?utm_campaign=1051&utm_source=git)** | OVG NY Corporate | On Site | Feb 06 |
-| ↳ | **[Mergers, Acquisitions and Business Development Intern / Full-Time / OVG NY Corporate](https://jobright.ai/jobs/info/698663e38da7a61204611ed1?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Feb 06 |
-| **[Rehlko](https://www.rehlko.com/)** | **[Purchasing Intern - Summer 2026 (](https://jobright.ai/jobs/info/69862cf70f6f7e7a2ce10dfb?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 06 |
-| **[Arthrex Orlando](https://arthrexorlando.com/)** | **[Medical Sales Internship - Orlando](https://jobright.ai/jobs/info/698677108ca8121a3a68bfca?utm_campaign=1051&utm_source=git)** | Orlando,FL,US | On Site | Feb 06 |
-| **[Hyland](https://www.hyland.com/)** | **[Intern, Partner Operations](https://jobright.ai/jobs/info/6986622c8da7a61204611b72?utm_campaign=1051&utm_source=git)** | Remote - U.S. | Remote | Feb 06 |
-| **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- California](https://jobright.ai/jobs/info/693241aff131d96e4845a362?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
