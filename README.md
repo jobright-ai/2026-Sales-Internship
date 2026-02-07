@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magna International](http://www.magna.com/)** | **[Sales Intern- Summer 2026](https://jobright.ai/jobs/info/696abe86db26b618950e016a?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Feb 06 |
+| **[LumiSource, LLC](https://www.lumisource.com/)** | **[Sales Support Internship](https://jobright.ai/jobs/info/6986ad718da7a6120461919a?utm_campaign=1051&utm_source=git)** | Elk Grove Village, IL | On Site | Feb 06 |
+| **[Columbus Blue Jackets](http://bluejackets.com)** | **[Ticket Operations Intern](https://jobright.ai/jobs/info/6986ad0b8ca8121a3a690901?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
+| **[Dollar Tree Stores](http://dollartree.com)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/6986abd18da7a61204618f53?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Feb 06 |
+| **[TekniPlex](http://www.tekni-plex.com)** | **[Commercial Excellence Intern](https://jobright.ai/jobs/info/6986aac50f6f7e7a2ce1b8ad?utm_campaign=1051&utm_source=git)** | Decatur, IN | Hybrid | Feb 06 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/696e3744350cf438031502c6?utm_campaign=1051&utm_source=git)** | Springfield, MA | On Site | Feb 06 |
+| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Sales & Marketing](https://jobright.ai/jobs/info/6986a6250f6f7e7a2ce1b1b4?utm_campaign=1051&utm_source=git)** | Berkeley Heights, NJ | On Site | Feb 06 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6986a0c88da7a61204617cba?utm_campaign=1051&utm_source=git)** | Plymouth, MN | On Site | Feb 06 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69869fa98da7a61204617c28?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/696ac2175fc862418539d9b2?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | Feb 06 |
@@ -68,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Florida Panhandle](https://jobright.ai/jobs/info/698695850f6f7e7a2ce19beb?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/696abd5c350cf4380311c8a8?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Feb 06 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aa7085fc8624185399f22?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | Feb 06 |
+| **[Alerus](https://www.alerus.com/)** | **[Corporate Banking Intern](https://jobright.ai/jobs/info/6986aea38da7a61204619338?utm_campaign=1051&utm_source=git)** | Hopkins, MN | On Site | Feb 06 |
 | **[Brooklyn Sports & Entertainment](https://www.bseglobal.net)** | **[Brooklyn Sports & Entertainment Summer Internship 2026](https://jobright.ai/jobs/info/69868b840f6f7e7a2ce18c0a?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 06 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698684548ca8121a3a68d343?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 06 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aae165fc862418539af8a?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 06 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Endo](https://www.linkedin.com/company/11485)** | **[Intern, Pricing and Contracts](https://jobright.ai/jobs/info/69865bf28ca8121a3a68958a?utm_campaign=1051&utm_source=git)** | Hazelwood, MO (675) - USA037 - Hybrid | Hybrid | Feb 06 |
 | **[MFA](https://www.managedfunds.org/)** | **[Intern, Membership and Investor Services](https://jobright.ai/jobs/info/69863c720f6f7e7a2ce11edf?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Retail Sales Intern](https://jobright.ai/jobs/info/69866d5b8ca8121a3a68b498?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Feb 06 |
-| **[C.H. Guenther](http://www.chg.com)** | **[Sales Insights & Analytics Intern](https://jobright.ai/jobs/info/69863a2f0f6f7e7a2ce11c7f?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Feb 06 |
-| **[Brixenta](brixenta.us)** | **[Sales Internship](https://jobright.ai/jobs/info/698658d78ca8121a3a68901e?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | Remote | Feb 06 |
-| **[AssetMark](http://www.assetmark.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698639b18da7a6120460eae6?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Feb 06 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698638fa8da7a6120460ea24?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Feb 06 |
-| **[Tractor Zoom](https://tractorzoom.com)** | **[Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/6986810b8ca8121a3a68cf29?utm_campaign=1051&utm_source=git)** | West Des Moines, Iowa, United States | Hybrid | Feb 06 |
-| **[AssetMark](http://www.assetmark.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6986387d0f6f7e7a2ce11a8c?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 06 |
-| **[IBM](http://www.ibm.com)** | **[Digital Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/698438b48da7a612045e4a4a?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 06 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Sales Development Intern- Kansas City](https://jobright.ai/jobs/info/698634ae8ca8121a3a6864b8?utm_campaign=1051&utm_source=git)** | Kansas City, KS, United States | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
