@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Retail Summer Internship](https://jobright.ai/jobs/info/698792de0f6f7e7a2ce2cfbe?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/69878c508da7a61204629ec7?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Feb 07 |
+| ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/69878c1a8ca8121a3a6a1463?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Feb 07 |
+| ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/69878b9f0f6f7e7a2ce2cbec?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
+| ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/69878adc0f6f7e7a2ce2cb3f?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Feb 07 |
+| **[Greystar](https://www.stoneridgemp.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/6987890f8da7a61204629df4?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
+| **[VertoTech](vertotech.us)** | **[Commercial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698786c80f6f7e7a2ce2c9d2?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 07 |
+| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Purchasing](https://jobright.ai/jobs/info/697ad308c532c4768fe088e9?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 07 |
+| **[JRA Ventures](https://www.jraventures.com/)** | **[Sales & Service Intern](https://jobright.ai/jobs/info/698782270f6f7e7a2ce2c70c?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Feb 07 |
+| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[CRM Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69877ff28da7a612046299ab?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | **[Zenvica X](zenvicax.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/698779f50f6f7e7a2ce2c324?utm_campaign=1051&utm_source=git)** | Bellvue, CO | Remote | Feb 07 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69782e5688e2b47213bc3479?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Feb 07 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Michigan) - Summer '26](https://jobright.ai/jobs/info/68c2893903b99f6b3429507d?utm_campaign=1051&utm_source=git)** | Edmore, MI | On Site | Feb 07 |
@@ -91,12 +101,14 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933624c764507023d1b511c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 07 |
 | ↳ | **[Digital Seller Intern– Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933552d764507023d1b4592?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | On Site | Feb 07 |
 | ↳ | **[Technology Lifecycle Services Renewals Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6967f6561703f05405a99234?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Feb 07 |
+| ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6967f7e01703f05405a994ea?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
 | **[Brixenta](brixenta.us)** | **[Commercial Intern (Sportsbook) - Summer 2026](https://jobright.ai/jobs/info/6987547c8da7a61204626df1?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Feb 07 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Texas - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/6987537f0f6f7e7a2ce29af7?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Feb 07 |
 | **[Brixenta](brixenta.us)** | **[Commercial Year-Round Intern (May 2026 Start)](https://jobright.ai/jobs/info/698753508da7a61204626cc5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Feb 07 |
 | **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69364cdca0dde7020e2fac0f?utm_campaign=1051&utm_source=git)** | Midland, TX | On Site | Feb 07 |
 | **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6900accf4539ea1f21418f71?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern, Digital Solutions](https://jobright.ai/jobs/info/698751488da7a61204626ac5?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
+| **[InfraSingularity](https://infrasingularity.com)** | **[Business Development Intern (Web3)](https://jobright.ai/jobs/info/69877ffd8da7a612046299af?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Feb 07 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Ohio](https://jobright.ai/jobs/info/68c1edf84d652f044775bca1?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Feb 07 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2026)](https://jobright.ai/jobs/info/68df07f15ab4977c2e94ca94?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/68c1efd163b706703e110630?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Signature Experiences Pricing & Revenue Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698729020f6f7e7a2ce269ce?utm_campaign=1051&utm_source=git)** | Celebration, FL | On Site | Feb 07 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Laramie, WY](https://jobright.ai/jobs/info/6933095ea0dde7020e2ea0e7?utm_campaign=1051&utm_source=git)** | Laramie, WY | On Site | Feb 07 |
 | ↳ | **[Student Housing Operations Intern - Sunderland, MA](https://jobright.ai/jobs/info/6932fcc2f131d96e4845f04b?utm_campaign=1051&utm_source=git)** | Sunderland, MA | On Site | Feb 07 |
-| ↳ | **[Student Housing Operations Intern - Minneapolis, MN](https://jobright.ai/jobs/info/6932f17a764507023d1b1376?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
-| **[Legends Global](http://legends.net)** | **[Group Sales Internship](https://jobright.ai/jobs/info/69871df98ca8121a3a69ac64?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
-| **[Acres](https://www.acres.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/698748218ca8121a3a69db02?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | Feb 07 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Pico Rivera, CA (Starting Summer 2026](https://jobright.ai/jobs/info/69873b480f6f7e7a2ce28527?utm_campaign=1051&utm_source=git)** | Pico Rivera, CA | On Site | Feb 07 |
-| ↳ | **[Kate Spade Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/69873dba8ca8121a3a69cf91?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 07 |
-| ↳ | **[Coach Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/69873c5f8da7a61204625368?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 07 |
-| ↳ | **[Coach Summer Store Leadership Intern-San Diego, California](https://jobright.ai/jobs/info/69873c3f8da7a6120462533a?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 07 |
-| ↳ | **[Kate Spade Summer Store Leadership Intern-Costa Mesa, California](https://jobright.ai/jobs/info/69873e558ca8121a3a69d046?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Feb 07 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Murrieta, CA (Starting Summer 2026)](https://jobright.ai/jobs/info/69873d468ca8121a3a69cf37?utm_campaign=1051&utm_source=git)** | Murrieta, CA | On Site | Feb 07 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - San Diego North County, CA (Starting Summer 2026](https://jobright.ai/jobs/info/69873b510f6f7e7a2ce28529?utm_campaign=1051&utm_source=git)** | Escondido, CA | On Site | Feb 07 |
-| **[Taylor Morrison](http://www.taylormorrison.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696ac8dc350cf4380311db68?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 07 |
-| **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Assoc Dir of Development, Internal Medicine](https://jobright.ai/jobs/info/698730ee8da7a61204624293?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
