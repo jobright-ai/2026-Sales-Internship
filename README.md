@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zenvica X](zenvicax.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/698779f50f6f7e7a2ce2c324?utm_campaign=1051&utm_source=git)** | Bellvue, CO | Remote | Feb 07 |
+| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69782e5688e2b47213bc3479?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Feb 07 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Michigan) - Summer '26](https://jobright.ai/jobs/info/68c2893903b99f6b3429507d?utm_campaign=1051&utm_source=git)** | Edmore, MI | On Site | Feb 07 |
 | **[SNY](https://www.sny.tv/)** | **[Advertising Sales and Sponsorship Intern](https://jobright.ai/jobs/info/698773988ca8121a3a6a037b?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Feb 07 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - New Jersey](https://jobright.ai/jobs/info/68c1eae34d652f044775b9d3?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Feb 07 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Acres](https://www.acres.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/698748218ca8121a3a69db02?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | Feb 07 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Pico Rivera, CA (Starting Summer 2026](https://jobright.ai/jobs/info/69873b480f6f7e7a2ce28527?utm_campaign=1051&utm_source=git)** | Pico Rivera, CA | On Site | Feb 07 |
 | ↳ | **[Kate Spade Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/69873dba8ca8121a3a69cf91?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 07 |
-| ↳ | **[Coach Summer Store Leadership Intern-San Diego, California](https://jobright.ai/jobs/info/69873c3f8da7a6120462533a?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 07 |
 | ↳ | **[Coach Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/69873c5f8da7a61204625368?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 07 |
+| ↳ | **[Coach Summer Store Leadership Intern-San Diego, California](https://jobright.ai/jobs/info/69873c3f8da7a6120462533a?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 07 |
 | ↳ | **[Kate Spade Summer Store Leadership Intern-Costa Mesa, California](https://jobright.ai/jobs/info/69873e558ca8121a3a69d046?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Feb 07 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Murrieta, CA (Starting Summer 2026)](https://jobright.ai/jobs/info/69873d468ca8121a3a69cf37?utm_campaign=1051&utm_source=git)** | Murrieta, CA | On Site | Feb 07 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - San Diego North County, CA (Starting Summer 2026](https://jobright.ai/jobs/info/69873b510f6f7e7a2ce28529?utm_campaign=1051&utm_source=git)** | Escondido, CA | On Site | Feb 07 |
 | **[Taylor Morrison](http://www.taylormorrison.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696ac8dc350cf4380311db68?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 07 |
 | **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Assoc Dir of Development, Internal Medicine](https://jobright.ai/jobs/info/698730ee8da7a61204624293?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 07 |
-| **[Calgary Chamber of Commerce](https://www.calgarychamber.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6986fd980f6f7e7a2ce238fa?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 07 |
-| **[Amazon](https://amazon.com)** | **[2026 Account Representative Intern, CAN, PSME Canada Sales](https://jobright.ai/jobs/info/698721258da7a61204623717?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
