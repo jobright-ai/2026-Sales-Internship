@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Corporate Partnerships Matchday Activation](https://jobright.ai/jobs/info/6987953c8da7a6120462a42f?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Feb 07 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Retail Summer Internship](https://jobright.ai/jobs/info/698792de0f6f7e7a2ce2cfbe?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/69878c508da7a61204629ec7?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Feb 07 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/69878c1a8ca8121a3a6a1463?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Qualcomm](http://www.qualcomm.com)** | **[Sales & Business Development Internship - Summer 2026](https://jobright.ai/jobs/info/6961d21ee7ed9a5731baa01c?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Signature Experiences Pricing & Revenue Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698729020f6f7e7a2ce269ce?utm_campaign=1051&utm_source=git)** | Celebration, FL | On Site | Feb 07 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Laramie, WY](https://jobright.ai/jobs/info/6933095ea0dde7020e2ea0e7?utm_campaign=1051&utm_source=git)** | Laramie, WY | On Site | Feb 07 |
-| ↳ | **[Student Housing Operations Intern - Sunderland, MA](https://jobright.ai/jobs/info/6932fcc2f131d96e4845f04b?utm_campaign=1051&utm_source=git)** | Sunderland, MA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
