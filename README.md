@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Burien](https://jobright.ai/jobs/info/68ddda1244d32141e0bfb325?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Feb 08 |
+| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a5f5f131d96e48465769?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Feb 08 |
+| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8acca125e75c422abdfd?utm_campaign=1051&utm_source=git)** | Rainbow City, AL | On Site | Feb 08 |
+| ↳ | **[Summer 2026 Management Trainee Sales Internship - Kennewick](https://jobright.ai/jobs/info/68ddda34a125e75c422af617?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Feb 08 |
+| ↳ | **[Summer 2026 Management Trainee Sales Internship - Olympia](https://jobright.ai/jobs/info/693402c4764507023d1bb57e?utm_campaign=1051&utm_source=git)** | Lacey, WA | On Site | Feb 08 |
 | **[Velastra](velastra.us)** | **[Commercial Intern (Sportsbook) - Summer 2026](https://jobright.ai/jobs/info/6988a5158ca8121a3a6b26b3?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Feb 08 |
 | **[Brixenta](brixenta.us)** | **[Commercial Year-Round Intern (May 2026 Start)](https://jobright.ai/jobs/info/6988a2178da7a6120463b6a2?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Feb 08 |
 | **[National Life Group](https://www.nationallife.com)** | **[Advanced Sales Internship - Summer 2026](https://jobright.ai/jobs/info/696bf366350cf43803132661?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Feb 08 |
@@ -114,7 +119,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/69878adc0f6f7e7a2ce2cb3f?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Feb 07 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Purchasing](https://jobright.ai/jobs/info/697ad308c532c4768fe088e9?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[CRM Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69877ff28da7a612046299ab?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
-| **[Zenvica X](zenvicax.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/698779f50f6f7e7a2ce2c324?utm_campaign=1051&utm_source=git)** | Bellvue, CO | Remote | Feb 07 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69782e5688e2b47213bc3479?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Feb 07 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Michigan) - Summer '26](https://jobright.ai/jobs/info/68c2893903b99f6b3429507d?utm_campaign=1051&utm_source=git)** | Edmore, MI | On Site | Feb 07 |
 | **[SNY](https://www.sny.tv/)** | **[Advertising Sales and Sponsorship Intern](https://jobright.ai/jobs/info/698773988ca8121a3a6a037b?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Feb 07 |
@@ -134,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/696b21f3350cf43803127a0d?utm_campaign=1051&utm_source=git)** | Coconut Creek, FL | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933c058f131d96e48466bf8?utm_campaign=1051&utm_source=git)** | Research Park, CA | Hybrid | Feb 07 |
 | **[SWBC](https://www.swbc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd8beea125e75c422ac0aa?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Feb 07 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Payroll Business Systems Co-op](https://jobright.ai/jobs/info/69875da60f6f7e7a2ce2a11a?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/697047ad587dfa0bb55dcd38?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Feb 07 |
 | ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933b87b764507023d1b8a5f?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | Hybrid | Feb 07 |
 | ↳ | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6986c4078da7a6120461b828?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | Hybrid | Feb 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6900accf4539ea1f21418f71?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern, Digital Solutions](https://jobright.ai/jobs/info/698751488da7a61204626ac5?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Ohio](https://jobright.ai/jobs/info/68c1edf84d652f044775bca1?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Feb 07 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2026)](https://jobright.ai/jobs/info/68df07f15ab4977c2e94ca94?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/68c1efd163b706703e110630?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
-| **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Spring - Corporate Partnerships](https://jobright.ai/jobs/info/69169012286ccf0a15137744?utm_campaign=1051&utm_source=git)** | Harrison, NJ | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
