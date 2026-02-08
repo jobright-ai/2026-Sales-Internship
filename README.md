@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[OpenSesame](http://www.OpenSesame.com)** | **[Sales & Partnerships Internship - Summer 2026](https://jobright.ai/jobs/info/69210b8f00c9ee50eaecb1de?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 07 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative / Internship Program](https://jobright.ai/jobs/info/6987f2638ca8121a3a6a5ee5?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Feb 07 |
+| **[OpenSesame](http://www.OpenSesame.com)** | **[Sales & Partnerships Internship - Summer 2026](https://jobright.ai/jobs/info/69210b8f00c9ee50eaecb1de?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 07 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6987e1678ca8121a3a6a4bb3?utm_campaign=1051&utm_source=git)** | Londonderry, NH | On Site | Feb 07 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/68dd7a55a125e75c422aaf2f?utm_campaign=1051&utm_source=git)** | Little Rock, Arkansas | On Site | Feb 07 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Corporate Partnerships Matchday Activation](https://jobright.ai/jobs/info/6987953c8da7a6120462a42f?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Feb 07 |
