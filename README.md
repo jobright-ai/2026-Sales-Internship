@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Velastra](velastra.us)** | **[Commercial Intern (Sportsbook) - Summer 2026](https://jobright.ai/jobs/info/6988a5158ca8121a3a6b26b3?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Feb 08 |
+| **[Brixenta](brixenta.us)** | **[Commercial Year-Round Intern (May 2026 Start)](https://jobright.ai/jobs/info/6988a2178da7a6120463b6a2?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Feb 08 |
+| **[National Life Group](https://www.nationallife.com)** | **[Advanced Sales Internship - Summer 2026](https://jobright.ai/jobs/info/696bf366350cf43803132661?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Feb 08 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Intern](https://jobright.ai/jobs/info/6917d3c2bcdbf3560c9cbbce?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Feb 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Fairbanks](https://jobright.ai/jobs/info/68ddd9da09bda65a4b62479f?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8bde44d32141e0bf7eda?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Feb 08 |
@@ -73,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698881598da7a61204639101?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 08 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698881068ca8121a3a6b01e9?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Feb 08 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/698880f18da7a612046390ea?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Feb 08 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69887ffb0f6f7e7a2ce3b8e3?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Feb 08 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69887ffb0f6f7e7a2ce3b8e2?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Feb 08 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69887ffb0f6f7e7a2ce3b8e3?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Feb 08 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69887fec0f6f7e7a2ce3b8de?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Feb 08 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Starkville, MS](https://jobright.ai/jobs/info/6932fbad764507023d1b1717?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Feb 08 |
 | ↳ | **[Student Housing Operations Intern - Normal, IL](https://jobright.ai/jobs/info/6932fe20764507023d1b1807?utm_campaign=1051&utm_source=git)** | Normal, IL | On Site | Feb 08 |
@@ -141,8 +144,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69333a5ca0dde7020e2eb9c9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Feb 07 |
 | ↳ | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/693323a6764507023d1b27c8?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Feb 07 |
 | ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/693358d8f131d96e484624b2?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Feb 07 |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business System and Payroll Co-op](https://jobright.ai/jobs/info/698759528da7a612046271e7?utm_campaign=1051&utm_source=git)** | Ohio, United States | Hybrid | Feb 07 |
-| **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933624c764507023d1b511c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 07 |
+| ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933624c764507023d1b511c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 07 |
 | ↳ | **[Digital Seller Intern– Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933552d764507023d1b4592?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | On Site | Feb 07 |
 | ↳ | **[Technology Lifecycle Services Renewals Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6967f6561703f05405a99234?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Feb 07 |
 | ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6967f7e01703f05405a994ea?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2026)](https://jobright.ai/jobs/info/68df07f15ab4977c2e94ca94?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/68c1efd163b706703e110630?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Spring - Corporate Partnerships](https://jobright.ai/jobs/info/69169012286ccf0a15137744?utm_campaign=1051&utm_source=git)** | Harrison, NJ | On Site | Feb 07 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - New Orleans](https://jobright.ai/jobs/info/68c1ec044d652f044775baee?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Feb 07 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Portland](https://jobright.ai/jobs/info/68c1ee1c33864f172f9bba56?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
