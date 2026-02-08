@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Detroit Lions](http://www.detroitlions.com)** | **[Premium Service Intern](https://jobright.ai/jobs/info/697cd34f137a05102565c5a4?utm_campaign=1051&utm_source=git)** | Detroit, MI 48226 | On Site | Feb 08 |
+| **[Triple-S Steel](Www.sss-steel.no)** | **[Sales & Operations Intern](https://jobright.ai/jobs/info/698854200f6f7e7a2ce39591?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Feb 08 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Towerstone Intern - Summer 2026](https://jobright.ai/jobs/info/692f72cafa28370be26aa337?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | On Site | Feb 08 |
 | **[GSD&M](http://www.gsdm.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/696ebaf85fc86241853da26f?utm_campaign=1051&utm_source=git)** | Austin | Hybrid | Feb 07 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/6988142d8da7a61204631b6a?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 07 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Commercial Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69880f188ca8121a3a6a8990?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Feb 07 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/69878c1a8ca8121a3a6a1463?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Feb 07 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/69878b9f0f6f7e7a2ce2cbec?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/69878adc0f6f7e7a2ce2cb3f?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Feb 07 |
-| **[Greystar](https://www.stoneridgemp.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/6987890f8da7a61204629df4?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Purchasing](https://jobright.ai/jobs/info/697ad308c532c4768fe088e9?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[CRM Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69877ff28da7a612046299ab?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | **[Zenvica X](zenvicax.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/698779f50f6f7e7a2ce2c324?utm_campaign=1051&utm_source=git)** | Bellvue, CO | Remote | Feb 07 |
@@ -109,13 +111,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Seller Intern– Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933552d764507023d1b4592?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | On Site | Feb 07 |
 | ↳ | **[Technology Lifecycle Services Renewals Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6967f6561703f05405a99234?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Feb 07 |
 | ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6967f7e01703f05405a994ea?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
-| **[Brixenta](brixenta.us)** | **[Commercial Intern (Sportsbook) - Summer 2026](https://jobright.ai/jobs/info/6987547c8da7a61204626df1?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Feb 07 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Texas - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/6987537f0f6f7e7a2ce29af7?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Feb 07 |
 | **[Brixenta](brixenta.us)** | **[Commercial Year-Round Intern (May 2026 Start)](https://jobright.ai/jobs/info/698753508da7a61204626cc5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Feb 07 |
 | **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69364cdca0dde7020e2fac0f?utm_campaign=1051&utm_source=git)** | Midland, TX | On Site | Feb 07 |
 | **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6900accf4539ea1f21418f71?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern, Digital Solutions](https://jobright.ai/jobs/info/698751488da7a61204626ac5?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
-| **[InfraSingularity](https://infrasingularity.com)** | **[Business Development Intern (Web3)](https://jobright.ai/jobs/info/69877ffd8da7a612046299af?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Feb 07 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Ohio](https://jobright.ai/jobs/info/68c1edf84d652f044775bca1?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Feb 07 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2026)](https://jobright.ai/jobs/info/68df07f15ab4977c2e94ca94?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/68c1efd163b706703e110630?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
