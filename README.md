@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Starkville, MS](https://jobright.ai/jobs/info/6932fbad764507023d1b1717?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Feb 08 |
+| ↳ | **[Student Housing Operations Intern - Normal, IL](https://jobright.ai/jobs/info/6932fe20764507023d1b1807?utm_campaign=1051&utm_source=git)** | Normal, IL | On Site | Feb 08 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/691840e315b4156367180813?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 08 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/6988756e0f6f7e7a2ce3b6cd?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Feb 08 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Fort Collins, CO](https://jobright.ai/jobs/info/6933029fa0dde7020e2e9e0c?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Feb 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/69873f358da7a6120462573c?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Bookable Experiences Revenue Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69873e2b8da7a612046255ee?utm_campaign=1051&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 07 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist](https://jobright.ai/jobs/info/69873cee0f6f7e7a2ce2858b?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Feb 07 |
-| **[Nextstep](https://mynextstep.jobs/)** | **[Sales And Marketing Internship](https://jobright.ai/jobs/info/69875f0f0f6f7e7a2ce2a236?utm_campaign=1051&utm_source=git)** | Pocatello, ID | On Site | Feb 07 |
-| **[Bold Orange](https://boldorange.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69873c778ca8121a3a69cf0b?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
