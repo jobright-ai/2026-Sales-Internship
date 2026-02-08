@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bluecrest Partners](bluecrestpartners.us)** | **[Inside Sales Internships](https://jobright.ai/jobs/info/6988d51c8da7a6120463d606?utm_campaign=1051&utm_source=git)** | Redlands, CA | Remote | Feb 08 |
+| **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd964044d32141e0bf8989?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/691d3a827481340785ed50da?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Feb 08 |
 | **[Stratify Edge](stratifyedge.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6988cb730f6f7e7a2ce3fbd6?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Feb 08 |
 | **[Hudl](http://www.hudl.com)** | **[Intern, Partnerships](https://jobright.ai/jobs/info/6988cb598ca8121a3a6b438f?utm_campaign=1051&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Feb 08 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/6988cb3e8da7a6120463d50d?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/696b21f3350cf43803127a0d?utm_campaign=1051&utm_source=git)** | Coconut Creek, FL | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933c058f131d96e48466bf8?utm_campaign=1051&utm_source=git)** | Research Park, CA | Hybrid | Feb 07 |
 | **[SWBC](https://www.swbc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd8beea125e75c422ac0aa?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Feb 07 |
-| **[IBM](http://www.ibm.com)** | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/697047ad587dfa0bb55dcd38?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Feb 07 |
-| ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933b87b764507023d1b8a5f?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | Hybrid | Feb 07 |
-| ↳ | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6986c4078da7a6120461b828?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
