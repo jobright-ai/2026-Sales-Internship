@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OpenSesame](http://www.OpenSesame.com)** | **[Sales & Partnerships Internship - Summer 2026](https://jobright.ai/jobs/info/69210b8f00c9ee50eaecb1de?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 07 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative / Internship Program](https://jobright.ai/jobs/info/6987f2638ca8121a3a6a5ee5?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Feb 07 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6987e1678ca8121a3a6a4bb3?utm_campaign=1051&utm_source=git)** | Londonderry, NH | On Site | Feb 07 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/68dd7a55a125e75c422aaf2f?utm_campaign=1051&utm_source=git)** | Little Rock, Arkansas | On Site | Feb 07 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Corporate Partnerships Matchday Activation](https://jobright.ai/jobs/info/6987953c8da7a6120462a42f?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Ann Arbor, MI](https://jobright.ai/jobs/info/6932f323764507023d1b1423?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern, National Sales](https://jobright.ai/jobs/info/696b55ca350cf4380312b75e?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Feb 07 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Baltimore, MD](https://jobright.ai/jobs/info/6932ff9da0dde7020e2e9d09?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Feb 07 |
-| **[Qualcomm](http://www.qualcomm.com)** | **[Sales & Business Development Internship - Summer 2026](https://jobright.ai/jobs/info/6961d21ee7ed9a5731baa01c?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 07 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Signature Experiences Pricing & Revenue Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698729020f6f7e7a2ce269ce?utm_campaign=1051&utm_source=git)** | Celebration, FL | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
