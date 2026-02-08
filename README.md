@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6987e1678ca8121a3a6a4bb3?utm_campaign=1051&utm_source=git)** | Londonderry, NH | On Site | Feb 07 |
+| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/68dd7a55a125e75c422aaf2f?utm_campaign=1051&utm_source=git)** | Little Rock, Arkansas | On Site | Feb 07 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Corporate Partnerships Matchday Activation](https://jobright.ai/jobs/info/6987953c8da7a6120462a42f?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Feb 07 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Pricing Specialist FT – 6588](https://jobright.ai/jobs/info/6987b4138ca8121a3a6a3e5b?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Feb 07 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Retail Summer Internship](https://jobright.ai/jobs/info/698792de0f6f7e7a2ce2cfbe?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
@@ -65,9 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/69878b9f0f6f7e7a2ce2cbec?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/69878adc0f6f7e7a2ce2cb3f?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Feb 07 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/6987890f8da7a61204629df4?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
-| **[VertoTech](vertotech.us)** | **[Commercial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698786c80f6f7e7a2ce2c9d2?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 07 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Purchasing](https://jobright.ai/jobs/info/697ad308c532c4768fe088e9?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 07 |
-| **[JRA Ventures](https://www.jraventures.com/)** | **[Sales & Service Intern](https://jobright.ai/jobs/info/698782270f6f7e7a2ce2c70c?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Feb 07 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[CRM Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69877ff28da7a612046299ab?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | **[Zenvica X](zenvicax.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/698779f50f6f7e7a2ce2c324?utm_campaign=1051&utm_source=git)** | Bellvue, CO | Remote | Feb 07 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69782e5688e2b47213bc3479?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Feb 07 |
