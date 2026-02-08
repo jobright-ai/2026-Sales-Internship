@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reviora](reviora.us)** | **[Business System and Payroll Co-op](https://jobright.ai/jobs/info/6988f22b8ca8121a3a6b523c?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | Feb 08 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk PT 6634](https://jobright.ai/jobs/info/6988eef90f6f7e7a2ce407f0?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Feb 08 |
+| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6988eb2d8da7a6120463de93?utm_campaign=1051&utm_source=git)** | Plymouth, MN | On Site | Feb 08 |
+| **[Hudl](http://www.hudl.com)** | **[Intern, Partnerships](https://jobright.ai/jobs/info/6988d87e8da7a6120463d64b?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Feb 08 |
+| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6988ea370f6f7e7a2ce40532?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 08 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6988ea0d8ca8121a3a6b4cc6?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Feb 08 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Corporate Partnerships](https://jobright.ai/jobs/info/6988e6b88ca8121a3a6b4a9f?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Feb 08 |
 | **[Professional Photographers of America](https://www.ppa.com)** | **[Membership Intern](https://jobright.ai/jobs/info/6988e6888da7a6120463dbd4?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
-| **[Hudl](http://www.hudl.com)** | **[Intern, Partnerships](https://jobright.ai/jobs/info/6988d87e8da7a6120463d64b?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Feb 08 |
 | **[Bluecrest Partners](bluecrestpartners.us)** | **[Inside Sales Internships](https://jobright.ai/jobs/info/6988d51c8da7a6120463d606?utm_campaign=1051&utm_source=git)** | Redlands, CA | Remote | Feb 08 |
 | **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd964044d32141e0bf8989?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/691d3a827481340785ed50da?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Feb 08 |
@@ -102,8 +107,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698881598da7a61204639101?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 08 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698881068ca8121a3a6b01e9?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Feb 08 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/698880f18da7a612046390ea?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Feb 08 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69887ffb0f6f7e7a2ce3b8e2?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Feb 08 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69887ffb0f6f7e7a2ce3b8e3?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Feb 08 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69887ffb0f6f7e7a2ce3b8e2?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Feb 08 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69887fec0f6f7e7a2ce3b8de?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Feb 08 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Starkville, MS](https://jobright.ai/jobs/info/6932fbad764507023d1b1717?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Feb 08 |
 | ↳ | **[Student Housing Operations Intern - Normal, IL](https://jobright.ai/jobs/info/6932fe20764507023d1b1807?utm_campaign=1051&utm_source=git)** | Normal, IL | On Site | Feb 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Jr. Executive Sales Intern - Philadelphia](https://jobright.ai/jobs/info/68c1ef4c63b706703e110570?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Feb 07 |
 | ↳ | **[Summer Jr. Executive Sales Intern - North Carolina](https://jobright.ai/jobs/info/68c1ee394d652f044775bcdb?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Long Island](https://jobright.ai/jobs/info/68c1efde63b706703e110642?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Feb 07 |
-| ↳ | **[Summer Jr. Executive Sales Intern - St. Louis](https://jobright.ai/jobs/info/68c1f1a663b706703e1108b9?utm_campaign=1051&utm_source=git)** | Clayton, MO | On Site | Feb 07 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Texas](https://jobright.ai/jobs/info/68c1ee4963b706703e110470?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
-| **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/693370fba0dde7020e2ee0cd?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | Hybrid | Feb 07 |
-| **[PEAC Solutions](http://www.peacsolutions.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f1ef7cf462172a5a7de223?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 07 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/696b21f3350cf43803127a0d?utm_campaign=1051&utm_source=git)** | Coconut Creek, FL | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
