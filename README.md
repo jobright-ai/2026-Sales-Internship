@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/6988142d8da7a61204631b6a?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 07 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Commercial Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69880f188ca8121a3a6a8990?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Feb 07 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative / Internship Program](https://jobright.ai/jobs/info/6987f2638ca8121a3a6a5ee5?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Feb 07 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Sales & Partnerships Internship - Summer 2026](https://jobright.ai/jobs/info/69210b8f00c9ee50eaecb1de?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 07 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6987e1678ca8121a3a6a4bb3?utm_campaign=1051&utm_source=git)** | Londonderry, NH | On Site | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Housing Operations Intern - Muncie, IN](https://jobright.ai/jobs/info/693302bbf131d96e4845f2b5?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Feb 07 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Central TX](https://jobright.ai/jobs/info/69339c8ca0dde7020e2ef9d3?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Feb 07 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Ann Arbor, MI](https://jobright.ai/jobs/info/6932f323764507023d1b1423?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
-| **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern, National Sales](https://jobright.ai/jobs/info/696b55ca350cf4380312b75e?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Feb 07 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Baltimore, MD](https://jobright.ai/jobs/info/6932ff9da0dde7020e2e9d09?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
