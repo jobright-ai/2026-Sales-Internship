@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Tri-State](https://jobright.ai/jobs/info/6989556d47434001cc6774ba?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Feb 08 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Sales & Marketing](https://jobright.ai/jobs/info/69893d330f6f7e7a2ce446b1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
 | ↳ | **[Summer Intern, Sales & Marketing](https://jobright.ai/jobs/info/69893d058ca8121a3a6b8d34?utm_campaign=1051&utm_source=git)** | Berkeley Heights, NJ | On Site | Feb 08 |
 | **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 E-Commerce Suppy Chain Internship (Kill Devil Hills)](https://jobright.ai/jobs/info/698936780f6f7e7a2ce443c5?utm_campaign=1051&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[CRM Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69877ff28da7a612046299ab?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69782e5688e2b47213bc3479?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Feb 07 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Michigan) - Summer '26](https://jobright.ai/jobs/info/68c2893903b99f6b3429507d?utm_campaign=1051&utm_source=git)** | Edmore, MI | On Site | Feb 07 |
-| **[SNY](https://www.sny.tv/)** | **[Advertising Sales and Sponsorship Intern](https://jobright.ai/jobs/info/698773988ca8121a3a6a037b?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
