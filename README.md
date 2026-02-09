@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[intern](https://jobright.ai/jobs/info/698a07184db8972cecff4424?utm_campaign=1051&utm_source=git)** | Fairhope, Alabama, United States of America | On Site | Feb 09 |
+| **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Sales Intern (Carrier)](https://jobright.ai/jobs/info/698a071747434001cc683839?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Feb 09 |
+| **[Blitz Corp](www.useblitz.co)** | **[Sales GTM Intern](https://jobright.ai/jobs/info/698a06254db8972cecff43bd?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 09 |
+| **[Testek Solutions](http://www.testek.com/)** | **[Aftermarket Internship](https://jobright.ai/jobs/info/698a04524db8972cecff42aa?utm_campaign=1051&utm_source=git)** | Wixom, MI | On Site | Feb 09 |
+| **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Sales Intern (Carrier)](https://jobright.ai/jobs/info/698a02320f6f7e7a2ce51301?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | Hybrid | Feb 09 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Sales/Operations Internship - Raleigh, NC](https://jobright.ai/jobs/info/6982e95f0f6f7e7a2cdc62fb?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Feb 09 |
+| **[University Health Network](https://www.uhn.ca/)** | **[Junior Coordinator (Intern), Gift Processing](https://jobright.ai/jobs/info/6989fe6447434001cc68342c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 09 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/6955f6e59f1b381eb26f2ca6?utm_campaign=1051&utm_source=git)** | Pine Bluff, AR | On Site | Feb 09 |
+| **[Kapitalwise Inc.](https://www.kapitalwise.com)** | **[Sales Development Intern (SDR Intern) – Remote](https://jobright.ai/jobs/info/6989fdcd47434001cc683236?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 09 |
+| **[Oracle](https://www.oracle.com/)** | **[Client Success Summer Intern, Oracle Energy and Water](https://jobright.ai/jobs/info/6989fd534db8972cecff3ecc?utm_campaign=1051&utm_source=git)** | Arlington, VA, United States | On Site | Feb 09 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business System and Payroll Co-op](https://jobright.ai/jobs/info/6989fb2d0f6f7e7a2ce50d5b?utm_campaign=1051&utm_source=git)** | California, United States | Hybrid | Feb 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/695624f6aa05c26e7ab06341?utm_campaign=1051&utm_source=git)** | Marshall, TX | On Site | Feb 09 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Detroit)](https://jobright.ai/jobs/info/696e1b625fc86241853cdcae?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Feb 09 |
@@ -143,18 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8acca125e75c422abdfd?utm_campaign=1051&utm_source=git)** | Rainbow City, AL | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Kennewick](https://jobright.ai/jobs/info/68ddda34a125e75c422af617?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Olympia](https://jobright.ai/jobs/info/693402c4764507023d1bb57e?utm_campaign=1051&utm_source=git)** | Lacey, WA | On Site | Feb 08 |
-| **[Brixenta](brixenta.us)** | **[Commercial Year-Round Intern (May 2026 Start)](https://jobright.ai/jobs/info/6988a2178da7a6120463b6a2?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Feb 08 |
 | **[National Life Group](https://www.nationallife.com)** | **[Advanced Sales Internship - Summer 2026](https://jobright.ai/jobs/info/696bf366350cf43803132661?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Feb 08 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Intern](https://jobright.ai/jobs/info/6917d3c2bcdbf3560c9cbbce?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Feb 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Fairbanks](https://jobright.ai/jobs/info/68ddd9da09bda65a4b62479f?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8bde44d32141e0bf7eda?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Feb 08 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8aa8a125e75c422abdad?utm_campaign=1051&utm_source=git)** | Anniston, AL | On Site | Feb 08 |
-| ↳ | **[Summer 2026 Management Trainee Sales Internship - Pullman](https://jobright.ai/jobs/info/68ddd9de09bda65a4b6247a4?utm_campaign=1051&utm_source=git)** | Pullman, WA | On Site | Feb 08 |
-| ↳ | **[Summer 2026 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/6933baf6f131d96e484667e5?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933cbebf131d96e48467243?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Feb 08 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2026)](https://jobright.ai/jobs/info/68defc2ea125e75c422b8d28?utm_campaign=1051&utm_source=git)** | Findlay, OH | On Site | Feb 08 |
-| **[WGAL 8 TV](https://www.wgal.com)** | **[WGAL Sales/Creative Services Intern - 2026 Summer](https://jobright.ai/jobs/info/68fc39964129dd33cd139efe?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Feb 08 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Starkville, MS](https://jobright.ai/jobs/info/6932fbad764507023d1b1717?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Feb 08 |
-| ↳ | **[Student Housing Operations Intern - Normal, IL](https://jobright.ai/jobs/info/6932fe20764507023d1b1807?utm_campaign=1051&utm_source=git)** | Normal, IL | On Site | Feb 08 |
-| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/691840e315b4156367180813?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
