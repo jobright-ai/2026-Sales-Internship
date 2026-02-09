@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business System and Payroll Co-op](https://jobright.ai/jobs/info/6989fb2d0f6f7e7a2ce50d5b?utm_campaign=1051&utm_source=git)** | California, United States | Hybrid | Feb 09 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/695624f6aa05c26e7ab06341?utm_campaign=1051&utm_source=git)** | Marshall, TX | On Site | Feb 09 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Detroit)](https://jobright.ai/jobs/info/696e1b625fc86241853cdcae?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Feb 09 |
 | ↳ | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68c47c23e471ef3ce16d6ac2?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Feb 09 |
 | **[Johns Manville](http://www.jm.com/)** | **[Sales Internship- Roofing Systems](https://jobright.ai/jobs/info/694a246063141d188459d4cc?utm_campaign=1051&utm_source=git)** | Mountain Home, TX | Hybrid | Feb 09 |
@@ -101,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Columbia Bank](http://www.columbiabankflorida.com)** | **[Private Trust Sales & Relationship Management Intern](https://jobright.ai/jobs/info/69899aee47434001cc67bfe3?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Feb 09 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GCM- Technical Sales and Trading Fall 2026 Intern/Co-op](https://jobright.ai/jobs/info/69899a7f0f6f7e7a2ce49d6b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 09 |
 | **[HP Marketing](https://www.hpros.com/)** | **[Sales Intern 2026 Summer](https://jobright.ai/jobs/info/69898b6647434001cc67b77d?utm_campaign=1051&utm_source=git)** | Melbourne, FL | On Site | Feb 08 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/6989666b0f6f7e7a2ce46902?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 08 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Tri-State](https://jobright.ai/jobs/info/6989556d47434001cc6774ba?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Feb 08 |
 | **[O'Connor Environmental Construction](https://oconnorconstructionfl.com/)** | **[Assistant to Owner](https://jobright.ai/jobs/info/6989dae047434001cc6800db?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL | Hybrid | Feb 08 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Sales & Marketing](https://jobright.ai/jobs/info/69893d330f6f7e7a2ce446b1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
@@ -111,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/69892aaa0f6f7e7a2ce426f7?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Feb 08 |
 | **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 Retail Management Internship (Outer Banks, NC)](https://jobright.ai/jobs/info/69892a6a8ca8121a3a6b6dd1?utm_campaign=1051&utm_source=git)** | Banks, OR | On Site | Feb 08 |
 | ↳ | **[2026 Retail Merchandising Intern (Outer Banks, NC)](https://jobright.ai/jobs/info/69892a428da7a61204640061?utm_campaign=1051&utm_source=git)** | Banks, OR | On Site | Feb 08 |
+| **[Everblue](https://www.goeverblue.com)** | **[Business Development & Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6989f9070f6f7e7a2ce50cbd?utm_campaign=1051&utm_source=git)** | Huntersville, NC | On Site | Feb 08 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Sales Development Representative- DOD Skillbridge Internship](https://jobright.ai/jobs/info/69891e708ca8121a3a6b6d3b?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Feb 08 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Corporate Business Development MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6973b5b7206da320f49db463?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 08 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk PT 6634](https://jobright.ai/jobs/info/6988eef90f6f7e7a2ce407f0?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Feb 08 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Pullman](https://jobright.ai/jobs/info/68ddd9de09bda65a4b6247a4?utm_campaign=1051&utm_source=git)** | Pullman, WA | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/6933baf6f131d96e484667e5?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933cbebf131d96e48467243?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Feb 08 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6989ec6247434001cc682759?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Feb 08 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2026)](https://jobright.ai/jobs/info/68defc2ea125e75c422b8d28?utm_campaign=1051&utm_source=git)** | Findlay, OH | On Site | Feb 08 |
 | **[WGAL 8 TV](https://www.wgal.com)** | **[WGAL Sales/Creative Services Intern - 2026 Summer](https://jobright.ai/jobs/info/68fc39964129dd33cd139efe?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Feb 08 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Starkville, MS](https://jobright.ai/jobs/info/6932fbad764507023d1b1717?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Feb 08 |
 | ↳ | **[Student Housing Operations Intern - Normal, IL](https://jobright.ai/jobs/info/6932fe20764507023d1b1807?utm_campaign=1051&utm_source=git)** | Normal, IL | On Site | Feb 08 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/691840e315b4156367180813?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 08 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Fort Collins, CO](https://jobright.ai/jobs/info/6933029fa0dde7020e2e9e0c?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
