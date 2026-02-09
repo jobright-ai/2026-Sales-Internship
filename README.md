@@ -57,20 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Sales & Marketing](https://jobright.ai/jobs/info/69893d330f6f7e7a2ce446b1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
+| ↳ | **[Summer Intern, Sales & Marketing](https://jobright.ai/jobs/info/69893d058ca8121a3a6b8d34?utm_campaign=1051&utm_source=git)** | Berkeley Heights, NJ | On Site | Feb 08 |
+| **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 E-Commerce Suppy Chain Internship (Kill Devil Hills)](https://jobright.ai/jobs/info/698936780f6f7e7a2ce443c5?utm_campaign=1051&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 08 |
+| ↳ | **[2026 Buying and Procurement Internship (Kill Devil Hills)](https://jobright.ai/jobs/info/698936668ca8121a3a6b88da?utm_campaign=1051&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 08 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/69892aaa0f6f7e7a2ce426f7?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Feb 08 |
 | **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 Retail Management Internship (Outer Banks, NC)](https://jobright.ai/jobs/info/69892a6a8ca8121a3a6b6dd1?utm_campaign=1051&utm_source=git)** | Banks, OR | On Site | Feb 08 |
 | ↳ | **[2026 Retail Merchandising Intern (Outer Banks, NC)](https://jobright.ai/jobs/info/69892a428da7a61204640061?utm_campaign=1051&utm_source=git)** | Banks, OR | On Site | Feb 08 |
 | **[StartHub](http://starthub.academy/)** | **[Startup Partnerships Intern](https://jobright.ai/jobs/info/698927650f6f7e7a2ce426c8?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Feb 08 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Sales Development Representative- DOD Skillbridge Internship](https://jobright.ai/jobs/info/69891e708ca8121a3a6b6d3b?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Feb 08 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Corporate Business Development MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6973b5b7206da320f49db463?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 08 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Commercial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6988f78b8da7a6120463f048?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 08 |
 | **[Reviora](reviora.us)** | **[Business System and Payroll Co-op](https://jobright.ai/jobs/info/6988f22b8ca8121a3a6b523c?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | Feb 08 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk PT 6634](https://jobright.ai/jobs/info/6988eef90f6f7e7a2ce407f0?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Feb 08 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6988eb2d8da7a6120463de93?utm_campaign=1051&utm_source=git)** | Plymouth, MN | On Site | Feb 08 |
 | **[Hudl](http://www.hudl.com)** | **[Intern, Partnerships](https://jobright.ai/jobs/info/6988d87e8da7a6120463d64b?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Feb 08 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6988ea370f6f7e7a2ce40532?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 08 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6988ea0d8ca8121a3a6b4cc6?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Feb 08 |
-| **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Corporate Partnerships](https://jobright.ai/jobs/info/6988e6b88ca8121a3a6b4a9f?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Feb 08 |
 | **[Professional Photographers of America](https://www.ppa.com)** | **[Membership Intern](https://jobright.ai/jobs/info/6988e6888da7a6120463dbd4?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
 | **[Bluecrest Partners](bluecrestpartners.us)** | **[Inside Sales Internships](https://jobright.ai/jobs/info/6988d51c8da7a6120463d606?utm_campaign=1051&utm_source=git)** | Redlands, CA | Remote | Feb 08 |
 | **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd964044d32141e0bf8989?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69782e5688e2b47213bc3479?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Feb 07 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Michigan) - Summer '26](https://jobright.ai/jobs/info/68c2893903b99f6b3429507d?utm_campaign=1051&utm_source=git)** | Edmore, MI | On Site | Feb 07 |
 | **[SNY](https://www.sny.tv/)** | **[Advertising Sales and Sponsorship Intern](https://jobright.ai/jobs/info/698773988ca8121a3a6a037b?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Feb 07 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - New Jersey](https://jobright.ai/jobs/info/68c1eae34d652f044775b9d3?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Feb 07 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Sacramento](https://jobright.ai/jobs/info/68c1eb544d652f044775ba49?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
