@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NewForm](https://newform.com)** | **[Business Development (GTM) intern](https://jobright.ai/jobs/info/69890cb30f6f7e7a2ce424b6?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Feb 08 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Commercial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6988f78b8da7a6120463f048?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 08 |
 | **[Reviora](reviora.us)** | **[Business System and Payroll Co-op](https://jobright.ai/jobs/info/6988f22b8ca8121a3a6b523c?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | Feb 08 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk PT 6634](https://jobright.ai/jobs/info/6988eef90f6f7e7a2ce407f0?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Jr. Executive Sales Intern - Tampa](https://jobright.ai/jobs/info/68c1ed8a4d652f044775bc30?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Feb 07 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Miami](https://jobright.ai/jobs/info/68c1edb363b706703e1103d7?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Feb 07 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Philadelphia](https://jobright.ai/jobs/info/68c1ef4c63b706703e110570?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Feb 07 |
-| ↳ | **[Summer Jr. Executive Sales Intern - North Carolina](https://jobright.ai/jobs/info/68c1ee394d652f044775bcdb?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
