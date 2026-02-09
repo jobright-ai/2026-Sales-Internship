@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - Great Lakes Region](https://jobright.ai/jobs/info/696dbbd15fc86241853c95f2?utm_campaign=1051&utm_source=git)** | Ohio, United States | Hybrid | Feb 09 |
+| **[SparkPrintz](https://www.sparkprintz.com/)** | **[High School Sale and Marketing Intern](https://jobright.ai/jobs/info/69899b050f6f7e7a2ce49dc6?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 09 |
+| **[Columbia Bank](http://www.columbiabankflorida.com)** | **[Private Trust Sales & Relationship Management Intern](https://jobright.ai/jobs/info/69899aee47434001cc67bfe3?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Feb 09 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[GCM- Technical Sales and Trading Fall 2026 Intern/Co-op](https://jobright.ai/jobs/info/69899a7f0f6f7e7a2ce49d6b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 09 |
 | **[HP Marketing](https://www.hpros.com/)** | **[Sales Intern 2026 Summer](https://jobright.ai/jobs/info/69898b6647434001cc67b77d?utm_campaign=1051&utm_source=git)** | Melbourne, FL | On Site | Feb 08 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/6989666b0f6f7e7a2ce46902?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 08 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Tri-State](https://jobright.ai/jobs/info/6989556d47434001cc6774ba?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Feb 08 |
@@ -80,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd964044d32141e0bf8989?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/691d3a827481340785ed50da?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Feb 08 |
 | **[Hudl](http://www.hudl.com)** | **[Intern, Partnerships](https://jobright.ai/jobs/info/6988cb598ca8121a3a6b438f?utm_campaign=1051&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Feb 08 |
-| **[Greystar](https://www.stoneridgemp.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/6988cb3e8da7a6120463d50d?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 08 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6988c4540f6f7e7a2ce3f848?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 08 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Las Vegas](https://jobright.ai/jobs/info/68c1efe763b706703e11064a?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Feb 08 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Kansas City](https://jobright.ai/jobs/info/68c1ef5363b706703e110576?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Feb 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/69878adc0f6f7e7a2ce2cb3f?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Feb 07 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Purchasing](https://jobright.ai/jobs/info/697ad308c532c4768fe088e9?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[CRM Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69877ff28da7a612046299ab?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69782e5688e2b47213bc3479?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Feb 07 |
-| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Michigan) - Summer '26](https://jobright.ai/jobs/info/68c2893903b99f6b3429507d?utm_campaign=1051&utm_source=git)** | Edmore, MI | On Site | Feb 07 |
-| **[SNY](https://www.sny.tv/)** | **[Advertising Sales and Sponsorship Intern](https://jobright.ai/jobs/info/698773988ca8121a3a6a037b?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
