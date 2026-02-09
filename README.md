@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[APCO](http://www.apcoworldwide.com)** | **[New Business (Business Development) Internship - Summer/Fall '26](https://jobright.ai/jobs/info/6989d3de4db8972cecff0914?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - Knoxville](https://jobright.ai/jobs/info/696072d37ebc25398eb669ac?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Feb 09 |
+| ↳ | **[2026 Management and Sales Internship (Metro New York)](https://jobright.ai/jobs/info/68c6754e7d0db4114273aa07?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 09 |
+| ↳ | **[2026 Management and Sales Summer Internship (Northern Michigan)](https://jobright.ai/jobs/info/696e1ba75fc86241853cdd48?utm_campaign=1051&utm_source=git)** | Flushing, MI | On Site | Feb 09 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6989c39e4db8972cecfeff91?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 09 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6989c3484db8972cecfeff1c?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 09 |
 | ↳ | **[Kate Spade Summer Store Leadership Intern-Costa Mesa, California](https://jobright.ai/jobs/info/6989c3334db8972cecfefeeb?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Feb 09 |
@@ -127,9 +131,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933cbebf131d96e48467243?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Feb 08 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2026)](https://jobright.ai/jobs/info/68defc2ea125e75c422b8d28?utm_campaign=1051&utm_source=git)** | Findlay, OH | On Site | Feb 08 |
 | **[WGAL 8 TV](https://www.wgal.com)** | **[WGAL Sales/Creative Services Intern - 2026 Summer](https://jobright.ai/jobs/info/68fc39964129dd33cd139efe?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Feb 08 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/698881648ca8121a3a6b01ff?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Feb 08 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/698880f18da7a612046390ea?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Feb 08 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69887ffb0f6f7e7a2ce3b8e2?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Feb 08 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Starkville, MS](https://jobright.ai/jobs/info/6932fbad764507023d1b1717?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Feb 08 |
 | ↳ | **[Student Housing Operations Intern - Normal, IL](https://jobright.ai/jobs/info/6932fe20764507023d1b1807?utm_campaign=1051&utm_source=git)** | Normal, IL | On Site | Feb 08 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/691840e315b4156367180813?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 08 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/6932f709764507023d1b15a6?utm_campaign=1051&utm_source=git)** | Windsor, NY | On Site | Feb 08 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Ames, IA](https://jobright.ai/jobs/info/6932fc52764507023d1b1768?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Feb 08 |
 | ↳ | **[Student Housing Operations Intern - Murfreesboro, TN](https://jobright.ai/jobs/info/6932fa56764507023d1b16a9?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Feb 08 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Coach Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/69886b828ca8121a3a6afe20?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 08 |
 | **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Merchandise Planning & Analysis](https://jobright.ai/jobs/info/698858688ca8121a3a6af02a?utm_campaign=1051&utm_source=git)** | Charlotte Metro | On Site | Feb 08 |
 | **[STO Building Group](https://stobuildinggroup.com)** | **[Intern - MV](https://jobright.ai/jobs/info/6917f03145fb6f5ead8a00ac?utm_campaign=1051&utm_source=git)** | Mountain View, CA | Hybrid | Feb 08 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[Sales Development Internship (Summer 2026)](https://jobright.ai/jobs/info/696b6e1f5fc86241853acdc3?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Feb 08 |
