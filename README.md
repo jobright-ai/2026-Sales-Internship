@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HP Marketing](https://www.hpros.com/)** | **[Sales Intern 2026 Summer](https://jobright.ai/jobs/info/69898b6647434001cc67b77d?utm_campaign=1051&utm_source=git)** | Melbourne, FL | On Site | Feb 08 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/6989666b0f6f7e7a2ce46902?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 08 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Tri-State](https://jobright.ai/jobs/info/6989556d47434001cc6774ba?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Feb 08 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Sales & Marketing](https://jobright.ai/jobs/info/69893d330f6f7e7a2ce446b1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/69892aaa0f6f7e7a2ce426f7?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Feb 08 |
 | **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 Retail Management Internship (Outer Banks, NC)](https://jobright.ai/jobs/info/69892a6a8ca8121a3a6b6dd1?utm_campaign=1051&utm_source=git)** | Banks, OR | On Site | Feb 08 |
 | ↳ | **[2026 Retail Merchandising Intern (Outer Banks, NC)](https://jobright.ai/jobs/info/69892a428da7a61204640061?utm_campaign=1051&utm_source=git)** | Banks, OR | On Site | Feb 08 |
-| **[StartHub](http://starthub.academy/)** | **[Startup Partnerships Intern](https://jobright.ai/jobs/info/698927650f6f7e7a2ce426c8?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Feb 08 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Sales Development Representative- DOD Skillbridge Internship](https://jobright.ai/jobs/info/69891e708ca8121a3a6b6d3b?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Feb 08 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Corporate Business Development MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6973b5b7206da320f49db463?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 08 |
 | **[Reviora](reviora.us)** | **[Business System and Payroll Co-op](https://jobright.ai/jobs/info/6988f22b8ca8121a3a6b523c?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | Feb 08 |
@@ -117,13 +117,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698881598da7a61204639101?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 08 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698881068ca8121a3a6b01e9?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Feb 08 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/698880f18da7a612046390ea?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Feb 08 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69887ffb0f6f7e7a2ce3b8e3?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Feb 08 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69887ffb0f6f7e7a2ce3b8e2?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Feb 08 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69887ffb0f6f7e7a2ce3b8e3?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Feb 08 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69887fec0f6f7e7a2ce3b8de?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Feb 08 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Starkville, MS](https://jobright.ai/jobs/info/6932fbad764507023d1b1717?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Feb 08 |
 | ↳ | **[Student Housing Operations Intern - Normal, IL](https://jobright.ai/jobs/info/6932fe20764507023d1b1807?utm_campaign=1051&utm_source=git)** | Normal, IL | On Site | Feb 08 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/691840e315b4156367180813?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 08 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/6988756e0f6f7e7a2ce3b6cd?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Feb 08 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Fort Collins, CO](https://jobright.ai/jobs/info/6933029fa0dde7020e2e9e0c?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Feb 08 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/6932f709764507023d1b15a6?utm_campaign=1051&utm_source=git)** | Windsor, NY | On Site | Feb 08 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Ames, IA](https://jobright.ai/jobs/info/6932fc52764507023d1b1768?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Feb 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[CRM Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69877ff28da7a612046299ab?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69782e5688e2b47213bc3479?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Feb 07 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Michigan) - Summer '26](https://jobright.ai/jobs/info/68c2893903b99f6b3429507d?utm_campaign=1051&utm_source=git)** | Edmore, MI | On Site | Feb 07 |
+| **[SNY](https://www.sny.tv/)** | **[Advertising Sales and Sponsorship Intern](https://jobright.ai/jobs/info/698773988ca8121a3a6a037b?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
