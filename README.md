@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Banker Intern (Greenville, SC - Main)](https://jobright.ai/jobs/info/698afaa44db8972cec006e79?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Feb 10 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698b14f44db8972cec008d40?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Feb 10 |
+| ↳ | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/698b130f4db8972cec008c36?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Feb 10 |
+| **[Pennrose](https://www.pennrose.com/)** | **[Development Internship](https://jobright.ai/jobs/info/698b042ec5761b521a9a6a6b?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Feb 10 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Banker Intern (Spartanburg, SC - Main)](https://jobright.ai/jobs/info/698afe9e0f6f7e7a2ce64f55?utm_campaign=1051&utm_source=git)** | Spartanburg, SC | On Site | Feb 10 |
+| ↳ | **[Banker Intern (Greenville, SC - Main)](https://jobright.ai/jobs/info/698afaa44db8972cec006e79?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Feb 10 |
 | ↳ | **[Banker Intern (Greenville, SC)](https://jobright.ai/jobs/info/698af6f5c5761b521a9a5396?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Feb 10 |
 | ↳ | **[Banker Intern (Myrtle Beach, SC)](https://jobright.ai/jobs/info/698af5f40f6f7e7a2ce63e9a?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Feb 10 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern - Revenue Management](https://jobright.ai/jobs/info/698af2454db8972cec00646d?utm_campaign=1051&utm_source=git)** | Burlington, MA | Hybrid | Feb 10 |
 | **[ARPflow.ai](https://www.nakad.co/)** | **[Intern](https://jobright.ai/jobs/info/698aeec44db8972cec00611c?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Feb 10 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern)-South Denver, CO(Starting Summer 2026)](https://jobright.ai/jobs/info/698aee080f6f7e7a2ce638f1?utm_campaign=1051&utm_source=git)** | Parker, CO | On Site | Feb 10 |
+| **[Pennrose](https://www.pennrose.com/)** | **[Development Internship (Graduate)](https://jobright.ai/jobs/info/698b0d6c4db8972cec008690?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Feb 10 |
 | **[Piedmont Plastics](http://piedmontplastics.com)** | **[Sales Support Specialist Intern - Multiple Locations](https://jobright.ai/jobs/info/698ae25ec5761b521a9a41d6?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Feb 09 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/698adb654db8972cec00547b?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 09 |
 | **[On Cue Social](https://www.linkedin.com/company/111819263)** | **[Growth & Partnerships Intern](https://jobright.ai/jobs/info/698acffac5761b521a9a3be9?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | Remote | Feb 09 |
@@ -145,16 +150,11 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/698a9764c5761b521a99dc7f?utm_campaign=1051&utm_source=git)** | Knoxville, TN | Remote | Feb 09 |
 | **[Marigold](https://meetmarigold.com)** | **[Commercial Revenue Intern](https://jobright.ai/jobs/info/698a72d64db8972cecffc3b9?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 09 |
 | ↳ | **[Commercial Revenue Intern](https://jobright.ai/jobs/info/698a72cfc5761b521a99ab30?utm_campaign=1051&utm_source=git)** | Remote, United States | Remote | Feb 09 |
-| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/698a959f4db8972cecfff025?utm_campaign=1051&utm_source=git)** | Eugene, OR | Remote | Feb 09 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/698a97fc4db8972cecfff2f1?utm_campaign=1051&utm_source=git)** | Norman, OK | Remote | Feb 09 |
+| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/698a97fc4db8972cecfff2f1?utm_campaign=1051&utm_source=git)** | Norman, OK | Remote | Feb 09 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/698a959f4db8972cecfff025?utm_campaign=1051&utm_source=git)** | Eugene, OR | Remote | Feb 09 |
 | **[Marigold](https://meetmarigold.com)** | **[Customer Success Manager - Intern](https://jobright.ai/jobs/info/698a7254c5761b521a99aa88?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 09 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Purchasing / Buyer Intern](https://jobright.ai/jobs/info/698a71e9c5761b521a99a9d1?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Feb 09 |
 | **[Surefire Cyber Inc.](https://surefirecyber.com)** | **[Intern, Business Development](https://jobright.ai/jobs/info/698a71aec5761b521a99a974?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 09 |
 | **[Trinity Logistics](https://trinitylogistics.com)** | **[Sales/Operations Internship (Iowa State Summer 2026)](https://jobright.ai/jobs/info/698a6f35c5761b521a99a592?utm_campaign=1051&utm_source=git)** | Urbandale, IA | On Site | Feb 09 |
 | ↳ | **[Sales/Operations Internship (UCF Summer 2026)](https://jobright.ai/jobs/info/698a6f2dc5761b521a99a589?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 09 |
-| **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Sales Intern](https://jobright.ai/jobs/info/698a6ac20f6f7e7a2ce590d0?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Feb 09 |
-| **[Cigna Healthcare](http://www.cigna.com)** | **[Sales Internship - Bloomfield, CT](https://jobright.ai/jobs/info/698aa9e9c5761b521a99f0df?utm_campaign=1051&utm_source=git)** | Bloomfield, CT | Hybrid | Feb 09 |
-| **[Nucor Steel Memphis, Inc.](http://www.nucor.com)** | **[Sales Summer Intern 1](https://jobright.ai/jobs/info/698a89a94db8972cecffe3d4?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Feb 09 |
-| **[Assent](http://assent.com)** | **[Student term (co-op) - Business Development Representative](https://jobright.ai/jobs/info/698a6691c5761b521a999948?utm_campaign=1051&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Feb 09 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69867fbb0f6f7e7a2ce17f57?utm_campaign=1051&utm_source=git)** | Midland, TX | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
