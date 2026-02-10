@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alerus](https://www.alerus.com/)** | **[Corporate Banking Intern](https://jobright.ai/jobs/info/698b750206d9b06224958f46?utm_campaign=1051&utm_source=git)** | Minnetonka, MN | On Site | Feb 10 |
+| **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Outside Sales Intern](https://jobright.ai/jobs/info/698b72dcc5761b521a9af3f4?utm_campaign=1051&utm_source=git)** | Brookshire, TX | Remote | Feb 10 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/698b715e06d9b0622495880c?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Feb 10 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/6933c015764507023d1b8e3f?utm_campaign=1051&utm_source=git)** | North Charleston, SC | On Site | Feb 10 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37cb5f758fe1f97e5e966?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 10 |
+| **[Calamos Investments](http://www.calamos.com/)** | **[Sales Support - RIA Intern](https://jobright.ai/jobs/info/698b6fe80f6f7e7a2ce6d9e3?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 10 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37e931852e62f007fc353?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Feb 10 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37c4ff758fe1f97e5e923?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Feb 10 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales & Leadership Intern](https://jobright.ai/jobs/info/698125f9abff4c399a9ffb0c?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Feb 10 |
@@ -65,8 +71,11 @@ For a complete list, click the following sortable link below:
 | **[Moxie Pest Control](https://www.moxieservices.com)** | **[Summer Sales intern-Guaranteed salary](https://jobright.ai/jobs/info/698b5eac06d9b062249569e3?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Feb 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Partnership Intern - (TikTok Shop - Global Selling) - 2026 Summer(BS/MS))](https://jobright.ai/jobs/info/6978495552f3c27ec6448f2d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 10 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/698b59e706d9b0622495623f?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Feb 10 |
+| **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Outside Sales Intern](https://jobright.ai/jobs/info/698b77c106d9b0622495923e?utm_campaign=1051&utm_source=git)** | Fresno, CA | Remote | Feb 10 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/698b56e3c5761b521a9ac76b?utm_campaign=1051&utm_source=git)** | Guelph, Ontario, Canada | On Site | Feb 10 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e382b8b99ec3563b0e0d6d?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Feb 10 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68ec9be0c26b9574506f4df2?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Feb 10 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e38d8c1852e62f007fcb21?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Feb 10 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e382b8b99ec3563b0e0d6d?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Feb 10 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68c77ec1c96a22563ecf15ff?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Feb 10 |
 | **[Loc Performance](http://www.locperformance.com)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/698b6ae306d9b06224957cfa?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 10 |
 | **[Detail Connect](https://www.detailconnect.app/)** | **[Sales Intern](https://jobright.ai/jobs/info/698b4abf06d9b06224954918?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 10 |
@@ -87,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Commercial Sales](https://jobright.ai/jobs/info/698b2bd3c5761b521a9a9459?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Feb 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Signature Experiences Pricing & Revenue Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698729020f6f7e7a2ce269ce?utm_campaign=1051&utm_source=git)** | Celebration, FL | On Site | Feb 10 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Field Sales (SPECIFIC STATES ONLY - Please read description before applying)](https://jobright.ai/jobs/info/696ec8d05fc86241853db241?utm_campaign=1051&utm_source=git)** | Purchase, NY | On Site | Feb 10 |
-| **[Velastra](velastra.us)** | **[Commercial Intern (Sportsbook) - Summer 2026](https://jobright.ai/jobs/info/698b24d5c5761b521a9a8283?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Bookable Experiences Revenue Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69872fb28ca8121a3a69b76b?utm_campaign=1051&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 10 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698b18bb4db8972cec009196?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 10 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698b182e0f6f7e7a2ce668bb?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Feb 10 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kirby Risk](https://www.kirbyrisk.com)** | **[Sales Intern (Starting May 2026!) - Illinois](https://jobright.ai/jobs/info/6985ff4d0f6f7e7a2ce0e1f3?utm_campaign=1051&utm_source=git)** | Illinois, United States | On Site | Feb 09 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Sales Operations](https://jobright.ai/jobs/info/698a96b4c5761b521a99dbbf?utm_campaign=1051&utm_source=git)** | Berkeley Heights, NJ | On Site | Feb 09 |
 | **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Inside Sales Intern North America](https://jobright.ai/jobs/info/698a94f2c5761b521a99d987?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | Remote | Feb 09 |
-| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA SALES INTERN SUMMER '26 - WNDU](https://jobright.ai/jobs/info/698a94064db8972cecffee44?utm_campaign=1051&utm_source=git)** | South Bend, IN | On Site | Feb 09 |
-| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Administrative](https://jobright.ai/jobs/info/698a935f0f6f7e7a2ce5c608?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 09 |
-| **[Suncoast Credit Union](http://suncoastcreditunion.com/)** | **[Collegiate Internship - Business Development](https://jobright.ai/jobs/info/698a93354db8972cecffed58?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Feb 09 |
-| **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/698a92de0f6f7e7a2ce5c573?utm_campaign=1051&utm_source=git)** | Rosemont, IL | On Site | Feb 09 |
-| **[Marigold](https://meetmarigold.com)** | **[Customer Success Manager -  Intern](https://jobright.ai/jobs/info/698a75a0c5761b521a99afb0?utm_campaign=1051&utm_source=git)** | Remote, United States | Remote | Feb 09 |
-| **[BankSouth](https://banksouth.com)** | **[Loan Servicing Intern - Watkinsville](https://jobright.ai/jobs/info/698a8eb90f6f7e7a2ce5c158?utm_campaign=1051&utm_source=git)** | BankSouth Watkinsville Town Center - Watkinsville, GA 30677 | On Site | Feb 09 |
-| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Sales & Market Insights](https://jobright.ai/jobs/info/698aaaf0c5761b521a99f211?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 09 |
-| **[Ryerson](https://www.ryerson.com)** | **[Sales Internship](https://jobright.ai/jobs/info/698a8c3ec5761b521a99d048?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
