@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern)-South Denver, CO(Starting Summer 2026)](https://jobright.ai/jobs/info/698aee080f6f7e7a2ce638f1?utm_campaign=1051&utm_source=git)** | Parker, CO | On Site | Feb 10 |
+| **[Piedmont Plastics](http://piedmontplastics.com)** | **[Sales Support Specialist Intern - Multiple Locations](https://jobright.ai/jobs/info/698ae25ec5761b521a9a41d6?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Feb 09 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/698adb654db8972cec00547b?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 09 |
-| **[Piedmont Plastics](http://piedmontplastics.com)** | **[Sales Support Specialist Intern - Multiple Locations](https://jobright.ai/jobs/info/698adb280f6f7e7a2ce62cf5?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Feb 09 |
 | **[On Cue Social](https://www.linkedin.com/company/111819263)** | **[Growth & Partnerships Intern](https://jobright.ai/jobs/info/698acffac5761b521a9a3be9?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | Remote | Feb 09 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[2026 Startup Lab Associate – Venture Development](https://jobright.ai/jobs/info/698ac5c0c5761b521a9a2b25?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Feb 09 |
 | **[Cold Plunge Facts](www.coldplungefacts.com)** | **[Sales/Marketing Intern](https://jobright.ai/jobs/info/698ac4580f6f7e7a2ce6179f?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Feb 09 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Marigold](https://meetmarigold.com)** | **[Customer Success Manager -  Intern](https://jobright.ai/jobs/info/698a75a0c5761b521a99afb0?utm_campaign=1051&utm_source=git)** | Remote, United States | Remote | Feb 09 |
 | **[BankSouth](https://banksouth.com)** | **[Loan Servicing Intern - Watkinsville](https://jobright.ai/jobs/info/698a8eb90f6f7e7a2ce5c158?utm_campaign=1051&utm_source=git)** | BankSouth Watkinsville Town Center - Watkinsville, GA 30677 | On Site | Feb 09 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Sales & Market Insights](https://jobright.ai/jobs/info/698aaaf0c5761b521a99f211?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 09 |
-| **[CRH](http://crh.com)** | **[PM/Estimating Intern](https://jobright.ai/jobs/info/698a8c50c5761b521a99d059?utm_campaign=1051&utm_source=git)** | New Britain, CT | On Site | Feb 09 |
 | **[Ryerson](https://www.ryerson.com)** | **[Sales Internship](https://jobright.ai/jobs/info/698a8c3ec5761b521a99d048?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 09 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/698a8c370f6f7e7a2ce5be6d?utm_campaign=1051&utm_source=git)** | Champaign, IL | Remote | Feb 09 |
 | **[Union Bank & Trust](http://www.ubt.com)** | **[UNL Business Development Intern](https://jobright.ai/jobs/info/698a8b7ac5761b521a99cf6e?utm_campaign=1051&utm_source=git)** | Lincoln, NE 68588, USA | On Site | Feb 09 |
@@ -109,7 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/698a89410f6f7e7a2ce5bb79?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Remote | Feb 09 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/698a88b94db8972cecffe2ca?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | Feb 09 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/698a887c4db8972cecffe2a7?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Remote | Feb 09 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/698a87a8c5761b521a99cc70?utm_campaign=1051&utm_source=git)** | Stanford, CA | Remote | Feb 09 |
+| **[CRH](http://crh.com)** | **[PM/Estimating Intern](https://jobright.ai/jobs/info/698a88154db8972cecffe278?utm_campaign=1051&utm_source=git)** | New Britain, CT | On Site | Feb 09 |
+| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/698a87a8c5761b521a99cc70?utm_campaign=1051&utm_source=git)** | Stanford, CA | Remote | Feb 09 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/698a87210f6f7e7a2ce5ba78?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Feb 09 |
 | **[Continental](https://www.continental.com)** | **[Intern - Sales, Summer 2026 - PLT](https://jobright.ai/jobs/info/698a86dc0f6f7e7a2ce5b970?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Feb 09 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/698a86780f6f7e7a2ce5b67a?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Remote | Feb 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Distribution Sales Intern](https://jobright.ai/jobs/info/698a52f70f6f7e7a2ce56954?utm_campaign=1051&utm_source=git)** | Wisconsin, United States | On Site | Feb 09 |
 | ↳ | **[Distribution Sales Intern](https://jobright.ai/jobs/info/698a44b547434001cc687a5d?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Feb 09 |
 | ↳ | **[Distribution Sales Intern](https://jobright.ai/jobs/info/698a49f34db8972cecff8922?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Feb 09 |
-| ↳ | **[Distribution Sales Intern](https://jobright.ai/jobs/info/698a45f147434001cc687bd3?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
