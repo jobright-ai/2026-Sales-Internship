@@ -57,14 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/698c84dcf64d441a164e7240?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 11 |
+| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern- Portland, ME](https://jobright.ai/jobs/info/6954d770f1f8465b79ec06d3?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | Feb 11 |
+| **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/698c838ff64d441a164e71c3?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Feb 11 |
+| ↳ | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698c81b0f64d441a164e7020?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Feb 11 |
+| ↳ | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698c80e1f64d441a164e6f87?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Feb 11 |
+| ↳ | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698c7efe78b4502f12a302f2?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Feb 11 |
+| ↳ | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698c7d2878b4502f12a3018c?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Feb 11 |
+| ↳ | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698c7c1c78b4502f12a300aa?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 11 |
+| ↳ | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/698c7be678b4502f12a3006d?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Feb 11 |
+| **[DISH TV](https://www.dish.com)** | **[Sales Lead Enablement Intern](https://jobright.ai/jobs/info/6954441d5bb7de448ef73efd?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Feb 11 |
+| **[ADP](http://www.adp.com)** | **[SBS Sales Intern](https://jobright.ai/jobs/info/698c731478b4502f12a2fa78?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Feb 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Platform Distribution Business Affairs Undergrad Intern, Summer 2026](https://jobright.ai/jobs/info/698c6caf78b4502f12a2f46b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69705b56587dfa0bb55dfe94?utm_campaign=1051&utm_source=git)** | Morrow, GA | On Site | Feb 11 |
 | ↳ | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6970621451f726477182b4b8?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Feb 11 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69630fff25e18715077fbeda?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Feb 11 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/698c4e6591fdda424d593a76?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6970605b51f726477182b403?utm_campaign=1051&utm_source=git)** | Lithonia, GA | On Site | Feb 11 |
+| **[Mitra AI](https://mitrai.com/)** | **[Pre Sales  - AI Native Intern](https://jobright.ai/jobs/info/698c736278b4502f12a2fa8e?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 11 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Banker Intern - Durham, NC](https://jobright.ai/jobs/info/698c65b40f6f7e7a2ce821ab?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Feb 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69705e2751f726477182b2ca?utm_campaign=1051&utm_source=git)** | Decatur, GA | On Site | Feb 11 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 366](https://jobright.ai/jobs/info/698c7738f64d441a164e685a?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Feb 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69705c6551f726477182b1d0?utm_campaign=1051&utm_source=git)** | McDonough, GA | On Site | Feb 10 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/698c673878b4502f12a2ef0f?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Feb 10 |
 | **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/698c5ed4f64d441a164e50b8?utm_campaign=1051&utm_source=git)** | Cranbury, NJ | Remote | Feb 10 |
@@ -96,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Harbor Capital Advisors, Inc.](https://www.harborfunds.com)** | **[Distribution Intern](https://jobright.ai/jobs/info/698c1634e4f6572f0e441159?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | Hybrid | Feb 10 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - Northeast Region](https://jobright.ai/jobs/info/697015620f4e0f657ea470af?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Feb 10 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Field Sales Internship](https://jobright.ai/jobs/info/698c0b1d0f6f7e7a2ce79baf?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Feb 10 |
-| **[Crescendo](https://www.crescendo.ai)** | **[Sales Innovation Intern](https://jobright.ai/jobs/info/698c1cf891fdda424d58de5f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Feb 10 |
 | **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Premium Services Ticketing Intern](https://jobright.ai/jobs/info/698bdfdbc5761b521a9b71d6?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 10 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - New Bern + Wilmington + Jacksonville, NC (Starting Summer 2026)](https://jobright.ai/jobs/info/698c098ae4f6572f0e4402e0?utm_campaign=1051&utm_source=git)** | New Bern, NC | On Site | Feb 10 |
 | **[CROSSMARK](https://crossmark.com/)** | **[Global Business Services Intern](https://jobright.ai/jobs/info/698bfc01e4f6572f0e43f46a?utm_campaign=1051&utm_source=git)** | Lewisville, TX | On Site | Feb 10 |
@@ -136,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Sales Operations Analyst 2026 Summer Intern -New York](https://jobright.ai/jobs/info/698bced2c5761b521a9b5dd8?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Feb 10 |
 | **[Dayforce](https://www.dayforce.com)** | **[Value Advisory Intern 4 or 8 months - Summer 2026](https://jobright.ai/jobs/info/698bd9140f6f7e7a2ce74f6e?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Remote | Feb 10 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/698b9fb406d9b0622495c639?utm_campaign=1051&utm_source=git)** | Herndon, VA | On Site | Feb 10 |
-| **[AAA-The Auto Club Group](http://aaa.com)** | **[Field Sales Internship](https://jobright.ai/jobs/info/698beca10f6f7e7a2ce7704b?utm_campaign=1051&utm_source=git)** | SC-Myrtle Beach | On Site | Feb 10 |
-| ↳ | **[Field Sales Internship](https://jobright.ai/jobs/info/698bdc210f6f7e7a2ce7526e?utm_campaign=1051&utm_source=git)** | SC-Fort Mill | On Site | Feb 10 |
+| **[AAA-The Auto Club Group](http://aaa.com)** | **[Field Sales Internship](https://jobright.ai/jobs/info/698bdc210f6f7e7a2ce7526e?utm_campaign=1051&utm_source=git)** | SC-Fort Mill | On Site | Feb 10 |
+| ↳ | **[Field Sales Internship](https://jobright.ai/jobs/info/698beca10f6f7e7a2ce7704b?utm_campaign=1051&utm_source=git)** | SC-Myrtle Beach | On Site | Feb 10 |
 | ↳ | **[Field Sales Internship](https://jobright.ai/jobs/info/698bc5f2c5761b521a9b559a?utm_campaign=1051&utm_source=git)** | SC-Forest Acres - Columbia | On Site | Feb 10 |
 | **[Surpass Behavioral Health](https://surpassbehavioralhealth.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698bc7b90f6f7e7a2ce73e6c?utm_campaign=1051&utm_source=git)** | Troy, MI, USA | On Site | Feb 10 |
 | **[The Morgan Group](http://morgangroup.com)** | **[Development Intern (Summer)](https://jobright.ai/jobs/info/698bf2440f6f7e7a2ce77532?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Feb 10 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HealthTrust Performance Group](https://healthtrustpg.com/)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/698bd96106d9b0622495ffe9?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Feb 10 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Business Incentive Group - Summer 2027 (NYC)](https://jobright.ai/jobs/info/698bf8a7e4f6572f0e43f04c?utm_campaign=1051&utm_source=git)** | 200 Park Avenue, New York, NY, 10166, US | On Site | Feb 10 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Global Customer Data Management - 2026 Summer Internship](https://jobright.ai/jobs/info/698b99890f6f7e7a2ce710e9?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Feb 10 |
-| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern Waterloo](https://jobright.ai/jobs/info/698bdfeb06d9b06224960a45?utm_campaign=1051&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Feb 10 |
-| **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698b96f406d9b0622495bc72?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Feb 10 |
-| **[Grit Marketing](https://www.gritmarketing.net)** | **[Business Leadership & Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/698bda7e0f6f7e7a2ce750e2?utm_campaign=1051&utm_source=git)** | Lindon, UT | On Site | Feb 10 |
-| **[Bold Orange](https://boldorange.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/698bc4d00f6f7e7a2ce73c83?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 10 |
-| **[Crown Equipment Corporation](http://www.crown.com)** | **[Sales - Student Co-op or Intern](https://jobright.ai/jobs/info/698bd97fc5761b521a9b6967?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Feb 10 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Banker Intern - South Triangle Area](https://jobright.ai/jobs/info/698bbb8706d9b0622495e35d?utm_campaign=1051&utm_source=git)** | Fuquay-Varina, NC | On Site | Feb 10 |
-| **[BDO](https://global-www.bdo.global/)** | **[Specialty Tax Services Intern, Business Incentive Group - Summer 2027 (NYC)](https://jobright.ai/jobs/info/698c68090f6f7e7a2ce82466?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Feb 10 |
-| **[Las Vegas Motor Speedway](http://lvms.com)** | **[Ticket Sales Intern](https://jobright.ai/jobs/info/698c235c0f6f7e7a2ce7b938?utm_campaign=1051&utm_source=git)** | Sonoma, CA, US | On Site | Feb 10 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698bbe41c5761b521a9b4de1?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Feb 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/698bc85506d9b0622495ef9a?utm_campaign=1051&utm_source=git)** | Carpinteria, CA | On Site | Feb 10 |
-| **[Transwestern](https://transwestern.com)** | **[Commercial Real Estate Summer Intern - Atlanta](https://jobright.ai/jobs/info/69372a50aabec14a727c499f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
-| **[Nashville Superspeedway](http://www.nashvillesuperspeedway.com)** | **[Ticket Sales Intern](https://jobright.ai/jobs/info/698bcdf0c5761b521a9b5cee?utm_campaign=1051&utm_source=git)** | Sonoma, CA, US | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
