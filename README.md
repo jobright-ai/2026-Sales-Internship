@@ -63,7 +63,9 @@ For a complete list, click the following sortable link below:
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Business Development Commercial Accounts](https://jobright.ai/jobs/info/6984e3b08da7a612045f2f5d?utm_campaign=1051&utm_source=git)** | Buford, GA | On Site | Feb 10 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/698bddba06d9b06224960569?utm_campaign=1051&utm_source=git)** | Carlisle, PA | On Site | Feb 10 |
 | **[PepsiCo](http://www.pepsico.com)** | **[Sales Intern 2](https://jobright.ai/jobs/info/698bde9306d9b06224960730?utm_campaign=1051&utm_source=git)** | Nepean, Ontario, Canada | On Site | Feb 10 |
+| ↳ | **[Sales Intern 2](https://jobright.ai/jobs/info/698beffc06d9b06224962312?utm_campaign=1051&utm_source=git)** | Kingston, Ontario, Canada | On Site | Feb 10 |
 | **[Arete Capital Group](http://www.aretecapgroup.com)** | **[Acquisition Intern](https://jobright.ai/jobs/info/698bea3606d9b06224961dfb?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 10 |
+| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Business Incentive Group - Summer 2027 (NYC)](https://jobright.ai/jobs/info/698beb4006d9b06224961f48?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 10 |
 | **[Mitsubishi Chemical America](https://us.mitsubishi-chemical.com)** | **[Inside Sales Internship (Mitsubishi Chemical Advanced Materials)](https://jobright.ai/jobs/info/6941ff6d50bbaf765053d2c3?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Feb 10 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Sales Technology Intern](https://jobright.ai/jobs/info/696fe57f0f4e0f657ea42be0?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | Feb 10 |
 | **[Dayforce](https://www.dayforce.com)** | **[Application Advisory Intern 8 months - Summer 2026](https://jobright.ai/jobs/info/698ba93cc5761b521a9b3abf?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 10 |
@@ -71,12 +73,12 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Northwestern Mutual Internship / Client Service and Recruiting Support / Non-Securities](https://jobright.ai/jobs/info/698bdee80f6f7e7a2ce7573c?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Feb 10 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/696fdd930f4e0f657ea423d7?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Feb 10 |
 | **[RIDD](https://www.ridd.com)** | **[Paid Sales Internship (No Experience Needed)](https://jobright.ai/jobs/info/698bcff30f6f7e7a2ce74625?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/698be6c70f6f7e7a2ce769fb?utm_campaign=1051&utm_source=git)** | Fenton, MI, USA | Hybrid | Feb 10 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Sales Operations Analyst 2026 Summer Intern -New York](https://jobright.ai/jobs/info/698bced2c5761b521a9b5dd8?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Feb 10 |
 | **[Dayforce](https://www.dayforce.com)** | **[Value Advisory Intern 4 or 8 months - Summer 2026](https://jobright.ai/jobs/info/698bd9140f6f7e7a2ce74f6e?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Remote | Feb 10 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/698b9fb406d9b0622495c639?utm_campaign=1051&utm_source=git)** | Herndon, VA | On Site | Feb 10 |
-| **[AAA-The Auto Club Group](http://aaa.com)** | **[Field Sales Internship](https://jobright.ai/jobs/info/698bdc210f6f7e7a2ce7526e?utm_campaign=1051&utm_source=git)** | SC-Fort Mill | On Site | Feb 10 |
-| ↳ | **[Field Sales Internship](https://jobright.ai/jobs/info/698bc5f2c5761b521a9b559a?utm_campaign=1051&utm_source=git)** | SC-Forest Acres - Columbia | On Site | Feb 10 |
+| **[AAA-The Auto Club Group](http://aaa.com)** | **[Field Sales Internship](https://jobright.ai/jobs/info/698bc5f2c5761b521a9b559a?utm_campaign=1051&utm_source=git)** | SC-Forest Acres - Columbia | On Site | Feb 10 |
+| ↳ | **[Field Sales Internship](https://jobright.ai/jobs/info/698beca10f6f7e7a2ce7704b?utm_campaign=1051&utm_source=git)** | SC-Myrtle Beach | On Site | Feb 10 |
+| ↳ | **[Field Sales Internship](https://jobright.ai/jobs/info/698bdc210f6f7e7a2ce7526e?utm_campaign=1051&utm_source=git)** | SC-Fort Mill | On Site | Feb 10 |
 | **[Surpass Behavioral Health](https://surpassbehavioralhealth.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698bc7b90f6f7e7a2ce73e6c?utm_campaign=1051&utm_source=git)** | Troy, MI, USA | On Site | Feb 10 |
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Intern, Sales- Cleburne Railroaders](https://jobright.ai/jobs/info/698bd5a806d9b0622495fbc4?utm_campaign=1051&utm_source=git)** | Cleburne, TX | On Site | Feb 10 |
 | **[HealthTrust Performance Group](https://healthtrustpg.com/)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/698bd96106d9b0622495ffe9?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Feb 10 |
@@ -100,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[D.C. United](http://dcunited.com)** | **[Intern- Ticket Sales & Service (Summer 2026)](https://jobright.ai/jobs/info/698be7a106d9b06224961b00?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/698bc9d6c5761b521a9b5953?utm_campaign=1051&utm_source=git)** | East Patchogue, NY | On Site | Feb 10 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6986a0c88da7a61204617cba?utm_campaign=1051&utm_source=git)** | Plymouth, MN | On Site | Feb 10 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/698bc34906d9b0622495eac0?utm_campaign=1051&utm_source=git)** | Eddystone, PA | On Site | Feb 10 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69869b678da7a61204617683?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Feb 10 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/698bc34906d9b0622495eac0?utm_campaign=1051&utm_source=git)** | Eddystone, PA | On Site | Feb 10 |
 | **[AHF](https://www.ahfproducts.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/698ba97506d9b0622495d270?utm_campaign=1051&utm_source=git)** | Mountville, PA | On Site | Feb 10 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Outbound Sales Representative - 2026 Summer Intern](https://jobright.ai/jobs/info/698be51906d9b0622496165f?utm_campaign=1051&utm_source=git)** | Allen, TX | On Site | Feb 10 |
 | **[Northeast Bank](https://www.northeastbank.com/)** | **[Customer Success Representative Intern](https://jobright.ai/jobs/info/698ba6c406d9b0622495cf04?utm_campaign=1051&utm_source=git)** | Lewiston, ME | On Site | Feb 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Winco Fireworks International, LLC](http://wincofireworks.com)** | **[Summer Intern 2026- Sales and Supply Chain](https://jobright.ai/jobs/info/698b9cca0f6f7e7a2ce714ed?utm_campaign=1051&utm_source=git)** | Grandview, MO | On Site | Feb 10 |
 | **[Baldor Specialty Foods, Inc.](https://www.baldorfood.com)** | **[Intern- Sales](https://jobright.ai/jobs/info/696ebb3e5fc86241853da364?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Feb 10 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e382f1f758fe1f97e5ee00?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Feb 10 |
-| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37e931852e62f007fc353?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Feb 10 |
-| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37c4ff758fe1f97e5e923?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
