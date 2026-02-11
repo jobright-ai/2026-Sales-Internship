@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/698cfc580f6f7e7a2ce8a896?utm_campaign=1051&utm_source=git)** | Fenton, MI | On Site | Feb 11 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/698ce896f64d441a164ec745?utm_campaign=1051&utm_source=git)** | Herndon, VA | On Site | Feb 11 |
 | **[Pattern®](https://pattern.com)** | **[Sales & Marketing Analyst - Fulfillment](https://jobright.ai/jobs/info/698ce78a78b4502f12a35e5e?utm_campaign=1051&utm_source=git)** | Lehi, UT | Hybrid | Feb 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933d744f131d96e48467a07?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Feb 11 |
@@ -64,20 +65,26 @@ For a complete list, click the following sortable link below:
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Sales & Partnerships Internship - Summer 2026](https://jobright.ai/jobs/info/69210b8f00c9ee50eaecb1de?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6934ecd4764507023d1be501?utm_campaign=1051&utm_source=git)** | Lynchburg, VA | On Site | Feb 11 |
 | **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69697a23639b452fb57f5a05?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Feb 11 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/698cfa42f64d441a164ed6bb?utm_campaign=1051&utm_source=git)** | Dublin, OH | On Site | Feb 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/69350019a0dde7020e2f7058?utm_campaign=1051&utm_source=git)** | Midlothian, VA | On Site | Feb 11 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/698cd487f64d441a164eb71d?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69697b38639b452fb57f5ae8?utm_campaign=1051&utm_source=git)** | Des Moines Metro | On Site | Feb 11 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/698cee99f64d441a164ecbaf?utm_campaign=1051&utm_source=git)** | Middle River, MD | On Site | Feb 11 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/698cfb3df64d441a164ed79a?utm_campaign=1051&utm_source=git)** | Cross Lanes, WV | On Site | Feb 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933b8b0a0dde7020e2f0fdb?utm_campaign=1051&utm_source=git)** | Charlottesville, VA | On Site | Feb 11 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Account Manager Intern - South Jordan, UT](https://jobright.ai/jobs/info/6938a31eb95c305f206ddd9d?utm_campaign=1051&utm_source=git)** | South Jordan, UT | Hybrid | Feb 11 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/698cf4ba78b4502f12a368dd?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | Feb 11 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Chattanooga, TN](https://jobright.ai/jobs/info/6954d8b0463e8c6081333e04?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Feb 11 |
 | **[SBM Life Science](https://sbm-company.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/698cca2cf64d441a164eaadf?utm_campaign=1051&utm_source=git)** | Cary, NC | On Site | Feb 11 |
 | **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/696981ca1703f05405ab6d2e?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 11 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69680a56f25a380066965edf?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69697a0e639b452fb57f59f6?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Feb 11 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/6969864ef25a380066982b79?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Feb 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69699797f25a380066985233?utm_campaign=1051&utm_source=git)** | Omaha Metropolitan Area | On Site | Feb 11 |
 | **[Ocean State Job Lot](http://oceanstatejoblot.com)** | **[Store Operations Intern](https://jobright.ai/jobs/info/698ced4b0f6f7e7a2ce89ca4?utm_campaign=1051&utm_source=git)** | North Kingstown, Rhode Island, United States | Hybrid | Feb 11 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Finance Club Partner (Student Leadership Program)](https://jobright.ai/jobs/info/698cf33e78b4502f12a36770?utm_campaign=1051&utm_source=git)** | Canada | Remote | Feb 11 |
 | **[Trimac Transportation](https://www.trimac.com/)** | **[Sales Summer Intern](https://jobright.ai/jobs/info/698ce39b0f6f7e7a2ce8953f?utm_campaign=1051&utm_source=git)** | Calgary, AB, CA | On Site | Feb 11 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Field Sales Intern (Summer 2026) Boston](https://jobright.ai/jobs/info/698cf88678b4502f12a36bff?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Feb 11 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/698ce3ba78b4502f12a35b4c?utm_campaign=1051&utm_source=git)** | Canada | Remote | Feb 11 |
 | **[Detail Connect](https://www.detailconnect.app/)** | **[Sales & Partner Success Intern (Remote)](https://jobright.ai/jobs/info/698ce4240f6f7e7a2ce895b8?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Trendcend Media](https://www.trendcendmedia.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/698ce44c78b4502f12a35bc2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Feb 11 |
@@ -100,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Technical Account Manager Intern](https://jobright.ai/jobs/info/698cd0fbf64d441a164eb2e9?utm_campaign=1051&utm_source=git)** | Burlington, MA, United States | On Site | Feb 11 |
 | **[Desert Edge Marketing](www.desertedgemarketing.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/698cd0daf64d441a164eb2c3?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Feb 11 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[American Export Intern](https://jobright.ai/jobs/info/698cc56e0f6f7e7a2ce87d56?utm_campaign=1051&utm_source=git)** | Coral Gables, Florida, United States | On Site | Feb 11 |
+| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/698cfa39f64d441a164ed6b2?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Feb 11 |
 | **[Happy Camp3r](http://thehappycamp3r.com)** | **[Showroom Assistant Intern – Summer 2026](https://jobright.ai/jobs/info/698cf0350f6f7e7a2ce89edc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 11 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Client Services & Sales Intern](https://jobright.ai/jobs/info/698ccb560f6f7e7a2ce8820d?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Feb 11 |
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: Sales - 2026](https://jobright.ai/jobs/info/698ca4530f6f7e7a2ce85a65?utm_campaign=1051&utm_source=git)** | Indianapolis, Indiana | On Site | Feb 11 |
@@ -137,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698c96c80f6f7e7a2ce85001?utm_campaign=1051&utm_source=git)** | McDonough, GA | On Site | Feb 11 |
 | ↳ | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698c9636f64d441a164e810d?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 11 |
 | ↳ | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/698c96570f6f7e7a2ce84f85?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Feb 11 |
-| ↳ | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/698c941ff64d441a164e7ece?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 11 |
 | ↳ | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698c9417f64d441a164e7ec4?utm_campaign=1051&utm_source=git)** | Pelham, AL | On Site | Feb 11 |
+| ↳ | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/698c941ff64d441a164e7ece?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 11 |
 | **[ADP](http://www.adp.com)** | **[SBS Sales Intern](https://jobright.ai/jobs/info/698c731478b4502f12a2fa78?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Feb 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Platform Distribution Business Affairs Undergrad Intern, Summer 2026](https://jobright.ai/jobs/info/698c6caf78b4502f12a2f46b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69705b56587dfa0bb55dfe94?utm_campaign=1051&utm_source=git)** | Morrow, GA | On Site | Feb 11 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mitra AI](https://mitrai.com/)** | **[Pre Sales  - AI Native Intern](https://jobright.ai/jobs/info/698c736278b4502f12a2fa8e?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 11 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Banker Intern - Durham, NC](https://jobright.ai/jobs/info/698c65b40f6f7e7a2ce821ab?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Feb 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69705e2751f726477182b2ca?utm_campaign=1051&utm_source=git)** | Decatur, GA | On Site | Feb 11 |
-| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 366](https://jobright.ai/jobs/info/698c7738f64d441a164e685a?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Feb 10 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69705c6551f726477182b1d0?utm_campaign=1051&utm_source=git)** | McDonough, GA | On Site | Feb 10 |
-| **[CLARK Material Handling Company](https://www.clarkmhc.com/)** | **[Purchasing Internship](https://jobright.ai/jobs/info/698c979078b4502f12a31694?utm_campaign=1051&utm_source=git)** | CLARK Material Handling Company, 700 Enterprise Drive, LEXINGTON, Kentucky, United States of America | On Site | Feb 10 |
-| **[Greystar](https://www.stoneridgemp.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/698c673878b4502f12a2ef0f?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Feb 10 |
-| **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/698c5ed4f64d441a164e50b8?utm_campaign=1051&utm_source=git)** | Cranbury, NJ | Remote | Feb 10 |
-| **[SportsEd Advisor](http://conceptinithaca.ueniweb.com)** | **[Student Sports Business Developement and Agent Intern](https://jobright.ai/jobs/info/698c44dc91fdda424d592e54?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Feb 10 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Merchandise Category Planning Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c424d91fdda424d592abc?utm_campaign=1051&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 10 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Radars Strategy &amp; Business Development- Intern](https://jobright.ai/jobs/info/698c3e1278b4502f12a2bedd?utm_campaign=1051&utm_source=git)** | New Jersey, New York | Hybrid | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
