@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Platform Distribution Business Affairs Undergrad Intern, Summer 2026](https://jobright.ai/jobs/info/698c6caf78b4502f12a2f46b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69705b56587dfa0bb55dfe94?utm_campaign=1051&utm_source=git)** | Morrow, GA | On Site | Feb 11 |
 | ↳ | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6970621451f726477182b4b8?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Feb 11 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69630fff25e18715077fbeda?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Feb 11 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/698c5ed4f64d441a164e50b8?utm_campaign=1051&utm_source=git)** | Cranbury, NJ | Remote | Feb 10 |
 | **[SportsEd Advisor](http://conceptinithaca.ueniweb.com)** | **[Student Sports Business Developement and Agent Intern](https://jobright.ai/jobs/info/698c44dc91fdda424d592e54?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Feb 10 |
 | **[Gallagher](https://www.ajg.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/698c56e60f6f7e7a2ce81238?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 10 |
-| **[Sands Capital](http://www.sandscapital.com)** | **[Global Ventures Intern (Graduate Students) - Summer 2026](https://jobright.ai/jobs/info/698c4b9078b4502f12a2d098?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | Feb 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Merchandise Category Planning Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c424d91fdda424d592abc?utm_campaign=1051&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 10 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Radars Strategy &amp; Business Development- Intern](https://jobright.ai/jobs/info/698c3e1278b4502f12a2bedd?utm_campaign=1051&utm_source=git)** | New Jersey, New York | Hybrid | Feb 10 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager, Business Markets, Intern- EN](https://jobright.ai/jobs/info/6970602451f726477182b3df?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 10 |
@@ -111,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Sales Training Intern](https://jobright.ai/jobs/info/698bff5a0f6f7e7a2ce78eda?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Feb 10 |
 | **[Enviri](https://www.enviri.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698c221d91fdda424d58e527?utm_campaign=1051&utm_source=git)** | 933 1st Ave, King of Prussia, PA 19406, USA | On Site | Feb 10 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Digital Account Opening](https://jobright.ai/jobs/info/698c13620f6f7e7a2ce7a523?utm_campaign=1051&utm_source=git)** | Southington, CT | Hybrid | Feb 10 |
+| **[Sands Capital](http://www.sandscapital.com)** | **[Global Ventures Intern (Graduate Students) - Summer 2026](https://jobright.ai/jobs/info/698c5db40f6f7e7a2ce818cc?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | Feb 10 |
 | **[First State Bank and Trust](http://fsbt.com)** | **[Trust Departmental Intern](https://jobright.ai/jobs/info/698c36e90f6f7e7a2ce7ed2d?utm_campaign=1051&utm_source=git)** | Bayport,MN,US | On Site | Feb 10 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Business Development Commercial Accounts](https://jobright.ai/jobs/info/6984e3b08da7a612045f2f5d?utm_campaign=1051&utm_source=git)** | Buford, GA | On Site | Feb 10 |
 | ↳ | **[Intern, Business Development Commercial Accounts](https://jobright.ai/jobs/info/6984e94e348f733a5c3906d2?utm_campaign=1051&utm_source=git)** | Greater Milwaukee | Hybrid | Feb 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/698bc85506d9b0622495ef9a?utm_campaign=1051&utm_source=git)** | Carpinteria, CA | On Site | Feb 10 |
 | **[Transwestern](https://transwestern.com)** | **[Commercial Real Estate Summer Intern - Atlanta](https://jobright.ai/jobs/info/69372a50aabec14a727c499f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
 | **[Nashville Superspeedway](http://www.nashvillesuperspeedway.com)** | **[Ticket Sales Intern](https://jobright.ai/jobs/info/698bcdf0c5761b521a9b5cee?utm_campaign=1051&utm_source=git)** | Sonoma, CA, US | On Site | Feb 10 |
-| **[Bold Orange](https://boldorange.com/)** | **[Client Strategy Intern](https://jobright.ai/jobs/info/698bbfdcc5761b521a9b4f52?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
