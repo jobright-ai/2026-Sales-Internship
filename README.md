@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Global Sales Incentives – Quota Process Intern](https://jobright.ai/jobs/info/69897b9a0f6f7e7a2ce48ff5?utm_campaign=1051&utm_source=git)** | Armonk, NY | Hybrid | Feb 12 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Development Intern](https://jobright.ai/jobs/info/698e3d3d0f6f7e7a2cea48d9?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Feb 12 |
 | **[OTR Solutions](http://www.otrsolutions.com)** | **[Sales Intern (Summer Program)](https://jobright.ai/jobs/info/698e3b04f64d441a16507355?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Feb 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a5f8f131d96e48465784?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Feb 12 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Payroll Business Systems Intern](https://jobright.ai/jobs/info/698e3e86f64d441a16507655?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Hybrid | Feb 12 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Call Center "Club" Hospitality Intern](https://jobright.ai/jobs/info/698e4398f64d441a16507ab0?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | On Site | Feb 12 |
 | **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Advisor Internship Program (AIP) (Victoria/Kelowna)](https://jobright.ai/jobs/info/691dc1e061dc50590a649e81?utm_campaign=1051&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Feb 12 |
+| **[Thomas Duke Company](https://thomasduke.com/)** | **[Commercial Real Estate Summer Intern](https://jobright.ai/jobs/info/698e49c7f64d441a1650807d?utm_campaign=1051&utm_source=git)** | Farmington, MI | On Site | Feb 12 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC CM Investment Sales Intern](https://jobright.ai/jobs/info/698e3fd2f64d441a16507794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 12 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Asheville](https://jobright.ai/jobs/info/695596dcf1f8465b79ec8d95?utm_campaign=1051&utm_source=git)** | Asheville, NC | On Site | Feb 12 |
 | **[Velastra](velastra.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/698e37c378b4502f12a503cd?utm_campaign=1051&utm_source=git)** | Bellvue, CO | Remote | Feb 12 |
@@ -83,6 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6934ec44a0dde7020e2f69c9?utm_campaign=1051&utm_source=git)** | Spearfish, SD | On Site | Feb 12 |
 | ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/69002e84e0c73b3a111a301d?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Feb 12 |
 | ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8ef27f9c6ff7aedf14cc5?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Feb 12 |
+| **[zHealth](https://myzhealth.io)** | **[Sales Development Representative Internship](https://jobright.ai/jobs/info/698e4b32f64d441a165081af?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 12 |
 | **[Overseas Food Trading Ltd.](https://www.overseasfoodtrading.com)** | **[Northeast Sales Assistant - Internship](https://jobright.ai/jobs/info/698e4299f64d441a165079c3?utm_campaign=1051&utm_source=git)** | Fort Lee, NJ | On Site | Feb 12 |
 | **[Pomp's Exterior Services LLC](https://www.linkedin.com/company/109191386)** | **[Managerial Intern](https://jobright.ai/jobs/info/698e34480f6f7e7a2cea41fd?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Feb 12 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Youngstown, OH (Summer 2026)](https://jobright.ai/jobs/info/68e40b2f1852e62f00800754?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Feb 12 |
@@ -103,9 +106,9 @@ For a complete list, click the following sortable link below:
 | **[TZ Medical](http://tzmedical.com)** | **[Medical Device Sales Internship Fall 2026 (Paid)](https://jobright.ai/jobs/info/698e32380f6f7e7a2cea40de?utm_campaign=1051&utm_source=git)** | Tualatin, OR | On Site | Feb 12 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern](https://jobright.ai/jobs/info/682cfa5c4984972cf2445d48?utm_campaign=1051&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Feb 12 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Commercial Intern](https://jobright.ai/jobs/info/698dee39f64d441a1650281b?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Feb 12 |
-| **[AAA-The Auto Club Group](http://aaa.com)** | **[Field Sales Intern](https://jobright.ai/jobs/info/698e173d78b4502f12a4e467?utm_campaign=1051&utm_source=git)** | SC-Irmo | On Site | Feb 12 |
+| **[AAA-The Auto Club Group](http://aaa.com)** | **[Field Sales Intern](https://jobright.ai/jobs/info/698e183b78b4502f12a4e542?utm_campaign=1051&utm_source=git)** | SC-Greenville | On Site | Feb 12 |
+| ↳ | **[Field Sales Intern](https://jobright.ai/jobs/info/698e173d78b4502f12a4e467?utm_campaign=1051&utm_source=git)** | SC-Irmo | On Site | Feb 12 |
 | ↳ | **[Field Sales Intern](https://jobright.ai/jobs/info/698e0b170f6f7e7a2cea15b4?utm_campaign=1051&utm_source=git)** | SC-Summerville | On Site | Feb 12 |
-| ↳ | **[Field Sales Intern](https://jobright.ai/jobs/info/698e183b78b4502f12a4e542?utm_campaign=1051&utm_source=git)** | SC-Greenville | On Site | Feb 12 |
 | ↳ | **[Field Sales Intern](https://jobright.ai/jobs/info/698e0e2b0f6f7e7a2cea1df0?utm_campaign=1051&utm_source=git)** | SC-North Augusta Mart | On Site | Feb 12 |
 | **[CivicPlus](http://www.civicplus.com)** | **[Sales Development Rep Internship](https://jobright.ai/jobs/info/68c9cb2da0c52d598ea3b60a?utm_campaign=1051&utm_source=git)** | Kansas, United States | Hybrid | Feb 12 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68e446d71852e62f00803f08?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Feb 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clearwater](https://clearwatercompliance.com/)** | **[Business Development Internship Opportunities](https://jobright.ai/jobs/info/698d9708f64d441a164fbc61?utm_campaign=1051&utm_source=git)** | Nashville,TN,US | On Site | Feb 11 |
 | **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Sales Internship](https://jobright.ai/jobs/info/698d6c62f64d441a164f7525?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Feb 11 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Global Partnerships – Data & Research](https://jobright.ai/jobs/info/6983b70b01214b4cdacb9682?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
-| **[ADP](http://www.adp.com)** | **[Summer Sales Intern (Rising Seniors)](https://jobright.ai/jobs/info/698d8f0478b4502f12a44416?utm_campaign=1051&utm_source=git)** | Milford, CT | Remote | Feb 11 |
-| ↳ | **[Summer Sales Intern (Rising Seniors)](https://jobright.ai/jobs/info/698d81ac78b4502f12a432f9?utm_campaign=1051&utm_source=git)** | Albany, NY | Remote | Feb 11 |
-| **[Oracle](https://www.oracle.com/)** | **[Deal Strategy Intern](https://jobright.ai/jobs/info/698d7a2ef64d441a164f91b5?utm_campaign=1051&utm_source=git)** | Nashville, TN, United States | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
