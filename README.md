@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Sales Internship - Ashland, OH](https://jobright.ai/jobs/info/698e11d478b4502f12a4df74?utm_campaign=1051&utm_source=git)** | Ashland, OH | On Site | Feb 12 |
 | **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Global Banking - SF, CHI](https://jobright.ai/jobs/info/6955f134f1f8465b79ecdfce?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6934ec44a0dde7020e2f69c9?utm_campaign=1051&utm_source=git)** | Spearfish, SD | On Site | Feb 12 |
 | ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/690022110ab3b222462b20fd?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | On Site | Feb 12 |
 | **[UNIQLO](https://www.uniqlo.com/jp/ja/)** | **[Summer Store Management Intern](https://jobright.ai/jobs/info/68cc8459128dc347fd9261be?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Feb 12 |
 | **[Applied Fluid Power](https://www.appliedfluidpower.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69021a1998707b2b0fe6c7c9?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Feb 12 |
 | **[Voya Financial](https://www.voya.com/)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/698df6d8f64d441a16502f2b?utm_campaign=1051&utm_source=git)** | United States-Remote | Remote | Feb 12 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6892eb9cf5ee707a15dca2b4?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Feb 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933b8a0a0dde7020e2f0fb2?utm_campaign=1051&utm_source=git)** | Blacksburg, VA | On Site | Feb 12 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern](https://jobright.ai/jobs/info/682cfa5c4984972cf2445d48?utm_campaign=1051&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Feb 12 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Commercial Intern](https://jobright.ai/jobs/info/698dee39f64d441a1650281b?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Feb 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Freeman Company](http://www.freeman.com)** | **[Internship AV Business Development](https://jobright.ai/jobs/info/698d2ceef64d441a164f236c?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller Live Project Intern (TikTok Shop Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69706c8351f726477182c19d?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 11 |
 | **[Upgrade, Inc.](http://www.upgrade.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6971556a333b6343a14ddf0c?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 11 |
-| **[Experian](http://www.experianplc.com)** | **[Client Success Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/698d46050f6f7e7a2ce918f2?utm_campaign=1051&utm_source=git)** | United States, United States, United States | Remote | Feb 11 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - South Region](https://jobright.ai/jobs/info/69716f0451f726477183b852?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
