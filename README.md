@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Pricing Data](https://jobright.ai/jobs/info/69711b0f51f726477183548d?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Feb 11 |
+| **[Kubby](https://www.kubby.io )** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/698d303cf64d441a164f28d6?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Freeman Company](http://www.freeman.com)** | **[Internship AV Business Development](https://jobright.ai/jobs/info/698d2ceef64d441a164f236c?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 11 |
 | **[Upgrade, Inc.](http://www.upgrade.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6971556a333b6343a14ddf0c?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 11 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Kate Spade Summer Store Leadership Intern-Costa Mesa, California](https://jobright.ai/jobs/info/698d230e78b4502f12a3ade0?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Feb 11 |
@@ -75,7 +77,10 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Buyer Intern](https://jobright.ai/jobs/info/698d2a1778b4502f12a3b762?utm_campaign=1051&utm_source=git)** | Opa-Locka, FL | Hybrid | Feb 11 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Store Operations (Continuous Improvement - Hubs)](https://jobright.ai/jobs/info/69713256333b6343a14da3b3?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Feb 11 |
 | **[South Carolina Department of Agriculture](https://agriculture.sc.gov)** | **[Summer Internship Opportunities - Agritourism & Agribusiness - Paid](https://jobright.ai/jobs/info/698d28ef78b4502f12a3b535?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Feb 11 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Kate Spade Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/698d2bf378b4502f12a3bae2?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 11 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698d318578b4502f12a3c546?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Feb 11 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698d2f1378b4502f12a3c0e1?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Feb 11 |
+| ↳ | **[Kate Spade Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/698d2bf378b4502f12a3bae2?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 11 |
+| ↳ | **[Coach Summer Store Leadership Intern-San Diego, California](https://jobright.ai/jobs/info/698d32a20f6f7e7a2ce8faea?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 11 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698d2a1978b4502f12a3b765?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 11 |
 | ↳ | **[Coach Summer Store Leadership Intern-Los Angeles, California](https://jobright.ai/jobs/info/698d2d1a78b4502f12a3bd0e?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Feb 11 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Sales Enablement Representative Intern](https://jobright.ai/jobs/info/698d0a3978b4502f12a37f20?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Feb 11 |
@@ -86,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[United Rentals Europe](http://www.unitedrentals.com/en-gb)** | **[Sales Intern - Paid](https://jobright.ai/jobs/info/698d1b1578b4502f12a3a104?utm_campaign=1051&utm_source=git)** | Lubbock, TX, USA | On Site | Feb 11 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e387c6f758fe1f97e5f06f?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Feb 11 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/698cfc580f6f7e7a2ce8a896?utm_campaign=1051&utm_source=git)** | Fenton, MI | On Site | Feb 11 |
-| **[Brixenta](brixenta.us)** | **[Commercial Intern (Sportsbook) - Summer 2026](https://jobright.ai/jobs/info/698d1837f64d441a164f00c7?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Feb 11 |
 | **[SZNS Solutions](https://szns.solutions)** | **[Summer 2026 Sales Engineering Intern](https://jobright.ai/jobs/info/698d1aeef64d441a164f05fd?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | Feb 11 |
 | ↳ | **[Summer 2026 Sales & Marketing Intern](https://jobright.ai/jobs/info/698d2d0878b4502f12a3bcea?utm_campaign=1051&utm_source=git)** | Reston, VA | Hybrid | Feb 11 |
 | **[Matriosh](Matriosh.com)** | **[Founder Office Intern](https://jobright.ai/jobs/info/698d26d778b4502f12a3b1a3?utm_campaign=1051&utm_source=git)** | Menlo Park, CA | On Site | Feb 11 |
@@ -131,6 +135,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/698cee99f64d441a164ecbaf?utm_campaign=1051&utm_source=git)** | Middle River, MD | On Site | Feb 11 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/698cfb3df64d441a164ed79a?utm_campaign=1051&utm_source=git)** | Cross Lanes, WV | On Site | Feb 11 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/698d052e78b4502f12a37715?utm_campaign=1051&utm_source=git)** | Eddystone, PA | On Site | Feb 11 |
+| **[ABB](https://global.abb/group/en)** | **[Commercial Sales Intern Cincinnati OH - Summer 2026](https://jobright.ai/jobs/info/698d301578b4502f12a3c2ce?utm_campaign=1051&utm_source=git)** | Milford, Ohio, United States of America | On Site | Feb 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933b8b0a0dde7020e2f0fdb?utm_campaign=1051&utm_source=git)** | Charlottesville, VA | On Site | Feb 11 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Account Manager Intern - South Jordan, UT](https://jobright.ai/jobs/info/6938a31eb95c305f206ddd9d?utm_campaign=1051&utm_source=git)** | South Jordan, UT | Hybrid | Feb 11 |
 | **[QuantiPackAI](https://quantipack.ai)** | **[Business Development & Growth Strategy Intern](https://jobright.ai/jobs/info/698d0271f64d441a164ede35?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Contrôles Laurentide / Laurentide Controls](https://www.laurentide.com)** | **[Inside Sales technical Representative - Summer Internship](https://jobright.ai/jobs/info/69865ca50f6f7e7a2ce1431e?utm_campaign=1051&utm_source=git)** | Kirkland, Quebec, Canada | On Site | Feb 11 |
 | **[Ziegler Caterpillar](https://www.zieglercat.com)** | **[Sales & Fleet Support Intern – Power Systems Rental (Seasonal)](https://jobright.ai/jobs/info/698d0bfa0f6f7e7a2ce8bdd5?utm_campaign=1051&utm_source=git)** | Shakopee, MN 55379 | On Site | Feb 11 |
 | **[EmpiresMedia](http://www.empiresmedia.com)** | **[Client Relations Intern (Outreach & Deal Closing) — Recurring Commission / $5k - $10k/mo Potential (Remote, Commission-Only)](https://jobright.ai/jobs/info/698d09b20f6f7e7a2ce8ba93?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 11 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Field Sales Intern (Summer 2026) Boston](https://jobright.ai/jobs/info/698cf88678b4502f12a36bff?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Feb 11 |
-| **[PITT OHIO](http://www.pittohio.com)** | **[Sales CRM Intern](https://jobright.ai/jobs/info/698d0bd078b4502f12a3823d?utm_campaign=1051&utm_source=git)** | US-PA-Pittsburgh | On Site | Feb 11 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/698ce3ba78b4502f12a35b4c?utm_campaign=1051&utm_source=git)** | Canada | Remote | Feb 11 |
-| **[Detail Connect](https://www.detailconnect.app/)** | **[Sales & Partner Success Intern (Remote)](https://jobright.ai/jobs/info/698ce4240f6f7e7a2ce895b8?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 11 |
-| **[Trendcend Media](https://www.trendcendmedia.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/698ce44c78b4502f12a35bc2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
