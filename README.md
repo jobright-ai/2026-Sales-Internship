@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698bbe41c5761b521a9b4de1?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Feb 13 |
+| **[Velastra](velastra.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/698f93ca0cc8ea15f1da2835?utm_campaign=1051&utm_source=git)** | Bellvue, CO | Remote | Feb 13 |
+| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/698f8fcc0f6f7e7a2cebd486?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Feb 13 |
+| **[Advantage Metals Recycling - A Nucor Company](https://advantagerecycling.com)** | **[Sales Summer Internship Program](https://jobright.ai/jobs/info/698f8d5e0f6f7e7a2cebd067?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Feb 13 |
 | **[DRF Water Heating Solutions](https://www.drftps.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/698f7f9c0cc8ea15f1da0ad0?utm_campaign=1051&utm_source=git)** | Plainfield, IL | On Site | Feb 13 |
 | **[Ecolab](http://www.ecolab.com)** | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/691f35043f782d2f1afb9283?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Feb 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - North Attleboro, MA](https://jobright.ai/jobs/info/68e57a36ae2b894b1d70fb02?utm_campaign=1051&utm_source=git)** | Fall River, MA | On Site | Feb 13 |
@@ -128,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern (Franchise)](https://jobright.ai/jobs/info/69568f62f1f8465b79ed823c?utm_campaign=1051&utm_source=git)** | Harrisburg, PA | On Site | Feb 13 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Starting in Summer 2026](https://jobright.ai/jobs/info/6985eeb40f6f7e7a2ce0ce26?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Feb 13 |
 | **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Business Systems & Payroll Intern](https://jobright.ai/jobs/info/698f40510f6f7e7a2ceb6625?utm_campaign=1051&utm_source=git)** | Virginia, United States | Hybrid | Feb 13 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate Solutions Intern](https://jobright.ai/jobs/info/698f61d76ea51a7610f1b2ea?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
-| ↳ | **[Associate Solutions Intern](https://jobright.ai/jobs/info/698f5f3d0f6f7e7a2ceb90f5?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate Solutions Intern](https://jobright.ai/jobs/info/698f5f3d0f6f7e7a2ceb90f5?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
+| ↳ | **[Associate Solutions Intern](https://jobright.ai/jobs/info/698f61d76ea51a7610f1b2ea?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Feb 13 |
 | ↳ | **[Intern, Account Management](https://jobright.ai/jobs/info/698f40810cc8ea15f1d9b71d?utm_campaign=1051&utm_source=git)** | US-NY-New York | Hybrid | Feb 13 |
 | ↳ | **[Intern, Business Development](https://jobright.ai/jobs/info/698f52d06ea51a7610f1a106?utm_campaign=1051&utm_source=git)** | New York, NY, US | Hybrid | Feb 13 |
 | ↳ | **[Intern, Business Development](https://jobright.ai/jobs/info/698f44150f6f7e7a2ceb6ce2?utm_campaign=1051&utm_source=git)** | US-NY-New York | Hybrid | Feb 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AD Mortgage LLC](https://admortgage.com/)** | **[Business Development Specialist Intern](https://jobright.ai/jobs/info/6972a82d4ccbf64f8df2b48f?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Feb 12 |
 | ↳ | **[Business Development Specialist Intern](https://jobright.ai/jobs/info/69729f839b83b424830ea2de?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 12 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Intern - Sales & Marketing](https://jobright.ai/jobs/info/698f22550f6f7e7a2ceb3285?utm_campaign=1051&utm_source=git)** | Honolulu, HI, US | On Site | Feb 12 |
-| **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Development Intern - Fall 2026](https://jobright.ai/jobs/info/6972ae7c4ccbf64f8df2b988?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 12 |
-| **[LONG Building Technologies](http://long.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/698eb4b678b4502f12a5942c?utm_campaign=1051&utm_source=git)** | Murray, UT | On Site | Feb 12 |
-| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/698eb4330f6f7e7a2cead72c?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Feb 12 |
-| **[WestRock Company](http://www.westrock.com)** | **[Sales & Design Intern Summer 2026 - Minneapolis MN](https://jobright.ai/jobs/info/6986e80a8da7a6120461f533?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
