@@ -62,6 +62,12 @@ For a complete list, click the following sortable link below:
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/698eb4330f6f7e7a2cead72c?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Feb 12 |
 | **[WestRock Company](http://www.westrock.com)** | **[Sales & Design Intern Summer 2026 - Minneapolis MN](https://jobright.ai/jobs/info/6986e80a8da7a6120461f533?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 12 |
 | **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Inside Sales Intern - Global](https://jobright.ai/jobs/info/69856989348f733a5c39ca49?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | Hybrid | Feb 12 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/698ec6730f6f7e7a2ceae86b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 12 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/698ec4cf0f6f7e7a2ceae6e3?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 12 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/698ec832f64d441a16511981?utm_campaign=1051&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Feb 12 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/698ec13df64d441a16511189?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 12 |
+| **[ICONIX Waterworks](https://www.iconixww.com/)** | **[Inside Sales Co-op Student  (Summer Work Term)](https://jobright.ai/jobs/info/698ec4060f6f7e7a2ceae61e?utm_campaign=1051&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Feb 12 |
+| **[Alfa Laval](http://www.alfalaval.com)** | **[Sustainability Business Development Intern](https://jobright.ai/jobs/info/69728c2e4ccbf64f8df27f42?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Feb 12 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e9ffc78b4502f12a5792e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e9f7278b4502f12a578bc?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e9f5b0f6f7e7a2ceabcb2?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Feb 12 |
@@ -71,9 +77,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e9d7c78b4502f12a57690?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e9d69f64d441a1650e672?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e9d5f78b4502f12a57674?utm_campaign=1051&utm_source=git)** | South Bend, IN | On Site | Feb 12 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e9d2b78b4502f12a57625?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Feb 12 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e9ce6f64d441a1650e607?utm_campaign=1051&utm_source=git)** | Arlington, TX | On Site | Feb 12 |
+| **[Siemens](https://www.siemens.com)** | **[Strategic Student Program: Summer 2026 Contact Development Intern](https://jobright.ai/jobs/info/698ebbe60f6f7e7a2ceade12?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Feb 12 |
+| **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e9d2b78b4502f12a57625?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e9ce6f64d441a1650e608?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Feb 12 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e9ce6f64d441a1650e607?utm_campaign=1051&utm_source=git)** | Arlington, TX | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e9c6878b4502f12a57561?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e9c3df64d441a1650e56f?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e9c2678b4502f12a57518?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Feb 12 |
@@ -94,10 +101,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e99e60f6f7e7a2ceab8d7?utm_campaign=1051&utm_source=git)** | Fayetteville, NC | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e99e478b4502f12a57388?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e99c478b4502f12a57370?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | Feb 12 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e996c78b4502f12a572f8?utm_campaign=1051&utm_source=git)** | Salem, OR | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e996c78b4502f12a572f7?utm_campaign=1051&utm_source=git)** | Santa Clarita, CA | On Site | Feb 12 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e996c78b4502f12a572f8?utm_campaign=1051&utm_source=git)** | Salem, OR | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e993b78b4502f12a572ce?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Feb 12 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e99280f6f7e7a2ceab825?utm_campaign=1051&utm_source=git)** | Alexandria, VA | On Site | Feb 12 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/698ebcb40f6f7e7a2ceadecd?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Feb 12 |
+| **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e99280f6f7e7a2ceab825?utm_campaign=1051&utm_source=git)** | Alexandria, VA | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e98f20f6f7e7a2ceab7f8?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e98ce78b4502f12a5723f?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e98c1f64d441a1650e367?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Feb 12 |
@@ -106,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e98940f6f7e7a2ceab7a7?utm_campaign=1051&utm_source=git)** | Joplin, MO | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e986c0f6f7e7a2ceab780?utm_campaign=1051&utm_source=git)** | Reno, NV | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e985cf64d441a1650e324?utm_campaign=1051&utm_source=git)** | Moreno Valley, CA | On Site | Feb 12 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e98530f6f7e7a2ceab769?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e98530f6f7e7a2ceab767?utm_campaign=1051&utm_source=git)** | Alexandria, VA | On Site | Feb 12 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e98530f6f7e7a2ceab769?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e984a0f6f7e7a2ceab760?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 12 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698e97f60f6f7e7a2ceab719?utm_campaign=1051&utm_source=git)** | Maitland, FL | On Site | Feb 12 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e97f3f64d441a1650e2bd?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | Feb 12 |
@@ -117,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[TaylorMade Golf Company](http://taylormadegolf.com/careers)** | **[Sales Analytics Intern](https://jobright.ai/jobs/info/698e97a778b4502f12a57125?utm_campaign=1051&utm_source=git)** | Carlsbad, CA | On Site | Feb 12 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e971678b4502f12a570a6?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e970e78b4502f12a57097?utm_campaign=1051&utm_source=git)** | Toledo, OH | On Site | Feb 12 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e96b4f64d441a1650e1bb?utm_campaign=1051&utm_source=git)** | Evanston, IL | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e96b4f64d441a1650e1bc?utm_campaign=1051&utm_source=git)** | Montgomery, AL | On Site | Feb 12 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e96b4f64d441a1650e1bb?utm_campaign=1051&utm_source=git)** | Evanston, IL | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e96aa0f6f7e7a2ceab5ef?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e9697f64d441a1650e1a4?utm_campaign=1051&utm_source=git)** | Metairie, LA | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e96930f6f7e7a2ceab5e1?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Feb 12 |
@@ -136,6 +144,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e94de78b4502f12a56e45?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e946f78b4502f12a56dc2?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Feb 12 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Business Development](https://jobright.ai/jobs/info/698e946478b4502f12a56db4?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Feb 12 |
+| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Payroll Business Systems Intern](https://jobright.ai/jobs/info/698ebc8978b4502f12a599e0?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Hybrid | Feb 12 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e93d20f6f7e7a2ceab397?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e93cb78b4502f12a56d38?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | On Site | Feb 12 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Sales Operations](https://jobright.ai/jobs/info/698e93a70f6f7e7a2ceab379?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 12 |
@@ -146,15 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e92720f6f7e7a2ceab260?utm_campaign=1051&utm_source=git)** | Cape Coral, FL | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e925f0f6f7e7a2ceab250?utm_campaign=1051&utm_source=git)** | Aurora, CO | On Site | Feb 12 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e925b78b4502f12a56bbb?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Feb 12 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e92450f6f7e7a2ceab238?utm_campaign=1051&utm_source=git)** | Augusta, GA | On Site | Feb 12 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e91f378b4502f12a56b4c?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | Feb 12 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e91bf0f6f7e7a2ceab1b8?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Feb 12 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698e917a78b4502f12a56ad9?utm_campaign=1051&utm_source=git)** | Johnson City, TN | On Site | Feb 12 |
-| **[GeoComply](https://www.geocomply.com)** | **[Customer Success Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/698e87070f6f7e7a2ceaa6b5?utm_campaign=1051&utm_source=git)** | Vancouver, BC | On Site | Feb 12 |
-| **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698eb77c0f6f7e7a2cead9f7?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Feb 12 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698eb773f64d441a165105d6?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Feb 12 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698ea547f64d441a1650ed82?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Feb 12 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698eac850f6f7e7a2ceac8e7?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Feb 12 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698eaa3d0f6f7e7a2ceac6ff?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Feb 12 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/698ea0aa78b4502f12a57a08?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Feb 12 |
+| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/698ec5dd78b4502f12a59fd0?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 12 |
+| ↳ | **[Relationship Manager Intern, Business Market](https://jobright.ai/jobs/info/698ec9abf64d441a16511ae4?utm_campaign=1051&utm_source=git)** | Whistler, British Columbia, Canada | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
