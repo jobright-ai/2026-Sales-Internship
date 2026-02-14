@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f497e3f782d2f1afb9f04?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Feb 14 |
+| **[National Life Group](https://www.nationallife.com)** | **[Advanced Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6973e79dbc8e722e7b18c0ff?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Feb 14 |
+| **[Ecolab](http://www.ecolab.com)** | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/691f276d09cc522e8773de20?utm_campaign=1051&utm_source=git)** | Mobile, AL | Hybrid | Feb 14 |
+| ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/69586e0e9f1b381eb2715cd9?utm_campaign=1051&utm_source=git)** | Knoxville, TN | Hybrid | Feb 14 |
+| **[Calix](http://www.calix.com)** | **[Channel and Ecosystem Partner Intern](https://jobright.ai/jobs/info/69742d97bc8e722e7b1923b4?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/693513adf131d96e4846ccb3?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Feb 14 |
+| ↳ | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/69355b8aa0dde7020e2f883a?utm_campaign=1051&utm_source=git)** | Missoula, MT | On Site | Feb 14 |
+| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f497e3f782d2f1afb9f04?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Feb 14 |
 | ↳ | **[Summer Truck Rental Account Specialist Internship - East Hartford, Connecticut](https://jobright.ai/jobs/info/68e58969ae2b894b1d710c19?utm_campaign=1051&utm_source=git)** | East Hartford, CT | On Site | Feb 14 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f2779a49a885af9a2c989?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Feb 14 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6974204737785856350e198e?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - International E-Commerce - QA Analyst](https://jobright.ai/jobs/info/698fdb0c0f6f7e7a2cec2166?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Sales Strategy Intern](https://jobright.ai/jobs/info/698fd9770f6f7e7a2cec202a?utm_campaign=1051&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
 | **[AWC (American Water Chemicals)](http://membranechemicals.com/)** | **[Technical Sales and Applications Intern](https://jobright.ai/jobs/info/698fd9100f6f7e7a2cec1f88?utm_campaign=1051&utm_source=git)** | Plant City, FL, US | On Site | Feb 13 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Panama City FL](https://jobright.ai/jobs/info/698fd5940cc8ea15f1da6f07?utm_campaign=1051&utm_source=git)** | Panama City, FL | On Site | Feb 13 |
-| ↳ | **[Sales Intern Tampa FL](https://jobright.ai/jobs/info/698fd3f90cc8ea15f1da6df6?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Feb 13 |
-| ↳ | **[Sales Intern Western MI](https://jobright.ai/jobs/info/698fd3360cc8ea15f1da6d5f?utm_campaign=1051&utm_source=git)** | Muskegon, MI | On Site | Feb 13 |
-| ↳ | **[Sales Intern Staten Island NY](https://jobright.ai/jobs/info/698fcffb0cc8ea15f1da6b52?utm_campaign=1051&utm_source=git)** | Staten Island, NY | On Site | Feb 13 |
-| **[Colonial Group, Inc.](http://www.colonialgroupinc.com/)** | **[Sales Support Summer Internship](https://jobright.ai/jobs/info/699059466ea51a7610f2e457?utm_campaign=1051&utm_source=git)** | Savannah, GA, USA | On Site | Feb 13 |
-| **[Linkby](https://linkby.com/)** | **[Partnerships & Growth Intern - Summer 2026 (NYC)](https://jobright.ai/jobs/info/698fcd7b0cc8ea15f1da697b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
