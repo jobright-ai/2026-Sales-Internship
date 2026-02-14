@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/697425b237785856350e1fd2?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Feb 14 |
+| **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Sales Internship](https://jobright.ai/jobs/info/698d868cf64d441a164fa2f6?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 14 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/695910c29f1b381eb271ef07?utm_campaign=1051&utm_source=git)** | Hampton, NJ | On Site | Feb 14 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 CIB Markets - Summer Internship, Early Careers](https://jobright.ai/jobs/info/698c27a4e4f6572f0e4439be?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 14 |
+| **[Brighton Jones](http://brightonjones.com)** | **[Private Wealth Management Summer Internship (Scottsdale - June 2026 start)](https://jobright.ai/jobs/info/69017d65d5259a1b3cff5583?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Feb 14 |
+| **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69585c91f1f8465b79eef373?utm_campaign=1051&utm_source=git)** | Akron, OH | On Site | Feb 14 |
+| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Sales Support - Summer 2026](https://jobright.ai/jobs/info/6973e36a206da320f49ddc27?utm_campaign=1051&utm_source=git)** | Brillion, WI | On Site | Feb 14 |
+| **[Lyft](https://www.lyft.com/)** | **[Account Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/693b80d6d4054a2bc0256255?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
+| **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - New York, Summer 2026](https://jobright.ai/jobs/info/68e559911852e62f0080eafc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f3a513f782d2f1afb9548?utm_campaign=1051&utm_source=git)** | Dover, DE | On Site | Feb 14 |
+| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69741c0037785856350e14d1?utm_campaign=1051&utm_source=git)** | Cranberry Township, PA | On Site | Feb 14 |
+| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Business Internship Opportunities (San Francisco)](https://jobright.ai/jobs/info/699086890cc8ea15f1db4c32?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 CIB Markets - Summer Internship, Early Careers](https://jobright.ai/jobs/info/698c29bc0f6f7e7a2ce7d39c?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 14 |
 | **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Sales Internship](https://jobright.ai/jobs/info/695911049f1b381eb271ef18?utm_campaign=1051&utm_source=git)** | Brookfield, WI | On Site | Feb 14 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/68955ab773b3a600fe886dd6?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Feb 14 |
 | ↳ | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/689560b64ed2ea559ca55583?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Feb 14 |
@@ -88,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[Business Development Intern-Corporate](https://jobright.ai/jobs/info/6973dac1bc8e722e7b18aa78?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Feb 14 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operation Intern](https://jobright.ai/jobs/info/69904e0a0f6f7e7a2cecc61e?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Feb 14 |
 | **[Primax](http://primax.us)** | **[Intern – Primax Sales Operations](https://jobright.ai/jobs/info/69741c87bc8e722e7b1910ca?utm_campaign=1051&utm_source=git)** | Greater Wilmington Area | Remote | Feb 14 |
-| **[Oracle](https://www.oracle.com/)** | **[Sales Development Rep Intern - Nashville, TN](https://jobright.ai/jobs/info/69602d64a1bbea1d9a7afea1?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Small Business](https://jobright.ai/jobs/info/6973cb98bc8e722e7b1899f6?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Feb 14 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GCM- Technical Sales and Trading Fall 2026 Intern/Co-op](https://jobright.ai/jobs/info/69899a7f0f6f7e7a2ce49d6b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 14 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/699033c60cc8ea15f1daf38c?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Feb 14 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern Savannah GA](https://jobright.ai/jobs/info/698fc5f50cc8ea15f1da6470?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Feb 13 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Sales Operations](https://jobright.ai/jobs/info/698fc5bf0f6f7e7a2cec141c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 13 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern San Francisco CA](https://jobright.ai/jobs/info/698fc5050cc8ea15f1da6331?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 13 |
-| ↳ | **[Sales Intern Fort Myers FL](https://jobright.ai/jobs/info/698fc4960cc8ea15f1da62a8?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | On Site | Feb 13 |
-| ↳ | **[Sales Intern Denver CO](https://jobright.ai/jobs/info/698fc4300f6f7e7a2cec121f?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Feb 13 |
-| ↳ | **[Sales Intern Milwaukee WI](https://jobright.ai/jobs/info/698fc3d30cc8ea15f1da61b7?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 13 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/698ff1660f6f7e7a2cec3653?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | Feb 13 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern San Francisco CA](https://jobright.ai/jobs/info/698fc1f20cc8ea15f1da5f3a?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | On Site | Feb 13 |
-| ↳ | **[Sales Intern Dallas and Fort Worth TX](https://jobright.ai/jobs/info/698fc1ef0f6f7e7a2cec0f61?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | On Site | Feb 13 |
-| ↳ | **[Sales Intern Jacksonville FL](https://jobright.ai/jobs/info/698fc1846ea51a7610f22d6c?utm_campaign=1051&utm_source=git)** | Jacksonville, FL, United States | On Site | Feb 13 |
-| ↳ | **[Sales Intern Virginia Beach VA](https://jobright.ai/jobs/info/698fc12f0f6f7e7a2cec0e53?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA, United States | On Site | Feb 13 |
-| **[General Carbide Corporation](http://generalcarbide.com)** | **[College Sales/Marketing Paid Summer Internship](https://jobright.ai/jobs/info/698fe8c50f6f7e7a2cec2dca?utm_campaign=1051&utm_source=git)** | Greensburg,PA,US | On Site | Feb 13 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Brand Partnerships Intern](https://jobright.ai/jobs/info/698fc0b76ea51a7610f22c5e?utm_campaign=1051&utm_source=git)** | Toronto, ON | On Site | Feb 13 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Scranton PA](https://jobright.ai/jobs/info/698fbfc60cc8ea15f1da5d8f?utm_campaign=1051&utm_source=git)** | Scranton, PA, United States | On Site | Feb 13 |
-| ↳ | **[Sales Intern San Antonio TX](https://jobright.ai/jobs/info/698fbf6d6ea51a7610f22a9f?utm_campaign=1051&utm_source=git)** | San Antonio, TX, United States | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
