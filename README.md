@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Commercial Intern (Sales Team)](https://jobright.ai/jobs/info/69583ad29f1b381eb27122c6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 14 |
+| **[GoFundMe](http://www.gofundme.com)** | **[Customer Success Manager Intern](https://jobright.ai/jobs/info/691f814ca49a885af9a30fc6?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Feb 14 |
+| **[Biio](biio.ai)** | **[Founders Associate-Intern](https://jobright.ai/jobs/info/69905c536ea51a7610f2e644?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 14 |
+| **[Group 1001](https://group1001.com/)** | **[IT Business Relationship Management Intern](https://jobright.ai/jobs/info/6973fd8d37785856350de623?utm_campaign=1051&utm_source=git)** | Zionsville, IN | On Site | Feb 14 |
+| **[Velera](https://www.velera.com)** | **[Intern – Primax Sales Operations](https://jobright.ai/jobs/info/6973f56737785856350dd1e1?utm_campaign=1051&utm_source=git)** | Greater Wilmington Area | Remote | Feb 14 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/6978418e39f7f96cc6d090c5?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Feb 14 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Business Development Intern-Corporate](https://jobright.ai/jobs/info/6973dac1bc8e722e7b18aa78?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Feb 14 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operation Intern](https://jobright.ai/jobs/info/69904e0a0f6f7e7a2cecc61e?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Feb 14 |
+| **[Primax](http://primax.us)** | **[Intern – Primax Sales Operations](https://jobright.ai/jobs/info/69741c87bc8e722e7b1910ca?utm_campaign=1051&utm_source=git)** | Greater Wilmington Area | Remote | Feb 14 |
+| **[Oracle](https://www.oracle.com/)** | **[Sales Development Rep Intern - Nashville, TN](https://jobright.ai/jobs/info/69602d64a1bbea1d9a7afea1?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
+| **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Small Business](https://jobright.ai/jobs/info/6973cb98bc8e722e7b1899f6?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Feb 14 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/699033c60cc8ea15f1daf38c?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Feb 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/699013706ea51a7610f27e19?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Feb 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699011320cc8ea15f1dab913?utm_campaign=1051&utm_source=git)** | Southaven, MS | On Site | Feb 13 |
@@ -96,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Panama City FL](https://jobright.ai/jobs/info/698fd5940cc8ea15f1da6f07?utm_campaign=1051&utm_source=git)** | Panama City, FL | On Site | Feb 13 |
 | ↳ | **[Sales Intern Tampa FL](https://jobright.ai/jobs/info/698fd3f90cc8ea15f1da6df6?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Feb 13 |
 | ↳ | **[Sales Intern Western MI](https://jobright.ai/jobs/info/698fd3360cc8ea15f1da6d5f?utm_campaign=1051&utm_source=git)** | Muskegon, MI | On Site | Feb 13 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/698fd0af0cc8ea15f1da6bc3?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 13 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Staten Island NY](https://jobright.ai/jobs/info/698fcffb0cc8ea15f1da6b52?utm_campaign=1051&utm_source=git)** | Staten Island, NY | On Site | Feb 13 |
+| ↳ | **[Sales Intern Staten Island NY](https://jobright.ai/jobs/info/698fcffb0cc8ea15f1da6b52?utm_campaign=1051&utm_source=git)** | Staten Island, NY | On Site | Feb 13 |
+| **[Colonial Group, Inc.](http://www.colonialgroupinc.com/)** | **[Sales Support Summer Internship](https://jobright.ai/jobs/info/699059466ea51a7610f2e457?utm_campaign=1051&utm_source=git)** | Savannah, GA, USA | On Site | Feb 13 |
 | **[Linkby](https://linkby.com/)** | **[Partnerships & Growth Intern - Summer 2026 (NYC)](https://jobright.ai/jobs/info/698fcd7b0cc8ea15f1da697b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern San Antonio TX](https://jobright.ai/jobs/info/698fcb1c0cc8ea15f1da67f9?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Feb 13 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Business Strategy](https://jobright.ai/jobs/info/698fcadd6ea51a7610f2370d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
@@ -134,27 +145,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern Portland ME](https://jobright.ai/jobs/info/698fbdda6ea51a7610f228f2?utm_campaign=1051&utm_source=git)** | Portland, ME, United States | On Site | Feb 13 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Sales Strategy Intern](https://jobright.ai/jobs/info/698ff4936ea51a7610f2576f?utm_campaign=1051&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Delaware Beaches](https://jobright.ai/jobs/info/698fea6a0f6f7e7a2cec2f3d?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE | On Site | Feb 13 |
-| ↳ | **[Sales Intern San Diego CA](https://jobright.ai/jobs/info/698ff5e06ea51a7610f25893?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 13 |
 | ↳ | **[Sales Intern Seacoast NH](https://jobright.ai/jobs/info/698ff7e06ea51a7610f25abd?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Feb 13 |
+| ↳ | **[Sales Intern San Diego CA](https://jobright.ai/jobs/info/698ff5e06ea51a7610f25893?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 13 |
 | ↳ | **[Sales Intern Houston TX](https://jobright.ai/jobs/info/698ff68d6ea51a7610f2593e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 13 |
-| ↳ | **[Sales Intern Seattle WA](https://jobright.ai/jobs/info/698ff9970f6f7e7a2cec3f64?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
-| ↳ | **[Sales Intern Western Chicago IL](https://jobright.ai/jobs/info/698fe2ed6ea51a7610f24803?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Feb 13 |
-| ↳ | **[Sales Intern Miami FL](https://jobright.ai/jobs/info/698fe9d30f6f7e7a2cec2e9e?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Feb 13 |
 | ↳ | **[Sales Intern Northern VA](https://jobright.ai/jobs/info/698ff0936ea51a7610f2534b?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Feb 13 |
+| ↳ | **[Sales Intern Miami FL](https://jobright.ai/jobs/info/698fe9d30f6f7e7a2cec2e9e?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Feb 13 |
+| ↳ | **[Sales Intern Seattle WA](https://jobright.ai/jobs/info/698ff9970f6f7e7a2cec3f64?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
 | ↳ | **[Sales Intern Salem NH](https://jobright.ai/jobs/info/698fef200f6f7e7a2cec3406?utm_campaign=1051&utm_source=git)** | Salem, NH | On Site | Feb 13 |
-| ↳ | **[Sales Intern Scranton PA](https://jobright.ai/jobs/info/698fdcc96ea51a7610f242d3?utm_campaign=1051&utm_source=git)** | Scranton, PA | On Site | Feb 13 |
-| ↳ | **[Sales Intern Fairfield CT](https://jobright.ai/jobs/info/698fdb110f6f7e7a2cec216f?utm_campaign=1051&utm_source=git)** | Fairfield, CT | On Site | Feb 13 |
-| ↳ | **[Sales Intern Laconia NH](https://jobright.ai/jobs/info/698fe45d6ea51a7610f24968?utm_campaign=1051&utm_source=git)** | Laconia, NH | On Site | Feb 13 |
-| ↳ | **[Sales Intern Dallas and Fort Worth TX](https://jobright.ai/jobs/info/698feb380f6f7e7a2cec2ff9?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 13 |
-| ↳ | **[Sales Intern Jersey Shore, NJ](https://jobright.ai/jobs/info/698fea460f6f7e7a2cec2f15?utm_campaign=1051&utm_source=git)** | Ocean City, NJ | On Site | Feb 13 |
+| ↳ | **[Sales Intern Western Chicago IL](https://jobright.ai/jobs/info/698fe2ed6ea51a7610f24803?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Feb 13 |
 | ↳ | **[Sales Intern Cape Cod MA](https://jobright.ai/jobs/info/698ff4d66ea51a7610f257a3?utm_campaign=1051&utm_source=git)** | Falmouth, MA | On Site | Feb 13 |
+| ↳ | **[Sales Intern Laconia NH](https://jobright.ai/jobs/info/698fe45d6ea51a7610f24968?utm_campaign=1051&utm_source=git)** | Laconia, NH | On Site | Feb 13 |
 | ↳ | **[Sales Intern Nashville TN](https://jobright.ai/jobs/info/698fdb0b0f6f7e7a2cec2163?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Feb 13 |
-| ↳ | **[Sales Intern Wilmington NC](https://jobright.ai/jobs/info/698ff5ab0f6f7e7a2cec3b22?utm_campaign=1051&utm_source=git)** | Wilmington, NC | On Site | Feb 13 |
-| ↳ | **[Sales Intern Portland ME](https://jobright.ai/jobs/info/698ff2896ea51a7610f2557e?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | Feb 13 |
-| ↳ | **[Sales Intern Atlanta GA](https://jobright.ai/jobs/info/698ff9ac0f6f7e7a2cec3f84?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 13 |
-| ↳ | **[Sales Intern Wichita KS](https://jobright.ai/jobs/info/698feb230f6f7e7a2cec2fde?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Feb 13 |
-| ↳ | **[Sales Intern Austin TX](https://jobright.ai/jobs/info/698fe51e0f6f7e7a2cec2aaf?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 13 |
-| ↳ | **[Sales Intern West LA and LA Beaches CA](https://jobright.ai/jobs/info/698ff6310f6f7e7a2cec3bbd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
-| ↳ | **[Sales Intern Ann Arbor MI](https://jobright.ai/jobs/info/698ffa670f6f7e7a2cec404d?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Feb 13 |
-| ↳ | **[Sales Intern Boston MA](https://jobright.ai/jobs/info/698ff2f70f6f7e7a2cec385d?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 13 |
+| ↳ | **[Sales Intern Jersey Shore, NJ](https://jobright.ai/jobs/info/698fea460f6f7e7a2cec2f15?utm_campaign=1051&utm_source=git)** | Ocean City, NJ | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
