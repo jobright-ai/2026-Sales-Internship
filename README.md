@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990e63e0cc8ea15f1db9cd4?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 14 |
+| **[Parks Marina](https://www.parksmarina.com)** | **[Retail Management Intern](https://jobright.ai/jobs/info/6990d6516ea51a7610f3437d?utm_campaign=1051&utm_source=git)** | Okoboji, IA | On Site | Feb 14 |
 | **[Velastra](velastra.us)** | **[Commercial Year-Round Intern (May 2026 Start)](https://jobright.ai/jobs/info/6990cb6e0cc8ea15f1db7bee?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Feb 14 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[New Business Associate](https://jobright.ai/jobs/info/6990c7ee6ea51a7610f33c9c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Feb 14 |
 | **[Lotus and Luna](https://www.lotusandluna.com)** | **[Wholesale Business Intern](https://jobright.ai/jobs/info/6990c6960f6f7e7a2ced2a7c?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 14 |
@@ -127,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Velera](https://www.velera.com)** | **[Intern – Primax Sales Operations](https://jobright.ai/jobs/info/6973f56737785856350dd1e1?utm_campaign=1051&utm_source=git)** | Greater Wilmington Area | Remote | Feb 14 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/6978418e39f7f96cc6d090c5?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Feb 14 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Business Development Intern-Corporate](https://jobright.ai/jobs/info/6973dac1bc8e722e7b18aa78?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Feb 14 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operation Intern](https://jobright.ai/jobs/info/69904e0a0f6f7e7a2cecc61e?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Feb 14 |
 | **[Primax](http://primax.us)** | **[Intern – Primax Sales Operations](https://jobright.ai/jobs/info/69741c87bc8e722e7b1910ca?utm_campaign=1051&utm_source=git)** | Greater Wilmington Area | Remote | Feb 14 |
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Small Business](https://jobright.ai/jobs/info/6973cb98bc8e722e7b1899f6?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Feb 14 |
 | **[Oracle](https://www.oracle.com/)** | **[Sales Development Rep Intern - Nashville, TN](https://jobright.ai/jobs/info/69602d64a1bbea1d9a7afea1?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699017f60f6f7e7a2cec6969?utm_campaign=1051&utm_source=git)** | Sparks, NV | On Site | Feb 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6990173b0cc8ea15f1dabee9?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699023360cc8ea15f1daca03?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Feb 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699018356ea51a7610f281f0?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
