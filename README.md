@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Velastra](velastra.us)** | **[Commercial Year-Round Intern (May 2026 Start)](https://jobright.ai/jobs/info/6990cb6e0cc8ea15f1db7bee?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Feb 14 |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[New Business Associate](https://jobright.ai/jobs/info/6990c7ee6ea51a7610f33c9c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Feb 14 |
+| **[Lotus and Luna](https://www.lotusandluna.com)** | **[Wholesale Business Intern](https://jobright.ai/jobs/info/6990c6960f6f7e7a2ced2a7c?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 14 |
+| **[NexaCore Consulting](nexacoreconsulting.us)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/6990c5de0cc8ea15f1db7845?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Feb 14 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/691f90d8a49a885af9a31dc2?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Feb 14 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/68cb3d9a9e3a822f5d244022?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Export Sales Intern](https://jobright.ai/jobs/info/693afb65d4054a2bc024e1a6?utm_campaign=1051&utm_source=git)** | Green Bay, WI | Hybrid | Feb 14 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual International Sales Intern (Mexico)](https://jobright.ai/jobs/info/65086fe6b1e91ec1ac9bcf1c?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Feb 14 |
 | **[KMH AGENCY](https://www.linkedin.com/company/106748391)** | **[Assistant / Intern Booking Agent](https://jobright.ai/jobs/info/6990b8406ea51a7610f338c6?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Feb 14 |
 | **[P&K Equipment](http://pkequipment.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6990b7e30cc8ea15f1db761b?utm_campaign=1051&utm_source=git)** | EDMOND - Edmond, OK 73034 | On Site | Feb 14 |
-| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[CRM Intern , Summer 2026 - Rock Hill, SC](https://jobright.ai/jobs/info/6989af258ca8121a3a6bf87a?utm_campaign=1051&utm_source=git)** | Rock Hill, NY | Hybrid | Feb 14 |
 | **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Advisor Internship Program (AIP) (Calgary/Edmonton/Saskatoon)](https://jobright.ai/jobs/info/691de088748c4e1301ec9b8c?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 14 |
 | **[National Life Group](https://www.nationallife.com)** | **[Advanced Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6973e79dbc8e722e7b18c0ff?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Feb 14 |
 | **[Ecolab](http://www.ecolab.com)** | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/691f276d09cc522e8773de20?utm_campaign=1051&utm_source=git)** | Mobile, AL | Hybrid | Feb 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6990173b0cc8ea15f1dabee9?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699023360cc8ea15f1daca03?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Feb 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699018356ea51a7610f281f0?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Feb 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699017940f6f7e7a2cec690a?utm_campaign=1051&utm_source=git)** | Kansas City, KS | On Site | Feb 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699013fd0cc8ea15f1dabbbb?utm_campaign=1051&utm_source=git)** | Jackson, MI | On Site | Feb 13 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Brand Partnerships Intern](https://jobright.ai/jobs/info/698fe5ea0cc8ea15f1da7f31?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 13 |
-| **[Crown Equipment Corporation](http://www.crown.com)** | **[Sales - Student Co-op or Intern](https://jobright.ai/jobs/info/6990073f0cc8ea15f1daa60d?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 13 |
-| **[Colonial Group, Inc.](http://www.colonialgroupinc.com/)** | **[Sales Support Summer Internship](https://jobright.ai/jobs/info/69900bca6ea51a7610f27898?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
