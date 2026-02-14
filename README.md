@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/697425b237785856350e1fd2?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Feb 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f497e3f782d2f1afb9f04?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Feb 14 |
+| ↳ | **[Summer Truck Rental Account Specialist Internship - East Hartford, Connecticut](https://jobright.ai/jobs/info/68e58969ae2b894b1d710c19?utm_campaign=1051&utm_source=git)** | East Hartford, CT | On Site | Feb 14 |
+| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f2779a49a885af9a2c989?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Feb 14 |
+| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6974204737785856350e198e?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Planning Analytics Intern](https://jobright.ai/jobs/info/698831238da7a61204634806?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
+| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69741ba1206da320f49e3c92?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Feb 14 |
+| ↳ | **[Sales Internship](https://jobright.ai/jobs/info/6974256637785856350e1f7b?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Feb 14 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68af4ac21f0a2a568a06052e?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Feb 14 |
+| **[Galaxy](https://www.galaxy.com)** | **[2026 Sales and Trading Internships - NYC](https://jobright.ai/jobs/info/6903d42f63502c0aded6cfe3?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 14 |
+| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69742073bc8e722e7b191556?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Feb 14 |
+| ↳ | **[Sales Internship](https://jobright.ai/jobs/info/69741e2737785856350e1722?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 14 |
+| ↳ | **[Sales Internship](https://jobright.ai/jobs/info/697425b237785856350e1fd2?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Feb 14 |
 | **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Sales Internship](https://jobright.ai/jobs/info/698d868cf64d441a164fa2f6?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 14 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/695910c29f1b381eb271ef07?utm_campaign=1051&utm_source=git)** | Hampton, NJ | On Site | Feb 14 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 CIB Markets - Summer Internship, Early Careers](https://jobright.ai/jobs/info/698c27a4e4f6572f0e4439be?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 14 |
@@ -102,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operation Intern](https://jobright.ai/jobs/info/69904e0a0f6f7e7a2cecc61e?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Feb 14 |
 | **[Primax](http://primax.us)** | **[Intern – Primax Sales Operations](https://jobright.ai/jobs/info/69741c87bc8e722e7b1910ca?utm_campaign=1051&utm_source=git)** | Greater Wilmington Area | Remote | Feb 14 |
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Small Business](https://jobright.ai/jobs/info/6973cb98bc8e722e7b1899f6?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Feb 14 |
+| **[Oracle](https://www.oracle.com/)** | **[Sales Development Rep Intern - Nashville, TN](https://jobright.ai/jobs/info/69602d64a1bbea1d9a7afea1?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GCM- Technical Sales and Trading Fall 2026 Intern/Co-op](https://jobright.ai/jobs/info/69899a7f0f6f7e7a2ce49d6b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 14 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/699033c60cc8ea15f1daf38c?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Feb 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/699013706ea51a7610f27e19?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Feb 13 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern Staten Island NY](https://jobright.ai/jobs/info/698fcffb0cc8ea15f1da6b52?utm_campaign=1051&utm_source=git)** | Staten Island, NY | On Site | Feb 13 |
 | **[Colonial Group, Inc.](http://www.colonialgroupinc.com/)** | **[Sales Support Summer Internship](https://jobright.ai/jobs/info/699059466ea51a7610f2e457?utm_campaign=1051&utm_source=git)** | Savannah, GA, USA | On Site | Feb 13 |
 | **[Linkby](https://linkby.com/)** | **[Partnerships & Growth Intern - Summer 2026 (NYC)](https://jobright.ai/jobs/info/698fcd7b0cc8ea15f1da697b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern San Antonio TX](https://jobright.ai/jobs/info/698fcb1c0cc8ea15f1da67f9?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Feb 13 |
-| **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Business Strategy](https://jobright.ai/jobs/info/698fcadd6ea51a7610f2370d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Myrtle Beach SC](https://jobright.ai/jobs/info/698fca6c0cc8ea15f1da678a?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Feb 13 |
-| ↳ | **[Sales Intern Jacksonville FL](https://jobright.ai/jobs/info/698fc93e0cc8ea15f1da66c9?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 13 |
-| ↳ | **[Sales Intern Hartford CT](https://jobright.ai/jobs/info/698fc91a0cc8ea15f1da66b3?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Feb 13 |
-| ↳ | **[Sales Intern Orange County CA](https://jobright.ai/jobs/info/698fc8b76ea51a7610f2358e?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Feb 13 |
-| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/698ff5ab0f6f7e7a2cec3b21?utm_campaign=1051&utm_source=git)** | Westmont, IL | On Site | Feb 13 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Northern Chicago](https://jobright.ai/jobs/info/698fc7dc0cc8ea15f1da661c?utm_campaign=1051&utm_source=git)** | Arlington Heights, IL | On Site | Feb 13 |
-| ↳ | **[Sales Intern Northern NJ](https://jobright.ai/jobs/info/698fc60a0cc8ea15f1da6494?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Feb 13 |
-| ↳ | **[Sales Intern Savannah GA](https://jobright.ai/jobs/info/698fc5f50cc8ea15f1da6470?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Feb 13 |
-| **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Sales Operations](https://jobright.ai/jobs/info/698fc5bf0f6f7e7a2cec141c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 13 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern San Francisco CA](https://jobright.ai/jobs/info/698fc5050cc8ea15f1da6331?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
