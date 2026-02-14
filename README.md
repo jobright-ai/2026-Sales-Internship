@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Sales Internship](https://jobright.ai/jobs/info/695911049f1b381eb271ef18?utm_campaign=1051&utm_source=git)** | Brookfield, WI | On Site | Feb 14 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/68955ab773b3a600fe886dd6?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Feb 14 |
+| ↳ | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/689560b64ed2ea559ca55583?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Feb 14 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/690afa95d046ab6061ce1c34?utm_campaign=1051&utm_source=git)** | Smyrna, TN | On Site | Feb 14 |
+| ↳ | **[Summer 2026 Sales Intern - Raleigh South](https://jobright.ai/jobs/info/69797ee2ca92cf0d6a82a320?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Feb 14 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 CIB Markets - Summer Internship, Early Careers](https://jobright.ai/jobs/info/698d641e78b4502f12a406a7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 14 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - Jacksonville](https://jobright.ai/jobs/info/69847dd8348f733a5c3889ee?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 14 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer Truck Rental Account Specialist Internship - Berlin, CT](https://jobright.ai/jobs/info/699076a96ea51a7610f2f941?utm_campaign=1051&utm_source=git)** | New Britain, CT, US | On Site | Feb 14 |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/699076546ea51a7610f2f89d?utm_campaign=1051&utm_source=git)** | Laredo, TX | On Site | Feb 14 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Arkansas District)](https://jobright.ai/jobs/info/68e600d51852e62f008172d9?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Feb 14 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Platform Distribution Business Affairs Undergrad Intern, Summer 2026](https://jobright.ai/jobs/info/698c6caf78b4502f12a2f46b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Analytics Intern - Global Sales Operations](https://jobright.ai/jobs/info/69741c73bc8e722e7b1910b6?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Feb 14 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Summer Internship Program- Tucson, AZ](https://jobright.ai/jobs/info/695900cbf1f8465b79ef9616?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Feb 14 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Non Alcs Category Manager Intern](https://jobright.ai/jobs/info/691f4ad23f782d2f1afba002?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Feb 14 |
+| **[North Star Resource Group](http://northstarfinancial.com)** | **[Sales and Marketing Internship – Financial Advising Development Program](https://jobright.ai/jobs/info/69584b839f1b381eb27136e7?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 14 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Proprietary Dispensed Beverages Category Intern](https://jobright.ai/jobs/info/691f476ca49a885af9a2dada?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Feb 14 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Category Management](https://jobright.ai/jobs/info/6973e33e37785856350db410?utm_campaign=1051&utm_source=git)** | Hershey, PA | Hybrid | Feb 14 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693c29c049a7695fbd0301b0?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 14 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6973e1eabc8e722e7b18b4e3?utm_campaign=1051&utm_source=git)** | Akron, OH | On Site | Feb 14 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Brand Partnerships Intern](https://jobright.ai/jobs/info/698fc0b76ea51a7610f22c5e?utm_campaign=1051&utm_source=git)** | Toronto, ON | On Site | Feb 13 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Scranton PA](https://jobright.ai/jobs/info/698fbfc60cc8ea15f1da5d8f?utm_campaign=1051&utm_source=git)** | Scranton, PA, United States | On Site | Feb 13 |
 | ↳ | **[Sales Intern San Antonio TX](https://jobright.ai/jobs/info/698fbf6d6ea51a7610f22a9f?utm_campaign=1051&utm_source=git)** | San Antonio, TX, United States | On Site | Feb 13 |
-| ↳ | **[Sales Intern Metro Chicago IL](https://jobright.ai/jobs/info/698fbf646ea51a7610f22a93?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Feb 13 |
-| ↳ | **[Sales Intern Staten Island NY](https://jobright.ai/jobs/info/698fbf100cc8ea15f1da5ca0?utm_campaign=1051&utm_source=git)** | Staten Island, NY, United States | On Site | Feb 13 |
-| ↳ | **[Sales Intern Fort Myers FL](https://jobright.ai/jobs/info/698fbea70f6f7e7a2cec0adf?utm_campaign=1051&utm_source=git)** | Fort Myers, FL, United States | On Site | Feb 13 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Sales Representative- Internship](https://jobright.ai/jobs/info/698fe4dc0f6f7e7a2cec2a82?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 13 |
-| **[Victaulic](https://www.victaulic.com)** | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/697bbc4c1423772304ebe7d8?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 13 |
-| **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/695c3ab222c9dc0d3d54195c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 13 |
-| **[CDM Smith](https://www.cdmsmith.com)** | **[Inside Sales Intern (Summer 2026!)](https://jobright.ai/jobs/info/698b979f06d9b0622495bd37?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 13 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Wilmington NC](https://jobright.ai/jobs/info/698fbe030f6f7e7a2cec0a06?utm_campaign=1051&utm_source=git)** | Wilmington, NC, United States | On Site | Feb 13 |
-| ↳ | **[Sales Intern Portland ME](https://jobright.ai/jobs/info/698fbdda6ea51a7610f228f2?utm_campaign=1051&utm_source=git)** | Portland, ME, United States | On Site | Feb 13 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Sales Strategy Intern](https://jobright.ai/jobs/info/698ff4936ea51a7610f2576f?utm_campaign=1051&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Delaware Beaches](https://jobright.ai/jobs/info/698fea6a0f6f7e7a2cec2f3d?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE | On Site | Feb 13 |
-| ↳ | **[Sales Intern Seacoast NH](https://jobright.ai/jobs/info/698ff7e06ea51a7610f25abd?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Feb 13 |
-| ↳ | **[Sales Intern San Diego CA](https://jobright.ai/jobs/info/698ff5e06ea51a7610f25893?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 13 |
-| ↳ | **[Sales Intern Houston TX](https://jobright.ai/jobs/info/698ff68d6ea51a7610f2593e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 13 |
-| ↳ | **[Sales Intern Salem NH](https://jobright.ai/jobs/info/698fef200f6f7e7a2cec3406?utm_campaign=1051&utm_source=git)** | Salem, NH | On Site | Feb 13 |
-| ↳ | **[Sales Intern Seattle WA](https://jobright.ai/jobs/info/698ff9970f6f7e7a2cec3f64?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
