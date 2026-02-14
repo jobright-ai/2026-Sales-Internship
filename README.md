@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Export Sales Intern](https://jobright.ai/jobs/info/693afb65d4054a2bc024e1a6?utm_campaign=1051&utm_source=git)** | Green Bay, WI | Hybrid | Feb 14 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual International Sales Intern (Mexico)](https://jobright.ai/jobs/info/65086fe6b1e91ec1ac9bcf1c?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Feb 14 |
+| **[KMH AGENCY](https://www.linkedin.com/company/106748391)** | **[Assistant / Intern Booking Agent](https://jobright.ai/jobs/info/6990b8406ea51a7610f338c6?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Feb 14 |
+| **[P&K Equipment](http://pkequipment.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6990b7e30cc8ea15f1db761b?utm_campaign=1051&utm_source=git)** | EDMOND - Edmond, OK 73034 | On Site | Feb 14 |
+| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[CRM Intern , Summer 2026 - Rock Hill, SC](https://jobright.ai/jobs/info/6989af258ca8121a3a6bf87a?utm_campaign=1051&utm_source=git)** | Rock Hill, NY | Hybrid | Feb 14 |
+| **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Advisor Internship Program (AIP) (Calgary/Edmonton/Saskatoon)](https://jobright.ai/jobs/info/691de088748c4e1301ec9b8c?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 14 |
 | **[National Life Group](https://www.nationallife.com)** | **[Advanced Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6973e79dbc8e722e7b18c0ff?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Feb 14 |
 | **[Ecolab](http://www.ecolab.com)** | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/691f276d09cc522e8773de20?utm_campaign=1051&utm_source=git)** | Mobile, AL | Hybrid | Feb 14 |
 | ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/69586e0e9f1b381eb2715cd9?utm_campaign=1051&utm_source=git)** | Knoxville, TN | Hybrid | Feb 14 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Brand Partnerships Intern](https://jobright.ai/jobs/info/698fe5ea0cc8ea15f1da7f31?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 13 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Sales - Student Co-op or Intern](https://jobright.ai/jobs/info/6990073f0cc8ea15f1daa60d?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 13 |
 | **[Colonial Group, Inc.](http://www.colonialgroupinc.com/)** | **[Sales Support Summer Internship](https://jobright.ai/jobs/info/69900bca6ea51a7610f27898?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Feb 13 |
-| **[ISACA](http://www.isaca.org)** | **[Corporate Development & Strategy Intern](https://jobright.ai/jobs/info/69901c860cc8ea15f1dac39e?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
-| ↳ | **[Process Improvement & Operations Intern](https://jobright.ai/jobs/info/699010570f6f7e7a2cec623c?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
-| **[First Internet Bank](https://www.firstib.com)** | **[Banking Apprentice](https://jobright.ai/jobs/info/698ffd5e0cc8ea15f1da95d7?utm_campaign=1051&utm_source=git)** | Fishers, IN | On Site | Feb 13 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - International E-Commerce - QA Analyst](https://jobright.ai/jobs/info/698fdb0c0f6f7e7a2cec2166?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Sales Strategy Intern](https://jobright.ai/jobs/info/698fd9770f6f7e7a2cec202a?utm_campaign=1051&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
-| **[AWC (American Water Chemicals)](http://membranechemicals.com/)** | **[Technical Sales and Applications Intern](https://jobright.ai/jobs/info/698fd9100f6f7e7a2cec1f88?utm_campaign=1051&utm_source=git)** | Plant City, FL, US | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
