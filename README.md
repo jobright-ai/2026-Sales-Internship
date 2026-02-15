@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Feb 15 |
+| **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2026 - Eastern PA](https://jobright.ai/jobs/info/68cc351c7342c7623ae60d20?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 15 |
+| **[Brixenta](brixenta.us)** | **[Commercial Intern (Sportsbook) - Summer 2026](https://jobright.ai/jobs/info/6991e1886ea51a7610f42ebf?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 15 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Operations Support](https://jobright.ai/jobs/info/6903e721d64a22104aa94c87?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Feb 15 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/692118d300c9ee50eaecbadb?utm_campaign=1051&utm_source=git)** | Bensalem, PA | On Site | Feb 15 |
+| ↳ | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e87136cc49a84b7e1062e7?utm_campaign=1051&utm_source=git)** | Benton, AR | On Site | Feb 15 |
+| **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/6991d8196ea51a7610f4266c?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Feb 15 |
+| **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Sales Intern -Summer 2026 (Bunzl Processor Division)](https://jobright.ai/jobs/info/68cc33af7342c7623ae60a50?utm_campaign=1051&utm_source=git)** | Riverside, MO | On Site | Feb 15 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68cc9ce016d00d2beeb220d7?utm_campaign=1051&utm_source=git)** | Hewitt, TX | On Site | Feb 15 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/69355e06f131d96e4846e1e4?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Feb 15 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68cc6f4a7342c7623ae64c9b?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Feb 15 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69211f253f782d2f1afcf61a?utm_campaign=1051&utm_source=git)** | West Chester, PA | On Site | Feb 15 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/6941089e49a7695fbd069038?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Feb 15 |
 | ↳ | **[2026 Management and Sales Internship -Austin](https://jobright.ai/jobs/info/69561bf3aa05c26e7ab05bf0?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 15 |
 | **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Business Associate Intern](https://jobright.ai/jobs/info/6991bc0b6ea51a7610f4130b?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 15 |
@@ -74,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[OTR Solutions](http://www.otrsolutions.com)** | **[Fuel Sales Intern (Summer Program)](https://jobright.ai/jobs/info/698235bfc3101f1400c3e783?utm_campaign=1051&utm_source=git)** | Roswell, GA | On Site | Feb 15 |
 | **[Veltrana Group](veltranagroup.us)** | **[Sports Trader Intern - Summer 2026](https://jobright.ai/jobs/info/69917d1f0cc8ea15f1dc2846?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Feb 15 |
 | **[Orvanta](orvanta.us)** | **[Sales Intern](https://jobright.ai/jobs/info/699178116ea51a7610f3e20d?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Feb 14 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69914fa10cc8ea15f1dbdf3d?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 14 |
 | **[Breezeline](http://www.breezeline.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/699138a86ea51a7610f389f1?utm_campaign=1051&utm_source=git)** | Miramar, FL | Hybrid | Feb 14 |
 | **[Brixenta](brixenta.us)** | **[Sales Internship](https://jobright.ai/jobs/info/69910bf00f6f7e7a2ced55cf?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | Remote | Feb 14 |
 | **[Hannigan Roofing](Hanniganroofing.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699100e20cc8ea15f1dba3ed?utm_campaign=1051&utm_source=git)** | Plymouth, MA | On Site | Feb 14 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[Non Alcs Category Manager Intern](https://jobright.ai/jobs/info/691f4ad23f782d2f1afba002?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Feb 14 |
 | **[North Star Resource Group](http://northstarfinancial.com)** | **[Sales and Marketing Internship – Financial Advising Development Program](https://jobright.ai/jobs/info/69584b839f1b381eb27136e7?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 14 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Proprietary Dispensed Beverages Category Intern](https://jobright.ai/jobs/info/691f476ca49a885af9a2dada?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Feb 14 |
-| **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Category Management](https://jobright.ai/jobs/info/6973e33e37785856350db410?utm_campaign=1051&utm_source=git)** | Hershey, PA | Hybrid | Feb 14 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693c29c049a7695fbd0301b0?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 14 |
-| **[Valmark Financial Group](http://valmarkfg.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6973e1eabc8e722e7b18b4e3?utm_campaign=1051&utm_source=git)** | Akron, OH | On Site | Feb 14 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/6973f5a5bc8e722e7b18dbdd?utm_campaign=1051&utm_source=git)** | Queens, NY | On Site | Feb 14 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693c265550bbaf76504f78b8?utm_campaign=1051&utm_source=git)** | San Angelo, TX | On Site | Feb 14 |
-| **[Confluent](https://confluent.io)** | **[Partner Sales Operations Skillbridge Intern](https://jobright.ai/jobs/info/691f769909cc522e87741885?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 14 |
-| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Commercial Intern (Sales Team)](https://jobright.ai/jobs/info/69583ad29f1b381eb27122c6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 14 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Customer Success Manager Intern](https://jobright.ai/jobs/info/691f814ca49a885af9a30fc6?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Feb 14 |
-| **[Biio](biio.ai)** | **[Founders Associate-Intern](https://jobright.ai/jobs/info/69905c536ea51a7610f2e644?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 14 |
-| **[Group 1001](https://group1001.com/)** | **[IT Business Relationship Management Intern](https://jobright.ai/jobs/info/6973fd8d37785856350de623?utm_campaign=1051&utm_source=git)** | Zionsville, IN | On Site | Feb 14 |
-| **[Velera](https://www.velera.com)** | **[Intern – Primax Sales Operations](https://jobright.ai/jobs/info/6973f56737785856350dd1e1?utm_campaign=1051&utm_source=git)** | Greater Wilmington Area | Remote | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
