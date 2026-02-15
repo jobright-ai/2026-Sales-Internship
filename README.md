@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brixenta](brixenta.us)** | **[Sales Internship](https://jobright.ai/jobs/info/69910bf00f6f7e7a2ced55cf?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | Remote | Feb 14 |
+| **[Hannigan Roofing](Hanniganroofing.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699100e20cc8ea15f1dba3ed?utm_campaign=1051&utm_source=git)** | Plymouth, MA | On Site | Feb 14 |
+| **[Cogeco Media](http://www.cogecomedia.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6990fb8f0f6f7e7a2ced5477?utm_campaign=1051&utm_source=git)** | Miramar, FL | Hybrid | Feb 14 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f4770f6f7e7a2ced5416?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f3e70f6f7e7a2ced53f7?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | On Site | Feb 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f3e70f6f7e7a2ced53f6?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EMCOR Services Mesa Energy](https://www.mesaenergy.com)** | **[Intern - HVAC Sales](https://jobright.ai/jobs/info/6990013b6ea51a7610f270f2?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 13 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699028e76ea51a7610f2a8e8?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | Feb 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69902be66ea51a7610f2ad73?utm_campaign=1051&utm_source=git)** | Louisiana, United States | Remote | Feb 13 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69902c996ea51a7610f2ae89?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Feb 13 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699026b60f6f7e7a2cec915b?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Feb 13 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69902fed6ea51a7610f2b3d4?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
