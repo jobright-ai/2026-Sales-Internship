@@ -110,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - New York, Summer 2026](https://jobright.ai/jobs/info/68e559911852e62f0080eafc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f3a513f782d2f1afb9548?utm_campaign=1051&utm_source=git)** | Dover, DE | On Site | Feb 14 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69741c0037785856350e14d1?utm_campaign=1051&utm_source=git)** | Cranberry Township, PA | On Site | Feb 14 |
-| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Business Internship Opportunities (San Francisco)](https://jobright.ai/jobs/info/699086890cc8ea15f1db4c32?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 CIB Markets - Summer Internship, Early Careers](https://jobright.ai/jobs/info/698c29bc0f6f7e7a2ce7d39c?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 14 |
 | **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Sales Internship](https://jobright.ai/jobs/info/695911049f1b381eb271ef18?utm_campaign=1051&utm_source=git)** | Brookfield, WI | On Site | Feb 14 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/68955ab773b3a600fe886dd6?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Feb 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6990047b0f6f7e7a2cec56f8?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Feb 13 |
 | **[EMCOR Services Mesa Energy](https://www.mesaenergy.com)** | **[Intern - HVAC Sales](https://jobright.ai/jobs/info/6990013b6ea51a7610f270f2?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 13 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699028e76ea51a7610f2a8e8?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | Feb 13 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69902be66ea51a7610f2ad73?utm_campaign=1051&utm_source=git)** | Louisiana, United States | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
