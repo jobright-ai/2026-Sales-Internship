@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Shopify Agency Partnerships - Remote Internship](https://jobright.ai/jobs/info/69920d5b0f6f7e7a2cee3bac?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Feb 15 |
 | **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Sourcing Intern](https://jobright.ai/jobs/info/6920c2393f782d2f1afcb1c0?utm_campaign=1051&utm_source=git)** | Sycamore, IL | On Site | Feb 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a589f131d96e484655f7?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Feb 15 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68af4b512daaba398441cedf?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Feb 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68af4ac21f0a2a568a06052e?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Feb 14 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Sales and Trading Internships - NYC](https://jobright.ai/jobs/info/6903d42f63502c0aded6cfe3?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 14 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69742073bc8e722e7b191556?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Feb 14 |
-| ↳ | **[Sales Internship](https://jobright.ai/jobs/info/69741e2737785856350e1722?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
