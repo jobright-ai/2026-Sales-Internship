@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veltrana Group](veltranagroup.us)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/6991b08c0cc8ea15f1dc5298?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Remote | Feb 15 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern - Field](https://jobright.ai/jobs/info/693d7a4850bbaf76505084f6?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 15 |
+| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e854a209580a2fe57f6878?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 15 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/697d8ccd7f40342e15d66f87?utm_campaign=1051&utm_source=git)** | Middlebury, CT | On Site | Feb 15 |
+| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e850b9cc49a84b7e104ffa?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Feb 15 |
 | **[Xylem](https://heimplanet.com/)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/69620d3f25e18715077eebf6?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 15 |
 | **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68e8821f09580a2fe57f86ba?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | On Site | Feb 15 |
 | ↳ | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/6905dcdf63502c0aded7eb87?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Feb 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Small Business](https://jobright.ai/jobs/info/6973cb98bc8e722e7b1899f6?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Feb 14 |
 | **[Oracle](https://www.oracle.com/)** | **[Sales Development Rep Intern - Nashville, TN](https://jobright.ai/jobs/info/69602d64a1bbea1d9a7afea1?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GCM- Technical Sales and Trading Fall 2026 Intern/Co-op](https://jobright.ai/jobs/info/69899a7f0f6f7e7a2ce49d6b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 14 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/699033c60cc8ea15f1daf38c?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Feb 14 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/699013706ea51a7610f27e19?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Feb 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699011320cc8ea15f1dab913?utm_campaign=1051&utm_source=git)** | Southaven, MS | On Site | Feb 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69900f2f0f6f7e7a2cec6131?utm_campaign=1051&utm_source=git)** | Augusta, GA | On Site | Feb 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69900ede0f6f7e7a2cec60dc?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
