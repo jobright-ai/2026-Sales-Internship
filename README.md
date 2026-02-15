@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f4770f6f7e7a2ced5416?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 14 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f3e70f6f7e7a2ced53f7?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | On Site | Feb 14 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f3e70f6f7e7a2ced53f6?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 14 |
+| **[DigiMarCon - Digital Marketing, Media and Advertising Conferences & Exhibitions](http://digimarcon.com)** | **[🌎 Paid Traveling Internship: Exhibition Sales & Event Management](https://jobright.ai/jobs/info/6990f3ab0cc8ea15f1dba2e3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 14 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f2f56ea51a7610f36430?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Feb 14 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f2e16ea51a7610f36427?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 14 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f29c6ea51a7610f36413?utm_campaign=1051&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Feb 14 |
+| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Sales Internship](https://jobright.ai/jobs/info/6990e9ec0cc8ea15f1dba002?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Feb 14 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990e63e0cc8ea15f1db9cd4?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 14 |
 | **[Parks Marina](https://www.parksmarina.com)** | **[Retail Management Intern](https://jobright.ai/jobs/info/6990d6516ea51a7610f3437d?utm_campaign=1051&utm_source=git)** | Okoboji, IA | On Site | Feb 14 |
 | **[Velastra](velastra.us)** | **[Commercial Year-Round Intern (May 2026 Start)](https://jobright.ai/jobs/info/6990cb6e0cc8ea15f1db7bee?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Feb 14 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69902c996ea51a7610f2ae89?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Feb 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699026b60f6f7e7a2cec915b?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Feb 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69902fed6ea51a7610f2b3d4?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Feb 13 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/699022cb0cc8ea15f1dac93b?utm_campaign=1051&utm_source=git)** | Abilene, TX | On Site | Feb 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69901a9a0f6f7e7a2cec6b77?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA | On Site | Feb 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69901ce16ea51a7610f285a2?utm_campaign=1051&utm_source=git)** | Meridian, MS | On Site | Feb 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699018b60cc8ea15f1dac02e?utm_campaign=1051&utm_source=git)** | Enid, OK | On Site | Feb 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69901fa80cc8ea15f1dac69a?utm_campaign=1051&utm_source=git)** | Cheyenne, WY | On Site | Feb 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699017f60f6f7e7a2cec6969?utm_campaign=1051&utm_source=git)** | Sparks, NV | On Site | Feb 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6990173b0cc8ea15f1dabee9?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699023360cc8ea15f1daca03?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
