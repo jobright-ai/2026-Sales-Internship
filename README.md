@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veltrana Group](veltranagroup.us)** | **[Sports Trader Intern - Summer 2026](https://jobright.ai/jobs/info/69917d1f0cc8ea15f1dc2846?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Feb 15 |
+| **[Orvanta](orvanta.us)** | **[Sales Intern](https://jobright.ai/jobs/info/699178116ea51a7610f3e20d?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Feb 14 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69914fa10cc8ea15f1dbdf3d?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 14 |
 | **[Breezeline](http://www.breezeline.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/699138a86ea51a7610f389f1?utm_campaign=1051&utm_source=git)** | Miramar, FL | Hybrid | Feb 14 |
 | **[Brixenta](brixenta.us)** | **[Sales Internship](https://jobright.ai/jobs/info/69910bf00f6f7e7a2ced55cf?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | Remote | Feb 14 |
@@ -114,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69741c0037785856350e14d1?utm_campaign=1051&utm_source=git)** | Cranberry Township, PA | On Site | Feb 14 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 CIB Markets - Summer Internship, Early Careers](https://jobright.ai/jobs/info/698c29bc0f6f7e7a2ce7d39c?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 14 |
 | **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Sales Internship](https://jobright.ai/jobs/info/695911049f1b381eb271ef18?utm_campaign=1051&utm_source=git)** | Brookfield, WI | On Site | Feb 14 |
-| **[General Carbide Corporation](http://generalcarbide.com)** | **[College Sales/Marketing Paid Summer Internship](https://jobright.ai/jobs/info/699158080f6f7e7a2ceda7c1?utm_campaign=1051&utm_source=git)** | Greensburg, PA | On Site | Feb 14 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/68955ab773b3a600fe886dd6?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Feb 14 |
 | ↳ | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/689560b64ed2ea559ca55583?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Feb 14 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/690afa95d046ab6061ce1c34?utm_campaign=1051&utm_source=git)** | Smyrna, TN | On Site | Feb 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69900ba70f6f7e7a2cec5dc2?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Feb 13 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Administrative](https://jobright.ai/jobs/info/698a6c3ec5761b521a99a25b?utm_campaign=1051&utm_source=git)** | Toronto | On Site | Feb 13 |
 | **[Razer Inc.](https://www.razer.com)** | **[Sales Intern (Latin America)](https://jobright.ai/jobs/info/697acf9e9d60e431a16c7641?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Feb 13 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6990047b0f6f7e7a2cec56f8?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
