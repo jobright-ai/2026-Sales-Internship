@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/6941089e49a7695fbd069038?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Feb 15 |
+| ↳ | **[2026 Management and Sales Internship -Austin](https://jobright.ai/jobs/info/69561bf3aa05c26e7ab05bf0?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 15 |
+| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Business Associate Intern](https://jobright.ai/jobs/info/6991bc0b6ea51a7610f4130b?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 15 |
+| **[Cable One/Sparklight Careers](https://www.cableone.biz)** | **[Business Development Summer Intern](https://jobright.ai/jobs/info/690d8a25221b890c27807751?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 15 |
+| **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68edc51881fdd1626d39f369?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Feb 15 |
+| **[Meridien Labs](meridienlabs.us)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/6991b4776ea51a7610f40de7?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Remote | Feb 15 |
 | **[Veltrana Group](veltranagroup.us)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/6991b08c0cc8ea15f1dc5298?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Remote | Feb 15 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern - Field](https://jobright.ai/jobs/info/693d7a4850bbaf76505084f6?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 15 |
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e854a209580a2fe57f6878?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 15 |
@@ -75,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Cogeco Media](http://www.cogecomedia.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6990fb8f0f6f7e7a2ced5477?utm_campaign=1051&utm_source=git)** | Miramar, FL | Hybrid | Feb 14 |
 | **[Arena](https://arena.run/)** | **[Summer 2026 Internship - Business Development](https://jobright.ai/jobs/info/699159c86ea51a7610f3b60a?utm_campaign=1051&utm_source=git)** | Lincoln, NE | Hybrid | Feb 14 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f4770f6f7e7a2ced5416?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 14 |
-| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f3e70f6f7e7a2ced53f6?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f3e70f6f7e7a2ced53f7?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | On Site | Feb 14 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f3e70f6f7e7a2ced53f6?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 14 |
 | **[DigiMarCon - Digital Marketing, Media and Advertising Conferences & Exhibitions](http://digimarcon.com)** | **[🌎 Paid Traveling Internship: Exhibition Sales & Event Management](https://jobright.ai/jobs/info/6990f3ab0cc8ea15f1dba2e3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 14 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f2f56ea51a7610f36430?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Feb 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f2e16ea51a7610f36427?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 14 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Biio](biio.ai)** | **[Founders Associate-Intern](https://jobright.ai/jobs/info/69905c536ea51a7610f2e644?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Group 1001](https://group1001.com/)** | **[IT Business Relationship Management Intern](https://jobright.ai/jobs/info/6973fd8d37785856350de623?utm_campaign=1051&utm_source=git)** | Zionsville, IN | On Site | Feb 14 |
 | **[Velera](https://www.velera.com)** | **[Intern – Primax Sales Operations](https://jobright.ai/jobs/info/6973f56737785856350dd1e1?utm_campaign=1051&utm_source=git)** | Greater Wilmington Area | Remote | Feb 14 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/6978418e39f7f96cc6d090c5?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Feb 14 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[Business Development Intern-Corporate](https://jobright.ai/jobs/info/6973dac1bc8e722e7b18aa78?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Feb 14 |
-| **[Primax](http://primax.us)** | **[Intern – Primax Sales Operations](https://jobright.ai/jobs/info/69741c87bc8e722e7b1910ca?utm_campaign=1051&utm_source=git)** | Greater Wilmington Area | Remote | Feb 14 |
-| **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Small Business](https://jobright.ai/jobs/info/6973cb98bc8e722e7b1899f6?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Feb 14 |
-| **[Oracle](https://www.oracle.com/)** | **[Sales Development Rep Intern - Nashville, TN](https://jobright.ai/jobs/info/69602d64a1bbea1d9a7afea1?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[GCM- Technical Sales and Trading Fall 2026 Intern/Co-op](https://jobright.ai/jobs/info/69899a7f0f6f7e7a2ce49d6b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
