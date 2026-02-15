@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sares](https://www.linkedin.com/company/5093363)** | **[Sales and Account Management Intern](https://jobright.ai/jobs/info/6992286c0f6f7e7a2cee48ec?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 15 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader (Firearms) FT 6654](https://jobright.ai/jobs/info/699227ec0f6f7e7a2cee48ae?utm_campaign=1051&utm_source=git)** | Centreville, VA | On Site | Feb 15 |
+| **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/699226880f6f7e7a2cee47b8?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Feb 15 |
+| **[DRF Water Heating Solutions](https://www.drftps.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/699226330cc8ea15f1dc993d?utm_campaign=1051&utm_source=git)** | Plainfield, NJ | On Site | Feb 15 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69921a590cc8ea15f1dc933e?utm_campaign=1051&utm_source=git)** | Elgin, IL | On Site | Feb 15 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699219550cc8ea15f1dc9295?utm_campaign=1051&utm_source=git)** | Aurora, IL | On Site | Feb 15 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Global Partnerships – Data & Research](https://jobright.ai/jobs/info/6983b70b01214b4cdacb9682?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
@@ -128,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Cogeco Media](http://www.cogecomedia.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6990fb8f0f6f7e7a2ced5477?utm_campaign=1051&utm_source=git)** | Miramar, FL | Hybrid | Feb 14 |
 | **[Arena](https://arena.run/)** | **[Summer 2026 Internship - Business Development](https://jobright.ai/jobs/info/699159c86ea51a7610f3b60a?utm_campaign=1051&utm_source=git)** | Lincoln, NE | Hybrid | Feb 14 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f4770f6f7e7a2ced5416?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 14 |
-| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f3e70f6f7e7a2ced53f6?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f3e70f6f7e7a2ced53f7?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | On Site | Feb 14 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f3e70f6f7e7a2ced53f6?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 14 |
 | **[DigiMarCon - Digital Marketing, Media and Advertising Conferences & Exhibitions](http://digimarcon.com)** | **[🌎 Paid Traveling Internship: Exhibition Sales & Event Management](https://jobright.ai/jobs/info/6990f3ab0cc8ea15f1dba2e3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 14 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f2f56ea51a7610f36430?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Feb 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f2e16ea51a7610f36427?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/69355b8aa0dde7020e2f883a?utm_campaign=1051&utm_source=git)** | Missoula, MT | On Site | Feb 14 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f497e3f782d2f1afb9f04?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Feb 14 |
 | ↳ | **[Summer Truck Rental Account Specialist Internship - East Hartford, Connecticut](https://jobright.ai/jobs/info/68e58969ae2b894b1d710c19?utm_campaign=1051&utm_source=git)** | East Hartford, CT | On Site | Feb 14 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f2779a49a885af9a2c989?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Feb 14 |
-| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6974204737785856350e198e?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Planning Analytics Intern](https://jobright.ai/jobs/info/698831238da7a61204634806?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
-| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69741ba1206da320f49e3c92?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
