@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69921a590cc8ea15f1dc933e?utm_campaign=1051&utm_source=git)** | Elgin, IL | On Site | Feb 15 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699219550cc8ea15f1dc9295?utm_campaign=1051&utm_source=git)** | Aurora, IL | On Site | Feb 15 |
+| **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Global Partnerships – Data & Research](https://jobright.ai/jobs/info/6983b70b01214b4cdacb9682?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
+| **[Aflac](http://www.aflac.com)** | **[Aflac Summer Sales Internship](https://jobright.ai/jobs/info/699211d36ea51a7610f4494f?utm_campaign=1051&utm_source=git)** | Pittsburgh Region | Hybrid | Feb 15 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/699210e20cc8ea15f1dc8e59?utm_campaign=1051&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Feb 15 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Shopify Agency Partnerships - Remote Internship](https://jobright.ai/jobs/info/69920d5b0f6f7e7a2cee3bac?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Feb 15 |
 | **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Sourcing Intern](https://jobright.ai/jobs/info/6920c2393f782d2f1afcb1c0?utm_campaign=1051&utm_source=git)** | Sycamore, IL | On Site | Feb 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a589f131d96e484655f7?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Feb 15 |
@@ -132,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Sales Internship](https://jobright.ai/jobs/info/6990e9ec0cc8ea15f1dba002?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Feb 14 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990e63e0cc8ea15f1db9cd4?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 14 |
 | **[Parks Marina](https://www.parksmarina.com)** | **[Retail Management Intern](https://jobright.ai/jobs/info/6990d6516ea51a7610f3437d?utm_campaign=1051&utm_source=git)** | Okoboji, IA | On Site | Feb 14 |
-| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[New Business Associate](https://jobright.ai/jobs/info/6990c7ee6ea51a7610f33c9c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Feb 14 |
 | **[Lotus and Luna](https://www.lotusandluna.com)** | **[Wholesale Business Intern](https://jobright.ai/jobs/info/6990c6960f6f7e7a2ced2a7c?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 14 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/691f90d8a49a885af9a31dc2?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Feb 14 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/68cb3d9a9e3a822f5d244022?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6974204737785856350e198e?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Planning Analytics Intern](https://jobright.ai/jobs/info/698831238da7a61204634806?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69741ba1206da320f49e3c92?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Feb 14 |
-| ↳ | **[Sales Internship](https://jobright.ai/jobs/info/6974256637785856350e1f7b?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Feb 14 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68af4ac21f0a2a568a06052e?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Feb 14 |
-| **[Galaxy](https://www.galaxy.com)** | **[2026 Sales and Trading Internships - NYC](https://jobright.ai/jobs/info/6903d42f63502c0aded6cfe3?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 14 |
-| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69742073bc8e722e7b191556?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
