@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Retail Location Planning & Allocation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69930aaae0bddb6acac14e1f?utm_campaign=1051&utm_source=git)** | Kissimmee, FL | On Site | Feb 16 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[7-Ventures and Emerging Brands Intern](https://jobright.ai/jobs/info/68e9175c0930fe0bc4622378?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Feb 16 |
+| ↳ | **[Fresh Food Category Manager Intern](https://jobright.ai/jobs/info/68e914670930fe0bc46221e7?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Feb 16 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69930505e0bddb6acac1487a?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 16 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Location Planning & Allocation Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69930343e0bddb6acac14728?utm_campaign=1051&utm_source=git)** | Kissimmee, FL | On Site | Feb 16 |
+| **[Acrisure Trade Credit](https://www.traderiskgroup.com/)** | **[Personal Lines Insurance Intern](https://jobright.ai/jobs/info/6993027881476f6176aa9c6d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 16 |
 | **[Sound Credit Union](https://www.soundcu.com)** | **[Indirect Lending Intern](https://jobright.ai/jobs/info/6992fdc2e0bddb6acac140e5?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Feb 16 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/6992f807ce78e77b4fd6c887?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 16 |
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/694392e294730b739876c32d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Sales Intern -Summer 2026 (Bunzl Processor Division)](https://jobright.ai/jobs/info/68cc33af7342c7623ae60a50?utm_campaign=1051&utm_source=git)** | Riverside, MO | On Site | Feb 15 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68cc9ce016d00d2beeb220d7?utm_campaign=1051&utm_source=git)** | Hewitt, TX | On Site | Feb 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/69355e06f131d96e4846e1e4?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Feb 15 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68cc6f4a7342c7623ae64c9b?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Feb 15 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69211f253f782d2f1afcf61a?utm_campaign=1051&utm_source=git)** | West Chester, PA | On Site | Feb 15 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/6941089e49a7695fbd069038?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Feb 15 |
-| ↳ | **[2026 Management and Sales Internship -Austin](https://jobright.ai/jobs/info/69561bf3aa05c26e7ab05bf0?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 15 |
-| **[Cable One/Sparklight Careers](https://www.cableone.biz)** | **[Business Development Summer Intern](https://jobright.ai/jobs/info/690d8a25221b890c27807751?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 15 |
-| **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68edc51881fdd1626d39f369?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
