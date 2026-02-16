@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/691d0ffabcdbf3560c9ecd94?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Feb 15 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69926bf66ea51a7610f47cf4?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Feb 15 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699264b00f6f7e7a2cee71a5?utm_campaign=1051&utm_source=git)** | Lakeland, FL | Remote | Feb 15 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d0ffabcdbf3560c9ecd94?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Feb 15 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699253dc0f6f7e7a2cee6fa9?utm_campaign=1051&utm_source=git)** | Gainesville, FL | Remote | Feb 15 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/691cbf60bcdbf3560c9e958d?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d0882ff7024498416d272?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Remote | Feb 15 |
@@ -73,10 +75,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/691c9fe7ff70244984168f83?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d08b9ff7024498416d29d?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d041d22a2cb4b9bd1fd7b?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | Remote | Feb 15 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691c949b22a2cb4b9bd1b7a7?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d12b922a2cb4b9bd206b8?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Feb 15 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d087e22a2cb4b9bd200f1?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Feb 15 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691c949b22a2cb4b9bd1b7a7?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d1ed50b7dff73414fffed?utm_campaign=1051&utm_source=git)** | Omaha, NE | Remote | Feb 15 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d087e22a2cb4b9bd200f1?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Feb 15 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales and Leadership Intern](https://jobright.ai/jobs/info/69924fa80f6f7e7a2cee6ef5?utm_campaign=1051&utm_source=git)** | St Augustine, FL | On Site | Feb 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Rockford, IL - Summer 2026](https://jobright.ai/jobs/info/699248040f6f7e7a2cee64bd?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Feb 15 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69923b650cc8ea15f1dcab9c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Feb 15 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Management and Sales Internship -Austin](https://jobright.ai/jobs/info/69561bf3aa05c26e7ab05bf0?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 15 |
 | **[Cable One/Sparklight Careers](https://www.cableone.biz)** | **[Business Development Summer Intern](https://jobright.ai/jobs/info/690d8a25221b890c27807751?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 15 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68edc51881fdd1626d39f369?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Feb 15 |
-| **[Meridien Labs](meridienlabs.us)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/6991b4776ea51a7610f40de7?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Remote | Feb 15 |
 | **[Veltrana Group](veltranagroup.us)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/6991b08c0cc8ea15f1dc5298?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Remote | Feb 15 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern - Field](https://jobright.ai/jobs/info/693d7a4850bbaf76505084f6?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 15 |
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e854a209580a2fe57f6878?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 15 |
@@ -148,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68e8821f09580a2fe57f86ba?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | On Site | Feb 15 |
 | ↳ | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/6905dcdf63502c0aded7eb87?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Feb 15 |
 | **[OTR Solutions](http://www.otrsolutions.com)** | **[Fuel Sales Intern (Summer Program)](https://jobright.ai/jobs/info/698235bfc3101f1400c3e783?utm_campaign=1051&utm_source=git)** | Roswell, GA | On Site | Feb 15 |
-| **[Veltrana Group](veltranagroup.us)** | **[Sports Trader Intern - Summer 2026](https://jobright.ai/jobs/info/69917d1f0cc8ea15f1dc2846?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Feb 15 |
 | **[Orvanta](orvanta.us)** | **[Sales Intern](https://jobright.ai/jobs/info/699178116ea51a7610f3e20d?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Feb 14 |
 | **[Breezeline](http://www.breezeline.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/699138a86ea51a7610f389f1?utm_campaign=1051&utm_source=git)** | Miramar, FL | Hybrid | Feb 14 |
 | **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6991fc126ea51a7610f43e41?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 14 |
