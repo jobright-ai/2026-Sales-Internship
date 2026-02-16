@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LCOR](http://lcor.com)** | **[Development Intern](https://jobright.ai/jobs/info/69927d826ea51a7610f4850d?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Feb 15 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69926bf66ea51a7610f47cf4?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Feb 15 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699264b00f6f7e7a2cee71a5?utm_campaign=1051&utm_source=git)** | Lakeland, FL | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d0ffabcdbf3560c9ecd94?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Feb 15 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/691c98a922a2cb4b9bd1b954?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d017022a2cb4b9bd1fb93?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d0c5bff7024498416d5ec?utm_campaign=1051&utm_source=git)** | Nashville, TN | Remote | Feb 15 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/691c9fe7ff70244984168f83?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d08b9ff7024498416d29d?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | Remote | Feb 15 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/691c9fe7ff70244984168f83?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d041d22a2cb4b9bd1fd7b?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d12b922a2cb4b9bd206b8?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691c949b22a2cb4b9bd1b7a7?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Feb 15 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[OTR Solutions](http://www.otrsolutions.com)** | **[Fuel Sales Intern (Summer Program)](https://jobright.ai/jobs/info/698235bfc3101f1400c3e783?utm_campaign=1051&utm_source=git)** | Roswell, GA | On Site | Feb 15 |
 | **[Orvanta](orvanta.us)** | **[Sales Intern](https://jobright.ai/jobs/info/699178116ea51a7610f3e20d?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Feb 14 |
 | **[Breezeline](http://www.breezeline.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/699138a86ea51a7610f389f1?utm_campaign=1051&utm_source=git)** | Miramar, FL | Hybrid | Feb 14 |
-| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6991fc126ea51a7610f43e41?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 14 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/698e533f78b4502f12a51aa5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Feb 14 |
 | **[Hannigan Roofing](Hanniganroofing.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699100e20cc8ea15f1dba3ed?utm_campaign=1051&utm_source=git)** | Plymouth, MA | On Site | Feb 14 |
 | **[Cogeco Media](http://www.cogecomedia.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6990fb8f0f6f7e7a2ced5477?utm_campaign=1051&utm_source=git)** | Miramar, FL | Hybrid | Feb 14 |
 | **[Arena](https://arena.run/)** | **[Summer 2026 Internship - Business Development](https://jobright.ai/jobs/info/699159c86ea51a7610f3b60a?utm_campaign=1051&utm_source=git)** | Lincoln, NE | Hybrid | Feb 14 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f4770f6f7e7a2ced5416?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 14 |
-| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6990f3e70f6f7e7a2ced53f6?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
