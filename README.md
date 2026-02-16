@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Sales & Client Engagement Internship Program – Colorado Springs](https://jobright.ai/jobs/info/6992d157e0bddb6acac1120a?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | Hybrid | Feb 16 |
 | **[RagaAI Inc](http://www.raga.ai)** | **[AI Product & Customer Success Intern](https://jobright.ai/jobs/info/6992cb5ee0bddb6acac10fed?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 15 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6992c31ace78e77b4fd697c3?utm_campaign=1051&utm_source=git)** | Detroit Metro | Hybrid | Feb 15 |
 | **[Orvanta](orvanta.us)** | **[New Business Associate Intern](https://jobright.ai/jobs/info/6992a79681476f6176aa22eb?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Remote | Feb 15 |
@@ -76,14 +77,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/691c98a922a2cb4b9bd1b954?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d017022a2cb4b9bd1fb93?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d0c5bff7024498416d5ec?utm_campaign=1051&utm_source=git)** | Nashville, TN | Remote | Feb 15 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/691c9fe7ff70244984168f83?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d08b9ff7024498416d29d?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | Remote | Feb 15 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/691c9fe7ff70244984168f83?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d041d22a2cb4b9bd1fd7b?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | Remote | Feb 15 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d12b922a2cb4b9bd206b8?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691c949b22a2cb4b9bd1b7a7?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Feb 15 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d12b922a2cb4b9bd206b8?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d087e22a2cb4b9bd200f1?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d1ed50b7dff73414fffed?utm_campaign=1051&utm_source=git)** | Omaha, NE | Remote | Feb 15 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales and Leadership Intern](https://jobright.ai/jobs/info/69924fa80f6f7e7a2cee6ef5?utm_campaign=1051&utm_source=git)** | St Augustine, FL | On Site | Feb 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Rockford, IL - Summer 2026](https://jobright.ai/jobs/info/699248040f6f7e7a2cee64bd?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Feb 15 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69923b650cc8ea15f1dcab9c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Feb 15 |
 | **[SunSource](http://www.sun-source.com)** | **[Industrial Sales Account Manager Trainee  Development Program](https://jobright.ai/jobs/info/6992380f0cc8ea15f1dca87a?utm_campaign=1051&utm_source=git)** | Addison, IL | On Site | Feb 15 |
@@ -143,7 +143,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Management and Sales Internship -Austin](https://jobright.ai/jobs/info/69561bf3aa05c26e7ab05bf0?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 15 |
 | **[Cable One/Sparklight Careers](https://www.cableone.biz)** | **[Business Development Summer Intern](https://jobright.ai/jobs/info/690d8a25221b890c27807751?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 15 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68edc51881fdd1626d39f369?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Feb 15 |
-| **[Veltrana Group](veltranagroup.us)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/6991b08c0cc8ea15f1dc5298?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Remote | Feb 15 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern - Field](https://jobright.ai/jobs/info/693d7a4850bbaf76505084f6?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 15 |
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e854a209580a2fe57f6878?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 15 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/697d8ccd7f40342e15d66f87?utm_campaign=1051&utm_source=git)** | Middlebury, CT | On Site | Feb 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/698e533f78b4502f12a51aa5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Feb 14 |
 | **[Hannigan Roofing](Hanniganroofing.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699100e20cc8ea15f1dba3ed?utm_campaign=1051&utm_source=git)** | Plymouth, MA | On Site | Feb 14 |
 | **[Cogeco Media](http://www.cogecomedia.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6990fb8f0f6f7e7a2ced5477?utm_campaign=1051&utm_source=git)** | Miramar, FL | Hybrid | Feb 14 |
+| **[Arena](https://arena.run/)** | **[Summer 2026 Internship - Business Development](https://jobright.ai/jobs/info/699159c86ea51a7610f3b60a?utm_campaign=1051&utm_source=git)** | Lincoln, NE | Hybrid | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
