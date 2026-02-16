@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer Internship - Sales Management Trainee - OKC](https://jobright.ai/jobs/info/69354a36f131d96e4846dc75?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Feb 16 |
+| **[Risk Strategies Company](http://www.risk-strategies.com)** | **[Intern](https://jobright.ai/jobs/info/69934f7181476f6176aaf9ac?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 16 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/6993434b81476f6176aade23?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Feb 16 |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Associate Intern](https://jobright.ai/jobs/info/699342b181476f6176aadd9a?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | Feb 16 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/68cdb865e23def7af55be95a?utm_campaign=1051&utm_source=git)** | Detroit, MI | Hybrid | Feb 16 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer 2026 College Financial Representative Internship - NYC](https://jobright.ai/jobs/info/68a76806d627244576e2bf58?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 16 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/69933120ce78e77b4fd70c84?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Feb 16 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/69933115e0bddb6acac180d0?utm_campaign=1051&utm_source=git)** | Bensalem, PA | On Site | Feb 16 |
 | ↳ | **[Supply Chain Wholesale Internship](https://jobright.ai/jobs/info/69933086ce78e77b4fd70c32?utm_campaign=1051&utm_source=git)** | Pennsauken, NJ | On Site | Feb 16 |
-| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69932f75e0bddb6acac17f67?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Feb 16 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Buying Intern](https://jobright.ai/jobs/info/6978a13139f7f96cc6d106a4?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 16 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/68955f4a73b3a600fe886f4b?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 16 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[New Business Associate](https://jobright.ai/jobs/info/69932688e0bddb6acac177d8?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 16 |
@@ -108,11 +111,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/691c98a922a2cb4b9bd1b954?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d017022a2cb4b9bd1fb93?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d0c5bff7024498416d5ec?utm_campaign=1051&utm_source=git)** | Nashville, TN | Remote | Feb 15 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d08b9ff7024498416d29d?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | Remote | Feb 15 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/691c9fe7ff70244984168f83?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Feb 15 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d08b9ff7024498416d29d?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d041d22a2cb4b9bd1fd7b?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | Remote | Feb 15 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d12b922a2cb4b9bd206b8?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691c949b22a2cb4b9bd1b7a7?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Feb 15 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d12b922a2cb4b9bd206b8?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d087e22a2cb4b9bd200f1?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Feb 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d1ed50b7dff73414fffed?utm_campaign=1051&utm_source=git)** | Omaha, NE | Remote | Feb 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Rockford, IL - Summer 2026](https://jobright.ai/jobs/info/699248040f6f7e7a2cee64bd?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Feb 15 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Truck Rental Account Specialist Internship - Wolcott, CT](https://jobright.ai/jobs/info/6933ef97f131d96e484686d3?utm_campaign=1051&utm_source=git)** | Waterbury, CT | On Site | Feb 15 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6904df0eff462851feff836a?utm_campaign=1051&utm_source=git)** | Dothan, AL | On Site | Feb 15 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Sales Intern](https://jobright.ai/jobs/info/69923dbd6ea51a7610f46a56?utm_campaign=1051&utm_source=git)** | Houston, TX, USA | On Site | Feb 15 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - Chicopee, Massachusetts](https://jobright.ai/jobs/info/68e870b9cc49a84b7e106250?utm_campaign=1051&utm_source=git)** | Chicopee, MA | On Site | Feb 15 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933fe30f131d96e48468f35?utm_campaign=1051&utm_source=git)** | Montgomery, AL | On Site | Feb 15 |
-| ↳ | **[Summer Truck Rental Account Specialist Internship - East Granby, Connecticut](https://jobright.ai/jobs/info/6933f865764507023d1bb0f9?utm_campaign=1051&utm_source=git)** | Windsor, CT | On Site | Feb 15 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933fe30f131d96e48468f35?utm_campaign=1051&utm_source=git)** | Montgomery, AL | On Site | Feb 15 |
 | ↳ | **[Summer Truck Rental Account Specialist Internship - Berlin, CT](https://jobright.ai/jobs/info/6933ddbf764507023d1ba492?utm_campaign=1051&utm_source=git)** | New Britain, CT | On Site | Feb 15 |
 | **[Orvanta](orvanta.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/6991ec926ea51a7610f4370f?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Feb 15 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Planning Intern](https://jobright.ai/jobs/info/6920f88f3f782d2f1afcda0b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
