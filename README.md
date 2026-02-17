@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Summer 2026, Property & Casualty Sales Intern](https://jobright.ai/jobs/info/695c494922c9dc0d3d542eea?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Feb 17 |
+| **[ADP](http://www.adp.com)** | **[Summer Sales Intern - Global Accounts](https://jobright.ai/jobs/info/695ca5655e4962051b59d755?utm_campaign=1051&utm_source=git)** | Allentown, PA | Remote | Feb 17 |
+| ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/69945c3281476f6176ac169d?utm_campaign=1051&utm_source=git)** | Middle River, MD | On Site | Feb 17 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Financial Institutions Department-Non-Great China Relationship Management Intern](https://jobright.ai/jobs/info/69609358a112b402660f4167?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 17 |
+| **[ADP](http://www.adp.com)** | **[Summer Sales Intern - Major Accounts](https://jobright.ai/jobs/info/695ca63c9a87b95a93980c11?utm_campaign=1051&utm_source=git)** | Coraopolis, PA | Remote | Feb 17 |
+| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/695bea90f1f8465b79f1e5d8?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 17 |
+| ↳ | **[Financial Sales Intern](https://jobright.ai/jobs/info/695be93bf1f8465b79f1e55b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Feb 17 |
 | **[ADP](http://www.adp.com)** | **[Summer Digital Sales Internship - Small Business](https://jobright.ai/jobs/info/698e312cf64d441a16506b3f?utm_campaign=1051&utm_source=git)** | Coraopolis, PA | Remote | Feb 17 |
 | **[Pilomation](https://www.pilomation.com/)** | **[Customer Acquisition Intern](https://jobright.ai/jobs/info/69944eec81476f6176ac0568?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/6977faee88e2b47213bc0842?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 17 |
@@ -97,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Veltrana Group](veltranagroup.us)** | **[Sports Trader Intern - Summer 2026](https://jobright.ai/jobs/info/6993c92881476f6176ab6540?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Feb 16 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Strategy &amp; Business Development - Intern](https://jobright.ai/jobs/info/6993c8d7e0bddb6acac210b4?utm_campaign=1051&utm_source=git)** | Georgia, Texas | Hybrid | Feb 16 |
 | **[ALO](https://www.aloyoga.com/)** | **[Buying Intern](https://jobright.ai/jobs/info/6993c764e0bddb6acac20fdf?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Feb 16 |
-| **[Horizon Lane](horizonlane.us)** | **[Client Services & Sales Intern](https://jobright.ai/jobs/info/6993e61a81476f6176ab83f1?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Feb 16 |
+| **[Horizon Lane](horizonlane.net)** | **[Client Services & Sales Intern](https://jobright.ai/jobs/info/6993e61a81476f6176ab83f1?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Feb 16 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6993e220ce78e77b4fd7b69f?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL | On Site | Feb 16 |
 | **[LT](http://laneterralever.com)** | **[Account Services Intern](https://jobright.ai/jobs/info/6993f3f2e0bddb6acac24260?utm_campaign=1051&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Feb 16 |
 | **[The Millennium Alliance](https://mill-all.com/)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/6993b84881476f6176ab5523?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 16 |
@@ -114,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[New Era Cap](https://www.neweracap.com/)** | **[Corporate Partnerships Intern](https://jobright.ai/jobs/info/6993aadee0bddb6acac1f21a?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
 | ↳ | **[Retail & Brand Activation Intern](https://jobright.ai/jobs/info/6993aab4e0bddb6acac1f1e6?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6993a543e0bddb6acac1ec30?utm_campaign=1051&utm_source=git)** | Norton Shores, MI | On Site | Feb 16 |
-| **[BMO](http://www.bmo.com)** | **[Portfolio Assistant Intern (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/6993cb1081476f6176ab6717?utm_campaign=1051&utm_source=git)** | Brossard, QC, CAN | On Site | Feb 16 |
-| ↳ | **[Portfolio Assistant Intern (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/6993e15de0bddb6acac228aa?utm_campaign=1051&utm_source=git)** | MONTREAL, QC, CAN | On Site | Feb 16 |
+| **[BMO](http://www.bmo.com)** | **[Portfolio Assistant Intern (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/6993e15de0bddb6acac228aa?utm_campaign=1051&utm_source=git)** | MONTREAL, QC, CAN | On Site | Feb 16 |
+| ↳ | **[Portfolio Assistant Intern (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/6993cb1081476f6176ab6717?utm_campaign=1051&utm_source=git)** | Brossard, QC, CAN | On Site | Feb 16 |
 | **[Vail Health](https://www.vailhealth.org)** | **[Development Intern](https://jobright.ai/jobs/info/6993bf66e0bddb6acac20867?utm_campaign=1051&utm_source=git)** | Edwards, CO | On Site | Feb 16 |
 | **[Teressa Foglia](https://teressafoglia.com/)** | **[Fashion + Art Intern](https://jobright.ai/jobs/info/6993c04981476f6176ab5f11?utm_campaign=1051&utm_source=git)** | Malibu, CA | On Site | Feb 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6993b453e0bddb6acac1fc88?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 16 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Account Administrator Intern](https://jobright.ai/jobs/info/6993a8c8e0bddb6acac1efce?utm_campaign=1051&utm_source=git)** | Pennsylvania - King of Prussia | On Site | Feb 16 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699386e4ce78e77b4fd759e6?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Feb 16 |
 | ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/69937ea2ce78e77b4fd74fa0?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Feb 16 |
-| **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Charlotte, Summer 2026](https://jobright.ai/jobs/info/69054f59ff462851feffc9a6?utm_campaign=1051&utm_source=git)** | Charlotte Metro | On Site | Feb 16 |
-| **[National Museum of Women in the Arts](https://nmwa.org/)** | **[Development Intern](https://jobright.ai/jobs/info/6993bd5481476f6176ab5b54?utm_campaign=1051&utm_source=git)** | WASHINGTON,DC,US | On Site | Feb 16 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Truck Rental Sales Account Specialist Internship - Boise](https://jobright.ai/jobs/info/6993afe7e0bddb6acac1f75e?utm_campaign=1051&utm_source=git)** | Boise | On Site | Feb 16 |
-| ↳ | **[Summer 2026 Truck Rental Sales Account Specialist Internship - Boise](https://jobright.ai/jobs/info/6993b10b81476f6176ab4c2a?utm_campaign=1051&utm_source=git)** | Boise, ID, US | On Site | Feb 16 |
-| **[CDM Smith](https://www.cdmsmith.com)** | **[Inside Sales Intern (Summer 2026!)](https://jobright.ai/jobs/info/698b83680f6f7e7a2ce6f68c?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 16 |
-| **[GSD&M](http://www.gsdm.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/696ebaf85fc86241853da26f?utm_campaign=1051&utm_source=git)** | Austin | Hybrid | Feb 16 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer Internship - Sales Management Trainee - OKC](https://jobright.ai/jobs/info/69354a36f131d96e4846dc75?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
