@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2026 - Dallas, TX](https://jobright.ai/jobs/info/68cdb0b31ad6b16f0289dc42?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Feb 17 |
+| **[Visa](https://www.visa.com)** | **[Account Management and Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/699477eae0bddb6acac2e4d4?utm_campaign=1051&utm_source=git)** | Wilmington, DE | Hybrid | Feb 17 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2026 - Raleigh, NC)](https://jobright.ai/jobs/info/695c4906f1f8465b79f25c08?utm_campaign=1051&utm_source=git)** | Cary, NC | On Site | Feb 17 |
+| **[Sun Gro Horticulture](http://www.sungro.com)** | **[Sales Training Internship](https://jobright.ai/jobs/info/6978475c39f7f96cc6d09fbe?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 17 |
+| **[Viega LLC](https://viega.us)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/698d7ab60f6f7e7a2ce95f54?utm_campaign=1051&utm_source=git)** | Broomfield, CO | On Site | Feb 17 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Remote - Shopify Partnerships Internship](https://jobright.ai/jobs/info/699473d9ce78e77b4fd86e50?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Feb 17 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/68955eaa8c6d6b44267793da?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Feb 17 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Account and Program Management Intern](https://jobright.ai/jobs/info/6940a66950bbaf765052af89?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Feb 17 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/69873fc48ca8121a3a69d1d0?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Feb 17 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Sales Administrative Assistant Intern – Summer 2026 (Cleveland, OH)](https://jobright.ai/jobs/info/6977ddaa88e2b47213bbd9bb?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Feb 17 |
@@ -117,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Buying Intern](https://jobright.ai/jobs/info/6993c764e0bddb6acac20fdf?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Feb 16 |
 | **[Horizon Lane](horizonlane.net)** | **[Client Services & Sales Intern](https://jobright.ai/jobs/info/6993e61a81476f6176ab83f1?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Feb 16 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6993e220ce78e77b4fd7b69f?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL | On Site | Feb 16 |
+| **[PharmaBids](https://www.pharmabids.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6994758bce78e77b4fd870d5?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Feb 16 |
 | **[LT](http://laneterralever.com)** | **[Account Services Intern](https://jobright.ai/jobs/info/6993f3f2e0bddb6acac24260?utm_campaign=1051&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Feb 16 |
 | **[The Millennium Alliance](https://mill-all.com/)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/6993b84881476f6176ab5523?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 16 |
 | **[The Plug Drink](https://theplugdrink.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6993d8cfe0bddb6acac21f46?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 16 |
@@ -132,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[New Era Cap](https://www.neweracap.com/)** | **[Corporate Partnerships Intern](https://jobright.ai/jobs/info/6993aadee0bddb6acac1f21a?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
 | ↳ | **[Retail & Brand Activation Intern](https://jobright.ai/jobs/info/6993aab4e0bddb6acac1f1e6?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6993a543e0bddb6acac1ec30?utm_campaign=1051&utm_source=git)** | Norton Shores, MI | On Site | Feb 16 |
-| **[BMO](http://www.bmo.com)** | **[Portfolio Assistant Intern (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/6993e15de0bddb6acac228aa?utm_campaign=1051&utm_source=git)** | MONTREAL, QC, CAN | On Site | Feb 16 |
-| ↳ | **[Portfolio Assistant Intern (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/6993cb1081476f6176ab6717?utm_campaign=1051&utm_source=git)** | Brossard, QC, CAN | On Site | Feb 16 |
+| **[BMO](http://www.bmo.com)** | **[Portfolio Assistant Intern (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/6993cb1081476f6176ab6717?utm_campaign=1051&utm_source=git)** | Brossard, QC, CAN | On Site | Feb 16 |
+| ↳ | **[Portfolio Assistant Intern (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/6993e15de0bddb6acac228aa?utm_campaign=1051&utm_source=git)** | MONTREAL, QC, CAN | On Site | Feb 16 |
 | **[Vail Health](https://www.vailhealth.org)** | **[Development Intern](https://jobright.ai/jobs/info/6993bf66e0bddb6acac20867?utm_campaign=1051&utm_source=git)** | Edwards, CO | On Site | Feb 16 |
 | **[Teressa Foglia](https://teressafoglia.com/)** | **[Fashion + Art Intern](https://jobright.ai/jobs/info/6993c04981476f6176ab5f11?utm_campaign=1051&utm_source=git)** | Malibu, CA | On Site | Feb 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6993b453e0bddb6acac1fc88?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 16 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fusion100](http://Fusion100co.com)** | **[Greek Life Sales Intern](https://jobright.ai/jobs/info/6993a8f8e0bddb6acac1f011?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Feb 16 |
 | **[Yazaki North America](https://www.yii.tech/)** | **[Strategic Business Partnerships & Analytics Intern](https://jobright.ai/jobs/info/69938a8881476f6176ab206b?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Feb 16 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA SALES INTERN SUMMER '26- WTVG](https://jobright.ai/jobs/info/699387eece78e77b4fd75b09?utm_campaign=1051&utm_source=git)** | Toledo, OH | On Site | Feb 16 |
-| **[Oakwood Village](https://www.oakwoodvillage.net/)** | **[Sales and Marketing Internship](https://jobright.ai/jobs/info/6993a8e881476f6176ab422b?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Feb 16 |
-| **[Hemut (YC X25)](https://www.hemut.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6993a0bcce78e77b4fd7742d?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 16 |
-| **[Matriosh](Matriosh.com)** | **[Founder Office Intern](https://jobright.ai/jobs/info/6993a20981476f6176ab3865?utm_campaign=1051&utm_source=git)** | Menlo Park, CA | On Site | Feb 16 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Development Intern - Fall 2026 - Dallas Regional Office](https://jobright.ai/jobs/info/6993816c81476f6176ab18cb?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 16 |
-| **[Hilldrup](http://hilldrup.com)** | **[Intern, Sales and Client Services](https://jobright.ai/jobs/info/69939b8ce0bddb6acac1e2f3?utm_campaign=1051&utm_source=git)** | Stafford, VA, US | On Site | Feb 16 |
-| **[AHF](https://www.ahfproducts.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/698ba97506d9b0622495d270?utm_campaign=1051&utm_source=git)** | Mountville, PA | On Site | Feb 16 |
-| **[Luxury Miami Estate Management](https://miamiestatemanager.com/)** | **[Outreach Intern Luxury Real Estate](https://jobright.ai/jobs/info/6993a06c81476f6176ab362d?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Feb 16 |
-| **[XiFin, Inc.](http://www.xifin.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6993bb7de0bddb6acac20434?utm_campaign=1051&utm_source=git)** | San Diego, CA, US | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
