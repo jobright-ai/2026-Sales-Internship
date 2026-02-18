@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LMCU](https://www.lmcu.org/)** | **[Small Business Lending Intern](https://jobright.ai/jobs/info/69956016e0bddb6acac3f131?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Feb 17 |
+| **[SPREEAI](https://www.spreeai.com)** | **[Partnerships & Business Development Intern (6-Months United States)](https://jobright.ai/jobs/info/695f0302a112b402660dbbc6?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 17 |
 | **[CG Life](https://www.cglife.com/)** | **[Account Management Internship - Summer 2026](https://jobright.ai/jobs/info/6984f0920f6f7e7a2cdf699c?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | Feb 17 |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Finance Club Partner (Student Leadership Program)](https://jobright.ai/jobs/info/6995621ace78e77b4fd98aa6?utm_campaign=1051&utm_source=git)** | Canada | Remote | Feb 17 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69952f91e0bddb6acac3b78c?utm_campaign=1051&utm_source=git)** | Earth City, MO | On Site | Feb 17 |
 | **[Corcoran Icon Properties](https://corcoranicon.com)** | **[CorcoranIcon Properties Summer Internship 2026](https://jobright.ai/jobs/info/69952be2ce78e77b4fd94421?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Feb 17 |
-| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69954d9a81476f6176ad2f8e?utm_campaign=1051&utm_source=git)** | Williams Lake, British Columbia, Canada | On Site | Feb 17 |
-| ↳ | **[Client Advisor intern](https://jobright.ai/jobs/info/69954ea0ce78e77b4fd96bde?utm_campaign=1051&utm_source=git)** | Oliver, British Columbia, Canada | On Site | Feb 17 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor intern](https://jobright.ai/jobs/info/69954ea0ce78e77b4fd96bde?utm_campaign=1051&utm_source=git)** | Oliver, British Columbia, Canada | On Site | Feb 17 |
+| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69954d9a81476f6176ad2f8e?utm_campaign=1051&utm_source=git)** | Williams Lake, British Columbia, Canada | On Site | Feb 17 |
 | ↳ | **[Relationship Manager Business Markets - Intern](https://jobright.ai/jobs/info/69954dfd81476f6176ad2fd9?utm_campaign=1051&utm_source=git)** | Moose Jaw, Saskatchewan, Canada | On Site | Feb 17 |
+| ↳ | **[Relationship Manager Intern, Commercial Financial Services - Real Estate](https://jobright.ai/jobs/info/6995640f81476f6176ad545c?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Feb 17 |
+| **[G2](https://www.g2.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69955a2ce0bddb6acac3eabc?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Feb 17 |
 | **[the community](https://www.thecommunityagency.com/)** | **[The Community - Account Management, Summer Intern (NYC)](https://jobright.ai/jobs/info/69954caee0bddb6acac3da56?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 17 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/699521b3e0bddb6acac3a964?utm_campaign=1051&utm_source=git)** | La Jolla, CA | On Site | Feb 17 |
 | **[the community](https://www.thecommunityagency.com/)** | **[The Community - Account Management, Summer Intern (Miami)](https://jobright.ai/jobs/info/69953e5e81476f6176ad1ff5?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Feb 17 |
@@ -72,20 +77,19 @@ For a complete list, click the following sortable link below:
 | **[Pebble](www.pebbletheapp.com)** | **[Tech Sales Intern (Unpaid)](https://jobright.ai/jobs/info/698bada3c5761b521a9b4048?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Treasury Wine Estates](https://www.tweglobal.com/)** | **[Winery Hospitality Internship - Sterling](https://jobright.ai/jobs/info/69951226e0bddb6acac39ba1?utm_campaign=1051&utm_source=git)** | Calistoga, CA | On Site | Feb 17 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Client Success Summer Intern](https://jobright.ai/jobs/info/69950f8e81476f6176acee29?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | Hybrid | Feb 17 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69950f86e0bddb6acac398c3?utm_campaign=1051&utm_source=git)** | St Augustine, FL | On Site | Feb 17 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Sales Operations](https://jobright.ai/jobs/info/69953a48ce78e77b4fd9566a?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 17 |
 | **[BWE](https://www.bwe.com/)** | **[Summer 2026 Internship - Production - Detroit](https://jobright.ai/jobs/info/69953202e0bddb6acac3b9fc?utm_campaign=1051&utm_source=git)** | Birmingham, MI | On Site | Feb 17 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6995394481476f6176ad1a6c?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 17 |
 | ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69953bd481476f6176ad1d85?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Feb 17 |
-| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/699537b3ce78e77b4fd95327?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 17 |
 | ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69954ad5ce78e77b4fd9663f?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Feb 17 |
+| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/699537b3ce78e77b4fd95327?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 17 |
 | ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69952ff081476f6176ad0ebf?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Feb 17 |
 | ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69954489ce78e77b4fd96163?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Feb 17 |
-| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69953218e0bddb6acac3ba1f?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 17 |
 | ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69954753ce78e77b4fd964d0?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 17 |
 | ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69952e2981476f6176ad0cc4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 17 |
-| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69954571ce78e77b4fd96231?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 17 |
+| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69953218e0bddb6acac3ba1f?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 17 |
 | ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69954571ce78e77b4fd96232?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
+| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69954571ce78e77b4fd96231?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 17 |
 | ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/699530efe0bddb6acac3b8d4?utm_campaign=1051&utm_source=git)** | Teaneck, NJ | On Site | Feb 17 |
 | ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6995374dce78e77b4fd952b8?utm_campaign=1051&utm_source=git)** | Dublin, OH | On Site | Feb 17 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Ticket Sales &amp; Service - Summer](https://jobright.ai/jobs/info/69953fa981476f6176ad221c?utm_campaign=1051&utm_source=git)** | 577 West Nationwide Boulevard, Columbus, OH, USA | On Site | Feb 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA SALES INTERN SPRING '26 - KTVF](https://jobright.ai/jobs/info/6994d88281476f6176acaba9?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | On Site | Feb 17 |
 | **[Johnson Brothers](https://www.johnsonbrothers.com/)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/6994d7fbce78e77b4fd8e78e?utm_campaign=1051&utm_source=git)** | St. Paul, MN | On Site | Feb 17 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6994d7e3ce78e77b4fd8e77b?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 17 |
-| **[BMO](http://www.bmo.com)** | **[Personal Banking Associate, Summer 2026 (co-op/internship)-4 Months](https://jobright.ai/jobs/info/6994d796e0bddb6acac3549f?utm_campaign=1051&utm_source=git)** | Brampton, Ontario, Canada | On Site | Feb 17 |
-| **[Intuitive Life Financial](https://www.linkedin.com/company/105589754)** | **[College Intern](https://jobright.ai/jobs/info/6994d5e5e0bddb6acac35296?utm_campaign=1051&utm_source=git)** | Port St Lucie, FL | On Site | Feb 17 |
-| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Business Associate Intern](https://jobright.ai/jobs/info/6994fe3ae0bddb6acac3854d?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 17 |
-| **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Inside Sales Intern North America](https://jobright.ai/jobs/info/698a94f2c5761b521a99d987?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | Remote | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
