@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Presales Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/699788d3ce78e77b4fdbd86a?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Feb 19 |
+| **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Account Management](https://jobright.ai/jobs/info/699787c381476f6176af9eba?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 19 |
 | **[Fairstead](https://www.fairstead.com)** | **[Intern - Development](https://jobright.ai/jobs/info/699781dee0bddb6acac635e7?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Feb 19 |
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst SEED Intern](https://jobright.ai/jobs/info/69977b9de0bddb6acac631aa?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 19 |
 | **[Acosta](https://www.acosta.com)** | **[Intern](https://jobright.ai/jobs/info/69977776e0bddb6acac62f23?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 19 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69977114e0bddb6acac629aa?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Feb 19 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 Asset Servicing Sophomore Internship](https://jobright.ai/jobs/info/69976f33ce78e77b4fdbc63e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[Everon](https://www.everonsolutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69976ed4e0bddb6acac62782?utm_campaign=1051&utm_source=git)** | Peoria, AZ 85381, USA | Hybrid | Feb 19 |
+| **[Bio-Techne](https://www.bio-techne.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69978a4381476f6176af9fc9?utm_campaign=1051&utm_source=git)** | San Diego, CA | Remote | Feb 19 |
 | **[Capital Vacations](https://www.capitalvacations.com/)** | **[Sales Internship- Kissimmee](https://jobright.ai/jobs/info/69976d44e0bddb6acac62608?utm_campaign=1051&utm_source=git)** | Kissimmee, FL | On Site | Feb 19 |
 | **[Steel Technologies](http://www.steeltechnologies.com)** | **[Inside Sales & Materials Intern](https://jobright.ai/jobs/info/69976c1ce0bddb6acac624e5?utm_campaign=1051&utm_source=git)** | Louisville, Kentucky, United States | On Site | Feb 19 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Retail Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/69976907ce78e77b4fdbc149?utm_campaign=1051&utm_source=git)** | US-NY-Syracuse | Hybrid | Feb 19 |
@@ -83,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Industry Partner Sales Executive Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/6997560bce78e77b4fdbb4ae?utm_campaign=1051&utm_source=git)** | Livonia, MI | Hybrid | Feb 19 |
 | ↳ | **[Strategic Student Program: Customer Success Operations Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/69975523e0bddb6acac615ce?utm_campaign=1051&utm_source=git)** | Fremont, CA | Hybrid | Feb 19 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/699753c481476f6176af7aa2?utm_campaign=1051&utm_source=git)** | USA WA Tacoma - 6050 Tacoma Mall Blvd | On Site | Feb 19 |
-| **[ISACA](http://www.isaca.org)** | **[Intern, Process Improvement & Operations](https://jobright.ai/jobs/info/69977f6681476f6176af9a53?utm_campaign=1051&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 19 |
-| ↳ | **[Intern, Process Improvement & Operations](https://jobright.ai/jobs/info/69977878ce78e77b4fdbcf79?utm_campaign=1051&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 19 |
+| **[ISACA](http://www.isaca.org)** | **[Intern, Process Improvement & Operations](https://jobright.ai/jobs/info/69977878ce78e77b4fdbcf79?utm_campaign=1051&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 19 |
+| ↳ | **[Intern, Process Improvement & Operations](https://jobright.ai/jobs/info/69977f6681476f6176af9a53?utm_campaign=1051&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 19 |
 | **[Havis, Inc.](http://www.havis.com)** | **[Summer Intern - Enterprise Facilities](https://jobright.ai/jobs/info/6997530981476f6176af7a18?utm_campaign=1051&utm_source=git)** | Burnsville, MN, US | Hybrid | Feb 19 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: MOM Presales  Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/699752aace78e77b4fdbb2de?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Feb 19 |
 | **[Siemens](https://www.siemens.com)** | **[Integrated Security Systems Sales Internship](https://jobright.ai/jobs/info/69975204ce78e77b4fdbb268?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Feb 19 |
@@ -94,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Stewart Title](https://www.stewart.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69975164e0bddb6acac61369?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Feb 19 |
 | **[Victaulic](https://www.victaulic.com)** | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/697bbc4c1423772304ebe7d8?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 19 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/699750e4ce78e77b4fdbb192?utm_campaign=1051&utm_source=git)** | USA NY White Plains - 711 Westchester Ave | On Site | Feb 19 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6997744081476f6176af9249?utm_campaign=1051&utm_source=git)** | MI-Southfield, UNAVAILABLE, USA | On Site | Feb 19 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/699782d7ce78e77b4fdbd57f?utm_campaign=1051&utm_source=git)** | USA-MI-Southfield | On Site | Feb 19 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/699782d7ce78e77b4fdbd57f?utm_campaign=1051&utm_source=git)** | USA-MI-Southfield | On Site | Feb 19 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6997744081476f6176af9249?utm_campaign=1051&utm_source=git)** | MI-Southfield, UNAVAILABLE, USA | On Site | Feb 19 |
 | **[C1](http://www.spanlink.com)** | **[Customer Success Manager Intern](https://jobright.ai/jobs/info/69977d6e81476f6176af9948?utm_campaign=1051&utm_source=git)** | Virtual Office, UNAVAILABLE, US | Remote | Feb 19 |
 | **[Circu Li-ion](https://www.circuli-ion.com)** | **[Venture Development Intern](https://jobright.ai/jobs/info/69977d19e0bddb6acac63289?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 19 |
 | **[US LBM](http://uslbm.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69974cb581476f6176af75e2?utm_campaign=1051&utm_source=git)** | Gilbert, AZ | On Site | Feb 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Sales Development](https://jobright.ai/jobs/info/697a912ef6fc293b0a2c6fcb?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
 | **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Commercial Group Intern](https://jobright.ai/jobs/info/697ace35f6fc293b0a2cc69f?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 19 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Development /Marketing](https://jobright.ai/jobs/info/697a82999d60e431a16c04c5?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 19 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Sales & Production, International - LIC](https://jobright.ai/jobs/info/697a81e89d60e431a16c0365?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
-| **[Emome Technologies](https://emome-beta-101.vercel.app/dashboard)** | **[Sales Intern — US & UK (Remote)](https://jobright.ai/jobs/info/69972214ce78e77b4fdb7835?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | Feb 19 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Key Accounts, Women's Footwear - LIC](https://jobright.ai/jobs/info/697a87d18dbbf73badc7b342?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
