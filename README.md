@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Client Services - Oakland](https://jobright.ai/jobs/info/697a8dc2f6fc293b0a2c6943?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Feb 19 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Client Services - Chicago](https://jobright.ai/jobs/info/697a95af9d60e431a16c2980?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Feb 19 |
+| **[Hydro International](http://www.hydro-int.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69971766e0bddb6acac5d056?utm_campaign=1051&utm_source=git)** | Newington, CT | On Site | Feb 19 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/69849d7c8da7a612045edeb5?utm_campaign=1051&utm_source=git)** | Burlington, NJ | Hybrid | Feb 19 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Sales Research](https://jobright.ai/jobs/info/697a8d729d60e431a16c18b1?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
+| **[Hydro International](http://www.hydro-int.com/)** | **[Retail Summer Internship](https://jobright.ai/jobs/info/699711c9e0bddb6acac5cb34?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 19 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Client Services - NY](https://jobright.ai/jobs/info/697a845bf6fc293b0a2c593d?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
+| ↳ | **[Summer Intern, Client Services - Oakland](https://jobright.ai/jobs/info/697a8dc2f6fc293b0a2c6943?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Feb 19 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697a6e219d60e431a16bec9a?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 19 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/68b7a05c1ade4306aa64cb3d?utm_campaign=1051&utm_source=git)** | Edgewater, MD | On Site | Feb 19 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/695f48780badca5763afc5fb?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 19 |
@@ -74,6 +80,8 @@ For a complete list, click the following sortable link below:
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship: Strategic Transformation, Taste, Texture and Health (Princeton, NJ)](https://jobright.ai/jobs/info/697d8145abff4c399a9c3696?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Feb 19 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Key Accounts, Dolce Vita - LIC](https://jobright.ai/jobs/info/697a7f489d60e431a16c0011?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697ae39e1423772304eacb07?utm_campaign=1051&utm_source=git)** | Union City, CA | Hybrid | Feb 19 |
+| **[Veritas Communications](https://www.veritasinc.com)** | **[Vertias Intern](https://jobright.ai/jobs/info/697a7146f6fc293b0a2c4236?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 19 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Sales Development](https://jobright.ai/jobs/info/697a912ef6fc293b0a2c6fcb?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
 | **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Commercial Group Intern](https://jobright.ai/jobs/info/697ace35f6fc293b0a2cc69f?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 19 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Development /Marketing](https://jobright.ai/jobs/info/697a82999d60e431a16c04c5?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 19 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Sales & Production, International - LIC](https://jobright.ai/jobs/info/697a81e89d60e431a16c0365?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
@@ -81,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Leads.io](https://leads.io)** | **[Customer Success & Partnerships Intern](https://jobright.ai/jobs/info/69970e53e0bddb6acac5c693?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 19 |
 | **[The Duracell Company](http://www.duracell.com)** | **[Target Sales Intern](https://jobright.ai/jobs/info/697ac78a8dbbf73badc816eb?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 19 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697a76058dbbf73badc79a01?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Feb 19 |
+| **[Orvanta](orvanta.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/6997141fce78e77b4fdb68d1?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Feb 19 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Steve Madden Footwear Planner - LIC](https://jobright.ai/jobs/info/697a8e309d60e431a16c19ff?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[Acrisure](http://acrisure.com)** | **[Personal Lines Insurance Intern](https://jobright.ai/jobs/info/69419aa750bbaf76505369af?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Monetization Strategy and Operations Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/697999e8d7df290257fbf0f7?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 19 |
@@ -111,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Tax Print Sales Intern](https://jobright.ai/jobs/info/6996839a81476f6176ae5c8d?utm_campaign=1051&utm_source=git)** | Eagan, MN | Hybrid | Feb 18 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69969cd5e0bddb6acac5289e?utm_campaign=1051&utm_source=git)** | Draper, UT | On Site | Feb 18 |
 | **[RBC](https://www.rbc.com)** | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a22281476f6176ae8efb?utm_campaign=1051&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Feb 18 |
-| ↳ | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a4ede0bddb6acac53767?utm_campaign=1051&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Feb 18 |
 | ↳ | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a30d81476f6176ae8ff6?utm_campaign=1051&utm_source=git)** | Dieppe, New Brunswick, Canada | On Site | Feb 18 |
+| ↳ | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a4ede0bddb6acac53767?utm_campaign=1051&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Feb 18 |
 | ↳ | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a5abe0bddb6acac53a76?utm_campaign=1051&utm_source=git)** | Truro, Nova Scotia, Canada | On Site | Feb 18 |
 | **[Sonesta International Hotels](http://www.sonesta.com)** | **[Global Sales Intern](https://jobright.ai/jobs/info/698e6f2678b4502f12a53cb5?utm_campaign=1051&utm_source=git)** | Newton, MA | On Site | Feb 18 |
 | **[Persona Direct Marketing](https://www.linkedin.com/company/111792524)** | **[Summer Sales Internship - Executive Associate](https://jobright.ai/jobs/info/6996a24781476f6176ae8f2f?utm_campaign=1051&utm_source=git)** | New Mexico, United States | On Site | Feb 18 |
@@ -146,15 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Island](https://island.io/)** | **[Sales Intern](https://jobright.ai/jobs/info/69969eb081476f6176ae871b?utm_campaign=1051&utm_source=git)** | Coppell, TX | On Site | Feb 18 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Membership Experience Intern](https://jobright.ai/jobs/info/699699dace78e77b4fdabc59?utm_campaign=1051&utm_source=git)** | Rose 9, New York, NY, US | On Site | Feb 18 |
 | **[Command Post Technologies, Inc](http://commandposttech.com)** | **[Business Development & Communications Intern](https://jobright.ai/jobs/info/69969b91e0bddb6acac5247b?utm_campaign=1051&utm_source=git)** | Orlando,FL,US | On Site | Feb 18 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Revenue Enablement Program Manager Intern](https://jobright.ai/jobs/info/69967d4b81476f6176ae559f?utm_campaign=1051&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
-| ↳ | **[Summer 2026 - Revenue Enablement Program Manager Intern](https://jobright.ai/jobs/info/69967de5ce78e77b4fda8f7f?utm_campaign=1051&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[Material Sales Intern](https://jobright.ai/jobs/info/6996919bce78e77b4fdaadf4?utm_campaign=1051&utm_source=git)** | Santa Clara, California | On Site | Feb 18 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Revenue Enablement Program Manager Intern](https://jobright.ai/jobs/info/69967b7ece78e77b4fda8c36?utm_campaign=1051&utm_source=git)** | North Carolina | Hybrid | Feb 18 |
-| **[Streamlight, Inc.](http://streamlight.com)** | **[Purchasing-Buyer Intern - Summer 2026](https://jobright.ai/jobs/info/699670f781476f6176ae4364?utm_campaign=1051&utm_source=git)** | Eagleville, PA | On Site | Feb 18 |
-| **[Celanese](http://www.celanese.com)** | **[Sales Intern](https://jobright.ai/jobs/info/699692c3ce78e77b4fdaafaa?utm_campaign=1051&utm_source=git)** | Irving, TX, US | On Site | Feb 18 |
-| **[Yazaki North America](https://www.yii.tech/)** | **[Intern, Sales Support & Admin](https://jobright.ai/jobs/info/69967bacce78e77b4fda8c64?utm_campaign=1051&utm_source=git)** | Canton, MI | On Site | Feb 18 |
-| **[Heilind Electronics](http://www.heilind.com)** | **[Sales Intern – Business Development](https://jobright.ai/jobs/info/69966f0bce78e77b4fda7af6?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Feb 18 |
-| ↳ | **[Sales Intern – Business Development](https://jobright.ai/jobs/info/69966d3d81476f6176ae3ed7?utm_campaign=1051&utm_source=git)** | Itasca, IL | Hybrid | Feb 18 |
-| **[Under Armour](http://underarmour.com)** | **[Summer Internship 2026, Store Design & Development](https://jobright.ai/jobs/info/6996703fce78e77b4fda7c48?utm_campaign=1051&utm_source=git)** | Baltimore, MD | Hybrid | Feb 18 |
-| **[The Plug Drink](https://theplugdrink.com/)** | **[Sales Development Intern (Greater Los Angeles Area)](https://jobright.ai/jobs/info/6996739981476f6176ae4744?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 18 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Revenue Enablement Program Manager Intern](https://jobright.ai/jobs/info/69967de5ce78e77b4fda8f7f?utm_campaign=1051&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
+| ↳ | **[Summer 2026 - Revenue Enablement Program Manager Intern](https://jobright.ai/jobs/info/69967d4b81476f6176ae559f?utm_campaign=1051&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
