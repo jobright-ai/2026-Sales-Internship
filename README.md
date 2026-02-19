@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Client Services - Oakland](https://jobright.ai/jobs/info/697a8dc2f6fc293b0a2c6943?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Feb 19 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697a6e219d60e431a16bec9a?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 19 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/68b7a05c1ade4306aa64cb3d?utm_campaign=1051&utm_source=git)** | Edgewater, MD | On Site | Feb 19 |
+| **[SOLV Energy](https://www.solvenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/695f48780badca5763afc5fb?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 19 |
+| **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Norcross, GA](https://jobright.ai/jobs/info/697b32801136d179eeeeaf73?utm_campaign=1051&utm_source=git)** | Norcross, GA | On Site | Feb 19 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Machinery Trader Sales Intern](https://jobright.ai/jobs/info/6677104cf278834492d876fb?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Feb 19 |
+| **[Rehmann](http://www.rehmann.com)** | **[Wealth Management Intern (Summer 2026)](https://jobright.ai/jobs/info/697a91a6f6fc293b0a2c70c8?utm_campaign=1051&utm_source=git)** | Stuart, FL | On Site | Feb 19 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697a62d5f6fc293b0a2c325e?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Feb 19 |
 | **[OneStream Software](https://www.onestream.com)** | **[Intern](https://jobright.ai/jobs/info/697a34d1a5b9804527dffa4a?utm_campaign=1051&utm_source=git)** | Atlanta Metro | Hybrid | Feb 19 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Sales, Apparel/Almost Famous - NYC](https://jobright.ai/jobs/info/697a82678dbbf73badc7a8b1?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[Rehmann](http://www.rehmann.com)** | **[Wealth Management Intern (Summer 2026)](https://jobright.ai/jobs/info/695e8faa0badca5763aefc18?utm_campaign=1051&utm_source=git)** | Grand Rapids Metro | On Site | Feb 19 |
@@ -70,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Development /Marketing](https://jobright.ai/jobs/info/697a82999d60e431a16c04c5?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 19 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Sales & Production, International - LIC](https://jobright.ai/jobs/info/697a81e89d60e431a16c0365?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | ↳ | **[Intern - Key Accounts, Women's Footwear - LIC](https://jobright.ai/jobs/info/697a87d18dbbf73badc7b342?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
+| **[Leads.io](https://leads.io)** | **[Customer Success & Partnerships Intern](https://jobright.ai/jobs/info/69970e53e0bddb6acac5c693?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 19 |
 | **[The Duracell Company](http://www.duracell.com)** | **[Target Sales Intern](https://jobright.ai/jobs/info/697ac78a8dbbf73badc816eb?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 19 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697a76058dbbf73badc79a01?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Feb 19 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Steve Madden Footwear Planner - LIC](https://jobright.ai/jobs/info/697a8e309d60e431a16c19ff?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
@@ -102,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Tax Print Sales Intern](https://jobright.ai/jobs/info/6996839a81476f6176ae5c8d?utm_campaign=1051&utm_source=git)** | Eagan, MN | Hybrid | Feb 18 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69969cd5e0bddb6acac5289e?utm_campaign=1051&utm_source=git)** | Draper, UT | On Site | Feb 18 |
 | **[RBC](https://www.rbc.com)** | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a22281476f6176ae8efb?utm_campaign=1051&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Feb 18 |
-| ↳ | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a30d81476f6176ae8ff6?utm_campaign=1051&utm_source=git)** | Dieppe, New Brunswick, Canada | On Site | Feb 18 |
 | ↳ | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a4ede0bddb6acac53767?utm_campaign=1051&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Feb 18 |
+| ↳ | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a30d81476f6176ae8ff6?utm_campaign=1051&utm_source=git)** | Dieppe, New Brunswick, Canada | On Site | Feb 18 |
 | ↳ | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a5abe0bddb6acac53a76?utm_campaign=1051&utm_source=git)** | Truro, Nova Scotia, Canada | On Site | Feb 18 |
 | **[Sonesta International Hotels](http://www.sonesta.com)** | **[Global Sales Intern](https://jobright.ai/jobs/info/698e6f2678b4502f12a53cb5?utm_campaign=1051&utm_source=git)** | Newton, MA | On Site | Feb 18 |
 | **[Persona Direct Marketing](https://www.linkedin.com/company/111792524)** | **[Summer Sales Internship - Executive Associate](https://jobright.ai/jobs/info/6996a24781476f6176ae8f2f?utm_campaign=1051&utm_source=git)** | New Mexico, United States | On Site | Feb 18 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern – Business Development](https://jobright.ai/jobs/info/69966d3d81476f6176ae3ed7?utm_campaign=1051&utm_source=git)** | Itasca, IL | Hybrid | Feb 18 |
 | **[Under Armour](http://underarmour.com)** | **[Summer Internship 2026, Store Design & Development](https://jobright.ai/jobs/info/6996703fce78e77b4fda7c48?utm_campaign=1051&utm_source=git)** | Baltimore, MD | Hybrid | Feb 18 |
 | **[The Plug Drink](https://theplugdrink.com/)** | **[Sales Development Intern (Greater Los Angeles Area)](https://jobright.ai/jobs/info/6996739981476f6176ae4744?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 18 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Customer Success - GenAI NLP](https://jobright.ai/jobs/info/699673a481476f6176ae4753?utm_campaign=1051&utm_source=git)** | Johnston, RI | On Site | Feb 18 |
-| **[US LBM](http://uslbm.com)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/69967bc3ce78e77b4fda8c8f?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 18 |
-| **[Trinnex](https://www.trinnex.io)** | **[Inside Sales Intern (Summer 2026!)](https://jobright.ai/jobs/info/699644f381476f6176ae0487?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 18 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6993c07281476f6176ab5f5a?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Feb 18 |
-| **[Command Post Technologies, Inc](http://commandposttech.com)** | **[Business Development & Communications Intern](https://jobright.ai/jobs/info/6996a498e0bddb6acac53706?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 18 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Corporate Development Intern - Graduate](https://jobright.ai/jobs/info/69966a5181476f6176ae3af6?utm_campaign=1051&utm_source=git)** | Greater Seattle Area | On Site | Feb 18 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern RI](https://jobright.ai/jobs/info/6996723c81476f6176ae4529?utm_campaign=1051&utm_source=git)** | Providence, RI, United States | On Site | Feb 18 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Account Management Intern - Wall St, NY](https://jobright.ai/jobs/info/69963bb1ce78e77b4fda324f?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 18 |
-| **[Utah Mammoth](www.utahhockeyclub.com)** | **[Sales & Events Intern](https://jobright.ai/jobs/info/697d30f9727747250d57fec1?utm_campaign=1051&utm_source=git)** | Sandy, UT | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
