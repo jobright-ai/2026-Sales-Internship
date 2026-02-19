@@ -57,10 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intercom](https://www.intercom.com/)** | **[Sales Development Coordinator (6 month internship)](https://jobright.ai/jobs/info/698a3cd24db8972cecff7bfc?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | Hybrid | Feb 19 |
+| **[Havis, Inc.](http://www.havis.com)** | **[Summer Intern - Enterprise Facilities](https://jobright.ai/jobs/info/6997464ce0bddb6acac6020f?utm_campaign=1051&utm_source=git)** | Burnsville, MN, US | Hybrid | Feb 19 |
+| **[Blue Bridges Insurance](www.bluebridgesinsurance.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6997424881476f6176af5778?utm_campaign=1051&utm_source=git)** | Louisville, KY | Hybrid | Feb 19 |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Commercial Year-Round Intern (May 2026 Start)](https://jobright.ai/jobs/info/6997301a81476f6176af4a14?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Feb 19 |
+| **[Veltrana Group](veltranagroup.us)** | **[New Business Associate Intern](https://jobright.ai/jobs/info/69972fdb81476f6176af49e0?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Remote | Feb 19 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69972e28e0bddb6acac5e456?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Feb 19 |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Associate](https://jobright.ai/jobs/info/69972dddce78e77b4fdb81bc?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Feb 19 |
+| **[Sonwil](https://www.sonwillogistics.com)** | **[Logistics Sales Intern](https://jobright.ai/jobs/info/69972d88e0bddb6acac5e41a?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Feb 19 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern - Sales Operations Analyst](https://jobright.ai/jobs/info/69846da4348f733a5c386c6f?utm_campaign=1051&utm_source=git)** | Frisco, TX | Hybrid | Feb 19 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Client Strategy Intern](https://jobright.ai/jobs/info/69972b23e0bddb6acac5e1ac?utm_campaign=1051&utm_source=git)** | Toronto | Hybrid | Feb 19 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69972aeee0bddb6acac5e180?utm_campaign=1051&utm_source=git)** | Blue Ash, OH (USA) | Hybrid | Feb 19 |
 | **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/699729ece0bddb6acac5e049?utm_campaign=1051&utm_source=git)** | Charlotte, AR | Hybrid | Feb 19 |
+| **[US Tiger Securities, Inc.](https://www.itigerup.com/?lang=en_US)** | **[Business Development Intern](https://jobright.ai/jobs/info/6997400bce78e77b4fdb8ee3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
+| **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69973c4481476f6176af53b4?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Feb 19 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69971e9081476f6176af377c?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Feb 19 |
 | **[ARPflow.ai](https://www.nakad.co/)** | **[Intern](https://jobright.ai/jobs/info/69971e6581476f6176af3755?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Feb 19 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Client Services - LA](https://jobright.ai/jobs/info/697a762ef6fc293b0a2c4714?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 19 |
@@ -70,8 +80,11 @@ For a complete list, click the following sortable link below:
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Sales Research](https://jobright.ai/jobs/info/697a8d729d60e431a16c18b1?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
 | **[Hydro International](http://www.hydro-int.com/)** | **[Retail Summer Internship](https://jobright.ai/jobs/info/699711c9e0bddb6acac5cb34?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 19 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Client Services - NY](https://jobright.ai/jobs/info/697a845bf6fc293b0a2c593d?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
-| ↳ | **[Summer Intern, Client Services - Oakland](https://jobright.ai/jobs/info/697a8dc2f6fc293b0a2c6943?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Feb 19 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/697a7b1e8dbbf73badc7a04a?utm_campaign=1051&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Feb 19 |
+| **[Velastra](velastra.us)** | **[Commercial Year-Round Intern (May 2026 Start)](https://jobright.ai/jobs/info/6997352c81476f6176af4f1b?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Feb 19 |
+| **[Hydro International](http://www.hydro-int.com/)** | **[PM/Estimating Intern](https://jobright.ai/jobs/info/69972dd9e0bddb6acac5e439?utm_campaign=1051&utm_source=git)** | New Britain, CT | On Site | Feb 19 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Client Services - Oakland](https://jobright.ai/jobs/info/697a8dc2f6fc293b0a2c6943?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Feb 19 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/697a7ebf9d60e431a16bffb1?utm_campaign=1051&utm_source=git)** | Milton, Ontario, Canada | On Site | Feb 19 |
+| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/697a7b1e8dbbf73badc7a04a?utm_campaign=1051&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Feb 19 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Commercial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69972cac81476f6176af471f?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697a6e219d60e431a16bec9a?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 19 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/68b7a05c1ade4306aa64cb3d?utm_campaign=1051&utm_source=git)** | Edgewater, MD | On Site | Feb 19 |
@@ -122,8 +135,7 @@ For a complete list, click the following sortable link below:
 | **[US LBM](http://uslbm.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6996ba7b81476f6176aeb96e?utm_campaign=1051&utm_source=git)** | South Dennis, MA | On Site | Feb 18 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6996b5fcce78e77b4fdaed01?utm_campaign=1051&utm_source=git)** | East Haven, CT | On Site | Feb 18 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6996b2cc81476f6176aeabc6?utm_campaign=1051&utm_source=git)** | Bethlehem, PA | On Site | Feb 18 |
-| **[NexaCore Consulting](nexacoreconsulting.us)** | **[CRM Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6996b2ad81476f6176aeab9a?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 18 |
-| **[US LBM](http://uslbm.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6996b29ace78e77b4fdae719?utm_campaign=1051&utm_source=git)** | Bristow, VA | On Site | Feb 18 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6996b29ace78e77b4fdae719?utm_campaign=1051&utm_source=git)** | Bristow, VA | On Site | Feb 18 |
 | ↳ | **[Business Development Analyst Intern](https://jobright.ai/jobs/info/6996b10de0bddb6acac54bb1?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Material Sales Intern](https://jobright.ai/jobs/info/699698a9e0bddb6acac51e70?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Feb 18 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Sales Summer Intern](https://jobright.ai/jobs/info/6996b3dfe0bddb6acac551e1?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 18 |
@@ -132,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Tax Print Sales Intern](https://jobright.ai/jobs/info/6996839a81476f6176ae5c8d?utm_campaign=1051&utm_source=git)** | Eagan, MN | Hybrid | Feb 18 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69969cd5e0bddb6acac5289e?utm_campaign=1051&utm_source=git)** | Draper, UT | On Site | Feb 18 |
 | **[RBC](https://www.rbc.com)** | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a22281476f6176ae8efb?utm_campaign=1051&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Feb 18 |
-| ↳ | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a4ede0bddb6acac53767?utm_campaign=1051&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Feb 18 |
 | ↳ | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a30d81476f6176ae8ff6?utm_campaign=1051&utm_source=git)** | Dieppe, New Brunswick, Canada | On Site | Feb 18 |
+| ↳ | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a4ede0bddb6acac53767?utm_campaign=1051&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Feb 18 |
 | ↳ | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a5abe0bddb6acac53a76?utm_campaign=1051&utm_source=git)** | Truro, Nova Scotia, Canada | On Site | Feb 18 |
 | **[Sonesta International Hotels](http://www.sonesta.com)** | **[Global Sales Intern](https://jobright.ai/jobs/info/698e6f2678b4502f12a53cb5?utm_campaign=1051&utm_source=git)** | Newton, MA | On Site | Feb 18 |
 | **[Persona Direct Marketing](https://www.linkedin.com/company/111792524)** | **[Summer Sales Internship - Executive Associate](https://jobright.ai/jobs/info/6996a24781476f6176ae8f2f?utm_campaign=1051&utm_source=git)** | New Mexico, United States | On Site | Feb 18 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69969117e0bddb6acac5131a?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Feb 18 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern RI](https://jobright.ai/jobs/info/699668e981476f6176ae3934?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Feb 18 |
 | **[Dynatrace](https://www.dynatrace.com)** | **[D1 Customer Success Engineering Intern](https://jobright.ai/jobs/info/6996867781476f6176ae611e?utm_campaign=1051&utm_source=git)** | Detroit, MI | Hybrid | Feb 18 |
-| **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/6996a992ce78e77b4fdad8a8?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 18 |
-| **[LAttitude Inc](https://www.linkedin.com/company/109848071)** | **[Sales Intern](https://jobright.ai/jobs/info/69969e26ce78e77b4fdac2d5?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
-| **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Membership Experience Intern](https://jobright.ai/jobs/info/69968f74ce78e77b4fdaa9b4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 18 |
-| **[Rakuten Advertising](https://rakutenadvertising.com/)** | **[Intern - Business Development](https://jobright.ai/jobs/info/69969349e0bddb6acac51616?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 18 |
-| **[ProAmpac](http://www.proampac.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69968c5681476f6176ae6abf?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Feb 18 |
-| **[Heilind Electronics](http://www.heilind.com)** | **[Sales Intern - Business Development](https://jobright.ai/jobs/info/699663c781476f6176ae345f?utm_campaign=1051&utm_source=git)** | Wilmington, MA | Hybrid | Feb 18 |
-| **[Celanese](http://www.celanese.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69968798e0bddb6acac504f5?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Feb 18 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/69873afe0f6f7e7a2ce28517?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 18 |
-| **[Red Bull](https://redbull.com)** | **[Intern, Sales Account Management](https://jobright.ai/jobs/info/69968b1b81476f6176ae6847?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 18 |
-| **[SACC Chicago (Swedish American Chamber of Commerce Chicago)](http://www.sacc-chicago.org/)** | **[Business Development Intern, SACC Texas, Fall 2026](https://jobright.ai/jobs/info/69968d2dce78e77b4fdaa55a?utm_campaign=1051&utm_source=git)** | Austin, CO | On Site | Feb 18 |
-| **[US LBM](http://uslbm.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69965ea1e0bddb6acac4d08c?utm_campaign=1051&utm_source=git)** | Ocala, FL | On Site | Feb 18 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Financial Coaching and Economic Mobility Intern (Summer 2026- UNPAID)](https://jobright.ai/jobs/info/699693d9ce78e77b4fdab138?utm_campaign=1051&utm_source=git)** | Charlottesville, VA | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
