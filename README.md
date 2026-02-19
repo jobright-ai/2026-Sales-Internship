@@ -79,6 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Student - Client Advisor Intern](https://jobright.ai/jobs/info/6996a5abe0bddb6acac53a76?utm_campaign=1051&utm_source=git)** | Truro, Nova Scotia, Canada | On Site | Feb 18 |
 | **[Sonesta International Hotels](http://www.sonesta.com)** | **[Global Sales Intern](https://jobright.ai/jobs/info/698e6f2678b4502f12a53cb5?utm_campaign=1051&utm_source=git)** | Newton, MA | On Site | Feb 18 |
 | **[Persona Direct Marketing](https://www.linkedin.com/company/111792524)** | **[Summer Sales Internship - Executive Associate](https://jobright.ai/jobs/info/6996a24781476f6176ae8f2f?utm_campaign=1051&utm_source=git)** | New Mexico, United States | On Site | Feb 18 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Sales Summer Intern](https://jobright.ai/jobs/info/6996c4e5e0bddb6acac56844?utm_campaign=1051&utm_source=git)** | Jacksonville, Florida, United States of America | Hybrid | Feb 18 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6993e220ce78e77b4fd7b69f?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL | On Site | Feb 18 |
 | **[Persona Direct Marketing](https://www.linkedin.com/company/111792524)** | **[Summer Sales Internship - Executive Associate](https://jobright.ai/jobs/info/69968e5ace78e77b4fdaa7db?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Feb 18 |
 | **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6996957d81476f6176ae7a0d?utm_campaign=1051&utm_source=git)** | Brownsville, TX | On Site | Feb 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Account Management Intern - Chicago, IL](https://jobright.ai/jobs/info/699643d681476f6176ae02b8?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 18 |
 | **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/699665c281476f6176ae36a1?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Feb 18 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69967b0881476f6176ae5279?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 18 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69966a5e81476f6176ae3b05?utm_campaign=1051&utm_source=git)** | North Charleston, SC | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
