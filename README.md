@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6996bda481476f6176aebeff?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Feb 18 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC CM Investment Sales Intern](https://jobright.ai/jobs/info/6996bc86e0bddb6acac55e55?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 18 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6996bb8cce78e77b4fdaf5b4?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Feb 18 |
+| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Sales Operations](https://jobright.ai/jobs/info/6996d95a81476f6176aed30c?utm_campaign=1051&utm_source=git)** | Wilmington, MA | Remote | Feb 18 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6996bb2481476f6176aeba18?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Feb 18 |
 | **[US LBM](http://uslbm.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6996ba7b81476f6176aeb96e?utm_campaign=1051&utm_source=git)** | South Dennis, MA | On Site | Feb 18 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6996b5fcce78e77b4fdaed01?utm_campaign=1051&utm_source=git)** | East Haven, CT | On Site | Feb 18 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699676a1e0bddb6acac4efe0?utm_campaign=1051&utm_source=git)** | Aberdeen, SD | On Site | Feb 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69967398e0bddb6acac4ebea?utm_campaign=1051&utm_source=git)** | Bismarck, ND | On Site | Feb 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69966c8781476f6176ae3e15?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Feb 18 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699670e6ce78e77b4fda7d21?utm_campaign=1051&utm_source=git)** | Vienna, WV | On Site | Feb 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699676f4ce78e77b4fda853d?utm_campaign=1051&utm_source=git)** | Grapevine, TX | On Site | Feb 18 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/699670e6ce78e77b4fda7d21?utm_campaign=1051&utm_source=git)** | Vienna, WV | On Site | Feb 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69966615e0bddb6acac4db15?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Feb 18 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69966cb3ce78e77b4fda77bb?utm_campaign=1051&utm_source=git)** | Draper, UT | On Site | Feb 18 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Client Relationships Intern](https://jobright.ai/jobs/info/699693b8ce78e77b4fdab103?utm_campaign=1051&utm_source=git)** | Toronto | Hybrid | Feb 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Sales Intern - Internship Summer 2026 (Paid)](https://jobright.ai/jobs/info/699650f581476f6176ae177c?utm_campaign=1051&utm_source=git)** | Florham Park, NJ | On Site | Feb 18 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Account Management Intern - Chicago, IL](https://jobright.ai/jobs/info/699643d681476f6176ae02b8?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 18 |
 | **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/699665c281476f6176ae36a1?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Feb 18 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69967b0881476f6176ae5279?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
