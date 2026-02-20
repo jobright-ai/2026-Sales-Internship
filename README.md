@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bluecrest Partners](bluecrestpartners.us)** | **[Insurance Sales Intern](https://jobright.ai/jobs/info/699822b5e0bddb6acac726c2?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Feb 20 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Media and Entertainment Industry Business Development, MBA Intern - Summer 2026, Media and Entertainment Industry Business Development, MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6998228d81476f6176b08c95?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Feb 20 |
+| **[Brixenta](brixenta.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/69981a19ce78e77b4fdcc0b3?utm_campaign=1051&utm_source=git)** | Bellvue, CO | Remote | Feb 20 |
 | **[Ember Shore Solutions](https://www.linkedin.com/company/69294145)** | **[Business Associate Intern](https://jobright.ai/jobs/info/6998090ece78e77b4fdcafc5?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 19 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Sales Intern](https://jobright.ai/jobs/info/699808e681476f6176b076c8?utm_campaign=1051&utm_source=git)** | Norcross, GA | On Site | Feb 19 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Associate](https://jobright.ai/jobs/info/6997fd96e0bddb6acac70297?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 19 |
@@ -73,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/6997eabece78e77b4fdc6ee8?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Feb 19 |
 | **[Amazon](https://amazon.com)** | **[Buying Intern, Shopbop](https://jobright.ai/jobs/info/6997faa881476f6176b060bb?utm_campaign=1051&utm_source=git)** | New York, New York, USA | On Site | Feb 19 |
 | ↳ | **[Undergrad Technical Business Development Intern](https://jobright.ai/jobs/info/6997f39f81476f6176b04737?utm_campaign=1051&utm_source=git)** | San Francisco, California, USA | On Site | Feb 19 |
+| **[Medtronic](https://www.medtronic.com)** | **[Sales Analyst Intern (Boston, MA)](https://jobright.ai/jobs/info/69980c5de0bddb6acac71386?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 19 |
 | **[Rakuten Advertising](https://rakutenadvertising.com/)** | **[Intern - Publisher Partnerships](https://jobright.ai/jobs/info/6997dec081476f6176b01a04?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 | ↳ | **[Intern - Publisher Partnerships](https://jobright.ai/jobs/info/6997dcb3ce78e77b4fdc512b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and leadership Intern](https://jobright.ai/jobs/info/6997b71c81476f6176afd856?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Feb 19 |
@@ -86,12 +90,12 @@ For a complete list, click the following sortable link below:
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Micro-Internship, University of Tennessee Student Athlete](https://jobright.ai/jobs/info/6997e89ace78e77b4fdc682c?utm_campaign=1051&utm_source=git)** | Knoxville, Tennessee, United States | On Site | Feb 19 |
 | **[PURPLE](https://purplepr.com)** | **[Showroom Intern - Summer](https://jobright.ai/jobs/info/6997e2d8ce78e77b4fdc5ab8?utm_campaign=1051&utm_source=git)** | PURPLE New York | On Site | Feb 19 |
 | ↳ | **[Business Development Intern - Summer](https://jobright.ai/jobs/info/6997e0b8e0bddb6acac6b6fd?utm_campaign=1051&utm_source=git)** | PURPLE New York | On Site | Feb 19 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Summer Internship - Account Management](https://jobright.ai/jobs/info/6997d9eae0bddb6acac6a885?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | Hybrid | Feb 19 |
-| ↳ | **[Summer Internship - Account Management](https://jobright.ai/jobs/info/6997e90d81476f6176b03182?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | Hybrid | Feb 19 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Summer Internship - Account Management](https://jobright.ai/jobs/info/6997e90d81476f6176b03182?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | Hybrid | Feb 19 |
+| ↳ | **[Summer Internship - Account Management](https://jobright.ai/jobs/info/6997d9eae0bddb6acac6a885?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | Hybrid | Feb 19 |
 | ↳ | **[Summer Internship - Account Management, New Business](https://jobright.ai/jobs/info/6997c72de0bddb6acac68af9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | Hybrid | Feb 19 |
 | ↳ | **[Summer Internship - Account Management, New Business](https://jobright.ai/jobs/info/6997e04081476f6176b01b93?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | Hybrid | Feb 19 |
-| **[Grimmway Produce Group](http://www.grimmway.com)** | **[Purchasing Intern 2026](https://jobright.ai/jobs/info/6997eeb881476f6176b03fe3?utm_campaign=1051&utm_source=git)** | 93203 | On Site | Feb 19 |
-| ↳ | **[Purchasing Intern 2026](https://jobright.ai/jobs/info/6997c664e0bddb6acac689a8?utm_campaign=1051&utm_source=git)** | US-CA-Arvin | On Site | Feb 19 |
+| **[Grimmway Produce Group](http://www.grimmway.com)** | **[Purchasing Intern 2026](https://jobright.ai/jobs/info/6997c664e0bddb6acac689a8?utm_campaign=1051&utm_source=git)** | US-CA-Arvin | On Site | Feb 19 |
+| ↳ | **[Purchasing Intern 2026](https://jobright.ai/jobs/info/6997eeb881476f6176b03fe3?utm_campaign=1051&utm_source=git)** | 93203 | On Site | Feb 19 |
 | ↳ | **[Sales Internship 2026](https://jobright.ai/jobs/info/6997ea9381476f6176b03499?utm_campaign=1051&utm_source=git)** | 11001 River Run Blvd | On Site | Feb 19 |
 | ↳ | **[Sales Internship 2026](https://jobright.ai/jobs/info/6997ce12ce78e77b4fdc3749?utm_campaign=1051&utm_source=git)** | 93311 | On Site | Feb 19 |
 | ↳ | **[Sales Internship 2026](https://jobright.ai/jobs/info/6997d81c81476f6176b00ea4?utm_campaign=1051&utm_source=git)** | US-CA-Bakersfield | On Site | Feb 19 |
@@ -120,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Grimmway Produce Group](http://www.grimmway.com)** | **[Sales Internship 2026](https://jobright.ai/jobs/info/6997c3e181476f6176afef51?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | On Site | Feb 19 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Putnam Transfer Agency - Investor Services Internship](https://jobright.ai/jobs/info/6997b88de0bddb6acac674ae?utm_campaign=1051&utm_source=git)** | Massachusetts, United States of America | Remote | Feb 19 |
 | ↳ | **[Putnam Transfer Agency - Investor Services Internship](https://jobright.ai/jobs/info/6997b83481476f6176afd9de?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | Remote | Feb 19 |
-| **[Rakuten](http://global.rakuten.com)** | **[Intern - Publisher Partnerships](https://jobright.ai/jobs/info/6997b6b881476f6176afd807?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
-| ↳ | **[Intern - Publisher Partnerships](https://jobright.ai/jobs/info/6997bd51ce78e77b4fdc1d19?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | On Site | Feb 19 |
+| **[Rakuten](http://global.rakuten.com)** | **[Intern - Publisher Partnerships](https://jobright.ai/jobs/info/6997bd51ce78e77b4fdc1d19?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | On Site | Feb 19 |
+| ↳ | **[Intern - Publisher Partnerships](https://jobright.ai/jobs/info/6997b6b881476f6176afd807?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Presales Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/699788d3ce78e77b4fdbd86a?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Feb 19 |
 | **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Account Management](https://jobright.ai/jobs/info/699787c381476f6176af9eba?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 19 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Partnerships Agreements, Licensing, and Intellectual Property (IP), Hybrid](https://jobright.ai/jobs/info/69928f13e0bddb6acac0b151?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Paragon Insurance](http://www.paragoninsgroup.com/)** | **[Summer Intern – Auto Dealers/Rental, Underwriting](https://jobright.ai/jobs/info/69977617e0bddb6acac62dcf?utm_campaign=1051&utm_source=git)** | Avon, CT | On Site | Feb 19 |
 | **[Steel Technologies](http://www.steeltechnologies.com)** | **[Inside Sales & Materials Intern](https://jobright.ai/jobs/info/6997743381476f6176af923d?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Feb 19 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Sales, Canada (Toronto)](https://jobright.ai/jobs/info/69791c8f52f3c27ec64561d5?utm_campaign=1051&utm_source=git)** | Canada - Remote | Remote | Feb 19 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Katz Live Summer Intern](https://jobright.ai/jobs/info/69979ea981476f6176afba17?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 19 |
-| **[moomoo](https://www.moomoo.com)** | **[Unpaid - Summer 2026 - Prime Brokerage Intern](https://jobright.ai/jobs/info/699771bbce78e77b4fdbc8ea?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Feb 19 |
-| **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69977114e0bddb6acac629aa?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Feb 19 |
-| **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Account Management, New Business](https://jobright.ai/jobs/info/69979e8381476f6176afb9bd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
