@@ -57,19 +57,28 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Truist](https://www.truist.com)** | **[2027 Institutional Capital Group - Summer Analyst Program (Internship) - Atlanta, GA](https://jobright.ai/jobs/info/69991b52e0bddb6acac818e7?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Business Development- REMOTE Intern](https://jobright.ai/jobs/info/69991968e0bddb6acac8158d?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Feb 20 |
+| **[CORE Foodservice](https://coregroupsales.com)** | **[University of Missouri CORE Foodservice Internship Program – Summer 2026](https://jobright.ai/jobs/info/69991818e0bddb6acac8131e?utm_campaign=1051&utm_source=git)** | Oak Brook, IL | On Site | Feb 20 |
+| **[Stone Group of Companies](https://stonegco.com)** | **[Business Intern](https://jobright.ai/jobs/info/6999180de0bddb6acac8130c?utm_campaign=1051&utm_source=git)** | Spokane, WA, US | On Site | Feb 20 |
 | **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/6999110ace78e77b4fddad29?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 20 |
 | **[The Culinary Edge](http://theculinaryedge.com/)** | **[University of Missouri CORE Foodservice Internship Program – Summer 2026](https://jobright.ai/jobs/info/699910efe0bddb6acac8076b?utm_campaign=1051&utm_source=git)** | Maryland Heights, Missouri, United States | On Site | Feb 20 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6999071d81476f6176b17bf5?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Feb 20 |
+| **[The Culinary Edge](http://theculinaryedge.com/)** | **[University of Missouri CORE Foodservice Internship Program – Summer 2026](https://jobright.ai/jobs/info/69991a30ce78e77b4fddbe63?utm_campaign=1051&utm_source=git)** | Oak Brook, Illinois, United States | On Site | Feb 20 |
+| **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Sales](https://jobright.ai/jobs/info/69991921ce78e77b4fddbc5f?utm_campaign=1051&utm_source=git)** | Delano, CA | On Site | Feb 20 |
 | **[Casey's](https://www.caseys.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/6998f381e0bddb6acac7e116?utm_campaign=1051&utm_source=git)** | Ottawa, KS | On Site | Feb 20 |
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst SEED Intern](https://jobright.ai/jobs/info/699915e581476f6176b18e48?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 20 |
 | **[Discovery Land Company](http://discoverylandco.com)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/6998efc8e0bddb6acac7dcb6?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Feb 20 |
 | **[Kubby](https://www.kubby.io )** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6999154ece78e77b4fddb50e?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699913e181476f6176b18a76?utm_campaign=1051&utm_source=git)** | Utah, United States | Remote | Feb 20 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699918a9ce78e77b4fddbb70?utm_campaign=1051&utm_source=git)** | South Dakota, United States | Remote | Feb 20 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6999165181476f6176b18f13?utm_campaign=1051&utm_source=git)** | Oklahoma, United States | Remote | Feb 20 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69991ac581476f6176b196c4?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Feb 20 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69991183e0bddb6acac80873?utm_campaign=1051&utm_source=git)** | New Mexico, United States | Remote | Feb 20 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/6998ed9281476f6176b15518?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Feb 20 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern – ACS Sales Business Development](https://jobright.ai/jobs/info/6998ed90ce78e77b4fdd7e39?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Feb 20 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Finance Sales Operations AI and Data Science Intern](https://jobright.ai/jobs/info/69991254e0bddb6acac809f7?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA | Hybrid | Feb 20 |
+| **[wherewework Bulgaria](http://www.wherewework.bg)** | **[Internship - Account Executive](https://jobright.ai/jobs/info/699919b581476f6176b19505?utm_campaign=1051&utm_source=git)** | San Angelo Area | Hybrid | Feb 20 |
 | **[Intapp](http://www.intapp.com)** | **[Partner Ecosystem Operations Intern](https://jobright.ai/jobs/info/6998eb4dce78e77b4fdd7a89?utm_campaign=1051&utm_source=git)** | US NY New York | Hybrid | Feb 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Partnership Activation Intern](https://jobright.ai/jobs/info/6999164dce78e77b4fddb6f1?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
 | **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/6998ea9ece78e77b4fdd79ac?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 20 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern - Tampa, FL](https://jobright.ai/jobs/info/6998d8d0ce78e77b4fdd6910?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Feb 20 |
 | **[SeaWorld Parks & Entertainment](https://unitedparks.com/)** | **[Summer Internship - Merchandise](https://jobright.ai/jobs/info/6998f9f181476f6176b168d5?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
 | **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Account Management (f/m/d)](https://jobright.ai/jobs/info/6998ca51ce78e77b4fdd5bfc?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Feb 20 |
-| **[Akamai Technologies](https://www.akamai.com)** | **[Intern - Sales Development Representative](https://jobright.ai/jobs/info/6998c017e0bddb6acac7afe6?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Hybrid | Feb 20 |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Operation Intern](https://jobright.ai/jobs/info/6998d72d81476f6176b1400d?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 20 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697bb32c1423772304ebdd96?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2b746e5b153e5a6066d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697bc2cb1136d179eeef4756?utm_campaign=1051&utm_source=git)** | Glendale, AZ | On Site | Feb 20 |
-| **[US LBM](http://uslbm.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6998b18e81476f6176b1232f?utm_campaign=1051&utm_source=git)** | Excelsior, MN | On Site | Feb 20 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed15a46e5b153e5a6031b?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Feb 20 |
-| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Partner Programs Intern](https://jobright.ai/jobs/info/69989404e0bddb6acac793a5?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 20 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba35b1423772304ebd038?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
