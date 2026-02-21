@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69994d31ce78e77b4fde1543?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 20 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/69994ad681476f6176b1e99c?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Feb 20 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6999472d81476f6176b1e077?utm_campaign=1051&utm_source=git)** | Hurst, TX | On Site | Feb 20 |
 | **[Discovery Land Company](http://discoverylandco.com)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/6999401e81476f6176b1d1e5?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Feb 20 |
 | **[The Plug Drink](https://theplugdrink.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69993e9b81476f6176b1d03f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 20 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Licensed Based Entertainment](https://jobright.ai/jobs/info/699933a881476f6176b1bf28?utm_campaign=1051&utm_source=git)** | Pawtucket, RI | Hybrid | Feb 20 |
 | **[Wizards of the Coast](http://company.wizards.com/)** | **[Intern, Customer Success](https://jobright.ai/jobs/info/69993358e0bddb6acac842cd?utm_campaign=1051&utm_source=git)** | Renton, WA | Hybrid | Feb 20 |
 | **[CORE Foodservice](https://coregroupsales.com)** | **[University of Missouri CORE Foodservice Internship Program – Summer 2026](https://jobright.ai/jobs/info/6999261881476f6176b1aad0?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | On Site | Feb 20 |
+| **[Lumiwealth](https://www.lumiwealth.com)** | **[B2B Sales Intern (Remote)](https://jobright.ai/jobs/info/69994b8f81476f6176b1ea71?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Internal Production - Home Loan Advisor - In-Market](https://jobright.ai/jobs/info/699941eace78e77b4fde0176?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Feb 20 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Commercial Banking Intern - Indigenous Markets](https://jobright.ai/jobs/info/69993e8dce78e77b4fddfc6a?utm_campaign=1051&utm_source=git)** | Headingley, Manitoba, Canada | On Site | Feb 20 |
 | **[Truist](https://www.truist.com)** | **[2027 Institutional Capital Group - Summer Analyst Program (Internship) - Atlanta, GA](https://jobright.ai/jobs/info/69991b52e0bddb6acac818e7?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
@@ -75,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/6999110ace78e77b4fddad29?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 20 |
 | **[The Culinary Edge](http://theculinaryedge.com/)** | **[University of Missouri CORE Foodservice Internship Program – Summer 2026](https://jobright.ai/jobs/info/699910efe0bddb6acac8076b?utm_campaign=1051&utm_source=git)** | Maryland Heights, Missouri, United States | On Site | Feb 20 |
 | **[Twitch](https://www.twitch.tv)** | **[Undergrad Technical Business Development Intern](https://jobright.ai/jobs/info/69992a13e0bddb6acac834c8?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 20 |
+| **[American Rheinmetall](https://www.rheinmetall.com/en/company/subsidiaries/american-rheinmetall-defense)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69994c22ce78e77b4fde13ab?utm_campaign=1051&utm_source=git)** | Plymouth, MI | On Site | Feb 20 |
 | **[Q-mation](https://wonderwarenorth.com/)** | **[Corporate Sales Intern](https://jobright.ai/jobs/info/69993e87ce78e77b4fddfc68?utm_campaign=1051&utm_source=git)** | Horsham, PA | On Site | Feb 20 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Sales Associate, Data Analytics Intern](https://jobright.ai/jobs/info/699935c081476f6176b1c1c5?utm_campaign=1051&utm_source=git)** | Orlando, FL | Remote | Feb 20 |
 | **[BMO](http://www.bmo.com)** | **[Personal Banking Associate, Summer 2026 (co-op/internship)-4 Months](https://jobright.ai/jobs/info/69992c8fce78e77b4fdde1d7?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 20 |
@@ -87,6 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699927da81476f6176b1ae0d?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Feb 20 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69992731e0bddb6acac82fdf?utm_campaign=1051&utm_source=git)** | North Dakota, United States | Remote | Feb 20 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Sales](https://jobright.ai/jobs/info/69991921ce78e77b4fddbc5f?utm_campaign=1051&utm_source=git)** | Delano, CA | On Site | Feb 20 |
+| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Strategic Business Development](https://jobright.ai/jobs/info/69994c3081476f6176b1eb22?utm_campaign=1051&utm_source=git)** | Albany, Albany, NY, US | Hybrid | Feb 20 |
+| **[Schimberg Co](https://www.schimberg.com)** | **[Decatur Internship](https://jobright.ai/jobs/info/69994b35ce78e77b4fde11ce?utm_campaign=1051&utm_source=git)** | Decatur,IL,US | On Site | Feb 20 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Phoenix Mercury Partnership Strategy & Service Intern](https://jobright.ai/jobs/info/69991dbc81476f6176b19c51?utm_campaign=1051&utm_source=git)** | Phoenix, Arizona, United States | On Site | Feb 20 |
 | **[Lunar Energy](https://www.lunarenergy.com)** | **[GTM Intern, Gridshare](https://jobright.ai/jobs/info/69991e44e0bddb6acac81e7a?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | Feb 20 |
 | **[Nicola Wealth](http://www.nicolawealth.com)** | **[Wealth Planning Intern (12-Month Internship)](https://jobright.ai/jobs/info/69992862e0bddb6acac831c9?utm_campaign=1051&utm_source=git)** | Calgary, Kelowna, Toronto, Vancouver, Victoria | Hybrid | Feb 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- San Francisco, Investment Sales](https://jobright.ai/jobs/info/6998e62fe0bddb6acac7cfbe?utm_campaign=1051&utm_source=git)** | San Francisco, California, United States | On Site | Feb 20 |
 | **[Moxie Pest Control](https://www.moxieservices.com)** | **[2026 Moxie Sales and Marketing Internship](https://jobright.ai/jobs/info/6998c0d6ce78e77b4fdd53b1?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Feb 20 |
 | **[Mubea](https://www.mubea.com)** | **[Student Co-op - Purchasing](https://jobright.ai/jobs/info/6998f6cfce78e77b4fdd8d64?utm_campaign=1051&utm_source=git)** | Florence, KY | On Site | Feb 20 |
-| **[D.C. United](http://dcunited.com)** | **[Intern- Corporate Partnerships (Summer 2026)](https://jobright.ai/jobs/info/6998fd0381476f6176b16e75?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6998fbd481476f6176b16c5f?utm_campaign=1051&utm_source=git)** | Greater St. Louis | On Site | Feb 20 |
-| **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Ticket Sales & Service](https://jobright.ai/jobs/info/6998fc9dce78e77b4fdd977e?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Feb 20 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6998e2c5e0bddb6acac7cd1a?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Feb 20 |
-| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Partner Programs Intern](https://jobright.ai/jobs/info/6998db7ee0bddb6acac7c67d?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 20 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Sales Associate Intern](https://jobright.ai/jobs/info/6998e2e9e0bddb6acac7cd39?utm_campaign=1051&utm_source=git)** | Orlando, FL | Remote | Feb 20 |
-| ↳ | **[Fall 2026 Internship - Hospitality & Logistics](https://jobright.ai/jobs/info/6998fbdb81476f6176b16c6a?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
