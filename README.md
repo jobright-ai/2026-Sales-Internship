@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[New Business Associate](https://jobright.ai/jobs/info/6999a6b3e0bddb6acac8e432?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Feb 21 |
+| **[Smith & Associates](http://www.smithweb.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/697d0c48137a0510256601ca?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 21 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Charleston](https://jobright.ai/jobs/info/6999a5f481476f6176b26059?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Feb 21 |
+| **[Smith & Associates](http://www.smithweb.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697d0a69727747250d57c085?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 21 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d42d42ffc1276de3fd7e96?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 21 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Softlines Licensing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6999a3a1e0bddb6acac8e37f?utm_campaign=1051&utm_source=git)** | Glendale, CA, USA | On Site | Feb 21 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68d49e99fcd3367e8df164ce?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Feb 21 |
+| ↳ | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68cd40f9e23def7af55b7467?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Feb 21 |
+| ↳ | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/694a2edf63141d188459ed69?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Feb 21 |
+| ↳ | **[Management and Sales Intern](https://jobright.ai/jobs/info/68d1fc8917554c2d9eee1eff?utm_campaign=1051&utm_source=git)** | Harrisburg, PA | On Site | Feb 21 |
 | **[Celonis](https://www.celonis.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6993ca68ce78e77b4fd79ede?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Feb 21 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/697d5ae33f57a33569673c67?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Feb 21 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - National Commercial Sales Execution](https://jobright.ai/jobs/info/697d69c9137a051025668c01?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Feb 21 |
@@ -132,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69991ee1ce78e77b4fddc704?utm_campaign=1051&utm_source=git)** | Missouri, United States | Remote | Feb 20 |
 | **[Discovery Land Company](http://discoverylandco.com)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/6998efc8e0bddb6acac7dcb6?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Feb 20 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69992a0dce78e77b4fdddd81?utm_campaign=1051&utm_source=git)** | West Virginia, United States | Remote | Feb 20 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699928c881476f6176b1afd1?utm_campaign=1051&utm_source=git)** | Wisconsin, United States | Remote | Feb 20 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699936e5ce78e77b4fddf1c2?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | Feb 20 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699928c881476f6176b1afd1?utm_campaign=1051&utm_source=git)** | Wisconsin, United States | Remote | Feb 20 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699929cc81476f6176b1b1ce?utm_campaign=1051&utm_source=git)** | Vermont, United States | Remote | Feb 20 |
 | **[Kubby](https://www.kubby.io )** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6999154ece78e77b4fddb50e?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699913e181476f6176b18a76?utm_campaign=1051&utm_source=git)** | Utah, United States | Remote | Feb 20 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intuitive](https://www.intuitive.com/)** | **[Finance Sales Operations AI and Data Science Intern](https://jobright.ai/jobs/info/69991254e0bddb6acac809f7?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA | Hybrid | Feb 20 |
 | **[wherewework Bulgaria](http://www.wherewework.bg)** | **[Internship - Account Executive](https://jobright.ai/jobs/info/699919b581476f6176b19505?utm_campaign=1051&utm_source=git)** | San Angelo Area | Hybrid | Feb 20 |
 | **[Intapp](http://www.intapp.com)** | **[Partner Ecosystem Operations Intern](https://jobright.ai/jobs/info/6998eb4dce78e77b4fdd7a89?utm_campaign=1051&utm_source=git)** | US NY New York | Hybrid | Feb 20 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Partnership Activation Intern](https://jobright.ai/jobs/info/6999164dce78e77b4fddb6f1?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
-| **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/6998ea9ece78e77b4fdd79ac?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 20 |
-| **[Starteryou](https://starteryou.com/)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6999205ae0bddb6acac82210?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | Feb 20 |
-| **[The Commencement Group](https://www.thecommencementgroup.com)** | **[LA Outside Sales Intern](https://jobright.ai/jobs/info/6998e59981476f6176b14af3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 20 |
-| **[Matriosh](Matriosh.com)** | **[Founder Office Intern](https://jobright.ai/jobs/info/69992a65e0bddb6acac83544?utm_campaign=1051&utm_source=git)** | Menlo Park, CA | On Site | Feb 20 |
-| **[Emerson](http://www.emerson.com)** | **[Sales and Operations Planning Intern](https://jobright.ai/jobs/info/699926a6ce78e77b4fddd680?utm_campaign=1051&utm_source=git)** | 11500 North Mopac Expressway, Austin, TX, 78759, US | On Site | Feb 20 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Foxborough MA](https://jobright.ai/jobs/info/6999418bce78e77b4fde0102?utm_campaign=1051&utm_source=git)** | Foxborough, MA, United States | On Site | Feb 20 |
-| ↳ | **[Sales Intern Southwest Chicago Suburbs IL](https://jobright.ai/jobs/info/699900e4e0bddb6acac7f641?utm_campaign=1051&utm_source=git)** | Tinley Park, IL, United States | On Site | Feb 20 |
-| **[Casey's](https://www.caseys.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/69992099ce78e77b4fddca73?utm_campaign=1051&utm_source=git)** | Urbandale, IA | On Site | Feb 20 |
-| ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/6999128ee0bddb6acac80a62?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
