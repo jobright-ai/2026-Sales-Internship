@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Expertex](https://expertex.ai)** | **[B2B Sales Executive – AI Solutions](https://jobright.ai/jobs/info/6999ef8ace78e77b4fded0d1?utm_campaign=1051&utm_source=git)** | Greater Orlando, FL | Remote | Feb 21 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6999ebd9ce78e77b4fded03a?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
+| **[Blue Ventis](blueventis.com)** | **[Sales Intern](https://jobright.ai/jobs/info/699a02aae0bddb6acac92bdc?utm_campaign=1051&utm_source=git)** | Ventura County, CA | Remote | Feb 21 |
+| **[All Hype Digital](www.allhypedigital.com)** | **[Business Development Specialist](https://jobright.ai/jobs/info/6999fa42ce78e77b4fded23d?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 21 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6999f7f7e0bddb6acac92b14?utm_campaign=1051&utm_source=git)** | Elgin, IL | On Site | Feb 21 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6999f10581476f6176b2a894?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Feb 21 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6999f09781476f6176b2a83a?utm_campaign=1051&utm_source=git)** | Des Plaines, IL | On Site | Feb 21 |
+| ↳ | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6999ebd9ce78e77b4fded03a?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
 | **[Stratify Edge](stratifyedge.us)** | **[Commercial Year-Round Intern (May 2026 Start)](https://jobright.ai/jobs/info/6999ebbde0bddb6acac9290d?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Feb 21 |
 | **[Greylock Federal Credit Union](https://www.greylock.org/)** | **[Mortgage Originations Intern](https://jobright.ai/jobs/info/6999e69dce78e77b4fdec684?utm_campaign=1051&utm_source=git)** | Pittsfield, MA, US | On Site | Feb 21 |
 | **[Veltrana Group](veltranagroup.us)** | **[Business Development and Sales Intern](https://jobright.ai/jobs/info/6999e30f81476f6176b28cdc?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Feb 21 |
@@ -73,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[DL1961](https://www.dl1961.com)** | **[Showoom Sales Intern](https://jobright.ai/jobs/info/6999da9de0bddb6acac90d4a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 21 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/697d30c4727747250d57fe40?utm_campaign=1051&utm_source=git)** | Greater Jacksonville, NC Area | On Site | Feb 21 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/692003db09cc522e877474d2?utm_campaign=1051&utm_source=git)** | Bonita Springs, FL | On Site | Feb 21 |
-| **[Blue Ventis](blueventis.com)** | **[Risk Management - Sales Internship](https://jobright.ai/jobs/info/6999d4f781476f6176b28997?utm_campaign=1051&utm_source=git)** | Warrensburg, MO | On Site | Feb 21 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Store Operations](https://jobright.ai/jobs/info/694604137d506e3808f15499?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Feb 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d8eff3f4cd132506d575?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Feb 21 |
 | ↳ | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d4fbf3f4cd132506d38c?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Feb 21 |
@@ -96,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961e41ea112b40266106487?utm_campaign=1051&utm_source=git)** | Winder, GA | On Site | Feb 21 |
 | **[Reviora](reviora.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6999b24ee0bddb6acac8fe3c?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 21 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - CRM](https://jobright.ai/jobs/info/697daa2bce48107c0541f8ec?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Feb 21 |
-| ↳ | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697dac95ce48107c0541fb1f?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Feb 21 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d44dfa8c62e63bc7fe8027?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Live Action Business Affairs JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6995c295ce78e77b4fd9d111?utm_campaign=1051&utm_source=git)** | Burbank, CA | On Site | Feb 21 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68efff979821486c423c86e1?utm_campaign=1051&utm_source=git)** | Goodhue, MN | On Site | Feb 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lunar Energy](https://www.lunarenergy.com)** | **[GTM Intern, Gridshare](https://jobright.ai/jobs/info/69993c87e0bddb6acac852d7?utm_campaign=1051&utm_source=git)** | Santa Clara County, CA | On Site | Feb 20 |
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: Sales - 2026*](https://jobright.ai/jobs/info/699950cde0bddb6acac87768?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Feb 20 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Supply & Demand](https://jobright.ai/jobs/info/69993ae4ce78e77b4fddf7fa?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Feb 20 |
-| **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/6999110ace78e77b4fddad29?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 20 |
-| **[The Culinary Edge](http://theculinaryedge.com/)** | **[University of Missouri CORE Foodservice Internship Program – Summer 2026](https://jobright.ai/jobs/info/699910efe0bddb6acac8076b?utm_campaign=1051&utm_source=git)** | Maryland Heights, Missouri, United States | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
