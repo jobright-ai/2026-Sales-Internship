@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699b1af681476f6176b3a5c6?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 22 |
+| **[The Commencement Group](https://www.thecommencementgroup.com)** | **[Outside Sales Internship](https://jobright.ai/jobs/info/699b181281476f6176b3a59a?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Feb 22 |
+| **[Global Business Development Association (GBDA)](https://www.gbdassociation.org)** | **[Business Development Intern * U.S. Citizens Only](https://jobright.ai/jobs/info/699b0f32ce78e77b4fdfd0d0?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
+| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Technical Sales Engineer Intern](https://jobright.ai/jobs/info/6947adca7d506e3808f2fd96?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV | On Site | Feb 22 |
 | **[Reviora](reviora.us)** | **[Business Associate Intern](https://jobright.ai/jobs/info/699b07f7ce78e77b4fdfce29?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 22 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68b79a9a1ade4306aa64c913?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Feb 22 |
 | **[Honeywell](http://www.honeywell.com)** | **[Offering Management – Summer 2026 Intern](https://jobright.ai/jobs/info/699a83a881476f6176b31638?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Commercial Sales Execution - West Area](https://jobright.ai/jobs/info/697d1e71727747250d57d82f?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Feb 21 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[In House Sales Data & Projects Intern](https://jobright.ai/jobs/info/697d5cfa3f57a33569673ed0?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Feb 21 |
 | ↳ | **[Software Sales Intern](https://jobright.ai/jobs/info/697d59ad3f57a33569673ac1?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Feb 21 |
-| **[Intrado](https://www.intrado.com/)** | **[Intern](https://jobright.ai/jobs/info/6999803681476f6176b24574?utm_campaign=1051&utm_source=git)** | Longmont, CO | Hybrid | Feb 21 |
-| **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/697d73be3f57a33569675886?utm_campaign=1051&utm_source=git)** | Jurupa Valley, CA | On Site | Feb 21 |
-| **[Acosta Group](https://www.acosta.group)** | **[Intern](https://jobright.ai/jobs/info/6999732381476f6176b22e23?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Hybrid | Feb 21 |
-| **[Hilti Asia IT Services](https://careers.hilti.group/en/what-we-do/digital/)** | **[Sales Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/69996c7281476f6176b22201?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
