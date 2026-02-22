@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALO](https://www.aloyoga.com/)** | **[Business Acumen Intern](https://jobright.ai/jobs/info/69966b0e81476f6176ae3c04?utm_campaign=1051&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 21 |
 | **[College Pro](http://collegepro.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/699a42f2e0bddb6acac952ca?utm_campaign=1051&utm_source=git)** | Pickering, Ontario, Canada | On Site | Feb 21 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/699a1f8c81476f6176b2cf0e?utm_campaign=1051&utm_source=git)** | Wake Forest, NC | Remote | Feb 21 |
 | **[Reimagined Parking](https://reimaginedparking.com/)** | **[Parking Customer Success Agent - Laredo International Airport](https://jobright.ai/jobs/info/699a1d27ce78e77b4fdef6f1?utm_campaign=1051&utm_source=git)** | Laredo, TX | On Site | Feb 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Internal Production - Home Loan Advisor - In-Market](https://jobright.ai/jobs/info/699941eace78e77b4fde0176?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Feb 20 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[New Business Associate](https://jobright.ai/jobs/info/69995682e0bddb6acac8818b?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 20 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Commercial Banking Intern - Indigenous Markets](https://jobright.ai/jobs/info/69993e8dce78e77b4fddfc6a?utm_campaign=1051&utm_source=git)** | Headingley, Manitoba, Canada | On Site | Feb 20 |
-| **[Truist](https://www.truist.com)** | **[2027 Institutional Capital Group - Summer Analyst Program (Internship) - Atlanta, GA](https://jobright.ai/jobs/info/69991b52e0bddb6acac818e7?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
