@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/699b3e10e0bddb6acaca421b?utm_campaign=1051&utm_source=git)** | Canada | Remote | Feb 22 |
+| ↳ | **[Finance Club Partner (Student Leadership Program)](https://jobright.ai/jobs/info/699b3dc6e0bddb6acaca420c?utm_campaign=1051&utm_source=git)** | Canada | Remote | Feb 22 |
+| ↳ | **[Private Equity Intern](https://jobright.ai/jobs/info/699b3a1881476f6176b3c204?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/696c8803350cf4380313a62a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 22 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Partnerships Agreements, Licensing, and Intellectual Property (IP), Hybrid](https://jobright.ai/jobs/info/69928f13e0bddb6acac0b151?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 22 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699b1af681476f6176b3a5c6?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 22 |
 | **[The Commencement Group](https://www.thecommencementgroup.com)** | **[Outside Sales Internship](https://jobright.ai/jobs/info/699b181281476f6176b3a59a?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Feb 22 |
 | **[Global Business Development Association (GBDA)](https://www.gbdassociation.org)** | **[Business Development Intern * U.S. Citizens Only](https://jobright.ai/jobs/info/699b0f32ce78e77b4fdfd0d0?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
@@ -97,7 +102,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6999f10581476f6176b2a894?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Feb 21 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6999f09781476f6176b2a83a?utm_campaign=1051&utm_source=git)** | Des Plaines, IL | On Site | Feb 21 |
 | ↳ | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6999ebd9ce78e77b4fded03a?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
-| **[Stratify Edge](stratifyedge.us)** | **[Commercial Year-Round Intern (May 2026 Start)](https://jobright.ai/jobs/info/6999ebbde0bddb6acac9290d?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Feb 21 |
 | **[Greylock Federal Credit Union](https://www.greylock.org/)** | **[Mortgage Originations Intern](https://jobright.ai/jobs/info/6999e69dce78e77b4fdec684?utm_campaign=1051&utm_source=git)** | Pittsfield, MA, US | On Site | Feb 21 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed20a46e5b153e5a60502?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 21 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/693bdbb04911ef04095f1576?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Feb 21 |
@@ -121,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Rental Sales Intern](https://jobright.ai/jobs/info/6945d129951654073537fcca?utm_campaign=1051&utm_source=git)** | Galesburg, MI | On Site | Feb 21 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d62ccaebcef82ef5cf73e3?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Feb 21 |
 | ↳ | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d450538c62e63bc7fe8317?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Feb 21 |
+| **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Norcross, GA](https://jobright.ai/jobs/info/697b32801136d179eeeeaf73?utm_campaign=1051&utm_source=git)** | Norcross, GA | On Site | Feb 21 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6945ce6b63141d1884555dae?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Feb 21 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Sales Operations](https://jobright.ai/jobs/info/6999c0ce81476f6176b283f3?utm_campaign=1051&utm_source=git)** | Wilmington, MA | Remote | Feb 21 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Retail Intern](https://jobright.ai/jobs/info/6961c4cae7ed9a5731ba9759?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Industrial Scientific](http://www.indsci.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6996a1bb81476f6176ae8def?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 21 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Intern, Inside Sales (4-month) - Delta, BC Canada](https://jobright.ai/jobs/info/697cd3a13f57a335696684ec?utm_campaign=1051&utm_source=git)** | Delta, British Columbia, Canada | On Site | Feb 21 |
 | **[Aircall](https://aircall.io/)** | **[Sales Intern - New York City - 6 months](https://jobright.ai/jobs/info/68c85407983e6768bc54bc82?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 21 |
-| **[Emerson](http://www.emerson.com)** | **[Sales and Operations Planning Intern](https://jobright.ai/jobs/info/6999899bce78e77b4fde764c?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 21 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Commercial Sales Execution - Specialty Sales Analysis](https://jobright.ai/jobs/info/697d65c03f57a3356967487c?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Feb 21 |
-| ↳ | **[Internship - Commercial Sales Execution - West Area](https://jobright.ai/jobs/info/697d1e71727747250d57d82f?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Feb 21 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[In House Sales Data & Projects Intern](https://jobright.ai/jobs/info/697d5cfa3f57a33569673ed0?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Feb 21 |
-| ↳ | **[Software Sales Intern](https://jobright.ai/jobs/info/697d59ad3f57a33569673ac1?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
