@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jeu de paume](jeudepaume.com)** | **[Tennis Apparel University Sales Intern](https://jobright.ai/jobs/info/699b70ebce78e77b4fe01337?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 22 |
+| **[Federal Home Loan Bank of New York](http://fhlbny.com)** | **[Intern – Member Business](https://jobright.ai/jobs/info/698a4d2547434001cc688159?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 22 |
 | **[Orvanta](orvanta.us)** | **[Sports Trader Intern - Summer 2026](https://jobright.ai/jobs/info/699b5fafe0bddb6acaca4870?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Feb 22 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699b5d6bce78e77b4fdff301?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 22 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/699b52b9ce78e77b4fdff035?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 22 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/697438c037785856350e324c?utm_campaign=1051&utm_source=git)** | Sewickley, PA | On Site | Feb 22 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[2026 AWS Associate Customer Acquisition Rep Intern](https://jobright.ai/jobs/info/699ac193e0bddb6acac9ddfd?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 22 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Proposal Intern](https://jobright.ai/jobs/info/6945da91d1953b5d11beecc4?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 22 |
-| **[Greystar](https://www.stoneridgemp.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/699aa7bace78e77b4fdf70b3?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Feb 21 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69616943a112b402660feb25?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Location Planning Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699a7e1cce78e77b4fdf3a89?utm_campaign=1051&utm_source=git)** | Anaheim, CA, USA | Hybrid | Feb 21 |
 | **[GSD&M](http://www.gsdm.com)** | **[Account Leadership Intern](https://jobright.ai/jobs/info/696ebbeb350cf4380315a1a9?utm_campaign=1051&utm_source=git)** | Austin | Hybrid | Feb 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Celonis](https://www.celonis.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6993ca68ce78e77b4fd79ede?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Feb 21 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/697d5ae33f57a33569673c67?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Feb 21 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - National Commercial Sales Execution](https://jobright.ai/jobs/info/697d69c9137a051025668c01?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Feb 21 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68d4a334fcd3367e8df16651?utm_campaign=1051&utm_source=git)** | Sewickley, PA | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
