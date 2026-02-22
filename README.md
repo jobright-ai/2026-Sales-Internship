@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orvanta](orvanta.us)** | **[Sports Trader Intern - Summer 2026](https://jobright.ai/jobs/info/699b5fafe0bddb6acaca4870?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Feb 22 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699b5d6bce78e77b4fdff301?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 22 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/699b52b9ce78e77b4fdff035?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 22 |
 | **[Meridien Labs](meridienlabs.us)** | **[Business Development and Sales Intern](https://jobright.ai/jobs/info/699b523d81476f6176b3c422?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | Remote | Feb 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/697d5ae33f57a33569673c67?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Feb 21 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - National Commercial Sales Execution](https://jobright.ai/jobs/info/697d69c9137a051025668c01?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Feb 21 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68d4a334fcd3367e8df16651?utm_campaign=1051&utm_source=git)** | Sewickley, PA | On Site | Feb 21 |
-| **[Industrial Scientific](http://www.indsci.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6996a1bb81476f6176ae8def?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
