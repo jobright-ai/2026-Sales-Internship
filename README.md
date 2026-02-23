@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699c0b61e0bddb6acacae752?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 23 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699c03c5ce78e77b4fe092f7?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Feb 22 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699bfd9b81476f6176b4607a?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 22 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/699bfd17ce78e77b4fe08ec1?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | Feb 22 |
 | **[AIRS Medical](https://airsmed.com)** | **[College Graduate Internship (Path to Full-Time)](https://jobright.ai/jobs/info/699be37be0bddb6acacacc23?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Todd](https://toddagriscience.com)** | **[Sales Development Representative (SDR) Intern (Summer ‘26)](https://jobright.ai/jobs/info/699bbc3881476f6176b40e51?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Feb 22 |
 | **[Stone Graphic and Web Design](https://stonegraphicandwebdesign.ca/)** | **[Sales Intern](https://jobright.ai/jobs/info/699bb8bfce78e77b4fe03818?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Remote | Feb 22 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Safe Life Home Health Care](https://www.safelifehomehealth.com)** | **[Client Relations & Business Development Intern](https://jobright.ai/jobs/info/699b9453ce78e77b4fe016aa?utm_campaign=1051&utm_source=git)** | Lombard, IL | On Site | Feb 22 |
 | **[Jeu de paume](jeudepaume.com)** | **[Tennis Apparel University Sales Intern](https://jobright.ai/jobs/info/699b70ebce78e77b4fe01337?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[Federal Home Loan Bank of New York](http://fhlbny.com)** | **[Intern – Member Business](https://jobright.ai/jobs/info/698a4d2547434001cc688159?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 22 |
-| **[Orvanta](orvanta.us)** | **[Sports Trader Intern - Summer 2026](https://jobright.ai/jobs/info/699b5fafe0bddb6acaca4870?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Feb 22 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699b5d6bce78e77b4fdff301?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 22 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/699b52b9ce78e77b4fdff035?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 22 |
 | **[Tech Verses](techverses.us)** | **[Business Development and Sales Intern](https://jobright.ai/jobs/info/699b4f76e0bddb6acaca4389?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | Remote | Feb 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68efff979821486c423c86e1?utm_campaign=1051&utm_source=git)** | Goodhue, MN | On Site | Feb 21 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/6999a96ece78e77b4fde88d1?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Feb 21 |
 | **[Smith & Associates](http://www.smithweb.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/697d0c48137a0510256601ca?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 21 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Charleston](https://jobright.ai/jobs/info/6999a5f481476f6176b26059?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Feb 21 |
-| **[Smith & Associates](http://www.smithweb.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697d0a69727747250d57c085?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 21 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d42d42ffc1276de3fd7e96?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
