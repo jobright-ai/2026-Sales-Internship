@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/699b946ace78e77b4fe016b5?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 22 |
+| **[Safe Life Home Health Care](https://www.safelifehomehealth.com)** | **[Client Relations & Business Development Intern](https://jobright.ai/jobs/info/699b9453ce78e77b4fe016aa?utm_campaign=1051&utm_source=git)** | Lombard, IL | On Site | Feb 22 |
 | **[Jeu de paume](jeudepaume.com)** | **[Tennis Apparel University Sales Intern](https://jobright.ai/jobs/info/699b70ebce78e77b4fe01337?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[Federal Home Loan Bank of New York](http://fhlbny.com)** | **[Intern – Member Business](https://jobright.ai/jobs/info/698a4d2547434001cc688159?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 22 |
 | **[Orvanta](orvanta.us)** | **[Sports Trader Intern - Summer 2026](https://jobright.ai/jobs/info/699b5fafe0bddb6acaca4870?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Feb 22 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68b79a9a1ade4306aa64c913?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Feb 22 |
 | **[Honeywell](http://www.honeywell.com)** | **[Offering Management – Summer 2026 Intern](https://jobright.ai/jobs/info/699a83a881476f6176b31638?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Outside Sales Specialist Intern](https://jobright.ai/jobs/info/68f13826e6870116b1f54ef7?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Softlines Licensing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699b8c0f81476f6176b3e919?utm_campaign=1051&utm_source=git)** | Glendale, CA | On Site | Feb 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Softlines Licensing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699aeab381476f6176b38172?utm_campaign=1051&utm_source=git)** | Glendale, CA | On Site | Feb 22 |
 | ↳ | **[Disney Consumer Products Hardlines Licensing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699aea9181476f6176b38164?utm_campaign=1051&utm_source=git)** | Celebration, FL | On Site | Feb 22 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Twin Cities)](https://jobright.ai/jobs/info/699aea5281476f6176b38148?utm_campaign=1051&utm_source=git)** | Burnsville, MN | On Site | Feb 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68cd40f9e23def7af55b7467?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Feb 21 |
 | ↳ | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/694a2edf63141d188459ed69?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Feb 21 |
 | ↳ | **[Management and Sales Intern](https://jobright.ai/jobs/info/68d1fc8917554c2d9eee1eff?utm_campaign=1051&utm_source=git)** | Harrisburg, PA | On Site | Feb 21 |
-| **[Celonis](https://www.celonis.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6993ca68ce78e77b4fd79ede?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Feb 21 |
-| **[Harbinger](https://harbingermotors.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/697d5ae33f57a33569673c67?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Feb 21 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - National Commercial Sales Execution](https://jobright.ai/jobs/info/697d69c9137a051025668c01?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
