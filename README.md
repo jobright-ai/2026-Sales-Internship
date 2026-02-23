@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bazzuka AI](https://www.bazzuka.ai/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699b9a36ce78e77b4fe01735?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/699b946ace78e77b4fe016b5?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 22 |
 | **[Safe Life Home Health Care](https://www.safelifehomehealth.com)** | **[Client Relations & Business Development Intern](https://jobright.ai/jobs/info/699b9453ce78e77b4fe016aa?utm_campaign=1051&utm_source=git)** | Lombard, IL | On Site | Feb 22 |
 | **[Jeu de paume](jeudepaume.com)** | **[Tennis Apparel University Sales Intern](https://jobright.ai/jobs/info/699b70ebce78e77b4fe01337?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Clean Power Association (ACP)](https://cleanpower.org/)** | **[Events Business Development & Sales Intern](https://jobright.ai/jobs/info/69990d57e0bddb6acac804c9?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Feb 21 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68cd40f9e23def7af55b7467?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Feb 21 |
 | ↳ | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/694a2edf63141d188459ed69?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Feb 21 |
-| ↳ | **[Management and Sales Intern](https://jobright.ai/jobs/info/68d1fc8917554c2d9eee1eff?utm_campaign=1051&utm_source=git)** | Harrisburg, PA | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
