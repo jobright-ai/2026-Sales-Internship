@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699c0b61e0bddb6acacae752?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 23 |
+| **[Blue Ventis](blueventis.com)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/699c1d2de0bddb6acacafac5?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Feb 23 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6994e03ae0bddb6acac35faf?utm_campaign=1051&utm_source=git)** | Oakdale, PA | On Site | Feb 23 |
+| **[Acosta Group](https://www.acosta.group)** | **[University of Missouri CORE Foodservice Internship Program - Summer 2026](https://jobright.ai/jobs/info/699c186de0bddb6acacaf2ff?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | On Site | Feb 23 |
+| **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6987e1678ca8121a3a6a4bb3?utm_campaign=1051&utm_source=git)** | Londonderry, NH | On Site | Feb 23 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699c0fc5ce78e77b4fe09aa7?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Feb 23 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699c0b61e0bddb6acacae752?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 23 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699c03c5ce78e77b4fe092f7?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Feb 22 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699bfd9b81476f6176b4607a?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 22 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/699bfd17ce78e77b4fe08ec1?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | Feb 22 |
 | **[AIRS Medical](https://airsmed.com)** | **[College Graduate Internship (Path to Full-Time)](https://jobright.ai/jobs/info/699be37be0bddb6acacacc23?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Todd](https://toddagriscience.com)** | **[Sales Development Representative (SDR) Intern (Summer ‘26)](https://jobright.ai/jobs/info/699bbc3881476f6176b40e51?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Feb 22 |
 | **[Stone Graphic and Web Design](https://stonegraphicandwebdesign.ca/)** | **[Sales Intern](https://jobright.ai/jobs/info/699bb8bfce78e77b4fe03818?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Remote | Feb 22 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Safe Life Home Health Care](https://www.safelifehomehealth.com)** | **[Client Relations & Business Development Intern](https://jobright.ai/jobs/info/699b9453ce78e77b4fe016aa?utm_campaign=1051&utm_source=git)** | Lombard, IL | On Site | Feb 22 |
 | **[Jeu de paume](jeudepaume.com)** | **[Tennis Apparel University Sales Intern](https://jobright.ai/jobs/info/699b70ebce78e77b4fe01337?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[Federal Home Loan Bank of New York](http://fhlbny.com)** | **[Intern – Member Business](https://jobright.ai/jobs/info/698a4d2547434001cc688159?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 22 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699b5d6bce78e77b4fdff301?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 22 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/699b52b9ce78e77b4fdff035?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 22 |
 | **[Tech Verses](techverses.us)** | **[Business Development and Sales Intern](https://jobright.ai/jobs/info/699b4f76e0bddb6acaca4389?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | Remote | Feb 22 |
 | **[Museum of Science](http://www.mos.org)** | **[Donor Relations  College Internship](https://jobright.ai/jobs/info/699b4817e0bddb6acaca431d?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 22 |
@@ -81,6 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Private Equity Intern](https://jobright.ai/jobs/info/699b3a1881476f6176b3c204?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/696c8803350cf4380313a62a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 22 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Partnerships Agreements, Licensing, and Intellectual Property (IP), Hybrid](https://jobright.ai/jobs/info/69928f13e0bddb6acac0b151?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 22 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699b1af681476f6176b3a5c6?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 22 |
 | **[The Commencement Group](https://www.thecommencementgroup.com)** | **[Outside Sales Internship](https://jobright.ai/jobs/info/699b181281476f6176b3a59a?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Feb 22 |
 | **[Global Business Development Association (GBDA)](https://www.gbdassociation.org)** | **[Business Development Intern * U.S. Citizens Only](https://jobright.ai/jobs/info/699b0f32ce78e77b4fdfd0d0?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Technical Sales Engineer Intern](https://jobright.ai/jobs/info/6947adca7d506e3808f2fd96?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV | On Site | Feb 22 |
@@ -111,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[GSD&M](http://www.gsdm.com)** | **[Account Leadership Intern](https://jobright.ai/jobs/info/696ebbeb350cf4380315a1a9?utm_campaign=1051&utm_source=git)** | Austin | Hybrid | Feb 21 |
 | **[ALO](https://www.aloyoga.com/)** | **[Business Acumen Intern](https://jobright.ai/jobs/info/69966b0e81476f6176ae3c04?utm_campaign=1051&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 21 |
 | **[Orvanta](orvanta.us)** | **[Risk Management - Sales Internship](https://jobright.ai/jobs/info/699a7cac81476f6176b30fbf?utm_campaign=1051&utm_source=git)** | Warrensburg, MO | Remote | Feb 21 |
-| **[Reimagined Parking](https://reimaginedparking.com/)** | **[Parking Customer Success Agent - Laredo International Airport](https://jobright.ai/jobs/info/699a1d27ce78e77b4fdef6f1?utm_campaign=1051&utm_source=git)** | Laredo, TX | On Site | Feb 21 |
 | **[SupplyCore](http://supplycore.com)** | **[2026 Vendor Relations Intern](https://jobright.ai/jobs/info/699a1cbee0bddb6acac94e56?utm_campaign=1051&utm_source=git)** | Washington, DC | Remote | Feb 21 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699a140fce78e77b4fdedb84?utm_campaign=1051&utm_source=git)** | Joliet, IL | On Site | Feb 21 |
 | **[SupplyCore](http://supplycore.com)** | **[2026 Business Development Intern](https://jobright.ai/jobs/info/699a0ea581476f6176b2b1a7?utm_campaign=1051&utm_source=git)** | Washington, DC | Remote | Feb 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d44dfa8c62e63bc7fe8027?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 21 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697dac95ce48107c0541fb1f?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Live Action Business Affairs JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6995c295ce78e77b4fd9d111?utm_campaign=1051&utm_source=git)** | Burbank, CA | On Site | Feb 21 |
-| **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68efff979821486c423c86e1?utm_campaign=1051&utm_source=git)** | Goodhue, MN | On Site | Feb 21 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/6999a96ece78e77b4fde88d1?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Feb 21 |
-| **[Smith & Associates](http://www.smithweb.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/697d0c48137a0510256601ca?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
