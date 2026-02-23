@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manifold Ventures ](https://www.manifoldventures.net)** | **[Sales Intern](https://jobright.ai/jobs/info/699c5207e0bddb6acacb5137?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Feb 23 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/699c50fdce78e77b4fe101a4?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Feb 23 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Toledo)](https://jobright.ai/jobs/info/699935e7e0bddb6acac84723?utm_campaign=1051&utm_source=git)** | Toledo, OH | On Site | Feb 23 |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Outside Sales Specialist Intern](https://jobright.ai/jobs/info/68f1384fe6870116b1f54f43?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 23 |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Assistant Buyer Intern - Los Angeles](https://jobright.ai/jobs/info/689e87cafaa4e875e827d79a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 23 |
 | **[Dynareon](dynareon.com)** | **[Business Development - Intern Sales](https://jobright.ai/jobs/info/699c455081476f6176b4bef6?utm_campaign=1051&utm_source=git)** | Des Moines, IA | Remote | Feb 23 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6ffa445853d0e39ccbcef?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Feb 23 |
 | ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d70cafd3fe025a3015e875?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 23 |
@@ -64,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Retail Location Planning Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699c3d02ce78e77b4fe0df69?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Feb 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Location Planning Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699c3c42ce78e77b4fe0de86?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Feb 23 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6fde1894705799a2ef640?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Feb 23 |
-| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d700d7894705799a2ef983?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Feb 23 |
 | ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d70292894705799a2efc55?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 23 |
+| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d700d7894705799a2ef983?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Feb 23 |
 | ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d7067cd3fe025a3015e352?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
 | **[Orvanta](joinorvanta.com)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/699c3427e0bddb6acacb2091?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Remote | Feb 23 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/699c340c81476f6176b4a4c8?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 23 |
@@ -84,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699c03c5ce78e77b4fe092f7?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Feb 22 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699bfd9b81476f6176b4607a?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 22 |
 | **[AIRS Medical](https://airsmed.com)** | **[College Graduate Internship (Path to Full-Time)](https://jobright.ai/jobs/info/699be37be0bddb6acacacc23?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
-| **[Todd](https://toddagriscience.com)** | **[Sales Development Representative (SDR) Intern (Summer ‘26)](https://jobright.ai/jobs/info/699bbc3881476f6176b40e51?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Feb 22 |
 | **[Stone Graphic and Web Design](https://stonegraphicandwebdesign.ca/)** | **[Sales Intern](https://jobright.ai/jobs/info/699bb8bfce78e77b4fe03818?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Remote | Feb 22 |
 | **[Dioun Health](diounhealth.com)** | **[Private Equity Sales Intern - Commission Based](https://jobright.ai/jobs/info/699bb41ece78e77b4fe03559?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/699bafe281476f6176b40708?utm_campaign=1051&utm_source=git)** | SD Metro Area | On Site | Feb 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/692003db09cc522e877474d2?utm_campaign=1051&utm_source=git)** | Bonita Springs, FL | On Site | Feb 21 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Store Operations](https://jobright.ai/jobs/info/694604137d506e3808f15499?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Feb 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d8eff3f4cd132506d575?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Feb 21 |
-| ↳ | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d4fbf3f4cd132506d38c?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Feb 21 |
-| **[KEEN](http://www.keenfootwear.com)** | **[Account Activation Intern, KEEN Utility](https://jobright.ai/jobs/info/69683f201703f05405a9f28f?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Feb 21 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Sioux City, IA - Summer 2026](https://jobright.ai/jobs/info/68b77a621ade4306aa64b48b?utm_campaign=1051&utm_source=git)** | Sioux City, IA | On Site | Feb 21 |
-| ↳ | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961e0d1a112b40266106364?utm_campaign=1051&utm_source=git)** | Cumming, GA | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
