@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/699baf5481476f6176b406b7?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Feb 22 |
+| **[Stone Graphic and Web Design](https://stonegraphicandwebdesign.ca/)** | **[Sales Intern](https://jobright.ai/jobs/info/699bb8bfce78e77b4fe03818?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Remote | Feb 22 |
+| **[Dioun Health](diounhealth.com)** | **[Private Equity Sales Intern - Commission Based](https://jobright.ai/jobs/info/699bb41ece78e77b4fe03559?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/699bafe281476f6176b40708?utm_campaign=1051&utm_source=git)** | SD Metro Area | On Site | Feb 22 |
+| ↳ | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/699baf5481476f6176b406b7?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Feb 22 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/699ba8f181476f6176b40496?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Feb 22 |
 | **[Bazzuka AI](https://www.bazzuka.ai/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699b9a36ce78e77b4fe01735?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/699b946ace78e77b4fe016b5?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Smith & Associates](http://www.smithweb.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/697d0c48137a0510256601ca?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 21 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Charleston](https://jobright.ai/jobs/info/6999a5f481476f6176b26059?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Feb 21 |
 | **[Smith & Associates](http://www.smithweb.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697d0a69727747250d57c085?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 21 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d42d42ffc1276de3fd7e96?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 21 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68d49e99fcd3367e8df164ce?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Feb 21 |
-| **[American Clean Power Association (ACP)](https://cleanpower.org/)** | **[Events Business Development & Sales Intern](https://jobright.ai/jobs/info/69990d57e0bddb6acac804c9?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
