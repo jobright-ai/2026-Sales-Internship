@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/699baf5481476f6176b406b7?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Feb 22 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/699ba8f181476f6176b40496?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Feb 22 |
 | **[Bazzuka AI](https://www.bazzuka.ai/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699b9a36ce78e77b4fe01735?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/699b946ace78e77b4fe016b5?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 22 |
 | **[Safe Life Home Health Care](https://www.safelifehomehealth.com)** | **[Client Relations & Business Development Intern](https://jobright.ai/jobs/info/699b9453ce78e77b4fe016aa?utm_campaign=1051&utm_source=git)** | Lombard, IL | On Site | Feb 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d42d42ffc1276de3fd7e96?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 21 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68d49e99fcd3367e8df164ce?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Feb 21 |
 | **[American Clean Power Association (ACP)](https://cleanpower.org/)** | **[Events Business Development & Sales Intern](https://jobright.ai/jobs/info/69990d57e0bddb6acac804c9?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Feb 21 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68cd40f9e23def7af55b7467?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Feb 21 |
-| ↳ | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/694a2edf63141d188459ed69?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
