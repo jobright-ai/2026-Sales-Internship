@@ -110,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Orvanta](orvanta.us)** | **[Risk Management - Sales Internship](https://jobright.ai/jobs/info/699a7cac81476f6176b30fbf?utm_campaign=1051&utm_source=git)** | Warrensburg, MO | Remote | Feb 21 |
 | **[Reimagined Parking](https://reimaginedparking.com/)** | **[Parking Customer Success Agent - Laredo International Airport](https://jobright.ai/jobs/info/699a1d27ce78e77b4fdef6f1?utm_campaign=1051&utm_source=git)** | Laredo, TX | On Site | Feb 21 |
 | **[SupplyCore](http://supplycore.com)** | **[2026 Vendor Relations Intern](https://jobright.ai/jobs/info/699a1cbee0bddb6acac94e56?utm_campaign=1051&utm_source=git)** | Washington, DC | Remote | Feb 21 |
-| **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Undergraduate Sales Intern](https://jobright.ai/jobs/info/699a143ee0bddb6acac93468?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 21 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/699a140fce78e77b4fdedb84?utm_campaign=1051&utm_source=git)** | Joliet, IL | On Site | Feb 21 |
 | **[SupplyCore](http://supplycore.com)** | **[2026 Business Development Intern](https://jobright.ai/jobs/info/699a0ea581476f6176b2b1a7?utm_campaign=1051&utm_source=git)** | Washington, DC | Remote | Feb 21 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6999f7f7e0bddb6acac92b14?utm_campaign=1051&utm_source=git)** | Elgin, IL | On Site | Feb 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Smith & Associates](http://www.smithweb.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/697d0c48137a0510256601ca?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 21 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Charleston](https://jobright.ai/jobs/info/6999a5f481476f6176b26059?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Feb 21 |
 | **[Smith & Associates](http://www.smithweb.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697d0a69727747250d57c085?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 21 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d42d42ffc1276de3fd7e96?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
