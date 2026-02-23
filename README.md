@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d7067cd3fe025a3015e352?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
+| **[Orvanta](orvanta.us)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/699c3427e0bddb6acacb2091?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Remote | Feb 23 |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/699c340c81476f6176b4a4c8?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Feb 23 |
+| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69637b5d2cbf4e44756d3360?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 23 |
+| **[Bluecrest Partners](bluecrestpartners.us)** | **[Inside Sales Internships](https://jobright.ai/jobs/info/699c2a91e0bddb6acacb1158?utm_campaign=1051&utm_source=git)** | Redlands, CA | Remote | Feb 23 |
+| **[Veltrana Group](veltranagroup.us)** | **[Risk Management - Sales Internship](https://jobright.ai/jobs/info/699c29b7ce78e77b4fe0c13a?utm_campaign=1051&utm_source=git)** | Warrensburg, MO | Remote | Feb 23 |
+| **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Business Associate Intern](https://jobright.ai/jobs/info/699c29abce78e77b4fe0c12c?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 23 |
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Sales Development Internship (Nationwide - Summer '26)](https://jobright.ai/jobs/info/691ab48abcdbf3560c9d9d20?utm_campaign=1051&utm_source=git)** | Davidson, NC | On Site | Feb 23 |
 | **[Blue Ventis](blueventis.com)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/699c1d2de0bddb6acacafac5?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Feb 23 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6994e03ae0bddb6acac35faf?utm_campaign=1051&utm_source=git)** | Oakdale, PA | On Site | Feb 23 |
 | **[Acosta Group](https://www.acosta.group)** | **[University of Missouri CORE Foodservice Internship Program - Summer 2026](https://jobright.ai/jobs/info/699c186de0bddb6acacaf2ff?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | On Site | Feb 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Sales Operations](https://jobright.ai/jobs/info/6999c0ce81476f6176b283f3?utm_campaign=1051&utm_source=git)** | Wilmington, MA | Remote | Feb 21 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Retail Intern](https://jobright.ai/jobs/info/6961c4cae7ed9a5731ba9759?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed30bd078b81ad160fbbd?utm_campaign=1051&utm_source=git)** | Westborough, MA | On Site | Feb 21 |
-| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Proposal](https://jobright.ai/jobs/info/6961e286e7ed9a5731baa709?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Feb 21 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/69955f12e0bddb6acac3efa3?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Feb 21 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Softlines Licensing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6999a3a1e0bddb6acac8e37f?utm_campaign=1051&utm_source=git)** | Glendale, CA, USA | On Site | Feb 21 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961e41ea112b40266106487?utm_campaign=1051&utm_source=git)** | Winder, GA | On Site | Feb 21 |
-| **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - CRM](https://jobright.ai/jobs/info/697daa2bce48107c0541f8ec?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Feb 21 |
-| **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d44dfa8c62e63bc7fe8027?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 21 |
-| **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697dac95ce48107c0541fb1f?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Feb 21 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Live Action Business Affairs JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6995c295ce78e77b4fd9d111?utm_campaign=1051&utm_source=git)** | Burbank, CA | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
