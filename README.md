@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intercom](https://www.intercom.com/)** | **[Sales Development Coordinator (6 month internship)](https://jobright.ai/jobs/info/698a3cd24db8972cecff7bfc?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | Hybrid | Feb 24 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - Albany, NY](https://jobright.ai/jobs/info/69817e9babff4c399aa0818b?utm_campaign=1051&utm_source=git)** | Albany, NY | On Site | Feb 24 |
+| **[Docusign](http://www.docusign.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69819d8849964d25b5e4b1f9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Feb 24 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - New York City, NY](https://jobright.ai/jobs/info/698185cb7f40342e15da9098?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 24 |
+| **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68dc6a7eddc10244dd6752de?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL | On Site | Feb 24 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - Boston or Norwell, MA](https://jobright.ai/jobs/info/69817bd4abff4c399aa07fe0?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 24 |
 | **[Carmeuse](http://www.carmeuse.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6980fe09abff4c399a9fcbf3?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Feb 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern- Lafayette, LA](https://jobright.ai/jobs/info/698125d47f40342e15da039c?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Feb 24 |
 | ↳ | **[2026 Management and Sales Internship (Hudson Valley)](https://jobright.ai/jobs/info/699daf38e0bddb6acacd1310?utm_campaign=1051&utm_source=git)** | Danbury, CT | On Site | Feb 24 |
@@ -68,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[AMAROK Security](https://www.amarok.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6981433babff4c399aa02aa7?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Feb 24 |
 | **[Smith & Associates](http://www.smithweb.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6980f2daabff4c399a9fc065?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 24 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - VT](https://jobright.ai/jobs/info/6981834e7f40342e15da8de4?utm_campaign=1051&utm_source=git)** | Burlington, VT | On Site | Feb 24 |
-| **[barrière](https://www.mybarriere.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/699da32bce78e77b4fe2c0d1?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Feb 24 |
 | **[Crayola](http://www.crayola.com/)** | **[Global Consumer and Customer Leadership Intern](https://jobright.ai/jobs/info/699715c5e0bddb6acac5ce30?utm_campaign=1051&utm_source=git)** | Easton, PA | Hybrid | Feb 24 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69630fff25e18715077fbeda?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Feb 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - South Florida](https://jobright.ai/jobs/info/6981e298a314e7636905408e?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Feb 24 |
@@ -144,17 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Integrity](https://www.integritymarketing.com)** | **[Sales Intern](https://jobright.ai/jobs/info/699d0d44ce78e77b4fe1db61?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Feb 23 |
 | **[Ryerson](https://www.ryerson.com)** | **[Sales Internship](https://jobright.ai/jobs/info/698a8c3ec5761b521a99d048?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 23 |
 | **[RPS Solar Pumps](https://www.rpssolarpumps.com)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/699d1061ce78e77b4fe1dfa2?utm_campaign=1051&utm_source=git)** | Davis, CA | On Site | Feb 23 |
-| **[Harbor Foodservice](https://harborfoodservice.com)** | **[Sales Operations Internship HFS - Summer 2026](https://jobright.ai/jobs/info/699d312ce0bddb6acacc6092?utm_campaign=1051&utm_source=git)** | US-WA-Kent | On Site | Feb 23 |
-| ↳ | **[Sales Operations Internship HFS - Summer 2026](https://jobright.ai/jobs/info/699d2344ce78e77b4fe1fae0?utm_campaign=1051&utm_source=git)** | Kent, WA, US | On Site | Feb 23 |
+| **[Harbor Foodservice](https://harborfoodservice.com)** | **[Sales Operations Internship HFS - Summer 2026](https://jobright.ai/jobs/info/699d2344ce78e77b4fe1fae0?utm_campaign=1051&utm_source=git)** | Kent, WA, US | On Site | Feb 23 |
+| ↳ | **[Sales Operations Internship HFS - Summer 2026](https://jobright.ai/jobs/info/699d312ce0bddb6acacc6092?utm_campaign=1051&utm_source=git)** | US-WA-Kent | On Site | Feb 23 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/699ced01e0bddb6acacbf3ce?utm_campaign=1051&utm_source=git)** | Rowlett, TX | On Site | Feb 23 |
 | **[Machias Savings Bank](https://www.machiassavings.bank)** | **[Retail Intern](https://jobright.ai/jobs/info/699d2898ce78e77b4fe206a0?utm_campaign=1051&utm_source=git)** | Brewer, Maine, United States | On Site | Feb 23 |
 | ↳ | **[Retail Intern](https://jobright.ai/jobs/info/699d2ce3e0bddb6acacc5938?utm_campaign=1051&utm_source=git)** | Machias, Maine, United States | On Site | Feb 23 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Content Licensing EMEA](https://jobright.ai/jobs/info/699d21bfe0bddb6acacc44d1?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Feb 23 |
-| **[MKC - Mid Kansas Coop](https://www.mkcoop.com/)** | **[Intern- Operations Sales Specialist](https://jobright.ai/jobs/info/699d218b81476f6176b5c7d5?utm_campaign=1051&utm_source=git)** | Drexel,MO,US | On Site | Feb 23 |
-| ↳ | **[Intern- Operations Sales Specialist](https://jobright.ai/jobs/info/699d1851e0bddb6acacc3710?utm_campaign=1051&utm_source=git)** | Chanute,KS,US | On Site | Feb 23 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Sales](https://jobright.ai/jobs/info/699d1a9281476f6176b5bdde?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Feb 23 |
-| **[Harbor Wholesale](https://www.harborwholesale.com/)** | **[Sales Operations Internship HW - Summer 2026](https://jobright.ai/jobs/info/699d16aae0bddb6acacc34f6?utm_campaign=1051&utm_source=git)** | US-WA-Lacey | On Site | Feb 23 |
-| ↳ | **[Sales Operations Internship HW - Summer 2026](https://jobright.ai/jobs/info/699d16bbce78e77b4fe1e858?utm_campaign=1051&utm_source=git)** | Lacey, WA, US | On Site | Feb 23 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/699d0bc6e0bddb6acacc26f8?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 23 |
-| **[FORTÉ](https://www.ourforte.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69791d3639f7f96cc6d17aed?utm_campaign=1051&utm_source=git)** | KC Metro Area | On Site | Feb 23 |
+| **[MKC - Mid Kansas Coop](https://www.mkcoop.com/)** | **[Intern- Operations Sales Specialist](https://jobright.ai/jobs/info/699d1851e0bddb6acacc3710?utm_campaign=1051&utm_source=git)** | Chanute,KS,US | On Site | Feb 23 |
+| ↳ | **[Intern- Operations Sales Specialist](https://jobright.ai/jobs/info/699d218b81476f6176b5c7d5?utm_campaign=1051&utm_source=git)** | Drexel,MO,US | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
