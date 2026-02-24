@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/699d6ce781476f6176b63fca?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Feb 24 |
+| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Consultative Sales Intern – Summer 2026 (Full-Time, In-Person)](https://jobright.ai/jobs/info/699d6aa5ce78e77b4fe26de6?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Feb 24 |
+| **[Umamicasa](https://umamicasa.com/)** | **[Business intern](https://jobright.ai/jobs/info/699d63a281476f6176b63904?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Remote | Feb 24 |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Commercial Sales](https://jobright.ai/jobs/info/699d5a18e0bddb6acaccadfa?utm_campaign=1051&utm_source=git)** | Torrance, CA | On Site | Feb 23 |
+| **[Enviri](https://www.enviri.com)** | **[Sales Intern](https://jobright.ai/jobs/info/699d549181476f6176b62b93?utm_campaign=1051&utm_source=git)** | 933 1st Ave, King of Prussia, PA 19406, USA | On Site | Feb 23 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/699d51a0ce78e77b4fe259cf?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | Feb 23 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/699d43ffe0bddb6acacc94ca?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Feb 23 |
 | **[Moody Gardens®](https://www.moodygardens.org)** | **[Hotel Sales Summer Internship](https://jobright.ai/jobs/info/699d40ccce78e77b4fe23c61?utm_campaign=1051&utm_source=git)** | Galveston, TX 77554 | On Site | Feb 23 |
 | **[Harbor Foodservice](https://harborfoodservice.com)** | **[Sales Operations Internship HFS - Summer 2026](https://jobright.ai/jobs/info/699d3c3dce78e77b4fe2321d?utm_campaign=1051&utm_source=git)** | Kent, WA | On Site | Feb 23 |
+| **[Texas Pipe & Supply](http://texaspipe.com)** | **[Sales - Internship](https://jobright.ai/jobs/info/699d630981476f6176b6386c?utm_campaign=1051&utm_source=git)** | Houston, TX 77051 | On Site | Feb 23 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Commercial Year-Round Intern (May 2026 Start)](https://jobright.ai/jobs/info/699d3a3ace78e77b4fe22c82?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Feb 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Bellingham](https://jobright.ai/jobs/info/699d3027e0bddb6acacc5eda?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | Feb 23 |
 | **[Healthfirst](https://healthfirst.org)** | **[Products Finance Business Partner Intern &#8211; 2026 Summer Internship](https://jobright.ai/jobs/info/699d28bbce78e77b4fe206e5?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Feb 23 |
@@ -102,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[MKC - Mid Kansas Coop](https://www.mkcoop.com/)** | **[Intern- Operations Sales Specialist](https://jobright.ai/jobs/info/699d1851e0bddb6acacc3710?utm_campaign=1051&utm_source=git)** | Chanute,KS,US | On Site | Feb 23 |
 | ↳ | **[Intern- Operations Sales Specialist](https://jobright.ai/jobs/info/699d218b81476f6176b5c7d5?utm_campaign=1051&utm_source=git)** | Drexel,MO,US | On Site | Feb 23 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Sales](https://jobright.ai/jobs/info/699d1a9281476f6176b5bdde?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Feb 23 |
-| **[Harbor Wholesale](https://www.harborwholesale.com/)** | **[Sales Operations Internship HW - Summer 2026](https://jobright.ai/jobs/info/699d16bbce78e77b4fe1e858?utm_campaign=1051&utm_source=git)** | Lacey, WA, US | On Site | Feb 23 |
-| ↳ | **[Sales Operations Internship HW - Summer 2026](https://jobright.ai/jobs/info/699d16aae0bddb6acacc34f6?utm_campaign=1051&utm_source=git)** | US-WA-Lacey | On Site | Feb 23 |
+| **[Harbor Wholesale](https://www.harborwholesale.com/)** | **[Sales Operations Internship HW - Summer 2026](https://jobright.ai/jobs/info/699d16aae0bddb6acacc34f6?utm_campaign=1051&utm_source=git)** | US-WA-Lacey | On Site | Feb 23 |
+| ↳ | **[Sales Operations Internship HW - Summer 2026](https://jobright.ai/jobs/info/699d16bbce78e77b4fe1e858?utm_campaign=1051&utm_source=git)** | Lacey, WA, US | On Site | Feb 23 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/699d0bc6e0bddb6acacc26f8?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 23 |
 | **[FORTÉ](https://www.ourforte.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69791d3639f7f96cc6d17aed?utm_campaign=1051&utm_source=git)** | KC Metro Area | On Site | Feb 23 |
 | **[New York Road Runners](http://www.nyrr.org/)** | **[Strategic Partnerships and Business Development Internship (Part-Time)](https://jobright.ai/jobs/info/699ce29781476f6176b56ab3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 23 |
@@ -128,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Eldorado Gold](https://www.eldoradogold.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/699cf62be0bddb6acacc013c?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 23 |
 | **[Ayar Labs](https://ayarlabs.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/699cf5f3ce78e77b4fe1b11b?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Feb 23 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Membership (Summer 2026)](https://jobright.ai/jobs/info/699d001881476f6176b594df?utm_campaign=1051&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Feb 23 |
+| **[MKC - Mid Kansas Coop](https://www.mkcoop.com/)** | **[Intern- Operations Sales Specialist](https://jobright.ai/jobs/info/699d573dce78e77b4fe25eb0?utm_campaign=1051&utm_source=git)** | Chanute, KS | On Site | Feb 23 |
 | **[Luxury Miami Estate Management](https://miamiestatemanager.com/)** | **[Real Estate Sales Intern](https://jobright.ai/jobs/info/699d0aef81476f6176b5ab93?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Feb 23 |
 | **[Sun Gro Horticulture](http://www.sungro.com)** | **[Sales Training Internship](https://jobright.ai/jobs/info/699cfafbce78e77b4fe1bb64?utm_campaign=1051&utm_source=git)** | Springfield, MA | On Site | Feb 23 |
 | ↳ | **[Sales Training Internship](https://jobright.ai/jobs/info/699cf5a881476f6176b58200?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 23 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dorsia](https://www.dorsia.com)** | **[Brand Partnerships / Account Management Intern](https://jobright.ai/jobs/info/699cb7a981476f6176b54a67?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[eClinicalWorks](http://www.eclinicalworks.com)** | **[Intern - Account Management](https://jobright.ai/jobs/info/699ca90081476f6176b53de6?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 23 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Real Estate](https://jobright.ai/jobs/info/699d03bfe0bddb6acacc1cf6?utm_campaign=1051&utm_source=git)** | Philadelphia, PA 19106 | Hybrid | Feb 23 |
-| **[Affinity Group, Sales & Marketing Agency](http://www.affinitysales.com/)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/699cf16a81476f6176b57c64?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Feb 23 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Planning & Sales Enablement Intern LATAM](https://jobright.ai/jobs/info/699d04ad81476f6176b59e48?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 23 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/699cb4fece78e77b4fe1754c?utm_campaign=1051&utm_source=git)** | Detroit Metro | Hybrid | Feb 23 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Katz Digital Summer Intern](https://jobright.ai/jobs/info/699ce3bbe0bddb6acacbe9cb?utm_campaign=1051&utm_source=git)** | New York, NY (55th St) | Hybrid | Feb 23 |
-| **[Fingerpaint Group](https://www.fingerpaint.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/699ce862ce78e77b4fe19f6f?utm_campaign=1051&utm_source=git)** | Cedar Knolls, NJ | Hybrid | Feb 23 |
-| ↳ | **[Account Services Intern](https://jobright.ai/jobs/info/699cd719e0bddb6acacbe093?utm_campaign=1051&utm_source=git)** | Cedar Knolls, NJ | Hybrid | Feb 23 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Travel Agency Sales Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699ce430ce78e77b4fe19ab7?utm_campaign=1051&utm_source=git)** | Celebration, FL, USA | Hybrid | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
