@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leaf Home](https://www.leafhome.com/)** | **[Entry Level Sales Representative - Tampa](https://jobright.ai/jobs/info/699f553294ef206f184e7d12?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Feb 25 |
+| **[People Driven Technology, Inc](https://www.peopledriven.com/)** | **[Summer Internship - Customer Success Engineer (CSE)](https://jobright.ai/jobs/info/699f54a081476f6176b8f20c?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Feb 25 |
+| **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026-FP&A](https://jobright.ai/jobs/info/699f527ece78e77b4fe51f46?utm_campaign=1051&utm_source=git)** | Philadelphia, PA 19106 | Hybrid | Feb 25 |
+| **[Justrite Safety Group](https://www.justrite.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/699f510dce78e77b4fe51e27?utm_campaign=1051&utm_source=git)** | Remote, United States | Remote | Feb 25 |
+| **[Aegon Asset Management](https://www.aegonam.com)** | **[Internship - Strategic Partnerships - Aegon AM](https://jobright.ai/jobs/info/69828c870f6f7e7a2cdbcd4d?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Feb 25 |
+| **[Republic Bank](http://www.republicbank.com)** | **[Intern - Retail Banking (Lexington Market)](https://jobright.ai/jobs/info/699f4d93ce78e77b4fe51b51?utm_campaign=1051&utm_source=git)** | Lexington, Kentucky, United States | On Site | Feb 25 |
+| **[Sally Beauty Holdings](https://www.linkedin.com/company/105659941)** | **[Store Operations Communications & Workload Execution Intern](https://jobright.ai/jobs/info/699f4c4994ef206f184e76ad?utm_campaign=1051&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 25 |
 | **[Berlin Packaging](http://berlinpackaging.com/)** | **[Inside Sales Representative - Intern](https://jobright.ai/jobs/info/699f48ea94ef206f184e7476?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Feb 25 |
 | **[Serendipity](https://myserendipitysales.com)** | **[Account Strategist Intern](https://jobright.ai/jobs/info/699f475394ef206f184e7376?utm_campaign=1051&utm_source=git)** | Carlsbad, CA | Hybrid | Feb 25 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Sales Internship - Mountain](https://jobright.ai/jobs/info/699f474794ef206f184e7372?utm_campaign=1051&utm_source=git)** | Midvale, UT | Remote | Feb 25 |
@@ -73,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer College Financial Representative-Internship](https://jobright.ai/jobs/info/699f2ff9ce78e77b4fe4f493?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | On Site | Feb 25 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/699f2ddc81476f6176b8c1d9?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 25 |
 | **[Starteryou](https://starteryou.com/)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/699f2ac081476f6176b8c036?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 25 |
-| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[National Account Intern , Summer 2026 - Rock Hill, SC](https://jobright.ai/jobs/info/699beea2e0bddb6acacad747?utm_campaign=1051&utm_source=git)** | Rock Hill, NY | Hybrid | Feb 25 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[College Insurance Internship - Farmington Hills / Commerce / Flint](https://jobright.ai/jobs/info/69836a59348f733a5c36757e?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI | On Site | Feb 25 |
 | **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/696c88d1db26b618950fd72b?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 25 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/699f4679ce78e77b4fe517b7?utm_campaign=1051&utm_source=git)** | Guelph, Ontario, Canada | On Site | Feb 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/699e8be981476f6176b7c202?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Feb 24 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Ad Sales - Emerging & South Regions](https://jobright.ai/jobs/info/699e33f1ce78e77b4fe34660?utm_campaign=1051&utm_source=git)** | Miami, Florida | Hybrid | Feb 24 |
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[Business Development Intern - Dairy, Deli, & Gourmet](https://jobright.ai/jobs/info/699efb81ce78e77b4fe4b0e2?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Feb 24 |
-| **[Kargo](http://www.kargo.com)** | **[Intern, Ad Sales - Emerging & South Regions](https://jobright.ai/jobs/info/699e5ebbe0bddb6acacddc7c?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Feb 24 |
-| **[Stream-Flo Industries](https://www.streamflo.com)** | **[Operations & Sales Intern](https://jobright.ai/jobs/info/699e31e9ce78e77b4fe34397?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 24 |
-| **[Baker Hughes](https://www.bakerhughes.com/)** | **[Business/Sales & Commercial - Fall Co-op Internship (Skaneateles, NY) 2026 Opportunities](https://jobright.ai/jobs/info/699e1bb5e0bddb6acacd7a6d?utm_campaign=1051&utm_source=git)** | Skaneateles, NY | On Site | Feb 24 |
-| **[US LBM](http://uslbm.com)** | **[Sales Intern](https://jobright.ai/jobs/info/699e528cce78e77b4fe37af4?utm_campaign=1051&utm_source=git)** | Buffalo Grove, IL | On Site | Feb 24 |
-| **[United Rentals Europe](http://www.unitedrentals.com/en-gb)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/699ec9a881476f6176b83dc1?utm_campaign=1051&utm_source=git)** | Forest Hill, TX, USA | On Site | Feb 24 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/699eb9e981476f6176b82e58?utm_campaign=1051&utm_source=git)** | Brighton, CO, USA | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
