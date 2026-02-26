@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[UnitedMasters](https://unitedmasters.com/)** | **[A&R & Commerce Intern - The 2026 Come Up Internship Program](https://jobright.ai/jobs/info/699cf12bce78e77b4fe1a919?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Feb 26 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Starting in Summer 2026](https://jobright.ai/jobs/info/69955f2a81476f6176ad4b91?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Feb 25 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/69a00e8181476f6176ba0c7b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 25 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 349](https://jobright.ai/jobs/info/69a00b5981476f6176ba063d?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Feb 25 |
 | **[Niagara Bottling](http://www.NiagaraWater.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/69a005db53d97f23ee65aca3?utm_campaign=1051&utm_source=git)** | Diamond Bar, CA | On Site | Feb 25 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Chubb](https://www.chubb.com/us-en)** | **[Sales Intern - Pittsburgh, PA](https://jobright.ai/jobs/info/699f827c23374b3b6e6b51af?utm_campaign=1051&utm_source=git)** | Triangle Plaza 8750 W. Bryn Mawr Avenue, Chicago, IL, 60631, US | On Site | Feb 25 |
 | ↳ | **[Sales Intern- West](https://jobright.ai/jobs/info/699f9d02ce78e77b4fe58109?utm_campaign=1051&utm_source=git)** | Triangle Plaza 8750 W. Bryn Mawr Avenue, Chicago, IL, 60631, US | On Site | Feb 25 |
 | **[Northly Group](northlygroup.com)** | **[Business Development Representative (Media Sales)](https://jobright.ai/jobs/info/699fdee781476f6176b998bd?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 25 |
-| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/699fb119d643757b0e453464?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Feb 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/699fafcf81476f6176b968e0?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Feb 25 |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/699fafcf81476f6176b968e0?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Feb 25 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/699fb119d643757b0e453464?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Feb 25 |
 | **[Savannah Ghost Pirates](http://ghostpirateshockey.com)** | **[Retail Operations Intern](https://jobright.ai/jobs/info/699f924181476f6176b93fdd?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Feb 25 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Sales & Operations Intern](https://jobright.ai/jobs/info/699f97b781476f6176b94c21?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Feb 25 |
 | **[National Trust for Historic Preservation](https://savingplaces.org/historicrestaurants)** | **[Development Internship (The Glass House)](https://jobright.ai/jobs/info/699f843e81476f6176b92149?utm_campaign=1051&utm_source=git)** | New Canaan, CT, US | Hybrid | Feb 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/699fdf3c81476f6176b999c7?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Feb 25 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/699ffd4bce78e77b4fe6142f?utm_campaign=1051&utm_source=git)** | Brighton, CO | On Site | Feb 25 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/6999522081476f6176b1f479?utm_campaign=1051&utm_source=git)** | Del Mar, CA | Hybrid | Feb 25 |
-| **[Justrite Safety Group](https://www.justrite.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/699f510dce78e77b4fe51e27?utm_campaign=1051&utm_source=git)** | Remote, United States | Remote | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
