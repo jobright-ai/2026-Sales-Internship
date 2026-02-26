@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a06ed35218a816767190e0?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 26 |
+| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a06e625218a8167671902e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 26 |
+| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a06e030836fe79d861649f?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 26 |
+| **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Sales](https://jobright.ai/jobs/info/6983e5640f6f7e7a2cddcc78?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 26 |
+| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a06bd681476f6176baa7ee?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[Affinity Group, Sales & Marketing Agency](http://www.affinitysales.com/)** | **[Foodservice Sales and Marketing Internship](https://jobright.ai/jobs/info/69a067395218a81676718363?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 26 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a066460836fe79d861573c?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | Feb 26 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69a0654e0836fe79d8615539?utm_campaign=1051&utm_source=git)** | Neenah, WI | On Site | Feb 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JTI](http://www.jti.com)** | **[Summer Intern Sales, Ontario Region  - Greater Toronto Area (North)](https://jobright.ai/jobs/info/699fe07181476f6176b99d52?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 25 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026-FP&A](https://jobright.ai/jobs/info/699fbf7b81476f6176b97893?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 25 |
 | **[JTI](http://www.jti.com)** | **[Summer Intern Sales, Ontario Region  - Ottawa area](https://jobright.ai/jobs/info/699ffdb581476f6176b9f64c?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 25 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[COMMERCIAL SALES INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/699fc26781476f6176b97c06?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 25 |
-| **[JTI](http://www.jti.com)** | **[Summer Intern Sales, Ontario Region  - Greater Toronto Area (North)](https://jobright.ai/jobs/info/699ff23d53d97f23ee65873a?utm_campaign=1051&utm_source=git)** | MISSISSAUGA, CA, L4W 4X3 | On Site | Feb 25 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Sales Internship](https://jobright.ai/jobs/info/699ffc9053d97f23ee659be6?utm_campaign=1051&utm_source=git)** | Sevierville, TN | On Site | Feb 25 |
-| **[Primetals Technologies](https://primetals.com)** | **[Business Development and Reporting Analyst Intern](https://jobright.ai/jobs/info/69a0256b81476f6176ba34de?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 25 |
-| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Operations (Multiple Locations: CA, NY)](https://jobright.ai/jobs/info/699fd3df81476f6176b98fa0?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
