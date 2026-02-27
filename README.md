@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69a195d9b600907a9628013d?utm_campaign=1051&utm_source=git)** | Detroit Metro | Hybrid | Feb 27 |
+| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/69a18f13b600907a9627fd31?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Feb 27 |
+| **[Lasko Products](https://www.lasko.com/)** | **[Sales Strategy Summer  Internship](https://jobright.ai/jobs/info/6985212c0f6f7e7a2cdfab9f?utm_campaign=1051&utm_source=git)** | West Chester, PA | Hybrid | Feb 27 |
+| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6969677c1703f05405ab44d0?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 27 |
+| **[Huhtamaki](http://huhtamaki.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/68bf2c28702aa35207aa3d7c?utm_campaign=1051&utm_source=git)** | De Soto, KS | On Site | Feb 27 |
+| **[Lasko Products](https://www.lasko.com/)** | **[E-Commerce Sales Summer  Internship](https://jobright.ai/jobs/info/698525b38da7a612045f829f?utm_campaign=1051&utm_source=git)** | West Chester, PA | Hybrid | Feb 27 |
+| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/697d44ce3f57a33569671326?utm_campaign=1051&utm_source=git)** | Newark, CA | On Site | Feb 27 |
+| **[ADP](http://www.adp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/699e8face0bddb6acace473d?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Feb 27 |
+| ↳ | **[Summer Sales Internship (Dec '26/May '27 Grads)](https://jobright.ai/jobs/info/699f1a6e81476f6176b8b72a?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Remote | Feb 27 |
+| **[WLWT](https://www.wlwt.com)** | **[2026 WLWT Summer Intern - Sales](https://jobright.ai/jobs/info/69687f58639b452fb57e2f97?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Feb 27 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69309db94c474121999e6aae?utm_campaign=1051&utm_source=git)** | Wallingford, CT | On Site | Feb 27 |
 | **[Trinity Consulting Group](https://trinity-outsourcing.com/)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/69a17d6f0da45516f16ae8f4?utm_campaign=1051&utm_source=git)** | Canada | Remote | Feb 27 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Business Markets Intern- EN](https://jobright.ai/jobs/info/69856da10f6f7e7a2ce031d5?utm_campaign=1051&utm_source=git)** | St-Hyacinthe, Quebec, Canada | On Site | Feb 27 |
 | **[Legends Global](http://legends.net)** | **[Intern, Partnership Activation](https://jobright.ai/jobs/info/698529a1348f733a5c3959be?utm_campaign=1051&utm_source=git)** | University, FL | On Site | Feb 27 |
@@ -121,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a1006b81476f6176bb5990?utm_campaign=1051&utm_source=git)** | Spring Hill, TN | On Site | Feb 26 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Fresh Food Solutions Sales Internship](https://jobright.ai/jobs/info/69a0fdd85218a81676723785?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Feb 26 |
 | **[Medtronic](https://www.medtronic.com)** | **[Sales Analyst Intern (Boston, MA)](https://jobright.ai/jobs/info/6997d4af81476f6176b008a0?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 26 |
-| **[Dollar Tree Stores](http://dollartree.com)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/69a122065218a81676725acd?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Feb 26 |
 | **[The Boldt Company](https://www.boldt.com)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/69a0fad75218a8167672351f?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 26 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a0fa726b458d060735b357?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Feb 26 |
 | **[Atain Insurance Companies](https://www.atainins.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/69a0f6b281476f6176bb522b?utm_campaign=1051&utm_source=git)** | Homewood, AL, US | Hybrid | Feb 26 |
@@ -143,18 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69a0e2b80836fe79d861ebdc?utm_campaign=1051&utm_source=git)** | Riverdale, UT | On Site | Feb 26 |
 | **[Calyxo, Inc.](https://calyxoinc.com)** | **[Sales Operations & Analytics Intern - Pleasanton, CA](https://jobright.ai/jobs/info/69a100df6b458d060735b89e?utm_campaign=1051&utm_source=git)** | Pleasanton, CA | On Site | Feb 26 |
 | **[ConstructConnect](https://ref.constructconnect.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69a10fa65218a81676724473?utm_campaign=1051&utm_source=git)** | US-OH-Cincinnati | Hybrid | Feb 26 |
-| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern - Social Media Focused](https://jobright.ai/jobs/info/69a12b0c5218a8167672651d?utm_campaign=1051&utm_source=git)** | Lubbock, Texas, United States | On Site | Feb 26 |
-| ↳ | **[Leasing Community Intern - Social Media Focused](https://jobright.ai/jobs/info/69a129475218a81676726364?utm_campaign=1051&utm_source=git)** | Blacksburg, Virginia, United States | On Site | Feb 26 |
-| ↳ | **[Leasing Community Intern - Social Media Focused](https://jobright.ai/jobs/info/69a12ca681476f6176bb8652?utm_campaign=1051&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Feb 26 |
+| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern - Social Media Focused](https://jobright.ai/jobs/info/69a12ca681476f6176bb8652?utm_campaign=1051&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Feb 26 |
+| ↳ | **[Leasing Community Intern - Social Media Focused](https://jobright.ai/jobs/info/69a12b0c5218a8167672651d?utm_campaign=1051&utm_source=git)** | Lubbock, Texas, United States | On Site | Feb 26 |
 | ↳ | **[Leasing Community Intern - Social Media Focused](https://jobright.ai/jobs/info/69a131276b458d060735ec2b?utm_campaign=1051&utm_source=git)** | College Station, Texas, United States | On Site | Feb 26 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69a0e21d0836fe79d861eaa2?utm_campaign=1051&utm_source=git)** | Ardmore, OK | On Site | Feb 26 |
-| **[OTR Solutions](http://www.otrsolutions.com)** | **[Fuel Sales Intern (Summer Program)](https://jobright.ai/jobs/info/698235bfc3101f1400c3e783?utm_campaign=1051&utm_source=git)** | Roswell, GA | On Site | Feb 26 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69a0e2005218a816767215b1?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 26 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69a0e1f70836fe79d861ea67?utm_campaign=1051&utm_source=git)** | Garden City, KS | On Site | Feb 26 |
-| **[Ohio Cat](http://www.ohiocat.com)** | **[Sales Intern - Req ID 6403](https://jobright.ai/jobs/info/69a110056b458d060735c435?utm_campaign=1051&utm_source=git)** | Broadview Heights, Ohio | On Site | Feb 26 |
-| **[Atain Insurance Companies](https://www.atainins.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/69a1130b5218a81676724937?utm_campaign=1051&utm_source=git)** | Metairie, LA, US | Hybrid | Feb 26 |
-| **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Corporate Development](https://jobright.ai/jobs/info/69a109d75218a816767240b7?utm_campaign=1051&utm_source=git)** | Foster City | On Site | Feb 26 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Consumer Bank Sales Analyst](https://jobright.ai/jobs/info/69a12cab81476f6176bb865e?utm_campaign=1051&utm_source=git)** | Dallas, Texas, United States | On Site | Feb 26 |
-| ↳ | **[Intern - Consumer Bank Sales Analyst](https://jobright.ai/jobs/info/69a12fac6b458d060735ea05?utm_campaign=1051&utm_source=git)** | Plano, Texas, United States | On Site | Feb 26 |
-| **[Phoenix Systems](https://phoenixsystems.tv)** | **[Marketing & E-Commerce Intern - Unpaid](https://jobright.ai/jobs/info/69a116d481476f6176bb6dc0?utm_campaign=1051&utm_source=git)** | Alpharetta,GA,US | On Site | Feb 26 |
+| ↳ | **[Leasing Community Intern - Social Media Focused](https://jobright.ai/jobs/info/69a129475218a81676726364?utm_campaign=1051&utm_source=git)** | Blacksburg, Virginia, United States | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
