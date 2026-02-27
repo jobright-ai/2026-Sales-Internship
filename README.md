@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BrightHaven Agency](https://www.brighthavenagency.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69a1b9acb600907a96281d8e?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 27 |
+| **[Paycom](http://www.paycom.com)** | **[Client Success Manager Intern - Skillbridge](https://jobright.ai/jobs/info/694c8f595d7312113470e70f?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Feb 27 |
+| **[Whirlpool Corporation](https://www.whirlpoolcorp.com/)** | **[Real Whirled Sales Development Program Intern, May 2026](https://jobright.ai/jobs/info/68a85d7f6acf96396f71f94c?utm_campaign=1051&utm_source=git)** | Benton Harbor, MI | On Site | Feb 27 |
+| **[TW Metals LLC](http://www.twmetals.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69a1b6de359fe034b1cd0c5a?utm_campaign=1051&utm_source=git)** | Forest Park, GA | On Site | Feb 27 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Success & Delivery, West Market Unit, cACV Analyst Intern](https://jobright.ai/jobs/info/69a1b4070da45516f16b1464?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | Hybrid | Feb 27 |
+| **[Farm Sanctuary](https://farmsanctuary.org)** | **[Intern, Hospitality and Retail](https://jobright.ai/jobs/info/69a1b152359fe034b1cd080d?utm_campaign=1051&utm_source=git)** | Watkins Glen, NY | On Site | Feb 27 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/68f7fe5f5dc1be601281fc1a?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | Hybrid | Feb 27 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Sales Internship](https://jobright.ai/jobs/info/69a1acae0da45516f16b0e84?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 27 |
+| **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Columbus, OH](https://jobright.ai/jobs/info/693247e3a0dde7020e2e523b?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 27 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/68f7fea4ec6dbe7073fcfe3a?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | Hybrid | Feb 27 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Walmart/Sam’s Sales Intern](https://jobright.ai/jobs/info/69697a66f25a380066981ffc?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Feb 27 |
 | **[Orvanta](joinorvanta.com)** | **[Risk Management - Sales Internship](https://jobright.ai/jobs/info/69a1a8220da45516f16b0a69?utm_campaign=1051&utm_source=git)** | Warrensburg, MO | Remote | Feb 27 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Community Group Reservations Sales Intern](https://jobright.ai/jobs/info/69a1a7ef359fe034b1cd0006?utm_campaign=1051&utm_source=git)** | NL-Hub | On Site | Feb 27 |
@@ -131,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship – UDX Global IP Partnerships (Fall 2026)](https://jobright.ai/jobs/info/69a1580fb600907a9627a8c1?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | ↳ | **[Internship – New Ventures Location Based Entertainment & Licensing (Fall 2026)](https://jobright.ai/jobs/info/69a1578eb600907a9627a7dc?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | **[Life Space Digital](http://www.lifespacedigital.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a179d1b600907a9627e762?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/69a179bc0da45516f16ae3aa?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/69a17b390da45516f16ae5d6?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 27 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/69a179bc0da45516f16ae3aa?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Guest Experience & Value Analytics (Fall 2026)](https://jobright.ai/jobs/info/69a1538cd29bbd4d8e6b0580?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | **[Highline Warren](https://highlinewarren.com)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/69a1733e0da45516f16adacb?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Feb 27 |
 | **[Celonis](https://www.celonis.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/698fbecd6ea51a7610f229d8?utm_campaign=1051&utm_source=git)** | New York, US, New York | On Site | Feb 26 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ICONIX Waterworks](https://www.iconixww.com/)** | **[Inside Sales Co-op Student  (Summer Work Term)](https://jobright.ai/jobs/info/69a13b865218a81676727bb8?utm_campaign=1051&utm_source=git)** | Ajax, Ontario, Canada | On Site | Feb 26 |
 | **[Southern Glazer's Wine & Spirits](https://www.southernglazers.com/careers)** | **[2026 Summer Internship / Sales - Phoenix, AZ](https://jobright.ai/jobs/info/6997bed5e0bddb6acac680ab?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Feb 26 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Partnerships Agreements, Licensing, and Intellectual Property (IP), Hybrid](https://jobright.ai/jobs/info/69928f13e0bddb6acac0b151?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 26 |
-| **[ABB](https://global.abb/group/en)** | **[Electrification Sales Intern -  Summer 2026](https://jobright.ai/jobs/info/69a116db6b458d060735cd12?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Feb 26 |
-| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69a148ed0da45516f16a7f98?utm_campaign=1051&utm_source=git)** | Strathroy-Caradoc, Ontario, Canada | On Site | Feb 26 |
-| ↳ | **[Client advisor intern](https://jobright.ai/jobs/info/69a14d83b600907a96278eb7?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 26 |
-| **[Seamgen](http://www.seamgen.com/)** | **[Sales AI Internship](https://jobright.ai/jobs/info/69a130716b458d060735eb24?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Feb 26 |
-| **[Novalyft Media](novalyftmedia.us)** | **[New Business Associate](https://jobright.ai/jobs/info/69a130155218a81676726ac9?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Feb 26 |
-| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/699e5a3681476f6176b7587f?utm_campaign=1051&utm_source=git)** | Forest Hill, TX | On Site | Feb 26 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a1006b81476f6176bb5990?utm_campaign=1051&utm_source=git)** | Spring Hill, TN | On Site | Feb 26 |
-| **[TekniPlex](http://www.tekni-plex.com)** | **[Fresh Food Solutions Sales Internship](https://jobright.ai/jobs/info/69a0fdd85218a81676723785?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Feb 26 |
-| **[Medtronic](https://www.medtronic.com)** | **[Sales Analyst Intern (Boston, MA)](https://jobright.ai/jobs/info/6997d4af81476f6176b008a0?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 26 |
-| **[The Boldt Company](https://www.boldt.com)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/69a0fad75218a8167672351f?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
