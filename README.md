@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Propio Language Services](http://propio-ls.com)** | **[Client Success Intern](https://jobright.ai/jobs/info/69a34fd6359fe034b1ce81e5?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Feb 28 |
+| **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Corporate Partnership Intern (Summer)](https://jobright.ai/jobs/info/69a34f5a0da45516f16c8b19?utm_campaign=1051&utm_source=git)** | Berea, OH | On Site | Feb 28 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk FT 6660](https://jobright.ai/jobs/info/69a34c6b359fe034b1ce7fd3?utm_campaign=1051&utm_source=git)** | Cape May, NJ | On Site | Feb 28 |
+| ↳ | **[Sales Clerk PT 6662](https://jobright.ai/jobs/info/69a34bf80da45516f16c88ee?utm_campaign=1051&utm_source=git)** | Alameda, CA | On Site | Feb 28 |
 | **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Creator Partnership Intern](https://jobright.ai/jobs/info/69a342880da45516f16c7e03?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Remote | Feb 28 |
 | **[SWBC](https://www.swbc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a33908b600907a96297e43?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Feb 28 |
 | **[Brixenta](brixenta.net)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a338ca359fe034b1ce707b?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Remote | Feb 28 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/6964b6c525e1871507811cfb?utm_campaign=1051&utm_source=git)** | Westminster, CO | On Site | Feb 28 |
 | ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/699aad59e0bddb6acac9cb7f?utm_campaign=1051&utm_source=git)** | Easton Center, MA | On Site | Feb 28 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69866d040f6f7e7a2ce16431?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Feb 28 |
+| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/69867f658da7a61204614e14?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Feb 28 |
 | **[Crane Aerospace & Electronics](http://www.craneae.com)** | **[Sales & Customer Administration Internship - Summer 2026](https://jobright.ai/jobs/info/6969ae4a639b452fb57f9e66?utm_campaign=1051&utm_source=git)** | Burbank, CA | On Site | Feb 28 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Sales Intern (SUMMER)](https://jobright.ai/jobs/info/698694b98da7a61204616b52?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Feb 28 |
 | **[HP](http://www.hp.com)** | **[Sustainable Impact Intern](https://jobright.ai/jobs/info/69a2c238b600907a96292fff?utm_campaign=1051&utm_source=git)** | Ontario, Canada | Hybrid | Feb 28 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/698604cc8da7a6120460b4d0?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 28 |
-| ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/697b29fa17b11b1c2e4238f6?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Feb 28 |
-| ↳ | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69914b100f6f7e7a2ced8d4c?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
-| ↳ | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69a13c1f5218a81676727d9d?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Feb 28 |
-| ↳ | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/699a966381476f6176b33b48?utm_campaign=1051&utm_source=git)** | Tukwila, WA | On Site | Feb 28 |
-| ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/697981790791bc1d72302ffc?utm_campaign=1051&utm_source=git)** | Burlington, MA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
