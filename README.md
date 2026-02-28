@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrity](https://www.integritymarketing.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a24cbcb600907a962896a5?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Feb 27 |
+| **[EG America](https://www.eg-america.com)** | **[Digital Loyalty & Delivery Intern](https://jobright.ai/jobs/info/69a24b3c359fe034b1cd8664?utm_campaign=1051&utm_source=git)** | Westborough, MA | On Site | Feb 27 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Sales Intern - Phoenix, AZ](https://jobright.ai/jobs/info/69a243e5359fe034b1cd7fcd?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Feb 27 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Supply & Demand Planning](https://jobright.ai/jobs/info/69a2406d0da45516f16b87cf?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Feb 27 |
 | **[Compass](http://www.compass.com)** | **[Sales Associate](https://jobright.ai/jobs/info/69a23c3db600907a962887a2?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Feb 27 |
@@ -82,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Inogen](https://provider.inogen.com/)** | **[DTP Sales Support Intern](https://jobright.ai/jobs/info/69a230ac359fe034b1cd6e5d?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Feb 27 |
 | **[Dometic](https://www.dometic.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69a200aab600907a96284e0d?utm_campaign=1051&utm_source=git)** | Plymouth, MA | Hybrid | Feb 27 |
 | **[Transtar Insurance Brokers, Inc.](https://www.transtarinsurance.com/)** | **[Transtar - Internship](https://jobright.ai/jobs/info/69a228c5b600907a9628757c?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 27 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Risk Management & Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/69a234a1b600907a962880e2?utm_campaign=1051&utm_source=git)** | Tampa, FL, USA | Hybrid | Feb 27 |
-| ↳ | **[Risk Management & Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/69a22733359fe034b1cd64b9?utm_campaign=1051&utm_source=git)** | Vero Beach, FL, USA | Hybrid | Feb 27 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Risk Management & Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/69a22733359fe034b1cd64b9?utm_campaign=1051&utm_source=git)** | Vero Beach, FL, USA | Hybrid | Feb 27 |
+| ↳ | **[Risk Management & Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/69a234a1b600907a962880e2?utm_campaign=1051&utm_source=git)** | Tampa, FL, USA | Hybrid | Feb 27 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Fleet Management/Global Sales](https://jobright.ai/jobs/info/691ab52415b415636718a080?utm_campaign=1051&utm_source=git)** | Kirkland, WA | On Site | Feb 27 |
 | **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Business Development and Strategy Intern](https://jobright.ai/jobs/info/69a22376359fe034b1cd60e1?utm_campaign=1051&utm_source=git)** | Princeton, New Jersey, United States | Hybrid | Feb 27 |
 | **[Barnes Aerospace](https://www.barnesaero.com/)** | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a221c60da45516f16b6a89?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Feb 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69a1d2890da45516f16b2906?utm_campaign=1051&utm_source=git)** | Concord, NC | On Site | Feb 27 |
 | **[Merkle Science](https://www.merklescience.com)** | **[Sales Development Representative - Intern](https://jobright.ai/jobs/info/69a1d2670da45516f16b28f0?utm_campaign=1051&utm_source=git)** | New York | Remote | Feb 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/694cc0bdf5bef51c96ea8603?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Feb 27 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69a1d18fb600907a96282ce9?utm_campaign=1051&utm_source=git)** | Greensburg, PA | On Site | Feb 27 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69a1d147b600907a96282cd0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
