@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Texas](https://jobright.ai/jobs/info/68c1ee4963b706703e110470?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 28 |
+| ↳ | **[Summer Jr. Executive Sales Intern - St. Louis](https://jobright.ai/jobs/info/68c1f1a663b706703e1108b9?utm_campaign=1051&utm_source=git)** | Clayton, MO | On Site | Feb 28 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Ohio](https://jobright.ai/jobs/info/68c1edf84d652f044775bca1?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Feb 28 |
+| ↳ | **[Summer Jr. Executive Sales Intern - North Carolina](https://jobright.ai/jobs/info/68c1ee394d652f044775bcdb?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 28 |
+| **[A Tiger Cub](https://atigercub.com)** | **[Asian Community Builder](https://jobright.ai/jobs/info/69a31d670da45516f16c6c63?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 28 |
+| **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Client Services & Sales Intern](https://jobright.ai/jobs/info/69a31c30359fe034b1ce6355?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Feb 28 |
+| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Miami](https://jobright.ai/jobs/info/68c1edb363b706703e1103d7?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Feb 28 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Sacramento](https://jobright.ai/jobs/info/68c1eb544d652f044775ba49?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Feb 28 |
+| ↳ | **[Summer Jr. Executive Sales Intern - New Jersey](https://jobright.ai/jobs/info/68c1eae34d652f044775b9d3?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Feb 28 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Minneapolis](https://jobright.ai/jobs/info/68c1ee7f63b706703e1104b9?utm_campaign=1051&utm_source=git)** | Edina, MN | On Site | Feb 28 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Denver](https://jobright.ai/jobs/info/68c1f07033864f172f9bbcb5?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Feb 28 |
+| **[PEAC Solutions](http://www.peacsolutions.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f1ef7cf462172a5a7de223?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
+| **[Arvento A](arventoa.com)** | **[Business Development - Intern Sales](https://jobright.ai/jobs/info/69a31898359fe034b1ce61bd?utm_campaign=1051&utm_source=git)** | Des Moines, IA | Remote | Feb 28 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/69873b5d8da7a61204625207?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Feb 28 |
 | **[Federal Home Loan Bank of New York](http://fhlbny.com)** | **[Intern – Member Business](https://jobright.ai/jobs/info/698a4d2547434001cc688159?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/696ab271350cf4380311b3cd?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Feb 28 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69a2a2b60da45516f16bff7c?utm_campaign=1051&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Feb 28 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[AI-Based Customer Segmentation Intern](https://jobright.ai/jobs/info/69a29e8a0da45516f16bf7be?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Feb 27 |
 | **[Meridien Labs](meridienlabs.us)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a29deb0da45516f16bf6ce?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Feb 27 |
-| **[Kidder Mathews](https://kidder.com/)** | **[Broker Staff - Intern](https://jobright.ai/jobs/info/69a29d97b600907a9628faf8?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
-| **[arrivia](https://www.arrivia.com/)** | **[Customer Loyalty and Analytics Intern](https://jobright.ai/jobs/info/69a29d160da45516f16bf5a3?utm_campaign=1051&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Feb 27 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/69a29c9cb600907a9628f926?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Feb 27 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - New Mexico](https://jobright.ai/jobs/info/69a2988b0da45516f16bee73?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Feb 27 |
-| **[Greystar](https://www.stoneridgemp.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/69a2c825359fe034b1ce28cb?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Feb 27 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a29631359fe034b1cde053?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
-| **[Gesa Credit Union](https://www.gesa.com)** | **[Student Relationship Officer](https://jobright.ai/jobs/info/69a295440da45516f16beaab?utm_campaign=1051&utm_source=git)** | Pullman, WA | On Site | Feb 27 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Business Development Intern - Sales](https://jobright.ai/jobs/info/69a29494b600907a9628ee9d?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Feb 27 |
-| **[Twitch](https://www.twitch.tv)** | **[Undergrad Technical Business Development Intern](https://jobright.ai/jobs/info/69991d59ce78e77b4fddc3ed?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 27 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Sales Representative- Internship](https://jobright.ai/jobs/info/69a28fe6359fe034b1cddbbf?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 27 |
-| **[Brixenta](brixenta.net)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a299dcb600907a9628f4b2?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Remote | Feb 27 |
-| **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Development - Hybrid (Boca Raton, FL)](https://jobright.ai/jobs/info/69a27661359fe034b1cdbc04?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 27 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/69a2701a0da45516f16bb96d?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
