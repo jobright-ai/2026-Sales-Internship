@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/69873b5d8da7a61204625207?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Feb 28 |
+| **[Federal Home Loan Bank of New York](http://fhlbny.com)** | **[Intern – Member Business](https://jobright.ai/jobs/info/698a4d2547434001cc688159?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 28 |
+| **[Magna International](http://www.magna.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/696ab271350cf4380311b3cd?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Feb 28 |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a30c8f359fe034b1ce5c23?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | Feb 28 |
+| **[Magna International](http://www.magna.com/)** | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/699fe10681476f6176b9a037?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | Feb 28 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/698677530f6f7e7a2ce171fd?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[NA Sales Intern - Summer 2026](https://jobright.ai/jobs/info/696ab9285fc862418539ca4e?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | Feb 28 |
 | **[Wella Company](https://www.wellacompany.com/)** | **[Intern, RH Sales & Marketing](https://jobright.ai/jobs/info/698671778da7a61204613b28?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brixenta](brixenta.net)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a299dcb600907a9628f4b2?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Remote | Feb 27 |
 | **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Development - Hybrid (Boca Raton, FL)](https://jobright.ai/jobs/info/69a27661359fe034b1cdbc04?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 27 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/69a2701a0da45516f16bb96d?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | Feb 27 |
-| **[Almo Corporation](http://www.almo.com)** | **[Pro AV - Hospitality Intern](https://jobright.ai/jobs/info/69a26863359fe034b1cda7a0?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Feb 27 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships (AEG Presents)](https://jobright.ai/jobs/info/69a26594359fe034b1cda2bb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
-| **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Radnor, PA)](https://jobright.ai/jobs/info/69a2627cb600907a9628ad1f?utm_campaign=1051&utm_source=git)** | Radnor, PA | On Site | Feb 27 |
-| **[Wealthspire](https://www.wealthspire.com/)** | **[Wealthspire M&A Intern](https://jobright.ai/jobs/info/69a25fd1b600907a9628a973?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Feb 27 |
-| **[Giant Noise](http://giantnoise.com)** | **[Summer Intern - Business Development, Austin](https://jobright.ai/jobs/info/69a25f6f359fe034b1cd9968?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
