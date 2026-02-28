@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Florida Panhandle](https://jobright.ai/jobs/info/698695850f6f7e7a2ce19beb?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 28 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship - Texas Coast](https://jobright.ai/jobs/info/68ccf53e77add66568abc935?utm_campaign=1051&utm_source=git)** | Beaumont, TX | On Site | Feb 28 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aaaa65fc862418539a363?utm_campaign=1051&utm_source=git)** | La Porte, IN | On Site | Feb 28 |
+| **[Horizons North Credit Union](https://www.hncu.org/)** | **[Youth Banking Intern](https://jobright.ai/jobs/info/69a2f1560da45516f16c4d39?utm_campaign=1051&utm_source=git)** | Westminster, CO | On Site | Feb 28 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aa7085fc8624185399f22?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | Feb 28 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/699945cd81476f6176b1dd27?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Feb 28 |
+| **[Magna International](http://www.magna.com/)** | **[Innovation Ventures Intern - Summer 2026](https://jobright.ai/jobs/info/69a0119d81476f6176ba13e2?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Feb 28 |
+| ↳ | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/696abd5c350cf4380311c8a8?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Feb 28 |
+| **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Seattle](https://jobright.ai/jobs/info/69338c0ca0dde7020e2ef0e9?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | Feb 28 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aa63c350cf43803119535?utm_campaign=1051&utm_source=git)** | Taylor, MI | On Site | Feb 28 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern- Baton Rouge](https://jobright.ai/jobs/info/696072cc7ebc25398eb669a4?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Feb 28 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Feb 28 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696aac06db26b618950dd8dc?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Feb 28 |
+| **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern, National Sales](https://jobright.ai/jobs/info/696b55ca350cf4380312b75e?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Feb 28 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aa4c3db26b618950dccc5?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Feb 28 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Premium Service Intern](https://jobright.ai/jobs/info/697cd34f137a05102565c5a4?utm_campaign=1051&utm_source=git)** | Detroit, MI 48226 | On Site | Feb 28 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aa6905fc8624185399e9b?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
@@ -70,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Ann Arbor, MI](https://jobright.ai/jobs/info/6932f323764507023d1b1423?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Feb 28 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aae165fc862418539af8a?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 28 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Muncie, IN](https://jobright.ai/jobs/info/693302bbf131d96e4845f2b5?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Feb 28 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/698412b60f6f7e7a2cde37d6?utm_campaign=1051&utm_source=git)** | Hoffman Estates, IL | On Site | Feb 28 |
 | **[ADP](http://www.adp.com)** | **[Summer Sales Internship (Dec '26/May '27 Grads)](https://jobright.ai/jobs/info/699e903bce78e77b4fe3f9d8?utm_campaign=1051&utm_source=git)** | Buffalo, NY | Remote | Feb 28 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Associate Business Intern](https://jobright.ai/jobs/info/69a2f192b600907a962951f6?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 28 |
 | **[Velera](https://www.velera.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698669e80f6f7e7a2ce15da1?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern (Summer 2026)](https://jobright.ai/jobs/info/695ff6e67ebc25398eb5e28d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/696f137b82817106e9764412?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Feb 28 |
@@ -93,6 +107,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/697b29fa17b11b1c2e4238f6?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Feb 28 |
 | ↳ | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69914b100f6f7e7a2ced8d4c?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
 | ↳ | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69a13c1f5218a81676727d9d?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Feb 28 |
+| ↳ | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/699a966381476f6176b33b48?utm_campaign=1051&utm_source=git)** | Tukwila, WA | On Site | Feb 28 |
 | ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/697981790791bc1d72302ffc?utm_campaign=1051&utm_source=git)** | Burlington, MA | On Site | Feb 28 |
 | ↳ | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/699e8cbde0bddb6acace409a?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Feb 28 |
 | ↳ | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/699e80c6e0bddb6acace264d?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Feb 28 |
@@ -139,22 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Hornblower Group](https://www.hornblowercorp.com/)** | **[Sales and Event Internship 2026 - City Cruises Chicago](https://jobright.ai/jobs/info/69a23823359fe034b1cd7491?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a25c41b600907a9628a402?utm_campaign=1051&utm_source=git)** | Surprise, AZ | On Site | Feb 27 |
 | **[Sol Systems](http://www.solsystems.com/)** | **[Business Development and M&A Summer Intern](https://jobright.ai/jobs/info/69a2556cb600907a96289ddb?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
-| **[Barnes](https://www.onebarnes.com)** | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a26de60da45516f16bb653?utm_campaign=1051&utm_source=git)** | Warren, Michigan, United States | On Site | Feb 27 |
-| ↳ | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a259a0b600907a9628a1c2?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 27 |
+| **[Barnes](https://www.onebarnes.com)** | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a259a0b600907a9628a1c2?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 27 |
+| ↳ | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a26de60da45516f16bb653?utm_campaign=1051&utm_source=git)** | Warren, Michigan, United States | On Site | Feb 27 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[AI-Based Customer Segmentation Intern](https://jobright.ai/jobs/info/69a2663d0da45516f16baca0?utm_campaign=1051&utm_source=git)** | US-MA-Waltham | On Site | Feb 27 |
-| ↳ | **[AI-Based Customer Segmentation Intern](https://jobright.ai/jobs/info/69a27114b600907a9628c265?utm_campaign=1051&utm_source=git)** | Waltham, MA, US | On Site | Feb 27 |
-| **[ISACA](http://www.isaca.org)** | **[Intern, Corporate Development & Strategy](https://jobright.ai/jobs/info/69901c860cc8ea15f1dac39e?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 27 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships (AEG Presents)](https://jobright.ai/jobs/info/69a253d80da45516f16b9850?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Events Intern – Sales Operations](https://jobright.ai/jobs/info/69a22ef80da45516f16b7762?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 27 |
-| **[OmniOn Power](https://omnionpower.com)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/698a524c0f6f7e7a2ce567e4?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Feb 27 |
-| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Sales Planning](https://jobright.ai/jobs/info/69a240310da45516f16b878d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 27 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69a2205eb600907a96286c9a?utm_campaign=1051&utm_source=git)** | Inverness, Nova Scotia, Canada | On Site | Feb 27 |
-| **[Razer Inc.](https://www.razer.com)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/69a21fe6359fe034b1cd5d28?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Feb 27 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - Texarkana](https://jobright.ai/jobs/info/69a21b720da45516f16b643d?utm_campaign=1051&utm_source=git)** | Bossier City, LA | On Site | Feb 27 |
-| **[Coleman Research](http://www.colemanrg.com)** | **[Sales Intern (Raleigh/Summer 2026)](https://jobright.ai/jobs/info/69a23cfe0da45516f16b848b?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Feb 27 |
-| **[Red Hat](http://www.redhat.com)** | **[Partner Engagement Experience Intern](https://jobright.ai/jobs/info/69a24ffe359fe034b1cd8a7d?utm_campaign=1051&utm_source=git)** | Raleigh | On Site | Feb 27 |
-| **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: Sales - 2026**](https://jobright.ai/jobs/info/69a23737359fe034b1cd73a9?utm_campaign=1051&utm_source=git)** | Indianapolis, Indiana | On Site | Feb 27 |
-| **[ISACA](http://www.isaca.org)** | **[Intern, Process Improvement & Operations](https://jobright.ai/jobs/info/699010570f6f7e7a2cec623c?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 27 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - Tampa](https://jobright.ai/jobs/info/69a217540da45516f16b607b?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Feb 27 |
-| **[Wedgewood Homes](http://www.wedgewoodhomes.com)** | **[Real Estate Acquisitions Intern (Summer 2026)](https://jobright.ai/jobs/info/69a279600da45516f16bca03?utm_campaign=1051&utm_source=git)** | Redondo Beach, CA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
