@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Repligen Corporation](http://www.repligen.com)** | **[AI-Based Customer Segmentation Intern](https://jobright.ai/jobs/info/69a29e8a0da45516f16bf7be?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Feb 27 |
+| **[Meridien Labs](meridienlabs.us)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a29deb0da45516f16bf6ce?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Feb 27 |
+| **[Kidder Mathews](https://kidder.com/)** | **[Broker Staff - Intern](https://jobright.ai/jobs/info/69a29d97b600907a9628faf8?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
+| **[arrivia](https://www.arrivia.com/)** | **[Customer Loyalty and Analytics Intern](https://jobright.ai/jobs/info/69a29d160da45516f16bf5a3?utm_campaign=1051&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Feb 27 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/69a29c9cb600907a9628f926?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Feb 27 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - New Mexico](https://jobright.ai/jobs/info/69a2988b0da45516f16bee73?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Feb 27 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a29631359fe034b1cde053?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | **[Gesa Credit Union](https://www.gesa.com)** | **[Student Relationship Officer](https://jobright.ai/jobs/info/69a295440da45516f16beaab?utm_campaign=1051&utm_source=git)** | Pullman, WA | On Site | Feb 27 |
@@ -84,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Hornblower Group](https://www.hornblowercorp.com/)** | **[Sales and Event Internship 2026 - City Cruises Chicago](https://jobright.ai/jobs/info/69a23823359fe034b1cd7491?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a25c41b600907a9628a402?utm_campaign=1051&utm_source=git)** | Surprise, AZ | On Site | Feb 27 |
 | **[Sol Systems](http://www.solsystems.com/)** | **[Business Development and M&A Summer Intern](https://jobright.ai/jobs/info/69a2556cb600907a96289ddb?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
-| **[Barnes](https://www.onebarnes.com)** | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a259a0b600907a9628a1c2?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 27 |
-| ↳ | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a26de60da45516f16bb653?utm_campaign=1051&utm_source=git)** | Warren, Michigan, United States | On Site | Feb 27 |
+| **[Barnes](https://www.onebarnes.com)** | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a26de60da45516f16bb653?utm_campaign=1051&utm_source=git)** | Warren, Michigan, United States | On Site | Feb 27 |
+| ↳ | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a259a0b600907a9628a1c2?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 27 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[AI-Based Customer Segmentation Intern](https://jobright.ai/jobs/info/69a27114b600907a9628c265?utm_campaign=1051&utm_source=git)** | Waltham, MA, US | On Site | Feb 27 |
 | ↳ | **[AI-Based Customer Segmentation Intern](https://jobright.ai/jobs/info/69a2663d0da45516f16baca0?utm_campaign=1051&utm_source=git)** | US-MA-Waltham | On Site | Feb 27 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Corporate Development & Strategy](https://jobright.ai/jobs/info/69901c860cc8ea15f1dac39e?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 27 |
@@ -113,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Inogen](https://provider.inogen.com/)** | **[DTP Sales Support Intern](https://jobright.ai/jobs/info/69a230ac359fe034b1cd6e5d?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Feb 27 |
 | **[Dometic](https://www.dometic.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69a200aab600907a96284e0d?utm_campaign=1051&utm_source=git)** | Plymouth, MA | Hybrid | Feb 27 |
 | **[Transtar Insurance Brokers, Inc.](https://www.transtarinsurance.com/)** | **[Transtar - Internship](https://jobright.ai/jobs/info/69a228c5b600907a9628757c?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 27 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Risk Management & Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/69a22733359fe034b1cd64b9?utm_campaign=1051&utm_source=git)** | Vero Beach, FL, USA | Hybrid | Feb 27 |
-| ↳ | **[Risk Management & Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/69a234a1b600907a962880e2?utm_campaign=1051&utm_source=git)** | Tampa, FL, USA | Hybrid | Feb 27 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Risk Management & Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/69a234a1b600907a962880e2?utm_campaign=1051&utm_source=git)** | Tampa, FL, USA | Hybrid | Feb 27 |
+| ↳ | **[Risk Management & Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/69a22733359fe034b1cd64b9?utm_campaign=1051&utm_source=git)** | Vero Beach, FL, USA | Hybrid | Feb 27 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Fleet Management/Global Sales](https://jobright.ai/jobs/info/691ab52415b415636718a080?utm_campaign=1051&utm_source=git)** | Kirkland, WA | On Site | Feb 27 |
 | **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Business Development and Strategy Intern](https://jobright.ai/jobs/info/69a22376359fe034b1cd60e1?utm_campaign=1051&utm_source=git)** | Princeton, New Jersey, United States | Hybrid | Feb 27 |
 | **[Barnes Aerospace](https://www.barnesaero.com/)** | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a221c60da45516f16b6a89?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Feb 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fallon](http://www.fallon.com)** | **[Fallon - Account Leadership Intern - Summer 2026](https://jobright.ai/jobs/info/6985b9118da7a6120460670a?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 27 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Banker Intern  (Augusta, GA)](https://jobright.ai/jobs/info/698510260f6f7e7a2cdf8b1d?utm_campaign=1051&utm_source=git)** | Augusta, GA | On Site | Feb 27 |
 | **[Regina Andrew Detroit](https://www.reginaandrew.com)** | **[High Point Market Internship](https://jobright.ai/jobs/info/69a20cad359fe034b1cd4b66?utm_campaign=1051&utm_source=git)** | High Point, NC | On Site | Feb 27 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Sales Engineering (Summer 2026)](https://jobright.ai/jobs/info/698643138ca8121a3a687401?utm_campaign=1051&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 27 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - San Diego](https://jobright.ai/jobs/info/68f30aaf76a51a4307bca4ec?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Feb 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/696922481703f05405aafc98?utm_campaign=1051&utm_source=git)** | Douglasville, GA | On Site | Feb 27 |
-| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS SALES INTERN (SPRING '2026) -  GRAY MEDIA (WLBT)](https://jobright.ai/jobs/info/69a207680da45516f16b5058?utm_campaign=1051&utm_source=git)** | Jackson, Mississippi, United States | On Site | Feb 27 |
-| **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Development - Hybrid (Boca Raton, FL)](https://jobright.ai/jobs/info/69a202b0359fe034b1cd4174?utm_campaign=1051&utm_source=git)** | Boca Raton, Florida, United States | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
