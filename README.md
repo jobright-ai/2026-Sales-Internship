@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - New Mexico](https://jobright.ai/jobs/info/69a2988b0da45516f16bee73?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Feb 27 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a29631359fe034b1cde053?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
+| **[Gesa Credit Union](https://www.gesa.com)** | **[Student Relationship Officer](https://jobright.ai/jobs/info/69a295440da45516f16beaab?utm_campaign=1051&utm_source=git)** | Pullman, WA | On Site | Feb 27 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Business Development Intern - Sales](https://jobright.ai/jobs/info/69a29494b600907a9628ee9d?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Feb 27 |
+| **[Twitch](https://www.twitch.tv)** | **[Undergrad Technical Business Development Intern](https://jobright.ai/jobs/info/69991d59ce78e77b4fddc3ed?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Feb 27 |
+| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Sales Representative- Internship](https://jobright.ai/jobs/info/69a28fe6359fe034b1cddbbf?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 27 |
+| **[Brixenta](brixenta.net)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a299dcb600907a9628f4b2?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Remote | Feb 27 |
 | **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Development - Hybrid (Boca Raton, FL)](https://jobright.ai/jobs/info/69a27661359fe034b1cdbc04?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 27 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/69a2701a0da45516f16bb96d?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | Feb 27 |
 | **[Almo Corporation](http://www.almo.com)** | **[Pro AV - Hospitality Intern](https://jobright.ai/jobs/info/69a26863359fe034b1cda7a0?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Feb 27 |
@@ -134,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933cfea764507023d1b98ea?utm_campaign=1051&utm_source=git)** | Gulfport, MS | On Site | Feb 27 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933ba3fa0dde7020e2f1467?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | On Site | Feb 27 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933f34ba0dde7020e2f32c4?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Feb 27 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - New Mexico](https://jobright.ai/jobs/info/69a2905a0da45516f16be5fb?utm_campaign=1051&utm_source=git)** | Albuquerque, NM, United States | On Site | Feb 27 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Chicago](https://jobright.ai/jobs/info/68c1ee0a63b706703e110438?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aftermarket Products and Services, Pricing Management Specialist (Summer 2026)](https://jobright.ai/jobs/info/6984ece78da7a612045f36f9?utm_campaign=1051&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 27 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Service Sales Intern](https://jobright.ai/jobs/info/69433af494730b739876425d?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Feb 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/696922481703f05405aafc98?utm_campaign=1051&utm_source=git)** | Douglasville, GA | On Site | Feb 27 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA FUTURE FOCUS SALES INTERN (SPRING '2026) -  GRAY MEDIA (WLBT)](https://jobright.ai/jobs/info/69a207680da45516f16b5058?utm_campaign=1051&utm_source=git)** | Jackson, Mississippi, United States | On Site | Feb 27 |
 | **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Development - Hybrid (Boca Raton, FL)](https://jobright.ai/jobs/info/69a202b0359fe034b1cd4174?utm_campaign=1051&utm_source=git)** | Boca Raton, Florida, United States | Hybrid | Feb 27 |
-| **[MaintainX](https://www.getmaintainx.com)** | **[Lead Development Representative (Internship)](https://jobright.ai/jobs/info/69a1fbd3359fe034b1cd3afb?utm_campaign=1051&utm_source=git)** | Raleigh, North Carolina | Hybrid | Feb 27 |
-| **[Norfolk & Dedham Insurance](http://www.NDGroup.com)** | **[Student Intern- Commercial Lines Underwriting (Dedham)](https://jobright.ai/jobs/info/69a202a1b600907a96284ff8?utm_campaign=1051&utm_source=git)** | Dedham, Massachusetts, United States | On Site | Feb 27 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Banker Intern - Northern Piedmont Area](https://jobright.ai/jobs/info/69850dc88da7a612045f5b02?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Feb 27 |
-| **[Norfolk & Dedham Insurance](http://www.NDGroup.com)** | **[Student Intern- Commercial Lines Underwriting (Dedham)](https://jobright.ai/jobs/info/69a1fbacb600907a962849c1?utm_campaign=1051&utm_source=git)** | Dedham, MA | On Site | Feb 27 |
-| **[Chloé](http://www.chloe.com)** | **[Retail Experience Intern](https://jobright.ai/jobs/info/69a1dd4c0da45516f16b3020?utm_campaign=1051&utm_source=git)** | NEW YORK | On Site | Feb 27 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern – Business Insurance](https://jobright.ai/jobs/info/68c22f1633864f172f9bdafd?utm_campaign=1051&utm_source=git)** | Brookfield, WI | Hybrid | Feb 27 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Technical Sales Intern - HVAC Controls, New York City](https://jobright.ai/jobs/info/69a1da1d0da45516f16b2dfc?utm_campaign=1051&utm_source=git)** | New York-New York-United States of America | On Site | Feb 27 |
-| **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Sales Enablement & Training Intern](https://jobright.ai/jobs/info/6986281d8da7a6120460d836?utm_campaign=1051&utm_source=git)** | Eagan, MN | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
