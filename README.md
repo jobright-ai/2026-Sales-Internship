@@ -57,9 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aa4c3db26b618950dccc5?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Feb 28 |
+| **[Detroit Lions](http://www.detroitlions.com)** | **[Premium Service Intern](https://jobright.ai/jobs/info/697cd34f137a05102565c5a4?utm_campaign=1051&utm_source=git)** | Detroit, MI 48226 | On Site | Feb 28 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aa6905fc8624185399e9b?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/697d8172ce48107c0541b2d7?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Feb 28 |
+| **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Central TX](https://jobright.ai/jobs/info/69339c8ca0dde7020e2ef9d3?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Feb 28 |
+| **[CRH](http://crh.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a2e3fcb600907a96294688?utm_campaign=1051&utm_source=git)** | Newington, CT | On Site | Feb 28 |
+| ↳ | **[Retail Summer Internship](https://jobright.ai/jobs/info/69a2e39e0da45516f16c41f3?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Feb 28 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Sunderland, MA](https://jobright.ai/jobs/info/6932fcc2f131d96e4845f04b?utm_campaign=1051&utm_source=git)** | Sunderland, MA | On Site | Feb 28 |
+| **[ADP](http://www.adp.com)** | **[Summer Sales Internship (Dec '26/May '27 Grads)](https://jobright.ai/jobs/info/699ddf8981476f6176b6bff9?utm_campaign=1051&utm_source=git)** | Rochester, NY | Remote | Feb 28 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Ann Arbor, MI](https://jobright.ai/jobs/info/6932f323764507023d1b1423?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Feb 28 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aae165fc862418539af8a?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 28 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Muncie, IN](https://jobright.ai/jobs/info/693302bbf131d96e4845f2b5?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Feb 28 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/698412b60f6f7e7a2cde37d6?utm_campaign=1051&utm_source=git)** | Hoffman Estates, IL | On Site | Feb 28 |
+| **[ADP](http://www.adp.com)** | **[Summer Sales Internship (Dec '26/May '27 Grads)](https://jobright.ai/jobs/info/699e903bce78e77b4fe3f9d8?utm_campaign=1051&utm_source=git)** | Buffalo, NY | Remote | Feb 28 |
 | **[Velera](https://www.velera.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698669e80f6f7e7a2ce15da1?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern (Summer 2026)](https://jobright.ai/jobs/info/695ff6e67ebc25398eb5e28d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Technical Sales Intern - Controls](https://jobright.ai/jobs/info/69a2cc6a0da45516f16c35cc?utm_campaign=1051&utm_source=git)** | Willowbrook, IL | On Site | Feb 28 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/696f137b82817106e9764412?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Feb 28 |
 | ↳ | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/698808c48ca8121a3a6a833a?utm_campaign=1051&utm_source=git)** | Edina, MN | On Site | Feb 28 |
 | ↳ | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69913ddc0f6f7e7a2ced7f47?utm_campaign=1051&utm_source=git)** | Peoria Heights, IL | On Site | Feb 28 |
@@ -112,7 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Wealthspire M&A Intern](https://jobright.ai/jobs/info/69a25fd1b600907a9628a973?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Feb 27 |
 | **[Giant Noise](http://giantnoise.com)** | **[Summer Intern - Business Development, Austin](https://jobright.ai/jobs/info/69a25f6f359fe034b1cd9968?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Feb 27 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a26e8eb600907a9628bea8?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 27 |
-| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69a24f4eb600907a962898ca?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 27 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a24f4eb600907a962898ca?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Feb 27 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/69a27751359fe034b1cdbdc8?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Feb 27 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a24cbcb600907a962896a5?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Feb 27 |
 | **[EG America](https://www.eg-america.com)** | **[Digital Loyalty & Delivery Intern](https://jobright.ai/jobs/info/69a24b3c359fe034b1cd8664?utm_campaign=1051&utm_source=git)** | Westborough, MA | On Site | Feb 27 |
@@ -127,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Sol Systems](http://www.solsystems.com/)** | **[Business Development and M&A Summer Intern](https://jobright.ai/jobs/info/69a2556cb600907a96289ddb?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
 | **[Barnes](https://www.onebarnes.com)** | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a26de60da45516f16bb653?utm_campaign=1051&utm_source=git)** | Warren, Michigan, United States | On Site | Feb 27 |
 | ↳ | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a259a0b600907a9628a1c2?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 27 |
-| **[Repligen Corporation](http://www.repligen.com)** | **[AI-Based Customer Segmentation Intern](https://jobright.ai/jobs/info/69a27114b600907a9628c265?utm_campaign=1051&utm_source=git)** | Waltham, MA, US | On Site | Feb 27 |
-| ↳ | **[AI-Based Customer Segmentation Intern](https://jobright.ai/jobs/info/69a2663d0da45516f16baca0?utm_campaign=1051&utm_source=git)** | US-MA-Waltham | On Site | Feb 27 |
+| **[Repligen Corporation](http://www.repligen.com)** | **[AI-Based Customer Segmentation Intern](https://jobright.ai/jobs/info/69a2663d0da45516f16baca0?utm_campaign=1051&utm_source=git)** | US-MA-Waltham | On Site | Feb 27 |
+| ↳ | **[AI-Based Customer Segmentation Intern](https://jobright.ai/jobs/info/69a27114b600907a9628c265?utm_campaign=1051&utm_source=git)** | Waltham, MA, US | On Site | Feb 27 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Corporate Development & Strategy](https://jobright.ai/jobs/info/69901c860cc8ea15f1dac39e?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 27 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships (AEG Presents)](https://jobright.ai/jobs/info/69a253d80da45516f16b9850?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Events Intern – Sales Operations](https://jobright.ai/jobs/info/69a22ef80da45516f16b7762?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Feb 27 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ISACA](http://www.isaca.org)** | **[Intern, Process Improvement & Operations](https://jobright.ai/jobs/info/699010570f6f7e7a2cec623c?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 27 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - Tampa](https://jobright.ai/jobs/info/69a217540da45516f16b607b?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Feb 27 |
 | **[Wedgewood Homes](http://www.wedgewoodhomes.com)** | **[Real Estate Acquisitions Intern (Summer 2026)](https://jobright.ai/jobs/info/69a279600da45516f16bca03?utm_campaign=1051&utm_source=git)** | Redondo Beach, CA | On Site | Feb 27 |
-| **[DASNY (Dormitory Authority - State of New York )](https://www.dasny.org)** | **[Student Intern - External Relations & Business Development](https://jobright.ai/jobs/info/69a24474b600907a96288f33?utm_campaign=1051&utm_source=git)** | Albany, NY | On Site | Feb 27 |
-| **[Dal-Tile LLC](http://dal-tile.com)** | **[NEW RESIDENTIAL SALES INTERN](https://jobright.ai/jobs/info/69a267ceb600907a9628b49e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
-| **[Sol Systems](http://www.solsystems.com/)** | **[Business Development and M&A Summer Intern](https://jobright.ai/jobs/info/69a20f60b600907a96285d0e?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[NEW RESIDENTIAL SALES INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a209390da45516f16b5225?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - Orlando](https://jobright.ai/jobs/info/69a22733b600907a962873f4?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
-| **[Sol Systems](http://www.solsystems.com/)** | **[Client Relations Summer Intern](https://jobright.ai/jobs/info/69a20710b600907a96285479?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
-| **[Dempsey & Siders Insurance Agency](https://dempsey-siders.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69a23b230da45516f16b82df?utm_campaign=1051&utm_source=git)** | Blue Ash, OH | Hybrid | Feb 27 |
-| **[Inogen](https://provider.inogen.com/)** | **[DTP Sales Support Intern](https://jobright.ai/jobs/info/69a230ac359fe034b1cd6e5d?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Feb 27 |
-| **[Dometic](https://www.dometic.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69a200aab600907a96284e0d?utm_campaign=1051&utm_source=git)** | Plymouth, MA | Hybrid | Feb 27 |
-| **[Transtar Insurance Brokers, Inc.](https://www.transtarinsurance.com/)** | **[Transtar - Internship](https://jobright.ai/jobs/info/69a228c5b600907a9628757c?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 27 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Risk Management & Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/69a22733359fe034b1cd64b9?utm_campaign=1051&utm_source=git)** | Vero Beach, FL, USA | Hybrid | Feb 27 |
-| ↳ | **[Risk Management & Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/69a234a1b600907a962880e2?utm_campaign=1051&utm_source=git)** | Tampa, FL, USA | Hybrid | Feb 27 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Fleet Management/Global Sales](https://jobright.ai/jobs/info/691ab52415b415636718a080?utm_campaign=1051&utm_source=git)** | Kirkland, WA | On Site | Feb 27 |
-| **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Business Development and Strategy Intern](https://jobright.ai/jobs/info/69a22376359fe034b1cd60e1?utm_campaign=1051&utm_source=git)** | Princeton, New Jersey, United States | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
