@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GSD&M](http://www.gsdm.com)** | **[Account Leadership Intern](https://jobright.ai/jobs/info/696ebbeb350cf4380315a1a9?utm_campaign=1051&utm_source=git)** | Austin | Hybrid | Feb 28 |
+| **[LMC](https://www.lmc.net/)** | **[Intern - Purchasing](https://jobright.ai/jobs/info/69a38386359fe034b1ce8c5f?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Feb 28 |
+| ↳ | **[Intern - Purchasing](https://jobright.ai/jobs/info/69a37f190da45516f16c9493?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Feb 28 |
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: Sales - 2026**](https://jobright.ai/jobs/info/69a3548b0da45516f16c8ca6?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Feb 28 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Corporate Partnership Intern (Summer)](https://jobright.ai/jobs/info/69a34f5a0da45516f16c8b19?utm_campaign=1051&utm_source=git)** | Berea, OH | On Site | Feb 28 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk FT 6660](https://jobright.ai/jobs/info/69a34c6b359fe034b1ce7fd3?utm_campaign=1051&utm_source=git)** | Cape May, NJ | On Site | Feb 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[bioMérieux](https://www.biomerieux.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69866d040f6f7e7a2ce16431?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Feb 28 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/69867f658da7a61204614e14?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Feb 28 |
 | **[Crane Aerospace & Electronics](http://www.craneae.com)** | **[Sales & Customer Administration Internship - Summer 2026](https://jobright.ai/jobs/info/6969ae4a639b452fb57f9e66?utm_campaign=1051&utm_source=git)** | Burbank, CA | On Site | Feb 28 |
-| **[The E.W. Scripps Company](http://www.scripps.com)** | **[Sales Intern (SUMMER)](https://jobright.ai/jobs/info/698694b98da7a61204616b52?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Feb 28 |
-| **[HP](http://www.hp.com)** | **[Sustainable Impact Intern](https://jobright.ai/jobs/info/69a2c238b600907a96292fff?utm_campaign=1051&utm_source=git)** | Ontario, Canada | Hybrid | Feb 28 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/698604cc8da7a6120460b4d0?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
