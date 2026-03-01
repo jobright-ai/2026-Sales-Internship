@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kubby](https://www.kubby.io )** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69a4b0d2b600907a962a6dfb?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 01 |
+| **[UFC GYM](http://UFCGYM.com)** | **[Intern](https://jobright.ai/jobs/info/69a4a999359fe034b1cf5e75?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Mar 01 |
+| **[Meridien Labs](meridienlabs.us)** | **[Internship Business](https://jobright.ai/jobs/info/69a4a44f0da45516f16d66b2?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Mar 01 |
 | **[Southwestern Family of Companies](http://southwestern.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69a492850da45516f16d55b8?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Mar 01 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Summer  Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/69a48e39359fe034b1cf4854?utm_campaign=1051&utm_source=git)** | Little Rock, Arkansas | On Site | Mar 01 |
 | **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a484300da45516f16d4f76?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Mar 01 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/691d3a827481340785ed50da?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Mar 01 |
 | **[National Life Group](https://www.nationallife.com)** | **[Advanced Sales Internship - Summer 2026](https://jobright.ai/jobs/info/696bf366350cf43803132661?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Mar 01 |
-| **[RUYEE INTERNATIONAL LIMITED](https://www.linkedin.com/company/6973470)** | **[Intern](https://jobright.ai/jobs/info/69a47bb1359fe034b1cf3e9e?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 01 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Chicago, Summer 2026](https://jobright.ai/jobs/info/68df1a616be63b6ec996bc2d?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 01 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship, Store Management - Garden City, NY](https://jobright.ai/jobs/info/69a490300da45516f16d5483?utm_campaign=1051&utm_source=git)** | Garden City, NY | On Site | Mar 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8aa8a125e75c422abdad?utm_campaign=1051&utm_source=git)** | Anniston, AL | On Site | Mar 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Banker Intern (Columbia, SC - Forest Lake)](https://jobright.ai/jobs/info/698667380f6f7e7a2ce1584a?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Feb 28 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Michigan) - Summer '26](https://jobright.ai/jobs/info/68c2893903b99f6b3429507d?utm_campaign=1051&utm_source=git)** | Edmore, MI | On Site | Feb 28 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Demand Planning Intern - Supply Chain](https://jobright.ai/jobs/info/69913d680cc8ea15f1dbcdd6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Feb 28 |
-| **[Velastra](velastra.us)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a331aa0da45516f16c77df?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Feb 28 |
-| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[New Business Associate](https://jobright.ai/jobs/info/69a32d51359fe034b1ce6ca7?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
