@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/69a401400da45516f16cfe20?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Mar 01 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Sacramento](https://jobright.ai/jobs/info/69a3e7570da45516f16cd7fb?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Feb 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Cleveland](https://jobright.ai/jobs/info/69a3e74e359fe034b1cecdd8?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Feb 28 |
 | ↳ | **[Client Success Intern](https://jobright.ai/jobs/info/69a3e6f60da45516f16cd75b?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Feb 28 |
@@ -123,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Driscoll's](http://www.driscolls.com)** | **[Multi-Channel Sales Intern](https://jobright.ai/jobs/info/697d4ddd3f57a33569671a59?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Feb 28 |
 | **[altafiber](https://www.altafiber.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/698fa14e0cc8ea15f1da3bb2?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Feb 28 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- California](https://jobright.ai/jobs/info/693241aff131d96e4845a362?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 28 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Los Angeles](https://jobright.ai/jobs/info/68c1f08233864f172f9bbcc9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
 | **[arrivia](https://www.arrivia.com/)** | **[Customer Loyalty and Analytics Intern](https://jobright.ai/jobs/info/69a2fc56b600907a96296187?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Feb 28 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, Pricing and Contracts](https://jobright.ai/jobs/info/69a2fc02359fe034b1ce53b5?utm_campaign=1051&utm_source=git)** | Hazelwood, MO | On Site | Feb 28 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2026)](https://jobright.ai/jobs/info/68df07f15ab4977c2e94ca94?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 28 |
