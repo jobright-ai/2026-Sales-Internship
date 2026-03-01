@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Spokane](https://jobright.ai/jobs/info/6933ccb1a0dde7020e2f1c8c?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Mar 01 |
+| **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Chicago, Summer 2026](https://jobright.ai/jobs/info/68df1a616be63b6ec996bc2d?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8aa8a125e75c422abdad?utm_campaign=1051&utm_source=git)** | Anniston, AL | On Site | Mar 01 |
+| **[TradePronto](https://www.tradepronto.com)** | **[Intern Unpaid SMB Sales – U.S. Market (Food Suppliers)](https://jobright.ai/jobs/info/69a46dbeb600907a962a4809?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 01 |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69a46d8bb600907a962a47f2?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Mar 01 |
+| **[Rehlko](https://www.rehlko.com/)** | **[Purchasing Intern - Summer 2026 (](https://jobright.ai/jobs/info/69a46d4fb600907a962a47c3?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Mar 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8bde44d32141e0bf7eda?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Mar 01 |
+| ↳ | **[Summer 2026 Management Trainee Sales Internship - Pullman](https://jobright.ai/jobs/info/68ddd9de09bda65a4b6247a4?utm_campaign=1051&utm_source=git)** | Pullman, WA | On Site | Mar 01 |
+| ↳ | **[Summer 2026 Management Trainee Sales Internship - Burien](https://jobright.ai/jobs/info/68ddda1244d32141e0bfb325?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Mar 01 |
+| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a5f5f131d96e48465769?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Mar 01 |
+| ↳ | **[Summer 2026 Management Trainee Sales Internship - Spokane](https://jobright.ai/jobs/info/6933ccb1a0dde7020e2f1c8c?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Mar 01 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Olympia](https://jobright.ai/jobs/info/693402c4764507023d1bb57e?utm_campaign=1051&utm_source=git)** | Lacey, WA | On Site | Mar 01 |
 | **[Corii Burns](https://www.coriiburns.com)** | **[Intern Partnership Lead: PFW](https://jobright.ai/jobs/info/69a46a25359fe034b1cf39d6?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Mar 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a467320da45516f16d4420?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Mar 01 |
@@ -69,7 +78,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Private Equity Intern](https://jobright.ai/jobs/info/69a456ed0da45516f16d3dbb?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/69a456d00da45516f16d3db5?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Mar 01 |
 | **[Ancient City Capital](https://www.ancientcitycapital.com)** | **[Summer Intern- Real Estate Asset Management](https://jobright.ai/jobs/info/69a456b6359fe034b1cf32e6?utm_campaign=1051&utm_source=git)** | St Augustine, FL | On Site | Mar 01 |
-| **[Veltrana Group](veltranagroup.us)** | **[Risk Management - Sales Internship](https://jobright.ai/jobs/info/69a456640da45516f16d3d9c?utm_campaign=1051&utm_source=git)** | Warrensburg, MO | Remote | Mar 01 |
 | **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69a452ce359fe034b1cf3243?utm_campaign=1051&utm_source=git)** | Midland, TX | On Site | Mar 01 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Intern](https://jobright.ai/jobs/info/6917d3c2bcdbf3560c9cbbce?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Mar 01 |
 | **[Velastra](velastra.us)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a44bcf359fe034b1cf2e37?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Mar 01 |
@@ -143,18 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[New Business Associate](https://jobright.ai/jobs/info/69a32d51359fe034b1ce6ca7?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Feb 28 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69782e5688e2b47213bc3479?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Feb 28 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (California) - Summer '26](https://jobright.ai/jobs/info/696b192c5fc86241853a7d6b?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Feb 28 |
-| **[A Tiger Cub](https://atigercub.com)** | **[Asian Community Builder](https://jobright.ai/jobs/info/69a31d670da45516f16c6c63?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 28 |
 | **[PEAC Solutions](http://www.peacsolutions.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f1ef7cf462172a5a7de223?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/69873b5d8da7a61204625207?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Feb 28 |
 | **[Federal Home Loan Bank of New York](http://fhlbny.com)** | **[Intern – Member Business](https://jobright.ai/jobs/info/698a4d2547434001cc688159?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/696ab271350cf4380311b3cd?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | ↳ | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/699fe10681476f6176b9a037?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | Feb 28 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/698677530f6f7e7a2ce171fd?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
-| **[Magna International](http://www.magna.com/)** | **[NA Sales Intern - Summer 2026](https://jobright.ai/jobs/info/696ab9285fc862418539ca4e?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | Feb 28 |
-| **[Wella Company](https://www.wellacompany.com/)** | **[Intern, RH Sales & Marketing](https://jobright.ai/jobs/info/698671778da7a61204613b28?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 28 |
-| **[Magna International](http://www.magna.com/)** | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/699fedfa81476f6176b9c538?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Feb 28 |
-| **[Amazon](https://amazon.com)** | **[2026 Account Representative Intern, CAN, PSME Canada Sales](https://jobright.ai/jobs/info/698721258da7a61204623717?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 28 |
-| **[Driscoll's](http://www.driscolls.com)** | **[Multi-Channel Sales Intern](https://jobright.ai/jobs/info/697d4ddd3f57a33569671a59?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Feb 28 |
-| **[altafiber](https://www.altafiber.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/698fa14e0cc8ea15f1da3bb2?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Feb 28 |
-| **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- California](https://jobright.ai/jobs/info/693241aff131d96e4845a362?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
