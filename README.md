@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Jacksonville](https://jobright.ai/jobs/info/69a3e6e80da45516f16cd743?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
+| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Sacramento](https://jobright.ai/jobs/info/69a3e7570da45516f16cd7fb?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Feb 28 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Cleveland](https://jobright.ai/jobs/info/69a3e74e359fe034b1cecdd8?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Feb 28 |
+| ↳ | **[Client Success Intern](https://jobright.ai/jobs/info/69a3e6f60da45516f16cd75b?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Feb 28 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Jacksonville](https://jobright.ai/jobs/info/69a3e6e80da45516f16cd743?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - South Jersey](https://jobright.ai/jobs/info/69a3e6cc359fe034b1cecd1c?utm_campaign=1051&utm_source=git)** | Mt. Laurel, NJ | On Site | Feb 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Minneapolis](https://jobright.ai/jobs/info/69a3e6c4359fe034b1cecd12?utm_campaign=1051&utm_source=git)** | Edina, MN | On Site | Feb 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Milwaukee](https://jobright.ai/jobs/info/69a3e68f0da45516f16cd6c6?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 28 |
@@ -87,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[LMC](https://www.lmc.net/)** | **[Intern - Purchasing](https://jobright.ai/jobs/info/69a38386359fe034b1ce8c5f?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Feb 28 |
 | ↳ | **[Intern - Purchasing](https://jobright.ai/jobs/info/69a37f190da45516f16c9493?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Feb 28 |
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: Sales - 2026**](https://jobright.ai/jobs/info/69a3548b0da45516f16c8ca6?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Feb 28 |
+| **[Propio Language Services](http://propio-ls.com)** | **[Client Success Intern](https://jobright.ai/jobs/info/69a3f094359fe034b1cedd89?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Feb 28 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Corporate Partnership Intern (Summer)](https://jobright.ai/jobs/info/69a34f5a0da45516f16c8b19?utm_campaign=1051&utm_source=git)** | Berea, OH | On Site | Feb 28 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk FT 6660](https://jobright.ai/jobs/info/69a34c6b359fe034b1ce7fd3?utm_campaign=1051&utm_source=git)** | Cape May, NJ | On Site | Feb 28 |
 | ↳ | **[Sales Clerk PT 6662](https://jobright.ai/jobs/info/69a34bf80da45516f16c88ee?utm_campaign=1051&utm_source=git)** | Alameda, CA | On Site | Feb 28 |
@@ -105,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (California) - Summer '26](https://jobright.ai/jobs/info/696b192c5fc86241853a7d6b?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Feb 28 |
 | **[A Tiger Cub](https://atigercub.com)** | **[Asian Community Builder](https://jobright.ai/jobs/info/69a31d670da45516f16c6c63?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Client Services & Sales Intern](https://jobright.ai/jobs/info/69a31c30359fe034b1ce6355?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Feb 28 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Sacramento](https://jobright.ai/jobs/info/68c1eb544d652f044775ba49?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Feb 28 |
 | **[PEAC Solutions](http://www.peacsolutions.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f1ef7cf462172a5a7de223?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
 | **[Arvento A](arventoa.com)** | **[Business Development - Intern Sales](https://jobright.ai/jobs/info/69a31898359fe034b1ce61bd?utm_campaign=1051&utm_source=git)** | Des Moines, IA | Remote | Feb 28 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/69873b5d8da7a61204625207?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Feb 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ADP](http://www.adp.com)** | **[Summer Sales Internship (Dec '26/May '27 Grads)](https://jobright.ai/jobs/info/699e903bce78e77b4fe3f9d8?utm_campaign=1051&utm_source=git)** | Buffalo, NY | Remote | Feb 28 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Associate Business Intern](https://jobright.ai/jobs/info/69a2f192b600907a962951f6?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 28 |
 | **[Velera](https://www.velera.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698669e80f6f7e7a2ce15da1?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 28 |
-| **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern (Summer 2026)](https://jobright.ai/jobs/info/695ff6e67ebc25398eb5e28d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/696f137b82817106e9764412?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Feb 28 |
-| ↳ | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/698808c48ca8121a3a6a833a?utm_campaign=1051&utm_source=git)** | Edina, MN | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
