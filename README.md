@@ -93,8 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (California) - Summer '26](https://jobright.ai/jobs/info/696b192c5fc86241853a7d6b?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Feb 28 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Texas](https://jobright.ai/jobs/info/68c1ee4963b706703e110470?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Feb 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - St. Louis](https://jobright.ai/jobs/info/68c1f1a663b706703e1108b9?utm_campaign=1051&utm_source=git)** | Clayton, MO | On Site | Feb 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Ohio](https://jobright.ai/jobs/info/68c1edf84d652f044775bca1?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Feb 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - North Carolina](https://jobright.ai/jobs/info/68c1ee394d652f044775bcdb?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 28 |
 | **[A Tiger Cub](https://atigercub.com)** | **[Asian Community Builder](https://jobright.ai/jobs/info/69a31d670da45516f16c6c63?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Client Services & Sales Intern](https://jobright.ai/jobs/info/69a31c30359fe034b1ce6355?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Feb 28 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Miami](https://jobright.ai/jobs/info/68c1edb363b706703e1103d7?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Feb 28 |
@@ -113,9 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Wella Company](https://www.wellacompany.com/)** | **[Intern, RH Sales & Marketing](https://jobright.ai/jobs/info/698671778da7a61204613b28?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/699fedfa81476f6176b9c538?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Feb 28 |
 | **[Amazon](https://amazon.com)** | **[2026 Account Representative Intern, CAN, PSME Canada Sales](https://jobright.ai/jobs/info/698721258da7a61204623717?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 28 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - New Orleans](https://jobright.ai/jobs/info/68c1ec044d652f044775baee?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Feb 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Milwaukee](https://jobright.ai/jobs/info/68c1ed894d652f044775bc2c?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Portland](https://jobright.ai/jobs/info/68c1ee1c33864f172f9bba56?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Feb 28 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Multi-Channel Sales Intern](https://jobright.ai/jobs/info/697d4ddd3f57a33569671a59?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Feb 28 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/68c1efd163b706703e110630?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 28 |
 | **[altafiber](https://www.altafiber.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/698fa14e0cc8ea15f1da3bb2?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Feb 28 |
@@ -157,4 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Velera](https://www.velera.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698669e80f6f7e7a2ce15da1?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern (Summer 2026)](https://jobright.ai/jobs/info/695ff6e67ebc25398eb5e28d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/696f137b82817106e9764412?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Feb 28 |
+| ↳ | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/698808c48ca8121a3a6a833a?utm_campaign=1051&utm_source=git)** | Edina, MN | On Site | Feb 28 |
+| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/69867b820f6f7e7a2ce178ae?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Feb 28 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69913ddc0f6f7e7a2ced7f47?utm_campaign=1051&utm_source=git)** | Peoria Heights, IL | On Site | Feb 28 |
+| **[Taylor Morrison](http://www.taylormorrison.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696ac8dc350cf4380311db68?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/698046b2abff4c399a9f081e?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
