@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Technical Sales Intern - Services](https://jobright.ai/jobs/info/69a42418359fe034b1cf1867?utm_campaign=1051&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Mar 01 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Minneapolis, MN](https://jobright.ai/jobs/info/6932f17a764507023d1b1376?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Mar 01 |
+| **[uMaster Global](https://www.umaster.ca/home)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a420fb359fe034b1cf14bd?utm_campaign=1051&utm_source=git)** | Mobile, AL | Remote | Mar 01 |
+| **[Mercadien](https://www.mercadien.com/)** | **[Lottery Internship](https://jobright.ai/jobs/info/69a419ca359fe034b1cf12c4?utm_campaign=1051&utm_source=git)** | Hamilton, NJ | On Site | Mar 01 |
+| **[Orvanta](joinorvanta.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a416a40da45516f16d1d65?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Mar 01 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Texas - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69913d860f6f7e7a2ced7dcd?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Mar 01 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/69a401400da45516f16cfe20?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Mar 01 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Sacramento](https://jobright.ai/jobs/info/69a3e7570da45516f16cd7fb?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Feb 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Cleveland](https://jobright.ai/jobs/info/69a3e74e359fe034b1cecdd8?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Feb 28 |
@@ -91,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[LMC](https://www.lmc.net/)** | **[Intern - Purchasing](https://jobright.ai/jobs/info/69a38386359fe034b1ce8c5f?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Feb 28 |
 | ↳ | **[Intern - Purchasing](https://jobright.ai/jobs/info/69a37f190da45516f16c9493?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Feb 28 |
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: Sales - 2026**](https://jobright.ai/jobs/info/69a3548b0da45516f16c8ca6?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Feb 28 |
-| **[Propio Language Services](http://propio-ls.com)** | **[Client Success Intern](https://jobright.ai/jobs/info/69a3f094359fe034b1cedd89?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Feb 28 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Corporate Partnership Intern (Summer)](https://jobright.ai/jobs/info/69a34f5a0da45516f16c8b19?utm_campaign=1051&utm_source=git)** | Berea, OH | On Site | Feb 28 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk FT 6660](https://jobright.ai/jobs/info/69a34c6b359fe034b1ce7fd3?utm_campaign=1051&utm_source=git)** | Cape May, NJ | On Site | Feb 28 |
 | ↳ | **[Sales Clerk PT 6662](https://jobright.ai/jobs/info/69a34bf80da45516f16c88ee?utm_campaign=1051&utm_source=git)** | Alameda, CA | On Site | Feb 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Sunderland, MA](https://jobright.ai/jobs/info/6932fcc2f131d96e4845f04b?utm_campaign=1051&utm_source=git)** | Sunderland, MA | On Site | Feb 28 |
 | **[ADP](http://www.adp.com)** | **[Summer Sales Internship (Dec '26/May '27 Grads)](https://jobright.ai/jobs/info/699ddf8981476f6176b6bff9?utm_campaign=1051&utm_source=git)** | Rochester, NY | Remote | Feb 28 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Ann Arbor, MI](https://jobright.ai/jobs/info/6932f323764507023d1b1423?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Feb 28 |
-| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aae165fc862418539af8a?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Feb 28 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Muncie, IN](https://jobright.ai/jobs/info/693302bbf131d96e4845f2b5?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Feb 28 |
-| **[ADP](http://www.adp.com)** | **[Summer Sales Internship (Dec '26/May '27 Grads)](https://jobright.ai/jobs/info/699e903bce78e77b4fe3f9d8?utm_campaign=1051&utm_source=git)** | Buffalo, NY | Remote | Feb 28 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Associate Business Intern](https://jobright.ai/jobs/info/69a2f192b600907a962951f6?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Feb 28 |
-| **[Velera](https://www.velera.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698669e80f6f7e7a2ce15da1?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
