@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GSD&M](http://www.gsdm.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/696ebaf85fc86241853da26f?utm_campaign=1051&utm_source=git)** | Austin | Hybrid | Feb 28 |
 | **[Goosehead Insurance](https://www.goosehead.com)** | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a397bc359fe034b1ce971c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 28 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a3956e359fe034b1ce93ee?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Feb 28 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a39528b600907a9629a11e?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Velera](https://www.velera.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698669e80f6f7e7a2ce15da1?utm_campaign=1051&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern (Summer 2026)](https://jobright.ai/jobs/info/695ff6e67ebc25398eb5e28d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/696f137b82817106e9764412?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Feb 28 |
-| ↳ | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/698808c48ca8121a3a6a833a?utm_campaign=1051&utm_source=git)** | Edina, MN | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
