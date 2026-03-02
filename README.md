@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Sales and Project Management (WRSTBND)](https://jobright.ai/jobs/info/69a57e65b600907a962b2e52?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Mar 02 |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Associate Business Intern](https://jobright.ai/jobs/info/69a57a3f359fe034b1d01a43?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Mar 02 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Tri-State](https://jobright.ai/jobs/info/6989556d47434001cc6774ba?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Mar 02 |
 | **[LumoraX](lumorax.us)** | **[Sales Internship](https://jobright.ai/jobs/info/69a56fe5359fe034b1d014cc?utm_campaign=1051&utm_source=git)** | San Antonio, TX | Remote | Mar 02 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Normal, IL](https://jobright.ai/jobs/info/6932fe20764507023d1b1807?utm_campaign=1051&utm_source=git)** | Normal, IL | On Site | Mar 02 |
 | ↳ | **[Student Housing Operations Intern - Starkville, MS](https://jobright.ai/jobs/info/6932fbad764507023d1b1717?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Mar 02 |
@@ -91,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/69a50192b600907a962aa581?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Mar 01 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69a4ff5b359fe034b1cf9615?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | Remote | Mar 01 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69a4feb20da45516f16da1c3?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | Remote | Mar 01 |
-| **[Meridien Labs](meridienlabs.us)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/69a4fd6d359fe034b1cf93c1?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Remote | Mar 01 |
+| **[Meridien Labs](meridienlabs.com)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/69a4fd6d359fe034b1cf93c1?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Remote | Mar 01 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69a4fd0a359fe034b1cf9348?utm_campaign=1051&utm_source=git)** | Gainesville, FL | Remote | Mar 01 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69a4f9db359fe034b1cf8ca9?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Mar 01 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69a4f9db0da45516f16d996c?utm_campaign=1051&utm_source=git)** | Orlando, FL | Remote | Mar 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship - San Antonio](https://jobright.ai/jobs/info/68c4ccd17279451d6a037c94?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Mar 01 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Baltimore, MD](https://jobright.ai/jobs/info/6932ff9da0dde7020e2e9d09?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Mar 01 |
 | ↳ | **[Student Housing Operations Intern - Laramie, WY](https://jobright.ai/jobs/info/6933095ea0dde7020e2ea0e7?utm_campaign=1051&utm_source=git)** | Laramie, WY | On Site | Mar 01 |
-| ↳ | **[Student Housing Operations Intern - Minneapolis, MN](https://jobright.ai/jobs/info/6932f17a764507023d1b1376?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Mar 01 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Texas - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69913d860f6f7e7a2ced7dcd?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Mar 01 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/69a56188b600907a962b16ad?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Hybrid | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
