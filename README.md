@@ -57,10 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LumoraX](lumorax.us)** | **[Sales Internship](https://jobright.ai/jobs/info/69a56fe5359fe034b1d014cc?utm_campaign=1051&utm_source=git)** | San Antonio, TX | Remote | Mar 02 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Normal, IL](https://jobright.ai/jobs/info/6932fe20764507023d1b1807?utm_campaign=1051&utm_source=git)** | Normal, IL | On Site | Mar 02 |
+| ↳ | **[Student Housing Operations Intern - Starkville, MS](https://jobright.ai/jobs/info/6932fbad764507023d1b1717?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Mar 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6976dfb53778585635106341?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 02 |
+| **[STO Building Group](https://stobuildinggroup.com)** | **[Intern - MV](https://jobright.ai/jobs/info/6917f03145fb6f5ead8a00ac?utm_campaign=1051&utm_source=git)** | Mountain View, CA | Hybrid | Mar 02 |
+| **[Kids Alive International](https://www.kidsalive.org/)** | **[Copy of Intern (Annual Giving), Alpharetta, GA](https://jobright.ai/jobs/info/69a55b6f0da45516f16e0504?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Mar 02 |
+| **[U.S. Green Building Council](http://www.usgbc.org)** | **[Account Management Intern (Remote in U.S.)](https://jobright.ai/jobs/info/69a55a14359fe034b1cff56b?utm_campaign=1051&utm_source=git)** | Remote, US | Remote | Mar 02 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69a554cc0da45516f16df5e0?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Mar 02 |
 | **[U.S. Green Building Council](http://www.usgbc.org)** | **[Account Management Intern (Remote in U.S.)](https://jobright.ai/jobs/info/69a5540c359fe034b1cfe449?utm_campaign=1051&utm_source=git)** | Washington, DC | Remote | Mar 02 |
+| **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/69a570160da45516f16e22e9?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Mar 02 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[College Intern, Sales](https://jobright.ai/jobs/info/69a53d8d0da45516f16dd863?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 01 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69a534b10da45516f16dcb38?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | Mar 01 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/69a52994b600907a962ac601?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Mar 01 |
 | **[telMAX Inc.](https://telmax.com)** | **[Business Service Analyst Co-op - Summer Term (4 Months)](https://jobright.ai/jobs/info/69a40aad359fe034b1cf0757?utm_campaign=1051&utm_source=git)** | Markham, Ontario, Canada | On Site | Mar 01 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698512a18da7a612045f65ec?utm_campaign=1051&utm_source=git)** | Caledon, ON | On Site | Mar 01 |
@@ -97,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Stratagem One](stratagemone.com)** | **[Business Associate Intern](https://jobright.ai/jobs/info/69a4e39e359fe034b1cf6f2f?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Mar 01 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/69a4ff13b600907a962aa332?utm_campaign=1051&utm_source=git)** | Wake Forest, NC | Remote | Mar 01 |
 | **[School Datebooks](https://schooldatebooks.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69a4d863b600907a962a7992?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Mar 01 |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Client Services & Sales Intern](https://jobright.ai/jobs/info/69a4cedb359fe034b1cf69ba?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Mar 01 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Ops. Associate Intern](https://jobright.ai/jobs/info/69a4ceb0b600907a962a7670?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Mar 01 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Process Improvement & Operations](https://jobright.ai/jobs/info/699010570f6f7e7a2cec623c?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 01 |
 | **[HP Marketing](https://www.hpros.com/)** | **[Field Sales Intern 2026 Summer](https://jobright.ai/jobs/info/69a4c6f7359fe034b1cf6786?utm_campaign=1051&utm_source=git)** | Melbourne, FL | On Site | Mar 01 |
@@ -150,11 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Housing Operations Intern - Laramie, WY](https://jobright.ai/jobs/info/6933095ea0dde7020e2ea0e7?utm_campaign=1051&utm_source=git)** | Laramie, WY | On Site | Mar 01 |
 | ↳ | **[Student Housing Operations Intern - Minneapolis, MN](https://jobright.ai/jobs/info/6932f17a764507023d1b1376?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Mar 01 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Texas - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69913d860f6f7e7a2ced7dcd?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Mar 01 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/69a555980da45516f16df946?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Mar 01 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/69a401400da45516f16cfe20?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Mar 01 |
-| ↳ | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/69a45e650da45516f16d3f88?utm_campaign=1051&utm_source=git)** | Rockford, Illinois | On Site | Mar 01 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69a5527f359fe034b1cfdf84?utm_campaign=1051&utm_source=git)** | Hoffman Estates, IL | On Site | Feb 28 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Technical Sales Intern - Controls](https://jobright.ai/jobs/info/69a553a50da45516f16df1fa?utm_campaign=1051&utm_source=git)** | Willowbrook, IL | On Site | Feb 28 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Sacramento](https://jobright.ai/jobs/info/69a3e7570da45516f16cd7fb?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Feb 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Cleveland](https://jobright.ai/jobs/info/69a3e74e359fe034b1cecdd8?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Feb 28 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/69a56188b600907a962b16ad?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Hybrid | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
