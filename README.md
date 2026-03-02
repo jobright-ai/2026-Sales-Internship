@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[School Datebooks](https://schooldatebooks.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69a4d863b600907a962a7992?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Mar 01 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Client Services & Sales Intern](https://jobright.ai/jobs/info/69a4cedb359fe034b1cf69ba?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Mar 01 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Ops. Associate Intern](https://jobright.ai/jobs/info/69a4ceb0b600907a962a7670?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Mar 01 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Process Improvement & Operations](https://jobright.ai/jobs/info/699010570f6f7e7a2cec623c?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 01 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[LMC](https://www.lmc.net/)** | **[Intern - Purchasing](https://jobright.ai/jobs/info/69a38bf60da45516f16c9624?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Feb 28 |
 | **[GSD&M](http://www.gsdm.com)** | **[Account Leadership Intern](https://jobright.ai/jobs/info/696ebbeb350cf4380315a1a9?utm_campaign=1051&utm_source=git)** | Austin | Hybrid | Feb 28 |
 | **[LMC](https://www.lmc.net/)** | **[Intern - Purchasing](https://jobright.ai/jobs/info/69a38386359fe034b1ce8c5f?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Feb 28 |
-| ↳ | **[Intern - Purchasing](https://jobright.ai/jobs/info/69a37f190da45516f16c9493?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Feb 28 |
+| **[Giant Noise](http://giantnoise.com)** | **[Summer Intern - Business Development, Austin](https://jobright.ai/jobs/info/69a4d6c8359fe034b1cf6c0f?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Feb 28 |
+| **[LMC](https://www.lmc.net/)** | **[Intern - Purchasing](https://jobright.ai/jobs/info/69a37f190da45516f16c9493?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Feb 28 |
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: Sales - 2026**](https://jobright.ai/jobs/info/69a3548b0da45516f16c8ca6?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Feb 28 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Corporate Partnership Intern (Summer)](https://jobright.ai/jobs/info/69a34f5a0da45516f16c8b19?utm_campaign=1051&utm_source=git)** | Berea, OH | On Site | Feb 28 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk FT 6660](https://jobright.ai/jobs/info/69a34c6b359fe034b1ce7fd3?utm_campaign=1051&utm_source=git)** | Cape May, NJ | On Site | Feb 28 |
 | ↳ | **[Sales Clerk PT 6662](https://jobright.ai/jobs/info/69a34bf80da45516f16c88ee?utm_campaign=1051&utm_source=git)** | Alameda, CA | On Site | Feb 28 |
 | **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Creator Partnership Intern](https://jobright.ai/jobs/info/69a342880da45516f16c7e03?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Remote | Feb 28 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Corporate Development & Strategy](https://jobright.ai/jobs/info/69a49256b600907a962a5772?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 28 |
-| **[SWBC](https://www.swbc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a33908b600907a96297e43?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Feb 28 |
-| **[C.H. Guenther](http://www.chg.com)** | **[Sales Insights & Analytics Intern](https://jobright.ai/jobs/info/69863a2f0f6f7e7a2ce11c7f?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
