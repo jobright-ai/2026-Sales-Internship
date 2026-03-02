@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69a554cc0da45516f16df5e0?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Mar 02 |
+| **[U.S. Green Building Council](http://www.usgbc.org)** | **[Account Management Intern (Remote in U.S.)](https://jobright.ai/jobs/info/69a5540c359fe034b1cfe449?utm_campaign=1051&utm_source=git)** | Washington, DC | Remote | Mar 02 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[College Intern, Sales](https://jobright.ai/jobs/info/69a53d8d0da45516f16dd863?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 01 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69a534b10da45516f16dcb38?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | Mar 01 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/69a52994b600907a962ac601?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Mar 01 |
@@ -120,7 +122,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a5f5f131d96e48465769?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Mar 01 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Spokane](https://jobright.ai/jobs/info/6933ccb1a0dde7020e2f1c8c?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Mar 01 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Olympia](https://jobright.ai/jobs/info/693402c4764507023d1bb57e?utm_campaign=1051&utm_source=git)** | Lacey, WA | On Site | Mar 01 |
-| **[Corii Burns](https://www.coriiburns.com)** | **[Intern Partnership Lead: PFW](https://jobright.ai/jobs/info/69a46a25359fe034b1cf39d6?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Mar 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a467320da45516f16d4420?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Mar 01 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/69a4670f0da45516f16d4405?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Mar 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933cbebf131d96e48467243?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Mar 01 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Baltimore, MD](https://jobright.ai/jobs/info/6932ff9da0dde7020e2e9d09?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Mar 01 |
 | ↳ | **[Student Housing Operations Intern - Laramie, WY](https://jobright.ai/jobs/info/6933095ea0dde7020e2ea0e7?utm_campaign=1051&utm_source=git)** | Laramie, WY | On Site | Mar 01 |
 | ↳ | **[Student Housing Operations Intern - Minneapolis, MN](https://jobright.ai/jobs/info/6932f17a764507023d1b1376?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Mar 01 |
-| **[uMaster Global](https://www.umaster.ca/home)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a420fb359fe034b1cf14bd?utm_campaign=1051&utm_source=git)** | Mobile, AL | Remote | Mar 01 |
-| **[Mercadien](https://www.mercadien.com/)** | **[Lottery Internship](https://jobright.ai/jobs/info/69a419ca359fe034b1cf12c4?utm_campaign=1051&utm_source=git)** | Hamilton, NJ | On Site | Mar 01 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Texas - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69913d860f6f7e7a2ced7dcd?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Mar 01 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/69a555980da45516f16df946?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Mar 01 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/69a401400da45516f16cfe20?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Mar 01 |
 | ↳ | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/69a45e650da45516f16d3f88?utm_campaign=1051&utm_source=git)** | Rockford, Illinois | On Site | Mar 01 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69a5527f359fe034b1cfdf84?utm_campaign=1051&utm_source=git)** | Hoffman Estates, IL | On Site | Feb 28 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Technical Sales Intern - Controls](https://jobright.ai/jobs/info/69a553a50da45516f16df1fa?utm_campaign=1051&utm_source=git)** | Willowbrook, IL | On Site | Feb 28 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Sacramento](https://jobright.ai/jobs/info/69a3e7570da45516f16cd7fb?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Feb 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Cleveland](https://jobright.ai/jobs/info/69a3e74e359fe034b1cecdd8?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Feb 28 |
-| ↳ | **[Client Success Intern](https://jobright.ai/jobs/info/69a3e6f60da45516f16cd75b?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Feb 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Jacksonville](https://jobright.ai/jobs/info/69a3e6e80da45516f16cd743?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
