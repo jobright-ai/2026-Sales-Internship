@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/69a52994b600907a962ac601?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Mar 01 |
+| **[telMAX Inc.](https://telmax.com)** | **[Business Service Analyst Co-op - Summer Term (4 Months)](https://jobright.ai/jobs/info/69a40aad359fe034b1cf0757?utm_campaign=1051&utm_source=git)** | Markham, Ontario, Canada | On Site | Mar 01 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698512a18da7a612045f65ec?utm_campaign=1051&utm_source=git)** | Caledon, ON | On Site | Mar 01 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69a512140da45516f16db6f4?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Remote | Mar 01 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69a51210359fe034b1cfa9c5?utm_campaign=1051&utm_source=git)** | Lake Worth, FL | Remote | Mar 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Jr. Executive Sales Intern - Jacksonville](https://jobright.ai/jobs/info/69a3e6e80da45516f16cd743?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - South Jersey](https://jobright.ai/jobs/info/69a3e6cc359fe034b1cecd1c?utm_campaign=1051&utm_source=git)** | Mt. Laurel, NJ | On Site | Feb 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Minneapolis](https://jobright.ai/jobs/info/69a3e6c4359fe034b1cecd12?utm_campaign=1051&utm_source=git)** | Edina, MN | On Site | Feb 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Milwaukee](https://jobright.ai/jobs/info/69a3e68f0da45516f16cd6c6?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Atlanta North](https://jobright.ai/jobs/info/69a3e682b600907a9629db2f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
