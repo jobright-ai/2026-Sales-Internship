@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a5e011359fe034b1d09306?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Mar 02 |
+| **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Data Center Business Development Intern - i-0054](https://jobright.ai/jobs/info/69a5dfbfb600907a962ba36d?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Mar 02 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Commercial Sales & Business Development Intern](https://jobright.ai/jobs/info/69a5dd7a0da45516f16e9d21?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 02 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69a5dbcfb600907a962b9b7c?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | On Site | Mar 02 |
+| **[NEXÉ](http://nextetics.coach)** | **[Junior Sales Rep Intern (Remote)](https://jobright.ai/jobs/info/69a5d9f7359fe034b1d08585?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Remote | Mar 02 |
+| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Spring Internship 2026 - Planning & Allocation](https://jobright.ai/jobs/info/69913d9c0f6f7e7a2ced7e72?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 02 |
+| **[Big Think Capital](https://bigthinkcapital.com)** | **[Business Development & Affiliate Partnerships Intern](https://jobright.ai/jobs/info/69a5d5890da45516f16e8b1f?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Mar 02 |
+| **[Optiwise.ai](https://www.optiwise.ai/)** | **[Enterprise Sales Intern / AI Startup](https://jobright.ai/jobs/info/69a5d341359fe034b1d076e7?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | Hybrid | Mar 02 |
 | **[North Star Resource Group](http://northstarfinancial.com)** | **[Sales and Marketing Internship – Financial Advising Development Program](https://jobright.ai/jobs/info/69a5ccb4b600907a962b7a61?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Mar 02 |
 | **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Risk Management & Sales Intern](https://jobright.ai/jobs/info/69a5cc4d0da45516f16e7715?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Mar 02 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69a5c89a359fe034b1d061a6?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Mar 02 |
@@ -132,8 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69a51070b600907a962ab4db?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | Remote | Mar 01 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69a503e5b600907a962aa806?utm_campaign=1051&utm_source=git)** | Bradenton, FL | Remote | Mar 01 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/69a503c1b600907a962aa758?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Mar 01 |
-| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69a501e3359fe034b1cf9859?utm_campaign=1051&utm_source=git)** | Cocoa, FL | Remote | Mar 01 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/69a501e3359fe034b1cf9858?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | Remote | Mar 01 |
+| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69a501e3359fe034b1cf9858?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | Remote | Mar 01 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69a501e3359fe034b1cf9859?utm_campaign=1051&utm_source=git)** | Cocoa, FL | Remote | Mar 01 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69a501d8359fe034b1cf9850?utm_campaign=1051&utm_source=git)** | Fort Pierce, FL | Remote | Mar 01 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69a501c30da45516f16da508?utm_campaign=1051&utm_source=git)** | Pensacola, FL | Remote | Mar 01 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a501bbb600907a962aa589?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Mar 01 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/69a4f6cfb600907a962a9685?utm_campaign=1051&utm_source=git)** | Greater St. Louis | On Site | Mar 01 |
 | ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/69a4f6c90da45516f16d95bd?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Mar 01 |
 | ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/69a4f6a30da45516f16d9572?utm_campaign=1051&utm_source=git)** | Greater Indianapolis | On Site | Mar 01 |
-| ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/69a4f414b600907a962a91f0?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Mar 01 |
-| **[Stratagem One](stratagemone.com)** | **[Business Associate Intern](https://jobright.ai/jobs/info/69a4e39e359fe034b1cf6f2f?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Mar 01 |
-| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/69a4ff13b600907a962aa332?utm_campaign=1051&utm_source=git)** | Wake Forest, NC | Remote | Mar 01 |
-| **[School Datebooks](https://schooldatebooks.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69a4d863b600907a962a7992?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Mar 01 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Ops. Associate Intern](https://jobright.ai/jobs/info/69a4ceb0b600907a962a7670?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Mar 01 |
-| **[ISACA](http://www.isaca.org)** | **[Intern, Process Improvement & Operations](https://jobright.ai/jobs/info/699010570f6f7e7a2cec623c?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 01 |
-| **[HP Marketing](https://www.hpros.com/)** | **[Field Sales Intern 2026 Summer](https://jobright.ai/jobs/info/69a4c6f7359fe034b1cf6786?utm_campaign=1051&utm_source=git)** | Melbourne, FL | On Site | Mar 01 |
-| **[wherewework Bulgaria](http://www.wherewework.bg)** | **[Internship - Account Executive](https://jobright.ai/jobs/info/69a4c6bb0da45516f16d72f9?utm_campaign=1051&utm_source=git)** | San Angelo Area | Hybrid | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
