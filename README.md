@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69a503e5b600907a962aa806?utm_campaign=1051&utm_source=git)** | Bradenton, FL | Remote | Mar 01 |
+| **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698512a18da7a612045f65ec?utm_campaign=1051&utm_source=git)** | Caledon, ON | On Site | Mar 01 |
+| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69a512140da45516f16db6f4?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Remote | Mar 01 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69a51210359fe034b1cfa9c5?utm_campaign=1051&utm_source=git)** | Lake Worth, FL | Remote | Mar 01 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69a5120d0da45516f16db6f2?utm_campaign=1051&utm_source=git)** | Sanford, FL | Remote | Mar 01 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69a511e4359fe034b1cfa9bd?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Remote | Mar 01 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69a511da0da45516f16db6e7?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Remote | Mar 01 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69a511d1359fe034b1cfa9b8?utm_campaign=1051&utm_source=git)** | Daytona Beach, FL | Remote | Mar 01 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69a510f6359fe034b1cfa8b2?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Mar 01 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69a5108bb600907a962ab553?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | Mar 01 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69a51070b600907a962ab4db?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | Remote | Mar 01 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69a503e5b600907a962aa806?utm_campaign=1051&utm_source=git)** | Bradenton, FL | Remote | Mar 01 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/69a503c1b600907a962aa758?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Mar 01 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Client Services & Sales Intern](https://jobright.ai/jobs/info/69a50383359fe034b1cf995c?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Mar 01 |
 | **[Meridien Labs](meridienlabs.us)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a501f0359fe034b1cf985c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Mar 01 |
@@ -68,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a501bbb600907a962aa589?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Mar 01 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/69a50192b600907a962aa581?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Mar 01 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69a4ff5b359fe034b1cf9615?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | Remote | Mar 01 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/69a4ff09359fe034b1cf958f?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | Remote | Mar 01 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69a4feb20da45516f16da1c3?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | Remote | Mar 01 |
 | **[Meridien Labs](meridienlabs.us)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/69a4fd6d359fe034b1cf93c1?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Remote | Mar 01 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69a4fd0a359fe034b1cf9348?utm_campaign=1051&utm_source=git)** | Gainesville, FL | Remote | Mar 01 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Jr. Executive Sales Intern - Minneapolis](https://jobright.ai/jobs/info/69a3e6c4359fe034b1cecd12?utm_campaign=1051&utm_source=git)** | Edina, MN | On Site | Feb 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Milwaukee](https://jobright.ai/jobs/info/69a3e68f0da45516f16cd6c6?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Feb 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Atlanta North](https://jobright.ai/jobs/info/69a3e682b600907a9629db2f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
-| ↳ | **[Client Success Manager Intern - Skillbridge](https://jobright.ai/jobs/info/69a3e664359fe034b1cecc6d?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Feb 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/69a3e65bb600907a9629dae9?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Feb 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Pittsburgh](https://jobright.ai/jobs/info/69a3e63db600907a9629daca?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Feb 28 |
-| **[Visit Detroit](https://visitdetroit.com/)** | **[Destination Services and Partnership Intern](https://jobright.ai/jobs/info/69a3e33e0da45516f16cd2fd?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Feb 28 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Tampa](https://jobright.ai/jobs/info/69a3e33c359fe034b1cec870?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Feb 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Pasadena](https://jobright.ai/jobs/info/69a3e319b600907a9629d731?utm_campaign=1051&utm_source=git)** | Pasadena, CA | On Site | Feb 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Silicon Valley](https://jobright.ai/jobs/info/69a3e312359fe034b1cec855?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
-| **[GSD&M](http://www.gsdm.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/696ebaf85fc86241853da26f?utm_campaign=1051&utm_source=git)** | Austin | Hybrid | Feb 28 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a397bc359fe034b1ce971c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
