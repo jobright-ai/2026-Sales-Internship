@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69a503e5b600907a962aa806?utm_campaign=1051&utm_source=git)** | Bradenton, FL | Remote | Mar 01 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/69a503c1b600907a962aa758?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Mar 01 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Client Services & Sales Intern](https://jobright.ai/jobs/info/69a50383359fe034b1cf995c?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Mar 01 |
 | **[Meridien Labs](meridienlabs.us)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a501f0359fe034b1cf985c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Mar 01 |
-| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69a501e3359fe034b1cf9858?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | Remote | Mar 01 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/69a501e3359fe034b1cf9859?utm_campaign=1051&utm_source=git)** | Cocoa, FL | Remote | Mar 01 |
+| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69a501e3359fe034b1cf9859?utm_campaign=1051&utm_source=git)** | Cocoa, FL | Remote | Mar 01 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69a501e3359fe034b1cf9858?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | Remote | Mar 01 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69a501d8359fe034b1cf9850?utm_campaign=1051&utm_source=git)** | Fort Pierce, FL | Remote | Mar 01 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69a501c30da45516f16da508?utm_campaign=1051&utm_source=git)** | Pensacola, FL | Remote | Mar 01 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a501bbb600907a962aa589?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Mar 01 |
@@ -114,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69a46336359fe034b1cf36a2?utm_campaign=1051&utm_source=git)** | Canada | Remote | Mar 01 |
 | ↳ | **[Private Equity Intern](https://jobright.ai/jobs/info/69a456ed0da45516f16d3dbb?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Veltrana Group](veltranagroup.us)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/69a456d00da45516f16d3db5?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Mar 01 |
-| **[Ancient City Capital](https://www.ancientcitycapital.com)** | **[Summer Intern- Real Estate Asset Management](https://jobright.ai/jobs/info/69a456b6359fe034b1cf32e6?utm_campaign=1051&utm_source=git)** | St Augustine, FL | On Site | Mar 01 |
 | **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69a452ce359fe034b1cf3243?utm_campaign=1051&utm_source=git)** | Midland, TX | On Site | Mar 01 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Intern](https://jobright.ai/jobs/info/6917d3c2bcdbf3560c9cbbce?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Mar 01 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Associate Intern](https://jobright.ai/jobs/info/69a4493d359fe034b1cf2d83?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Mar 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Jr. Executive Sales Intern - Silicon Valley](https://jobright.ai/jobs/info/69a3e312359fe034b1cec855?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[GSD&M](http://www.gsdm.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/696ebaf85fc86241853da26f?utm_campaign=1051&utm_source=git)** | Austin | Hybrid | Feb 28 |
 | **[Goosehead Insurance](https://www.goosehead.com)** | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a397bc359fe034b1ce971c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Feb 28 |
-| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a3956e359fe034b1ce93ee?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Feb 28 |
-| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a39528b600907a9629a11e?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
