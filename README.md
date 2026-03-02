@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69a4f414b600907a962a91f0?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Mar 01 |
+| **[Meridien Labs](meridienlabs.us)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/69a4ec0b0da45516f16d83f7?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Remote | Mar 01 |
 | **[Stratagem One](stratagemone.com)** | **[Business Associate Intern](https://jobright.ai/jobs/info/69a4e39e359fe034b1cf6f2f?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Mar 01 |
 | **[School Datebooks](https://schooldatebooks.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69a4d863b600907a962a7992?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Mar 01 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Client Services & Sales Intern](https://jobright.ai/jobs/info/69a4cedb359fe034b1cf69ba?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | Mar 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: Sales - 2026**](https://jobright.ai/jobs/info/69a3548b0da45516f16c8ca6?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Feb 28 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Corporate Partnership Intern (Summer)](https://jobright.ai/jobs/info/69a34f5a0da45516f16c8b19?utm_campaign=1051&utm_source=git)** | Berea, OH | On Site | Feb 28 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk FT 6660](https://jobright.ai/jobs/info/69a34c6b359fe034b1ce7fd3?utm_campaign=1051&utm_source=git)** | Cape May, NJ | On Site | Feb 28 |
-| ↳ | **[Sales Clerk PT 6662](https://jobright.ai/jobs/info/69a34bf80da45516f16c88ee?utm_campaign=1051&utm_source=git)** | Alameda, CA | On Site | Feb 28 |
-| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Creator Partnership Intern](https://jobright.ai/jobs/info/69a342880da45516f16c7e03?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Remote | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
