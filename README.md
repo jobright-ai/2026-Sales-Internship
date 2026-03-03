@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68cecf37dbd9fb154ede2fa4?utm_campaign=1051&utm_source=git)** | Dickinson, ND | On Site | Mar 03 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2026)](https://jobright.ai/jobs/info/68defc2ea125e75c422b8d28?utm_campaign=1051&utm_source=git)** | Findlay, OH | On Site | Mar 03 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Kansas City District)](https://jobright.ai/jobs/info/697b600b1423772304eb7d8c?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Mar 03 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Financial Coaching and Economic Mobility Intern (Summer 2026- UNPAID)](https://jobright.ai/jobs/info/699693d9ce78e77b4fdab138?utm_campaign=1051&utm_source=git)** | Charlottesville, VA | On Site | Mar 03 |
+| **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Univeristy of Michigan](https://jobright.ai/jobs/info/698a5e5fc5761b521a998686?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Mar 03 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Raleigh](https://jobright.ai/jobs/info/69a6e15a76bbe83d3afa3662?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Mar 03 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68c41d8ae396b25cb5c65978?utm_campaign=1051&utm_source=git)** | Lynden, WA | On Site | Mar 03 |
 | **[Kenan Advantage Group](http://www.thekag.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696ec89fdb26b6189511d725?utm_campaign=1051&utm_source=git)** | North Canton, OH | On Site | Mar 03 |
 | **[Applied Industrial Technologies - Canada](https://appliedcanada.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69a6d69176bbe83d3afa30a1?utm_campaign=1051&utm_source=git)** | Kamloops, British Columbia, Canada | On Site | Mar 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Together AI](https://www.together.ai)** | **[Revenue Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/69a62fafb600907a962c0fc6?utm_campaign=1051&utm_source=git)** | San Francisco | On Site | Mar 02 |
 | **[The Commencement Group](https://www.thecommencementgroup.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6998e59981476f6176b14af3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 02 |
 | **[American Tower](https://www.americantower.com/)** | **[Land Acquisition Summer Internship](https://jobright.ai/jobs/info/69a62b1b0da45516f16f0d8e?utm_campaign=1051&utm_source=git)** | Woburn, MA | Hybrid | Mar 02 |
-| **[HOLT CAT](http://www.holtcat.com/)** | **[Machine Sales Intern- College](https://jobright.ai/jobs/info/69a64d53d706a731db382c6e?utm_campaign=1051&utm_source=git)** | Waco, Texas, United States | On Site | Mar 02 |
-| ↳ | **[Machine Sales Intern- College](https://jobright.ai/jobs/info/69a657332c0d8b0f5cd0726d?utm_campaign=1051&utm_source=git)** | Dallas, Texas, United States | On Site | Mar 02 |
-| ↳ | **[Machine Sales Intern- College](https://jobright.ai/jobs/info/69a65327e567421f42575179?utm_campaign=1051&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 02 |
-| **[Andis Company](https://andis.com)** | **[Inside Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69a64a812c0d8b0f5cd05a5c?utm_campaign=1051&utm_source=git)** | Renaissance, Sturtevant, WI, US | On Site | Mar 02 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Sales Programs, Public Sector](https://jobright.ai/jobs/info/69a6283b359fe034b1d0f933?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 02 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Global Business Development, Energy (Summer 2026)](https://jobright.ai/jobs/info/69a627ef359fe034b1d0f8e8?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
