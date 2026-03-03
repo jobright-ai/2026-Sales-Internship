@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meridien Labs](meridienlabs.com)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/69a6766e2c0d8b0f5cd094b4?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Mar 02 |
+| **[Voith Paper](http://www.voith.com/paper)** | **[Sales Engineer Intern](https://jobright.ai/jobs/info/69a673692c0d8b0f5cd091c2?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Mar 02 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Remote - Shopify Agency Partnerships Intern](https://jobright.ai/jobs/info/69a66ed0e567421f425773d9?utm_campaign=1051&utm_source=git)** | Canada | Remote | Mar 02 |
 | **[Brilyon Ventures](brilyonventures.com)** | **[Risk Management - Sales Internship](https://jobright.ai/jobs/info/69a66884e567421f4257715b?utm_campaign=1051&utm_source=git)** | Warrensburg, MO | Remote | Mar 02 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/69a664e4d706a731db38541a?utm_campaign=1051&utm_source=git)** | Wilkes-Barre, PA | On Site | Mar 02 |
 | **[TD](https://www.td.com)** | **[National Real Estate Group Intern/Co-op - Preferred Candidate](https://jobright.ai/jobs/info/69a663e42c0d8b0f5cd0864e?utm_campaign=1051&utm_source=git)** | Markham, Ontario | Hybrid | Mar 02 |
@@ -74,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Machine Sales Intern- College](https://jobright.ai/jobs/info/69a651a9e567421f42574e18?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Mar 02 |
 | **[Christian Brothers Services](https://www.cbservices.org/)** | **[Relationship Management Intern - Business Analyst](https://jobright.ai/jobs/info/69a64eafd706a731db382e0f?utm_campaign=1051&utm_source=git)** | ROMEOVILLE, IL 60446 | On Site | Mar 02 |
 | **[Affinity Group, Sales & Marketing Agency](http://www.affinitysales.com/)** | **[Foodservice Sales and Marketing Internship](https://jobright.ai/jobs/info/69a067395218a81676718363?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Mar 02 |
+| **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Sales Programs, Public Sector](https://jobright.ai/jobs/info/69a670cbd706a731db385fcd?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 02 |
 | **[Ellucian](http://www.ellucian.com)** | **[Solution Sales Intern / Hybrid / Reston, VA / Summer 2026](https://jobright.ai/jobs/info/69a64cc3d706a731db382bcc?utm_campaign=1051&utm_source=git)** | Reston, VA | Hybrid | Mar 02 |
 | **[Experian](http://www.experianplc.com)** | **[Client Success Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/69a64c74e567421f4257455f?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 02 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2623 BRIDGE Prospect Intelligence and Analysis Undergraduate Intern](https://jobright.ai/jobs/info/69a64c6ad706a731db382baa?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Mar 02 |
@@ -81,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d041d22a2cb4b9bd1fd7b?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | Remote | Mar 02 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d0f5bbcdbf3560c9ecd19?utm_campaign=1051&utm_source=git)** | Tucson, AZ | Remote | Mar 02 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d087e22a2cb4b9bd200f1?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Mar 02 |
-| **[Brilyon Ventures](brilyonventures.com)** | **[Business and Sales Internship](https://jobright.ai/jobs/info/69a64a60d706a731db382915?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | Remote | Mar 02 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Machine Sales Intern- College](https://jobright.ai/jobs/info/69a64a40d706a731db3828db?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Mar 02 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/691d0c5bff7024498416d5ec?utm_campaign=1051&utm_source=git)** | Nashville, TN | Remote | Mar 02 |
 | **[ANT PR and Digital Firm](https://antferrella.com/firm)** | **[Sales Intern (Client Acquisition)](https://jobright.ai/jobs/info/69a6480de567421f42573e1d?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 02 |
@@ -110,23 +113,23 @@ For a complete list, click the following sortable link below:
 | **[Proofpoint](http://www.proofpoint.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69a62ea10da45516f16f0ff2?utm_campaign=1051&utm_source=git)** | Draper, UT | On Site | Mar 02 |
 | **[The Commencement Group](https://www.thecommencementgroup.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6998e59981476f6176b14af3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 02 |
 | **[American Tower](https://www.americantower.com/)** | **[Land Acquisition Summer Internship](https://jobright.ai/jobs/info/69a62b1b0da45516f16f0d8e?utm_campaign=1051&utm_source=git)** | Woburn, MA | Hybrid | Mar 02 |
-| **[HOLT CAT](http://www.holtcat.com/)** | **[Machine Sales Intern- College](https://jobright.ai/jobs/info/69a64d53d706a731db382c6e?utm_campaign=1051&utm_source=git)** | Waco, Texas, United States | On Site | Mar 02 |
-| ↳ | **[Machine Sales Intern- College](https://jobright.ai/jobs/info/69a65327e567421f42575179?utm_campaign=1051&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 02 |
+| **[HOLT CAT](http://www.holtcat.com/)** | **[Machine Sales Intern- College](https://jobright.ai/jobs/info/69a65327e567421f42575179?utm_campaign=1051&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 02 |
 | ↳ | **[Machine Sales Intern- College](https://jobright.ai/jobs/info/69a657332c0d8b0f5cd0726d?utm_campaign=1051&utm_source=git)** | Dallas, Texas, United States | On Site | Mar 02 |
+| ↳ | **[Machine Sales Intern- College](https://jobright.ai/jobs/info/69a64d53d706a731db382c6e?utm_campaign=1051&utm_source=git)** | Waco, Texas, United States | On Site | Mar 02 |
 | **[Andis Company](https://andis.com)** | **[Inside Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69a64a812c0d8b0f5cd05a5c?utm_campaign=1051&utm_source=git)** | Renaissance, Sturtevant, WI, US | On Site | Mar 02 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Sales Programs, Public Sector](https://jobright.ai/jobs/info/69a6283b359fe034b1d0f933?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 02 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Global Business Development, Energy (Summer 2026)](https://jobright.ai/jobs/info/69a627ef359fe034b1d0f8e8?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Mar 02 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2624 BRIDGE Philanthropic Partnerships Graduate Intern](https://jobright.ai/jobs/info/69a654822c0d8b0f5cd06ce7?utm_campaign=1051&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
-| ↳ | **[BR-2624 BRIDGE Philanthropic Partnerships Graduate Intern](https://jobright.ai/jobs/info/69a656c5d706a731db383aab?utm_campaign=1051&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
+| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2624 BRIDGE Philanthropic Partnerships Graduate Intern](https://jobright.ai/jobs/info/69a656c5d706a731db383aab?utm_campaign=1051&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
+| ↳ | **[BR-2624 BRIDGE Philanthropic Partnerships Graduate Intern](https://jobright.ai/jobs/info/69a654822c0d8b0f5cd06ce7?utm_campaign=1051&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
 | ↳ | **[BR-2610 BRIDGE Corporate Engagement Undergraduate Intern](https://jobright.ai/jobs/info/69a647532c0d8b0f5cd05532?utm_campaign=1051&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
 | ↳ | **[BR-2610 BRIDGE Corporate Engagement Undergraduate Intern](https://jobright.ai/jobs/info/69a64d21e567421f42574675?utm_campaign=1051&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
-| ↳ | **[BR-2623 BRIDGE Prospect Intelligence and Analysis Undergraduate Intern](https://jobright.ai/jobs/info/69a660fbd706a731db384db8?utm_campaign=1051&utm_source=git)** | Washington, DC, US | Remote | Mar 02 |
 | ↳ | **[BR-2623 BRIDGE Prospect Intelligence and Analysis Undergraduate Intern](https://jobright.ai/jobs/info/69a645392c0d8b0f5cd05201?utm_campaign=1051&utm_source=git)** | US-DC-Washington | Remote | Mar 02 |
+| ↳ | **[BR-2623 BRIDGE Prospect Intelligence and Analysis Undergraduate Intern](https://jobright.ai/jobs/info/69a660fbd706a731db384db8?utm_campaign=1051&utm_source=git)** | Washington, DC, US | Remote | Mar 02 |
 | **[Divine Flooring](https://divinefloor.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69a64e1b2c0d8b0f5cd06056?utm_campaign=1051&utm_source=git)** | Calgary Operations, Calgary, AB, CA | On Site | Mar 02 |
 | **[Weis Markets](https://www.weismarkets.com)** | **[Store Service HVAC/Refrigeration Intern](https://jobright.ai/jobs/info/69a62598359fe034b1d0f703?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 02 |
-| **[HOLT Industrial Systems](https://holtindustrialsystems.com)** | **[Machine Sales Intern- College](https://jobright.ai/jobs/info/69a65d41d706a731db384714?utm_campaign=1051&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 02 |
-| ↳ | **[Machine Sales Intern- College](https://jobright.ai/jobs/info/69a64687e567421f42573c13?utm_campaign=1051&utm_source=git)** | Dallas, Texas, United States | On Site | Mar 02 |
+| **[HOLT Industrial Systems](https://holtindustrialsystems.com)** | **[Machine Sales Intern- College](https://jobright.ai/jobs/info/69a64687e567421f42573c13?utm_campaign=1051&utm_source=git)** | Dallas, Texas, United States | On Site | Mar 02 |
 | ↳ | **[Machine Sales Intern- College](https://jobright.ai/jobs/info/69a644602c0d8b0f5cd05098?utm_campaign=1051&utm_source=git)** | Waco, Texas, United States | On Site | Mar 02 |
+| ↳ | **[Machine Sales Intern- College](https://jobright.ai/jobs/info/69a65d41d706a731db384714?utm_campaign=1051&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 02 |
 | **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Intern - Junior/senior](https://jobright.ai/jobs/info/69a64c7de567421f42574567?utm_campaign=1051&utm_source=git)** | Westfield, Massachusetts, United States | On Site | Mar 02 |
 | **[Detroit Labs](http://detroitlabs.com)** | **[Central Michigan University Business Development Summer Internship](https://jobright.ai/jobs/info/69a6241bb600907a962c06d4?utm_campaign=1051&utm_source=git)** | Detroit, Michigan, United States | Hybrid | Mar 02 |
 | **[The Investors News](https://theinvestorsnews.com/)** | **[Sales and Outreach Intern](https://jobright.ai/jobs/info/69a61d94b600907a962c013b?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brixenta](brixenta.net)** | **[Commercial Year-Round Intern (May 2026 Start)](https://jobright.ai/jobs/info/69a5f7e90da45516f16ec6da?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Mar 02 |
 | **[INSURICA](http://insurica.com/)** | **[Digital Division Intern](https://jobright.ai/jobs/info/69a5f3c20da45516f16ebf99?utm_campaign=1051&utm_source=git)** | Norman, OK | On Site | Mar 02 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Partner Sales Intern](https://jobright.ai/jobs/info/69a61561b600907a962bf890?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Mar 02 |
-| **[Associated Credit Union of Texas (ACU of Texas)](http://acutx.org)** | **[CU360 Credit Union Intern](https://jobright.ai/jobs/info/69a61ba70da45516f16eff4e?utm_campaign=1051&utm_source=git)** | League City Corporate - League City, TX 77573 | On Site | Mar 02 |
-| **[Prysmian](https://www.prysmian.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a60fe0359fe034b1d0df3d?utm_campaign=1051&utm_source=git)** | McKinney - Encore | On Site | Mar 02 |
-| **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69a5eef70da45516f16eb8fc?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
