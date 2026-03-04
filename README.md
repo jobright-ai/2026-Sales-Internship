@@ -66,7 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69a7c055637232443f651689?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Mar 03 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/69a7bd1976bbe83d3afb353c?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 03 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Employee Success Product Analyst](https://jobright.ai/jobs/info/69a7b9e1637232443f650b93?utm_campaign=1051&utm_source=git)** | Greater Indianapolis | On Site | Mar 03 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a7b44276bbe83d3afb240a?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Mar 03 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a7e3fb637232443f653bab?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Mar 03 |
+| ↳ | **[Intern, Property Management](https://jobright.ai/jobs/info/69a7b44276bbe83d3afb240a?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Mar 03 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69a7b306637232443f64ff94?utm_campaign=1051&utm_source=git)** | DC-Baltimore Area | Remote | Mar 03 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69a7b28e76bbe83d3afb20c6?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Mar 03 |
 | **[Spacelabs Healthcare](http://www.spacelabshealthcare.com)** | **[Strategy & Business Development Intern](https://jobright.ai/jobs/info/69a7b0d8637232443f64fdc5?utm_campaign=1051&utm_source=git)** | Snoqualmie, WA | On Site | Mar 03 |
@@ -138,9 +139,9 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Banker Intern (Greenville, SC - Main)](https://jobright.ai/jobs/info/698afaa44db8972cec006e79?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Mar 03 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Marshfield, WI](https://jobright.ai/jobs/info/691d47ff0b7dff7341501de1?utm_campaign=1051&utm_source=git)** | Marshfield, WI | On Site | Mar 03 |
 | **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/69a75e252672cb0acb4bd18e?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Mar 03 |
-| **[Cohesity](https://www.cohesity.com/)** | **[Sales Enablement Intern- AI](https://jobright.ai/jobs/info/69a7644476bbe83d3afac6ca?utm_campaign=1051&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Mar 03 |
+| **[Cohesity](https://www.cohesity.com/)** | **[Sales Enablement Intern- Data Analytics](https://jobright.ai/jobs/info/69a7615676bbe83d3afac3bb?utm_campaign=1051&utm_source=git)** | Heathrow, FL - USA (Office) | Hybrid | Mar 03 |
+| ↳ | **[Sales Enablement Intern- AI](https://jobright.ai/jobs/info/69a7644476bbe83d3afac6ca?utm_campaign=1051&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Mar 03 |
 | ↳ | **[Sales Enablement Intern- Data Analytics](https://jobright.ai/jobs/info/69a766912672cb0acb4bdb4d?utm_campaign=1051&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Mar 03 |
-| ↳ | **[Sales Enablement Intern- Data Analytics](https://jobright.ai/jobs/info/69a7615676bbe83d3afac3bb?utm_campaign=1051&utm_source=git)** | Heathrow, FL - USA (Office) | Hybrid | Mar 03 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37e931852e62f007fc353?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Mar 03 |
 | **[Silicon Valley Bank](https://www.svb.com)** | **[Corporate Intern - SVB Commercial Digital (Chicago)](https://jobright.ai/jobs/info/698aa39fc5761b521a99ea67?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Mar 03 |
 | **[TMX Group](http://www.tmx.com)** | **[Index Sales & Service Intern](https://jobright.ai/jobs/info/69a72d342672cb0acb4b9b4a?utm_campaign=1051&utm_source=git)** | New York - 225 Liberty Street | Hybrid | Mar 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69a724b32672cb0acb4b9282?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | Mar 03 |
 | **[Nexiora Holdings](nexioraholdings.com)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/69a7244b2672cb0acb4b9203?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Mar 03 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship – Account Executive Sales Intern (Tri-State Intern)](https://jobright.ai/jobs/info/69a74b5976bbe83d3afaa9a8?utm_campaign=1051&utm_source=git)** | US-NY-Melville | Hybrid | Mar 03 |
-| **[Sharecare](https://www.sharecare.com)** | **[Corporate Partnerships Intern - Remote](https://jobright.ai/jobs/info/69a741eb76bbe83d3afa9d8b?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
