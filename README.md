@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forge Marketing](gritxforge.com/landinghome)** | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69a7f7a2637232443f654dc0?utm_campaign=1051&utm_source=git)** | Tracy, CA | On Site | Mar 04 |
+| ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69a7e9d0637232443f6542e0?utm_campaign=1051&utm_source=git)** | Lancaster, CA | On Site | Mar 04 |
+| ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69a7e8dd637232443f654233?utm_campaign=1051&utm_source=git)** | Yuma, AZ | On Site | Mar 04 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a7cd2a76bbe83d3afb4963?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
 | **[Legends Global](http://legends.net)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69a7c61076bbe83d3afb418e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
 | **[Sound Credit Union](https://www.soundcu.com)** | **[Indirect Lending Intern](https://jobright.ai/jobs/info/6992fdc2e0bddb6acac140e5?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Mar 03 |
@@ -89,6 +92,9 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Strategic Partnerships Intern](https://jobright.ai/jobs/info/69a7b94f76bbe83d3afb2e3b?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 03 |
 | **[Girls Inc. of Tarrant County](http://www.girlsinctarrant.org)** | **[Summer 2026 Development Intern](https://jobright.ai/jobs/info/69a782b12672cb0acb4bfa5d?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Mar 03 |
 | **[ICONA Resorts](https://icona.com/)** | **[Purchasing Agent Intern](https://jobright.ai/jobs/info/69a7b4ae637232443f650199?utm_campaign=1051&utm_source=git)** | ICONA Management LLC - Wildwood Crest, NJ 08260 | On Site | Mar 03 |
+| **[Cohesity](https://www.cohesity.com/)** | **[Sales Enablement Intern- Data Analytics](https://jobright.ai/jobs/info/69a7f66d637232443f654d02?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | Hybrid | Mar 03 |
+| ↳ | **[Sales Enablement Intern- AI](https://jobright.ai/jobs/info/69a7f3f376bbe83d3afb6c5d?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | Hybrid | Mar 03 |
+| ↳ | **[Sales Enablement Intern- AI](https://jobright.ai/jobs/info/69a7f74a637232443f654d85?utm_campaign=1051&utm_source=git)** | Heathrow, FL | Hybrid | Mar 03 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/698fea236ea51a7610f24db6?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Mar 03 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[SALES INTERN (Derry, New Hampshire, United States, 03038)](https://jobright.ai/jobs/info/69a77bb676bbe83d3afae0b4?utm_campaign=1051&utm_source=git)** | Derry, NH | On Site | Mar 03 |
 | **[CBC New Media Group, LLC](https://www.linkedin.com/company/5866674)** | **[Ticketing Sales Intern](https://jobright.ai/jobs/info/69a79ff576bbe83d3afb01e2?utm_campaign=1051&utm_source=git)** | Durham, NC, US | On Site | Mar 03 |
@@ -139,9 +145,9 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Banker Intern (Greenville, SC - Main)](https://jobright.ai/jobs/info/698afaa44db8972cec006e79?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Mar 03 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Marshfield, WI](https://jobright.ai/jobs/info/691d47ff0b7dff7341501de1?utm_campaign=1051&utm_source=git)** | Marshfield, WI | On Site | Mar 03 |
 | **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/69a75e252672cb0acb4bd18e?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Mar 03 |
-| **[Cohesity](https://www.cohesity.com/)** | **[Sales Enablement Intern- Data Analytics](https://jobright.ai/jobs/info/69a7615676bbe83d3afac3bb?utm_campaign=1051&utm_source=git)** | Heathrow, FL - USA (Office) | Hybrid | Mar 03 |
+| **[Cohesity](https://www.cohesity.com/)** | **[Sales Enablement Intern- Data Analytics](https://jobright.ai/jobs/info/69a766912672cb0acb4bdb4d?utm_campaign=1051&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Mar 03 |
+| ↳ | **[Sales Enablement Intern- Data Analytics](https://jobright.ai/jobs/info/69a7615676bbe83d3afac3bb?utm_campaign=1051&utm_source=git)** | Heathrow, FL - USA (Office) | Hybrid | Mar 03 |
 | ↳ | **[Sales Enablement Intern- AI](https://jobright.ai/jobs/info/69a7644476bbe83d3afac6ca?utm_campaign=1051&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Mar 03 |
-| ↳ | **[Sales Enablement Intern- Data Analytics](https://jobright.ai/jobs/info/69a766912672cb0acb4bdb4d?utm_campaign=1051&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Mar 03 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37e931852e62f007fc353?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Mar 03 |
 | **[Silicon Valley Bank](https://www.svb.com)** | **[Corporate Intern - SVB Commercial Digital (Chicago)](https://jobright.ai/jobs/info/698aa39fc5761b521a99ea67?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Mar 03 |
 | **[TMX Group](http://www.tmx.com)** | **[Index Sales & Service Intern](https://jobright.ai/jobs/info/69a72d342672cb0acb4b9b4a?utm_campaign=1051&utm_source=git)** | New York - 225 Liberty Street | Hybrid | Mar 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SBM Life Science](https://sbm-company.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/698cca2cf64d441a164eaadf?utm_campaign=1051&utm_source=git)** | Cary, NC | On Site | Mar 03 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37efb1852e62f007fc39f?utm_campaign=1051&utm_source=git)** | Pleasanton, CA | On Site | Mar 03 |
 | **[Southern States LLC](https://www.southernstatesllc.com)** | **[2026 Summer Procurement Intern](https://jobright.ai/jobs/info/69a7bd57637232443f651339?utm_campaign=1051&utm_source=git)** | Hampton, GA, US | On Site | Mar 03 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69a75be22672cb0acb4bceba?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Mar 03 |
-| **[Ortho Molecular Products](http://www.orthomolecularproducts.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69a752272672cb0acb4bc3bd?utm_campaign=1051&utm_source=git)** | US-IL-Barrington | On Site | Mar 03 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Industrial Brokerage Intern](https://jobright.ai/jobs/info/69a7251676bbe83d3afa8119?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Mar 03 |
-| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69a724b32672cb0acb4b9282?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | Mar 03 |
-| **[Nexiora Holdings](nexioraholdings.com)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/69a7244b2672cb0acb4b9203?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Mar 03 |
-| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship – Account Executive Sales Intern (Tri-State Intern)](https://jobright.ai/jobs/info/69a74b5976bbe83d3afaa9a8?utm_campaign=1051&utm_source=git)** | US-NY-Melville | Hybrid | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
