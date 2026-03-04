@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a7cd2a76bbe83d3afb4963?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
+| **[Legends Global](http://legends.net)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69a7c61076bbe83d3afb418e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
+| **[Sound Credit Union](https://www.soundcu.com)** | **[Indirect Lending Intern](https://jobright.ai/jobs/info/6992fdc2e0bddb6acac140e5?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Mar 03 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[Tech Sales Intern](https://jobright.ai/jobs/info/69a7c4c3637232443f6520a3?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Mar 03 |
+| ↳ | **[MedTech Strategic Intern](https://jobright.ai/jobs/info/69a7c46176bbe83d3afb40de?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Mar 03 |
+| **[Clyvra](clyvra.net)** | **[Business Development - Intern Sales](https://jobright.ai/jobs/info/69a7c23476bbe83d3afb3eea?utm_campaign=1051&utm_source=git)** | Des Moines, IA | Remote | Mar 03 |
 | **[Legends Global](http://legends.net)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69a7c055637232443f651689?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Mar 03 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/69a7bd1976bbe83d3afb353c?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 03 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Employee Success Product Analyst](https://jobright.ai/jobs/info/69a7b9e1637232443f650b93?utm_campaign=1051&utm_source=git)** | Greater Indianapolis | On Site | Mar 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexiora Holdings](nexioraholdings.com)** | **[Sales Internship - Pacific](https://jobright.ai/jobs/info/69a7244b2672cb0acb4b9203?utm_campaign=1051&utm_source=git)** | Ventura, CA | Remote | Mar 03 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship – Account Executive Sales Intern (Tri-State Intern)](https://jobright.ai/jobs/info/69a74b5976bbe83d3afaa9a8?utm_campaign=1051&utm_source=git)** | US-NY-Melville | Hybrid | Mar 03 |
 | **[Sharecare](https://www.sharecare.com)** | **[Corporate Partnerships Intern - Remote](https://jobright.ai/jobs/info/69a741eb76bbe83d3afa9d8b?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 03 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Financial Capabilities Intern (Unpaid)](https://jobright.ai/jobs/info/69a7227d2672cb0acb4b8f7a?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ USA | Hybrid | Mar 03 |
-| **[ImageTrend](http://www.imagetrend.com)** | **[Customer Success Operations Intern](https://jobright.ai/jobs/info/69a73ed92672cb0acb4baad4?utm_campaign=1051&utm_source=git)** | Hybrid in Eagan, MN | Hybrid | Mar 03 |
-| **[Silicon Ranch Corporation](https://www.siliconranch.com/)** | **[Intern, Land Siting and Acquisition](https://jobright.ai/jobs/info/69a779bb1fc3d83b780944bb?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Mar 03 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Inside Sales Bachelor's Intern](https://jobright.ai/jobs/info/69a75b451fc3d83b78093d2b?utm_campaign=1051&utm_source=git)** | Pasadena, CA | Hybrid | Mar 03 |
-| **[Richemont](https://www.richemont.com/)** | **[Intern, E-Commerce & Innovation](https://jobright.ai/jobs/info/69a743f21fc3d83b780937e6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 03 |
-| **[Starburst](https://www.starburst.io)** | **[GTM Strategy & Market Intelligence Intern](https://jobright.ai/jobs/info/69a71aae76bbe83d3afa772d?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
