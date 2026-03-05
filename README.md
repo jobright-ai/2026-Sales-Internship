@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Corporate Partnership Intern (June - April)](https://jobright.ai/jobs/info/69a9124b79f3f4037f43c64c?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Mar 04 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69a920497ac93962b7090eeb?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Mar 04 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69a9203a7ac93962b7090edc?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Mar 04 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69a920322580d3183f015396?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Mar 04 |
+| **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Derivatives Sales (f/m/d)](https://jobright.ai/jobs/info/69a91d6379f3f4037f43d0d4?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Mar 04 |
+| **[Elev8 Energy](https://elev8energy.org)** | **[Sales Representative](https://jobright.ai/jobs/info/69a91ce92580d3183f0152b7?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
+| **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Sales Intern (June - April)](https://jobright.ai/jobs/info/69a91cd97ac93962b7090dfa?utm_campaign=1051&utm_source=git)** | Seattle, WA | Hybrid | Mar 04 |
+| ↳ | **[Corporate Partnership Intern (June - April)](https://jobright.ai/jobs/info/69a9124b79f3f4037f43c64c?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Mar 04 |
 | **[Veltrana Group](veltranagroup.us)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a90f757ac93962b7090331?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Mar 04 |
 | **[Tata Electronics](https://www.tataelectronics.com)** | **[Sales & Operations Summer Intern](https://jobright.ai/jobs/info/69a909bf7ac93962b708f8f5?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Mar 04 |
 | **[KanduPay](https://kandupay.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69a9060f79f3f4037f43b2ba?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Mar 04 |
@@ -78,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/699952f481476f6176b1f607?utm_campaign=1051&utm_source=git)** | Buford, GA | On Site | Mar 04 |
 | **[Relevate Health](https://www.relevatehealth.com/)** | **[Client Solutions Intern](https://jobright.ai/jobs/info/69a8dae279f3f4037f43671a?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Sales and Operations Planning](https://jobright.ai/jobs/info/69a8da8479f3f4037f4366a2?utm_campaign=1051&utm_source=git)** | Gloucester City, NJ | On Site | Mar 04 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69a8da297ac93962b708b675?utm_campaign=1051&utm_source=git)** | Carlsbad, CA | On Site | Mar 04 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Business Markets Intern](https://jobright.ai/jobs/info/69a8d9c57ac93962b708b5b8?utm_campaign=1051&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Mar 04 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Retail Sales](https://jobright.ai/jobs/info/69a8d8922580d3183f00f930?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Mar 04 |
 | **[CN](http://www.cn.ca)** | **[Intern, Sales & Marketing (Regional)- EN](https://jobright.ai/jobs/info/69a8d8162580d3183f00f85d?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 04 |
@@ -86,9 +91,9 @@ For a complete list, click the following sortable link below:
 | **[Gulf Distributing Holdings LLC](https://www.gulfdistributingholdings.com )** | **[Sales Intern](https://jobright.ai/jobs/info/69a90c5079f3f4037f43bd3b?utm_campaign=1051&utm_source=git)** | Destin, FL | On Site | Mar 04 |
 | **[Summit Electric Supply](https://summit.com/)** | **[Summer Internship Program - Customer Engagement](https://jobright.ai/jobs/info/69a904c27ac93962b708f005?utm_campaign=1051&utm_source=git)** | 2900 Stanford Dr NE, Albuquerque, NM 87107, USA | On Site | Mar 04 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Corporate Partnership Intern (June - April)](https://jobright.ai/jobs/info/69a8fd0b7ac93962b708e5f5?utm_campaign=1051&utm_source=git)** | Seattle, Washington, United States | On Site | Mar 04 |
-| **[Performance Food Group](http://www.pfgc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a8e7237ac93962b708ca1b?utm_campaign=1051&utm_source=git)** | Shawano, Wisconsin (WI) | On Site | Mar 04 |
+| **[Performance Food Group](http://www.pfgc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a8f46f79f3f4037f439217?utm_campaign=1051&utm_source=git)** | Virginia | On Site | Mar 04 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69a8e7237ac93962b708ca1b?utm_campaign=1051&utm_source=git)** | Shawano, Wisconsin (WI) | On Site | Mar 04 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69a8f53f2580d3183f0121b5?utm_campaign=1051&utm_source=git)** | 12500 West Creek Pkwy | On Site | Mar 04 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69a8f46f79f3f4037f439217?utm_campaign=1051&utm_source=git)** | Virginia | On Site | Mar 04 |
 | **[Relevate Health](https://www.relevatehealth.com/)** | **[Client Solutions Intern](https://jobright.ai/jobs/info/69a8f2e279f3f4037f438ef7?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Celanese](http://www.celanese.com)** | **[Sales Intern (Acetyls)](https://jobright.ai/jobs/info/69a8f63179f3f4037f4394f9?utm_campaign=1051&utm_source=git)** | Irving, TX, US | On Site | Mar 04 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Analytics & Operations Customer Success Internship - Summer 2026](https://jobright.ai/jobs/info/69a8e60f7ac93962b708c8e9?utm_campaign=1051&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69a8c4c979f3f4037f433c76?utm_campaign=1051&utm_source=git)** | Concord, CA | On Site | Mar 04 |
 | **[JTI](http://www.jti.com)** | **[Summer Intern Sales, Western Region  - Vancouver, BC](https://jobright.ai/jobs/info/69a8b5bb2580d3183f00bfe8?utm_campaign=1051&utm_source=git)** | COQUITLAM, CA, V3K 7B2 | On Site | Mar 04 |
 | ↳ | **[Summer Intern Sales, Western Region  - Fraser Valley, BC](https://jobright.ai/jobs/info/69a8c1c779f3f4037f4335c1?utm_campaign=1051&utm_source=git)** | COQUITLAM, CA, V3K 7B2 | On Site | Mar 04 |
-| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Vendor Finance Intern](https://jobright.ai/jobs/info/69a8900d7ac93962b7084e85?utm_campaign=1051&utm_source=git)** | Mount Laurel, NJ, US | Hybrid | Mar 04 |
-| ↳ | **[2026 Canon Insights Summer Internship - Vendor Finance Intern](https://jobright.ai/jobs/info/69a88fc52580d3183f009408?utm_campaign=1051&utm_source=git)** | US-NJ-Mount Laurel | Hybrid | Mar 04 |
-| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Sales Operations](https://jobright.ai/jobs/info/6999c0ce81476f6176b283f3?utm_campaign=1051&utm_source=git)** | Wilmington, MA | Remote | Mar 04 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Supply Chain Management - Sales Organization](https://jobright.ai/jobs/info/69a8bbbc2580d3183f00c8cd?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, US, 15212 | Hybrid | Mar 04 |
-| **[Forge Marketing](gritxforge.com/landinghome)** | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69a8be9c79f3f4037f433002?utm_campaign=1051&utm_source=git)** | Abilene, TX | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
