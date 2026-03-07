@@ -57,28 +57,32 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hoods Unlimited Inc](www.hoodsunlimited.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ac17be7e1fab39d383cd19?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Mar 07 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Sales Intern (Local and Digital Sales)](https://jobright.ai/jobs/info/698fe6ae6ea51a7610f24b2d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 07 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - West Texas](https://jobright.ai/jobs/info/698fb96a6ea51a7610f223ff?utm_campaign=1051&utm_source=git)** | Lubbock, TX | On Site | Mar 07 |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ac0af97e1fab39d383c861?utm_campaign=1051&utm_source=git)** | Portland, OR US | Hybrid | Mar 07 |
 | **[SPX Technologies](https://www.spx.com)** | **[Sales Development Program](https://jobright.ai/jobs/info/6919677345fb6f5ead8a8812?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Mar 07 |
 | **[Legends Global](http://legends.net)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/698fdd460cc8ea15f1da737e?utm_campaign=1051&utm_source=git)** | Frisco, TX | On Site | Mar 07 |
 | **[Advantage Metals Recycling - A Nucor Company](https://advantagerecycling.com)** | **[Sales Summer Internship Program](https://jobright.ai/jobs/info/698f8d5e0f6f7e7a2cebd067?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Mar 07 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/698ab1b84db8972cec00136e?utm_campaign=1051&utm_source=git)** | Dayton Metropolitan Area | On Site | Mar 07 |
 | **[Forge Marketing](gritxforge.com/landinghome)** | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69abf2bd7e1fab39d383c0a8?utm_campaign=1051&utm_source=git)** | Leesburg, FL | On Site | Mar 07 |
-| ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69abf2bc7e1fab39d383c0a5?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69abf2bc7e1fab39d383c0a3?utm_campaign=1051&utm_source=git)** | Burlington, NC | On Site | Mar 07 |
+| ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69abf2bc7e1fab39d383c0a5?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | Mar 07 |
+| ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69abf2bb7e1fab39d383c09f?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69abf2bb7e1fab39d383c0a0?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69abf2bb7e1fab39d383c0a2?utm_campaign=1051&utm_source=git)** | Binghamton, NY | On Site | Mar 07 |
-| ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69abf2bb7e1fab39d383c09f?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69abf2bb7e1fab39d383c0a1?utm_campaign=1051&utm_source=git)** | Grand Junction, CO | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69abf2b87e1fab39d383c097?utm_campaign=1051&utm_source=git)** | Kenosha, WI | On Site | Mar 07 |
-| ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69abf2b37e1fab39d383c08f?utm_campaign=1051&utm_source=git)** | Warner Robins, GA | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69abf2b37e1fab39d383c090?utm_campaign=1051&utm_source=git)** | Yakima, WA | On Site | Mar 07 |
-| ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69abf2b27e1fab39d383c08c?utm_campaign=1051&utm_source=git)** | Mauldin, SC | On Site | Mar 07 |
+| ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69abf2b37e1fab39d383c08f?utm_campaign=1051&utm_source=git)** | Warner Robins, GA | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69abf2b27e1fab39d383c08d?utm_campaign=1051&utm_source=git)** | Port Arthur, TX | On Site | Mar 07 |
+| ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69abf2b27e1fab39d383c08c?utm_campaign=1051&utm_source=git)** | Mauldin, SC | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69abf2ab7e1fab39d383c073?utm_campaign=1051&utm_source=git)** | Merced, CA | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69abf2ab7e1fab39d383c076?utm_campaign=1051&utm_source=git)** | Frederick, MD | On Site | Mar 07 |
-| ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69abf2aa7e1fab39d383c070?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | On Site | Mar 07 |
-| ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69abf2aa7e1fab39d383c072?utm_campaign=1051&utm_source=git)** | Medford, OR | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69abf2aa7e1fab39d383c071?utm_campaign=1051&utm_source=git)** | Hemet, CA | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69abf2aa7e1fab39d383c06f?utm_campaign=1051&utm_source=git)** | Lynchburg, VA | On Site | Mar 07 |
+| ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69abf2aa7e1fab39d383c072?utm_campaign=1051&utm_source=git)** | Medford, OR | On Site | Mar 07 |
+| ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69abf2aa7e1fab39d383c070?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69abf2a27e1fab39d383c05f?utm_campaign=1051&utm_source=git)** | Elkhart, IN | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69abf2a27e1fab39d383c060?utm_campaign=1051&utm_source=git)** | Fredericksburg, VA | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69abf2a17e1fab39d383c05e?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | Mar 07 |
@@ -86,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69abf2282747003c3d51daef?utm_campaign=1051&utm_source=git)** | Muskegon, MI | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69abf21f2747003c3d51dae3?utm_campaign=1051&utm_source=git)** | Ocala, FL | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69abf21b2747003c3d51dad8?utm_campaign=1051&utm_source=git)** | Marysville, WA | On Site | Mar 07 |
-| ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69abf21a2747003c3d51dad7?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69abf21a2747003c3d51dad6?utm_campaign=1051&utm_source=git)** | Charleston, WV | On Site | Mar 07 |
+| ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69abf21a2747003c3d51dad7?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69abf2132747003c3d51dac8?utm_campaign=1051&utm_source=git)** | Panama City, FL | On Site | Mar 07 |
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69abf20d2747003c3d51dabb?utm_campaign=1051&utm_source=git)** | Harlingen, TX | On Site | Mar 07 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/699a7b84e0bddb6acac98f11?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Mar 07 |
@@ -102,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Vevo](http://vevo.com)** | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69abc9f57e1fab39d3837fe5?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[Wohlsen Construction Company](http://wohlsenconstruction.com)** | **[Proposal & Business Development Services Intern](https://jobright.ai/jobs/info/69abc2972747003c3d517c97?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Mar 06 |
 | **[FreedomPay](https://corporate.freedompay.com/)** | **[Summer Intern 2026 - Customer Success](https://jobright.ai/jobs/info/69abb46d142d5b4265fcf829?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Mar 06 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69abaf05142d5b4265fce3eb?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Mar 06 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/69abaefe142d5b4265fce3e2?utm_campaign=1051&utm_source=git)** | Union City, CA | On Site | Mar 06 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/69abaec37e1fab39d383339f?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Mar 06 |
 | ↳ | **[Tourism & Operations Intern](https://jobright.ai/jobs/info/69abaeb87e1fab39d383338a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
@@ -124,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Pest Control Consultants](https://www.nellspestcontrol.com/)** | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ab93697e1fab39d38300f5?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Mar 06 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ab93307e1fab39d3830037?utm_campaign=1051&utm_source=git)** | Pearl, MS | On Site | Mar 06 |
 | **[BMO](http://www.bmo.com)** | **[Personal Banking Associate, Summer 2026 (co-op/internship)-4 Months](https://jobright.ai/jobs/info/69ab93177e1fab39d382ffeb?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Mar 06 |
-| **[CareScout](https://www.carescout.com)** | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab93107e1fab39d382ffc5?utm_campaign=1051&utm_source=git)** | Maryland, United States | Remote | Mar 06 |
-| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab93107e1fab39d382ffc6?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Mar 06 |
+| **[CareScout](https://www.carescout.com)** | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab93107e1fab39d382ffc6?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Mar 06 |
+| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab93107e1fab39d382ffc5?utm_campaign=1051&utm_source=git)** | Maryland, United States | Remote | Mar 06 |
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab91872747003c3d5110cd?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Mar 06 |
 | **[Faurecia](https://www.forvia.com)** | **[Sales Intern, Ford](https://jobright.ai/jobs/info/69ab91782747003c3d51109a?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Mar 06 |
 | **[CareScout](https://www.carescout.com)** | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9174142d5b4265fcaaaa?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Mar 06 |
@@ -136,25 +139,22 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c732747003c3d5125ee?utm_campaign=1051&utm_source=git)** | West Virginia, United States | Remote | Mar 06 |
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9ca02747003c3d512624?utm_campaign=1051&utm_source=git)** | Louisiana, United States | Remote | Mar 06 |
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c8f2747003c3d512612?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Mar 06 |
-| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab981a7e1fab39d3830c15?utm_campaign=1051&utm_source=git)** | Mississippi, United States | Remote | Mar 06 |
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab981a7e1fab39d3830c16?utm_campaign=1051&utm_source=git)** | North Dakota, United States | Remote | Mar 06 |
+| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab981a7e1fab39d3830c15?utm_campaign=1051&utm_source=git)** | Mississippi, United States | Remote | Mar 06 |
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab98007e1fab39d3830c05?utm_campaign=1051&utm_source=git)** | Oklahoma, United States | Remote | Mar 06 |
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c04142d5b4265fcbee0?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Mar 06 |
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c9b2747003c3d51261b?utm_campaign=1051&utm_source=git)** | Iowa, United States | Remote | Mar 06 |
-| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c7e2747003c3d5125fd?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | Mar 06 |
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c24142d5b4265fcbef3?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | Mar 06 |
+| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c7e2747003c3d5125fd?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | Mar 06 |
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c0d142d5b4265fcbee7?utm_campaign=1051&utm_source=git)** | Missouri, United States | Remote | Mar 06 |
-| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c13142d5b4265fcbeea?utm_campaign=1051&utm_source=git)** | Kansas, United States | Remote | Mar 06 |
-| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c40142d5b4265fcbef9?utm_campaign=1051&utm_source=git)** | Wisconsin, United States | Remote | Mar 06 |
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c1a142d5b4265fcbeee?utm_campaign=1051&utm_source=git)** | Connecticut, United States | Remote | Mar 06 |
-| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c01142d5b4265fcbede?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Mar 06 |
-| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab982d7e1fab39d3830c21?utm_campaign=1051&utm_source=git)** | Arkansas, United States | Remote | Mar 06 |
+| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c40142d5b4265fcbef9?utm_campaign=1051&utm_source=git)** | Wisconsin, United States | Remote | Mar 06 |
+| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c13142d5b4265fcbeea?utm_campaign=1051&utm_source=git)** | Kansas, United States | Remote | Mar 06 |
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab980e7e1fab39d3830c0c?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Mar 06 |
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c40142d5b4265fcbef8?utm_campaign=1051&utm_source=git)** | New Jersey, United States | Remote | Mar 06 |
+| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c01142d5b4265fcbede?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Mar 06 |
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab982d7e1fab39d3830c23?utm_campaign=1051&utm_source=git)** | United, PA | Remote | Mar 06 |
+| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab982d7e1fab39d3830c21?utm_campaign=1051&utm_source=git)** | Arkansas, United States | Remote | Mar 06 |
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c0d142d5b4265fcbee6?utm_campaign=1051&utm_source=git)** | Richmond, VA | Remote | Mar 06 |
-| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c7e2747003c3d5125fb?utm_campaign=1051&utm_source=git)** | Rhode Island, United States | Remote | Mar 06 |
-| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c08142d5b4265fcbee3?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Mar 06 |
 | ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab98087e1fab39d3830c07?utm_campaign=1051&utm_source=git)** | Maryland, United States | Remote | Mar 06 |
-| ↳ | **[CareScout Partnerships Intern – Summer 2026](https://jobright.ai/jobs/info/69ab9c7f2747003c3d5125fe?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
