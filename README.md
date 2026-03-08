@@ -86,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68cc6f4a7342c7623ae64c9b?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Mar 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f2779a49a885af9a2c989?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Mar 08 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/693513adf131d96e4846ccb3?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Mar 08 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f497e3f782d2f1afb9f04?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Mar 08 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69211f253f782d2f1afcf61a?utm_campaign=1051&utm_source=git)** | West Chester, PA | On Site | Mar 08 |
+| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f497e3f782d2f1afb9f04?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Mar 08 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Planning Analytics Intern](https://jobright.ai/jobs/info/69a653bee567421f42575277?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 08 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Sales and Trading Internships - NYC](https://jobright.ai/jobs/info/6903d42f63502c0aded6cfe3?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Mar 08 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69ad67f8142d5b4265fe8e94?utm_campaign=1051&utm_source=git)** | Maitland, FL | On Site | Mar 08 |
@@ -98,16 +98,13 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[Non Alcs Category Manager Intern](https://jobright.ai/jobs/info/691f4ad23f782d2f1afba002?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Mar 08 |
 | **[American Industrial Transport - AITX](https://aitx.com/)** | **[Commercial Intern (Sales Team)](https://jobright.ai/jobs/info/69583ad29f1b381eb27122c6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 08 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Business Development Intern-Corporate](https://jobright.ai/jobs/info/6973dac1bc8e722e7b18aa78?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Mar 08 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69ad535b7e1fab39d384c59c?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Mar 08 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/697d8ccd7f40342e15d66f87?utm_campaign=1051&utm_source=git)** | Middlebury, CT | On Site | Mar 08 |
-| ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/6978418e39f7f96cc6d090c5?utm_campaign=1051&utm_source=git)** | Hauppauge, NY | On Site | Mar 08 |
 | **[Xylem](https://heimplanet.com/)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/69620d3f25e18715077eebf6?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Mar 08 |
 | **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68e8821f09580a2fe57f86ba?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | On Site | Mar 08 |
 | ↳ | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/6905dcdf63502c0aded7eb87?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Mar 08 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/69ad1e4a2747003c3d52a377?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 07 |
 | **[ALO](https://www.aloyoga.com/)** | **[Business Acumen Intern](https://jobright.ai/jobs/info/69966b0e81476f6176ae3c04?utm_campaign=1051&utm_source=git)** | Beverly Hills, California, United States | On Site | Mar 07 |
-| **[Pest Control Consultants](https://www.nellspestcontrol.com/)** | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ace55a142d5b4265fe0e99?utm_campaign=1051&utm_source=git)** | Midland, MI | On Site | Mar 07 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ace55a142d5b4265fe0e9a?utm_campaign=1051&utm_source=git)** | Battle Creek, MI | On Site | Mar 07 |
+| **[Pest Control Consultants](https://www.nellspestcontrol.com/)** | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ace55a142d5b4265fe0e9a?utm_campaign=1051&utm_source=git)** | Battle Creek, MI | On Site | Mar 07 |
+| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ace55a142d5b4265fe0e99?utm_campaign=1051&utm_source=git)** | Midland, MI | On Site | Mar 07 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ace54d2747003c3d5275f9?utm_campaign=1051&utm_source=git)** | Van Wert, OH | On Site | Mar 07 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ace5487e1fab39d3845ccf?utm_campaign=1051&utm_source=git)** | Madison, MS | On Site | Mar 07 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ace35b7e1fab39d3845c73?utm_campaign=1051&utm_source=git)** | Oak Lawn, IL | On Site | Mar 07 |
@@ -126,17 +123,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f3b2747003c3d52254a?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f3a2747003c3d522547?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f362747003c3d522542?utm_campaign=1051&utm_source=git)** | Fayetteville, NC | On Site | Mar 07 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f352747003c3d52253e?utm_campaign=1051&utm_source=git)** | Aurora, IL | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f352747003c3d52253c?utm_campaign=1051&utm_source=git)** | Oceanside, CA | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f352747003c3d522540?utm_campaign=1051&utm_source=git)** | Ramapo, NY | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f352747003c3d52253d?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | On Site | Mar 07 |
+| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f352747003c3d52253e?utm_campaign=1051&utm_source=git)** | Aurora, IL | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f2c142d5b4265fdd1bc?utm_campaign=1051&utm_source=git)** | Brownsville, TX | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f2b142d5b4265fdd1bb?utm_campaign=1051&utm_source=git)** | San Bernardino, CA | On Site | Mar 07 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f297e1fab39d38420d6?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f297e1fab39d38420d5?utm_campaign=1051&utm_source=git)** | Amarillo, TX | On Site | Mar 07 |
+| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f297e1fab39d38420d6?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f27142d5b4265fdd1af?utm_campaign=1051&utm_source=git)** | Hayward, CA | On Site | Mar 07 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f27142d5b4265fdd1b1?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f27142d5b4265fdd1b0?utm_campaign=1051&utm_source=git)** | Sunrise Manor, NV | On Site | Mar 07 |
+| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f27142d5b4265fdd1b1?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f26142d5b4265fdd1ae?utm_campaign=1051&utm_source=git)** | Moreno Valley, CA | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f26142d5b4265fdd1ad?utm_campaign=1051&utm_source=git)** | Palmdale, CA | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f247e1fab39d38420cc?utm_campaign=1051&utm_source=git)** | Lubbock, TX | On Site | Mar 07 |
@@ -153,8 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69acdf822747003c3d527580?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69acdf832747003c3d527582?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69acdf787e1fab39d3845bf6?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Mar 07 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69acdf9c142d5b4265fe0ddf?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69acdf862747003c3d527586?utm_campaign=1051&utm_source=git)** | Santa Rosa, CA | On Site | Mar 07 |
+| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69acdf9c142d5b4265fe0ddf?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69acdfa0142d5b4265fe0de9?utm_campaign=1051&utm_source=git)** | Hollywood, FL | On Site | Mar 07 |
+| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69acdf9d142d5b4265fe0de3?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69acdf9f142d5b4265fe0de6?utm_campaign=1051&utm_source=git)** | Rancho Cucamonga, CA | On Site | Mar 07 |
+| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69acdf7b7e1fab39d3845bf8?utm_campaign=1051&utm_source=git)** | Salinas, CA | On Site | Mar 07 |
+| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69acdf797e1fab39d3845bf7?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
