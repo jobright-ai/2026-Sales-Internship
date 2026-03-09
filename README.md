@@ -123,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Mar 08 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69741ba1206da320f49e3c92?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Mar 08 |
 | **[National Life Group](https://www.nationallife.com)** | **[Advanced Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6973e79dbc8e722e7b18c0ff?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Mar 08 |
+| **[Caribbean Wall Street](https://caribbeanwallstreet.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69aeca125224a240f103c85c?utm_campaign=1051&utm_source=git)** | Schenectady, NY | On Site | Mar 08 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/697425b237785856350e1fd2?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Mar 08 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68cc6f4a7342c7623ae64c9b?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Mar 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f2779a49a885af9a2c989?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Mar 08 |
@@ -139,12 +140,12 @@ For a complete list, click the following sortable link below:
 | **[American Industrial Transport - AITX](https://aitx.com/)** | **[Commercial Intern (Sales Team)](https://jobright.ai/jobs/info/69583ad29f1b381eb27122c6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 08 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Business Development Intern-Corporate](https://jobright.ai/jobs/info/6973dac1bc8e722e7b18aa78?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Mar 08 |
 | **[Xylem](https://heimplanet.com/)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/69620d3f25e18715077eebf6?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Mar 08 |
-| **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/6905dcdf63502c0aded7eb87?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Mar 08 |
-| ↳ | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68e8821f09580a2fe57f86ba?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | On Site | Mar 08 |
+| **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68e8821f09580a2fe57f86ba?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | On Site | Mar 08 |
+| ↳ | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/6905dcdf63502c0aded7eb87?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Mar 08 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/69ad1e4a2747003c3d52a377?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 07 |
 | **[ALO](https://www.aloyoga.com/)** | **[Business Acumen Intern](https://jobright.ai/jobs/info/69966b0e81476f6176ae3c04?utm_campaign=1051&utm_source=git)** | Beverly Hills, California, United States | On Site | Mar 07 |
-| **[Pest Control Consultants](https://www.nellspestcontrol.com/)** | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ace55a142d5b4265fe0e99?utm_campaign=1051&utm_source=git)** | Midland, MI | On Site | Mar 07 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ace55a142d5b4265fe0e9a?utm_campaign=1051&utm_source=git)** | Battle Creek, MI | On Site | Mar 07 |
+| **[Pest Control Consultants](https://www.nellspestcontrol.com/)** | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ace55a142d5b4265fe0e9a?utm_campaign=1051&utm_source=git)** | Battle Creek, MI | On Site | Mar 07 |
+| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ace55a142d5b4265fe0e99?utm_campaign=1051&utm_source=git)** | Midland, MI | On Site | Mar 07 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ace54d2747003c3d5275f9?utm_campaign=1051&utm_source=git)** | Van Wert, OH | On Site | Mar 07 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ace5487e1fab39d3845ccf?utm_campaign=1051&utm_source=git)** | Madison, MS | On Site | Mar 07 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ace35b7e1fab39d3845c73?utm_campaign=1051&utm_source=git)** | Oak Lawn, IL | On Site | Mar 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bone Dry Roofing](https://www.bonedry.com/)** | **[Summer Internship: Sales - 2026***](https://jobright.ai/jobs/info/69ac9b2f2747003c3d52377c?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Mar 07 |
 | **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f472747003c3d522566?utm_campaign=1051&utm_source=git)** | Augusta, GA | On Site | Mar 07 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f472747003c3d522568?utm_campaign=1051&utm_source=git)** | Yonkers, NY | On Site | Mar 07 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ac8f452747003c3d522565?utm_campaign=1051&utm_source=git)** | Salem, OR | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
