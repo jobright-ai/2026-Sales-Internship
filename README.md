@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/69af996a7495006450943289?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Mar 09 |
+| **[StoutPower Consulting, LLC](http://stoutpower.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69af93156b21de023e60d061?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Mar 09 |
+| **[Sigma](http://sigmacomputing.com)** | **[Partnerships Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699e681ce0bddb6acacdefc9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Mar 09 |
 | **[Pest Control Consultants](https://www.nellspestcontrol.com/)** | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69af8b866b21de023e60c60e?utm_campaign=1051&utm_source=git)** | Columbia City, IN | On Site | Mar 09 |
 | ↳ | **[Summer Sales Internship - Earn $8,000 - $25,000+ (Training Provided)](https://jobright.ai/jobs/info/69af8b687495006450940e83?utm_campaign=1051&utm_source=git)** | Gulfport, MS | On Site | Mar 09 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69af8b677495006450940e82?utm_campaign=1051&utm_source=git)** | Moline, IL | On Site | Mar 09 |
@@ -109,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Massachusetts Institute of Technology](http://web.mit.edu)** | **[Entrepreneur in Residence](https://jobright.ai/jobs/info/69af26b4dfaeda6ff5973ad2?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Mar 09 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69af26976b21de023e604dbc?utm_campaign=1051&utm_source=git)** | US-TX-Sinton | On Site | Mar 09 |
 | ↳ | **[Sales Internship](https://jobright.ai/jobs/info/69af2696dfaeda6ff5973a2a?utm_campaign=1051&utm_source=git)** | Columbus, MS, US | On Site | Mar 09 |
-| ↳ | **[Sales Internship](https://jobright.ai/jobs/info/69af267f7495006450939f62?utm_campaign=1051&utm_source=git)** | US-MS-Columbus | On Site | Mar 09 |
 | ↳ | **[Sales Internship](https://jobright.ai/jobs/info/69af267f7495006450939f64?utm_campaign=1051&utm_source=git)** | Sinton, TX, US | On Site | Mar 09 |
+| ↳ | **[Sales Internship](https://jobright.ai/jobs/info/69af267f7495006450939f62?utm_campaign=1051&utm_source=git)** | US-MS-Columbus | On Site | Mar 09 |
 | **[GMMB](http://gmmb.com)** | **[Account Management - Summer Internship 2026, Seattle](https://jobright.ai/jobs/info/69af26416b21de023e604c48?utm_campaign=1051&utm_source=git)** | Seattle, WA | Hybrid | Mar 09 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern - Public Sector Business Development](https://jobright.ai/jobs/info/69aa30062ebd316bece1ee86?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Mar 09 |
 | **[Division-D](http://www.divisiond.com/)** | **[Programmatic Account Manager Intern](https://jobright.ai/jobs/info/69af24aadfaeda6ff5973743?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Mar 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[David Yurman](http://www.davidyurman.com)** | **[Planning Intern](https://jobright.ai/jobs/info/69a811f4d010537e74325f87?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
 | ↳ | **[Buying Intern](https://jobright.ai/jobs/info/6978a13139f7f96cc6d106a4?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
 | **[Ibility LLC](http://ibility.io)** | **[Business Development Intern](https://jobright.ai/jobs/info/69aedc5c7495006450934074?utm_campaign=1051&utm_source=git)** | Kansas City, MO | Hybrid | Mar 09 |
-| **[Visa](https://www.visa.com)** | **[Sales Development Intern - Summer 2026](https://jobright.ai/jobs/info/69aed9ca6b21de023e5fe448?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Mar 09 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6992e610e0bddb6acac11b2e?utm_campaign=1051&utm_source=git)** | Maitland, FL | On Site | Mar 09 |
-| ↳ | **[Employee Benefits Sales Intern](https://jobright.ai/jobs/info/69aed8efdfaeda6ff596cdc3?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
