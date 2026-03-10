@@ -83,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[UDR - Opening Doors to your future](http://www.udr.com/)** | **[Intern - Multi-Family Property Management](https://jobright.ai/jobs/info/69af78c26b21de023e60aa39?utm_campaign=1051&utm_source=git)** | College Park, MD | On Site | Mar 09 |
 | **[Uber](http://www.uber.com)** | **[2026 Account Representative Intern, US - Sales](https://jobright.ai/jobs/info/69af77f7749500645093f2e9?utm_campaign=1051&utm_source=git)** | US-IL-Chicago | On Site | Mar 09 |
 | ↳ | **[2026 Account Representative Intern, US - Sales](https://jobright.ai/jobs/info/69af770adfaeda6ff5979725?utm_campaign=1051&utm_source=git)** | Chicago, IL, US | On Site | Mar 09 |
+| **[Faurecia](https://www.forvia.com)** | **[Sales Intern, GM](https://jobright.ai/jobs/info/69abed52142d5b4265fd6f47?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Mar 09 |
 | **[UDR - Opening Doors to your future](http://www.udr.com/)** | **[Intern - Residential Property Operations](https://jobright.ai/jobs/info/69af7204749500645093e2c7?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States | On Site | Mar 09 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69af71ba6b21de023e609067?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Mar 09 |
 | **[UDR - Opening Doors to your future](http://www.udr.com/)** | **[Intern - Residential Property Operations](https://jobright.ai/jobs/info/69af71b36b21de023e609055?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States | On Site | Mar 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Sourcing Intern](https://jobright.ai/jobs/info/6920c2393f782d2f1afcb1c0?utm_campaign=1051&utm_source=git)** | Sycamore, IL | On Site | Mar 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e86d7cc72beb74cb31e8b7?utm_campaign=1051&utm_source=git)** | Longview, TX | On Site | Mar 09 |
 | **[LS Black Development](https://www.linkedin.com/company/65445154)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/69aeed9adfaeda6ff596f337?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Mar 09 |
-| **[Jovia Financial Credit Union](https://www.joviafinancial.com)** | **[Member Knowledge Intern](https://jobright.ai/jobs/info/69aeea917495006450935bc8?utm_campaign=1051&utm_source=git)** | Westbury, NY | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
