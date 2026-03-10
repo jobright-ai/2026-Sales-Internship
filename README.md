@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intercom](https://www.intercom.com/)** | **[Sales Development Coordinator (6 month internship)](https://jobright.ai/jobs/info/698a3cd24db8972cecff7bfc?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | Hybrid | Mar 09 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern (Volunteer)](https://jobright.ai/jobs/info/69afa460dfaeda6ff5980736?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Mar 09 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Summer 2026](https://jobright.ai/jobs/info/69af9ef0dfaeda6ff597f080?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Mar 09 |
+| **[ICONIX Waterworks](https://www.iconixww.com/)** | **[Inside Sales Co-op Student  (Summer Work Term)](https://jobright.ai/jobs/info/69af9eaa7495006450944566?utm_campaign=1051&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Mar 09 |
+| **[SpotHero](http://www.spothero.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69af9e9ddfaeda6ff597eefb?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
+| ↳ | **[Venue Partnerships Intern](https://jobright.ai/jobs/info/69af9e94dfaeda6ff597eeda?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
+| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69af9b626b21de023e60f84f?utm_campaign=1051&utm_source=git)** | Lincoln, RI | On Site | Mar 09 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/69af996a7495006450943289?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Mar 09 |
 | **[StoutPower Consulting, LLC](http://stoutpower.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69af93156b21de023e60d061?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Mar 09 |
 | **[Sigma](http://sigmacomputing.com)** | **[Partnerships Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699e681ce0bddb6acacdefc9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Mar 09 |
@@ -84,8 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Purchasing](https://jobright.ai/jobs/info/69af68dbdfaeda6ff5977c01?utm_campaign=1051&utm_source=git)** | Lost Hills, CA | On Site | Mar 09 |
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Sales](https://jobright.ai/jobs/info/69af6850749500645093deb6?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 09 |
 | **[Crews & Associates](http://www.crewsfs.com/)** | **[Sales & Trading Intern](https://jobright.ai/jobs/info/69af680d6b21de023e608bd8?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Mar 09 |
-| **[SpotHero](http://www.spothero.com)** | **[Venue Partnerships Intern](https://jobright.ai/jobs/info/69af65096b21de023e608aa9?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
-| ↳ | **[Sales Operations Intern](https://jobright.ai/jobs/info/69af645e749500645093dc58?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[Graduate Intern – Aviation Business Development](https://jobright.ai/jobs/info/69af82b66b21de023e60ba01?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Mar 09 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Development/Project Management Intern](https://jobright.ai/jobs/info/69af5ee06b21de023e608756?utm_campaign=1051&utm_source=git)** | Cleveland, OH | Remote | Mar 09 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69af7d66749500645093fc3a?utm_campaign=1051&utm_source=git)** | Columbus, MS | On Site | Mar 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e86d7cc72beb74cb31e8b7?utm_campaign=1051&utm_source=git)** | Longview, TX | On Site | Mar 09 |
 | **[LS Black Development](https://www.linkedin.com/company/65445154)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/69aeed9adfaeda6ff596f337?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Mar 09 |
 | **[Jovia Financial Credit Union](https://www.joviafinancial.com)** | **[Member Knowledge Intern](https://jobright.ai/jobs/info/69aeea917495006450935bc8?utm_campaign=1051&utm_source=git)** | Westbury, NY | Hybrid | Mar 09 |
-| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Supply Chain Wholesale Internship](https://jobright.ai/jobs/info/69aee2ab7495006450934f9d?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Mar 09 |
-| **[State Street](https://www.statestreet.com/)** | **[Client Strategy, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69af3793749500645093ba14?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Mar 09 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Planning Intern](https://jobright.ai/jobs/info/69a811f4d010537e74325f87?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
-| ↳ | **[Buying Intern](https://jobright.ai/jobs/info/6978a13139f7f96cc6d106a4?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
-| **[Ibility LLC](http://ibility.io)** | **[Business Development Intern](https://jobright.ai/jobs/info/69aedc5c7495006450934074?utm_campaign=1051&utm_source=git)** | Kansas City, MO | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
