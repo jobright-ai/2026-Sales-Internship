@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern - Summer 2026)](https://jobright.ai/jobs/info/69a888242580d3183f008e0d?utm_campaign=1051&utm_source=git)** | Bridgeton, MO | On Site | Mar 10 |
 | **[Intercom](https://www.intercom.com/)** | **[Sales Development Coordinator (6 month internship)](https://jobright.ai/jobs/info/698a3cd24db8972cecff7bfc?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | Hybrid | Mar 09 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern (Volunteer)](https://jobright.ai/jobs/info/69afa460dfaeda6ff5980736?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Mar 09 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Summer 2026](https://jobright.ai/jobs/info/69af9ef0dfaeda6ff597f080?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Mar 09 |
 | **[ICONIX Waterworks](https://www.iconixww.com/)** | **[Inside Sales Co-op Student  (Summer Work Term)](https://jobright.ai/jobs/info/69af9eaa7495006450944566?utm_campaign=1051&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Mar 09 |
 | **[SpotHero](http://www.spothero.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69af9e9ddfaeda6ff597eefb?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
 | ↳ | **[Venue Partnerships Intern](https://jobright.ai/jobs/info/69af9e94dfaeda6ff597eeda?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[GMMB](http://gmmb.com)** | **[Account Management - Summer Internship 2026, Seattle](https://jobright.ai/jobs/info/69aef9907495006450936aeb?utm_campaign=1051&utm_source=git)** | Seattle, Washington, United States | Hybrid | Mar 09 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69aef83fdfaeda6ff596ff10?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6921226400c9ee50eaecc023?utm_campaign=1051&utm_source=git)** | Springfield, PA | On Site | Mar 09 |
+| ↳ | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/69355063764507023d1c00f4?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
