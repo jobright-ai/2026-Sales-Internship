@@ -80,13 +80,12 @@ For a complete list, click the following sortable link below:
 | **[Massachusetts Institute of Technology](http://web.mit.edu)** | **[Entrepreneur in Residence](https://jobright.ai/jobs/info/69af26b4dfaeda6ff5973ad2?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Mar 09 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69af26976b21de023e604dbc?utm_campaign=1051&utm_source=git)** | US-TX-Sinton | On Site | Mar 09 |
 | ↳ | **[Sales Internship](https://jobright.ai/jobs/info/69af2696dfaeda6ff5973a2a?utm_campaign=1051&utm_source=git)** | Columbus, MS, US | On Site | Mar 09 |
-| ↳ | **[Sales Internship](https://jobright.ai/jobs/info/69af267f7495006450939f62?utm_campaign=1051&utm_source=git)** | US-MS-Columbus | On Site | Mar 09 |
 | ↳ | **[Sales Internship](https://jobright.ai/jobs/info/69af267f7495006450939f64?utm_campaign=1051&utm_source=git)** | Sinton, TX, US | On Site | Mar 09 |
+| ↳ | **[Sales Internship](https://jobright.ai/jobs/info/69af267f7495006450939f62?utm_campaign=1051&utm_source=git)** | US-MS-Columbus | On Site | Mar 09 |
 | **[GMMB](http://gmmb.com)** | **[Account Management - Summer Internship 2026, Seattle](https://jobright.ai/jobs/info/69af26416b21de023e604c48?utm_campaign=1051&utm_source=git)** | Seattle, WA | Hybrid | Mar 09 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern - Public Sector Business Development](https://jobright.ai/jobs/info/69aa30062ebd316bece1ee86?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Mar 09 |
 | **[Division-D](http://www.divisiond.com/)** | **[Programmatic Account Manager Intern](https://jobright.ai/jobs/info/69af24aadfaeda6ff5973743?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Mar 09 |
 | ↳ | **[Account Strategist Intern](https://jobright.ai/jobs/info/69af243d7495006450939b06?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Mar 09 |
-| **[MountainOne](http://mountainone.com)** | **[Commercial Lending Intern](https://jobright.ai/jobs/info/69af5596749500645093d43f?utm_campaign=1051&utm_source=git)** | North Adams, MA | On Site | Mar 09 |
 | **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69af20a6dfaeda6ff5972671?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Mar 09 |
 | **[Aayats (Techstars'24)](https://www.aayats.com)** | **[Chief Hustle Officer (CHO) (Sales & Growth)](https://jobright.ai/jobs/info/69af20496b21de023e603711?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 09 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Business Markets](https://jobright.ai/jobs/info/69af1e2ddfaeda6ff5971f21?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ae3a7c3de6821aaccd74d2?utm_campaign=1051&utm_source=git)** | Southgate, MI | On Site | Mar 08 |
 | **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ae34bb3de6821aaccd742c?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Mar 08 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ae34b83de6821aaccd7427?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Mar 08 |
+| **[Gala Circle Inc.](http://www.galacircle.com)** | **[Community Outreach Intern-Bilingual in Mandarin](https://jobright.ai/jobs/info/69ae347b3de6821aaccd73fb?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
