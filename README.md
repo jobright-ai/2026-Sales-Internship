@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MaintainX](https://www.getmaintainx.com)** | **[Internship - Lead Development Representative](https://jobright.ai/jobs/info/69b06b287495006450969c91?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 10 |
+| **[Schneider Electric](https://www.se.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69b067eedfaeda6ff59a2ede?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
+| **[Lila Sciences](https://www.lila.ai)** | **[Summer Intern, Corporate Development & Investor Relations](https://jobright.ai/jobs/info/69b067a8749500645096962a?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Mar 10 |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69b063197495006450968b17?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Mar 10 |
+| **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Sales Operations Analytics Intern](https://jobright.ai/jobs/info/69b06227749500645096895d?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Mar 10 |
+| **[Woodoo Cabinetry Inc](https://woodoocabinetry.com/)** | **[Design & Sales Intern - (Full-Time Potential)](https://jobright.ai/jobs/info/69b0618b749500645096877a?utm_campaign=1051&utm_source=git)** | Elk Grove Village, IL | On Site | Mar 10 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69b0609fdfaeda6ff59a1ff0?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Mar 10 |
 | **[Schneider Electric](https://www.se.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69b0574bdfaeda6ff59a0ae0?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Mar 10 |
 | ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69b0556b74950064509662d7?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Mar 10 |
@@ -86,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[StandardAero](http://www.standardaero.com/)** | **[Account and Program Management Intern](https://jobright.ai/jobs/info/6940a66950bbaf765052af89?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Mar 10 |
 | **[Crane Aerospace & Electronics](http://www.craneae.com)** | **[Sales & Customer Administration Internship - Summer 2026](https://jobright.ai/jobs/info/69b04171dfaeda6ff599ccef?utm_campaign=1051&utm_source=git)** | Burbank, CA | On Site | Mar 10 |
 | **[Crawford Henrichson Construction](www.chc-ga.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b040eb7495006450962530?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
-| **[New Era Cap](https://www.neweracap.com/)** | **[Corporate Partnerships Intern](https://jobright.ai/jobs/info/6993aadee0bddb6acac1f21a?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
-| ↳ | **[Retail & Brand Activation Intern](https://jobright.ai/jobs/info/6993aab4e0bddb6acac1f1e6?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
+| **[New Era Cap](https://www.neweracap.com/)** | **[Retail & Brand Activation Intern](https://jobright.ai/jobs/info/6993aab4e0bddb6acac1f1e6?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
+| ↳ | **[Corporate Partnerships Intern](https://jobright.ai/jobs/info/6993aadee0bddb6acac1f21a?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
 | **[TransChicago Truck Group](https://www.transchicago.com)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/69b03d2374950064509619fd?utm_campaign=1051&utm_source=git)** | Elmhurst, IL | On Site | Mar 10 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer 2026 College Financial Representative Internship - NYC](https://jobright.ai/jobs/info/68a76806d627244576e2bf58?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[TW Metals LLC](http://www.twmetals.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69a1b6de359fe034b1cd0c5a?utm_campaign=1051&utm_source=git)** | Forest Park, GA | On Site | Mar 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69af8b36dfaeda6ff597b4ab?utm_campaign=1051&utm_source=git)** | Maple Heights, OH | On Site | Mar 09 |
 | **[West Parry Sound Health Centre](https://www.wpshcf.com)** | **[Development Intern, Temporary Full-Time (May 2026 to approximately September 2026),  West Parry Sound Health Centre FOUNDATION](https://jobright.ai/jobs/info/69af85b46b21de023e60bbc8?utm_campaign=1051&utm_source=git)** | Parry Sound, Ontario, Canada | On Site | Mar 09 |
 | **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69af8370749500645094039e?utm_campaign=1051&utm_source=git)** | Buckeye, AZ | On Site | Mar 09 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69af8369dfaeda6ff597aa3d?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Mar 09 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69af835b6b21de023e60ba98?utm_campaign=1051&utm_source=git)** | Berkeley, CA | On Site | Mar 09 |
-| **[Crocs, Inc.](http://www.crocs.com)** | **[Intern - Global Partnerships](https://jobright.ai/jobs/info/69af82c76b21de023e60ba18?utm_campaign=1051&utm_source=git)** | Broomfield, CO | Hybrid | Mar 09 |
-| **[LEARFIELD](http://learfield.com)** | **[Amplify, Revenue Generation Intern](https://jobright.ai/jobs/info/69af82ba6b21de023e60ba04?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Mar 09 |
-| **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Purchasing](https://jobright.ai/jobs/info/69af81106b21de023e60b83d?utm_campaign=1051&utm_source=git)** | Lost Hills, CA, USA | On Site | Mar 09 |
-| **[Pest Control Consultants](https://www.nellspestcontrol.com/)** | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69afe881f63f733065b4064f?utm_campaign=1051&utm_source=git)** | Galion, OH | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
