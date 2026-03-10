@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransChicago Truck Group](https://www.transchicago.com)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/69b03d2374950064509619fd?utm_campaign=1051&utm_source=git)** | Elmhurst, IL | On Site | Mar 10 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer 2026 College Financial Representative Internship - NYC](https://jobright.ai/jobs/info/68a76806d627244576e2bf58?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 10 |
+| **[TW Metals LLC](http://www.twmetals.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69a1b6de359fe034b1cd0c5a?utm_campaign=1051&utm_source=git)** | Forest Park, GA | On Site | Mar 10 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69b03a0574950064509610f8?utm_campaign=1051&utm_source=git)** | West Bend, WI | On Site | Mar 10 |
 | **[MSU Federal Credit Union](http://www.msufcu.org)** | **[Home Loan Post Closing Intern](https://jobright.ai/jobs/info/69b0361174950064509606af?utm_campaign=1051&utm_source=git)** | Greater Lansing | Hybrid | Mar 10 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/697c6bd9137a051025655fa2?utm_campaign=1051&utm_source=git)** | Bluffton, SC | On Site | Mar 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Experience/Sales - Paid Intern (Birmingham, AL)](https://jobright.ai/jobs/info/69af32b26b21de023e605d32?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Mar 09 |
 | **[Circular Materials](https://circularmaterials.ca/)** | **[Intern: Recycling Account Specialist / Remote Canada](https://jobright.ai/jobs/info/69af3248749500645093ad90?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 09 |
 | **[Greenix](https://greenixpc.com)** | **[Salesperson](https://jobright.ai/jobs/info/69af31d0dfaeda6ff59748da?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 09 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[North Bay, Sault Ste. Marie and Sudbury Offices  - Opportunities in Enterprise Core Services - Intern/Co-op - Winter 2027, Summer 2027](https://jobright.ai/jobs/info/69af2e77dfaeda6ff59742ed?utm_campaign=1051&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Mar 09 |
-| ↳ | **[North Bay, Sault Ste. Marie and Sudbury Offices  - Opportunities in Enterprise Core Services - Intern/Co-op - Winter 2027, Summer 2027](https://jobright.ai/jobs/info/69af2e4bdfaeda6ff59742b5?utm_campaign=1051&utm_source=git)** | North Bay, Ontario, Canada | On Site | Mar 09 |
-| **[ARETGroup](aretgroup.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69af293c6b21de023e60516c?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
