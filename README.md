@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Purchasing](https://jobright.ai/jobs/info/69af68dbdfaeda6ff5977c01?utm_campaign=1051&utm_source=git)** | Lost Hills, CA | On Site | Mar 09 |
+| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Sales](https://jobright.ai/jobs/info/69af6850749500645093deb6?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 09 |
+| **[Crews & Associates](http://www.crewsfs.com/)** | **[Sales & Trading Intern](https://jobright.ai/jobs/info/69af680d6b21de023e608bd8?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Mar 09 |
+| **[SpotHero](http://www.spothero.com)** | **[Venue Partnerships Intern](https://jobright.ai/jobs/info/69af65096b21de023e608aa9?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
+| ↳ | **[Sales Operations Intern](https://jobright.ai/jobs/info/69af645e749500645093dc58?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Development/Project Management Intern](https://jobright.ai/jobs/info/69af5ee06b21de023e608756?utm_campaign=1051&utm_source=git)** | Cleveland, OH | Remote | Mar 09 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales & Marketing Internship / Southwestern Family of Companies](https://jobright.ai/jobs/info/69af58a36b21de023e60845f?utm_campaign=1051&utm_source=git)** | DC-Baltimore Area | On Site | Mar 09 |
 | ↳ | **[Sales & Marketing Internship / Southwestern Family of Companies](https://jobright.ai/jobs/info/69af555a749500645093d413?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Mar 09 |
 | **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Business Intern](https://jobright.ai/jobs/info/69af541f749500645093d291?utm_campaign=1051&utm_source=git)** | Waltham, MA, USA | Remote | Mar 09 |
 | **[Thélios](https://thelios.com/)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/69af53796b21de023e608044?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Mar 09 |
 | **[Murphy USA](https://www.murphyusa.com/)** | **[Sales, Operations & Asset Protection Intern](https://jobright.ai/jobs/info/69af4d8c6b21de023e607d17?utm_campaign=1051&utm_source=git)** | El Dorado, AR | On Site | Mar 09 |
-| **[Samuelian Group](https://samueliangroup.com/)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/69af418d749500645093c625?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Mar 09 |
 | **[Ibility LLC](http://ibility.io)** | **[Business Development Intern](https://jobright.ai/jobs/info/69af3f366b21de023e6072ad?utm_campaign=1051&utm_source=git)** | Kansas City, MO | Hybrid | Mar 09 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Build-To-Rent Analyst Intern](https://jobright.ai/jobs/info/69af3c22dfaeda6ff5975d81?utm_campaign=1051&utm_source=git)** | TX-Arlington | On Site | Mar 09 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Business Development/Project Management Intern](https://jobright.ai/jobs/info/69af3a51dfaeda6ff5975a05?utm_campaign=1051&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Mar 09 |
@@ -127,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Buying Intern](https://jobright.ai/jobs/info/6978a13139f7f96cc6d106a4?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
 | **[Ibility LLC](http://ibility.io)** | **[Business Development Intern](https://jobright.ai/jobs/info/69aedc5c7495006450934074?utm_campaign=1051&utm_source=git)** | Kansas City, MO | Hybrid | Mar 09 |
 | **[Visa](https://www.visa.com)** | **[Sales Development Intern - Summer 2026](https://jobright.ai/jobs/info/69aed9ca6b21de023e5fe448?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Mar 09 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6992e610e0bddb6acac11b2e?utm_campaign=1051&utm_source=git)** | Maitland, FL | On Site | Mar 09 |
-| ↳ | **[Employee Benefits Sales Intern](https://jobright.ai/jobs/info/69aed8efdfaeda6ff596cdc3?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Mar 09 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Sales Intern](https://jobright.ai/jobs/info/69aed8efdfaeda6ff596cdc3?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Mar 09 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6992e610e0bddb6acac11b2e?utm_campaign=1051&utm_source=git)** | Maitland, FL | On Site | Mar 09 |
 | **[Healthfirst](https://healthfirst.org)** | **[Products Finance Business Partner Intern &#8211; 2026 Summer Internship](https://jobright.ai/jobs/info/69a2838fb600907a9628dbbf?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69211e20a49a885af9a4302e?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Mar 09 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69aeca16a4f2e119f26e1ce9?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Mar 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/695c3ab222c9dc0d3d54195c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | Mar 08 |
 | **[Dioun Health](diounhealth.com)** | **[Private Equity Sales Intern - Commission Based](https://jobright.ai/jobs/info/69ae410d7c309707d4af63be?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 08 |
 | **[Pest Control Consultants](https://www.nellspestcontrol.com/)** | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ae3a803de6821aaccd74d5?utm_campaign=1051&utm_source=git)** | Kentwood, MI | On Site | Mar 08 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ae3a7e4f6bcc1828093b41?utm_campaign=1051&utm_source=git)** | Corinth, MS | On Site | Mar 08 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69ae3a7c3de6821aaccd74d2?utm_campaign=1051&utm_source=git)** | Southgate, MI | On Site | Mar 08 |
-| **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ae34bb3de6821aaccd742c?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Mar 08 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ae34b83de6821aaccd7427?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Mar 08 |
-| **[Gala Circle Inc.](http://www.galacircle.com)** | **[Community Outreach Intern-Bilingual in Mandarin](https://jobright.ai/jobs/info/69ae347b3de6821aaccd73fb?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
