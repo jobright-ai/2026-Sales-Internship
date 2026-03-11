@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b0ce0b0b2db6275c056dc7?utm_campaign=1051&utm_source=git)** | Vacaville, CA | On Site | Mar 10 |
+| **[Parkview Health](http://www.parkview.com)** | **[Foundation Summer Non-Clinical Intern](https://jobright.ai/jobs/info/69b0c7910b2db6275c0556f2?utm_campaign=1051&utm_source=git)** | Greater Fort Wayne | On Site | Mar 10 |
+| **[Spacelabs Healthcare](http://www.spacelabshealthcare.com)** | **[Patient Monitoring Sales Assistant Intern](https://jobright.ai/jobs/info/69b0c4600b2db6275c054940?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Mar 10 |
 | **[Uber](http://www.uber.com)** | **[2026 Account Representative Intern, US - Sales](https://jobright.ai/jobs/info/69b0bd3b7495006450979909?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69b0bc110b2db6275c052c31?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Mar 10 |
 | **[AXS](https://www.axs.com/)** | **[Summer Intern, Sponsorships (AXS)](https://jobright.ai/jobs/info/69b0ba40dfaeda6ff59b1432?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
@@ -135,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IDB Invest - Regions Upstream Intern](https://jobright.ai/jobs/info/6994277fce78e77b4fd81c6b?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69630fff25e18715077fbeda?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Mar 10 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69b076d5dfaeda6ff59a5578?utm_campaign=1051&utm_source=git)** | Ontario, Canada | On Site | Mar 10 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, US TV Distribution - Summer 2026](https://jobright.ai/jobs/info/69b0708f0b2db6275c045ce2?utm_campaign=1051&utm_source=git)** | Culver City, California | On Site | Mar 10 |
-| ↳ | **[Intern, Digital Distribution, Canada - Summer 2026](https://jobright.ai/jobs/info/69b0708e0b2db6275c045cdd?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | Mar 10 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Digital Distribution, Canada - Summer 2026](https://jobright.ai/jobs/info/69b0708c0b2db6275c045cd9?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | Mar 10 |
+| ↳ | **[Intern, US TV Distribution - Summer 2026](https://jobright.ai/jobs/info/69b0708f0b2db6275c045ce2?utm_campaign=1051&utm_source=git)** | Culver City, California | On Site | Mar 10 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69b04f860b2db6275c03fc81?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Structured Partnerships Support Intern](https://jobright.ai/jobs/info/69941a9f81476f6176abd700?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[Danarys New York](https://www.danarysnyc.com)** | **[Fashion Sales Intern](https://jobright.ai/jobs/info/69b04e2adfaeda6ff599f02b?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Mar 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New Era Cap](https://www.neweracap.com/)** | **[B2B E-Commerce Intern](https://jobright.ai/jobs/info/6993b909ce78e77b4fd78eeb?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[PWM Intern](https://jobright.ai/jobs/info/69b0444a7495006450962fb8?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Mar 10 |
 | **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 E-Commerce Intern, Digital Marketing](https://jobright.ai/jobs/info/69b07689dfaeda6ff59a5414?utm_campaign=1051&utm_source=git)** | USCA > USA > New Jersey > Jersey City - KIP | Hybrid | Mar 10 |
-| **[StandardAero](http://www.standardaero.com/)** | **[Account and Program Management Intern](https://jobright.ai/jobs/info/6940a66950bbaf765052af89?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Mar 10 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Katz Television Intern](https://jobright.ai/jobs/info/69b070420b2db6275c045be0?utm_campaign=1051&utm_source=git)** | New York, NY (55th St) | Hybrid | Mar 10 |
-| **[Crawford Henrichson Construction](www.chc-ga.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b040eb7495006450962530?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
