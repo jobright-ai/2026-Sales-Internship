@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Sales - USA - CA - San Diego - R26-01966](https://jobright.ai/jobs/info/69b103fa0b2db6275c05fd0b?utm_campaign=1051&utm_source=git)** | El Cajon, CA | On Site | Mar 10 |
+| **[AXS](https://www.axs.com/)** | **[Summer Intern, Sponsorships (AXS)](https://jobright.ai/jobs/info/69b103d60b2db6275c05fc7a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Client Relationship Management Intern (Hybrid)](https://jobright.ai/jobs/info/69b10366dfaeda6ff59bde85?utm_campaign=1051&utm_source=git)** | Baltimore, MD | Hybrid | Mar 10 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69b0eb330b2db6275c05d7aa?utm_campaign=1051&utm_source=git)** | Lebanon, TN | On Site | Mar 10 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Client Account Operations Intern](https://jobright.ai/jobs/info/69b0de180b2db6275c05ac88?utm_campaign=1051&utm_source=git)** | Kingston, NY | On Site | Mar 10 |
 | **[Pest Control Consultants](https://www.nellspestcontrol.com/)** | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69b0ddf4dfaeda6ff59b9ebb?utm_campaign=1051&utm_source=git)** | Prescott Valley, AZ | On Site | Mar 10 |
@@ -77,13 +80,14 @@ For a complete list, click the following sortable link below:
 | **[Spacelabs Healthcare](http://www.spacelabshealthcare.com)** | **[Patient Monitoring Sales Assistant Intern](https://jobright.ai/jobs/info/69b0c4600b2db6275c054940?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Mar 10 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Sourcing - Summer 2026](https://jobright.ai/jobs/info/69b0e6a57495006450980356?utm_campaign=1051&utm_source=git)** | Culver City, California | On Site | Mar 10 |
 | ↳ | **[Intern, Advertising Sales - Summer 2026](https://jobright.ai/jobs/info/69b0e92c0b2db6275c05d489?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | On Site | Mar 10 |
-| ↳ | **[Intern, Strategic Initiatives and Partnerships - Summer 2026](https://jobright.ai/jobs/info/69b0e5c0dfaeda6ff59bad09?utm_campaign=1051&utm_source=git)** | Miami, Florida | On Site | Mar 10 |
+| ↳ | **[Intern, Strategic Initiatives and Partnerships - Summer 2026](https://jobright.ai/jobs/info/69b0e6a6749500645098035a?utm_campaign=1051&utm_source=git)** | Miami, Florida | On Site | Mar 10 |
 | **[Uber](http://www.uber.com)** | **[2026 Account Representative Intern, US - Sales](https://jobright.ai/jobs/info/69b0bd3b7495006450979909?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69b0bc110b2db6275c052c31?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Mar 10 |
 | **[U.S. Green Building Council](http://www.usgbc.org)** | **[Sales Intern (Remote in the U.S.)](https://jobright.ai/jobs/info/69b0ec6d0b2db6275c05d8dd?utm_campaign=1051&utm_source=git)** | Remote, US | Remote | Mar 10 |
 | **[AXS](https://www.axs.com/)** | **[Summer Intern, Sponsorships (AXS)](https://jobright.ai/jobs/info/69b0ba40dfaeda6ff59b1432?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/69b0b9147495006450978cfb?utm_campaign=1051&utm_source=git)** | Coquitlam, British Columbia, Canada | On Site | Mar 10 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69b0b90adfaeda6ff59b12a4?utm_campaign=1051&utm_source=git)** | New Westminster, British Columbia, Canada | On Site | Mar 10 |
+| **[Fenstermaker](http://www.fenstermaker.com)** | **[Student Intern, Business Development (Summer 2026)](https://jobright.ai/jobs/info/69b107850b2db6275c06070c?utm_campaign=1051&utm_source=git)** | Lafayette, LA 70508 US (Primary) | On Site | Mar 10 |
 | **[GACC WEST – Representative of German Business](https://www.gaccwest.com)** | **[Innovation Solutions Internship](https://jobright.ai/jobs/info/69b0e64f0b2db6275c05c857?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Mar 10 |
 | **[US LBM](http://uslbm.com)** | **[Sales/Estimating Intern](https://jobright.ai/jobs/info/69b0af460b2db6275c05123e?utm_campaign=1051&utm_source=git)** | Rocklin, CA | On Site | Mar 10 |
 | **[Fifth Avenue Group](https://www.fifthavenuegrp.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69b0ac1adfaeda6ff59afa9a?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Mar 10 |
@@ -132,13 +136,13 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA SALES INTERN SPRING '26 - KNOE](https://jobright.ai/jobs/info/69b077dfdfaeda6ff59a57ac?utm_campaign=1051&utm_source=git)** | Monroe, Louisiana, United States | On Site | Mar 10 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Commercial Strategy](https://jobright.ai/jobs/info/69b077250b2db6275c0471bb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
 | **[LEARFIELD](http://learfield.com)** | **[Corporate Sales Intern](https://jobright.ai/jobs/info/69b076f1dfaeda6ff59a55cd?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Mar 10 |
-| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Industrial Sales Intern](https://jobright.ai/jobs/info/69b09888dfaeda6ff59ac1ae?utm_campaign=1051&utm_source=git)** | St Cloud, MN | On Site | Mar 10 |
 | **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA SALES INTERN SPRING '26 - KNOE](https://jobright.ai/jobs/info/69b072ec0b2db6275c0460e5?utm_campaign=1051&utm_source=git)** | Monroe, LA | On Site | Mar 10 |
 | **[Ensono](https://www.ensono.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69b072250b2db6275c045f20?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 10 |
 | **[HUB Sports Boston](https://hubsportsboston.com/)** | **[Sports Management & Sales Internship (SUMMER 2026)](https://jobright.ai/jobs/info/69b0717c749500645096acdf?utm_campaign=1051&utm_source=git)** | Greater Boston | On Site | Mar 10 |
 | **[MaintainX](https://www.getmaintainx.com)** | **[Lead Development Representative (Internship)](https://jobright.ai/jobs/info/69b07144749500645096ac93?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 10 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Summer Internship (Golisano Institute Partnership) - Mortgage Operations](https://jobright.ai/jobs/info/69b0e526dfaeda6ff59baac6?utm_campaign=1051&utm_source=git)** | Williamsville, NY | On Site | Mar 10 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Event Sales Intern](https://jobright.ai/jobs/info/69b0a3ee74950064509753ae?utm_campaign=1051&utm_source=git)** | Medal of Honor Museum HOS | On Site | Mar 10 |
+| **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Commercial Strategy](https://jobright.ai/jobs/info/69b103700b2db6275c05fb8c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | On Site | Mar 10 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[PWM Intern](https://jobright.ai/jobs/info/69b0f32a7495006450981ffc?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Mar 10 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Summer 2026)](https://jobright.ai/jobs/info/69405ae1aa598a08c3efff15?utm_campaign=1051&utm_source=git)** | Provo, UT | On Site | Mar 10 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Strategic Growth Intern](https://jobright.ai/jobs/info/69b06bd17495006450969ffb?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schneider Electric](https://www.se.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69b0556b74950064509662d7?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Mar 10 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698512a18da7a612045f65ec?utm_campaign=1051&utm_source=git)** | Caledon, ON | Hybrid | Mar 10 |
 | **[Schneider Electric](https://www.se.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69b053330b2db6275c04056f?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
-| ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69b052a1dfaeda6ff599fd08?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Mar 10 |
-| **[LG Electronics](http://www.lg.com)** | **[Sales Intern (Home Appliance Solutions)](https://jobright.ai/jobs/info/69b0524574950064509659a7?utm_campaign=1051&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 10 |
-| **[Ensono](https://www.ensono.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69b05232749500645096594f?utm_campaign=1051&utm_source=git)** | Remote - United States | Remote | Mar 10 |
-| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Partnerships Solutions Support Intern](https://jobright.ai/jobs/info/69942834ce78e77b4fd81d10?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
