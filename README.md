@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69b0eb330b2db6275c05d7aa?utm_campaign=1051&utm_source=git)** | Lebanon, TN | On Site | Mar 10 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Client Account Operations Intern](https://jobright.ai/jobs/info/69b0de180b2db6275c05ac88?utm_campaign=1051&utm_source=git)** | Kingston, NY | On Site | Mar 10 |
 | **[Pest Control Consultants](https://www.nellspestcontrol.com/)** | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69b0ddf4dfaeda6ff59b9ebb?utm_campaign=1051&utm_source=git)** | Prescott Valley, AZ | On Site | Mar 10 |
 | **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b0ddf3dfaeda6ff59b9eb3?utm_campaign=1051&utm_source=git)** | Bald Head Island, NC | On Site | Mar 10 |
@@ -76,9 +77,10 @@ For a complete list, click the following sortable link below:
 | **[Spacelabs Healthcare](http://www.spacelabshealthcare.com)** | **[Patient Monitoring Sales Assistant Intern](https://jobright.ai/jobs/info/69b0c4600b2db6275c054940?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Mar 10 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Sourcing - Summer 2026](https://jobright.ai/jobs/info/69b0e6a57495006450980356?utm_campaign=1051&utm_source=git)** | Culver City, California | On Site | Mar 10 |
 | ↳ | **[Intern, Strategic Initiatives and Partnerships - Summer 2026](https://jobright.ai/jobs/info/69b0e6a6749500645098035a?utm_campaign=1051&utm_source=git)** | Miami, Florida | On Site | Mar 10 |
-| ↳ | **[Intern, Advertising Sales - Summer 2026](https://jobright.ai/jobs/info/69b0e92c0b2db6275c05d489?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | On Site | Mar 10 |
+| ↳ | **[Intern, Advertising Sales - Summer 2026](https://jobright.ai/jobs/info/69b0e5bfdfaeda6ff59bad01?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | On Site | Mar 10 |
 | **[Uber](http://www.uber.com)** | **[2026 Account Representative Intern, US - Sales](https://jobright.ai/jobs/info/69b0bd3b7495006450979909?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69b0bc110b2db6275c052c31?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Mar 10 |
+| **[U.S. Green Building Council](http://www.usgbc.org)** | **[Sales Intern (Remote in the U.S.)](https://jobright.ai/jobs/info/69b0ec6d0b2db6275c05d8dd?utm_campaign=1051&utm_source=git)** | Remote, US | Remote | Mar 10 |
 | **[AXS](https://www.axs.com/)** | **[Summer Intern, Sponsorships (AXS)](https://jobright.ai/jobs/info/69b0ba40dfaeda6ff59b1432?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/69b0b9147495006450978cfb?utm_campaign=1051&utm_source=git)** | Coquitlam, British Columbia, Canada | On Site | Mar 10 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69b0b90adfaeda6ff59b12a4?utm_campaign=1051&utm_source=git)** | New Westminster, British Columbia, Canada | On Site | Mar 10 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[UDR - Opening Doors to your future](http://www.udr.com/)** | **[Intern - Multi-Family Property Management](https://jobright.ai/jobs/info/69b07b7e749500645096cf95?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | On Site | Mar 10 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69b07b0d749500645096cd13?utm_campaign=1051&utm_source=git)** | Williamsburg, VA | On Site | Mar 10 |
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Merchandise Intern 2025-26 Season](https://jobright.ai/jobs/info/69b07ad7749500645096cc1b?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Mar 10 |
-| **[ACT Innovations](https://actinnovations.com)** | **[M&A Business Development Intern](https://jobright.ai/jobs/info/69b0e8d80b2db6275c05d2f1?utm_campaign=1051&utm_source=git)** | United States - Wayne, PA | On Site | Mar 10 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer Financial Representative Internship - Greater Chicago](https://jobright.ai/jobs/info/69b07a770b2db6275c047eb3?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 10 |
 | **[Faurecia](https://www.forvia.com)** | **[Sales Intern, Ford](https://jobright.ai/jobs/info/69ab91782747003c3d51109a?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Mar 10 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Sales Operations Analytics Intern](https://jobright.ai/jobs/info/69b077dfdfaeda6ff59a57a3?utm_campaign=1051&utm_source=git)** | Phoenix, Arizona, United States | On Site | Mar 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LG Electronics](http://www.lg.com)** | **[Sales Intern (Home Appliance Solutions)](https://jobright.ai/jobs/info/69b0524574950064509659a7?utm_campaign=1051&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 10 |
 | **[Ensono](https://www.ensono.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69b05232749500645096594f?utm_campaign=1051&utm_source=git)** | Remote - United States | Remote | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Partnerships Solutions Support Intern](https://jobright.ai/jobs/info/69942834ce78e77b4fd81d10?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Mar 10 |
-| ↳ | **[IDB Invest - Regions Upstream Intern](https://jobright.ai/jobs/info/6994277fce78e77b4fd81c6b?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
