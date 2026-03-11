@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uber](http://www.uber.com)** | **[2026 Account Representative Intern, US - Sales](https://jobright.ai/jobs/info/69b0bd3b7495006450979909?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69b0bc110b2db6275c052c31?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Mar 10 |
+| **[AXS](https://www.axs.com/)** | **[Summer Intern, Sponsorships (AXS)](https://jobright.ai/jobs/info/69b0ba40dfaeda6ff59b1432?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
+| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/69b0b9147495006450978cfb?utm_campaign=1051&utm_source=git)** | Coquitlam, British Columbia, Canada | On Site | Mar 10 |
+| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69b0b90adfaeda6ff59b12a4?utm_campaign=1051&utm_source=git)** | New Westminster, British Columbia, Canada | On Site | Mar 10 |
+| **[DeepChatBI](https://deepchatbi.com/)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/69b0b597dfaeda6ff59b0ee7?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 10 |
 | **[US LBM](http://uslbm.com)** | **[Sales/Estimating Intern](https://jobright.ai/jobs/info/69b0af460b2db6275c05123e?utm_campaign=1051&utm_source=git)** | Rocklin, CA | On Site | Mar 10 |
 | **[Fifth Avenue Group](https://www.fifthavenuegrp.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69b0ac1adfaeda6ff59afa9a?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Mar 10 |
 | **[Atos Medical](http://www.atosmedical.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69b0abfc0b2db6275c050ba2?utm_campaign=1051&utm_source=git)** | New Berlin, WI | Hybrid | Mar 10 |
@@ -111,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Summer 2026)](https://jobright.ai/jobs/info/69405ae1aa598a08c3efff15?utm_campaign=1051&utm_source=git)** | Provo, UT | On Site | Mar 10 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Strategic Growth Intern](https://jobright.ai/jobs/info/69b06bd17495006450969ffb?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
 | **[MaintainX](https://www.getmaintainx.com)** | **[Internship - Lead Development Representative](https://jobright.ai/jobs/info/69b06b287495006450969c91?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 10 |
+| **[Tiffany & Co.](http://www.tiffany.com)** | **[Seasonal Sales Support Intern- San Francisco, Part Time (Hybrid)](https://jobright.ai/jobs/info/69b0bc7adfaeda6ff59b1a3f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Mar 10 |
 | **[Schneider Electric](https://www.se.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69b067eedfaeda6ff59a2ede?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Field Sales Intern](https://jobright.ai/jobs/info/69b0862edfaeda6ff59a8978?utm_campaign=1051&utm_source=git)** | San Jose, California, United States | Hybrid | Mar 10 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Sales Operations Analytics Intern](https://jobright.ai/jobs/info/69b06227749500645096895d?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Mar 10 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[StandardAero](http://www.standardaero.com/)** | **[Account and Program Management Intern](https://jobright.ai/jobs/info/6940a66950bbaf765052af89?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Mar 10 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Katz Television Intern](https://jobright.ai/jobs/info/69b070420b2db6275c045be0?utm_campaign=1051&utm_source=git)** | New York, NY (55th St) | Hybrid | Mar 10 |
 | **[Crawford Henrichson Construction](www.chc-ga.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b040eb7495006450962530?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
-| **[New Era Cap](https://www.neweracap.com/)** | **[Corporate Partnerships Intern](https://jobright.ai/jobs/info/6993aadee0bddb6acac1f21a?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
-| ↳ | **[Retail & Brand Activation Intern](https://jobright.ai/jobs/info/6993aab4e0bddb6acac1f1e6?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
-| **[TransChicago Truck Group](https://www.transchicago.com)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/69b03d2374950064509619fd?utm_campaign=1051&utm_source=git)** | Elmhurst, IL | On Site | Mar 10 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer 2026 College Financial Representative Internship - NYC](https://jobright.ai/jobs/info/68a76806d627244576e2bf58?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 10 |
-| **[TW Metals LLC](http://www.twmetals.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69a1b6de359fe034b1cd0c5a?utm_campaign=1051&utm_source=git)** | Forest Park, GA | On Site | Mar 10 |
-| **[Toyoda Gosei Americas](http://www.toyodagosei.com/)** | **[Sales Planning Summer Intern](https://jobright.ai/jobs/info/69b094f474950064509721ca?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Mar 10 |
-| ↳ | **[Sales Summer Intern](https://jobright.ai/jobs/info/69b0948cdfaeda6ff59ab582?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
