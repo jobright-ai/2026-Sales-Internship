@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Territory Sales Intern](https://jobright.ai/jobs/info/695e62cc0badca5763aee20a?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Mar 12 |
+| **[Coranet](http://www.coranet.com)** | **[Sales Development Representative Summer Internship](https://jobright.ai/jobs/info/69b3171ea8ac8e70ff6733e9?utm_campaign=1051&utm_source=git)** | New York, NY, USA, 10004 | Hybrid | Mar 12 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Financial Capabilities Intern (Unpaid)](https://jobright.ai/jobs/info/69a73e5276bbe83d3afa9971?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Mar 12 |
+| **[Salvi](https://www.salvimedia.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b313eea8ac8e70ff673293?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
+| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697ae39e1423772304eacb07?utm_campaign=1051&utm_source=git)** | Union City, CA | Hybrid | Mar 12 |
+| ↳ | **[Selling - Intern](https://jobright.ai/jobs/info/6979387388e2b47213bd5ebd?utm_campaign=1051&utm_source=git)** | Bronx, NY | Hybrid | Mar 12 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/69b30d4aae2a534885ea539d?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Mar 12 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69b30cdfad360c0340a81aa2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/699952f481476f6176b1f607?utm_campaign=1051&utm_source=git)** | Buford, GA | On Site | Mar 12 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Buying, Retail - LIC](https://jobright.ai/jobs/info/697a85c19d60e431a16c0ae1?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 12 |
-| **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69a8fec72580d3183f012e16?utm_campaign=1051&utm_source=git)** | Charlotte, AR | Hybrid | Mar 12 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Inside Sales](https://jobright.ai/jobs/info/69b30599ae2a534885ea507e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | ↳ | **[Intern: Inside Sales](https://jobright.ai/jobs/info/69b30598ae2a534885ea5073?utm_campaign=1051&utm_source=git)** | Cartersville, GA | On Site | Mar 12 |
 | **[Global Industrial Corp](http://globalindustrialinc.com)** | **[Intern Business Development Commercial](https://jobright.ai/jobs/info/69b2ffa6a8ac8e70ff6726be?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Mar 12 |
@@ -74,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Techtronic Industries - TTI](http://ttigroup.com/)** | **[Field Sales & Marketing Intern](https://jobright.ai/jobs/info/69b2f734a8ac8e70ff671ae6?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Mar 12 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697a62a8f6fc293b0a2c3236?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Mar 12 |
 | **[Cerpent](cerpent.com)** | **[Business Development & Growth Intern](https://jobright.ai/jobs/info/69b2f22aae2a534885ea3c98?utm_campaign=1051&utm_source=git)** | Wilmington, DE | Remote | Mar 12 |
-| **[US LBM](http://uslbm.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6996b2cc81476f6176aeabc6?utm_campaign=1051&utm_source=git)** | Bethlehem, PA | On Site | Mar 12 |
-| ↳ | **[Sales Operations Intern](https://jobright.ai/jobs/info/6996ba7b81476f6176aeb96e?utm_campaign=1051&utm_source=git)** | South Dennis, MA | On Site | Mar 12 |
+| **[US LBM](http://uslbm.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6996ba7b81476f6176aeb96e?utm_campaign=1051&utm_source=git)** | South Dennis, MA | On Site | Mar 12 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6996b2cc81476f6176aeabc6?utm_campaign=1051&utm_source=git)** | Bethlehem, PA | On Site | Mar 12 |
 | **[Starkey Hearing](https://www.starkey.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/697936e288e2b47213bd5b48?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Mar 12 |
 | **[US LBM](http://uslbm.com)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/6997c8fbce78e77b4fdc3048?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Mar 12 |
 | **[Acosta](https://www.acosta.com)** | **[Intern](https://jobright.ai/jobs/info/69b2e8daad360c0340a7fa18?utm_campaign=1051&utm_source=git)** | Rogers, AR, United States | On Site | Mar 12 |
@@ -103,10 +108,10 @@ For a complete list, click the following sortable link below:
 | **[Rehmann](http://www.rehmann.com)** | **[Wealth Management Intern (Summer 2026)](https://jobright.ai/jobs/info/697a91a6f6fc293b0a2c70c8?utm_campaign=1051&utm_source=git)** | Stuart, FL | On Site | Mar 12 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[AAA Field Sales Intern - CO West Region](https://jobright.ai/jobs/info/69962023e0bddb6acac47f52?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Mar 12 |
 | **[TZ Medical](http://tzmedical.com)** | **[Medical Device Sales Internship Fall 2026 (Paid)](https://jobright.ai/jobs/info/69b2dc07ad360c0340a7d3ef?utm_campaign=1051&utm_source=git)** | Tualatin, OR | On Site | Mar 12 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2ff12ae2a534885ea4983?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Mar 12 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2ff21a8ac8e70ff6725b7?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Mar 12 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2ff31a8ac8e70ff6725e4?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Mar 12 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2ff12ae2a534885ea4983?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Mar 12 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2ff21a8ac8e70ff6725b6?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Mar 12 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2ff31a8ac8e70ff6725e4?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Mar 12 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2ff21a8ac8e70ff6725b7?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Mar 12 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Real Estate Summer Internship 2026](https://jobright.ai/jobs/info/698e5b0d0f6f7e7a2cea627e?utm_campaign=1051&utm_source=git)** | Egg Harbor, NJ | On Site | Mar 12 |
 | **[CROSSMARK](https://crossmark.com/)** | **[Intern](https://jobright.ai/jobs/info/69b2da1cad360c0340a7cd9a?utm_campaign=1051&utm_source=git)** | Rogers, AR, United States | On Site | Mar 12 |
 | **[NonStop Hiring](www.nonstophiring.com)** | **[Sales Development Representative Internship](https://jobright.ai/jobs/info/69b2d9b5a8ac8e70ff66e6dd?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 12 |
@@ -128,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2ff21a8ac8e70ff6725b4?utm_campaign=1051&utm_source=git)** | Arizona, United States | Remote | Mar 12 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2ff75ad360c0340a810c5?utm_campaign=1051&utm_source=git)** | Oklahoma, United States | Remote | Mar 12 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2ff18a8ac8e70ff67259f?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Mar 12 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2ff18a8ac8e70ff6725a0?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | Mar 12 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2ff18a8ac8e70ff67259e?utm_campaign=1051&utm_source=git)** | Nevada, United States | Remote | Mar 12 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2ff18a8ac8e70ff6725a0?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | Mar 12 |
 | **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/697a76058dbbf73badc79a01?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Mar 12 |
 | **[US LBM](http://uslbm.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6996b5fcce78e77b4fdaed01?utm_campaign=1051&utm_source=git)** | East Haven, CT | On Site | Mar 12 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern - San Jose](https://jobright.ai/jobs/info/695d69a2f1f8465b79f393fc?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
@@ -137,14 +142,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/695dc2f5efe5dd5cbd3d9cc2?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Mar 12 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69b2bbcea8ac8e70ff66bc8a?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | Mar 12 |
 | **[Shaw’s and Star Market](https://www.shaws.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/69af09df749500645093760d?utm_campaign=1051&utm_source=git)** | Milford, NH | On Site | Mar 12 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Sales Enablement Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69b30d9fae2a534885ea5437?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Mar 12 |
 | **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Part-Time Open Innovation Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2b955ae2a534885e9e0d4?utm_campaign=1051&utm_source=git)** | La Jolla, CA | Hybrid | Mar 12 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2b52bad360c0340a79b10?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69b2b3c1ae2a534885e9ddf0?utm_campaign=1051&utm_source=git)** | Woodstock, New Brunswick, Canada | On Site | Mar 12 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/69b2b3bcae2a534885e9ddef?utm_campaign=1051&utm_source=git)** | Nelson, British Columbia, Canada | On Site | Mar 12 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695d6925fbd62a0a6565febd?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Mar 12 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/695d707cf5f3c43f38e23c57?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69997b96e0bddb6acac8bf51?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 12 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/695d707cf5f3c43f38e23c57?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Partner Operations](https://jobright.ai/jobs/info/6996490b81476f6176ae0ac7?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Mar 12 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Western Michigan)](https://jobright.ai/jobs/info/697946dc52f3c27ec645a8af?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Mar 12 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/699632ba81476f6176adee28?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | Mar 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Celanese](http://www.celanese.com)** | **[Sales Intern (Acetyls)](https://jobright.ai/jobs/info/69968798e0bddb6acac504f5?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Mar 12 |
 | **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Sales Intern](https://jobright.ai/jobs/info/69965adfe0bddb6acac4cae4?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | Mar 12 |
 | **[Shaw’s and Star Market](https://www.shaws.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/69afb0f4f63f733065b35f60?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | Mar 12 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, CRM, Naturium](https://jobright.ai/jobs/info/697adac817b11b1c2e41a8ab?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
-| ↳ | **[Summer Intern, Sales, Canada (Toronto)](https://jobright.ai/jobs/info/697946e839f7f96cc6d1be27?utm_campaign=1051&utm_source=git)** | Greater Montreal Metropolitan Area | Remote | Mar 12 |
-| **[Legends Global](http://legends.net)** | **[Merchandise Internship: 2026 PGA Championship](https://jobright.ai/jobs/info/69517d09a2668b7f54542957?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Mar 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Monetization Strategy and Operations Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aae89c7e1fab39d3828343?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
