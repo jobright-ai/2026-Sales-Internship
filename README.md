@@ -59,9 +59,9 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Packaging Sales Intern](https://jobright.ai/jobs/info/69b5d4973b74eb1e2c839d93?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d4953b74eb1e2c839d84?utm_campaign=1051&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Mar 14 |
-| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d49156973837413b317b?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Mar 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d49156973837413b317a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 14 |
-| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d48f56973837413b3176?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Mar 14 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d49156973837413b317b?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Mar 14 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d48f56973837413b3174?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Mar 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d4843b74eb1e2c839d7c?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d4823b74eb1e2c839d7a?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | On Site | Mar 14 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Business Services College Intern](https://jobright.ai/jobs/info/69b5d18206c1ba00c547bd43?utm_campaign=1051&utm_source=git)** | Santa Rosa, CA | On Site | Mar 14 |
