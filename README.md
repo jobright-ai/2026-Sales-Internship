@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/69990f47e0bddb6acac805ce?utm_campaign=1051&utm_source=git)** | Long Beach, CA | Hybrid | Mar 14 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/69a7afdf76bbe83d3afb1c85?utm_campaign=1051&utm_source=git)** | Sewickley, PA | On Site | Mar 14 |
+| **[Magna International](http://www.magna.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69a0118581476f6176ba12e0?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Mar 14 |
+| **[Detroit Lions](http://www.detroitlions.com)** | **[Premium Service Intern](https://jobright.ai/jobs/info/697cd34f137a05102565c5a4?utm_campaign=1051&utm_source=git)** | Detroit, MI 48226 | On Site | Mar 14 |
+| **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - San Francisco, Summer 2026](https://jobright.ai/jobs/info/690846aa122e8474c78e96dd?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Mar 14 |
+| **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697dac95ce48107c0541fb1f?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Mar 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961e41ea112b40266106487?utm_campaign=1051&utm_source=git)** | Winder, GA | On Site | Mar 14 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/697bedd00b88cc7d6422d6d6?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Mar 14 |
+| **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69a40cbcb600907a962a1c5a?utm_campaign=1051&utm_source=git)** | Goodhue, MN | On Site | Mar 14 |
+| **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69b5667706c1ba00c54718ab?utm_campaign=1051&utm_source=git)** | Londonderry, NH | On Site | Mar 14 |
+| **[Casey's](https://www.caseys.com/)** | **[Retail Management Internship - Omaha, NE](https://jobright.ai/jobs/info/69b5667706c1ba00c54718b0?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Mar 14 |
+| ↳ | **[Retail Management Internship - Kansas City, MO](https://jobright.ai/jobs/info/69b565f456973837413a7be6?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Mar 14 |
+| **[CORE Foodservice](https://coregroupsales.com)** | **[University of Missouri CORE Foodservice Internship Program – Summer 2026](https://jobright.ai/jobs/info/6999261881476f6176b1aad0?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | On Site | Mar 14 |
+| ↳ | **[University of Missouri CORE Foodservice Internship Program – Summer 2026](https://jobright.ai/jobs/info/69991818e0bddb6acac8131e?utm_campaign=1051&utm_source=git)** | Oak Brook, IL | On Site | Mar 14 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68cd40f9e23def7af55b7467?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Mar 14 |
 | **[1-800-FLOWERS.COM, INC.](http://www.1800flowers.com)** | **[Intern, Vendor Relations](https://jobright.ai/jobs/info/69b5604056973837413a76a6?utm_campaign=1051&utm_source=git)** | Jericho, NY | On Site | Mar 14 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69b55f5d06c1ba00c5470b61?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 14 |
@@ -75,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern- Jackson MS](https://jobright.ai/jobs/info/6960729f7ebc25398eb66909?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | On Site | Mar 14 |
 | **[Celonis](https://www.celonis.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/69a7ace9637232443f64f93d?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Mar 14 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Buying, Retail - LIC](https://jobright.ai/jobs/info/69b53b873b74eb1e2c82da03?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 14 |
-| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Relationship Development Sales Intern](https://jobright.ai/jobs/info/69b53b563b74eb1e2c82d992?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Mar 14 |
-| ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53b563b74eb1e2c82d984?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Mar 14 |
+| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53b563b74eb1e2c82d984?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Mar 14 |
+| ↳ | **[Relationship Development Sales Intern](https://jobright.ai/jobs/info/69b53b563b74eb1e2c82d992?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Mar 14 |
 | ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53b503b74eb1e2c82d977?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
 | ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53b503b74eb1e2c82d978?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | ↳ | **[Channel Sales Intern](https://jobright.ai/jobs/info/69b53aae06c1ba00c546fcb6?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Mar 14 |
@@ -108,53 +122,39 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2c7569738374139c710?utm_campaign=1051&utm_source=git)** | Loveland, CO | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2be569738374139c6fc?utm_campaign=1051&utm_source=git)** | Elyria, OH | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2bd569738374139c6f4?utm_campaign=1051&utm_source=git)** | Hempstead, NY | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2bb569738374139c6eb?utm_campaign=1051&utm_source=git)** | Matthews, NC | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2bb569738374139c6ed?utm_campaign=1051&utm_source=git)** | Mesa, AZ | On Site | Mar 13 |
+| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2bb569738374139c6eb?utm_campaign=1051&utm_source=git)** | Matthews, NC | On Site | Mar 13 |
 | **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b4d2ba569738374139c6e9?utm_campaign=1051&utm_source=git)** | Brandon, FL | On Site | Mar 13 |
 | **[Aruza Marketing](https://www.aruzamarketing.com)** | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2ba569738374139c6ea?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2ba569738374139c6e6?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2b9569738374139c6e4?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2b9569738374139c6e5?utm_campaign=1051&utm_source=git)** | Reno, NV | On Site | Mar 13 |
+| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2b9569738374139c6e4?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2b4569738374139c6df?utm_campaign=1051&utm_source=git)** | Waukegan, IL | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2b3569738374139c6da?utm_campaign=1051&utm_source=git)** | West New York, NJ | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2b3569738374139c6d8?utm_campaign=1051&utm_source=git)** | Gilbert, AZ | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2b3569738374139c6db?utm_campaign=1051&utm_source=git)** | Lynchburg, VA | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2b3569738374139c6de?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2b3569738374139c6dd?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Mar 13 |
+| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2b3569738374139c6d8?utm_campaign=1051&utm_source=git)** | Gilbert, AZ | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2b3569738374139c6d9?utm_campaign=1051&utm_source=git)** | Syracuse, NY | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2b3569738374139c6dc?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2ad569738374139c6ce?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL | On Site | Mar 13 |
+| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2b3569738374139c6da?utm_campaign=1051&utm_source=git)** | West New York, NJ | On Site | Mar 13 |
+| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2b3569738374139c6de?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Mar 13 |
+| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2b3569738374139c6dd?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2ad569738374139c6cf?utm_campaign=1051&utm_source=git)** | Eugene, OR | On Site | Mar 13 |
+| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2ad569738374139c6ce?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2ac569738374139c6cc?utm_campaign=1051&utm_source=git)** | Torrance, CA | On Site | Mar 13 |
 | **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b4d2a83b74eb1e2c8232ed?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Mar 13 |
 | **[Aruza Marketing](https://www.aruzamarketing.com)** | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a83b74eb1e2c8232ec?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a73b74eb1e2c8232eb?utm_campaign=1051&utm_source=git)** | Beaumont, TX | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a7569738374139c6c7?utm_campaign=1051&utm_source=git)** | Elk Grove, CA | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a7569738374139c6c4?utm_campaign=1051&utm_source=git)** | Westland, MI | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a7569738374139c6c5?utm_campaign=1051&utm_source=git)** | Ocala, FL | On Site | Mar 13 |
+| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a7569738374139c6c4?utm_campaign=1051&utm_source=git)** | Westland, MI | On Site | Mar 13 |
+| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a73b74eb1e2c8232eb?utm_campaign=1051&utm_source=git)** | Beaumont, TX | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a5569738374139c6c1?utm_campaign=1051&utm_source=git)** | Springfield, OH | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a33b74eb1e2c8232e4?utm_campaign=1051&utm_source=git)** | Oceanside, CA | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a23b74eb1e2c8232e3?utm_campaign=1051&utm_source=git)** | Spartanburg, SC | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a23b74eb1e2c8232e2?utm_campaign=1051&utm_source=git)** | Canton, OH | On Site | Mar 13 |
+| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a23b74eb1e2c8232e3?utm_campaign=1051&utm_source=git)** | Spartanburg, SC | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a23b74eb1e2c8232e1?utm_campaign=1051&utm_source=git)** | Manassas, VA | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a0569738374139c6b6?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a0569738374139c6b9?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a0569738374139c6b8?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Mar 13 |
+| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2a0569738374139c6b9?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d29f569738374139c6b5?utm_campaign=1051&utm_source=git)** | Dover, DE | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d29c569738374139c6af?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Mar 13 |
 | ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d29c569738374139c6b0?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d29c569738374139c6b2?utm_campaign=1051&utm_source=git)** | Jonesboro, AR | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d29b569738374139c6ae?utm_campaign=1051&utm_source=git)** | Anderson, SC | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d29b3b74eb1e2c8232d7?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d29b3b74eb1e2c8232d9?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d29b569738374139c6ad?utm_campaign=1051&utm_source=git)** | Sumter, SC | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d29b3b74eb1e2c8232d8?utm_campaign=1051&utm_source=git)** | Aiken, SC | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d29b3b74eb1e2c8232d6?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d29a3b74eb1e2c8232d4?utm_campaign=1051&utm_source=git)** | Albany, NY | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d29a3b74eb1e2c8232d3?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d29a3b74eb1e2c8232d5?utm_campaign=1051&utm_source=git)** | Dothan, AL | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2993b74eb1e2c8232d1?utm_campaign=1051&utm_source=git)** | Surprise, AZ | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d294569738374139c6a3?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2933b74eb1e2c8232c8?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2933b74eb1e2c8232c9?utm_campaign=1051&utm_source=git)** | Flint, MI | On Site | Mar 13 |
+| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d29c569738374139c6af?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
