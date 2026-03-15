@@ -58,16 +58,17 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b62a873b74eb1e2c83e166?utm_campaign=1051&utm_source=git)** | Nampa, ID | On Site | Mar 14 |
-| **[TW Metals LLC](http://www.twmetals.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69b61d7856973837413b5d2d?utm_campaign=1051&utm_source=git)** | Carol Stream, IL | On Site | Mar 14 |
+| **[TW Metals LLC](http://www.twmetals.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69a1b6de359fe034b1cd0c5a?utm_campaign=1051&utm_source=git)** | Forest Park, GA | On Site | Mar 14 |
+| ↳ | **[Inside Sales Intern](https://jobright.ai/jobs/info/69b61d7856973837413b5d2d?utm_campaign=1051&utm_source=git)** | Carol Stream, IL | On Site | Mar 14 |
 | **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b618853b74eb1e2c83c86e?utm_campaign=1051&utm_source=git)** | Conway, SC | On Site | Mar 14 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b612da56973837413b5075?utm_campaign=1051&utm_source=git)** | Springfield, IL | On Site | Mar 14 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b6123406c1ba00c547e847?utm_campaign=1051&utm_source=git)** | Jurupa Valley, CA | On Site | Mar 14 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b6123206c1ba00c547e83c?utm_campaign=1051&utm_source=git)** | West Jordan, UT | On Site | Mar 14 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Packaging Sales Intern](https://jobright.ai/jobs/info/69b5d4973b74eb1e2c839d93?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d4953b74eb1e2c839d84?utm_campaign=1051&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Mar 14 |
-| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d49156973837413b317a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d49156973837413b317b?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Mar 14 |
-| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d48f56973837413b3174?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Mar 14 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d49156973837413b317a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 14 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d48f56973837413b3176?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Mar 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d4843b74eb1e2c839d7c?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d4823b74eb1e2c839d7a?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | On Site | Mar 14 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Business Services College Intern](https://jobright.ai/jobs/info/69b5d18206c1ba00c547bd43?utm_campaign=1051&utm_source=git)** | Santa Rosa, CA | On Site | Mar 14 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Hasbro](https://shop.hasbro.com)** | **[Summer 2026- Intern, Customer Success](https://jobright.ai/jobs/info/69993358e0bddb6acac842cd?utm_campaign=1051&utm_source=git)** | Renton, WA | Hybrid | Mar 14 |
 | ↳ | **[Summer 2026 Intern, Licensed Based Entertainment](https://jobright.ai/jobs/info/699933a881476f6176b1bf28?utm_campaign=1051&utm_source=git)** | Pawtucket, RI | Hybrid | Mar 14 |
 | **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/69990b2be0bddb6acac802da?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Mar 14 |
-| ↳ | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/699909c9e0bddb6acac80110?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 14 |
 | **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Account Management, Social Media](https://jobright.ai/jobs/info/6998ee8dce78e77b4fdd7fcf?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Mar 14 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/697d30c4727747250d57fe40?utm_campaign=1051&utm_source=git)** | Greater Jacksonville, NC Area | On Site | Mar 14 |
 | **[Mubea](https://www.mubea.com)** | **[Student Co-op - Purchasing](https://jobright.ai/jobs/info/6998f6cfce78e77b4fdd8d64?utm_campaign=1051&utm_source=git)** | Florence, KY | On Site | Mar 14 |
