@@ -125,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Buying, Retail - LIC](https://jobright.ai/jobs/info/69b53b873b74eb1e2c82da03?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53b563b74eb1e2c82d984?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Mar 14 |
 | ↳ | **[Relationship Development Sales Intern](https://jobright.ai/jobs/info/69b53b563b74eb1e2c82d992?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Mar 14 |
-| ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53b503b74eb1e2c82d978?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53b503b74eb1e2c82d977?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
+| ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53b503b74eb1e2c82d978?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | ↳ | **[Channel Sales Intern](https://jobright.ai/jobs/info/69b53aae06c1ba00c546fcb6?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Mar 14 |
 | ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53aa206c1ba00c546fc98?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Mar 14 |
 | ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53a7c56973837413a6657?utm_campaign=1051&utm_source=git)** | Lincoln, RI | On Site | Mar 14 |
