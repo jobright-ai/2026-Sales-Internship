@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b612da56973837413b5075?utm_campaign=1051&utm_source=git)** | Springfield, IL | On Site | Mar 14 |
+| **[TW Metals LLC](http://www.twmetals.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69b61d7856973837413b5d2d?utm_campaign=1051&utm_source=git)** | Carol Stream, IL | On Site | Mar 14 |
+| **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b618853b74eb1e2c83c86e?utm_campaign=1051&utm_source=git)** | Conway, SC | On Site | Mar 14 |
+| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b612da56973837413b5075?utm_campaign=1051&utm_source=git)** | Springfield, IL | On Site | Mar 14 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b6123406c1ba00c547e847?utm_campaign=1051&utm_source=git)** | Jurupa Valley, CA | On Site | Mar 14 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b6123206c1ba00c547e83c?utm_campaign=1051&utm_source=git)** | West Jordan, UT | On Site | Mar 14 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Packaging Sales Intern](https://jobright.ai/jobs/info/69b5d4973b74eb1e2c839d93?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
@@ -129,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Buying, Retail - LIC](https://jobright.ai/jobs/info/69b53b873b74eb1e2c82da03?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Relationship Development Sales Intern](https://jobright.ai/jobs/info/69b53b563b74eb1e2c82d992?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Mar 14 |
 | ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53b563b74eb1e2c82d984?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Mar 14 |
-| ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53b503b74eb1e2c82d978?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53b503b74eb1e2c82d977?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
+| ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53b503b74eb1e2c82d978?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | ↳ | **[Channel Sales Intern](https://jobright.ai/jobs/info/69b53aae06c1ba00c546fcb6?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Mar 14 |
 | ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53aa206c1ba00c546fc98?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Mar 14 |
 | ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69b53a7c56973837413a6657?utm_campaign=1051&utm_source=git)** | Lincoln, RI | On Site | Mar 14 |
@@ -143,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[PetIQ](https://petiq.com)** | **[E-Commerce Merchandising Intern](https://jobright.ai/jobs/info/69b523d006c1ba00c546e6b3?utm_campaign=1051&utm_source=git)** | Eagle, ID | On Site | Mar 14 |
 | **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Production & Operations/Partnerships](https://jobright.ai/jobs/info/69b5234d3b74eb1e2c82c44d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | **[Mizkan America](http://mizkan.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/69b51c9c06c1ba00c546d995?utm_campaign=1051&utm_source=git)** | Illinois, United States | Hybrid | Mar 14 |
+| **[Heilind Electronics](http://www.heilind.com)** | **[Sales Intern – Business Development](https://jobright.ai/jobs/info/69b61f9f06c1ba00c547f86c?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Mar 14 |
 | **[NETSCOUT](http://www.netscout.com)** | **[BUSINESS DEVELOPMENT INTERN - ALLEN, TX](https://jobright.ai/jobs/info/69b50f283b74eb1e2c829e78?utm_campaign=1051&utm_source=git)** | Allen, TX | On Site | Mar 14 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/69b5068f3b74eb1e2c827fbf?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Mar 13 |
 | ↳ | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/69b506863b74eb1e2c827fb8?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Mar 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amerant Bank](https://www.amerantbank.com/)** | **[Undergraduate Internship - Business Dev. & Market Intelligence](https://jobright.ai/jobs/info/69b4e29a3b74eb1e2c825555?utm_campaign=1051&utm_source=git)** | Plantation, FL | On Site | Mar 13 |
 | **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[Territory Sales Summer Intern](https://jobright.ai/jobs/info/69b4d9b506c1ba00c546614e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Mar 13 |
 | **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[Sales Service Intern](https://jobright.ai/jobs/info/69b4d859569738374139d279?utm_campaign=1051&utm_source=git)** | Miami, NM | Hybrid | Mar 13 |
-| ↳ | **[Sales Service Intern](https://jobright.ai/jobs/info/69b4d84e569738374139d269?utm_campaign=1051&utm_source=git)** | Miami Gardens, FL | Hybrid | Mar 13 |
-| **[Aruza Marketing](https://www.aruzamarketing.com)** | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2c8569738374139c724?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | Mar 13 |
-| ↳ | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69b4d2c7569738374139c710?utm_campaign=1051&utm_source=git)** | Loveland, CO | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
