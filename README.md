@@ -67,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b6123206c1ba00c547e83c?utm_campaign=1051&utm_source=git)** | West Jordan, UT | On Site | Mar 14 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Packaging Sales Intern](https://jobright.ai/jobs/info/69b5d4973b74eb1e2c839d93?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d4953b74eb1e2c839d84?utm_campaign=1051&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Mar 14 |
-| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d49156973837413b317a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d49156973837413b317b?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Mar 14 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d49156973837413b317a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d48f56973837413b3174?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Mar 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d4843b74eb1e2c839d7c?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 14 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69b5d4823b74eb1e2c839d7a?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | On Site | Mar 14 |
@@ -149,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Production & Operations/Partnerships](https://jobright.ai/jobs/info/69b5234d3b74eb1e2c82c44d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | **[Mizkan America](http://mizkan.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/69b51c9c06c1ba00c546d995?utm_campaign=1051&utm_source=git)** | Illinois, United States | Hybrid | Mar 14 |
 | **[Heilind Electronics](http://www.heilind.com)** | **[Sales Intern – Business Development](https://jobright.ai/jobs/info/69b61f9f06c1ba00c547f86c?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Mar 14 |
+| **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Commercial Services Intern](https://jobright.ai/jobs/info/69b667d456973837413bbe1c?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Mar 14 |
 | **[NETSCOUT](http://www.netscout.com)** | **[BUSINESS DEVELOPMENT INTERN - ALLEN, TX](https://jobright.ai/jobs/info/69b50f283b74eb1e2c829e78?utm_campaign=1051&utm_source=git)** | Allen, TX | On Site | Mar 14 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/69b5068f3b74eb1e2c827fbf?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Mar 13 |
 | ↳ | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/69b506863b74eb1e2c827fb8?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Mar 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69b505d706c1ba00c546a0ef?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | Mar 13 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/69a29c9cb600907a9628f926?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Mar 13 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697bad641136d179eeef32ff?utm_campaign=1051&utm_source=git)** | North Miami, FL | On Site | Mar 13 |
-| **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Sales Administrator](https://jobright.ai/jobs/info/69b4eed03b74eb1e2c826b3b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
