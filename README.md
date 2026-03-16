@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[Territory Sales Summer Intern - Roseville, CA](https://jobright.ai/jobs/info/69b763de56973837413c8aed?utm_campaign=1051&utm_source=git)** | Roseville, CA | Hybrid | Mar 15 |
+| **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b763d656973837413c8ae6?utm_campaign=1051&utm_source=git)** | Burbank, CA | On Site | Mar 15 |
 | **[SolarWinds](http://www.solarwinds.com)** | **[Revenue Operations Internship](https://jobright.ai/jobs/info/69a5e615359fe034b1d0a047?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Mar 15 |
 | **[age1](https://age1.com)** | **[Venture Intern](https://jobright.ai/jobs/info/69b7536d56973837413c6f1d?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Mar 15 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b737e83b74eb1e2c84cb6c?utm_campaign=1051&utm_source=git)** | Nebraska, United States | Remote | Mar 15 |
@@ -104,16 +106,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69b67c2406c1ba00c5486d5c?utm_campaign=1051&utm_source=git)** | Carson City, NV | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69b67c2406c1ba00c5486d5a?utm_campaign=1051&utm_source=git)** | Berwyn, IL | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69b67c2406c1ba00c5486d5b?utm_campaign=1051&utm_source=git)** | Middletown, NY | On Site | Mar 15 |
-| ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69b67c2256973837413bd73c?utm_campaign=1051&utm_source=git)** | Smyrna, GA | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69b67c2256973837413bd73b?utm_campaign=1051&utm_source=git)** | Hempstead, NY | On Site | Mar 15 |
+| ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69b67c2256973837413bd73c?utm_campaign=1051&utm_source=git)** | Smyrna, GA | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69b67c2156973837413bd73a?utm_campaign=1051&utm_source=git)** | Medford, MA | On Site | Mar 15 |
-| ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69b67c2156973837413bd739?utm_campaign=1051&utm_source=git)** | Bradenton, FL | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69b67c2156973837413bd737?utm_campaign=1051&utm_source=git)** | Taunton, MA | On Site | Mar 15 |
+| ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69b67c2156973837413bd739?utm_campaign=1051&utm_source=git)** | Bradenton, FL | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69b67c2156973837413bd736?utm_campaign=1051&utm_source=git)** | Kettering, OH | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69b67c2156973837413bd738?utm_campaign=1051&utm_source=git)** | Watertown, NY | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69b67c1d06c1ba00c5486d52?utm_campaign=1051&utm_source=git)** | Des Plaines, IL | On Site | Mar 15 |
-| ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69b67c1c06c1ba00c5486d4f?utm_campaign=1051&utm_source=git)** | Bowie, MD | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69b67c1c06c1ba00c5486d51?utm_campaign=1051&utm_source=git)** | Ankeny, IA | On Site | Mar 15 |
+| ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69b67c1c06c1ba00c5486d4f?utm_campaign=1051&utm_source=git)** | Bowie, MD | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69b67c1c06c1ba00c5486d50?utm_campaign=1051&utm_source=git)** | Greenwood, IN | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69b67c1b06c1ba00c5486d4e?utm_campaign=1051&utm_source=git)** | Oak Lawn, IL | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69b67c193b74eb1e2c844da7?utm_campaign=1051&utm_source=git)** | Kingston, NY | On Site | Mar 15 |
@@ -131,16 +133,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69b66c6856973837413bcc9f?utm_campaign=1051&utm_source=git)** | Fountain Valley, CA | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69b66c6856973837413bcc9e?utm_campaign=1051&utm_source=git)** | Arcadia, CA | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69b66c5f56973837413bcc8a?utm_campaign=1051&utm_source=git)** | St Peters, MO | On Site | Mar 15 |
-| ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69b66c5f56973837413bcc86?utm_campaign=1051&utm_source=git)** | Shoreline, WA | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69b66c5f56973837413bcc89?utm_campaign=1051&utm_source=git)** | Sanford, FL | On Site | Mar 15 |
+| ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69b66c5f56973837413bcc86?utm_campaign=1051&utm_source=git)** | Shoreline, WA | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69b66c5f56973837413bcc85?utm_campaign=1051&utm_source=git)** | New Brunswick, NJ | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69b66c5f56973837413bcc84?utm_campaign=1051&utm_source=git)** | Hazleton, PA | On Site | Mar 15 |
-| ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69b66c583b74eb1e2c84450b?utm_campaign=1051&utm_source=git)** | Novato, CA | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69b66c583b74eb1e2c84450d?utm_campaign=1051&utm_source=git)** | Hendersonville, TN | On Site | Mar 15 |
-| ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69b66c583b74eb1e2c84450c?utm_campaign=1051&utm_source=git)** | Diamond Bar, CA | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69b66c5856973837413bcc77?utm_campaign=1051&utm_source=git)** | Walla Walla, WA | On Site | Mar 15 |
-| ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69b66c4f3b74eb1e2c8444ed?utm_campaign=1051&utm_source=git)** | Titusville, FL | On Site | Mar 15 |
+| ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69b66c583b74eb1e2c84450b?utm_campaign=1051&utm_source=git)** | Novato, CA | On Site | Mar 15 |
+| ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69b66c583b74eb1e2c84450c?utm_campaign=1051&utm_source=git)** | Diamond Bar, CA | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69b66c4f3b74eb1e2c8444ef?utm_campaign=1051&utm_source=git)** | Midwest City, OK | On Site | Mar 15 |
+| ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69b66c4f3b74eb1e2c8444ed?utm_campaign=1051&utm_source=git)** | Titusville, FL | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69b66c4a3b74eb1e2c8444e0?utm_campaign=1051&utm_source=git)** | Santee, CA | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69b66c2206c1ba00c548643c?utm_campaign=1051&utm_source=git)** | Dearborn Heights, MI | On Site | Mar 15 |
 | ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69b66c1906c1ba00c548642b?utm_campaign=1051&utm_source=git)** | Jefferson City, MO | On Site | Mar 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (El Paso, TX)](https://jobright.ai/jobs/info/69b6a90206c1ba00c5487d06?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Mar 14 |
 | **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b612da56973837413b5075?utm_campaign=1051&utm_source=git)** | Springfield, IL | On Site | Mar 14 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b6123406c1ba00c547e847?utm_campaign=1051&utm_source=git)** | Jurupa Valley, CA | On Site | Mar 14 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69b6123206c1ba00c547e83c?utm_campaign=1051&utm_source=git)** | West Jordan, UT | On Site | Mar 14 |
-| **[Pratt Industries](http://www.prattindustries.com)** | **[Packaging Sales Intern](https://jobright.ai/jobs/info/69b5d4973b74eb1e2c839d93?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
