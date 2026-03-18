@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AZUL Hospitality](http://azulhospitalitygroup.com/)** | **[Sales Intern ("Pasante en el Area de Ventas")](https://jobright.ai/jobs/info/69ba23513b74eb1e2c881fe0?utm_campaign=1051&utm_source=git)** | Hotel Cerro - San Luis Obispo, CA 93401 | On Site | Mar 17 |
+| **[ISEC, Inc.](http://www.isecinc.com)** | **[Purchasing Intern - Construction](https://jobright.ai/jobs/info/69ba226f3b74eb1e2c881f34?utm_campaign=1051&utm_source=git)** | San Antonio, TX, USA | On Site | Mar 17 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ba04a606c1ba00c54c1ff1?utm_campaign=1051&utm_source=git)** | Bridgeton, MO | On Site | Mar 17 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Sales Development, Public Sector](https://jobright.ai/jobs/info/69b9f52256973837413f7d87?utm_campaign=1051&utm_source=git)** | Virginia - Mclean | On Site | Mar 17 |
 | **[International Youth Foundation](http://www.iyfnet.org)** | **[Sales Operations / Enablement Internship](https://jobright.ai/jobs/info/69ba0a5256973837413f9845?utm_campaign=1051&utm_source=git)** | Fully Remote - US Office | Remote | Mar 17 |
@@ -69,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[UNUM GROUP](https://www.linkedin.com/company/57075544)** | **[Sales & Client Management Intern](https://jobright.ai/jobs/info/69b9bd3956973837413f4c06?utm_campaign=1051&utm_source=git)** | Chicago, Illinois, USA | On Site | Mar 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Sales Support Intern, Travel Industry and Central Florida Sales, Summer/Fall 2026](https://jobright.ai/jobs/info/69b9bd1806c1ba00c54bd764?utm_campaign=1051&utm_source=git)** | Celebration, FL, USA | On Site | Mar 17 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b9b20f56973837413f2c6b?utm_campaign=1051&utm_source=git)** | West Chase | On Site | Mar 17 |
-| ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b9b20e56973837413f2c58?utm_campaign=1051&utm_source=git)** | Bellaire, TX, US | On Site | Mar 17 |
-| ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b9b20e56973837413f2c56?utm_campaign=1051&utm_source=git)** | Cypress, TX, US | On Site | Mar 17 |
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b9b20e56973837413f2c5c?utm_campaign=1051&utm_source=git)** | Sugar Land, TX, US | On Site | Mar 17 |
+| ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b9b20e56973837413f2c56?utm_campaign=1051&utm_source=git)** | Cypress, TX, US | On Site | Mar 17 |
+| ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b9b20e56973837413f2c58?utm_campaign=1051&utm_source=git)** | Bellaire, TX, US | On Site | Mar 17 |
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b9b20b3b74eb1e2c87960a?utm_campaign=1051&utm_source=git)** | Sugar Land | On Site | Mar 17 |
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b9b20a3b74eb1e2c879607?utm_campaign=1051&utm_source=git)** | Bellaire/Missouri City | On Site | Mar 17 |
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b9b20a3b74eb1e2c879609?utm_campaign=1051&utm_source=git)** | Cypress | On Site | Mar 17 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b9b20106c1ba00c54bb797?utm_campaign=1051&utm_source=git)** | Katy | On Site | Mar 17 |
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b9b20006c1ba00c54bb78c?utm_campaign=1051&utm_source=git)** | West Chase, TX, US | On Site | Mar 17 |
 | **[Performance Food Group](http://www.pfgc.com)** | **[Business Development &amp; Sales Intern](https://jobright.ai/jobs/info/69b9b0f13b74eb1e2c879523?utm_campaign=1051&utm_source=git)** | Wilkes-Barre, Pennsylvania (PA) | On Site | Mar 17 |
-| ↳ | **[Business Development &amp; Sales Intern](https://jobright.ai/jobs/info/69b9b0c806c1ba00c54bb6de?utm_campaign=1051&utm_source=git)** | Pennsylvania | On Site | Mar 17 |
 | ↳ | **[Business Development &amp; Sales Intern](https://jobright.ai/jobs/info/69b9b0c806c1ba00c54bb6dc?utm_campaign=1051&utm_source=git)** | CM Scranton (2590) | On Site | Mar 17 |
+| ↳ | **[Business Development &amp; Sales Intern](https://jobright.ai/jobs/info/69b9b0c806c1ba00c54bb6de?utm_campaign=1051&utm_source=git)** | Pennsylvania | On Site | Mar 17 |
 | **[Everytown for Gun Safety](https://www.everytown.org/)** | **[Development Intern - Summer 2026](https://jobright.ai/jobs/info/69b9ac9f06c1ba00c54bad05?utm_campaign=1051&utm_source=git)** | New York, New York, NY, US | On Site | Mar 17 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Digital Sales Operations Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69b9ac963b74eb1e2c878be0?utm_campaign=1051&utm_source=git)** | Manhattan, NY, United States | On Site | Mar 17 |
 | **[Vanderlande](https://www.vanderlande.com)** | **[Airport Sales Intern](https://jobright.ai/jobs/info/69b9ab4356973837413f1f51?utm_campaign=1051&utm_source=git)** | Marietta, GA USA | On Site | Mar 17 |
@@ -113,19 +115,18 @@ For a complete list, click the following sortable link below:
 | **[Kerry](https://www.kerry.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69a14bcbd29bbd4d8e6af383?utm_campaign=1051&utm_source=git)** | Beloit, WI | On Site | Mar 17 |
 | **[Snowflake](https://www.snowflake.com)** | **[Sales Development Intern - Summer 2026](https://jobright.ai/jobs/info/699d02cd81476f6176b59a68?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Mar 17 |
 | **[Enlyte](https://www.enlyte.com/)** | **[Client Success Intern](https://jobright.ai/jobs/info/699c97c2e0bddb6acacbafc0?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 17 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Agency Partnerships Intern](https://jobright.ai/jobs/info/69b9171356973837413e9798?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 17 |
 | **[Code Brew Labs](https://www.code-brew.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b8fc513b74eb1e2c86e4a7?utm_campaign=1051&utm_source=git)** | Paris, Ontario, Canada | On Site | Mar 17 |
 | **[Smith & Associates](http://www.smithweb.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69b8f96c3b74eb1e2c86e478?utm_campaign=1051&utm_source=git)** | Shanghai, VA | On Site | Mar 16 |
 | **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Relationships & Giving Intern](https://jobright.ai/jobs/info/69b8c07a3b74eb1e2c86cce5?utm_campaign=1051&utm_source=git)** | 9116 Hog Eye Road, Austin, TX, USA | On Site | Mar 16 |
 | **[NEXUS Marketing](https://www.linkedin.com/company/105445398)** | **[Summer sales representative](https://jobright.ai/jobs/info/69b954b606c1ba00c54b6f77?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Mar 16 |
 | **[CLV GROUP](https://www.clvgroup.com)** | **[Summer Real Estate Sales Intern - Hamilton](https://jobright.ai/jobs/info/69b8bbeb56973837413e5a39?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 16 |
 | **[Heilind Electronics](http://www.heilind.com)** | **[Sales Intern – Business Development](https://jobright.ai/jobs/info/69b61f9f06c1ba00c547f86c?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Mar 16 |
-| **[Black Desert Resort](https://blackdesertresort.com/)** | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/69b8bd0b56973837413e5cc5?utm_campaign=1051&utm_source=git)** | US-WA-Cle Elum | On Site | Mar 16 |
-| ↳ | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/69b8bc833b74eb1e2c86ca10?utm_campaign=1051&utm_source=git)** | Cle Elum, WA, US | On Site | Mar 16 |
-| **[TierPoint](http://www.tierpoint.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69b8bcee56973837413e5bc5?utm_campaign=1051&utm_source=git)** | US-MO-Saint Louis | Hybrid | Mar 16 |
-| ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69b8bc8a06c1ba00c54aeb65?utm_campaign=1051&utm_source=git)** | Saint Louis, MO, US | Hybrid | Mar 16 |
-| ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69b8bc503b74eb1e2c86c921?utm_campaign=1051&utm_source=git)** | US-PA-Philadelphia | Hybrid | Mar 16 |
+| **[Black Desert Resort](https://blackdesertresort.com/)** | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/69b8bc833b74eb1e2c86ca10?utm_campaign=1051&utm_source=git)** | Cle Elum, WA, US | On Site | Mar 16 |
+| ↳ | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/69b8bd0b56973837413e5cc5?utm_campaign=1051&utm_source=git)** | US-WA-Cle Elum | On Site | Mar 16 |
+| **[TierPoint](http://www.tierpoint.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69b8bc503b74eb1e2c86c921?utm_campaign=1051&utm_source=git)** | US-PA-Philadelphia | Hybrid | Mar 16 |
 | ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69b8bcee56973837413e5bc7?utm_campaign=1051&utm_source=git)** | Philadelphia, PA, US | Hybrid | Mar 16 |
+| ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69b8bc8a06c1ba00c54aeb65?utm_campaign=1051&utm_source=git)** | Saint Louis, MO, US | Hybrid | Mar 16 |
+| ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69b8bcee56973837413e5bc5?utm_campaign=1051&utm_source=git)** | US-MO-Saint Louis | Hybrid | Mar 16 |
 | **[Zayo Group](https://www.zayo.com)** | **[Public Sector Business Development Intern](https://jobright.ai/jobs/info/69b89b353b74eb1e2c8672ab?utm_campaign=1051&utm_source=git)** | CO - Denver | On Site | Mar 16 |
 | **[rinse](https://insightbinsolutions.com/)** | **[Summer Sales Representative](https://jobright.ai/jobs/info/69b89b1a56973837413dfd5f?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 16 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Sales Internship - Bremerton](https://jobright.ai/jobs/info/69b8bc3b06c1ba00c54aeb22?utm_campaign=1051&utm_source=git)** | Bremerton, WA, US | On Site | Mar 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Sales/Showroom Intern](https://jobright.ai/jobs/info/69b87f7d06c1ba00c54a7b6a?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Mar 16 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69b87f6156973837413de24c?utm_campaign=1051&utm_source=git)** | Baltimore, Maryland | On Site | Mar 16 |
 | **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Intern, Sales Enablement * Performance](https://jobright.ai/jobs/info/69b87e6e3b74eb1e2c865639?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Mar 16 |
-| **[Verkada](https://www.verkada.com)** | **[Director of Public Sector Business Development](https://jobright.ai/jobs/info/69b87b7c06c1ba00c54a7671?utm_campaign=1051&utm_source=git)** | San Mateo, FL | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
