@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TekniPlex](http://www.tekni-plex.com)** | **[Fresh Food Solutions Sales Internship](https://jobright.ai/jobs/info/69a0fdd85218a81676723785?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Mar 20 |
+| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a0634f0836fe79d86150f3?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Mar 20 |
+| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a06e625218a8167671902e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Mar 20 |
+| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a06ff15218a81676719328?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Mar 20 |
+| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - New England & Capital District,](https://jobright.ai/jobs/info/69841a198da7a612045e0be5?utm_campaign=1051&utm_source=git)** | South Windsor, CT | On Site | Mar 20 |
+| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a064fd81476f6176baa01f?utm_campaign=1051&utm_source=git)** | West Conshohocken, PA | On Site | Mar 20 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern- New Orleans](https://jobright.ai/jobs/info/69bd3571b106024562821b6b?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Mar 20 |
+| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f6ee3376a51a4307bdf738?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Mar 20 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a0fa726b458d060735b357?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Mar 20 |
+| **[Richemont](https://www.richemont.com/)** | **[Intern, Strategy & Business Development](https://jobright.ai/jobs/info/69a105576b458d060735bc34?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 20 |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Retail Admin Intern](https://jobright.ai/jobs/info/6966eb83a112b4026614fadd?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Mar 20 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a1006b81476f6176bb5990?utm_campaign=1051&utm_source=git)** | Spring Hill, TN | On Site | Mar 20 |
+| **[Legends Global](http://legends.net)** | **[Intern, Partnership Activation](https://jobright.ai/jobs/info/698529a1348f733a5c3959be?utm_campaign=1051&utm_source=git)** | Tallahassee Metro | On Site | Mar 20 |
+| **[LEVITON MANUFACTURING](https://www.linkedin.com/company/9602682)** | **[Intern, Retail Sales](https://jobright.ai/jobs/info/69bd2a0a4828227293ff6a68?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Mar 20 |
 | **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[Buying Intern](https://jobright.ai/jobs/info/69bd2679393a1008f7428a65?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Consumer Bank Sales Analyst](https://jobright.ai/jobs/info/69a0f4bc6b458d060735ae9c?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Mar 20 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - Sales](https://jobright.ai/jobs/info/69a04ebe0836fe79d86130ab?utm_campaign=1051&utm_source=git)** | Shanghai, VA | On Site | Mar 20 |
@@ -72,10 +86,13 @@ For a complete list, click the following sortable link below:
 | **[Michelin](http://www.michelin.com/)** | **[Summer 2026 Sales Intern (Master’s Level +)](https://jobright.ai/jobs/info/6968395a639b452fb57dd96b?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Mar 20 |
 | **[Radwell International](http://radwell.com)** | **[Outside Sales Representative - North East & Yorkshire](https://jobright.ai/jobs/info/69bd18b9b10602456282027c?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Mar 20 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Adobe Sales Academy BDR](https://jobright.ai/jobs/info/6912fe70c98948514c4800d3?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
+| **[Crum & Forster](https://www.cfins.com/)** | **[Customer Insights Intern](https://jobright.ai/jobs/info/6983e087348f733a5c3764eb?utm_campaign=1051&utm_source=git)** | Glastonbury, CT | Hybrid | Mar 20 |
 | **[Empower](https://www.empower.com)** | **[Senior Wealth Advisor & Practice Lead - Wealth Management - Los Angeles](https://jobright.ai/jobs/info/69a04f085218a81676715caf?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 20 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6983dd5201214b4cdacbfee7?utm_campaign=1051&utm_source=git)** | Glastonbury, CT | On Site | Mar 20 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/6983ea55348f733a5c3781de?utm_campaign=1051&utm_source=git)** | Glastonbury, CT | Hybrid | Mar 20 |
 | **[Empower](https://www.empower.com)** | **[Lead Associate - Financial Wellness Planning & Advisory Services](https://jobright.ai/jobs/info/69bd134945e08b3dc1fa2343?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 20 |
+| ↳ | **[Premier Brokerage Associate](https://jobright.ai/jobs/info/69a04e190836fe79d8612f89?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 20 |
+| **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Sales Operations Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/69bd167645e08b3dc1fa27b3?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Mar 20 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69bd04a94828227293ff342a?utm_campaign=1051&utm_source=git)** | Medicine Hat, AB | On Site | Mar 20 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69616943a112b402660feb25?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Mar 20 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Senior Catering Sales Manager - The Ben Hotel, Autograph Collection](https://jobright.ai/jobs/info/69bcfd62b10602456281c8f3?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Mar 20 |
@@ -113,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Monex USA](https://www.monexusa.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69bcb2f545e08b3dc1f975df?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Rack Hiring Day – Thursday, March 26th, 11am-5pm – Pembroke Mall Rack](https://jobright.ai/jobs/info/69bcb2eb45e08b3dc1f975d4?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Mar 19 |
 | **[Pest Control Consultants](https://www.nellspestcontrol.com/)** | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bce169e6a0d97925850d0c?utm_campaign=1051&utm_source=git)** | Newark, DE | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bce16ee6a0d97925850d10?utm_campaign=1051&utm_source=git)** | Coconut Creek, FL | On Site | Mar 19 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bce16ce6a0d97925850d0f?utm_campaign=1051&utm_source=git)** | Miami Gardens, FL | On Site | Mar 19 |
+| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bce16ee6a0d97925850d10?utm_campaign=1051&utm_source=git)** | Coconut Creek, FL | On Site | Mar 19 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bce1ae45e08b3dc1f9cf48?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Mar 19 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bce1a745e08b3dc1f9cf3c?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Mar 19 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bce2614828227293fef3bb?utm_campaign=1051&utm_source=git)** | North Miami, FL | On Site | Mar 19 |
@@ -130,31 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Monex USA](https://www.monexusa.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69bcd26c45e08b3dc1f9ae6c?utm_campaign=1051&utm_source=git)** | Lehi, UT | On Site | Mar 19 |
 | ↳ | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69bccea1e6a0d9792584e9d5?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Mar 19 |
 | **[Aflac](http://www.aflac.com)** | **[Proposal Writer III](https://jobright.ai/jobs/info/69bcae56e6a0d9792584b0f4?utm_campaign=1051&utm_source=git)** | Columbus, GA | Hybrid | Mar 19 |
-| **[Pest Control Consultants](https://www.nellspestcontrol.com/)** | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcd25945e08b3dc1f9ae2d?utm_campaign=1051&utm_source=git)** | Lafayette, CO | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcd26a45e08b3dc1f9ae64?utm_campaign=1051&utm_source=git)** | Clayton, DE | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bccdb04828227293fece31?utm_campaign=1051&utm_source=git)** | Smyrna, DE | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bccdc04828227293fece5c?utm_campaign=1051&utm_source=git)** | Louisville, CO | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcd25845e08b3dc1f9ae2b?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bccd924828227293fecdf0?utm_campaign=1051&utm_source=git)** | Longmont, CO | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcd25145e08b3dc1f9ae1d?utm_campaign=1051&utm_source=git)** | Dover, DE | On Site | Mar 19 |
+| **[Pest Control Consultants](https://www.nellspestcontrol.com/)** | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bccdb04828227293fece31?utm_campaign=1051&utm_source=git)** | Smyrna, DE | On Site | Mar 19 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bccdb84828227293fece46?utm_campaign=1051&utm_source=git)** | New Haven, CT | On Site | Mar 19 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcce96e6a0d9792584e9b7?utm_campaign=1051&utm_source=git)** | Boulder, CO | On Site | Mar 19 |
+| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcd25945e08b3dc1f9ae2d?utm_campaign=1051&utm_source=git)** | Lafayette, CO | On Site | Mar 19 |
+| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bccdc04828227293fece5c?utm_campaign=1051&utm_source=git)** | Louisville, CO | On Site | Mar 19 |
+| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcd26a45e08b3dc1f9ae64?utm_campaign=1051&utm_source=git)** | Clayton, DE | On Site | Mar 19 |
+| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcd25845e08b3dc1f9ae2b?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Mar 19 |
+| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcd25145e08b3dc1f9ae1d?utm_campaign=1051&utm_source=git)** | Dover, DE | On Site | Mar 19 |
+| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bccd924828227293fecdf0?utm_campaign=1051&utm_source=git)** | Longmont, CO | On Site | Mar 19 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcd26a45e08b3dc1f9ae5e?utm_campaign=1051&utm_source=git)** | Homestead, FL | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bccd984828227293fecdfd?utm_campaign=1051&utm_source=git)** | Plantation, FL | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bccd9e4828227293fece0c?utm_campaign=1051&utm_source=git)** | Waterbury, CT | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcce8ae6a0d9792584e992?utm_campaign=1051&utm_source=git)** | Kissimmee, FL | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcce8fe6a0d9792584e9a3?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bccea9e6a0d9792584e9fa?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bccd9e4828227293fece0d?utm_campaign=1051&utm_source=git)** | Durango, CO | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcce97e6a0d9792584e9b9?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcce8ae6a0d9792584e995?utm_campaign=1051&utm_source=git)** | Harrington, DE | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcce8ae6a0d9792584e993?utm_campaign=1051&utm_source=git)** | Norwalk, CT | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcd26b45e08b3dc1f9ae65?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bccea0e6a0d9792584e9d3?utm_campaign=1051&utm_source=git)** | Laurel, DE | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bccd934828227293fecdf5?utm_campaign=1051&utm_source=git)** | Fairfield, CT | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bccd984828227293fecdfe?utm_campaign=1051&utm_source=git)** | Margate, FL | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcce9fe6a0d9792584e9ce?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bccdbf4828227293fece59?utm_campaign=1051&utm_source=git)** | New Britain, CT | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcd24745e08b3dc1f9ae02?utm_campaign=1051&utm_source=git)** | Greenwich, CT | On Site | Mar 19 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69bcd26045e08b3dc1f9ae43?utm_campaign=1051&utm_source=git)** | Tamarac, FL | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
