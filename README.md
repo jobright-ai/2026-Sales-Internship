@@ -57,15 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[myAgro](http://www.myagro.org/)** | **[Development Manager](https://jobright.ai/jobs/info/699dab77e0bddb6acacd0fd6?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 21 |
+| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Michigan) - Summer '26](https://jobright.ai/jobs/info/68c2893903b99f6b3429507d?utm_campaign=1051&utm_source=git)** | Edmore, MI | On Site | Mar 21 |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Commodity Trader Intern](https://jobright.ai/jobs/info/69bee0feb1060245628448e9?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Mar 21 |
+| ↳ | **[Commodity Trader Intern](https://jobright.ai/jobs/info/69bee0fcb1060245628448e0?utm_campaign=1051&utm_source=git)** | Inver Grove Heights, MN | On Site | Mar 21 |
+| **[Ardelyx, Inc.](https://ardelyx.com/)** | **[IBSRELA West Commercial Sales Intern](https://jobright.ai/jobs/info/69bedc66393a1008f744b8b6?utm_campaign=1051&utm_source=git)** | Newark, CA | On Site | Mar 21 |
+| **[Siemens](https://www.siemens.com)** | **[Digital Industries Automation Internship Program - Sales Engineering Track](https://jobright.ai/jobs/info/69bed3df482822729301877b?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Mar 21 |
 | **[Gesa Credit Union](https://www.gesa.com)** | **[Student Relationship Officer](https://jobright.ai/jobs/info/69a295440da45516f16beaab?utm_campaign=1051&utm_source=git)** | Pullman, WA | On Site | Mar 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/696922481703f05405aafc98?utm_campaign=1051&utm_source=git)** | Douglasville, GA | On Site | Mar 21 |
 | ↳ | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/69692d281703f05405ab0c15?utm_campaign=1051&utm_source=git)** | Fayetteville, GA | On Site | Mar 21 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933f34ba0dde7020e2f32c4?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Mar 21 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/699fedfa81476f6176b9c538?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Mar 21 |
-| ↳ | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/699fe10681476f6176b9a037?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | Mar 21 |
 | ↳ | **[NA Sales Intern - Summer 2026](https://jobright.ai/jobs/info/696ab9285fc862418539ca4e?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | Mar 21 |
+| ↳ | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/699fe10681476f6176b9a037?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | Mar 21 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Sales Planning](https://jobright.ai/jobs/info/69a2a3d6359fe034b1cdf6ab?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Service Sales Intern](https://jobright.ai/jobs/info/69433af494730b739876425d?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Mar 21 |
+| **[Magna International](http://www.magna.com/)** | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/696abd5c350cf4380311c8a8?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Mar 21 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance - Calgary (January 2027)](https://jobright.ai/jobs/info/69beb8b34828227293017832?utm_campaign=1051&utm_source=git)** | Calgary, AB | Hybrid | Mar 21 |
 | **[Magna International](http://www.magna.com/)** | **[Innovation Ventures Intern - Summer 2026](https://jobright.ai/jobs/info/69a0119d81476f6176ba13e2?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Mar 21 |
 | **[Johnson Brothers](https://www.johnsonbrothers.com/)** | **[2026 Retail Sales Intern](https://jobright.ai/jobs/info/6984fadb8da7a612045f42d0?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Mar 21 |
@@ -82,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance - Calgary (January 2027)](https://jobright.ai/jobs/info/69bea52f393a1008f74487d9?utm_campaign=1051&utm_source=git)** | Calgary - 8th Ave SW | Hybrid | Mar 21 |
 | **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Mar 21 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698525d9348f733a5c395458?utm_campaign=1051&utm_source=git)** | Caledon, ON | On Site | Mar 21 |
-| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696aae165fc862418539af8a?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Mar 21 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696aa6905fc8624185399e9b?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 21 |
+| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696aa6905fc8624185399e9b?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 21 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696aae165fc862418539af8a?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Mar 21 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696968b1639b452fb57f3c13?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Mar 21 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/698ed883f64d441a16512de5?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Mar 21 |
 | **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696aa4c3db26b618950dccc5?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 21 |
@@ -91,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern- Baton Rouge](https://jobright.ai/jobs/info/696072cc7ebc25398eb669a4?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Mar 21 |
 | ↳ | **[2026 Management & Sales Intern - New Mexico](https://jobright.ai/jobs/info/69a2988b0da45516f16bee73?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Mar 21 |
 | ↳ | **[2026 Management & Sales Intern - Texarkana](https://jobright.ai/jobs/info/69a21b720da45516f16b643d?utm_campaign=1051&utm_source=git)** | Bossier City, LA | On Site | Mar 21 |
-| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Mar 21 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696aac06db26b618950dd8dc?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Mar 21 |
+| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696aac06db26b618950dd8dc?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Mar 21 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Mar 21 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69696e74639b452fb57f47f1?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Mar 21 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69a24f4eb600907a962898ca?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Mar 21 |
 | **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/699bde13ce78e77b4fe065f2?utm_campaign=1051&utm_source=git)** | Williston, ND | On Site | Mar 21 |
@@ -130,15 +137,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69b7a7f106c1ba00c549598b?utm_campaign=1051&utm_source=git)** | Glastonbury, CT | On Site | Mar 21 |
 | ↳ | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69bbd66945e08b3dc1f784f8?utm_campaign=1051&utm_source=git)** | Edina, MN | On Site | Mar 21 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69850aec0f6f7e7a2cdf83d5?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Mar 21 |
-| ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/698504920f6f7e7a2cdf7db5?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Mar 21 |
 | ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/6985069c0f6f7e7a2cdf8015?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 21 |
+| ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/698504920f6f7e7a2cdf7db5?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Mar 21 |
 | ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/6984f8d18da7a612045f4084?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Mar 21 |
 | ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/6985059e348f733a5c3922d7?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Mar 21 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69bbe89845e08b3dc1f7ae5e?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Mar 21 |
 | **[Barnes Aerospace](https://www.barnesaero.com/)** | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a221c60da45516f16b6a89?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Mar 21 |
-| **[PNC](http://www.pnc.com)** | **[Wealth Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69be80a9b10602456283ffad?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Mar 21 |
-| ↳ | **[Wealth Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69be80a2393a1008f7446eda?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Mar 21 |
+| **[PNC](http://www.pnc.com)** | **[Wealth Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69be80a2393a1008f7446eda?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Mar 21 |
 | ↳ | **[Wealth Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69be80a4b10602456283ffa2?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Mar 21 |
+| ↳ | **[Wealth Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69be80a9b10602456283ffad?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Mar 21 |
 | ↳ | **[Wealth Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69be5d30393a1008f7445a24?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Mar 21 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Sales Internship - Parkland](https://jobright.ai/jobs/info/69be6e14b10602456283fa46?utm_campaign=1051&utm_source=git)** | Parkland, WA, US | On Site | Mar 21 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Intern - SUMMER](https://jobright.ai/jobs/info/69be3632b106024562839f25?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69be1d06482822729300d66f?utm_campaign=1051&utm_source=git)** | Lawrence, MA | On Site | Mar 20 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69be1c0ab1060245628382e8?utm_campaign=1051&utm_source=git)** | Blaine, MN | On Site | Mar 20 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69be1b1a393a1008f743fa22?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Mar 20 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69be1b1a393a1008f743fa21?utm_campaign=1051&utm_source=git)** | Coon Rapids, MN | On Site | Mar 20 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69be1b1a393a1008f743fa20?utm_campaign=1051&utm_source=git)** | Hopkinsville, KY | On Site | Mar 20 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69be1b13393a1008f743f9fb?utm_campaign=1051&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Mar 20 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69be1b13393a1008f743f9fa?utm_campaign=1051&utm_source=git)** | Fort Dodge, IA | On Site | Mar 20 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69be1b13393a1008f743f9fc?utm_campaign=1051&utm_source=git)** | Arkansas City, KS | On Site | Mar 20 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69be1b13393a1008f743fa00?utm_campaign=1051&utm_source=git)** | Marion, IA | On Site | Mar 20 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69be1b13393a1008f743f9f9?utm_campaign=1051&utm_source=git)** | Fort Thomas, KY | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
