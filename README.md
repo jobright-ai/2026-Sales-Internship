@@ -99,8 +99,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696aae165fc862418539af8a?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Mar 21 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696968b1639b452fb57f3c13?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Mar 21 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/698ed883f64d441a16512de5?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Mar 21 |
-| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696aa4c3db26b618950dccc5?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 21 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/697d8172ce48107c0541b2d7?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Mar 21 |
+| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/697d8172ce48107c0541b2d7?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Mar 21 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696aa4c3db26b618950dccc5?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 21 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern- Baton Rouge](https://jobright.ai/jobs/info/696072cc7ebc25398eb669a4?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Mar 21 |
 | ↳ | **[2026 Management & Sales Intern - New Mexico](https://jobright.ai/jobs/info/69a2988b0da45516f16bee73?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Mar 21 |
 | ↳ | **[2026 Management & Sales Intern - Texarkana](https://jobright.ai/jobs/info/69a21b720da45516f16b643d?utm_campaign=1051&utm_source=git)** | Bossier City, LA | On Site | Mar 21 |
@@ -119,14 +119,13 @@ For a complete list, click the following sortable link below:
 | **[ADP](http://www.adp.com)** | **[Summer Sales Internship (Dec '26/May '27 Grads)](https://jobright.ai/jobs/info/69be87d84828227293015075?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Mar 21 |
 | **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/699fd9f553d97f23ee655dc0?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 21 |
 | **[Vacheron Constantin](https://www.vacheron-constantin.com/)** | **[Retail Experience Intern](https://jobright.ai/jobs/info/69a1f1c20da45516f16b3c1e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 21 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69be2d3c482822729300e621?utm_campaign=1051&utm_source=git)** | Hoffman Estates, IL | On Site | Mar 21 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69be80a64828227293014b65?utm_campaign=1051&utm_source=git)** | De Soto, KS | On Site | Mar 21 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a25c41b600907a9628a402?utm_campaign=1051&utm_source=git)** | Surprise, AZ | On Site | Mar 21 |
 | **[EMCOR Services Mesa Energy](https://www.mesaenergy.com)** | **[Intern - HVAC Sales](https://jobright.ai/jobs/info/69be7a384828227293014a28?utm_campaign=1051&utm_source=git)** | San Leandro, CA | On Site | Mar 21 |
 | **[ADP](http://www.adp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a3b06b0da45516f16cb10b?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Mar 21 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69850b0b0f6f7e7a2cdf83e3?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Mar 21 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69be75f2393a1008f7446cda?utm_campaign=1051&utm_source=git)** | South Portland, ME | On Site | Mar 21 |
-| ↳ | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69bc52aa45e08b3dc1f8c5bc?utm_campaign=1051&utm_source=git)** | Peoria Heights, IL | On Site | Mar 21 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69bc52aa45e08b3dc1f8c5bc?utm_campaign=1051&utm_source=git)** | Peoria Heights, IL | On Site | Mar 21 |
+| ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69be75f2393a1008f7446cda?utm_campaign=1051&utm_source=git)** | South Portland, ME | On Site | Mar 21 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/69867b820f6f7e7a2ce178ae?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Mar 21 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Institutional Advancement Intern](https://jobright.ai/jobs/info/69a25b6d0da45516f16b9f8c?utm_campaign=1051&utm_source=git)** | Dearborn, MI | Hybrid | Mar 21 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6984fd36348f733a5c3918d0?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Mar 21 |
@@ -142,19 +141,20 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69bbc47306c1ba00c54e5414?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Mar 21 |
 | ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69b7a7f106c1ba00c549598b?utm_campaign=1051&utm_source=git)** | Glastonbury, CT | On Site | Mar 21 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69850aec0f6f7e7a2cdf83d5?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Mar 21 |
-| ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/6985069c0f6f7e7a2cdf8015?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 21 |
 | ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/698504920f6f7e7a2cdf7db5?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Mar 21 |
+| ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/6985069c0f6f7e7a2cdf8015?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 21 |
 | ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/6984f8d18da7a612045f4084?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Mar 21 |
 | ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/6985059e348f733a5c3922d7?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Mar 21 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69bbe89845e08b3dc1f7ae5e?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Mar 21 |
 | **[Barnes Aerospace](https://www.barnesaero.com/)** | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a221c60da45516f16b6a89?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Mar 21 |
-| **[PNC](http://www.pnc.com)** | **[Wealth Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69be80a9b10602456283ffad?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Mar 21 |
-| ↳ | **[Wealth Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69be80a2393a1008f7446eda?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Mar 21 |
+| **[PNC](http://www.pnc.com)** | **[Wealth Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69be80a2393a1008f7446eda?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Mar 21 |
 | ↳ | **[Wealth Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69be80a4b10602456283ffa2?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Mar 21 |
+| ↳ | **[Wealth Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69be80a9b10602456283ffad?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Mar 21 |
 | ↳ | **[Wealth Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69be5d30393a1008f7445a24?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Mar 21 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Sales Internship - Parkland](https://jobright.ai/jobs/info/69be6e14b10602456283fa46?utm_campaign=1051&utm_source=git)** | Parkland, WA, US | On Site | Mar 21 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Intern - SUMMER](https://jobright.ai/jobs/info/69be3632b106024562839f25?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
 | **[Think Together](https://thinktogether.org/)** | **[Intern - Fund Development](https://jobright.ai/jobs/info/69be3144482822729300ed12?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | On Site | Mar 20 |
 | ↳ | **[Intern - Partner Success](https://jobright.ai/jobs/info/69be3088393a1008f7440f68?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | Hybrid | Mar 20 |
 | **[ADP](http://www.adp.com)** | **[Summer 2026 Digital Sales Intern](https://jobright.ai/jobs/info/69be3087393a1008f7440f67?utm_campaign=1051&utm_source=git)** | Coraopolis, PA | On Site | Mar 20 |
+| **[Pest Control Consultants](https://www.nellspestcontrol.com/)** | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69be1d3b482822729300d765?utm_campaign=1051&utm_source=git)** | Leavenworth, KS | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
