@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Chico, CA](https://jobright.ai/jobs/info/6932f6f3f131d96e4845ee65?utm_campaign=1051&utm_source=git)** | Chico, CA | On Site | Mar 23 |
+| ↳ | **[Student Housing Operations Intern - Starkville, MS](https://jobright.ai/jobs/info/6932fbad764507023d1b1717?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Mar 23 |
+| ↳ | **[Student Housing Operations Intern - Normal, IL](https://jobright.ai/jobs/info/6932fe20764507023d1b1807?utm_campaign=1051&utm_source=git)** | Normal, IL | On Site | Mar 23 |
+| ↳ | **[Student Housing Operations Intern - Murfreesboro, TN](https://jobright.ai/jobs/info/6932fa56764507023d1b16a9?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Mar 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6976dfb53778585635106341?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 23 |
+| **[IMMIGRANT INVEST](https://immigrantinvest.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c1128179e36d3a847da05e?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 23 |
+| **[STO Building Group](https://stobuildinggroup.com)** | **[Intern - MV](https://jobright.ai/jobs/info/6917f03145fb6f5ead8a00ac?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | Mar 23 |
 | **[RagaAI Inc](http://www.raga.ai)** | **[AI Product & Customer Success Intern](https://jobright.ai/jobs/info/69c0f49f79e36d3a847d7212?utm_campaign=1051&utm_source=git)** | Plainview, NY | On Site | Mar 23 |
 | **[Influx](https://www.influxonline.co)** | **[Graduate Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69c0f04a7798f73e35e59d66?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 23 |
 | ↳ | **[Sales Representative Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69c0e7122c312363dcd36a2f?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 23 |
@@ -73,6 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Southwestern Family of Companies](http://southwestern.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69c073a279e36d3a847cc52f?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Mar 22 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69c072322c312363dcd2e649?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Mar 22 |
 | **[Lazy.Shop](Lazy.shop)** | **[Business Internship](https://jobright.ai/jobs/info/69c06fc27798f73e35e4fbf6?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 22 |
+| **[Hyland](https://www.hyland.com/)** | **[Intern, Sales Support](https://jobright.ai/jobs/info/69c108d179e36d3a847d9982?utm_campaign=1051&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | On Site | Mar 22 |
+| ↳ | **[Intern, Sales Support](https://jobright.ai/jobs/info/69c108ce7798f73e35e5d810?utm_campaign=1051&utm_source=git)** | Remote - U.S. | Remote | Mar 22 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69c059047798f73e35e4ea71?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Mar 22 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69c058f279e36d3a847cb06d?utm_campaign=1051&utm_source=git)** | League City, TX | On Site | Mar 22 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Chicago, Summer 2026](https://jobright.ai/jobs/info/68df1a616be63b6ec996bc2d?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 22 |
@@ -89,10 +98,10 @@ For a complete list, click the following sortable link below:
 | **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69a452ce359fe034b1cf3243?utm_campaign=1051&utm_source=git)** | Midland, TX | On Site | Mar 22 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Banker Intern (Columbia, SC - Forest Lake)](https://jobright.ai/jobs/info/698667380f6f7e7a2ce1584a?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Mar 22 |
 | **[C.H. Guenther](http://www.chg.com)** | **[Sales Insights & Analytics Intern](https://jobright.ai/jobs/info/69863a2f0f6f7e7a2ce11c7f?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
-| **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69b79e1e3b74eb1e2c853425?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Mar 22 |
-| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/6932efcdf131d96e4845ec3d?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Mar 22 |
-| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/6932f48ca0dde7020e2e9969?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Mar 22 |
+| **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/6932efcdf131d96e4845ec3d?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Mar 22 |
+| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69b79e1e3b74eb1e2c853425?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Mar 22 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/696b0a965fc86241853a564a?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Mar 22 |
+| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/6932f48ca0dde7020e2e9969?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Mar 22 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/6920109709cc522e87747c7e?utm_campaign=1051&utm_source=git)** | Lynnwood, WA | On Site | Mar 22 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/692018a53f782d2f1afc2d7e?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Mar 22 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69bc25e145e08b3dc1f850dd?utm_campaign=1051&utm_source=git)** | Newark, DE | On Site | Mar 22 |
@@ -120,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[ADP](http://www.adp.com)** | **[Summer Sales Internship (Dec '26/May '27 Grads)](https://jobright.ai/jobs/info/69bfcad079e36d3a847c6abb?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Mar 22 |
 | **[Federation of Buying Agents](http://fba.org.in/)** | **[Work from Home based Business Development Intern](https://jobright.ai/jobs/info/69bfc43979e36d3a847c68dc?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Mar 22 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/69867f658da7a61204614e14?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Mar 22 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69c115f879e36d3a847da103?utm_campaign=1051&utm_source=git)** | Tukwila, WA | On Site | Mar 22 |
 | **[Empower](https://www.empower.com)** | **[Wealth Solutions Advisor](https://jobright.ai/jobs/info/69a2ed990da45516f16c4968?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69616943a112b402660feb25?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Mar 22 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships - Activations](https://jobright.ai/jobs/info/69bd90d74828227293ffce28?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Mar 21 |
@@ -129,10 +139,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf635079e36d3a847bf850?utm_campaign=1051&utm_source=git)** | Lowell, MA | On Site | Mar 21 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf634f79e36d3a847bf843?utm_campaign=1051&utm_source=git)** | Georgetown, TX | On Site | Mar 21 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf634f79e36d3a847bf845?utm_campaign=1051&utm_source=git)** | Elon, NC | On Site | Mar 21 |
+| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf634e79e36d3a847bf837?utm_campaign=1051&utm_source=git)** | Canton, MI | On Site | Mar 21 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf634e79e36d3a847bf83b?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | On Site | Mar 21 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf634e79e36d3a847bf836?utm_campaign=1051&utm_source=git)** | Fullerton, CA | On Site | Mar 21 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf634e79e36d3a847bf838?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Mar 21 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf634e79e36d3a847bf837?utm_campaign=1051&utm_source=git)** | Canton, MI | On Site | Mar 21 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf634d79e36d3a847bf822?utm_campaign=1051&utm_source=git)** | Boone, NC | On Site | Mar 21 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf634d79e36d3a847bf831?utm_campaign=1051&utm_source=git)** | Leander, TX | On Site | Mar 21 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf634c2c312363dcd21a47?utm_campaign=1051&utm_source=git)** | Grand Junction, CO | On Site | Mar 21 |
@@ -142,19 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf63452c312363dcd21a10?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Mar 21 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf634579e36d3a847bf7f8?utm_campaign=1051&utm_source=git)** | Bridgeport, CT | On Site | Mar 21 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf63442c312363dcd21a08?utm_campaign=1051&utm_source=git)** | New Bedford, MA | On Site | Mar 21 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf63432c312363dcd219f3?utm_campaign=1051&utm_source=git)** | Chestnut Hill, MA | On Site | Mar 21 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf63432c312363dcd219ff?utm_campaign=1051&utm_source=git)** | Santa Maria, CA | On Site | Mar 21 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf63432c312363dcd219f6?utm_campaign=1051&utm_source=git)** | Midland, TX | On Site | Mar 21 |
+| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf63432c312363dcd219ff?utm_campaign=1051&utm_source=git)** | Santa Maria, CA | On Site | Mar 21 |
+| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf63432c312363dcd219f3?utm_campaign=1051&utm_source=git)** | Chestnut Hill, MA | On Site | Mar 21 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf63432c312363dcd219ef?utm_campaign=1051&utm_source=git)** | Davie, FL | On Site | Mar 21 |
 | ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf63422c312363dcd219ed?utm_campaign=1051&utm_source=git)** | Concord, CA | On Site | Mar 21 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf63422c312363dcd219eb?utm_campaign=1051&utm_source=git)** | Murrieta, CA | On Site | Mar 21 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf63357798f73e35e42fab?utm_campaign=1051&utm_source=git)** | McAllen, TX | On Site | Mar 21 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf63347798f73e35e42fa6?utm_campaign=1051&utm_source=git)** | Escondido, CA | On Site | Mar 21 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf63337798f73e35e42f9b?utm_campaign=1051&utm_source=git)** | Renton, WA | On Site | Mar 21 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf63337798f73e35e42f9d?utm_campaign=1051&utm_source=git)** | Broken Arrow, OK | On Site | Mar 21 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf632d7798f73e35e42f79?utm_campaign=1051&utm_source=git)** | Round Rock, TX | On Site | Mar 21 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf632d7798f73e35e42f76?utm_campaign=1051&utm_source=git)** | Edinburg, TX | On Site | Mar 21 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf632b7798f73e35e42f5e?utm_campaign=1051&utm_source=git)** | San Tan Valley, AZ | On Site | Mar 21 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf632b7798f73e35e42f5b?utm_campaign=1051&utm_source=git)** | Lees Summit, MO | On Site | Mar 21 |
-| ↳ | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69bf632b7798f73e35e42f64?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
