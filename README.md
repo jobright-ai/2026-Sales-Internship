@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Refold AI](https://refold.ai)** | **[Sales & Marketing Intern (US)](https://jobright.ai/jobs/info/69c331ae94007a2195df84f8?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Mar 24 |
+| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/69c33185753c101b2156d892?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
+| **[Wealthspire](https://www.wealthspire.com/)** | **[Wealthspire M&A Intern](https://jobright.ai/jobs/info/69c32d94ec22f8310ab16512?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Mar 24 |
+| **[Alarm Detection Systems](https://www.adsalarm.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c32568753c101b2156c1cc?utm_campaign=1051&utm_source=git)** | Aurora, Illinois, United States | On Site | Mar 24 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern (f/m/d) - Corporate Business Development](https://jobright.ai/jobs/info/69c3253294007a2195df6b9f?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | On Site | Mar 24 |
+| **[Visit Milwaukee](http://www.visitmilwaukee.org/)** | **[Partnership Intern (Summer)](https://jobright.ai/jobs/info/69c324fd753c101b2156c08f?utm_campaign=1051&utm_source=git)** | Milwaukee,WI,US | On Site | Mar 24 |
+| **[NetCarreiras](https://www.netcarreiras.com.br)** | **[VENDEDOR INTERNO](https://jobright.ai/jobs/info/69c32473753c101b2156bdbc?utm_campaign=1051&utm_source=git)** | South Carolina, United States | On Site | Mar 24 |
+| **[HireEvo - Interview Coach](https://www.hire-evo.com/)** | **[Business Development & Partnerships Manager](https://jobright.ai/jobs/info/69c321bd753c101b2156b587?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 24 |
+| **[TikTok](https://www.tiktok.com)** | **[TikTok Shop e-Commerce Strategic Specialist Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c3218c753c101b2156b4b4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 24 |
+| **[RJ Young](https://www.RJYoung.com)** | **[Business Development Representative Sales Internship](https://jobright.ai/jobs/info/69c3216f94007a2195df5f80?utm_campaign=1051&utm_source=git)** | Gainesville, Florida, United States | On Site | Mar 24 |
 | **[Radial Inc.](http://www.radial.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69c31a1794007a2195df5629?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | Remote | Mar 24 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships - Activations](https://jobright.ai/jobs/info/69bd90d74828227293ffce28?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Mar 24 |
 | **[Panduit](http://www.panduit.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69c3115594007a2195df3b16?utm_campaign=1051&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Mar 24 |
@@ -76,8 +86,7 @@ For a complete list, click the following sortable link below:
 | **[DV8 Communication](https://www.dv8communication.com/)** | **[Account Executive Intern (Multicultural Marketing)](https://jobright.ai/jobs/info/69c30787753c101b215676e4?utm_campaign=1051&utm_source=git)** | Richmond Hill, ON | On Site | Mar 24 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Sales Strategy](https://jobright.ai/jobs/info/69c3036a753c101b215674ce?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[Sabio](http://www.sabio.inc)** | **[Sales Strategy Intern](https://jobright.ai/jobs/info/69c301fcec22f8310ab10986?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 24 |
-| **[Empower Global](https://empowerglobal.net)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c3017894007a2195df1f57?utm_campaign=1051&utm_source=git)** | Washington, DC | Remote | Mar 24 |
-| **[Sabio](http://www.sabio.inc)** | **[Account Management Intern](https://jobright.ai/jobs/info/69c2fe28753c101b2156720d?utm_campaign=1051&utm_source=git)** | Detroit Metro | Hybrid | Mar 24 |
+| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69c2fe28753c101b2156720d?utm_campaign=1051&utm_source=git)** | Detroit Metro | Hybrid | Mar 24 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69c2fa9294007a2195df1a0b?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Mar 24 |
 | **[Smith & Associates](http://www.smithweb.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c2fa9194007a2195df1a04?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[Alarm Detection Systems](https://www.adsalarm.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c319f8753c101b2156ab39?utm_campaign=1051&utm_source=git)** | Aurora, IL | On Site | Mar 24 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Prysmian](https://www.prysmian.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a63c49d706a731db3816ec?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Mar 24 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Management Liability/Professional Lines Intern](https://jobright.ai/jobs/info/69a6b6b71b924d33c2d1310d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[Next Target](https://wearenexttarget.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69bace2806c1ba00c54d1b6d?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Mar 24 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69c29e4dec22f8310ab07ff4?utm_campaign=1051&utm_source=git)** | Danbury, CT | On Site | Mar 24 |
-| **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69200694a49a885af9a36161?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Mar 24 |
-| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/6920130fa49a885af9a36861?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Mar 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Downtown Seattle](https://jobright.ai/jobs/info/69c29e40ec22f8310ab07fd7?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Mar 24 |
-| **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/692007ac09cc522e877476b9?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 24 |
-| **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69b063197495006450968b17?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Mar 24 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c31063ec22f8310ab12131?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Mar 24 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Kansas City District)](https://jobright.ai/jobs/info/697b600b1423772304eb7d8c?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Mar 24 |
-| **[Crown Lift Trucks](http://www.crown.com)** | **[Sales Intern (Summer 2026) Madison, WI](https://jobright.ai/jobs/info/69c29954753c101b2155e189?utm_campaign=1051&utm_source=git)** | Greater Madison Area | Hybrid | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
