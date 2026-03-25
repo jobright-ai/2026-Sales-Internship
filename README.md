@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69c34ff394007a2195dfa228?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Mar 24 |
+| **[Trishula AI](https://trishulaai.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c34d2694007a2195dfa0ae?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 24 |
+| **[First Federal Bank](https://www.ffbf.com)** | **[Intern - Commercial Lending Support](https://jobright.ai/jobs/info/69c34774097a024c43d94ab6?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Mar 24 |
+| **[Desjardins](https://www.desjardins.com)** | **[Conseiller ou conseillère, Développement Services Internationaux-FR](https://jobright.ai/jobs/info/69c3456c94007a2195df9872?utm_campaign=1051&utm_source=git)** | Québec, QC | On Site | Mar 24 |
+| **[Olympic Industries ULC](https://olympicind.com)** | **[Commodity Trader Intern/Co-op - May 2026](https://jobright.ai/jobs/info/69c3416d753c101b2156e8de?utm_campaign=1051&utm_source=git)** | North Vancouver, BC | On Site | Mar 24 |
+| **[Atlanta Life Insurance Company](https://atlantalife.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c34115753c101b2156e897?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern (f/m/d) - Corporate Business Development](https://jobright.ai/jobs/info/69c33cfb097a024c43d94356?utm_campaign=1051&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Mar 24 |
+| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69c33c3b097a024c43d9424c?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Mar 24 |
+| **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Corporate Ventures Intern](https://jobright.ai/jobs/info/69c33a1294007a2195df8f68?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Mar 24 |
+| **[SUPPLIFLEX](https://suppliflex.tech)** | **[Sales & Growth Intern (Startup)](https://jobright.ai/jobs/info/69c33a08753c101b2156de83?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 24 |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69c33a05097a024c43d93c06?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Mar 24 |
+| **[Ascension Recovery Services](https://www.ascensionrs.com)** | **[Sr. Business Development & Commuinty Outreach Speacialist](https://jobright.ai/jobs/info/69c3399694007a2195df8df5?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Mar 24 |
+| ↳ | **[Sr. Business Development & Commuinty Outreach Speacialist](https://jobright.ai/jobs/info/69c33960097a024c43d9398d?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Mar 24 |
 | **[Refold AI](https://refold.ai)** | **[Sales & Marketing Intern (US)](https://jobright.ai/jobs/info/69c331ae94007a2195df84f8?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Mar 24 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/69c33185753c101b2156d892?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Wealthspire M&A Intern](https://jobright.ai/jobs/info/69c32d94ec22f8310ab16512?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Mar 24 |
@@ -67,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[HireEvo - Interview Coach](https://www.hire-evo.com/)** | **[Business Development & Partnerships Manager](https://jobright.ai/jobs/info/69c321bd753c101b2156b587?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 24 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop e-Commerce Strategic Specialist Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c3218c753c101b2156b4b4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 24 |
 | **[RJ Young](https://www.RJYoung.com)** | **[Business Development Representative Sales Internship](https://jobright.ai/jobs/info/69c3216f94007a2195df5f80?utm_campaign=1051&utm_source=git)** | Gainesville, Florida, United States | On Site | Mar 24 |
+| **[Sales Hatch](https://www.saleshatch.io/)** | **[Sales Internship](https://jobright.ai/jobs/info/69c34125753c101b2156e89d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
 | **[Radial Inc.](http://www.radial.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69c31a1794007a2195df5629?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | Remote | Mar 24 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships - Activations](https://jobright.ai/jobs/info/69bd90d74828227293ffce28?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Mar 24 |
 | **[Panduit](http://www.panduit.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69c3115594007a2195df3b16?utm_campaign=1051&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Mar 24 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Detroit City FC](https://www.detcityfc.com)** | **[Ticket Sales and Service Intern](https://jobright.ai/jobs/info/69c2bf82ec22f8310ab0a326?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Mar 24 |
 | **[Gateway Arch](https://www.gatewayarch.com/)** | **[Intern, Strategic Business Development](https://jobright.ai/jobs/info/69c2b64aec22f8310ab09882?utm_campaign=1051&utm_source=git)** | Imperial, MO | On Site | Mar 24 |
 | **[The Kitchen North America](https://www.wearethekitchen.com)** | **[Summer Squad - Account Coordinator, NYC](https://jobright.ai/jobs/info/69a696ebf707784310afed18?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Mar 24 |
-| **[Brunner](http://brunnerworks.com)** | **[Account Coordinator Intern](https://jobright.ai/jobs/info/69c2b31cec22f8310ab094f4?utm_campaign=1051&utm_source=git)** | Pittsburgh,PA,US | Hybrid | Mar 24 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Beauty Sales - Fresh & Beauty Rituals - Streets at Southpoint](https://jobright.ai/jobs/info/69a68dd4708b430a607af187?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Mar 24 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/6979ae23ca92cf0d6a82f7b2?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Mar 24 |
-| **[ProPharma](http://www.propharmagroup.com/)** | **[Intern: Sales Enablement & Research (Remote)](https://jobright.ai/jobs/info/69c2ae85ec22f8310ab08ab7?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 24 |
-| **[Brunner](http://brunnerworks.com)** | **[Account Coordinator Intern](https://jobright.ai/jobs/info/69c2add1753c101b2155eeac?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 24 |
-| **[Purdue Research Foundation](http://prf.org)** | **[Alliances Intern](https://jobright.ai/jobs/info/69c2ad9fec22f8310ab08994?utm_campaign=1051&utm_source=git)** | West Lafayette, IN | On Site | Mar 24 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[Sales Process Specialist](https://jobright.ai/jobs/info/69c2ace0753c101b2155ed31?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Mar 24 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader (Manager) Trainee – Franchise Operations](https://jobright.ai/jobs/info/69c2a751753c101b2155eb0d?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
-| **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/69bcae3f4828227293fe92ed?utm_campaign=1051&utm_source=git)** | Irving, TX | Hybrid | Mar 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69b4d78a569738374139cfcc?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Mar 24 |
-| **[San José State University](http://www.sjsu.edu/)** | **[Director of Development for Business](https://jobright.ai/jobs/info/69a643fdd706a731db3820b6?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
-| **[Prysmian](https://www.prysmian.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a63c49d706a731db3816ec?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Mar 24 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Management Liability/Professional Lines Intern](https://jobright.ai/jobs/info/69a6b6b71b924d33c2d1310d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 24 |
-| **[Next Target](https://wearenexttarget.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69bace2806c1ba00c54d1b6d?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
