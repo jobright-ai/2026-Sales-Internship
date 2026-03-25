@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Legends Global](http://legends.net)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69a7c055637232443f651689?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Mar 25 |
+| **[Legends Global](http://legends.net)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69a9338379f3f4037f43faf3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 25 |
+| ↳ | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69a7c61076bbe83d3afb418e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 25 |
+| ↳ | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69a7c055637232443f651689?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Mar 25 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a95bc8f2055e05d1717f3a?utm_campaign=1051&utm_source=git)** | DeSoto, TX | On Site | Mar 25 |
 | **[Legends Global](http://legends.net)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69a920e679f3f4037f43d566?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Mar 25 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a7b44276bbe83d3afb240a?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Mar 25 |
@@ -76,8 +78,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Build-To-Rent Analyst Intern](https://jobright.ai/jobs/info/69c15f382c312363dcd42737?utm_campaign=1051&utm_source=git)** | Arlington, TX | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/6982ca8f348f733a5c35d007?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/698ed7e0f64d441a16512afd?utm_campaign=1051&utm_source=git)** | Richmond, TX | On Site | Mar 25 |
-| ↳ | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/697466bcbc8e722e7b197b82?utm_campaign=1051&utm_source=git)** | Smyrna, DE | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/69a7afdf76bbe83d3afb1c85?utm_campaign=1051&utm_source=git)** | Sewickley, PA | On Site | Mar 25 |
+| ↳ | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/697466bcbc8e722e7b197b82?utm_campaign=1051&utm_source=git)** | Smyrna, DE | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/697c6bd9137a051025655fa2?utm_campaign=1051&utm_source=git)** | Bluffton, SC | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/69bf6ff679e36d3a847c0e16?utm_campaign=1051&utm_source=git)** | Asheville, NC | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68b8f3a2ea901c0d269fafda?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Mar 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SurveyMonkey](https://www.momentive.ai)** | **[Sales Intern](https://jobright.ai/jobs/info/69c30b8fec22f8310ab118cb?utm_campaign=1051&utm_source=git)** | Ottawa, ON | Hybrid | Mar 24 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - MFU](https://jobright.ai/jobs/info/69c2eafbec22f8310ab0e55c?utm_campaign=1051&utm_source=git)** | Dunmore, PA Warehouse, Dunmore, PA, US | On Site | Mar 24 |
 | **[ESCO Retail Services](https://escoretail.com)** | **[Intern - MFU](https://jobright.ai/jobs/info/69c2eaf9ec22f8310ab0e54b?utm_campaign=1051&utm_source=git)** | Dunmore, PA Warehouse, Dunmore, PA, US | On Site | Mar 24 |
-| **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - Procurement Internship (Remote, US)](https://jobright.ai/jobs/info/69c2e98d94007a2195def944?utm_campaign=1051&utm_source=git)** | Remote- US | Remote | Mar 24 |
-| **[Finning](http://www.finning.com)** | **[Sales Internship (Construction)](https://jobright.ai/jobs/info/69c2e961753c101b21565145?utm_campaign=1051&utm_source=git)** | Edmonton, AB | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
