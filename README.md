@@ -57,10 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69a7c055637232443f651689?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Mar 25 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a95bc8f2055e05d1717f3a?utm_campaign=1051&utm_source=git)** | DeSoto, TX | On Site | Mar 25 |
+| **[Legends Global](http://legends.net)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69a920e679f3f4037f43d566?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Mar 25 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a7b44276bbe83d3afb240a?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Mar 25 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - San Marcos, TX](https://jobright.ai/jobs/info/69a7bb53637232443f650e02?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Mar 25 |
+| **[Aircall](https://aircall.io/)** | **[Digital Customer Success Intern - New York (6 months)](https://jobright.ai/jobs/info/698a834dc5761b521a99bc9d?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
+| **[Nucor Corporation](http://www.nucor.com)** | **[Sales Summer Intern 1](https://jobright.ai/jobs/info/69c3bef233eecf3107939ec4?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Mar 25 |
+| **[Generac](https://www.generac.com)** | **[Corporate Development Manager - Intern](https://jobright.ai/jobs/info/69a6f16176bbe83d3afa45a0?utm_campaign=1051&utm_source=git)** | Waukesha, WI | Hybrid | Mar 25 |
+| **[Rinker Materials](http://www.rinkerpipe.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696ffb573ed06875134afc7a?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Mar 25 |
+| **[Oracle](https://www.oracle.com/)** | **[Client Success Summer Intern, Oracle Energy and Water](https://jobright.ai/jobs/info/698a11294db8972cecff4a2b?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Mar 25 |
+| **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/69bc8ca245e08b3dc1f94ac0?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Mar 25 |
 | **[Radwell International](http://radwell.com)** | **[Outside Sales Representative - North East & Yorkshire](https://jobright.ai/jobs/info/69c39a33753c101b21578124?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Mar 25 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/698ed883f64d441a16512de5?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Mar 25 |
-| ↳ | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/69a81b2b295e854151e53511?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/69704814587dfa0bb55dd075?utm_campaign=1051&utm_source=git)** | Charleston County, SC | On Site | Mar 25 |
+| ↳ | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/69a81b2b295e854151e53511?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Mar 25 |
+| ↳ | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/68b7a05c1ade4306aa64cb3d?utm_campaign=1051&utm_source=git)** | Edgewater, MD | On Site | Mar 25 |
 | ↳ | **[Build-To-Rent Analyst Intern](https://jobright.ai/jobs/info/69c15f382c312363dcd42737?utm_campaign=1051&utm_source=git)** | Arlington, TX | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/6982ca8f348f733a5c35d007?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/698ed7e0f64d441a16512afd?utm_campaign=1051&utm_source=git)** | Richmond, TX | On Site | Mar 25 |
@@ -69,12 +81,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/697c6bd9137a051025655fa2?utm_campaign=1051&utm_source=git)** | Bluffton, SC | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/69bf6ff679e36d3a847c0e16?utm_campaign=1051&utm_source=git)** | Asheville, NC | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68b8f3a2ea901c0d269fafda?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Mar 25 |
-| ↳ | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/69b0dad0749500645097e203?utm_campaign=1051&utm_source=git)** | Smyrna, TN | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/698ed9160f6f7e7a2ceb0361?utm_campaign=1051&utm_source=git)** | Richmond, TX | On Site | Mar 25 |
+| ↳ | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/69b0dad0749500645097e203?utm_campaign=1051&utm_source=git)** | Smyrna, TN | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Land Intern - Raleigh South](https://jobright.ai/jobs/info/69c38ba094007a2195e01433?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Sales Intern - Raleigh South](https://jobright.ai/jobs/info/69a4fc39b600907a962a9f4f?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68d4a2b3ffc1276de3fdcb75?utm_campaign=1051&utm_source=git)** | Charleston County, SC | On Site | Mar 25 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Sales Specialist- Bilingual in Mandarin Chinese](https://jobright.ai/jobs/info/69c38a0594007a2195e013b4?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 25 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern (Dallas North)](https://jobright.ai/jobs/info/69a7c8b176bbe83d3afb4529?utm_campaign=1051&utm_source=git)** | Rowlett, TX | On Site | Mar 25 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Sales Process Specialist](https://jobright.ai/jobs/info/69c3855f753c101b21575adb?utm_campaign=1051&utm_source=git)** | Varennes, QC | Hybrid | Mar 24 |
 | **[Coast Capital Savings](https://www.coastcapitalsavings.com)** | **[Member Services Representative PT - Semiahmoo Branch (Surrey)](https://jobright.ai/jobs/info/69c37e0a7a7a0045db894ce4?utm_campaign=1051&utm_source=git)** | Surrey, BC | On Site | Mar 24 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance - Calgary (January 2027)](https://jobright.ai/jobs/info/69beb8b34828227293017832?utm_campaign=1051&utm_source=git)** | Calgary, AB | Hybrid | Mar 24 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ESCO Retail Services](https://escoretail.com)** | **[Intern - MFU](https://jobright.ai/jobs/info/69c2eaf9ec22f8310ab0e54b?utm_campaign=1051&utm_source=git)** | Dunmore, PA Warehouse, Dunmore, PA, US | On Site | Mar 24 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - Procurement Internship (Remote, US)](https://jobright.ai/jobs/info/69c2e98d94007a2195def944?utm_campaign=1051&utm_source=git)** | Remote- US | Remote | Mar 24 |
 | **[Finning](http://www.finning.com)** | **[Sales Internship (Construction)](https://jobright.ai/jobs/info/69c2e961753c101b21565145?utm_campaign=1051&utm_source=git)** | Edmonton, AB | On Site | Mar 24 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Marshfield, WI](https://jobright.ai/jobs/info/691d47ff0b7dff7341501de1?utm_campaign=1051&utm_source=git)** | Marshfield, WI | On Site | Mar 24 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69c2e48aec22f8310ab0dff7?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Mar 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69c2e43494007a2195def39f?utm_campaign=1051&utm_source=git)** | Orlando, FL | Remote | Mar 24 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/69c2e43094007a2195def393?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Mar 24 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c2e42d753c101b21564a65?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Mar 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69c2e42c753c101b21564a59?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | Mar 24 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c2e42b94007a2195def37a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Mar 24 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c2e419753c101b21564a34?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | Mar 24 |
-| **[Swansea University / Prifysgol Abertawe](https://www.swansea.ac.uk/)** | **[BUSINESS DEVELOPMENT COORDINATOR – EVENTS SERVICES](https://jobright.ai/jobs/info/69c2e3f8753c101b215648f7?utm_campaign=1051&utm_source=git)** | Campus, IL | On Site | Mar 24 |
-| **[Mizkan America](http://mizkan.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/69b51c9c06c1ba00c546d995?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 24 |
-| **[Ideology Studio Inc.](https://www.ideologystudio.com)** | **[Outbound Sales Representative Intern](https://jobright.ai/jobs/info/69c2e047ec22f8310ab0d9bb?utm_campaign=1051&utm_source=git)** | Milpitas, CA | On Site | Mar 24 |
-| **[Caprae Capital Partners](https://www.founderlegacypartners.com/)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69c2e01eec22f8310ab0d950?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Mar 24 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern- Property Management](https://jobright.ai/jobs/info/69c2de5894007a2195dee276?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
