@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coverdash](https://www.coverdash.com)** | **[Strategic Partnerships Intern](https://jobright.ai/jobs/info/69c375a77a7a0045db893b19?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Mar 24 |
+| **[American Beacon Partners](http://www.ambeacon.com/)** | **[Sales Summer Intern](https://jobright.ai/jobs/info/69c372117a7a0045db893040?utm_campaign=1051&utm_source=git)** | Irving,TX,US | Hybrid | Mar 24 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69c36a1594007a2195dfe021?utm_campaign=1051&utm_source=git)** | Romulus, MI | On Site | Mar 24 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69c34ff394007a2195dfa228?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Mar 24 |
 | **[Trishula AI](https://trishulaai.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c34d2694007a2195dfa0ae?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 24 |
 | **[First Federal Bank](https://www.ffbf.com)** | **[Intern - Commercial Lending Support](https://jobright.ai/jobs/info/69c34774097a024c43d94ab6?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Mar 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69c2c5d594007a2195debd32?utm_campaign=1051&utm_source=git)** | London, ON | On Site | Mar 24 |
 | **[IBM](http://www.ibm.com)** | **[Digital Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69c2c4bfec22f8310ab0aa01?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | On Site | Mar 24 |
 | ↳ | **[Digital Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69c2c4be753c101b21561201?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Mar 24 |
-| **[Teleflex](http://www.teleflex.com)** | **[Sr. Sales Representative, Coronary - Brooklyn, NY](https://jobright.ai/jobs/info/698a161447434001cc684896?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Mar 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/6955f6e59f1b381eb26f2ca6?utm_campaign=1051&utm_source=git)** | Pine Bluff, AR | On Site | Mar 24 |
-| **[Detroit City FC](https://www.detcityfc.com)** | **[Ticket Sales and Service Intern](https://jobright.ai/jobs/info/69c2bf82ec22f8310ab0a326?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
