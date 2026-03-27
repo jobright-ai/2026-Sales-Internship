@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sunway Communication](http://www.sz-sunway.com.cn)** | **[Key Account Intern](https://jobright.ai/jobs/info/69c600d61818a24cd84bd2e0?utm_campaign=1051&utm_source=git)** | Cupertino, CA | On Site | Mar 26 |
+| **[Fresh Tape Media](http://freshtapemedia.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c5fd7baa3c2c1995e069e2?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 26 |
+| **[Avanade](http://www.avanade.com)** | **[Manager - Power Platform Architect SME](https://jobright.ai/jobs/info/69c5fb491b5ad0288737b825?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Mar 26 |
+| **[Ferguson](http://www.ferguson.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c5f9d783ea553769fd1de2?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
+| **[The Colie Group](https://www.thedreammakersteam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c5f9d2aa9a29199e80c5a8?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Hybrid | Mar 26 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c5f9be83ea553769fd1dce?utm_campaign=1051&utm_source=git)** | Wilmington, NC | Hybrid | Mar 26 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c5f9be83ea553769fd1dcf?utm_campaign=1051&utm_source=git)** | Springfield, MO | Remote | Mar 26 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c5f9b7aa9a29199e80c598?utm_campaign=1051&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Remote | Mar 26 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c5f9b383ea553769fd1dcd?utm_campaign=1051&utm_source=git)** | Florida, United States | Hybrid | Mar 26 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c5f8b4e565c26a70016f2f?utm_campaign=1051&utm_source=git)** | Triad Area | Remote | Mar 26 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c5f8b4e565c26a70016f31?utm_campaign=1051&utm_source=git)** | Columbia, MO | Remote | Mar 26 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c5f89c1b5ad0288737b47b?utm_campaign=1051&utm_source=git)** | Blacksburg-Christiansburg-Radford Area | Remote | Mar 26 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c5f8991b5ad0288737b47a?utm_campaign=1051&utm_source=git)** | Maryland, United States | Remote | Mar 26 |
 | **[Fresh Tape Media](http://freshtapemedia.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c5f79daa3c2c1995e06593?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Mar 26 |
 | **[PNC](http://www.pnc.com)** | **[Client Solution Advisor](https://jobright.ai/jobs/info/69c5f62283ea553769fd19b4?utm_campaign=1051&utm_source=git)** | Illinois, United States | Hybrid | Mar 26 |
 | **[The Colie Group](https://www.thedreammakersteam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c5f56b1818a24cd84bcb6c?utm_campaign=1051&utm_source=git)** | Kentucky, United States | Hybrid | Mar 26 |
@@ -120,9 +133,8 @@ For a complete list, click the following sortable link below:
 | **[The Colie Group](https://www.thedreammakersteam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c5a955e565c26a700134dd?utm_campaign=1051&utm_source=git)** | Virginia, United States | Hybrid | Mar 26 |
 | **[PNC](http://www.pnc.com)** | **[Mortgage Loan Officer](https://jobright.ai/jobs/info/69c5a7a01b5ad02887377787?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Mar 26 |
 | **[OSG](https://osgconnect.com)** | **[Revenue Operations & Enablement Intern](https://jobright.ai/jobs/info/69c5c48c83ea553769fcf4e5?utm_campaign=1051&utm_source=git)** | Carol Stream, IL | On Site | Mar 26 |
-| **[Ferguson](http://www.ferguson.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c5a4b983ea553769fcde30?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | **[PNC](http://www.pnc.com)** | **[Relationship Manager I - Business Banking](https://jobright.ai/jobs/info/69c5c1b8aa3c2c1995e03eb0?utm_campaign=1051&utm_source=git)** | Brick, NJ | On Site | Mar 26 |
-| **[Leidos](https://www.leidos.com)** | **[Business Development Operations Intern](https://jobright.ai/jobs/info/69be07fe393a1008f743e0e9?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 26 |
+| **[Leidos](https://www.leidos.com)** | **[Business Development Operations Intern](https://jobright.ai/jobs/info/69be07ee393a1008f743e0ca?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 26 |
 | ↳ | **[Business Development Operations Intern](https://jobright.ai/jobs/info/69be07fe393a1008f743e0e8?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 26 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[Partnerships Intern](https://jobright.ai/jobs/info/69c59e93aa9a29199e8080f3?utm_campaign=1051&utm_source=git)** | Liberty Corner, Bernards, NJ, USA | On Site | Mar 26 |
 | **[Element Materials Technology](https://www.element.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c59e3ce565c26a70012ada?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Mar 26 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AdTheorent](http://www.adtheorent.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69c5900d1818a24cd84b7f6a?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Mar 26 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69c59009aa3c2c1995e0195d?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Mar 26 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69c58fab83ea553769fccb78?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Mar 26 |
-| **[Topcon Positioning Systems](https://www.topconpositioning.com/)** | **[Sales Rep Intern](https://jobright.ai/jobs/info/69c58f5faa3c2c1995e015dc?utm_campaign=1051&utm_source=git)** | Oakland, NJ | On Site | Mar 26 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69c58d0faa9a29199e807173?utm_campaign=1051&utm_source=git)** | Seattle, WA | Hybrid | Mar 26 |
-| **[Teleflex](http://www.teleflex.com)** | **[Interventional- Sr. Sales Representative, OnControl- DC](https://jobright.ai/jobs/info/69c58b3c83ea553769fcc98b?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Mar 26 |
-| **[The Colie Group](https://www.thedreammakersteam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c587721818a24cd84b7904?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Hybrid | Mar 26 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c58701e565c26a70011e0d?utm_campaign=1051&utm_source=git)** | Georgia, United States | Hybrid | Mar 26 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69c586b81b5ad02887375fe6?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 26 |
-| **[The Colie Group](https://www.thedreammakersteam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c58667aa9a29199e806e06?utm_campaign=1051&utm_source=git)** | Triangle Area | Hybrid | Mar 26 |
-| **[Teleflex](http://www.teleflex.com)** | **[Sales Representative, Vascular - New Orleans, LA](https://jobright.ai/jobs/info/697108dc333b6343a14d8656?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Mar 26 |
-| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Global Accounts Sales & Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69a970fe7f9271426f884ee5?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Mar 26 |
-| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Resident Coordination Intern](https://jobright.ai/jobs/info/69c5a48daa3c2c1995e028e8?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Mar 26 |
-| **[Arhaus](https://www.arhaus.com/)** | **[Web Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69c5a47c83ea553769fcddea?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Mar 26 |
-| **[The Colie Group](https://www.thedreammakersteam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c58521e565c26a70011c76?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
