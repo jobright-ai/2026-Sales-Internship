@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Leavitt Machinery](https://www.leavittmachinery.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69c5d205aa9a29199e80ad0c?utm_campaign=1051&utm_source=git)** | Edmonton, AB | On Site | Mar 26 |
+| **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Donor Stewardship](https://jobright.ai/jobs/info/69c5df341818a24cd84bbfa5?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 26 |
+| **[Aera Therapeutics](https://aeratx.com)** | **[MBA/PhD Intern, Corporate Development](https://jobright.ai/jobs/info/69c5d9c083ea553769fd0c48?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Hybrid | Mar 26 |
+| **[Voltus](https://www.voltus.co)** | **[Sales Analytics Intern](https://jobright.ai/jobs/info/69c5d8cfaa9a29199e80b3f7?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 26 |
+| **[Leavitt Industrial Group](https://venturiscc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c5d82faa3c2c1995e055b4?utm_campaign=1051&utm_source=git)** | Edmonton | On Site | Mar 26 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c5d7421b5ad0288737a499?utm_campaign=1051&utm_source=git)** | Brampton | On Site | Mar 26 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c5d69783ea553769fd0b70?utm_campaign=1051&utm_source=git)** | Kitchener | On Site | Mar 26 |
+| **[Leavitt Machinery](https://www.leavittmachinery.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69c5d229aa9a29199e80adbd?utm_campaign=1051&utm_source=git)** | Kitchener, ON | On Site | Mar 26 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c5d205aa9a29199e80ad0c?utm_campaign=1051&utm_source=git)** | Edmonton, AB | On Site | Mar 26 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c5ccc61b5ad02887379be6?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Mar 26 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c5ccc2e565c26a700156f5?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Mar 26 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c5ccc01b5ad02887379be4?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Mar 26 |
@@ -117,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Eisai US](http://us.eisai.com/)** | **[Summer Pharmacy Intern – Eisai Market Access (Hybrid)](https://jobright.ai/jobs/info/69c593ce1b5ad028873767d3?utm_campaign=1051&utm_source=git)** | Nutley, NJ | Hybrid | Mar 26 |
 | **[Cadent](http://www.cadent.tv)** | **[Account Management Intern](https://jobright.ai/jobs/info/69c59202e565c26a700124eb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69c591feaa9a29199e8075cd?utm_campaign=1051&utm_source=git)** | Canada | Remote | Mar 26 |
-| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69c591f4e565c26a700124df?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Mar 26 |
-| ↳ | **[Regional Account Manager](https://jobright.ai/jobs/info/69c591f4e565c26a700124de?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Mar 26 |
+| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69c591f4e565c26a700124de?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Mar 26 |
+| ↳ | **[Regional Account Manager](https://jobright.ai/jobs/info/69c591f4e565c26a700124df?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Mar 26 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Summer 2026 - Honolulu)](https://jobright.ai/jobs/info/69c591cee565c26a700124c0?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Mar 26 |
 | **[AdTheorent](http://www.adtheorent.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69c5900d1818a24cd84b7f6a?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Mar 26 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69c59009aa3c2c1995e0195d?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Mar 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ASM Global](http://www.asmglobal.com)** | **[2026 Cincinnati Open Merchandise Assistant  Internship](https://jobright.ai/jobs/info/69c5740daa9a29199e804d75?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Mar 26 |
 | **[AdTheorent](http://www.adtheorent.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69c57174e565c26a7000fcdc?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Mar 26 |
 | ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69c571381b5ad02887373e29?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Mar 26 |
-| **[Big Ass Fans](http://www.bigassfans.com)** | **[Sales Intern - Industrial (Summer Semester 2026)](https://jobright.ai/jobs/info/69aaa0e734184204e4492dc8?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Mar 26 |
-| **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698c81b0f64d441a164e7020?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Mar 26 |
-| **[Inspire](https://inspirebrands.com)** | **[Franchisee Development Intern - Summer 2026](https://jobright.ai/jobs/info/69c570acaa3c2c1995dfeda0?utm_campaign=1051&utm_source=git)** | Atlanta Support Center | On Site | Mar 26 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Fort Morgan, CO](https://jobright.ai/jobs/info/69c58ffc83ea553769fccd32?utm_campaign=1051&utm_source=git)** | Fort Morgan, CO | On Site | Mar 26 |
-| **[Siemens](https://www.siemens.com)** | **[XPS Leadership Program: Sales Enablement Intern, Summer 2026](https://jobright.ai/jobs/info/69a8bdd179f3f4037f432e35?utm_campaign=1051&utm_source=git)** | Buffalo Grove, IL | Remote | Mar 26 |
-| **[AtriCure, Inc.](http://atricure.com)** | **[Sales Operations Analyst Intern](https://jobright.ai/jobs/info/69b32c1aae2a534885ea8eb2?utm_campaign=1051&utm_source=git)** | Mason, OH | On Site | Mar 26 |
-| **[Driscoll's](http://www.driscolls.com)** | **[Sales Demand Management Intern](https://jobright.ai/jobs/info/69c5693baa9a29199e804366?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
