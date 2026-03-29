@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Client Engagement Intern (Unpaid)](https://jobright.ai/jobs/info/69bca57745e08b3dc1f96b40?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Mar 29 |
 | **[MedTravel.AI](https://www.medtravel.ai/)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/69c8905aaa3c2c1995e1f0c9?utm_campaign=1051&utm_source=git)** | Vancouver, BC | Remote | Mar 28 |
 | **[Beanfield](https://www.beanfield.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c86016aa3c2c1995e1e4f8?utm_campaign=1051&utm_source=git)** | Montréal, QC, CA | On Site | Mar 28 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69c85c93b773006330b7ee18?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Lacek Group](http://www.lacek.com)** | **[Account Services Internship](https://jobright.ai/jobs/info/69c722d8aa3c2c1995e15a8c?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 27 |
 | **[ADP](http://www.adp.com)** | **[Summer Sales Intern (Rising Seniors)](https://jobright.ai/jobs/info/69be11c4393a1008f743e7fa?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Mar 27 |
 | **[Lotus Sales](www.lotussales.co)** | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c7decdaa3c2c1995e1bd2b?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Mar 27 |
-| **[TD](https://www.td.com)** | **[Run My Business Intern / Co-Op - Preferred Candidate](https://jobright.ai/jobs/info/69c73cbeb773006330b771de?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
