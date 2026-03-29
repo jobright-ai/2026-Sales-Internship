@@ -64,8 +64,8 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/68cb3d9a9e3a822f5d244022?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 29 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Mar 29 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68af4b992daaba398441cf2b?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Mar 29 |
-| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec4?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Mar 29 |
-| ↳ | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec5?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
+| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec5?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
+| ↳ | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec4?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Mar 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e87136cc49a84b7e1062e7?utm_campaign=1051&utm_source=git)** | Benton, AR | On Site | Mar 29 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69bbd62c5b89c002acf09652?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE | On Site | Mar 29 |
 | **[Navigation Capital Group](www.navigationcap.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/69c9558983ea553769fef84c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 29 |
@@ -143,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Advantage Metals Recycling - A Nucor Company](https://advantagerecycling.com)** | **[Sales Summer Internship Program](https://jobright.ai/jobs/info/698f8d5e0f6f7e7a2cebd067?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Mar 28 |
 | **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales Service Intern](https://jobright.ai/jobs/info/69c7ad78b773006330b7afb1?utm_campaign=1051&utm_source=git)** | Miami, NM | On Site | Mar 28 |
 | **[Pearson](https://www.pearson.com/)** | **[Advanced Specialist, Customer Success - Faculty Advisor - Business and Economics](https://jobright.ai/jobs/info/69c90a5db773006330b83ac6?utm_campaign=1051&utm_source=git)** | Harrisburg, PA | Remote | Mar 28 |
-| **[Precisely](https://www.precisely.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69ab6b952747003c3d510993?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
-| ↳ | **[Sales Engineering Intern](https://jobright.ai/jobs/info/69ab65d32747003c3d5102df?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
+| **[Precisely](https://www.precisely.com)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/69ab65d32747003c3d5102df?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69ab6b952747003c3d510993?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
 | ↳ | **[Corporate Development Intern](https://jobright.ai/jobs/info/69ab660d2747003c3d510444?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
 | ↳ | **[Sales Engineering Intern - Automate](https://jobright.ai/jobs/info/69ab65f52747003c3d5103cc?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Flexera](https://www.flexera.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/694af46d67a69734cac608c1?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 28 |
