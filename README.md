@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Detroit Lions](http://www.detroitlions.com)** | **[Premium Service Intern](https://jobright.ai/jobs/info/697cd34f137a05102565c5a4?utm_campaign=1051&utm_source=git)** | Detroit, MI 48226 | On Site | Mar 29 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Client Engagement Intern (Unpaid)](https://jobright.ai/jobs/info/69bca57745e08b3dc1f96b40?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Mar 29 |
 | **[MedTravel.AI](https://www.medtravel.ai/)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/69c8905aaa3c2c1995e1f0c9?utm_campaign=1051&utm_source=git)** | Vancouver, BC | Remote | Mar 28 |
 | **[Beanfield](https://www.beanfield.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c86016aa3c2c1995e1e4f8?utm_campaign=1051&utm_source=git)** | Montréal, QC, CA | On Site | Mar 28 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69c85c93b773006330b7ee18?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Mar 28 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a621b5ad02887392eda?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Mar 28 |
-| ↳ | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a621b5ad02887392ed9?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a621b5ad02887392ed9?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a621b5ad02887392eda?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Mar 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a4183ea553769fe9726?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Mar 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a3d83ea553769fe9721?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Mar 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85880aa3c2c1995e1e38b?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Mar 28 |
@@ -130,9 +131,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69c7605c1818a24cd84cd94f?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Mar 27 |
 | **[Agilent Technologies](http://www.agilent.com)** | **[Central Territory Service Account Manager](https://jobright.ai/jobs/info/69c8bafcb773006330b80fa4?utm_campaign=1051&utm_source=git)** | Gary, IN | Hybrid | Mar 27 |
 | **[Q1Media](http://www.q1media.com)** | **[Account Operations Internship](https://jobright.ai/jobs/info/69c751791b5ad0288738bf16?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
-| **[RBC](https://www.rbc.com)** | **[Relationship Manager, Business Markets - Intern](https://jobright.ai/jobs/info/69c76987e565c26a700287e4?utm_campaign=1051&utm_source=git)** | London, ON | On Site | Mar 27 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69c76979e565c26a700287d8?utm_campaign=1051&utm_source=git)** | Vancouver, BC | On Site | Mar 27 |
+| ↳ | **[Relationship Manager, Business Markets - Intern](https://jobright.ai/jobs/info/69c76987e565c26a700287e4?utm_campaign=1051&utm_source=git)** | London, ON | On Site | Mar 27 |
 | ↳ | **[Relationship Manager Intern - Business Markets](https://jobright.ai/jobs/info/69c7697fe565c26a700287df?utm_campaign=1051&utm_source=git)** | Halifax, NS | On Site | Mar 27 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/69c76979e565c26a700287d8?utm_campaign=1051&utm_source=git)** | Vancouver, BC | On Site | Mar 27 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, Sales Administration](https://jobright.ai/jobs/info/69c766a4b773006330b78564?utm_campaign=1051&utm_source=git)** | Mississauga, ON | On Site | Mar 27 |
 | **[Pearson](https://www.pearson.com/)** | **[Advanced Specialist, Customer Success - Faculty Advisor - Business and Economics](https://jobright.ai/jobs/info/69c8a0a6e565c26a700302a6?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | Mar 27 |
 | **[ADP](http://www.adp.com)** | **[Summer 2026 Digital Sales Internship](https://jobright.ai/jobs/info/69c73de61818a24cd84ccc45?utm_campaign=1051&utm_source=git)** | Coraopolis, PA | Remote | Mar 27 |
@@ -147,8 +148,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c732fab773006330b76f07?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Mar 27 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c732f0aa3c2c1995e1653f?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Mar 27 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c732e7b773006330b76eaf?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Mar 27 |
-| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c732dc1b5ad0288738b0d5?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 27 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c732dc1b5ad0288738b0d1?utm_campaign=1051&utm_source=git)** | Elgin, IL | On Site | Mar 27 |
+| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c732dc1b5ad0288738b0d5?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 27 |
 | **[Barclays](https://home.barclays)** | **[Banking Associate Graduate Program 2026 Chicago](https://jobright.ai/jobs/info/69c72c36aa3c2c1995e16156?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
 | **[Samba TV](http://www.samba.tv)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c72afc83ea553769fe151e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Campbell - Home Loan Advisor - External](https://jobright.ai/jobs/info/69c72aaf1818a24cd84cc475?utm_campaign=1051&utm_source=git)** | Campbell, CA | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Assistant Director of Development- Division of Social and Behavioral Sciences, Office of Academic Innovation & Georgia Museum of Natural History](https://jobright.ai/jobs/info/69c72366e565c26a700264b0?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Mar 27 |
 | **[The Lacek Group](http://www.lacek.com)** | **[Account Services Internship](https://jobright.ai/jobs/info/69c722d8aa3c2c1995e15a8c?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 27 |
 | **[ADP](http://www.adp.com)** | **[Summer Sales Intern (Rising Seniors)](https://jobright.ai/jobs/info/69be11c4393a1008f743e7fa?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Mar 27 |
-| **[Lotus Sales](www.lotussales.co)** | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c7decdaa3c2c1995e1bd2b?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
