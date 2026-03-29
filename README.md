@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Summer Sales & Marketing Intern](https://jobright.ai/jobs/info/68cb7413efdec76df36bce5d?utm_campaign=1051&utm_source=git)** | Kaukauna, WI | On Site | Mar 29 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Missouri District)](https://jobright.ai/jobs/info/699956fa81476f6176b1fd9b?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Mar 29 |
 | **[Munich Re](https://www.munichre.com)** | **[MRSGM NA Sales Service Intern](https://jobright.ai/jobs/info/69c911131818a24cd84d9630?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Mar 29 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69b4df443b74eb1e2c824b6b?utm_campaign=1051&utm_source=git)** | Dayton Metropolitan Area | On Site | Mar 29 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[MedTravel.AI](https://www.medtravel.ai/)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/69c8905aaa3c2c1995e1f0c9?utm_campaign=1051&utm_source=git)** | Vancouver, BC | Remote | Mar 28 |
 | **[Beanfield](https://www.beanfield.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c86016aa3c2c1995e1e4f8?utm_campaign=1051&utm_source=git)** | Montréal, QC, CA | On Site | Mar 28 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69c85c93b773006330b7ee18?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Mar 28 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a621b5ad02887392eda?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Mar 28 |
-| ↳ | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a621b5ad02887392ed9?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a621b5ad02887392ed9?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a621b5ad02887392eda?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Mar 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a4183ea553769fe9726?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Mar 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a3d83ea553769fe9721?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Mar 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85880aa3c2c1995e1e38b?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Mar 28 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Arena](https://arena.im)** | **[Influencer Partnerships Intern](https://jobright.ai/jobs/info/69c8121fb773006330b7db2b?utm_campaign=1051&utm_source=git)** | Cupertino, CA | On Site | Mar 28 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Intern - Sales Support](https://jobright.ai/jobs/info/69ab402b142d5b4265fc897c?utm_campaign=1051&utm_source=git)** | Mount Laurel, NJ | Hybrid | Mar 28 |
 | **[Uber](http://www.uber.com)** | **[2026 Account Representative Intern, US - Sales](https://jobright.ai/jobs/info/69c80fcce565c26a7002d957?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
-| **[Crown Equipment Corporation](http://www.crown.com)** | **[SALES SUPPORT - PAID INTERNSHIP](https://jobright.ai/jobs/info/69823caec3101f1400c3edac?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Mar 28 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Youngstown, OH (Summer 2026)](https://jobright.ai/jobs/info/68e40b2f1852e62f00800754?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Mar 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8ef7195f5211cd2ceb937?utm_campaign=1051&utm_source=git)** | Bismarck, ND | On Site | Mar 28 |
 | ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8ef27f9c6ff7aedf14cc5?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Mar 28 |
@@ -104,6 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69ab69e4142d5b4265fca2ef?utm_campaign=1051&utm_source=git)** | Dallas, GA | On Site | Mar 28 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Summer Internship Program- Tucson, AZ](https://jobright.ai/jobs/info/699a82d181476f6176b311e4?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Mar 28 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Sales Research](https://jobright.ai/jobs/info/69c8c96483ea553769febd1f?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Mar 28 |
+| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69c919ebb773006330b841bc?utm_campaign=1051&utm_source=git)** | Vaughan, ON | On Site | Mar 28 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c91b81e565c26a700340ab?utm_campaign=1051&utm_source=git)** | Lethbridge, AB | On Site | Mar 28 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/69c7d07bb773006330b7c39f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 28 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Sales Intern (Local and Digital Sales)](https://jobright.ai/jobs/info/698fe6ae6ea51a7610f24b2d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[AD Mortgage LLC](https://admortgage.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69729f839b83b424830ea2de?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c732dc1b5ad0288738b0d1?utm_campaign=1051&utm_source=git)** | Elgin, IL | On Site | Mar 27 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c732dc1b5ad0288738b0d5?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 27 |
 | **[Barclays](https://home.barclays)** | **[Banking Associate Graduate Program 2026 Chicago](https://jobright.ai/jobs/info/69c72c36aa3c2c1995e16156?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
-| **[Samba TV](http://www.samba.tv)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c72afc83ea553769fe151e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 27 |
-| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Campbell - Home Loan Advisor - External](https://jobright.ai/jobs/info/69c72aaf1818a24cd84cc475?utm_campaign=1051&utm_source=git)** | Campbell, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
