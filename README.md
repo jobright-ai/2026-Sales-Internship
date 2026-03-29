@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Beanfield](https://www.beanfield.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c86016aa3c2c1995e1e4f8?utm_campaign=1051&utm_source=git)** | Montréal, QC, CA | On Site | Mar 28 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69c85c93b773006330b7ee18?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Mar 28 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a621b5ad02887392eda?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Mar 28 |
-| ↳ | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a621b5ad02887392ed9?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a621b5ad02887392ed9?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a621b5ad02887392eda?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Mar 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a4183ea553769fe9726?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Mar 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a3d83ea553769fe9721?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Mar 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85880aa3c2c1995e1e38b?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Mar 28 |
@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales Service Intern](https://jobright.ai/jobs/info/69c7b59a83ea553769fe5be3?utm_campaign=1051&utm_source=git)** | Miami Gardens, FL | On Site | Mar 28 |
 | **[Advantage Metals Recycling - A Nucor Company](https://advantagerecycling.com)** | **[Sales Summer Internship Program](https://jobright.ai/jobs/info/698f8d5e0f6f7e7a2cebd067?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Mar 28 |
 | **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales Service Intern](https://jobright.ai/jobs/info/69c7ad78b773006330b7afb1?utm_campaign=1051&utm_source=git)** | Miami, NM | On Site | Mar 28 |
-| **[Precisely](https://www.precisely.com)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/69ab65d32747003c3d5102df?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69ab6b952747003c3d510993?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
+| **[Precisely](https://www.precisely.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69ab6b952747003c3d510993?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
+| ↳ | **[Sales Engineering Intern](https://jobright.ai/jobs/info/69ab65d32747003c3d5102df?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
 | ↳ | **[Corporate Development Intern](https://jobright.ai/jobs/info/69ab660d2747003c3d510444?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
 | ↳ | **[Sales Engineering Intern - Automate](https://jobright.ai/jobs/info/69ab65f52747003c3d5103cc?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Flexera](https://www.flexera.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/694af46d67a69734cac608c1?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 28 |
@@ -124,9 +124,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69c786301b5ad0288738de0d?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Mar 27 |
 | ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69c7605c1818a24cd84cd94f?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Mar 27 |
 | **[Q1Media](http://www.q1media.com)** | **[Account Operations Internship](https://jobright.ai/jobs/info/69c751791b5ad0288738bf16?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69c76979e565c26a700287d8?utm_campaign=1051&utm_source=git)** | Vancouver, BC | On Site | Mar 27 |
+| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern - Business Markets](https://jobright.ai/jobs/info/69c7697fe565c26a700287df?utm_campaign=1051&utm_source=git)** | Halifax, NS | On Site | Mar 27 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/69c76979e565c26a700287d8?utm_campaign=1051&utm_source=git)** | Vancouver, BC | On Site | Mar 27 |
 | ↳ | **[Relationship Manager, Business Markets - Intern](https://jobright.ai/jobs/info/69c76987e565c26a700287e4?utm_campaign=1051&utm_source=git)** | London, ON | On Site | Mar 27 |
-| ↳ | **[Relationship Manager Intern - Business Markets](https://jobright.ai/jobs/info/69c7697fe565c26a700287df?utm_campaign=1051&utm_source=git)** | Halifax, NS | On Site | Mar 27 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, Sales Administration](https://jobright.ai/jobs/info/69c766a4b773006330b78564?utm_campaign=1051&utm_source=git)** | Mississauga, ON | On Site | Mar 27 |
 | **[ADP](http://www.adp.com)** | **[Summer 2026 Digital Sales Internship](https://jobright.ai/jobs/info/69c73de61818a24cd84ccc45?utm_campaign=1051&utm_source=git)** | Coraopolis, PA | Remote | Mar 27 |
 | **[Finning](http://www.finning.com)** | **[Sales Internship (Mining)](https://jobright.ai/jobs/info/69c73cb5b773006330b771d3?utm_campaign=1051&utm_source=git)** | Fort McMurray, AB | On Site | Mar 27 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c71af583ea553769fe0c54?utm_campaign=1051&utm_source=git)** | Renton, WA, US | Hybrid | Mar 27 |
 | **[Finning](http://www.finning.com)** | **[Sales Internship (Mining)](https://jobright.ai/jobs/info/69c71a2483ea553769fe08ac?utm_campaign=1051&utm_source=git)** | Fort McMurray, AB, CA | On Site | Mar 27 |
 | **[Lotus Sales](www.lotussales.co)** | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c74478b773006330b773a6?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Mar 27 |
-| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c7467d1818a24cd84ccdf3?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Mar 27 |
+| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c7448de565c26a700274a3?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
