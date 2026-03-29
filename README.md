@@ -139,14 +139,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c732fab773006330b76f07?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Mar 27 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c732f0aa3c2c1995e1653f?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Mar 27 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c732e7b773006330b76eaf?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Mar 27 |
-| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c732dc1b5ad0288738b0d1?utm_campaign=1051&utm_source=git)** | Elgin, IL | On Site | Mar 27 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c732dc1b5ad0288738b0d5?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 27 |
+| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c732dc1b5ad0288738b0d1?utm_campaign=1051&utm_source=git)** | Elgin, IL | On Site | Mar 27 |
 | **[Barclays](https://home.barclays)** | **[Banking Associate Graduate Program 2026 Chicago](https://jobright.ai/jobs/info/69c72c36aa3c2c1995e16156?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
 | **[Samba TV](http://www.samba.tv)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c72afc83ea553769fe151e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Campbell - Home Loan Advisor - External](https://jobright.ai/jobs/info/69c72aaf1818a24cd84cc475?utm_campaign=1051&utm_source=git)** | Campbell, CA | On Site | Mar 27 |
 | **[TD](https://www.td.com)** | **[Run My Business Intern / Co-Op - Preferred Candidate](https://jobright.ai/jobs/info/69c72770b773006330b765e3?utm_campaign=1051&utm_source=git)** | TD Centre - West - 100 Wellington Street West, Toronto, Ontario | On Site | Mar 27 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Assistant Director of Development- Division of Social and Behavioral Sciences, Office of Academic Innovation & Georgia Museum of Natural History](https://jobright.ai/jobs/info/69c72366e565c26a700264b0?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Mar 27 |
 | **[The Lacek Group](http://www.lacek.com)** | **[Account Services Internship](https://jobright.ai/jobs/info/69c722d8aa3c2c1995e15a8c?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 27 |
+| **[ADP](http://www.adp.com)** | **[Summer Sales Intern (Rising Seniors)](https://jobright.ai/jobs/info/69be11c4393a1008f743e7fa?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Mar 27 |
 | **[Lotus Sales](www.lotussales.co)** | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c7decdaa3c2c1995e1bd2b?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Mar 27 |
 | **[TD](https://www.td.com)** | **[Run My Business Intern / Co-Op - Preferred Candidate](https://jobright.ai/jobs/info/69c73cbeb773006330b771de?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | Mar 27 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c71bf1e565c26a7002623c?utm_campaign=1051&utm_source=git)** | US-WA-Renton | Hybrid | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c71af583ea553769fe0c54?utm_campaign=1051&utm_source=git)** | Renton, WA, US | Hybrid | Mar 27 |
 | **[Finning](http://www.finning.com)** | **[Sales Internship (Mining)](https://jobright.ai/jobs/info/69c71a2483ea553769fe08ac?utm_campaign=1051&utm_source=git)** | Fort McMurray, AB, CA | On Site | Mar 27 |
 | **[Lotus Sales](www.lotussales.co)** | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c74478b773006330b773a6?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Mar 27 |
-| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/69c74491e565c26a700274a6?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
