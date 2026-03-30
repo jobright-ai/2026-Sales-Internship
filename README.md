@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Yazaki North America](https://www.yii.tech/)** | **[Intern, Sales Support & Admin](https://jobright.ai/jobs/info/699d01ecce78e77b4fe1c981?utm_campaign=1051&utm_source=git)** | Canton, MI | On Site | Mar 30 |
-| ↳ | **[Intern, Sales Support & Admin](https://jobright.ai/jobs/info/6998c3c781476f6176b12f39?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Mar 30 |
+| **[Yazaki North America](https://www.yii.tech/)** | **[Intern, Sales Support & Admin](https://jobright.ai/jobs/info/69b3caa8a8ac8e70ff680a1c?utm_campaign=1051&utm_source=git)** | Canton, MI | On Site | Mar 30 |
+| **[Samba TV](http://www.samba.tv)** | **[Commercial Partnerships Intern](https://jobright.ai/jobs/info/69ca9a80466f1e133aac523a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 30 |
+| **[The Colie Group](https://www.thedreammakersteam.com)** | **[Business Intern](https://jobright.ai/jobs/info/69ca9a36a8c1822476e1e2b2?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Mar 30 |
+| **[Lionchase North America](https://www.lionchase.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ca992ce565c26a7003ebd8?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 30 |
+| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/69ca9744466f1e133aac5113?utm_campaign=1051&utm_source=git)** | Bensalem, PA | On Site | Mar 30 |
+| **[The Colie Group](https://www.thedreammakersteam.com)** | **[Business Intern](https://jobright.ai/jobs/info/69ca9740466f1e133aac510c?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Mar 30 |
+| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Supply Chain Wholesale Internship](https://jobright.ai/jobs/info/69ca9730aa3c2c1995e2e180?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Mar 30 |
+| **[Women's Elite Rugby](https://www.womenseliterugby.us/)** | **[Business Development Intern (Ticket Sales & Partnerships)](https://jobright.ai/jobs/info/69ca95eaaa3c2c1995e2e134?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 30 |
+| **[Yazaki North America](https://www.yii.tech/)** | **[Intern, Sales Support & Admin](https://jobright.ai/jobs/info/6998c3c781476f6176b12f39?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Mar 30 |
 | ↳ | **[Intern, Sales & Program Management](https://jobright.ai/jobs/info/691d316cbcdbf3560c9ee0aa?utm_campaign=1051&utm_source=git)** | Canton, MI | On Site | Mar 30 |
-| ↳ | **[Intern, General Purchasing](https://jobright.ai/jobs/info/699ca52ee0bddb6acacbb80f?utm_campaign=1051&utm_source=git)** | Canton, MI | On Site | Mar 30 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6974204737785856350e198e?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Mar 30 |
 | **[Cambridge University Press & Assessment](http://www.cambridgeassessment.org.uk/ca)** | **[Academic Publishing Intern - 7057](https://jobright.ai/jobs/info/69ca893e8fc6090c5d44e6f7?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Mar 30 |
 | **[North Star Resource Group](http://northstarfinancial.com)** | **[Sales and Marketing Internship – Financial Advising Development Program](https://jobright.ai/jobs/info/69ca87d21b5ad028873a2360?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Mar 30 |
@@ -86,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Business Unit Intern](https://jobright.ai/jobs/info/69c71afa1b5ad0288738a447?utm_campaign=1051&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Mar 30 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Development Intern - Fall 2026 - Atlanta Regional Office](https://jobright.ai/jobs/info/699375abce78e77b4fd74679?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 30 |
 | ↳ | **[Development Intern - Fall 2026 - Phoenix Regional Office](https://jobright.ai/jobs/info/6998706081476f6176b0e205?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Mar 30 |
-| **[Influx](https://www.influxonline.co)** | **[Graduate Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69ca2421e565c26a7003ad92?utm_campaign=1051&utm_source=git)** | Canada | Remote | Mar 30 |
-| ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69ca2421e565c26a7003ad90?utm_campaign=1051&utm_source=git)** | Canada | Remote | Mar 30 |
+| **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69ca2421e565c26a7003ad90?utm_campaign=1051&utm_source=git)** | Canada | Remote | Mar 30 |
+| ↳ | **[Graduate Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69ca2421e565c26a7003ad92?utm_campaign=1051&utm_source=git)** | Canada | Remote | Mar 30 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69b0609fdfaeda6ff59a1ff0?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Mar 29 |
 | **[Goosehead Insurance](https://www.goosehead.com)** | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a397bc359fe034b1ce971c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Mar 29 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a4c1830da45516f16d71dd?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Mar 29 |
@@ -104,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/68cb3d9a9e3a822f5d244022?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 29 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Mar 29 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68af4b992daaba398441cf2b?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Mar 29 |
-| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec4?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Mar 29 |
-| ↳ | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec5?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
+| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec5?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
+| ↳ | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec4?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Mar 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e87136cc49a84b7e1062e7?utm_campaign=1051&utm_source=git)** | Benton, AR | On Site | Mar 29 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69bbd62c5b89c002acf09652?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE | On Site | Mar 29 |
 | **[Navigation Capital Group](www.navigationcap.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/69c9558983ea553769fef84c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Varda Space Industries](http://varda.com)** | **[Business Development SkillBridge Intern ( Summer 2026)](https://jobright.ai/jobs/info/6921417000c9ee50eaecd213?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Mar 28 |
 | **[Eddyfi Technologies](https://www.eddyfi.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69ab50b3142d5b4265fc9859?utm_campaign=1051&utm_source=git)** | Greater Quebec City Metropolitan Area | Hybrid | Mar 28 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Ann Arbor MI](https://jobright.ai/jobs/info/69bfbda779e36d3a847c64e7?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
-| **[CertiK](https://www.certik.com/)** | **[Business Development Intern / CertiK Ambassador](https://jobright.ai/jobs/info/698f3d200f6f7e7a2ceb6065?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Mar 28 |
-| **[Global Business Development Association (GBDA)](https://www.gbdassociation.org)** | **[Business Development Intern * U.S. Citizens Only](https://jobright.ai/jobs/info/69c7d9a61b5ad02887390a01?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
-| **[ADP](http://www.adp.com)** | **[Summer Sales Intern (Rising Seniors)](https://jobright.ai/jobs/info/69c7d99b1818a24cd84d20a8?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Mar 28 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Springfield District)](https://jobright.ai/jobs/info/68e5efbe1852e62f0081662e?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Mar 28 |
-| **[CertiK](https://www.certik.com/)** | **[Business Development Intern / CertiK Ambassador](https://jobright.ai/jobs/info/698f46cc0cc8ea15f1d9c0b4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 28 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Panama City FL](https://jobright.ai/jobs/info/698fd5940cc8ea15f1da6f07?utm_campaign=1051&utm_source=git)** | Panama City, FL | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
