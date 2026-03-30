@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote - Shopify Agency Partnerships Intern](https://jobright.ai/jobs/info/69c9b67d83ea553769ff30d8?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Holloway Health & Life Benefits, LLC](https://www.linkedin.com/company/104807125)** | **[Client Acquisition Intern (Entrepreneurship Experience)](https://jobright.ai/jobs/info/69c98474b773006330b85afc?utm_campaign=1051&utm_source=git)** | San Antonio, TX | Hybrid | Mar 29 |
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Intern, Development Operations](https://jobright.ai/jobs/info/69c97d89aa3c2c1995e24c1a?utm_campaign=1051&utm_source=git)** | Falmouth, MA | On Site | Mar 29 |
-| **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Business Development Assistant Intern](https://jobright.ai/jobs/info/69c975241818a24cd84daf8c?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 29 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/68cb3d9a9e3a822f5d244022?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 29 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Mar 29 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68af4b992daaba398441cf2b?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Mar 29 |
@@ -148,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Advantage Metals Recycling - A Nucor Company](https://advantagerecycling.com)** | **[Sales Summer Internship Program](https://jobright.ai/jobs/info/698f8d5e0f6f7e7a2cebd067?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Mar 28 |
 | **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales Service Intern](https://jobright.ai/jobs/info/69c7ad78b773006330b7afb1?utm_campaign=1051&utm_source=git)** | Miami, NM | On Site | Mar 28 |
 | **[Pearson](https://www.pearson.com/)** | **[Advanced Specialist, Customer Success - Faculty Advisor - Business and Economics](https://jobright.ai/jobs/info/69c90a5db773006330b83ac6?utm_campaign=1051&utm_source=git)** | Harrisburg, PA | Remote | Mar 28 |
-| **[Precisely](https://www.precisely.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69ab6b952747003c3d510993?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
-| ↳ | **[Sales Engineering Intern](https://jobright.ai/jobs/info/69ab65d32747003c3d5102df?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
+| **[Precisely](https://www.precisely.com)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/69ab65d32747003c3d5102df?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69ab6b952747003c3d510993?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
 | ↳ | **[Corporate Development Intern](https://jobright.ai/jobs/info/69ab660d2747003c3d510444?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
 | ↳ | **[Sales Engineering Intern - Automate](https://jobright.ai/jobs/info/69ab65f52747003c3d5103cc?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Flexera](https://www.flexera.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/694af46d67a69734cac608c1?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/69c78fb41b5ad0288738e2d9?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 28 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Commercial Sales Execution - Midwest Area](https://jobright.ai/jobs/info/69c781951818a24cd84cf558?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | Remote | Mar 28 |
 | **[Pearson](https://www.pearson.com/)** | **[Advanced Specialist, Customer Success - Faculty Advisor - Business and Economics](https://jobright.ai/jobs/info/69c8cc43aa3c2c1995e20812?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Mar 27 |
+| **[Rentokil Réunion - Les experts de la lutte contre les nuisibles partout  à la Réunion](https://www.rentokil.re)** | **[Account Executive](https://jobright.ai/jobs/info/69c7d6921b5ad028873907fc?utm_campaign=1051&utm_source=git)** | Toronto, ON | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
