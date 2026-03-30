@@ -77,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/68cb3d9a9e3a822f5d244022?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 29 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Mar 29 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68af4b992daaba398441cf2b?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Mar 29 |
-| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec4?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Mar 29 |
-| ↳ | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec5?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
+| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec5?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
+| ↳ | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec4?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Mar 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e87136cc49a84b7e1062e7?utm_campaign=1051&utm_source=git)** | Benton, AR | On Site | Mar 29 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69bbd62c5b89c002acf09652?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE | On Site | Mar 29 |
 | **[Navigation Capital Group](www.navigationcap.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/69c9558983ea553769fef84c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 29 |
@@ -105,13 +105,14 @@ For a complete list, click the following sortable link below:
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69c85c93b773006330b7ee18?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Mar 28 |
 | ↳ | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69c8586183ea553769fe96e5?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Beanfield](https://www.beanfield.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c85519e565c26a7002ec8b?utm_campaign=1051&utm_source=git)** | Montreal, QC | On Site | Mar 28 |
+| **[S&S Motors](https://www.ssmotorsga.com/)** | **[Sales & Operations Intern](https://jobright.ai/jobs/info/69ca05b1b773006330b8a006?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Mar 28 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69c850711818a24cd84d4473?utm_campaign=1051&utm_source=git)** | LaGrange, GA | On Site | Mar 28 |
 | **[Swiss Finance](https://www.swissfinance.com/)** | **[Investment Banking Intern (Institutional Sales)](https://jobright.ai/jobs/info/69585ceaf1f8465b79eef387?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[Fifth Third Bank](http://53.com)** | **[Summer 2027 Intern - CIB Sales and Trading](https://jobright.ai/jobs/info/69ab9536142d5b4265fcb3d6?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Mar 28 |
 | **[Arena](https://arena.im)** | **[Influencer Partnerships Intern](https://jobright.ai/jobs/info/69c8121fb773006330b7db2b?utm_campaign=1051&utm_source=git)** | Cupertino, CA | On Site | Mar 28 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Intern - Sales Support](https://jobright.ai/jobs/info/69ab402b142d5b4265fc897c?utm_campaign=1051&utm_source=git)** | Mount Laurel, NJ | Hybrid | Mar 28 |
-| **[Crown Equipment Corporation](http://www.crown.com)** | **[SALES SUPPORT - PAID INTERNSHIP](https://jobright.ai/jobs/info/69823caec3101f1400c3edac?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Mar 28 |
 | **[Uber](http://www.uber.com)** | **[2026 Account Representative Intern, US - Sales](https://jobright.ai/jobs/info/69c80fcce565c26a7002d957?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
+| **[Crown Equipment Corporation](http://www.crown.com)** | **[SALES SUPPORT - PAID INTERNSHIP](https://jobright.ai/jobs/info/69823caec3101f1400c3edac?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Mar 28 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Youngstown, OH (Summer 2026)](https://jobright.ai/jobs/info/68e40b2f1852e62f00800754?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Mar 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8ef7195f5211cd2ceb937?utm_campaign=1051&utm_source=git)** | Bismarck, ND | On Site | Mar 28 |
 | ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8ef27f9c6ff7aedf14cc5?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Development Intern](https://jobright.ai/jobs/info/69ab660d2747003c3d510444?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
 | ↳ | **[Sales Engineering Intern - Automate](https://jobright.ai/jobs/info/69ab65f52747003c3d5103cc?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Flexera](https://www.flexera.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/694af46d67a69734cac608c1?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 28 |
-| **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/69c8f086b773006330b82ea6?utm_campaign=1051&utm_source=git)** | Oxnard, CA | Hybrid | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
