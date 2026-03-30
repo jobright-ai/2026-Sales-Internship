@@ -64,8 +64,8 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/68cb3d9a9e3a822f5d244022?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 29 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Mar 29 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68af4b992daaba398441cf2b?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Mar 29 |
-| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec5?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
-| ↳ | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec4?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Mar 29 |
+| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec4?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Mar 29 |
+| ↳ | **[Regional Account Manager](https://jobright.ai/jobs/info/69c95ceae565c26a70034ec5?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e87136cc49a84b7e1062e7?utm_campaign=1051&utm_source=git)** | Benton, AR | On Site | Mar 29 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69bbd62c5b89c002acf09652?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE | On Site | Mar 29 |
 | **[Navigation Capital Group](www.navigationcap.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/69c9558983ea553769fef84c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Mar 29 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69ab69e4142d5b4265fca2ef?utm_campaign=1051&utm_source=git)** | Dallas, GA | On Site | Mar 28 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Summer Internship Program- Tucson, AZ](https://jobright.ai/jobs/info/699a82d181476f6176b311e4?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Mar 28 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Sales Research](https://jobright.ai/jobs/info/69c8c96483ea553769febd1f?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Mar 28 |
-| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69c919ebb773006330b841bc?utm_campaign=1051&utm_source=git)** | Vaughan, ON | On Site | Mar 28 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c91b81e565c26a700340ab?utm_campaign=1051&utm_source=git)** | Lethbridge, AB | On Site | Mar 28 |
+| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69c91b81e565c26a700340ab?utm_campaign=1051&utm_source=git)** | Lethbridge, AB | On Site | Mar 28 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c919ebb773006330b841bc?utm_campaign=1051&utm_source=git)** | Vaughan, ON | On Site | Mar 28 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/69c7d07bb773006330b7c39f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Mar 28 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Sales Intern (Local and Digital Sales)](https://jobright.ai/jobs/info/698fe6ae6ea51a7610f24b2d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[AD Mortgage LLC](https://admortgage.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69729f839b83b424830ea2de?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 28 |
