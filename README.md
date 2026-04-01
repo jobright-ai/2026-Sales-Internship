@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wip](www.wip.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69cd3923366bb95ba54f9c72?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 01 |
+| **[ALO](https://www.aloyoga.com/)** | **[Merchandise Planning Intern](https://jobright.ai/jobs/info/6993caf4ce78e77b4fd79f78?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Apr 01 |
 | **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69cd2fb2cdb525785fb85697?utm_campaign=1051&utm_source=git)** | Boca Raton, Florida, United States | On Site | Apr 01 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Destin FL](https://jobright.ai/jobs/info/69cd28e3cdb525785fb85520?utm_campaign=1051&utm_source=git)** | Destin, FL | On Site | Apr 01 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69b281d1a8ac8e70ff667ecb?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Apr 01 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[Retail Manager Trainee](https://jobright.ai/jobs/info/69b07586749500645096b719?utm_campaign=1051&utm_source=git)** | Holland, MI | On Site | Apr 01 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Summer Retail Management Internship](https://jobright.ai/jobs/info/69cd1d7fcfdc6132f9415d3a?utm_campaign=1051&utm_source=git)** | Store 1407-The Woodland Mall-ANN-The Woodlands, TX 77380 | On Site | Apr 01 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader (Manager) Trainee Intern (Franchise)](https://jobright.ai/jobs/info/695d1796f5f3c43f38e1e2e6?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Apr 01 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Sales Administrative Assistant Intern – Summer 2026 (Cleveland, OH)](https://jobright.ai/jobs/info/6977ddaa88e2b47213bbd9bb?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Apr 01 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69b09df2dfaeda6ff59ad0f6?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Apr 01 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Midtown Manhattan)](https://jobright.ai/jobs/info/69c91896e565c26a70033d74?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69b09e2e0b2db6275c04e0cf?utm_campaign=1051&utm_source=git)** | Brookfield, WI | On Site | Apr 01 |
@@ -130,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Weight Watchers](https://corporate.ww.com/home/default.aspx)** | **[Sales - Summer Intern](https://jobright.ai/jobs/info/69cc504a366bb95ba54eed6a?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Mar 31 |
 | **[Yokohama Tire Corporation](http://www.yokohamatire.com/)** | **[Sales Marketing Programs - Summer Internship](https://jobright.ai/jobs/info/69cc5001cfdc6132f940b96d?utm_campaign=1051&utm_source=git)** | US-CA-Santa Ana | On Site | Mar 31 |
 | ↳ | **[Sales Marketing Programs - Summer Internship](https://jobright.ai/jobs/info/69cc5000891d7b11cfcabb67?utm_campaign=1051&utm_source=git)** | Santa Ana, CA, US | On Site | Mar 31 |
-| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Sales Intern (6 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69cc4ff6e1921223acc753e5?utm_campaign=1051&utm_source=git)** | CA-ON-Toronto | Hybrid | Mar 31 |
-| ↳ | **[Sales Intern (6 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94b?utm_campaign=1051&utm_source=git)** | Toronto, ON, CA | Hybrid | Mar 31 |
+| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Sales Intern (6 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94b?utm_campaign=1051&utm_source=git)** | Toronto, ON, CA | Hybrid | Mar 31 |
+| ↳ | **[Sales Intern (6 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69cc4ff6e1921223acc753e5?utm_campaign=1051&utm_source=git)** | CA-ON-Toronto | Hybrid | Mar 31 |
 | **[DEX Imaging](https://www.deximaging.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94f?utm_campaign=1051&utm_source=git)** | St. Petersburg, Florida | On Site | Mar 31 |
 | **[Genesys](https://www.genesys.com)** | **[Direct Response Representative Intern](https://jobright.ai/jobs/info/69cc4f70e1921223acc75265?utm_campaign=1051&utm_source=git)** | Durham, NC, USA | On Site | Mar 31 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/69cc7f6bcfdc6132f940d330?utm_campaign=1051&utm_source=git)** | North Vancouver, BC | On Site | Mar 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[INTERN - SHOWROOM](https://jobright.ai/jobs/info/69cc3b93e1921223acc74be0?utm_campaign=1051&utm_source=git)** | Aspen CO Design Studio SSC #002 (US010010) | On Site | Mar 31 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69cc3b8ce1921223acc74bb8?utm_campaign=1051&utm_source=git)** | US-CA-Irvine | On Site | Mar 31 |
 | **[Taylor Corporation](http://www.taylorcorp.com)** | **[E-Commerce & Digital Marketing Intern](https://jobright.ai/jobs/info/69cc5a7ecdb525785fb7b1d4?utm_campaign=1051&utm_source=git)** | North Mankato, MN | On Site | Mar 31 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Ticket Office - Sales & Operations Intern/Assistant](https://jobright.ai/jobs/info/69cc58cd891d7b11cfcabf06?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Mar 31 |
-| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Sales, Strategy & Planning Internship (Summer 2026)](https://jobright.ai/jobs/info/69cc751bcfdc6132f940c55e?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Mar 31 |
-| **[Omnidya](http://www.omnidya.com/)** | **[Tech Sales Intern](https://jobright.ai/jobs/info/69cca16d8130af1ac833d650?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
