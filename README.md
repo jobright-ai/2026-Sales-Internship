@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69cce91654f00230c6ceb9ce?utm_campaign=1051&utm_source=git)** | Sparks, NV | On Site | Apr 01 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69cce91554f00230c6ceb9cb?utm_campaign=1051&utm_source=git)** | Flagstaff, AZ | On Site | Apr 01 |
+| **[Fendi](http://www.fendi.com)** | **[Intern, Wholesale](https://jobright.ai/jobs/info/697933b488e2b47213bd5400?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 01 |
+| **[PNC](http://www.pnc.com)** | **[Relationship Manager II - C&IB](https://jobright.ai/jobs/info/69cce1eccfdc6132f9414ce7?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Apr 01 |
 | **[Velvi AI](velvi.ai)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ccd7eecfdc6132f941426d?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Remote | Apr 01 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern - Paid](https://jobright.ai/jobs/info/69ccd59d398fb071abf706fa?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Apr 01 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Brasseler Summer Dental Sales Intern](https://jobright.ai/jobs/info/69ccc0a5cdb525785fb82454?utm_campaign=1051&utm_source=git)** | United States - Remote | Remote | Mar 31 |
@@ -153,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Rentals Europe](http://www.unitedrentals.com/en-gb)** | **[Sales Intern](https://jobright.ai/jobs/info/69cc23f3891d7b11cfcaa9ab?utm_campaign=1051&utm_source=git)** | Sparks, NV, USA | On Site | Mar 31 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69cc23edcfdc6132f940a842?utm_campaign=1051&utm_source=git)** | Huntingtn Bch, CA, USA | On Site | Mar 31 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69cc23d7366bb95ba54edb61?utm_campaign=1051&utm_source=git)** | Flagstaff, AZ, USA | On Site | Mar 31 |
-| **[Broadcast Management Group, Inc.](https://www.broadcastmgmt.com)** | **[Summer Business Development Intern](https://jobright.ai/jobs/info/69cc7b468130af1ac8338ae1?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Mar 31 |
-| **[Crocs, Inc.](http://www.crocs.com)** | **[Intern - Global Partnerships](https://jobright.ai/jobs/info/69af82c76b21de023e60ba18?utm_campaign=1051&utm_source=git)** | Broomfield, CO | Hybrid | Mar 31 |
-| **[Varda Space Industries](http://varda.com)** | **[Business Development SkillBridge Intern ( Summer 2026)](https://jobright.ai/jobs/info/6921417000c9ee50eaecd213?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Mar 31 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/Sales Operations & Effectiveness](https://jobright.ai/jobs/info/69cc192acfdc6132f940a4f7?utm_campaign=1051&utm_source=git)** | US - Remote, UNAVAILABLE, 
-US | Remote | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
