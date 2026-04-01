@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Event Sales Intern](https://jobright.ai/jobs/info/69b0a2c97495006450974ff5?utm_campaign=1051&utm_source=git)** | Hagerstown, Maryland, United States | On Site | Apr 01 |
+| **[Dollar Tree Stores](http://dollartree.com)** | **[Store Development Strategy & Operations Intern](https://jobright.ai/jobs/info/69bce0c645e08b3dc1f9ce1e?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Apr 01 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69cce91654f00230c6ceb9ce?utm_campaign=1051&utm_source=git)** | Sparks, NV | On Site | Apr 01 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69cce91554f00230c6ceb9cb?utm_campaign=1051&utm_source=git)** | Flagstaff, AZ | On Site | Apr 01 |
 | **[Fendi](http://www.fendi.com)** | **[Intern, Wholesale](https://jobright.ai/jobs/info/697933b488e2b47213bd5400?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Internship - Student Sales and Merchandising](https://jobright.ai/jobs/info/69cc82b2cdb525785fb7d4b9?utm_campaign=1051&utm_source=git)** | Mississauga, ON | Hybrid | Mar 31 |
 | **[de Anda Capital](https://www.deanda.capital/)** | **[Sales and Operations Intern/Junior Analyst](https://jobright.ai/jobs/info/69cc800f8130af1ac83396e5?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Mar 31 |
 | **[United Rentals Europe](http://www.unitedrentals.com/en-gb)** | **[Sales Intern](https://jobright.ai/jobs/info/69cc23f3891d7b11cfcaa9ab?utm_campaign=1051&utm_source=git)** | Sparks, NV, USA | On Site | Mar 31 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69cc23edcfdc6132f940a842?utm_campaign=1051&utm_source=git)** | Huntingtn Bch, CA, USA | On Site | Mar 31 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69cc23d7366bb95ba54edb61?utm_campaign=1051&utm_source=git)** | Flagstaff, AZ, USA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
