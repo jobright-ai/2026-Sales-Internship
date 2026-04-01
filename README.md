@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Velvi AI](velvi.ai)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ccd7eecfdc6132f941426d?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Remote | Apr 01 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern - Paid](https://jobright.ai/jobs/info/69ccd59d398fb071abf706fa?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Apr 01 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Brasseler Summer Dental Sales Intern](https://jobright.ai/jobs/info/69ccc0a5cdb525785fb82454?utm_campaign=1051&utm_source=git)** | United States - Remote | Remote | Mar 31 |
 | **[Teleflex](http://www.teleflex.com)** | **[Interventional Sr. Sales Representative, OnControl- Philly](https://jobright.ai/jobs/info/69cca733cfdc6132f9411e8f?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Mar 31 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69cca5c8891d7b11cfcb1a1b?utm_campaign=1051&utm_source=git)** | DeWitt, MI | On Site | Mar 31 |
@@ -156,6 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Varda Space Industries](http://varda.com)** | **[Business Development SkillBridge Intern ( Summer 2026)](https://jobright.ai/jobs/info/6921417000c9ee50eaecd213?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Mar 31 |
 | **[GSK](http://www.gsk.com)** | **[Summer Intern/Sales Operations & Effectiveness](https://jobright.ai/jobs/info/69cc192acfdc6132f940a4f7?utm_campaign=1051&utm_source=git)** | US - Remote, UNAVAILABLE, 
 US | Remote | Mar 31 |
-| ↳ | **[Summer Intern/Sales Operations & Effectiveness](https://jobright.ai/jobs/info/69cc190d8130af1ac833688a?utm_campaign=1051&utm_source=git)** | US-US - Remote | Remote | Mar 31 |
-| **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[University of Florida Commercial Sales Intern](https://jobright.ai/jobs/info/69cc18d2cfdc6132f940a436?utm_campaign=1051&utm_source=git)** | Three Ravinia Drive, Atlanta, GA, 30346, US | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
