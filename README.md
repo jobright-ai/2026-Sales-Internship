@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69b0a9ba0b2db6275c0504a8?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Apr 01 |
+| **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69cd2fb2cdb525785fb85697?utm_campaign=1051&utm_source=git)** | Boca Raton, Florida, United States | On Site | Apr 01 |
+| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Destin FL](https://jobright.ai/jobs/info/69cd28e3cdb525785fb85520?utm_campaign=1051&utm_source=git)** | Destin, FL | On Site | Apr 01 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69b281d1a8ac8e70ff667ecb?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Apr 01 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69b0a9ba0b2db6275c0504a8?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Apr 01 |
 | **[Ensono](https://www.ensono.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69b072250b2db6275c045f20?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 01 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69b09dd4dfaeda6ff59ad078?utm_campaign=1051&utm_source=git)** | Crystal Lake, IL | On Site | Apr 01 |
 | **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[Retail Manager Trainee](https://jobright.ai/jobs/info/69b07586749500645096b719?utm_campaign=1051&utm_source=git)** | Holland, MI | On Site | Apr 01 |
@@ -127,12 +130,11 @@ For a complete list, click the following sortable link below:
 | **[Weight Watchers](https://corporate.ww.com/home/default.aspx)** | **[Sales - Summer Intern](https://jobright.ai/jobs/info/69cc504a366bb95ba54eed6a?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Mar 31 |
 | **[Yokohama Tire Corporation](http://www.yokohamatire.com/)** | **[Sales Marketing Programs - Summer Internship](https://jobright.ai/jobs/info/69cc5001cfdc6132f940b96d?utm_campaign=1051&utm_source=git)** | US-CA-Santa Ana | On Site | Mar 31 |
 | ↳ | **[Sales Marketing Programs - Summer Internship](https://jobright.ai/jobs/info/69cc5000891d7b11cfcabb67?utm_campaign=1051&utm_source=git)** | Santa Ana, CA, US | On Site | Mar 31 |
-| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Sales Intern (6 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94b?utm_campaign=1051&utm_source=git)** | Toronto, ON, CA | Hybrid | Mar 31 |
-| ↳ | **[Sales Intern (6 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69cc4ff6e1921223acc753e5?utm_campaign=1051&utm_source=git)** | CA-ON-Toronto | Hybrid | Mar 31 |
+| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Sales Intern (6 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69cc4ff6e1921223acc753e5?utm_campaign=1051&utm_source=git)** | CA-ON-Toronto | Hybrid | Mar 31 |
+| ↳ | **[Sales Intern (6 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94b?utm_campaign=1051&utm_source=git)** | Toronto, ON, CA | Hybrid | Mar 31 |
 | **[DEX Imaging](https://www.deximaging.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94f?utm_campaign=1051&utm_source=git)** | St. Petersburg, Florida | On Site | Mar 31 |
 | **[Genesys](https://www.genesys.com)** | **[Direct Response Representative Intern](https://jobright.ai/jobs/info/69cc4f70e1921223acc75265?utm_campaign=1051&utm_source=git)** | Durham, NC, USA | On Site | Mar 31 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/69cc7f6bcfdc6132f940d330?utm_campaign=1051&utm_source=git)** | North Vancouver, BC | On Site | Mar 31 |
-| **[Agilent Technologies](http://www.agilent.com)** | **[Global Strategic Account Manager](https://jobright.ai/jobs/info/69cd14fccfdc6132f9415c89?utm_campaign=1051&utm_source=git)** | Trenton, NJ | Hybrid | Mar 31 |
 | **[GALLO](http://www.gallocareers.com)** | **[Category Development Manager](https://jobright.ai/jobs/info/69cc95c4891d7b11cfcb0633?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Mar 31 |
 | **[Moët Hennessy](http://www.lvmh.com/houses/wines-spirits/)** | **[MHUSA 2026 Summer Internship Program - Commercial (Sales) / North Jersey](https://jobright.ai/jobs/info/69cc7a1c891d7b11cfcac8ba?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | Hybrid | Mar 31 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69cc4a3f8130af1ac83379a5?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Mar 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Ticket Office - Sales & Operations Intern/Assistant](https://jobright.ai/jobs/info/69cc58cd891d7b11cfcabf06?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Mar 31 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Sales, Strategy & Planning Internship (Summer 2026)](https://jobright.ai/jobs/info/69cc751bcfdc6132f940c55e?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Mar 31 |
 | **[Omnidya](http://www.omnidya.com/)** | **[Tech Sales Intern](https://jobright.ai/jobs/info/69cca16d8130af1ac833d650?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Mar 31 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/69cc367ccdb525785fb7a30a?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Mar 31 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69cc9b748130af1ac833d201?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
