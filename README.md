@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henry Schein](http://www.henryschein.com)** | **[Brasseler Summer Dental Sales Intern](https://jobright.ai/jobs/info/69ccc0a5cdb525785fb82454?utm_campaign=1051&utm_source=git)** | United States - Remote | Remote | Mar 31 |
 | **[Teleflex](http://www.teleflex.com)** | **[Interventional Sr. Sales Representative, OnControl- Philly](https://jobright.ai/jobs/info/69cca733cfdc6132f9411e8f?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Mar 31 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69cca5c8891d7b11cfcb1a1b?utm_campaign=1051&utm_source=git)** | DeWitt, MI | On Site | Mar 31 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern / Edgehill Neighborhood Partnership / Administrative Intern](https://jobright.ai/jobs/info/69cca511366bb95ba54f48ac?utm_campaign=1051&utm_source=git)** | Nashville, TN, United States | On Site | Mar 31 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Weight Watchers](https://corporate.ww.com/home/default.aspx)** | **[Sales - Summer Intern](https://jobright.ai/jobs/info/69cc504a366bb95ba54eed6a?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Mar 31 |
 | **[Yokohama Tire Corporation](http://www.yokohamatire.com/)** | **[Sales Marketing Programs - Summer Internship](https://jobright.ai/jobs/info/69cc5001cfdc6132f940b96d?utm_campaign=1051&utm_source=git)** | US-CA-Santa Ana | On Site | Mar 31 |
 | ↳ | **[Sales Marketing Programs - Summer Internship](https://jobright.ai/jobs/info/69cc5000891d7b11cfcabb67?utm_campaign=1051&utm_source=git)** | Santa Ana, CA, US | On Site | Mar 31 |
-| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Sales Intern (6 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69cc4ff6e1921223acc753e5?utm_campaign=1051&utm_source=git)** | CA-ON-Toronto | Hybrid | Mar 31 |
-| ↳ | **[Sales Intern (6 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94b?utm_campaign=1051&utm_source=git)** | Toronto, ON, CA | Hybrid | Mar 31 |
+| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Sales Intern (6 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94b?utm_campaign=1051&utm_source=git)** | Toronto, ON, CA | Hybrid | Mar 31 |
+| ↳ | **[Sales Intern (6 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69cc4ff6e1921223acc753e5?utm_campaign=1051&utm_source=git)** | CA-ON-Toronto | Hybrid | Mar 31 |
 | **[DEX Imaging](https://www.deximaging.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94f?utm_campaign=1051&utm_source=git)** | St. Petersburg, Florida | On Site | Mar 31 |
 | **[Genesys](https://www.genesys.com)** | **[Direct Response Representative Intern](https://jobright.ai/jobs/info/69cc4f70e1921223acc75265?utm_campaign=1051&utm_source=git)** | Durham, NC, USA | On Site | Mar 31 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/69cc7f6bcfdc6132f940d330?utm_campaign=1051&utm_source=git)** | North Vancouver, BC | On Site | Mar 31 |
@@ -157,5 +158,4 @@ For a complete list, click the following sortable link below:
 US | Remote | Mar 31 |
 | ↳ | **[Summer Intern/Sales Operations & Effectiveness](https://jobright.ai/jobs/info/69cc190d8130af1ac833688a?utm_campaign=1051&utm_source=git)** | US-US - Remote | Remote | Mar 31 |
 | **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[University of Florida Commercial Sales Intern](https://jobright.ai/jobs/info/69cc18d2cfdc6132f940a436?utm_campaign=1051&utm_source=git)** | Three Ravinia Drive, Atlanta, GA, 30346, US | On Site | Mar 31 |
-| **[Cohesity](https://www.cohesity.com/)** | **[Sales Enablement Intern- Data Analytics](https://jobright.ai/jobs/info/69cc187e366bb95ba54ed74f?utm_campaign=1051&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
