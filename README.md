@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69b09df2dfaeda6ff59ad0f6?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Apr 01 |
+| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Midtown Manhattan)](https://jobright.ai/jobs/info/69c91896e565c26a70033d74?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 01 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69b09e2e0b2db6275c04e0cf?utm_campaign=1051&utm_source=git)** | Brookfield, WI | On Site | Apr 01 |
+| ↳ | **[Intern, Property Management](https://jobright.ai/jobs/info/69b0eb330b2db6275c05d7aa?utm_campaign=1051&utm_source=git)** | Lebanon, TN | On Site | Apr 01 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Client Relationship Management Intern (Hybrid)](https://jobright.ai/jobs/info/69b10366dfaeda6ff59bde85?utm_campaign=1051&utm_source=git)** | Baltimore, MD | Hybrid | Apr 01 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[Federal Account Executive - Skillbridge Internship](https://jobright.ai/jobs/info/69b1365d749500645098a4c8?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/6977faee88e2b47213bc0842?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WM](https://www.wm.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69cc4b16e1921223acc7516a?utm_campaign=1051&utm_source=git)** | Baltimore, MD | Remote | Mar 31 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Seattle Summer Brokerage Intern](https://jobright.ai/jobs/info/69cc7907e1921223acc76091?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | Mar 31 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69cc2ba78130af1ac8336ee4?utm_campaign=1051&utm_source=git)** | Sevierville, TN | On Site | Mar 31 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/69cc76e7891d7b11cfcac7b6?utm_campaign=1051&utm_source=git)** | Hoboken, NJ | On Site | Mar 31 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Portland Summer Brokerage Intern](https://jobright.ai/jobs/info/69cc4ac8cfdc6132f940b708?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Mar 31 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Hospitality & Logistics](https://jobright.ai/jobs/info/69cc48a2e1921223acc75076?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Mar 31 |
-| **[Bish's RV, Inc.](https://www.bishs.com/)** | **[RVFix Inside Sales Intern](https://jobright.ai/jobs/info/69cc650d891d7b11cfcac212?utm_campaign=1051&utm_source=git)** | Meridian, ID | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
