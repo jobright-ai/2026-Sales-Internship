@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69616943a112b402660feb25?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Apr 02 |
+| **[FIS](http://www.fisglobal.com)** | **[Intern, Sales Development Representative Summer FIS University Program 2026](https://jobright.ai/jobs/info/69ce99d554f00230c6d00b4e?utm_campaign=1051&utm_source=git)** | US FL JAX 347 | On Site | Apr 02 |
+| **[Alro Steel](http://www.alro.com)** | **[Internship](https://jobright.ai/jobs/info/69ce984754f00230c6d00880?utm_campaign=1051&utm_source=git)** | Bolingbrook, IL | On Site | Apr 02 |
+| **[Port of Thunder Bay](https://www.portofthunderbay.ca)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ce981e366bb95ba550cd7f?utm_campaign=1051&utm_source=git)** | Thunder Bay, ON | On Site | Apr 02 |
+| **[US LBM](http://uslbm.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6996b5fcce78e77b4fdaed01?utm_campaign=1051&utm_source=git)** | East Haven, CT | On Site | Apr 02 |
+| **[National Life Group](https://www.nationallife.com)** | **[Distribution Sales Team Intern - Summer 2026](https://jobright.ai/jobs/info/695ddedee4cdbb1454cfda7d?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Apr 02 |
+| **[Andis Company](https://andis.com)** | **[Inside Sales Intern - Fall 2025 and/or Spring 2026](https://jobright.ai/jobs/info/69ce9499cfdc6132f94299d0?utm_campaign=1051&utm_source=git)** | Racine County, WI | On Site | Apr 02 |
+| **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[CRM Intern (Summer 2026)](https://jobright.ai/jobs/info/69ce9466cdb525785fb98c86?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 02 |
+| **[Related Companies](http://www.related.com/)** | **[Part Time Intern - Development Associate](https://jobright.ai/jobs/info/69b1ff2465de58104c716edb?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Apr 02 |
 | **[TD SYNNEX Multi-Country Area (English)](https://lac.tdsynnex.com/mca/en/)** | **[Micro-Intern](https://jobright.ai/jobs/info/69ce8e57cfdc6132f94296f5?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Apr 02 |
-| **[FIS](http://www.fisglobal.com)** | **[Intern, Sales Development Representative Summer FIS University Program 2026](https://jobright.ai/jobs/info/69ce8e3f54f00230c6d004a7?utm_campaign=1051&utm_source=git)** | US FL JAX 347 | On Site | Apr 02 |
 | **[Facebook](https://www.meta.com)** | **[Summer Student Business Administration Intern Group Sales](https://jobright.ai/jobs/info/69ce8e3d366bb95ba550c940?utm_campaign=1051&utm_source=git)** | Columbia, South Carolina | On Site | Apr 02 |
 | **[Flex](https://getflex.com)** | **[Senior Manager, Partnerships Strategy & Operations](https://jobright.ai/jobs/info/695f4d1d0badca5763afc76c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 | **[Justrite Safety Group](https://www.justrite.com)** | **[Digital Sales Intern](https://jobright.ai/jobs/info/6979228939f7f96cc6d18212?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 02 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ActionLink](https://www.actionlink.com/)** | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69cde87f366bb95ba5504418?utm_campaign=1051&utm_source=git)** | Yonkers, NY | On Site | Apr 01 |
 | ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69cde85454f00230c6cf8149?utm_campaign=1051&utm_source=git)** | Paramus, NJ | On Site | Apr 01 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69cde851891d7b11cfcc16ca?utm_campaign=1051&utm_source=git)** | Clermont, FL | On Site | Apr 01 |
-| **[Medtronic](https://www.medtronic.com)** | **[Sales Analyst Intern (Boston, MA)](https://jobright.ai/jobs/info/69cddc8e398fb071abf7d54a?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 01 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69ce0694cdb525785fb92f74?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Apr 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69ce06a7366bb95ba5506e7e?utm_campaign=1051&utm_source=git)** | Arlington, TX | On Site | Apr 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69ce06a8366bb95ba5506e91?utm_campaign=1051&utm_source=git)** | Winthrop, MA | On Site | Apr 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69ce0a0054f00230c6cfae38?utm_campaign=1051&utm_source=git)** | Wixom, MI | On Site | Apr 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69ce0a47cfdc6132f9423d9d?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Apr 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69ce0a3acfdc6132f9423d63?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Apr 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69ce06a7366bb95ba5506e8b?utm_campaign=1051&utm_source=git)** | Irvington, NJ | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
