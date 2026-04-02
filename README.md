@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FIS](http://www.fisglobal.com)** | **[Intern, Sales Development Representative Summer FIS University Program 2026](https://jobright.ai/jobs/info/69cea945366bb95ba550ddf3?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Apr 02 |
+| **[Tanium](http://www.tanium.com)** | **[Solution Engineering Intern](https://jobright.ai/jobs/info/69b1c2fe65de58104c70bffa?utm_campaign=1051&utm_source=git)** | Addison, TX | Hybrid | Apr 02 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[AI Monetization Business Development Intern - Summer 2026](https://jobright.ai/jobs/info/69b1b23fd04c69566c73f53a?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Apr 02 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[National Accounts Intern (Intern Program)](https://jobright.ai/jobs/info/69ceb4f754f00230c6d01d9a?utm_campaign=1051&utm_source=git)** | Beachwood, OH | On Site | Apr 02 |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[Senior Sales Manager, Software](https://jobright.ai/jobs/info/6937411ea0dde7020e300875?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Apr 02 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[TractorHouse Sales Intern](https://jobright.ai/jobs/info/664e9858f97ff61ecf83b39e?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 02 |
+| **[Murphy USA](https://www.murphyusa.com/)** | **[Commercial Fuel Intern](https://jobright.ai/jobs/info/69ceb1b6cfdc6132f942af41?utm_campaign=1051&utm_source=git)** | El Dorado, AR | On Site | Apr 02 |
+| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Selling - Intern](https://jobright.ai/jobs/info/6979387388e2b47213bd5ebd?utm_campaign=1051&utm_source=git)** | Bronx, NY | Hybrid | Apr 02 |
+| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Fall Retail Management Internship](https://jobright.ai/jobs/info/69cead3d891d7b11cfccb1b3?utm_campaign=1051&utm_source=git)** | Store 1487-Midtowne-ANN-Little Rock, AR 72205 | On Site | Apr 02 |
+| **[Logitech](https://www.logitech.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69ceaa31398fb071abf8783b?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Sales](https://jobright.ai/jobs/info/69cea711cfdc6132f942ab0e?utm_campaign=1051&utm_source=git)** | Ormond Beach, FL | On Site | Apr 02 |
 | **[Kline Hill Partners](http://klinehill.com/)** | **[Summer 2027 BDIR Intern](https://jobright.ai/jobs/info/69cea6ee366bb95ba550dc4c?utm_campaign=1051&utm_source=git)** | Greenwich, Connecticut, United States | On Site | Apr 02 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[National Accounts Intern (Intern Program)](https://jobright.ai/jobs/info/69cea6b6366bb95ba550db57?utm_campaign=1051&utm_source=git)** | 3735 Green Rd, Beachwood, OH, 44122, US | On Site | Apr 02 |
@@ -101,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Business Development)](https://jobright.ai/jobs/info/69b185c8548f140066e75e36?utm_campaign=1051&utm_source=git)** | Niceville, FL | On Site | Apr 02 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Employee Benefits Inside Sales Intern](https://jobright.ai/jobs/info/6994874181476f6176ac4d0b?utm_campaign=1051&utm_source=git)** | Cranston, RI | On Site | Apr 02 |
 | **[National STEM Honor Society (NSTEM)](https://nstem.org)** | **[Partnerships and Sponsorships Intern](https://jobright.ai/jobs/info/69cea3a5cdb525785fb99a89?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 02 |
+| **[SmartSolve](https://www.smartsolve.com/)** | **[Sales Development Internship](https://jobright.ai/jobs/info/69ceb19f54f00230c6d01c73?utm_campaign=1051&utm_source=git)** | Bowling Green, OH | On Site | Apr 02 |
 | **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Sales Administration](https://jobright.ai/jobs/info/69b1c29865de58104c70bf44?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69cb842b466f1e133aacefa9?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Apr 02 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Sales Process Specialist](https://jobright.ai/jobs/info/69ce72d3cdb525785fb97867?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Hybrid | Apr 02 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Professional](https://jobright.ai/jobs/info/69ce4153398fb071abf83376?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Apr 01 |
 | ↳ | **[Account Executive](https://jobright.ai/jobs/info/69ce4054cdb525785fb958af?utm_campaign=1051&utm_source=git)** | Harrisburg, PA | On Site | Apr 01 |
 | ↳ | **[Outside Sales Professional](https://jobright.ai/jobs/info/69ce4037891d7b11cfcc677b?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | Apr 01 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ce0ca1398fb071abf80bbf?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Apr 01 |
-| **[NVE Experience Agency](http://experiencenve.com)** | **[Business Development Summer Internship](https://jobright.ai/jobs/info/69ce0a29891d7b11cfcc4524?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Apr 01 |
-| **[Alro Steel](http://www.alro.com)** | **[Internship](https://jobright.ai/jobs/info/69ce35f6398fb071abf82947?utm_campaign=1051&utm_source=git)** | Bolingbrook, Illinois | On Site | Apr 01 |
-| **[RagaAI Inc](http://www.raga.ai)** | **[AI Product & Customer Success Intern](https://jobright.ai/jobs/info/69cdff3354f00230c6cfa752?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 01 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ce35e8366bb95ba5508f01?utm_campaign=1051&utm_source=git)** | Iowa City, Iowa | On Site | Apr 01 |
-| **[Cargobase](http://www.cargobase.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69cdfb16cfdc6132f94233ea?utm_campaign=1051&utm_source=git)** | Troy, Michigan, United States | Hybrid | Apr 01 |
-| **[DCPS](https://denvercps.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/69cdf6d0366bb95ba55064d6?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Apr 01 |
-| **[Alarm.com](http://www.alarm.com)** | **[International Sales Operations Intern](https://jobright.ai/jobs/info/69c481b0d5a1016e98dbc3fc?utm_campaign=1051&utm_source=git)** | Tysons, Virginia | On Site | Apr 01 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69cdf5f854f00230c6cf9ff7?utm_campaign=1051&utm_source=git)** | Rotterdam, NY | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
