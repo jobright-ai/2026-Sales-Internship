@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FIS](http://www.fisglobal.com)** | **[Intern, Sales Development Representative Summer FIS University Program 2026](https://jobright.ai/jobs/info/69cea945366bb95ba550ddf3?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Apr 02 |
+| **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Sales](https://jobright.ai/jobs/info/69cea711cfdc6132f942ab0e?utm_campaign=1051&utm_source=git)** | Ormond Beach, FL | On Site | Apr 02 |
+| **[Kline Hill Partners](http://klinehill.com/)** | **[Summer 2027 BDIR Intern](https://jobright.ai/jobs/info/69cea6ee366bb95ba550dc4c?utm_campaign=1051&utm_source=git)** | Greenwich, Connecticut, United States | On Site | Apr 02 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[National Accounts Intern (Intern Program)](https://jobright.ai/jobs/info/69cea6b6366bb95ba550db57?utm_campaign=1051&utm_source=git)** | 3735 Green Rd, Beachwood, OH, 44122, US | On Site | Apr 02 |
+| **[Zippo Manufacturing Company](https://www.zippo.com/)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/69cea67dcdb525785fb99b5d?utm_campaign=1051&utm_source=git)** | Bradford, Pennsylvania, United States | On Site | Apr 02 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69cea619891d7b11cfccad72?utm_campaign=1051&utm_source=git)** | Hays, KS | On Site | Apr 02 |
+| **[Group Management Services, Inc.](https://www.groupmgmt.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69cea05c398fb071abf87354?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | On Site | Apr 02 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69616943a112b402660feb25?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Apr 02 |
-| **[FIS](http://www.fisglobal.com)** | **[Intern, Sales Development Representative Summer FIS University Program 2026](https://jobright.ai/jobs/info/69ce99d554f00230c6d00b4e?utm_campaign=1051&utm_source=git)** | US FL JAX 347 | On Site | Apr 02 |
 | **[Alro Steel](http://www.alro.com)** | **[Internship](https://jobright.ai/jobs/info/69ce984754f00230c6d00880?utm_campaign=1051&utm_source=git)** | Bolingbrook, IL | On Site | Apr 02 |
 | **[Port of Thunder Bay](https://www.portofthunderbay.ca)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ce981e366bb95ba550cd7f?utm_campaign=1051&utm_source=git)** | Thunder Bay, ON | On Site | Apr 02 |
 | **[US LBM](http://uslbm.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6996b5fcce78e77b4fdaed01?utm_campaign=1051&utm_source=git)** | East Haven, CT | On Site | Apr 02 |
@@ -77,6 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Business Ops](https://jobright.ai/jobs/info/69ce880b398fb071abf86150?utm_campaign=1051&utm_source=git)** | 100 Planters Rd, Sunnyvale, TX, 75182, US | On Site | Apr 02 |
 | **[Napollo Software Design](https://napollo.net)** | **[Sales And Marketing Intern - Part Time Paid Program](https://jobright.ai/jobs/info/69ce86f8cfdc6132f942930f?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 02 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6979300688e2b47213bd4f8c?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Apr 02 |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[Senior Sales Manager, Software](https://jobright.ai/jobs/info/69374f111c1c2161c13f2a98?utm_campaign=1051&utm_source=git)** | Princeton, NJ | Remote | Apr 02 |
+| **[KZ_K STUDIO](https://kzkstudionyc.com/)** | **[Sales and Operations Intern](https://jobright.ai/jobs/info/69cea32954f00230c6d01562?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 02 |
 | **[Influx](https://www.influxonline.co)** | **[Graduate Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69ce8517cdb525785fb98543?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 02 |
 | ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69ce84ad366bb95ba550c505?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Flex](https://getflex.com)** | **[VP of Account Management](https://jobright.ai/jobs/info/69794bb639f7f96cc6d1c35f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Apr 02 |
@@ -92,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Credit Analyst Intern (Summer)](https://jobright.ai/jobs/info/69b1e97d65de58104c7136ba?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Apr 02 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Business Development)](https://jobright.ai/jobs/info/69b185c8548f140066e75e36?utm_campaign=1051&utm_source=git)** | Niceville, FL | On Site | Apr 02 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Employee Benefits Inside Sales Intern](https://jobright.ai/jobs/info/6994874181476f6176ac4d0b?utm_campaign=1051&utm_source=git)** | Cranston, RI | On Site | Apr 02 |
+| **[National STEM Honor Society (NSTEM)](https://nstem.org)** | **[Partnerships and Sponsorships Intern](https://jobright.ai/jobs/info/69cea3a5cdb525785fb99a89?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 02 |
 | **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Sales Administration](https://jobright.ai/jobs/info/69b1c29865de58104c70bf44?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69cb842b466f1e133aacefa9?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Apr 02 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Sales Process Specialist](https://jobright.ai/jobs/info/69ce72d3cdb525785fb97867?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Hybrid | Apr 02 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DCPS](https://denvercps.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/69cdf6d0366bb95ba55064d6?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Apr 01 |
 | **[Alarm.com](http://www.alarm.com)** | **[International Sales Operations Intern](https://jobright.ai/jobs/info/69c481b0d5a1016e98dbc3fc?utm_campaign=1051&utm_source=git)** | Tysons, Virginia | On Site | Apr 01 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69cdf5f854f00230c6cf9ff7?utm_campaign=1051&utm_source=git)** | Rotterdam, NY | On Site | Apr 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69cdf5f3cdb525785fb9234f?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Apr 01 |
-| **[ATP Gov](https://atpgov.com/)** | **[ACCOUNT EXECUTIVE - ARMY](https://jobright.ai/jobs/info/69cdee93398fb071abf7e336?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 01 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Yuma, CO](https://jobright.ai/jobs/info/69cded42891d7b11cfcc1c0a?utm_campaign=1051&utm_source=git)** | Yuma, CO | On Site | Apr 01 |
-| ↳ | **[Retail Field Intern](https://jobright.ai/jobs/info/69cded39cfdc6132f94215ed?utm_campaign=1051&utm_source=git)** | Milan, TN | On Site | Apr 01 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69cdeae5cfdc6132f94211a7?utm_campaign=1051&utm_source=git)** | Winder, GA | On Site | Apr 01 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Programs and Deal Design - Deal Success Center Americas](https://jobright.ai/jobs/info/69cdeabb891d7b11cfcc17b9?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Remote | Apr 01 |
-| **[ActionLink](https://www.actionlink.com/)** | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69cde87f366bb95ba5504418?utm_campaign=1051&utm_source=git)** | Yonkers, NY | On Site | Apr 01 |
-| ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69cde85454f00230c6cf8149?utm_campaign=1051&utm_source=git)** | Paramus, NJ | On Site | Apr 01 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69cde851891d7b11cfcc16ca?utm_campaign=1051&utm_source=git)** | Clermont, FL | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
