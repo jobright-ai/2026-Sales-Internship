@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CORE Electric Cooperative](https://core.coop)** | **[Intern - Business and Community Development](https://jobright.ai/jobs/info/69cdbf7e891d7b11cfcbf933?utm_campaign=1051&utm_source=git)** | Sedalia, CO | On Site | Apr 01 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Programs and Deal Design - Deal Success Center Americas](https://jobright.ai/jobs/info/69cdbeac366bb95ba5502690?utm_campaign=1051&utm_source=git)** | Newtown Square, PA, US, 19073 | Remote | Apr 01 |
+| **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Sales Intern](https://jobright.ai/jobs/info/69cdbe0fcdb525785fb8e6ab?utm_campaign=1051&utm_source=git)** | San Antonio, TX, USA | On Site | Apr 01 |
 | **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/69cdb98c366bb95ba550201f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Apr 01 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Account Management Intern - Summer 2026](https://jobright.ai/jobs/info/69c1a0a679e36d3a847ea0c7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Sales Development Representative Internship, Summer 2026](https://jobright.ai/jobs/info/69cdb5e4cdb525785fb8dff5?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 01 |
@@ -66,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Sales Intern (SUMMER)](https://jobright.ai/jobs/info/69cda584366bb95ba55014ec?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Apr 01 |
 | **[Houston Rockets](http://rockets.com)** | **[Intern - Retail Operations (Summer)](https://jobright.ai/jobs/info/69cda570cfdc6132f941e227?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 01 |
 | **[MAHLE](https://www.mahle.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69cda31bcdb525785fb8d539?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI, US, 48335 | On Site | Apr 01 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern - Client Partnership Group](https://jobright.ai/jobs/info/69cda30a54f00230c6cf4ff3?utm_campaign=1051&utm_source=git)** | Dallas, TX, US | Hybrid | Apr 01 |
-| ↳ | **[Intern, Account Management](https://jobright.ai/jobs/info/69cda30a54f00230c6cf4fd7?utm_campaign=1051&utm_source=git)** | New York, NY, US | Hybrid | Apr 01 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Account Management](https://jobright.ai/jobs/info/69cda30a54f00230c6cf4fd7?utm_campaign=1051&utm_source=git)** | New York, NY, US | Hybrid | Apr 01 |
+| ↳ | **[Intern - Client Partnership Group](https://jobright.ai/jobs/info/69cda30a54f00230c6cf4ff3?utm_campaign=1051&utm_source=git)** | Dallas, TX, US | Hybrid | Apr 01 |
 | ↳ | **[Intern, Account Management](https://jobright.ai/jobs/info/69cda2fe366bb95ba5501439?utm_campaign=1051&utm_source=git)** | US-NY-New York | Hybrid | Apr 01 |
 | ↳ | **[Intern - Client Partnership Group](https://jobright.ai/jobs/info/69cda2fe366bb95ba550143d?utm_campaign=1051&utm_source=git)** | US-TX-Dallas | Hybrid | Apr 01 |
 | **[CORE Electric Cooperative](https://core.coop)** | **[Intern - Business and Community Development](https://jobright.ai/jobs/info/69cda2fdcfdc6132f941e142?utm_campaign=1051&utm_source=git)** | Sedalia, CO 80135, USA | On Site | Apr 01 |
@@ -75,6 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Savannah](https://jobright.ai/jobs/info/69cda238cdb525785fb8cf9c?utm_campaign=1051&utm_source=git)** | Savannah, GA, United States | On Site | Apr 01 |
 | ↳ | **[Management and Sales Intern - Wilmington](https://jobright.ai/jobs/info/69cda22d54f00230c6cf4a6b?utm_campaign=1051&utm_source=git)** | Wilmington, NC, United States | On Site | Apr 01 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Sales Reporting and Operations Intern](https://jobright.ai/jobs/info/69cda229cfdc6132f941db82?utm_campaign=1051&utm_source=git)** | Florida - Deerfield Beach | Hybrid | Apr 01 |
+| **[Messer Construction Co.](http://www.messer.com)** | **[Business Development Internship - Fall 2026](https://jobright.ai/jobs/info/69cdbf6d398fb071abf7bff0?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Apr 01 |
+| ↳ | **[Business Development Internship - Fall 2026](https://jobright.ai/jobs/info/69cdc0bdcdb525785fb8e7ab?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 01 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - Albany, NY](https://jobright.ai/jobs/info/69cd9fdf891d7b11cfcbe0b6?utm_campaign=1051&utm_source=git)** | Albany, NY | On Site | Apr 01 |
 | **[Ampersand Consulting](http://one12th.io/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69cd9eaacdb525785fb8cec9?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Apr 01 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Client Partnership Group](https://jobright.ai/jobs/info/69cd9e93cdb525785fb8ceb9?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Apr 01 |
@@ -84,8 +89,7 @@ For a complete list, click the following sortable link below:
 | **[The Colie Group](https://www.thedreammakersteam.com)** | **[Business Intern](https://jobright.ai/jobs/info/69cd9ae7891d7b11cfcbde65?utm_campaign=1051&utm_source=git)** | Columbia, South Carolina Metropolitan Area | On Site | Apr 01 |
 | **[IBM](http://www.ibm.com)** | **[Digital Seller Intern– Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69cd9a5b54f00230c6cf4878?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | On Site | Apr 01 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern, Account Management](https://jobright.ai/jobs/info/69cd9a02cdb525785fb8cd0a?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
-| **[IBM](http://www.ibm.com)** | **[Digital Seller Intern– Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69cd9802891d7b11cfcbde14?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 01 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Business Development Internship](https://jobright.ai/jobs/info/69cd97d1891d7b11cfcbddda?utm_campaign=1051&utm_source=git)** | Aventura, FL | On Site | Apr 01 |
+| **[CRIF](http://www.crif.com)** | **[Sales & Marketing Operations Analyst](https://jobright.ai/jobs/info/69cdc729891d7b11cfcbfb25?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Apr 01 |
 | **[Equinix](http://www.equinix.com)** | **[Global Technical Sales Intern](https://jobright.ai/jobs/info/69cd930c891d7b11cfcbdbef?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69cd8eeccfdc6132f941d205?utm_campaign=1051&utm_source=git)** | CS-Bryan Area | On Site | Apr 01 |
 | **[Good Apple](https://goodapple.com/)** | **[Good Apple Summer Internship_2026](https://jobright.ai/jobs/info/69cd8e91cdb525785fb8c563?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 01 |
@@ -105,6 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intern](https://jobright.ai/jobs/info/69cdb55b366bb95ba5501e44?utm_campaign=1051&utm_source=git)** | Blacksburg, VA | On Site | Apr 01 |
 | **[UDR - Opening Doors to your future](http://www.udr.com/)** | **[Intern- Community Operations](https://jobright.ai/jobs/info/69cd84d654f00230c6cf21b1?utm_campaign=1051&utm_source=git)** | Alexandria, Virginia, United States | On Site | Apr 01 |
 | ↳ | **[Intern - Operations](https://jobright.ai/jobs/info/69cd84c6366bb95ba54fdb23?utm_campaign=1051&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Apr 01 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Business Development- REMOTE Intern](https://jobright.ai/jobs/info/69cdc0becdb525785fb8e7ac?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Apr 01 |
 | **[Equinix](http://www.equinix.com)** | **[Global Technical Sales Intern](https://jobright.ai/jobs/info/69cda297398fb071abf7aabd?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Apr 01 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Sales Associate, Data Analytics Intern](https://jobright.ai/jobs/info/69cd808d54f00230c6cf06a0?utm_campaign=1051&utm_source=git)** | Orlando, FL | Remote | Apr 01 |
 | **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative Intern Sales - USA](https://jobright.ai/jobs/info/69cd7fce366bb95ba54fc887?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Intern](https://jobright.ai/jobs/info/69cd54de54f00230c6cee672?utm_campaign=1051&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
 | ↳ | **[Sales Operations Intern](https://jobright.ai/jobs/info/69cd54da398fb071abf7425a?utm_campaign=1051&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
 | ↳ | **[Outside Sales Intern](https://jobright.ai/jobs/info/69cd54da398fb071abf74259?utm_campaign=1051&utm_source=git)** | Irving, TX, US | On Site | Apr 01 |
-| **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[Sales/Real Estate Intern](https://jobright.ai/jobs/info/69cd54d5cfdc6132f9417a5a?utm_campaign=1051&utm_source=git)** | Boca Raton, Florida, United States | On Site | Apr 01 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69cda9fb891d7b11cfcbe873?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Apr 01 |
-| **[Embark Agency](https://www.theembarkagency.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69cd9b97398fb071abf7a65e?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Apr 01 |
-| **[Signature Solar](https://signaturesolar.com)** | **[Outside Sales Intern](https://jobright.ai/jobs/info/69cda89c54f00230c6cf518e?utm_campaign=1051&utm_source=git)** | Sulphur Springs, TX | On Site | Apr 01 |
-| **[Rubrik](http://rubrik.com)** | **[Customer Success Engineering Internship, Summer 2026](https://jobright.ai/jobs/info/6978253588e2b47213bc25c8?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
