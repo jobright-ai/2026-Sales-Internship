@@ -57,6 +57,28 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allied Universal](https://www.aus.com/)** | **[Event Services Client Account Manager](https://jobright.ai/jobs/info/69cf457dcfdc6132f94319f4?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Apr 02 |
+| **[AFL](http://www.AFLglobal.com)** | **[Client Success Intern- Summer 2026](https://jobright.ai/jobs/info/69cf4569398fb071abf8e573?utm_campaign=1051&utm_source=git)** | Duncan, SC | Hybrid | Apr 02 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3faacfdc6132f9431852?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3faacfdc6132f9431851?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3faacfdc6132f9431850?utm_campaign=1051&utm_source=git)** | Kansas City, KS | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3ea6cdb525785fba0a50?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3ea0cdb525785fba0a3a?utm_campaign=1051&utm_source=git)** | New Brunswick, NJ | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3ea0cdb525785fba0a3b?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3ea0cdb525785fba0a3c?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3e26398fb071abf8e3ae?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3e26398fb071abf8e3b0?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3e21398fb071abf8e3a6?utm_campaign=1051&utm_source=git)** | Corona, CA | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3e21398fb071abf8e3a5?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Apr 02 |
+| **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[Senior Living Sales Associate (Intern)](https://jobright.ai/jobs/info/69cf3db7366bb95ba5514a8f?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3dac891d7b11cfcd1e0f?utm_campaign=1051&utm_source=git)** | Smithtown, NY | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3dac891d7b11cfcd1e0e?utm_campaign=1051&utm_source=git)** | Downey, CA | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3dac891d7b11cfcd1e0b?utm_campaign=1051&utm_source=git)** | Orange County, CA | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3dac891d7b11cfcd1e0c?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3da7366bb95ba5514a71?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3d7754f00230c6d084da?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3d7754f00230c6d084db?utm_campaign=1051&utm_source=git)** | Johnstown, CO | On Site | Apr 02 |
+| ↳ | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69cf3d7754f00230c6d084d9?utm_campaign=1051&utm_source=git)** | Marmora, NJ | On Site | Apr 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Corporate Business Development](https://jobright.ai/jobs/info/69cf34e3366bb95ba5513f5f?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Apr 02 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69cf2f09cdb525785fb9f7d7?utm_campaign=1051&utm_source=git)** | Greenburgh, NY | On Site | Apr 02 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69cf2f0554f00230c6d073c7?utm_campaign=1051&utm_source=git)** | Odenton, MD | On Site | Apr 02 |
@@ -117,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Field Sales Representative](https://jobright.ai/jobs/info/69ceea6e891d7b11cfcce452?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
 | **[Orley Associates](https://orleyassociatesnola.com)** | **[Lead Sales Representative Intern](https://jobright.ai/jobs/info/69ceea5e891d7b11cfcce441?utm_campaign=1051&utm_source=git)** | New Orleans, LA | Hybrid | Apr 02 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Planning & Allocation](https://jobright.ai/jobs/info/69cee71f398fb071abf8a979?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 02 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Partnership Marketing Specialist](https://jobright.ai/jobs/info/69cf0667398fb071abf8bb02?utm_campaign=1051&utm_source=git)** | Corona, CA | On Site | Apr 02 |
-| ↳ | **[Internship -Gaming Partnerships](https://jobright.ai/jobs/info/69cf068a54f00230c6d05d96?utm_campaign=1051&utm_source=git)** | Corona, CA | On Site | Apr 02 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship -Gaming Partnerships](https://jobright.ai/jobs/info/69cf068a54f00230c6d05d96?utm_campaign=1051&utm_source=git)** | Corona, CA | On Site | Apr 02 |
+| ↳ | **[Internship - Partnership Marketing Specialist](https://jobright.ai/jobs/info/69cf0667398fb071abf8bb02?utm_campaign=1051&utm_source=git)** | Corona, CA | On Site | Apr 02 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Wholesale](https://jobright.ai/jobs/info/69cee71554f00230c6d04bcd?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | ↳ | **[Summer Internship 2026 - Buying Intern](https://jobright.ai/jobs/info/69cee712891d7b11cfcce32d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[Inference.ai](https://www.inference.ai/)** | **[AI Partnerships & Growth Intern](https://jobright.ai/jobs/info/69cee707cfdc6132f942dc87?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Apr 02 |
@@ -135,26 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Lending Transaction Associate - Commercial](https://jobright.ai/jobs/info/69cedcc3398fb071abf89ec9?utm_campaign=1051&utm_source=git)** | United, PA | Hybrid | Apr 02 |
 | ↳ | **[Lending Transaction Associate - Commercial](https://jobright.ai/jobs/info/69cedca2398fb071abf89e50?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 02 |
 | **[Empower Your Business](eybcoach.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/69ceda9b398fb071abf89d85?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 02 |
-| **[FCX Performance](http://fcxperformance.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69ceda71cdb525785fb9c3f7?utm_campaign=1051&utm_source=git)** | Elk Grove, IL | On Site | Apr 02 |
-| **[PNC](http://www.pnc.com)** | **[Lending Transaction Associate - Commercial](https://jobright.ai/jobs/info/69ceda56cdb525785fb9c3ca?utm_campaign=1051&utm_source=git)** | Colorado, United States | Hybrid | Apr 02 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Business Ops](https://jobright.ai/jobs/info/69ced977891d7b11cfccd743?utm_campaign=1051&utm_source=git)** | Sunnyvale, TX | On Site | Apr 02 |
-| **[Cheil USA](https://us.cheil.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69ced957cfdc6132f942d164?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Apr 02 |
-| **[Hyland](https://www.hyland.com/)** | **[Intern, Revenue Operations](https://jobright.ai/jobs/info/69ced84b54f00230c6d03e87?utm_campaign=1051&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Apr 02 |
-| **[SouthernCarlson](http://www.southerncarlson.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69ced847891d7b11cfccd5ec?utm_campaign=1051&utm_source=git)** | Tucker, GA, USA | On Site | Apr 02 |
-| **[Hyland](https://www.hyland.com/)** | **[Intern, Revenue Operations](https://jobright.ai/jobs/info/69ced7f0366bb95ba5510214?utm_campaign=1051&utm_source=git)** | Remote - U.S. | Remote | Apr 02 |
-| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Sales & Operations Intern](https://jobright.ai/jobs/info/69ced7d8366bb95ba55101b6?utm_campaign=1051&utm_source=git)** | Cedar Rapids,IA,US | On Site | Apr 02 |
-| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Commercial Operations Internship, LATAM](https://jobright.ai/jobs/info/69ced764398fb071abf89781?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 02 |
-| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69cef2eb54f00230c6d04f77?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | Apr 02 |
-| **[Greenlight](https://greenlight.com/)** | **[Sales Enablement & Operations Intern](https://jobright.ai/jobs/info/69ced30b54f00230c6d036f4?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Apr 02 |
-| **[Timestamp](https://beacons.ai/time____stamp)** | **[Business Development Intern (30-Day Trial)](https://jobright.ai/jobs/info/69ced2a6cdb525785fb9bb4f?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | Apr 02 |
-| **[UDR - Opening Doors to your future](http://www.udr.com/)** | **[Intern- Community Operations](https://jobright.ai/jobs/info/69ced26b54f00230c6d036a7?utm_campaign=1051&utm_source=git)** | Alexandria, VA | On Site | Apr 02 |
-| ↳ | **[Intern- Community Operations](https://jobright.ai/jobs/info/69ced25f366bb95ba550fb4d?utm_campaign=1051&utm_source=git)** | Alexandria, VA | On Site | Apr 02 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Inside Sales Department (Calgary Office)](https://jobright.ai/jobs/info/69ceee86366bb95ba5511205?utm_campaign=1051&utm_source=git)** | Calgary, AB | Hybrid | Apr 02 |
-| ↳ | **[Fall Intern 2026 - Sales Enablement Department](https://jobright.ai/jobs/info/69ceee4754f00230c6d04e43?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 02 |
-| ↳ | **[Fall Intern 2026 - Inside Sales Department (Vancouver Office)](https://jobright.ai/jobs/info/69ceee66cfdc6132f942e001?utm_campaign=1051&utm_source=git)** | Vancouver, BC | Hybrid | Apr 02 |
-| ↳ | **[Fall Intern 2026 - Inside Sales Department (Toronto Office)](https://jobright.ai/jobs/info/69ceee6acfdc6132f942e004?utm_campaign=1051&utm_source=git)** | Toronto, ON | Hybrid | Apr 02 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69cece5fcdb525785fb9b892?utm_campaign=1051&utm_source=git)** | Kansas, United States | Remote | Apr 02 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69cece5fcdb525785fb9b88f?utm_campaign=1051&utm_source=git)** | Minnesota, United States | Remote | Apr 02 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69cece5fcdb525785fb9b890?utm_campaign=1051&utm_source=git)** | Connecticut, United States | Remote | Apr 02 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69cece56cdb525785fb9b870?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
