@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Actian](http://www.actian.com)** | **[Customer Success AI Insights Intern](https://jobright.ai/jobs/info/69d075e6891d7b11cfcdb92a?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 03 |
+| **[ActionLink](https://www.actionlink.com/)** | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d075e4366bb95ba551e816?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 03 |
+| **[Actian](http://www.actian.com)** | **[AI Productivity Customer Success Intern](https://jobright.ai/jobs/info/69d074dacdb525785fbaa7ae?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 03 |
+| **[ActionLink](https://www.actionlink.com/)** | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d07365cdb525785fbaa789?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Apr 03 |
+| ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d07202cdb525785fbaa698?utm_campaign=1051&utm_source=git)** | Rancho Cordova, CA | On Site | Apr 03 |
+| ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d071fa891d7b11cfcdb7cc?utm_campaign=1051&utm_source=git)** | Roseville, CA | On Site | Apr 03 |
 | **[AIRE](https://www.linkedin.com/company/110537952)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69d06a460b098b7a6707932c?utm_campaign=1051&utm_source=git)** | Toronto, ON | Remote | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Sales Analyst (Business Development)](https://jobright.ai/jobs/info/69d068e6366bb95ba551e19e?utm_campaign=1051&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 | **[Shaw’s and Star Market](https://www.shaws.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/69d065260b098b7a670791b4?utm_campaign=1051&utm_source=git)** | South Burlington, VT | On Site | Apr 03 |
@@ -106,55 +112,49 @@ For a complete list, click the following sortable link below:
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Retail Management Internship](https://jobright.ai/jobs/info/69d068d754f00230c6d11c3b?utm_campaign=1051&utm_source=git)** | 570 SHELBURNE RD, BURLINGTON, VT, 05401, US | On Site | Apr 03 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Saint-Louis Showroom Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69d0435e891d7b11cfcda122?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[PNC](http://www.pnc.com)** | **[Sales Leader I - Payments - Merchant Services Business Banking](https://jobright.ai/jobs/info/69d042bf0b098b7a67077e49?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Apr 03 |
-| ↳ | **[Sales Leader I - Payments - Merchant Services Business Banking](https://jobright.ai/jobs/info/69d0414dcfdc6132f9439cc1?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 | ↳ | **[Sales Leader I - Payments - Merchant Services Business Banking](https://jobright.ai/jobs/info/69d0414dcfdc6132f9439cc0?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
+| ↳ | **[Sales Leader I - Payments - Merchant Services Business Banking](https://jobright.ai/jobs/info/69d0414dcfdc6132f9439cc1?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 | **[Actian](http://www.actian.com)** | **[Customer Success AI Insights Intern](https://jobright.ai/jobs/info/69d04093cdb525785fba8dff?utm_campaign=1051&utm_source=git)** | US-Remote | Remote | Apr 03 |
 | **[Celonis](https://www.celonis.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/69a68238d706a731db3871ce?utm_campaign=1051&utm_source=git)** | New York, US, New York | On Site | Apr 03 |
 | **[PNC](http://www.pnc.com)** | **[Sales Leader I - Payments - Merchant Services Business Banking](https://jobright.ai/jobs/info/69d0404b54f00230c6d10967?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 03 |
 | ↳ | **[Sales Leader I - Payments - Merchant Services Business Banking](https://jobright.ai/jobs/info/69d0404a891d7b11cfcda04a?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 03 |
 | ↳ | **[Sales Leader I - Payments - Merchant Services Business Banking](https://jobright.ai/jobs/info/69d04045891d7b11cfcda045?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | ↳ | **[Sales Leader I - Payments - Merchant Services Business Banking](https://jobright.ai/jobs/info/69d0402fcdb525785fba8db7?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Apr 03 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d078b1cdb525785fbaa972?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Category Management Analyst](https://jobright.ai/jobs/info/69d03d1ecfdc6132f9439b85?utm_campaign=1051&utm_source=git)** | Corona, CA | On Site | Apr 03 |
-| **[GSB Sales](GSBSummerSales.com)** | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c33891d7b11cfcd9e9d?utm_campaign=1051&utm_source=git)** | Flint, MI | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c33891d7b11cfcd9e9a?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | Apr 03 |
+| **[GSB Sales](GSBSummerSales.com)** | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c33891d7b11cfcd9e95?utm_campaign=1051&utm_source=git)** | Fountainebleau, FL | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c33891d7b11cfcd9e94?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 03 |
+| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c33891d7b11cfcd9e9a?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c33891d7b11cfcd9e9c?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c33891d7b11cfcd9e95?utm_campaign=1051&utm_source=git)** | Fountainebleau, FL | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c32891d7b11cfcd9e8a?utm_campaign=1051&utm_source=git)** | Palm Beach, FL | On Site | Apr 03 |
+| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c33891d7b11cfcd9e9d?utm_campaign=1051&utm_source=git)** | Flint, MI | On Site | Apr 03 |
+| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c32891d7b11cfcd9e92?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Apr 03 |
+| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c32891d7b11cfcd9e8d?utm_campaign=1051&utm_source=git)** | Daytona Beach, FL | On Site | Apr 03 |
+| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c32891d7b11cfcd9e8b?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c32891d7b11cfcd9e89?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Apr 03 |
+| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c32891d7b11cfcd9e8f?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Apr 03 |
+| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c32891d7b11cfcd9e8a?utm_campaign=1051&utm_source=git)** | Palm Beach, FL | On Site | Apr 03 |
+| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c32891d7b11cfcd9e91?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c32891d7b11cfcd9e8e?utm_campaign=1051&utm_source=git)** | Joliet, IL | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c32891d7b11cfcd9e90?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c32891d7b11cfcd9e8b?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c32891d7b11cfcd9e8f?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c32891d7b11cfcd9e8d?utm_campaign=1051&utm_source=git)** | Daytona Beach, FL | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c32891d7b11cfcd9e92?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c32891d7b11cfcd9e91?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c31891d7b11cfcd9e87?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c31891d7b11cfcd9e85?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
+| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c31891d7b11cfcd9e87?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c31891d7b11cfcd9e88?utm_campaign=1051&utm_source=git)** | Wilson, NC | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c31891d7b11cfcd9e86?utm_campaign=1051&utm_source=git)** | Olathe, KS | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2fcdb525785fba8c1e?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2fcdb525785fba8c1d?utm_campaign=1051&utm_source=git)** | Eugene, OR | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2fcdb525785fba8c20?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2ecdb525785fba8c12?utm_campaign=1051&utm_source=git)** | Santa Clarita, CA | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2ecdb525785fba8c11?utm_campaign=1051&utm_source=git)** | Norwalk, CA | On Site | Apr 03 |
+| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2fcdb525785fba8c1d?utm_campaign=1051&utm_source=git)** | Eugene, OR | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2ecdb525785fba8c0f?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2ecdb525785fba8c0b?utm_campaign=1051&utm_source=git)** | Vacaville, CA | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2ecdb525785fba8c15?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2ecdb525785fba8c16?utm_campaign=1051&utm_source=git)** | Yonkers, NY | On Site | Apr 03 |
+| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2ecdb525785fba8c12?utm_campaign=1051&utm_source=git)** | Santa Clarita, CA | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2ecdb525785fba8c14?utm_campaign=1051&utm_source=git)** | Port St Lucie, FL | On Site | Apr 03 |
+| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2ecdb525785fba8c0b?utm_campaign=1051&utm_source=git)** | Vacaville, CA | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2ecdb525785fba8c0d?utm_campaign=1051&utm_source=git)** | Odessa, TX | On Site | Apr 03 |
+| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2ecdb525785fba8c11?utm_campaign=1051&utm_source=git)** | Norwalk, CA | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2dcdb525785fba8c07?utm_campaign=1051&utm_source=git)** | Hollywood, FL | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c2dcdb525785fba8c08?utm_campaign=1051&utm_source=git)** | Deerfield, NY | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c27891d7b11cfcd9e6f?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c26891d7b11cfcd9e59?utm_campaign=1051&utm_source=git)** | Coral Springs, FL | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c26891d7b11cfcd9e57?utm_campaign=1051&utm_source=git)** | Ocoee, FL | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c26891d7b11cfcd9e5a?utm_campaign=1051&utm_source=git)** | Arlington, TX | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c26891d7b11cfcd9e5e?utm_campaign=1051&utm_source=git)** | Newark, NJ | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c26891d7b11cfcd9e63?utm_campaign=1051&utm_source=git)** | Winter Park, FL | On Site | Apr 03 |
 | ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c26891d7b11cfcd9e5f?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c25cdb525785fba8be5?utm_campaign=1051&utm_source=git)** | Davie, FL | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c25891d7b11cfcd9e53?utm_campaign=1051&utm_source=git)** | St Augustine, FL | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c25891d7b11cfcd9e50?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Apr 03 |
-| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c25891d7b11cfcd9e4f?utm_campaign=1051&utm_source=git)** | Hoboken, NJ | On Site | Apr 03 |
+| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c26891d7b11cfcd9e5a?utm_campaign=1051&utm_source=git)** | Arlington, TX | On Site | Apr 03 |
+| ↳ | **[GSB Sales Summer Internship](https://jobright.ai/jobs/info/69d03c26891d7b11cfcd9e63?utm_campaign=1051&utm_source=git)** | Winter Park, FL | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
