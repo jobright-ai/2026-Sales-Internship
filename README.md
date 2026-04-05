@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uber](http://www.uber.com)** | **[2026 Business Development Representative Intern - New Verticals U4B - US](https://jobright.ai/jobs/info/69d1fc0acfdc6132f944813c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
+| ↳ | **[2026 Strategic Business Development Representative Intern, US](https://jobright.ai/jobs/info/69d1fc050b098b7a6708606b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | **[ActionLink](https://www.actionlink.com/)** | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d1c4c254f00230c6d1c94e?utm_campaign=1051&utm_source=git)** | Levittown, PA | On Site | Apr 04 |
 | ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d1c4a1366bb95ba5528e03?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Apr 04 |
 | ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d1c49e366bb95ba5528dfd?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Apr 04 |
@@ -71,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d193dc54f00230c6d1ab3b?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Apr 04 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d1938c0b098b7a6708216d?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Apr 04 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69d19340366bb95ba5527055?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Apr 04 |
-| ↳ | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d19340366bb95ba5527054?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 04 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69d19340366bb95ba5527053?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 04 |
+| ↳ | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d19340366bb95ba5527054?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 04 |
 | **[NorthScale Group](https://www.northscalegroup.com)** | **[SDR Internship: Vespermount](https://jobright.ai/jobs/info/69d1a5f654f00230c6d1b41e?utm_campaign=1051&utm_source=git)** | Canada | Remote | Apr 04 |
 | **[Weidner Apartment Homes](https://www.weidner.com/)** | **[Intern Office](https://jobright.ai/jobs/info/69d17faf0b098b7a67081f99?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Apr 04 |
 | **[Uber](http://www.uber.com)** | **[2026 Business Development Representative Intern - New Verticals U4B - US](https://jobright.ai/jobs/info/69d17b71366bb95ba5526ddf?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Apr 04 |
@@ -127,8 +129,7 @@ For a complete list, click the following sortable link below:
 | **[CORE Foodservice](https://coregroupsales.com)** | **[University of Missouri CORE Foodservice Internship Program – Summer 2026](https://jobright.ai/jobs/info/6999261881476f6176b1aad0?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | On Site | Apr 04 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/69d113c8cfdc6132f94418cb?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Apr 04 |
 | ↳ | **[Management and Sales Summer Internship 2026 (Spokane)](https://jobright.ai/jobs/info/69d113bf54f00230c6d18476?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Apr 04 |
-| **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d1107b366bb95ba5524732?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Apr 04 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/699a7bcee0bddb6acac990f9?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Apr 04 |
+| ↳ | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/699a7bcee0bddb6acac990f9?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Apr 04 |
 | **[Teleflex](http://www.teleflex.com)** | **[Sr. Sales Representative, Coronary, Fresno, CA](https://jobright.ai/jobs/info/697be3200b88cc7d6422c6c9?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Apr 04 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Cascade)](https://jobright.ai/jobs/info/6998f22de0bddb6acac7df11?utm_campaign=1051&utm_source=git)** | Eugene, OR | On Site | Apr 04 |
 | ↳ | **[Management and Sales Intern](https://jobright.ai/jobs/info/69227e9b7795cd460c835dd4?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Apr 04 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Sales Intern](https://jobright.ai/jobs/info/69d0f34c54f00230c6d1796e?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Apr 04 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69d0efd354f00230c6d1787e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 04 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Micro-Internship, University of Tennessee Student Athlete](https://jobright.ai/jobs/info/6997cbdfe0bddb6acac692a7?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Business Relationship Support Associate - GPL Dedicated CSO 3](https://jobright.ai/jobs/info/69d0e61e366bb95ba5523621?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Apr 04 |
-| ↳ | **[Business Relationship Support Associate - GPL Dedicated CSO 3](https://jobright.ai/jobs/info/69d0e61e366bb95ba5523622?utm_campaign=1051&utm_source=git)** | El Monte, CA | Hybrid | Apr 04 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Business Relationship Support Associate - GPL Dedicated CSO 3](https://jobright.ai/jobs/info/69d0e61e366bb95ba5523622?utm_campaign=1051&utm_source=git)** | El Monte, CA | Hybrid | Apr 04 |
+| ↳ | **[Business Relationship Support Associate - GPL Dedicated CSO 3](https://jobright.ai/jobs/info/69d0e61e366bb95ba5523621?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Apr 04 |
 | ↳ | **[Business Relationship Support Associate - GPL Dedicated CSO 3](https://jobright.ai/jobs/info/69d0e6100b098b7a6707e72b?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | Hybrid | Apr 04 |
 | **[ProPharma](http://www.propharmagroup.com/)** | **[Intern: Sales Enablement & Research (Raleigh-based)](https://jobright.ai/jobs/info/69b4be0506c1ba00c546331e?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Apr 04 |
 | **[Avanade](http://www.avanade.com)** | **[Business Development Executive - Healthcare](https://jobright.ai/jobs/info/699ff71f81476f6176b9e2a1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller Live Analytics Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS)](https://jobright.ai/jobs/info/694349c2dd382f5f566949d3?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 04 |
-| **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Sales Intern, North/East Bay, CA - Summer 2026](https://jobright.ai/jobs/info/697b3df51423772304eb64fe?utm_campaign=1051&utm_source=git)** | Napa, CA | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
