@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BioSpace](http://www.biospace.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69d1e8ca891d7b11cfce7457?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | On Site | Apr 04 |
 | **[ActionLink](https://www.actionlink.com/)** | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d1c4c254f00230c6d1c94e?utm_campaign=1051&utm_source=git)** | Levittown, PA | On Site | Apr 04 |
 | ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d1c4a1366bb95ba5528e03?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Apr 04 |
 | ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d1c49e366bb95ba5528dfd?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Apr 04 |
@@ -72,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d193dc54f00230c6d1ab3b?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Apr 04 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d1938c0b098b7a6708216d?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Apr 04 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69d19340366bb95ba5527055?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Apr 04 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69d19340366bb95ba5527053?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 04 |
 | ↳ | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d19340366bb95ba5527054?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 04 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69d19340366bb95ba5527053?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 04 |
 | **[NorthScale Group](https://www.northscalegroup.com)** | **[SDR Internship: Vespermount](https://jobright.ai/jobs/info/69d1a5f654f00230c6d1b41e?utm_campaign=1051&utm_source=git)** | Canada | Remote | Apr 04 |
 | **[Weidner Apartment Homes](https://www.weidner.com/)** | **[Intern Office](https://jobright.ai/jobs/info/69d17faf0b098b7a67081f99?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Apr 04 |
 | **[Uber](http://www.uber.com)** | **[2026 Business Development Representative Intern - New Verticals U4B - US](https://jobright.ai/jobs/info/69d17b71366bb95ba5526ddf?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Apr 04 |
@@ -94,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Sales Intern - Nashville, TN](https://jobright.ai/jobs/info/6998d8e8ce78e77b4fdd6927?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 04 |
 | ↳ | **[Sales Intern - Sarasota, FL](https://jobright.ai/jobs/info/6998c213ce78e77b4fdd54c9?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Apr 04 |
 | ↳ | **[Sales Intern - Orlando, FL](https://jobright.ai/jobs/info/6998cdae81476f6176b137a3?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
-| **[CN](http://www.cn.ca)** | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/69d1e4f3891d7b11cfce70d3?utm_campaign=1051&utm_source=git)** | Brampton, ON | On Site | Apr 04 |
 | **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Account Management, New Business](https://jobright.ai/jobs/info/69979e8381476f6176afb9bd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 04 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697badc71136d179eeef335a?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Apr 04 |
 | **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/69990f47e0bddb6acac805ce?utm_campaign=1051&utm_source=git)** | Long Beach, CA | Hybrid | Apr 04 |
@@ -147,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[Territory Sales Summer Intern - Dallas, TX](https://jobright.ai/jobs/info/69b4d9b506c1ba00c546614e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 04 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69d0f496366bb95ba5523ce6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69d0f49554f00230c6d179b0?utm_campaign=1051&utm_source=git)** | Lincoln, RI | On Site | Apr 04 |
-| ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69d0f491891d7b11cfce0e9f?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Apr 04 |
 | ↳ | **[Relationship Development Sales Intern](https://jobright.ai/jobs/info/69d0f491891d7b11cfce0ea2?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Apr 04 |
+| ↳ | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69d0f491891d7b11cfce0e9f?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Apr 04 |
 | **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Sales Intern](https://jobright.ai/jobs/info/69d0f34c54f00230c6d1796e?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Apr 04 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69d0efd354f00230c6d1787e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 04 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Micro-Internship, University of Tennessee Student Athlete](https://jobright.ai/jobs/info/6997cbdfe0bddb6acac692a7?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Relationship Support Associate - GPL Dedicated CSO 3](https://jobright.ai/jobs/info/69d0e6100b098b7a6707e72b?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | Hybrid | Apr 04 |
 | **[ProPharma](http://www.propharmagroup.com/)** | **[Intern: Sales Enablement & Research (Raleigh-based)](https://jobright.ai/jobs/info/69b4be0506c1ba00c546331e?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Apr 04 |
 | **[Avanade](http://www.avanade.com)** | **[Business Development Executive - Healthcare](https://jobright.ai/jobs/info/699ff71f81476f6176b9e2a1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
+| **[TikTok](https://www.tiktok.com)** | **[Seller Live Analytics Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS)](https://jobright.ai/jobs/info/694349c2dd382f5f566949d3?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 04 |
+| **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Sales Intern, North/East Bay, CA - Summer 2026](https://jobright.ai/jobs/info/697b3df51423772304eb64fe?utm_campaign=1051&utm_source=git)** | Napa, CA | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
