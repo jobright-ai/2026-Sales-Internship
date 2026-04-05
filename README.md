@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Twin Cities)](https://jobright.ai/jobs/info/69b6a6f956973837413be66e?utm_campaign=1051&utm_source=git)** | Burnsville, MN | On Site | Apr 05 |
+| **[Flex](https://getflex.com)** | **[Senior Director, New Verticals Sales](https://jobright.ai/jobs/info/690bcc8c4a1b456627b1306f?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 05 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/695c3ab222c9dc0d3d54195c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 05 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697dac95ce48107c0541fb1f?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Apr 05 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25332cfdc6132f944a682?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69d2532f891d7b11cfcea440?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d2532e891d7b11cfcea43d?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Apr 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25327366bb95ba552d578?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25326366bb95ba552d577?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 05 |
 | ↳ | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/69d25326366bb95ba552d574?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Apr 05 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25326366bb95ba552d577?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 05 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25327366bb95ba552d578?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25326366bb95ba552d575?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d2531f0b098b7a670884fa?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69d2531754f00230c6d20ffe?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Apr 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Tri Cities)](https://jobright.ai/jobs/info/68edcb876335d3323612bcd8?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Apr 04 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69b48d6f5697383741397476?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 04 |
 | **[Schulte Hospitality Group](http://schultehospitality.com)** | **[Internship- Sales & Catering Coordinator](https://jobright.ai/jobs/info/69d0ff0954f00230c6d17d42?utm_campaign=1051&utm_source=git)** | Jackson, WY | On Site | Apr 04 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d126e8891d7b11cfce2231?utm_campaign=1051&utm_source=git)** | Iowa City, Iowa | On Site | Apr 04 |
-| **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[Territory Sales Summer Intern - Dallas, TX](https://jobright.ai/jobs/info/69b4d9b506c1ba00c546614e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
