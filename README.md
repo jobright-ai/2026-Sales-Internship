@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69d32a2bcfdc6132f944e6a3?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 05 |
+| **[Southwestern Family of Companies](http://southwestern.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d328b0366bb95ba55314c4?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 05 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Internship - Pipeline - Central Indiana Division](https://jobright.ai/jobs/info/69d31bca0b098b7a6708be82?utm_campaign=1051&utm_source=git)** | Indiana, United States | On Site | Apr 05 |
 | **[PropyLaw](www.propylaw.com)** | **[Business Intern](https://jobright.ai/jobs/info/69d3090e54f00230c6d246be?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Apr 05 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[DPS - IT - College IT Client Success Intern (Unpaid) - 1570](https://jobright.ai/jobs/info/69d304c7366bb95ba5530b13?utm_campaign=1051&utm_source=git)** | AUSTIN HQ (MAIN)5805 N LAMAR BLVD | Hybrid | Apr 05 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/69b58b093b74eb1e2c8355d8?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Apr 05 |
 | **[Globe Life American Income Division: Surace Smith & Partners Organization](https://ssbendurehartwig.com)** | **[Sales Intern - SPRING OR SUMMER](https://jobright.ai/jobs/info/699fb35fce78e77b4fe5980c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 05 |
 | **[PNC](http://www.pnc.com)** | **[Supervising Mortgage Loan Officer](https://jobright.ai/jobs/info/69d28340891d7b11cfceb0c5?utm_campaign=1051&utm_source=git)** | Turlock, CA | On Site | Apr 05 |
-| ↳ | **[Mortgage Loan Officer](https://jobright.ai/jobs/info/69d28340891d7b11cfceb0c6?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 05 |
 | **[Fifth Avenue Co.](https://www.fifthavenuegrp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d2833e366bb95ba552e293?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 05 |
 | **[PNC](http://www.pnc.com)** | **[Supervising Mortgage Loan Officer](https://jobright.ai/jobs/info/69d28324cfdc6132f944b406?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | Apr 05 |
 | ↳ | **[Supervising Mortgage Loan Officer](https://jobright.ai/jobs/info/69d283230b098b7a67089268?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 05 |
@@ -88,10 +89,10 @@ For a complete list, click the following sortable link below:
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25332cfdc6132f944a682?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69d2532f891d7b11cfcea440?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d2532e891d7b11cfcea43d?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Apr 05 |
-| ↳ | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/69d25326366bb95ba552d574?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Apr 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25326366bb95ba552d577?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25327366bb95ba552d578?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25326366bb95ba552d575?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Apr 05 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25326366bb95ba552d577?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 05 |
+| ↳ | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/69d25326366bb95ba552d574?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d2531f0b098b7a670884fa?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69d2531754f00230c6d20ffe?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Apr 05 |
 | ↳ | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25312cdb525785fbb9321?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 05 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d1c4a1366bb95ba5528e03?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Apr 04 |
 | ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d1c49e366bb95ba5528dfd?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Apr 04 |
 | ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d1c495366bb95ba5528dfc?utm_campaign=1051&utm_source=git)** | Pembroke Pines, FL | On Site | Apr 04 |
-| **[CN](http://www.cn.ca)** | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/69d31950891d7b11cfcedd50?utm_campaign=1051&utm_source=git)** | Brampton, ON | On Site | Apr 04 |
 | **[Intramotev](https://www.intramotev.com)** | **[MBA Commercial Intern (Summer 2026) - Department of War / Defense (DoW/DoD)](https://jobright.ai/jobs/info/69d1b132891d7b11cfce4a61?utm_campaign=1051&utm_source=git)** | St. Louis, Missouri, United States | Hybrid | Apr 04 |
 | **[Mills Automotive Group](https://www.millsautogroup.com/)** | **[Business Development Coordinator](https://jobright.ai/jobs/info/69d1996554f00230c6d1b2d2?utm_campaign=1051&utm_source=git)** | Mather, CA | On Site | Apr 04 |
 | **[NorthScale Group](https://www.northscalegroup.com)** | **[SDR Internship: Vespermount](https://jobright.ai/jobs/info/69d1a5f654f00230c6d1b41e?utm_campaign=1051&utm_source=git)** | Canada | Remote | Apr 04 |
@@ -146,8 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Office](https://jobright.ai/jobs/info/69d13ddacdb525785fbb1338?utm_campaign=1051&utm_source=git)** | Cedar Park, TX | On Site | Apr 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961e0d1a112b40266106364?utm_campaign=1051&utm_source=git)** | Cumming, GA | On Site | Apr 04 |
 | **[Weidner Apartment Homes](https://www.weidner.com/)** | **[Intern Office](https://jobright.ai/jobs/info/69d13d7bcfdc6132f9442414?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Apr 04 |
-| ↳ | **[Intern Office](https://jobright.ai/jobs/info/69d13d6c891d7b11cfce246a?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Apr 04 |
 | ↳ | **[Intern Office](https://jobright.ai/jobs/info/69d13d6c891d7b11cfce2469?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Apr 04 |
+| ↳ | **[Intern Office](https://jobright.ai/jobs/info/69d13d6c891d7b11cfce246a?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Apr 04 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/69b5060106c1ba00c546a100?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Apr 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961e41ea112b40266106487?utm_campaign=1051&utm_source=git)** | Winder, GA | On Site | Apr 04 |
 | **[Insight](https://www.insight.com)** | **[Client Executive Intern](https://jobright.ai/jobs/info/69d13a260b098b7a670803e1?utm_campaign=1051&utm_source=git)** | Montreal, QC | Hybrid | Apr 04 |
