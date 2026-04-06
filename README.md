@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d8eff3f4cd132506d575?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Apr 05 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/69b58b093b74eb1e2c8355d8?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Apr 05 |
 | **[Globe Life American Income Division: Surace Smith & Partners Organization](https://ssbendurehartwig.com)** | **[Sales Intern - SPRING OR SUMMER](https://jobright.ai/jobs/info/699fb35fce78e77b4fe5980c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 05 |
-| **[PNC](http://www.pnc.com)** | **[Supervising Mortgage Loan Officer](https://jobright.ai/jobs/info/69d28340891d7b11cfceb0c5?utm_campaign=1051&utm_source=git)** | Turlock, CA | On Site | Apr 05 |
 | **[Fifth Avenue Co.](https://www.fifthavenuegrp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d2833e366bb95ba552e293?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 05 |
 | **[PNC](http://www.pnc.com)** | **[Supervising Mortgage Loan Officer](https://jobright.ai/jobs/info/69d28324cfdc6132f944b406?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | Apr 05 |
 | ↳ | **[Supervising Mortgage Loan Officer](https://jobright.ai/jobs/info/69d283230b098b7a67089268?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 05 |
@@ -88,10 +87,10 @@ For a complete list, click the following sortable link below:
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25332cfdc6132f944a682?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69d2532f891d7b11cfcea440?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d2532e891d7b11cfcea43d?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Apr 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25326366bb95ba552d575?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25327366bb95ba552d578?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 05 |
 | ↳ | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/69d25326366bb95ba552d574?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25326366bb95ba552d577?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 05 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25326366bb95ba552d575?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d2531f0b098b7a670884fa?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Apr 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69d2531754f00230c6d20ffe?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Apr 05 |
 | ↳ | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d25312cdb525785fbb9321?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 05 |
@@ -102,8 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Colliers](http://www.colliers.com)** | **[Corporate Intern - Summer 2026](https://jobright.ai/jobs/info/697d5ca1727747250d583f8f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 05 |
 | **[Uber](http://www.uber.com)** | **[2026 Business Development Representative Intern - New Verticals U4B - US](https://jobright.ai/jobs/info/69d1fc0acfdc6132f944813c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
 | ↳ | **[2026 Strategic Business Development Representative Intern, US](https://jobright.ai/jobs/info/69d1fc050b098b7a6708606b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| **[CN](http://www.cn.ca)** | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/69d3469b891d7b11cfcef42a?utm_campaign=1051&utm_source=git)** | Montreal, QC | On Site | Apr 04 |
-| **[Uber](http://www.uber.com)** | **[2026 Business Development Representative Intern - New Verticals U4B - US](https://jobright.ai/jobs/info/69d20cc90b098b7a67086f19?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| ↳ | **[2026 Business Development Representative Intern - New Verticals U4B - US](https://jobright.ai/jobs/info/69d20cc90b098b7a67086f19?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | **[ActionLink](https://www.actionlink.com/)** | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d1c4c254f00230c6d1c94e?utm_campaign=1051&utm_source=git)** | Levittown, PA | On Site | Apr 04 |
 | ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d1c4a1366bb95ba5528e03?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Apr 04 |
 | ↳ | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69d1c49e366bb95ba5528dfd?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Apr 04 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 UNIQLO Summer Store Management Internship BRITISH COLUMBIA](https://jobright.ai/jobs/info/69854a520f6f7e7a2cdfef06?utm_campaign=1051&utm_source=git)** | Burnaby, BC | On Site | Apr 04 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba2e81423772304ebced6?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Apr 04 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69a0118581476f6176ba12e0?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Apr 04 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697ba69e1423772304ebd543?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Apr 04 |
+| **[Paragon Insurance](http://www.paragoninsgroup.com/)** | **[Summer Intern – Auto Dealers/Rental, Underwriting](https://jobright.ai/jobs/info/69977617e0bddb6acac62dcf?utm_campaign=1051&utm_source=git)** | Avon, CT | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
