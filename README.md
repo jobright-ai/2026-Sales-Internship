@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Samsung Ads](http://www.samsungads.com)** | **[Sales Systems Intern](https://jobright.ai/jobs/info/69d3d5ea891d7b11cfcf4817?utm_campaign=1051&utm_source=git)** | One Pennsylvania Plaza, 26th Floor, New York, NY, USA | On Site | Apr 06 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Intern - Fire Systems - Linthicum, MD](https://jobright.ai/jobs/info/69d3d5dc366bb95ba5537c3c?utm_campaign=1051&utm_source=git)** | Linthicum-Maryland-United States of America | On Site | Apr 06 |
+| **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Claims Representative Internship - Summer 2026](https://jobright.ai/jobs/info/69d3d5ca366bb95ba5537bea?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Apr 06 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Micro-Internship, University of Tennessee Student Athlete](https://jobright.ai/jobs/info/6997cbdfe0bddb6acac692a7?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Apr 06 |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Field Sales Engineer Intern - S2026](https://jobright.ai/jobs/info/69d3d40ccdb525785fbc374c?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Apr 06 |
+| **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69d3cf20e63cea7a8b6538b0?utm_campaign=1051&utm_source=git)** | Mississauga, OT | On Site | Apr 06 |
+| ↳ | **[Inside Sales Intern](https://jobright.ai/jobs/info/69d3cf1ee63cea7a8b6538ae?utm_campaign=1051&utm_source=git)** | Mississauga, OT | On Site | Apr 06 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/69d3cf1e366bb95ba5537858?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Apr 06 |
+| **[Genesys](https://www.genesys.com)** | **[Direct Response Representative Intern](https://jobright.ai/jobs/info/69d3ceea54f00230c6d2b1ba?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | Apr 06 |
+| **[Risk Strategies Company](http://www.risk-strategies.com)** | **[Commercial Lines Internship](https://jobright.ai/jobs/info/69d3cecbe63cea7a8b653707?utm_campaign=1051&utm_source=git)** | Remote - Illinois | Remote | Apr 06 |
+| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Agriculture](https://jobright.ai/jobs/info/69d3cecae63cea7a8b653703?utm_campaign=1051&utm_source=git)** | LEAMINGTON, Ontario, Canada | On Site | Apr 06 |
+| ↳ | **[Relationship Manager Intern, Agriculture](https://jobright.ai/jobs/info/69d3cec854f00230c6d2b10f?utm_campaign=1051&utm_source=git)** | CHATHAM-KENT, Ontario, Canada | On Site | Apr 06 |
+| **[Risk Strategies Company](http://www.risk-strategies.com)** | **[Commercial Lines Internship](https://jobright.ai/jobs/info/69d3cec7cfdc6132f9454837?utm_campaign=1051&utm_source=git)** | Remote - Illinois | Remote | Apr 06 |
+| **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69d3ca6b366bb95ba5536cc7?utm_campaign=1051&utm_source=git)** | Mississauga, ON | Remote | Apr 06 |
 | **[Embark Agency](https://www.theembarkagency.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69cd9b97398fb071abf7a65e?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/69d3c40ae63cea7a8b65276c?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Apr 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales Intern](https://jobright.ai/jobs/info/69d3c408891d7b11cfcf3188?utm_campaign=1051&utm_source=git)** | Panama City, FL | On Site | Apr 06 |
@@ -92,15 +106,18 @@ For a complete list, click the following sortable link below:
 | **[DAYBREAKER](http://daybreaker.com/)** | **[Partnerships Intern (Operations & Activation)](https://jobright.ai/jobs/info/69d2bba9891d7b11cfceb7fb?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Apr 05 |
 | **[Navier](https://www.navierboat.com/)** | **[MBA Internship](https://jobright.ai/jobs/info/69d2a4fa0b098b7a6708982b?utm_campaign=1051&utm_source=git)** | Alameda, CA | Hybrid | Apr 05 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/69c0aec67798f73e35e52b35?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 05 |
+| **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69d3cf5ccdb525785fbc336b?utm_campaign=1051&utm_source=git)** | Kansas City, MO, US | On Site | Apr 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d4fbf3f4cd132506d38c?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Apr 05 |
 | ↳ | **[Sales Management Trainee Internship - Sioux City, IA - Summer 2026](https://jobright.ai/jobs/info/68b77a621ade4306aa64b48b?utm_campaign=1051&utm_source=git)** | Sioux City, IA | On Site | Apr 05 |
-| ↳ | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d8eff3f4cd132506d575?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Apr 05 |
+| **[Oxfam America](http://www.oxfamamerica.org/)** | **[Intern, Institutional Funding and Partnerships](https://jobright.ai/jobs/info/69d3cbf0cfdc6132f94545f4?utm_campaign=1051&utm_source=git)** | Boston, MA, US | On Site | Apr 05 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d8eff3f4cd132506d575?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Apr 05 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/69b58b093b74eb1e2c8355d8?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Apr 05 |
 | **[Globe Life American Income Division: Surace Smith & Partners Organization](https://ssbendurehartwig.com)** | **[Sales Intern - SPRING OR SUMMER](https://jobright.ai/jobs/info/699fb35fce78e77b4fe5980c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 05 |
 | **[Fifth Avenue Co.](https://www.fifthavenuegrp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d2833e366bb95ba552e293?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 05 |
 | **[Nonsense](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d27d2f0b098b7a670891b5?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 05 |
 | **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/6998fdc4ce78e77b4fdd99d8?utm_campaign=1051&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Hybrid | Apr 05 |
-| ↳ | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/6998ea9ece78e77b4fdd79ac?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 05 |
+| **[CN](http://www.cn.ca)** | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/69d3d1a3891d7b11cfcf461c?utm_campaign=1051&utm_source=git)** | Brampton, ON | On Site | Apr 05 |
+| **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/6998ea9ece78e77b4fdd79ac?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 05 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Software Sales Intern](https://jobright.ai/jobs/info/697d59ad3f57a33569673ac1?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Apr 05 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698512a18da7a612045f65ec?utm_campaign=1051&utm_source=git)** | Caledon, ON | Hybrid | Apr 05 |
 | **[CN](http://www.cn.ca)** | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/69d3c279891d7b11cfcf30ec?utm_campaign=1051&utm_source=git)** | Montreal, QC | On Site | Apr 05 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern - Denver, CO](https://jobright.ai/jobs/info/6998d5b481476f6176b13eb4?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 04 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697bab300b88cc7d642278c9?utm_campaign=1051&utm_source=git)** | Hayward, CA | On Site | Apr 04 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[In House Sales Data & Projects Intern](https://jobright.ai/jobs/info/697d5cfa3f57a33569673ed0?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Apr 04 |
-| **[Etched](https://www.etched.com)** | **[GTM Intern](https://jobright.ai/jobs/info/69b441ce3b74eb1e2c816b10?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 04 |
-| **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/69990b2be0bddb6acac802da?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Apr 04 |
-| **[Amerant Bank](https://www.amerantbank.com/)** | **[Undergraduate Internship - Business Dev. & Market Intelligence](https://jobright.ai/jobs/info/69b4e29a3b74eb1e2c825555?utm_campaign=1051&utm_source=git)** | Plantation, FL | On Site | Apr 04 |
-| **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Sales Intern - Nashville, TN](https://jobright.ai/jobs/info/6998d8e8ce78e77b4fdd6927?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 04 |
-| ↳ | **[Sales Intern - Sarasota, FL](https://jobright.ai/jobs/info/6998c213ce78e77b4fdd54c9?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Apr 04 |
-| ↳ | **[Sales Intern - Orlando, FL](https://jobright.ai/jobs/info/6998cdae81476f6176b137a3?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
-| **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Account Management, New Business](https://jobright.ai/jobs/info/69979e8381476f6176afb9bd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 04 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/697ba8d91136d179eeef2f34?utm_campaign=1051&utm_source=git)** | St Albert, Alberta, Canada | On Site | Apr 04 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/697badc71136d179eeef335a?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Apr 04 |
-| **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/69990f47e0bddb6acac805ce?utm_campaign=1051&utm_source=git)** | Long Beach, CA | Hybrid | Apr 04 |
-| **[Inovalon](http://www.inovalon.com)** | **[Sales Intern / Summer 2026](https://jobright.ai/jobs/info/69b4ab153b74eb1e2c82027d?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Apr 04 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/69b5068f3b74eb1e2c827fbf?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Apr 04 |
-| **[Progyny, Inc.](https://www.progyny.com/)** | **[Client Success Intern](https://jobright.ai/jobs/info/69b4caea3b74eb1e2c822762?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/69b506863b74eb1e2c827fb8?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Apr 04 |
-| **[Weidner Apartment Homes](https://www.weidner.com/)** | **[Intern Office](https://jobright.ai/jobs/info/69d13e88366bb95ba5525324?utm_campaign=1051&utm_source=git)** | Kirkland, WA | On Site | Apr 04 |
-| ↳ | **[Intern Office](https://jobright.ai/jobs/info/69d13e88366bb95ba5525323?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Lincoln, NE - Summer 2026](https://jobright.ai/jobs/info/68b779371ade4306aa64b39a?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
