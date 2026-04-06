@@ -57,17 +57,36 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d3efcbcdb525785fbc4a85?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Apr 06 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d3ef69e63cea7a8b654ff8?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Apr 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d3eec2366bb95ba5538e24?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Apr 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d3eeb5cdb525785fbc4a3e?utm_campaign=1051&utm_source=git)** | Rapid City, SD | On Site | Apr 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d3ee9c54f00230c6d2c897?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Apr 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d3ee7acfdc6132f9455f43?utm_campaign=1051&utm_source=git)** | Shawnee, OK | On Site | Apr 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d3ee4c891d7b11cfcf5b42?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Apr 06 |
+| **[RagaAI Inc](http://www.raga.ai)** | **[AI Product & Customer Success Interns_Mount Pleasant/North Charleston - South Carolina](https://jobright.ai/jobs/info/69d3ee4bcfdc6132f9455f21?utm_campaign=1051&utm_source=git)** | Mount Pleasant, SC | On Site | Apr 06 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d3ee41891d7b11cfcf5b31?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Apr 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d3ee41891d7b11cfcf5b30?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Apr 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d3ee41891d7b11cfcf5b32?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | On Site | Apr 06 |
+| **[RagaAI Inc](http://www.raga.ai)** | **[AI Product & Customer Success Interns_St Paul, Minnesota](https://jobright.ai/jobs/info/69d3ee1c891d7b11cfcf5b27?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Apr 06 |
+| **[Samsung Electronics America](http://www.samsung.com/us/)** | **[Sales Systems Intern](https://jobright.ai/jobs/info/69d3ec60e63cea7a8b654f4d?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 06 |
+| **[Mauch Chunk Trust Company](https://www.mct.bank)** | **[Personal Banker - Summer Internship](https://jobright.ai/jobs/info/69d3eb49cfdc6132f9455c0d?utm_campaign=1051&utm_source=git)** | MCT Footprint, PA, US, 18229 | On Site | Apr 06 |
+| **[Zendesk](http://zendesk.com)** | **[GTM Strategy & AI Operations Intern](https://jobright.ai/jobs/info/69d3eafbe63cea7a8b654c68?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | Apr 06 |
+| ↳ | **[GTM Strategy & AI Operations Intern](https://jobright.ai/jobs/info/69d3eaf9e63cea7a8b654c64?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Apr 06 |
+| **[Agrawal Tech Global](https://agrawaltechglobal.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d3e82dcdb525785fbc45ff?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 06 |
+| **[Qlik](https://www.qlik.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69b094947495006450971fd7?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Apr 06 |
+| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Partner Operations](https://jobright.ai/jobs/info/6996490b81476f6176ae0ac7?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Apr 06 |
 | **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[On-Premise Summer Field Sales Representative, Windsor/Sarnia](https://jobright.ai/jobs/info/69d3e0d354f00230c6d2bb5e?utm_campaign=1051&utm_source=git)** | Windsor, ON | On Site | Apr 06 |
-| ↳ | **[Brand Experience Summer Representative, Vancouver](https://jobright.ai/jobs/info/69d3e0cb54f00230c6d2bb53?utm_campaign=1051&utm_source=git)** | Greater Vancouver Metropolitan Area | On Site | Apr 06 |
 | ↳ | **[On-Premise Summer Field Sales Representative, Kitchener/Waterloo](https://jobright.ai/jobs/info/69d3e0cb54f00230c6d2bb55?utm_campaign=1051&utm_source=git)** | Kitchener, ON | On Site | Apr 06 |
+| ↳ | **[Brand Experience Summer Representative, Vancouver](https://jobright.ai/jobs/info/69d3e0cb54f00230c6d2bb53?utm_campaign=1051&utm_source=git)** | Greater Vancouver Metropolitan Area | On Site | Apr 06 |
 | ↳ | **[On-Premise/Retail Summer Field Sales Representative, Cape Breton](https://jobright.ai/jobs/info/69d3e0ca54f00230c6d2bb4f?utm_campaign=1051&utm_source=git)** | Cape Breton, NS | On Site | Apr 06 |
 | ↳ | **[Retail Summer Field Sales Representative, Ottawa](https://jobright.ai/jobs/info/69d3e0c554f00230c6d2bb49?utm_campaign=1051&utm_source=git)** | Ottawa, ON | On Site | Apr 06 |
 | ↳ | **[Retail Summer Field Sales Representative, Toronto](https://jobright.ai/jobs/info/69d3e08c891d7b11cfcf4daa?utm_campaign=1051&utm_source=git)** | Toronto, ON | On Site | Apr 06 |
 | ↳ | **[On-Premise/Retail Summer Field Sales Representative, Kingston/Belleville](https://jobright.ai/jobs/info/69d3e08b891d7b11cfcf4da7?utm_campaign=1051&utm_source=git)** | Kingston, ON | On Site | Apr 06 |
 | ↳ | **[Retail Summer Field Sales Representative, Windsor/London](https://jobright.ai/jobs/info/69d3e087891d7b11cfcf4da3?utm_campaign=1051&utm_source=git)** | LaSalle, ON | On Site | Apr 06 |
 | ↳ | **[On-Premise Summer Field Sales Representative, Regina/Saskatoon](https://jobright.ai/jobs/info/69d3e038cdb525785fbc3cfa?utm_campaign=1051&utm_source=git)** | Regina, SK | On Site | Apr 06 |
-| ↳ | **[On-Premise/Retail Summer Field Sales Representative, Truro](https://jobright.ai/jobs/info/69d3e033cdb525785fbc3cee?utm_campaign=1051&utm_source=git)** | Truro, NS | On Site | Apr 06 |
 | ↳ | **[On-Premise/Retail Summer Field Sales Representative, Central Newfoundland](https://jobright.ai/jobs/info/69d3e033cdb525785fbc3cef?utm_campaign=1051&utm_source=git)** | Grand Falls-Windsor, NL | On Site | Apr 06 |
+| ↳ | **[On-Premise/Retail Summer Field Sales Representative, Truro](https://jobright.ai/jobs/info/69d3e033cdb525785fbc3cee?utm_campaign=1051&utm_source=git)** | Truro, NS | On Site | Apr 06 |
 | ↳ | **[On-Premise/Retail Summer Field Sales Representative, Charlottetown](https://jobright.ai/jobs/info/69d3e020cfdc6132f94551f7?utm_campaign=1051&utm_source=git)** | Charlottetown, PE | On Site | Apr 06 |
 | ↳ | **[Retail Summer Field Sales Representative, Barrie/Newmarket](https://jobright.ai/jobs/info/69d3e01fcfdc6132f94551f2?utm_campaign=1051&utm_source=git)** | Barrie, ON | On Site | Apr 06 |
 | ↳ | **[On-Premise/Retail Summer Field Sales Representative, Western Newfoundland](https://jobright.ai/jobs/info/69d3e01acfdc6132f94551ee?utm_campaign=1051&utm_source=git)** | Corner Brook, NL | On Site | Apr 06 |
@@ -78,14 +97,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[On-Premise Summer Field Sales Representative, Toronto Scarborough](https://jobright.ai/jobs/info/69d3dfcae63cea7a8b654241?utm_campaign=1051&utm_source=git)** | Toronto, ON | On Site | Apr 06 |
 | ↳ | **[Brand Experience Summer Representative, Calgary](https://jobright.ai/jobs/info/69d3dfcae63cea7a8b654244?utm_campaign=1051&utm_source=git)** | Greater Calgary Metropolitan Area | On Site | Apr 06 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales & Marketing Internship / Southwestern Family of Companies](https://jobright.ai/jobs/info/69d3dfc9e63cea7a8b65423c?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
-| **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[On-Premise Summer Field Sales Representative, Toronto Mississauga](https://jobright.ai/jobs/info/69d3dfc9e63cea7a8b65423e?utm_campaign=1051&utm_source=git)** | Toronto, ON | On Site | Apr 06 |
-| ↳ | **[On-Premise/Retail Summer Field Sales Representative, Halifax](https://jobright.ai/jobs/info/69d3dfc9e63cea7a8b65423d?utm_campaign=1051&utm_source=git)** | Halifax, NS | On Site | Apr 06 |
+| **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[On-Premise/Retail Summer Field Sales Representative, Halifax](https://jobright.ai/jobs/info/69d3dfc9e63cea7a8b65423d?utm_campaign=1051&utm_source=git)** | Halifax, NS | On Site | Apr 06 |
+| ↳ | **[On-Premise Summer Field Sales Representative, Toronto Mississauga](https://jobright.ai/jobs/info/69d3dfc9e63cea7a8b65423e?utm_campaign=1051&utm_source=git)** | Toronto, ON | On Site | Apr 06 |
 | ↳ | **[On-Premise Summer Field Sales Representative, Vancouver](https://jobright.ai/jobs/info/69d3dfc8366bb95ba553810d?utm_campaign=1051&utm_source=git)** | Greater Vancouver Metropolitan Area | On Site | Apr 06 |
 | ↳ | **[On-Premise/Retail Summer Field Sales Representative, Durham/Peterborough](https://jobright.ai/jobs/info/69d3dfc1e63cea7a8b654234?utm_campaign=1051&utm_source=git)** | Peterborough, ON | On Site | Apr 06 |
-| ↳ | **[On-Premise Summer Field Sales Representative, Brampton](https://jobright.ai/jobs/info/69d3dfc0366bb95ba5538100?utm_campaign=1051&utm_source=git)** | Brampton, ON | On Site | Apr 06 |
-| ↳ | **[On-Premise Summer Field Sales Representative, Niagara](https://jobright.ai/jobs/info/69d3dfc0366bb95ba5538101?utm_campaign=1051&utm_source=git)** | Niagara, ON | On Site | Apr 06 |
-| ↳ | **[On-Premise Summer Field Sales Representative, Barrie](https://jobright.ai/jobs/info/69d3dfc0366bb95ba55380fe?utm_campaign=1051&utm_source=git)** | Barrie, ON | On Site | Apr 06 |
 | ↳ | **[On-Premise Summer Field Sales Representative, Ottawa](https://jobright.ai/jobs/info/69d3dfc0366bb95ba55380ff?utm_campaign=1051&utm_source=git)** | Ottawa, ON | On Site | Apr 06 |
+| ↳ | **[On-Premise Summer Field Sales Representative, Brampton](https://jobright.ai/jobs/info/69d3dfc0366bb95ba5538100?utm_campaign=1051&utm_source=git)** | Brampton, ON | On Site | Apr 06 |
+| ↳ | **[On-Premise Summer Field Sales Representative, Barrie](https://jobright.ai/jobs/info/69d3dfc0366bb95ba55380fe?utm_campaign=1051&utm_source=git)** | Barrie, ON | On Site | Apr 06 |
+| ↳ | **[On-Premise Summer Field Sales Representative, Niagara](https://jobright.ai/jobs/info/69d3dfc0366bb95ba5538101?utm_campaign=1051&utm_source=git)** | Niagara, ON | On Site | Apr 06 |
 | ↳ | **[On-Premise/Retail Summer Field Sales Representative, Fredericton](https://jobright.ai/jobs/info/69d3dfbb366bb95ba55380fc?utm_campaign=1051&utm_source=git)** | Fredericton, NB | On Site | Apr 06 |
 | **[Lazy Miners](lazyminers.com)** | **[Sales Intern - ASIC Mining (Remote / Canada/US)](https://jobright.ai/jobs/info/69d3df0ccfdc6132f94551c9?utm_campaign=1051&utm_source=git)** | Ontario, Canada | Remote | Apr 06 |
 | **[First Internet Bank](https://www.firstib.com)** | **[Banking Apprentice](https://jobright.ai/jobs/info/69b81ff63b74eb1e2c85c3bd?utm_campaign=1051&utm_source=git)** | Fishers, IN | On Site | Apr 06 |
@@ -138,23 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DPS - IT - College IT Client Success Intern (Unpaid) - 1570](https://jobright.ai/jobs/info/69d30465cdb525785fbbc862?utm_campaign=1051&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Apr 05 |
 | **[SDSU Alumni](http://www.sdsualumni.org)** | **[Director of Development (Administrator I)](https://jobright.ai/jobs/info/69d3ace3cdb525785fbc159c?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Apr 05 |
 | **[Morse](http://www.morse.com)** | **[Catering Sales Manager](https://jobright.ai/jobs/info/69d38d1354f00230c6d28473?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Apr 05 |
-| **[DAYBREAKER](http://daybreaker.com/)** | **[Partnerships Intern (Operations & Activation)](https://jobright.ai/jobs/info/69d2bba9891d7b11cfceb7fb?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Apr 05 |
-| **[Navier](https://www.navierboat.com/)** | **[MBA Internship](https://jobright.ai/jobs/info/69d2a4fa0b098b7a6708982b?utm_campaign=1051&utm_source=git)** | Alameda, CA | Hybrid | Apr 05 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/69c0aec67798f73e35e52b35?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 05 |
-| **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69d3cf5ccdb525785fbc336b?utm_campaign=1051&utm_source=git)** | Kansas City, MO, US | On Site | Apr 05 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d4fbf3f4cd132506d38c?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Apr 05 |
-| ↳ | **[Sales Management Trainee Internship - Sioux City, IA - Summer 2026](https://jobright.ai/jobs/info/68b77a621ade4306aa64b48b?utm_campaign=1051&utm_source=git)** | Sioux City, IA | On Site | Apr 05 |
-| **[Oxfam America](http://www.oxfamamerica.org/)** | **[Intern, Institutional Funding and Partnerships](https://jobright.ai/jobs/info/69d3cbf0cfdc6132f94545f4?utm_campaign=1051&utm_source=git)** | Boston, MA, US | On Site | Apr 05 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961d8eff3f4cd132506d575?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Apr 05 |
-| ↳ | **[Summer 2026 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/69b58b093b74eb1e2c8355d8?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Apr 05 |
-| **[Globe Life American Income Division: Surace Smith & Partners Organization](https://ssbendurehartwig.com)** | **[Sales Intern - SPRING OR SUMMER](https://jobright.ai/jobs/info/699fb35fce78e77b4fe5980c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 05 |
-| **[Fifth Avenue Co.](https://www.fifthavenuegrp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d2833e366bb95ba552e293?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 05 |
-| **[Nonsense](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d27d2f0b098b7a670891b5?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 05 |
-| **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/6998fdc4ce78e77b4fdd99d8?utm_campaign=1051&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Hybrid | Apr 05 |
-| **[CN](http://www.cn.ca)** | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/69d3d1a3891d7b11cfcf461c?utm_campaign=1051&utm_source=git)** | Brampton, ON | On Site | Apr 05 |
-| **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/6998ea9ece78e77b4fdd79ac?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 05 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Software Sales Intern](https://jobright.ai/jobs/info/697d59ad3f57a33569673ac1?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Apr 05 |
-| **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698512a18da7a612045f65ec?utm_campaign=1051&utm_source=git)** | Caledon, ON | Hybrid | Apr 05 |
-| **[CN](http://www.cn.ca)** | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/69d3c279891d7b11cfcf30ec?utm_campaign=1051&utm_source=git)** | Montreal, QC | On Site | Apr 05 |
-| **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - CRM](https://jobright.ai/jobs/info/697daa2bce48107c0541f8ec?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
