@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mizkan America](http://mizkan.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/69b51c9c06c1ba00c546d995?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 06 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d3a8c3891d7b11cfcf23fb?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Apr 06 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69d3a8b5366bb95ba55357e9?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Apr 06 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69d3a8b4366bb95ba55357e6?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 06 |
@@ -97,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - CRM](https://jobright.ai/jobs/info/697daa2bce48107c0541f8ec?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Apr 05 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Twin Cities)](https://jobright.ai/jobs/info/69b6a6f956973837413be66e?utm_campaign=1051&utm_source=git)** | Burnsville, MN | On Site | Apr 05 |
 | **[Flex](https://getflex.com)** | **[Senior Director, New Verticals Sales](https://jobright.ai/jobs/info/690bcc8c4a1b456627b1306f?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 05 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d3b23e366bb95ba5535e71?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Apr 05 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/695c3ab222c9dc0d3d54195c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 05 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697dac95ce48107c0541fb1f?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Apr 05 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Assistant Buyer Development Program - 2026 Start Dates](https://jobright.ai/jobs/info/69d3a89b366bb95ba55357d8?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 05 |
@@ -145,16 +147,14 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/69b5068f3b74eb1e2c827fbf?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Apr 04 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Client Success Intern](https://jobright.ai/jobs/info/69b4caea3b74eb1e2c822762?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/69b506863b74eb1e2c827fb8?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Apr 04 |
-| **[Weidner Apartment Homes](https://www.weidner.com/)** | **[Intern Office](https://jobright.ai/jobs/info/69d13e88366bb95ba5525324?utm_campaign=1051&utm_source=git)** | Kirkland, WA | On Site | Apr 04 |
-| ↳ | **[Intern Office](https://jobright.ai/jobs/info/69d13e88366bb95ba5525323?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 04 |
+| **[Weidner Apartment Homes](https://www.weidner.com/)** | **[Intern Office](https://jobright.ai/jobs/info/69d13e88366bb95ba5525323?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 04 |
+| ↳ | **[Intern Office](https://jobright.ai/jobs/info/69d13e88366bb95ba5525324?utm_campaign=1051&utm_source=git)** | Kirkland, WA | On Site | Apr 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Lincoln, NE - Summer 2026](https://jobright.ai/jobs/info/68b779371ade4306aa64b39a?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 04 |
 | **[Weidner Apartment Homes](https://www.weidner.com/)** | **[Intern Office](https://jobright.ai/jobs/info/69d13e1a0b098b7a6708044e?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Apr 04 |
 | ↳ | **[Intern Office](https://jobright.ai/jobs/info/69d13ddacdb525785fbb1338?utm_campaign=1051&utm_source=git)** | Cedar Park, TX | On Site | Apr 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961e0d1a112b40266106364?utm_campaign=1051&utm_source=git)** | Cumming, GA | On Site | Apr 04 |
 | **[Weidner Apartment Homes](https://www.weidner.com/)** | **[Intern Office](https://jobright.ai/jobs/info/69d13d7bcfdc6132f9442414?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Apr 04 |
-| ↳ | **[Intern Office](https://jobright.ai/jobs/info/69d13d6c891d7b11cfce2469?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Apr 04 |
 | ↳ | **[Intern Office](https://jobright.ai/jobs/info/69d13d6c891d7b11cfce246a?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Apr 04 |
+| ↳ | **[Intern Office](https://jobright.ai/jobs/info/69d13d6c891d7b11cfce2469?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Apr 04 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/69b5060106c1ba00c546a100?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Apr 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6961e41ea112b40266106487?utm_campaign=1051&utm_source=git)** | Winder, GA | On Site | Apr 04 |
-| **[Insight](https://www.insight.com)** | **[Client Executive Intern](https://jobright.ai/jobs/info/69d13a260b098b7a670803e1?utm_campaign=1051&utm_source=git)** | Montreal, QC | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
