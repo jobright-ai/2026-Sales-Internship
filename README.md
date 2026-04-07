@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dun & Bradstreet](http://www.dnb.com)** | **[SMB Inside Sales Development Program](https://jobright.ai/jobs/info/69d5781ccdb525785fbd11a2?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Apr 07 |
+| **[ArtsQuest](http://www.artsquest.org/)** | **[Retail Intern](https://jobright.ai/jobs/info/69d5761e891d7b11cfd02278?utm_campaign=1051&utm_source=git)** | Bethlehem, PA | On Site | Apr 07 |
+| **[Just Group plc](https://www.justgroupplc.co.uk/)** | **[National Account Director](https://jobright.ai/jobs/info/69d57228e63cea7a8b66168d?utm_campaign=1051&utm_source=git)** | Field, BC | On Site | Apr 07 |
+| **[Knichel Logistics, Inc.](http://www.knichellogistics.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69d570ad706f771673ba3317?utm_campaign=1051&utm_source=git)** | Cranberry Township, Pennsylvania, United States | On Site | Apr 07 |
+| **[Wolverine Advanced Materials](http://www.wamglobal.com/)** | **[Purchasing Assistant-Intern](https://jobright.ai/jobs/info/69d57091e63cea7a8b66144a?utm_campaign=1051&utm_source=git)** | Blacksburg, VA | On Site | Apr 07 |
 | **[The Midtown Grp](https://themidtowngrp.com)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69d56ba7e63cea7a8b6612e8?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
 | **[Nielsen](https://www.nielsen.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69d569e3e63cea7a8b6611c9?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69b0609fdfaeda6ff59a1ff0?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
@@ -69,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Standlee Premium Western Forage](http://standleeforage.com)** | **[Sales Intern - West Region](https://jobright.ai/jobs/info/69d56050cdb525785fbd04a8?utm_campaign=1051&utm_source=git)** | Bend, Oregon, United States | On Site | Apr 07 |
 | ↳ | **[Sales Intern - Southeast Region](https://jobright.ai/jobs/info/69d5604d706f771673ba2966?utm_campaign=1051&utm_source=git)** | Lynchburg, Virginia, United States | On Site | Apr 07 |
 | ↳ | **[Sales Intern - Midwest Region](https://jobright.ai/jobs/info/69d5604bcdb525785fbd049d?utm_campaign=1051&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Apr 07 |
-| ↳ | **[Sales Intern - Midwest Region](https://jobright.ai/jobs/info/69d56049366bb95ba5544810?utm_campaign=1051&utm_source=git)** | Des Moines, Iowa, United States | On Site | Apr 07 |
 | ↳ | **[Sales Intern - Northeast Region](https://jobright.ai/jobs/info/69d56049366bb95ba5544811?utm_campaign=1051&utm_source=git)** | Bowling Green, Kentucky, United States | On Site | Apr 07 |
+| ↳ | **[Sales Intern - Midwest Region](https://jobright.ai/jobs/info/69d56049366bb95ba5544810?utm_campaign=1051&utm_source=git)** | Des Moines, Iowa, United States | On Site | Apr 07 |
 | **[AerSale, Inc.](https://www.aersale.com/)** | **[Sourcing Analyst Intern](https://jobright.ai/jobs/info/69d56040cdb525785fbd046c?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Apr 07 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Research Intern - Business Development](https://jobright.ai/jobs/info/69d5601b366bb95ba5544706?utm_campaign=1051&utm_source=git)** | Pullman - 2420 | On Site | Apr 07 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Business Development Co-op (4 or 8 months)](https://jobright.ai/jobs/info/69d55932706f771673ba2598?utm_campaign=1051&utm_source=git)** | Richmond, BC | On Site | Apr 07 |
@@ -108,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/6965826e5ad3a93f8230cadc?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Apr 07 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69d52bf5706f771673ba0fb2?utm_campaign=1051&utm_source=git)** | De Soto, KS | On Site | Apr 07 |
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Intern - Ticket Sales & Operations Fall 2026](https://jobright.ai/jobs/info/69d52baf891d7b11cfcffcef?utm_campaign=1051&utm_source=git)** | Worcester, MA | On Site | Apr 07 |
-| **[Performance Food Group](http://www.pfgc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d549cfe63cea7a8b660030?utm_campaign=1051&utm_source=git)** | Knoxville, Tennessee (TN) | On Site | Apr 07 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69d549cbcfdc6132f94610a4?utm_campaign=1051&utm_source=git)** | Virginia | On Site | Apr 07 |
+| **[Performance Food Group](http://www.pfgc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d549cbcfdc6132f94610a4?utm_campaign=1051&utm_source=git)** | Virginia | On Site | Apr 07 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69d549cfe63cea7a8b660030?utm_campaign=1051&utm_source=git)** | Knoxville, Tennessee (TN) | On Site | Apr 07 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69d549b3706f771673ba1e73?utm_campaign=1051&utm_source=git)** | 12500 West Creek Pkwy | On Site | Apr 07 |
 | **[Redwood Logistics](https://www.redwoodlogistics.com/)** | **[Commercial Services Summer Internship](https://jobright.ai/jobs/info/69d5266c366bb95ba5542de1?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Apr 07 |
 | **[Bespoke Partners](http://www.bespokepartners.com)** | **[Bespoke Futures Program - Research Analyst Intern](https://jobright.ai/jobs/info/69d5263f891d7b11cfcffb1b?utm_campaign=1051&utm_source=git)** | Austin, TX 78702 | Hybrid | Apr 07 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69d50047706f771673ba00bd?utm_campaign=1051&utm_source=git)** | Olean, NY | On Site | Apr 07 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69d50019cfdc6132f945f2a3?utm_campaign=1051&utm_source=git)** | New Mexico, United States | On Site | Apr 07 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69d50019cfdc6132f945f2a6?utm_campaign=1051&utm_source=git)** | Roswell, NM | On Site | Apr 07 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69d50018cfdc6132f945f2a1?utm_campaign=1051&utm_source=git)** | Rome, NY | On Site | Apr 07 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69d50018cfdc6132f945f2a2?utm_campaign=1051&utm_source=git)** | Carlsbad, NM | On Site | Apr 07 |
+| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69d50018cfdc6132f945f2a1?utm_campaign=1051&utm_source=git)** | Rome, NY | On Site | Apr 07 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69d50017cfdc6132f945f2a0?utm_campaign=1051&utm_source=git)** | Santa Teresa, NM | On Site | Apr 07 |
 | ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69d4ffc6e63cea7a8b65e286?utm_campaign=1051&utm_source=git)** | Hoboken, NJ | On Site | Apr 07 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69d4ffc6e63cea7a8b65e287?utm_campaign=1051&utm_source=git)** | Oneonta, NY | On Site | Apr 07 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69d4ffc5e63cea7a8b65e285?utm_campaign=1051&utm_source=git)** | Santa Fe, NM | On Site | Apr 07 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69d4ffc4e63cea7a8b65e283?utm_campaign=1051&utm_source=git)** | Troy, NY | On Site | Apr 07 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69d4ffc4e63cea7a8b65e284?utm_campaign=1051&utm_source=git)** | Old Bridge, NJ | On Site | Apr 07 |
-| ↳ | **[Summer Sales Intern (Training Provided)](https://jobright.ai/jobs/info/69d4ffc3e63cea7a8b65e282?utm_campaign=1051&utm_source=git)** | Cherry Hill, NJ | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
