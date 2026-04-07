@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TradeX](https://www.tradexapp.co)** | **[Field Sales Internship](https://jobright.ai/jobs/info/69d45b7ecfdc6132f945a076?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
+| **[Sofinnova Investments ](http://www.sofinnova.com)** | **[Venture Fellow](https://jobright.ai/jobs/info/69d45b53891d7b11cfcf9b45?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 06 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Development - eCommerce Channel](https://jobright.ai/jobs/info/69d45afee63cea7a8b659042?utm_campaign=1051&utm_source=git)** | Corona, California, United States | On Site | Apr 06 |
+| **[Shaw’s and Star Market](https://www.shaws.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/69d45a60e63cea7a8b659027?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Apr 06 |
+| **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Tucson, AZ)](https://jobright.ai/jobs/info/69d45916cfdc6132f9459fba?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Apr 06 |
+| **[Flex](https://getflex.com)** | **[VP, Business Development](https://jobright.ai/jobs/info/69d455cce63cea7a8b658a9a?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 06 |
+| **[Teleflex](http://www.teleflex.com)** | **[Clinical Sales Specialist, Vascular, St Louis or Kansas City MO](https://jobright.ai/jobs/info/69d455c2891d7b11cfcf9814?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Apr 06 |
 | **[ITS Logistics](http://its4logistics.com)** | **[Student Intern- Logistics Sales- South Center](https://jobright.ai/jobs/info/69d44fbfcdb525785fbc834e?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Apr 06 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d44b25cfdc6132f94596e9?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Apr 06 |
 | **[Burrell Communications](http://www.burrell.com)** | **[Intern, Account Management](https://jobright.ai/jobs/info/69d44521cfdc6132f94594e6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
@@ -145,16 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d3ee4c891d7b11cfcf5b42?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Apr 06 |
 | **[RagaAI Inc](http://www.raga.ai)** | **[AI Product & Customer Success Interns_Mount Pleasant/North Charleston - South Carolina](https://jobright.ai/jobs/info/69d3ee4bcfdc6132f9455f21?utm_campaign=1051&utm_source=git)** | Mount Pleasant, SC | On Site | Apr 06 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d3ee41891d7b11cfcf5b30?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Apr 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d3ee41891d7b11cfcf5b31?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Apr 06 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d3ee41891d7b11cfcf5b32?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | On Site | Apr 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d3ee41891d7b11cfcf5b31?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Apr 06 |
 | **[RagaAI Inc](http://www.raga.ai)** | **[AI Product & Customer Success Interns_St Paul, Minnesota](https://jobright.ai/jobs/info/69d3ee1c891d7b11cfcf5b27?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Apr 06 |
 | **[Samsung Electronics America](http://www.samsung.com/us/)** | **[Sales Systems Intern](https://jobright.ai/jobs/info/69d3ec60e63cea7a8b654f4d?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 06 |
 | **[Mauch Chunk Trust Company](https://www.mct.bank)** | **[Personal Banker - Summer Internship](https://jobright.ai/jobs/info/69d3eb49cfdc6132f9455c0d?utm_campaign=1051&utm_source=git)** | MCT Footprint, PA, US, 18229 | On Site | Apr 06 |
-| **[Zendesk](http://zendesk.com)** | **[GTM Strategy & AI Operations Intern](https://jobright.ai/jobs/info/69d3eafbe63cea7a8b654c68?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | Apr 06 |
-| ↳ | **[GTM Strategy & AI Operations Intern](https://jobright.ai/jobs/info/69d3eaf9e63cea7a8b654c64?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Apr 06 |
-| **[Agrawal Tech Global](https://agrawaltechglobal.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d3e82dcdb525785fbc45ff?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 06 |
-| **[Qlik](https://www.qlik.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69b094947495006450971fd7?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Apr 06 |
-| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Partner Operations](https://jobright.ai/jobs/info/6996490b81476f6176ae0ac7?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Apr 06 |
-| **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[On-Premise Summer Field Sales Representative, Windsor/Sarnia](https://jobright.ai/jobs/info/69d3e0d354f00230c6d2bb5e?utm_campaign=1051&utm_source=git)** | Windsor, ON | On Site | Apr 06 |
-| ↳ | **[Brand Experience Summer Representative, Vancouver](https://jobright.ai/jobs/info/69d3e0cb54f00230c6d2bb53?utm_campaign=1051&utm_source=git)** | Greater Vancouver Metropolitan Area | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
