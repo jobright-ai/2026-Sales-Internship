@@ -57,8 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69d67507706f771673baacc0?utm_campaign=1051&utm_source=git)** | London, ON | On Site | Apr 08 |
+| **[IBM](http://www.ibm.com)** | **[Technology Sales– Intern Co-op](https://jobright.ai/jobs/info/69d5f4f1366bb95ba554a39e?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Apr 08 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d673b0366bb95ba554cb71?utm_campaign=1051&utm_source=git)** | Brentwood, TN | On Site | Apr 08 |
+| **[HNR Solutions Inc](www.hnrsolutions.ca)** | **[Sales Representative – Intern](https://jobright.ai/jobs/info/69d6739f706f771673baac76?utm_campaign=1051&utm_source=git)** | Brampton, ON | Hybrid | Apr 08 |
+| **[Fechometal USA](https://fechometal.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d6739e706f771673baac6f?utm_campaign=1051&utm_source=git)** | Sanford, FL | On Site | Apr 08 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69d67379e63cea7a8b668f76?utm_campaign=1051&utm_source=git)** | Stoney Creek, ON | On Site | Apr 08 |
+| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Bangor ME](https://jobright.ai/jobs/info/69d6733fe63cea7a8b668ec7?utm_campaign=1051&utm_source=git)** | Bangor, ME, United States | On Site | Apr 08 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern - Paid](https://jobright.ai/jobs/info/69d6717948f0c8161d2f7cd5?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 08 |
+| **[Next Target](https://wearenexttarget.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69cfc852cdb525785fba4bd0?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Apr 08 |
+| **[Aristocrat Gaming](https://www.aristocrat.com/)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/699e9e00e0bddb6acace6590?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Apr 08 |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[PWM Intern](https://jobright.ai/jobs/info/69b0f32a7495006450981ffc?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 08 |
+| **[OneStream Software](https://www.onestream.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d66e75cfdc6132f9469dd8?utm_campaign=1051&utm_source=git)** | Atlanta Metro | On Site | Apr 08 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[FALL 2026 College Financial Representative Internship - NYC](https://jobright.ai/jobs/info/68a76806d627244576e2bf58?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 08 |
+| **[OneStream Software](https://www.onestream.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d66b11cfdc6132f9469ca8?utm_campaign=1051&utm_source=git)** | Alpharetta, Georgia, United States | On Site | Apr 08 |
 | **[ALO](https://www.aloyoga.com/)** | **[Real Estate Intern](https://jobright.ai/jobs/info/699e4cc0ce78e77b4fe37021?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Apr 08 |
-| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern - Paid](https://jobright.ai/jobs/info/69d6683752a5bf58001287f2?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 08 |
 | **[Flowcode](https://www.flowcode.com/)** | **[Sales Development Representative (SDR) Intern](https://jobright.ai/jobs/info/69d666b352a5bf580012879d?utm_campaign=1051&utm_source=git)** | (New York) | On Site | Apr 08 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Intern - Sales Development Representative](https://jobright.ai/jobs/info/69d6655b48f0c8161d2f78e0?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[Arch Telecom](https://linktr.ee/ArchTelecom)** | **[Hiring Event for Retail Associate Manager 17th April PHEASANT LANE MALL Portuguese or Brazilian Speaking Preferred](https://jobright.ai/jobs/info/69d66519e63cea7a8b668a3f?utm_campaign=1051&utm_source=git)** | Nashua, NH | On Site | Apr 08 |
@@ -92,8 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Purchasing Intern](https://jobright.ai/jobs/info/69197cd445fb6f5ead8a8e2f?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Apr 08 |
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/699c6d94e0bddb6acacb7990?utm_campaign=1051&utm_source=git)** | Shreveport, LA | On Site | Apr 08 |
 | **[Pearson](https://www.pearson.com/)** | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69cabc718fc6090c5d45095b?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Apr 08 |
-| ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69d5ce92891d7b11cfd05b89?utm_campaign=1051&utm_source=git)** | Augusta, ME | On Site | Apr 08 |
 | ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69ca80dde565c26a7003df1a?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Apr 08 |
+| ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69d5ce92891d7b11cfd05b89?utm_campaign=1051&utm_source=git)** | Augusta, ME | On Site | Apr 08 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Queens)](https://jobright.ai/jobs/info/69d6315248f0c8161d2f6eeb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[Pearson](https://www.pearson.com/)** | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69c64aaf1818a24cd84c3221?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 08 |
 | ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69ca8a7e466f1e133aac479e?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 08 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Urology Field Sales Internship Summer 2026 / Orlando](https://jobright.ai/jobs/info/69d59e1c706f771673ba46d6?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 07 |
 | **[Digital Provisions](https://www.digitalprovisions.com/)** | **[Sales Intern (Security Integration)](https://jobright.ai/jobs/info/69d59df4891d7b11cfd03327?utm_campaign=1051&utm_source=git)** | Ronkonkoma, NY | On Site | Apr 07 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Urology Field Sales Internship Summer 2026 / Nashville](https://jobright.ai/jobs/info/69d59c16366bb95ba554656e?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 07 |
-| ↳ | **[Urology Field Sales Internship Summer 2026 / Charlotte](https://jobright.ai/jobs/info/69d59c11cdb525785fbd223c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 07 |
-| ↳ | **[Urology Field Sales Internship Summer 2026 / Nashville](https://jobright.ai/jobs/info/69d59c0f366bb95ba5546548?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 07 |
-| **[Mills Automotive Group](https://www.millsautogroup.com/)** | **[INTERNET/BDC MANAGER](https://jobright.ai/jobs/info/69d59c01cdb525785fbd21fc?utm_campaign=1051&utm_source=git)** | Matthews, NC | On Site | Apr 07 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Urology Field Sales Internship Summer 2026 / Cincinnati](https://jobright.ai/jobs/info/69d59b3dcfdc6132f946389e?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Apr 07 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d59222cdb525785fbd1e7e?utm_campaign=1051&utm_source=git)** | Nampa, ID | On Site | Apr 07 |
-| **[Thélios](https://thelios.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69d591b5366bb95ba55461b8?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 07 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d5917e891d7b11cfd02f91?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Apr 07 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d5917e891d7b11cfd02f93?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 07 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d5917b706f771673ba42f7?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Apr 07 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d5916ce63cea7a8b6624d9?utm_campaign=1051&utm_source=git)** | Liberty Township, OH | On Site | Apr 07 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d5915fcfdc6132f9463497?utm_campaign=1051&utm_source=git)** | DeKalb, IL | On Site | Apr 07 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d5915fcfdc6132f9463496?utm_campaign=1051&utm_source=git)** | Owensboro, KY | On Site | Apr 07 |
-| **[AerSale, Inc.](https://www.aersale.com/)** | **[Sourcing Analyst Intern](https://jobright.ai/jobs/info/69d590dccdb525785fbd1e34?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
