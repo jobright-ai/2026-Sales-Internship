@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Doka](https://www.doka.com)** | **[Sales Intern, Southeast](https://jobright.ai/jobs/info/69d5b353cdb525785fbd29da?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Apr 07 |
+| **[Aflac](http://www.aflac.com)** | **[Partner & Onboarding Mgr](https://jobright.ai/jobs/info/69d5aed7706f771673ba4dbc?utm_campaign=1051&utm_source=git)** | Columbus, GA | Hybrid | Apr 07 |
+| ↳ | **[Account Manager I](https://jobright.ai/jobs/info/69d5ab73366bb95ba5546ae0?utm_campaign=1051&utm_source=git)** | Columbia, SC | Hybrid | Apr 07 |
+| **[ConstructConnect](https://www.constructconnect.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69a10ace81476f6176bb60f7?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 07 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d5a3ddcfdc6132f9463ada?utm_campaign=1051&utm_source=git)** | Kokomo, IN | On Site | Apr 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d5a375e63cea7a8b662ad7?utm_campaign=1051&utm_source=git)** | Park City, UT | On Site | Apr 07 |
 | **[EV Hover](https://evhover.com)** | **[Sales & Business Development Intern (100% Remote)](https://jobright.ai/jobs/info/69d5a1be891d7b11cfd0351f?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 07 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Urology Field Sales Internship Summer 2026 / Nashville](https://jobright.ai/jobs/info/69d59c0f366bb95ba5546548?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 07 |
 | **[Mills Automotive Group](https://www.millsautogroup.com/)** | **[INTERNET/BDC MANAGER](https://jobright.ai/jobs/info/69d59c01cdb525785fbd21fc?utm_campaign=1051&utm_source=git)** | Matthews, NC | On Site | Apr 07 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Urology Field Sales Internship Summer 2026 / Cincinnati](https://jobright.ai/jobs/info/69d59b3dcfdc6132f946389e?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Apr 07 |
-| **[ITW Global Tire Repair](https://www.itwgtr.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d59415366bb95ba5546212?utm_campaign=1051&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 07 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d59222cdb525785fbd1e7e?utm_campaign=1051&utm_source=git)** | Nampa, ID | On Site | Apr 07 |
 | **[Thélios](https://thelios.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69d591b5366bb95ba55461b8?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 07 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d5917e891d7b11cfd02f93?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 07 |
@@ -106,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Standlee Premium Western Forage](http://standleeforage.com)** | **[Sales Intern - West Region](https://jobright.ai/jobs/info/69d56050cdb525785fbd04a8?utm_campaign=1051&utm_source=git)** | Bend, Oregon, United States | On Site | Apr 07 |
 | ↳ | **[Sales Intern - Southeast Region](https://jobright.ai/jobs/info/69d5604d706f771673ba2966?utm_campaign=1051&utm_source=git)** | Lynchburg, Virginia, United States | On Site | Apr 07 |
 | ↳ | **[Sales Intern - Midwest Region](https://jobright.ai/jobs/info/69d5604bcdb525785fbd049d?utm_campaign=1051&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Apr 07 |
-| ↳ | **[Sales Intern - Midwest Region](https://jobright.ai/jobs/info/69d56049366bb95ba5544810?utm_campaign=1051&utm_source=git)** | Des Moines, Iowa, United States | On Site | Apr 07 |
 | ↳ | **[Sales Intern - Northeast Region](https://jobright.ai/jobs/info/69d56049366bb95ba5544811?utm_campaign=1051&utm_source=git)** | Bowling Green, Kentucky, United States | On Site | Apr 07 |
+| ↳ | **[Sales Intern - Midwest Region](https://jobright.ai/jobs/info/69d56049366bb95ba5544810?utm_campaign=1051&utm_source=git)** | Des Moines, Iowa, United States | On Site | Apr 07 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Research Intern - Business Development](https://jobright.ai/jobs/info/69d5601b366bb95ba5544706?utm_campaign=1051&utm_source=git)** | Pullman - 2420 | On Site | Apr 07 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Business Development Co-op (4 or 8 months)](https://jobright.ai/jobs/info/69d55932706f771673ba2598?utm_campaign=1051&utm_source=git)** | Richmond, BC | On Site | Apr 07 |
 | **[Highwoods Properties](http://highwoods.com)** | **[Summer Leasing Intern](https://jobright.ai/jobs/info/69d558c9e63cea7a8b6606f9?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
@@ -144,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Huhtamaki](http://huhtamaki.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69d52bf5706f771673ba0fb2?utm_campaign=1051&utm_source=git)** | De Soto, KS | On Site | Apr 07 |
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Intern - Ticket Sales & Operations Fall 2026](https://jobright.ai/jobs/info/69d52baf891d7b11cfcffcef?utm_campaign=1051&utm_source=git)** | Worcester, MA | On Site | Apr 07 |
 | **[Performance Food Group](http://www.pfgc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d549cbcfdc6132f94610a4?utm_campaign=1051&utm_source=git)** | Virginia | On Site | Apr 07 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69d549cfe63cea7a8b660030?utm_campaign=1051&utm_source=git)** | Knoxville, Tennessee (TN) | On Site | Apr 07 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69d549b3706f771673ba1e73?utm_campaign=1051&utm_source=git)** | 12500 West Creek Pkwy | On Site | Apr 07 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69d549cfe63cea7a8b660030?utm_campaign=1051&utm_source=git)** | Knoxville, Tennessee (TN) | On Site | Apr 07 |
 | **[Redwood Logistics](https://www.redwoodlogistics.com/)** | **[Commercial Services Summer Internship](https://jobright.ai/jobs/info/69d5266c366bb95ba5542de1?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Apr 07 |
 | **[Bespoke Partners](http://www.bespokepartners.com)** | **[Bespoke Futures Program - Research Analyst Intern](https://jobright.ai/jobs/info/69d5263f891d7b11cfcffb1b?utm_campaign=1051&utm_source=git)** | Austin, TX 78702 | Hybrid | Apr 07 |
 | **[Genesys](https://www.genesys.com)** | **[Direct Response Representative Intern](https://jobright.ai/jobs/info/69cc8f62366bb95ba54f2f8c?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | Apr 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MSU Sports Properties](https://www.linkedin.com/company/82668411)** | **[Partnership Services Intern, MSU Sports Properties](https://jobright.ai/jobs/info/69d52264706f771673ba0b92?utm_campaign=1051&utm_source=git)** | East Lansing, MI | On Site | Apr 07 |
 | **[Doka USA](http://www.dokausa.com)** | **[Sales Intern, Southwest](https://jobright.ai/jobs/info/69d51fc1cdb525785fbce6a5?utm_campaign=1051&utm_source=git)** | Tomball, TX | On Site | Apr 07 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69d51e77e63cea7a8b65ec85?utm_campaign=1051&utm_source=git)** | Dartmouth, NS | On Site | Apr 07 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d51cf5891d7b11cfcff734?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Apr 07 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Augusta-Waterville ME](https://jobright.ai/jobs/info/69bc6ff845e08b3dc1f925e5?utm_campaign=1051&utm_source=git)** | Bangor, ME | On Site | Apr 07 |
-| **[HMH](http://www.hmhco.com)** | **[Account Executive - Small Accounts](https://jobright.ai/jobs/info/69d51ccb891d7b11cfcff6d7?utm_campaign=1051&utm_source=git)** | Idaho, United States | Remote | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
