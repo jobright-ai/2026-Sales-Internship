@@ -135,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Standlee Premium Western Forage](http://standleeforage.com)** | **[Sales Intern - West Region](https://jobright.ai/jobs/info/69d56050cdb525785fbd04a8?utm_campaign=1051&utm_source=git)** | Bend, Oregon, United States | On Site | Apr 07 |
 | ↳ | **[Sales Intern - Southeast Region](https://jobright.ai/jobs/info/69d5604d706f771673ba2966?utm_campaign=1051&utm_source=git)** | Lynchburg, Virginia, United States | On Site | Apr 07 |
 | ↳ | **[Sales Intern - Midwest Region](https://jobright.ai/jobs/info/69d5604bcdb525785fbd049d?utm_campaign=1051&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Apr 07 |
-| ↳ | **[Sales Intern - Midwest Region](https://jobright.ai/jobs/info/69d56049366bb95ba5544810?utm_campaign=1051&utm_source=git)** | Des Moines, Iowa, United States | On Site | Apr 07 |
 | ↳ | **[Sales Intern - Northeast Region](https://jobright.ai/jobs/info/69d56049366bb95ba5544811?utm_campaign=1051&utm_source=git)** | Bowling Green, Kentucky, United States | On Site | Apr 07 |
+| ↳ | **[Sales Intern - Midwest Region](https://jobright.ai/jobs/info/69d56049366bb95ba5544810?utm_campaign=1051&utm_source=git)** | Des Moines, Iowa, United States | On Site | Apr 07 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Research Intern - Business Development](https://jobright.ai/jobs/info/69d5601b366bb95ba5544706?utm_campaign=1051&utm_source=git)** | Pullman - 2420 | On Site | Apr 07 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Business Development Co-op (4 or 8 months)](https://jobright.ai/jobs/info/69d55932706f771673ba2598?utm_campaign=1051&utm_source=git)** | Richmond, BC | On Site | Apr 07 |
 | **[Highwoods Properties](http://highwoods.com)** | **[Summer Leasing Intern](https://jobright.ai/jobs/info/69d558c9e63cea7a8b6606f9?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
