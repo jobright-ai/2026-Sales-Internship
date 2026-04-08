@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Retail Operations Intern 2026](https://jobright.ai/jobs/info/69d6b790cfdc6132f946c8c5?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Apr 08 |
+| **[Michigan State University](http://msu.edu)** | **[Associate Director of Development, MSU Student Success / Development Officer II](https://jobright.ai/jobs/info/69d6b787366bb95ba554f3ad?utm_campaign=1051&utm_source=git)** | East Lansing, MI | On Site | Apr 08 |
+| **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[On-Premise Summer Field Sales Representative, Niagara](https://jobright.ai/jobs/info/69d3dfc0366bb95ba5538101?utm_campaign=1051&utm_source=git)** | Niagara, ON | On Site | Apr 08 |
+| **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[Retail Manager Trainee](https://jobright.ai/jobs/info/69d6b607366bb95ba554f2c2?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Apr 08 |
+| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69d6b600366bb95ba554f2ac?utm_campaign=1051&utm_source=git)** | Hamilton, ON | On Site | Apr 08 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69d6b5f6366bb95ba554f2a5?utm_campaign=1051&utm_source=git)** | Ottawa, ON | On Site | Apr 08 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69d6b5f3706f771673bad3cb?utm_campaign=1051&utm_source=git)** | Mississauga, ON | On Site | Apr 08 |
+| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Sales Intern (6 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69cc8747cfdc6132f940f33d?utm_campaign=1051&utm_source=git)** | Toronto, ON | Hybrid | Apr 08 |
+| **[Novanta Inc.](http://www.novanta.com)** | **[Corporate Development Internship (Summer 2026)](https://jobright.ai/jobs/info/69d6b59048f0c8161d2fa547?utm_campaign=1051&utm_source=git)** | Remote - NY | Remote | Apr 08 |
+| **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Purchasing Agent](https://jobright.ai/jobs/info/69d6b1a448f0c8161d2fa4cc?utm_campaign=1051&utm_source=git)** | Napa, CA | On Site | Apr 08 |
+| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Brooklyn Navy Yard)](https://jobright.ai/jobs/info/69d6b1a348f0c8161d2fa4c1?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Apr 08 |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[Lead Customer Success Specialist, Advisory](https://jobright.ai/jobs/info/69d6b16f706f771673bad282?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Apr 08 |
 | **[Lamar Advertising Company](http://www.lamar.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d6ac8f706f771673bad0a7?utm_campaign=1051&utm_source=git)** | GRANITE FALLS, North Carolina, United States | On Site | Apr 08 |
 | **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales Service Intern](https://jobright.ai/jobs/info/69ba992b06c1ba00c54cc8bd?utm_campaign=1051&utm_source=git)** | Miami, NM | Hybrid | Apr 08 |
 | **[Faurecia](https://www.forvia.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d6a8c248f0c8161d2fa0c7?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Apr 08 |
@@ -74,7 +86,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d6a09d706f771673babce0?utm_campaign=1051&utm_source=git)** | Noblesville, IN | On Site | Apr 08 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d6a07f366bb95ba554dbcb?utm_campaign=1051&utm_source=git)** | Bridgeport, WV | On Site | Apr 08 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d6a07f366bb95ba554dbcc?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 08 |
-| **[Electro](electrogum.com)** | **[NIL Partnerships Intern](https://jobright.ai/jobs/info/69d69d5252a5bf5800129c09?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | Apr 08 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[NA Small and Medium Business (SMB) Category Team: Business Development Intern Summer 2026](https://jobright.ai/jobs/info/699df672ce78e77b4fe31a1a?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Apr 08 |
 | **[Eagleview](http://www.eagleview.com)** | **[Go-to-Market & Business Development Intern](https://jobright.ai/jobs/info/69d6984552a5bf5800129b3f?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Quaker City Mercantile](https://quakercitymercantile.com)** | **[Summer Account Coordinator Internship](https://jobright.ai/jobs/info/69d6983848f0c8161d2f8c76?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
@@ -96,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69d6814a48f0c8161d2f8277?utm_campaign=1051&utm_source=git)** | Wisconsin Dells, WI | On Site | Apr 08 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern](https://jobright.ai/jobs/info/695c500022c9dc0d3d5440ff?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Apr 08 |
 | **[IgniteIt Inc.](events.igniteit.com)** | **[Conference Sales Intern](https://jobright.ai/jobs/info/69d67c6de63cea7a8b6691e5?utm_campaign=1051&utm_source=git)** | Bloomfield Hills, MI | Hybrid | Apr 08 |
-| **[Stark Enterprises](http://starkenterprises.com)** | **[Asset Management and Investment Intern](https://jobright.ai/jobs/info/69d6acd952a5bf580012b239?utm_campaign=1051&utm_source=git)** | Cleveland, OH | Hybrid | Apr 08 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Client Management - Summer 2026](https://jobright.ai/jobs/info/69d6786252a5bf5800128f09?utm_campaign=1051&utm_source=git)** | Conway | On Site | Apr 08 |
 | ↳ | **[Intern - Client Management - Summer 2026](https://jobright.ai/jobs/info/69d67856cfdc6132f946a1d8?utm_campaign=1051&utm_source=git)** | Remote/Homebased | Remote | Apr 08 |
 | **[Naboo](https://naboo.app)** | **[Sales Development Representative (SDR) - Internship](https://jobright.ai/jobs/info/69d6981dcfdc6132f946ad74?utm_campaign=1051&utm_source=git)** | Montreal, QC | On Site | Apr 08 |
@@ -115,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[OneStream Software](https://www.onestream.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d66b11cfdc6132f9469ca8?utm_campaign=1051&utm_source=git)** | Alpharetta, Georgia, United States | On Site | Apr 08 |
 | **[GZTV](www.gztvnetwork.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d68ba548f0c8161d2f8867?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
 | **[ALO](https://www.aloyoga.com/)** | **[Real Estate Intern](https://jobright.ai/jobs/info/699e4cc0ce78e77b4fe37021?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Apr 08 |
-| **[IBM](http://www.ibm.com)** | **[Technology Sales– Intern Co-op](https://jobright.ai/jobs/info/69d5c323cdb525785fbd3ecb?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | Hybrid | Apr 08 |
-| ↳ | **[Technology Sales– Intern Co-op](https://jobright.ai/jobs/info/69c16b5579e36d3a847e1b30?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Apr 08 |
+| **[IBM](http://www.ibm.com)** | **[Technology Sales– Intern Co-op](https://jobright.ai/jobs/info/69c16b5579e36d3a847e1b30?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Apr 08 |
+| ↳ | **[Technology Sales– Intern Co-op](https://jobright.ai/jobs/info/69d5c323cdb525785fbd3ecb?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | Hybrid | Apr 08 |
 | **[Flowcode](https://www.flowcode.com/)** | **[Sales Development Representative (SDR) Intern](https://jobright.ai/jobs/info/69d666b352a5bf580012879d?utm_campaign=1051&utm_source=git)** | (New York) | On Site | Apr 08 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Intern - Sales Development Representative](https://jobright.ai/jobs/info/69d6655b48f0c8161d2f78e0?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[Arch Telecom](https://linktr.ee/ArchTelecom)** | **[Hiring Event for Retail Associate Manager 17th April PHEASANT LANE MALL Portuguese or Brazilian Speaking Preferred](https://jobright.ai/jobs/info/69d66519e63cea7a8b668a3f?utm_campaign=1051&utm_source=git)** | Nashua, NH | On Site | Apr 08 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TD Securities](https://www.tdsecurities.com)** | **[Commercial Banking Intern / Co-op - Preferred Candidate](https://jobright.ai/jobs/info/69d637ad48f0c8161d2f70d2?utm_campaign=1051&utm_source=git)** | Edmonton, AB | On Site | Apr 08 |
 | **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cb7910efdec76df36bd277?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Apr 08 |
 | ↳ | **[Purchasing Intern](https://jobright.ai/jobs/info/69197cd445fb6f5ead8a8e2f?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Apr 08 |
-| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/699c6d94e0bddb6acacb7990?utm_campaign=1051&utm_source=git)** | Shreveport, LA | On Site | Apr 08 |
-| **[Pearson](https://www.pearson.com/)** | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69cabc718fc6090c5d45095b?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Apr 08 |
-| ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69d5ce92891d7b11cfd05b89?utm_campaign=1051&utm_source=git)** | Augusta, ME | On Site | Apr 08 |
-| ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69ca80dde565c26a7003df1a?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Apr 08 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Queens)](https://jobright.ai/jobs/info/69d6315248f0c8161d2f6eeb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 08 |
-| **[Pearson](https://www.pearson.com/)** | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69c64aaf1818a24cd84c3221?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 08 |
-| ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69ca8a7e466f1e133aac479e?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 08 |
-| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/699c69d3e0bddb6acacb7517?utm_campaign=1051&utm_source=git)** | Alexandria, LA | On Site | Apr 08 |
-| **[Pearson](https://www.pearson.com/)** | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69d62e4e366bb95ba554bc07?utm_campaign=1051&utm_source=git)** | Salem, OR | On Site | Apr 08 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Treasury Management Sales Support Analyst](https://jobright.ai/jobs/info/69d62b2ce63cea7a8b667f71?utm_campaign=1051&utm_source=git)** | Short Hills, NJ | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
