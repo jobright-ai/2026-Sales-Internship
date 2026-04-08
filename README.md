@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69d6024e366bb95ba554af37?utm_campaign=1051&utm_source=git)** | Victoria, Subdivision A, NS | On Site | Apr 08 |
+| **[Logitech](https://www.logitech.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69ceaa31398fb071abf8783b?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Apr 08 |
+| **[PeopleLens](https://peoplelens.ai)** | **[Sales Development Intern - AI Native (Spring 2026)](https://jobright.ai/jobs/info/69d5ff3d706f771673ba8e94?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 08 |
+| **[DentalScan](https://www.dentalscan.us)** | **[Sales Representative Internship](https://jobright.ai/jobs/info/69d5f33f706f771673ba821a?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 07 |
+| **[Standlee Premium Western Forage](http://standleeforage.com)** | **[Sales Intern - Midwest Region](https://jobright.ai/jobs/info/69d5f33d706f771673ba820c?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Apr 07 |
+| ↳ | **[Sales Intern - West Region](https://jobright.ai/jobs/info/69d5f332366bb95ba554a1b5?utm_campaign=1051&utm_source=git)** | Bend, OR | On Site | Apr 07 |
+| ↳ | **[Sales Intern - Southeast Region](https://jobright.ai/jobs/info/69d5f316e63cea7a8b6665ae?utm_campaign=1051&utm_source=git)** | Lynchburg, VA | On Site | Apr 07 |
+| ↳ | **[Sales Intern - Northeast Region](https://jobright.ai/jobs/info/69d5f30ee63cea7a8b66659b?utm_campaign=1051&utm_source=git)** | Bowling Green, KY | On Site | Apr 07 |
 | **[Sandisk](https://www.sandisk.com)** | **[Summer 2026 Sales and Business Operations Intern](https://jobright.ai/jobs/info/69d5e63c366bb95ba5549d38?utm_campaign=1051&utm_source=git)** | Milpitas, CA | Hybrid | Apr 07 |
 | **[Munson](https://www.munson.art/)** | **[Munson Development Intern](https://jobright.ai/jobs/info/69d5e63c706f771673ba7d96?utm_campaign=1051&utm_source=git)** | Utica, Utica, NY, US | On Site | Apr 07 |
 | **[Prairie Meadows](https://www.prairiemeadows.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69d5e639706f771673ba7d87?utm_campaign=1051&utm_source=git)** | Altoona, IA, US | On Site | Apr 07 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lumentum](https://www.lumentum.com/en)** | **[Sales Support and Market Analyst Intern](https://jobright.ai/jobs/info/69d5373ecdb525785fbcf1ab?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 07 |
 | **[Zentility](https://www.zentility.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d53419cdb525785fbcf0dd?utm_campaign=1051&utm_source=git)** | Annapolis, MD | On Site | Apr 07 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Director of Development (Administrator I)](https://jobright.ai/jobs/info/69d533d0cdb525785fbcf0b1?utm_campaign=1051&utm_source=git)** | SD Metro Area | Hybrid | Apr 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/69ba91193b74eb1e2c888fbd?utm_campaign=1051&utm_source=git)** | Natchitoches, LA | On Site | Apr 07 |
-| ↳ | **[Summer 2026 Management Trainee Sales Internship - Bremerton](https://jobright.ai/jobs/info/69ba90663b74eb1e2c888bee?utm_campaign=1051&utm_source=git)** | Port Orchard, WA | On Site | Apr 07 |
-| **[Workato](http://www.workato.com)** | **[Intern, Customer Success](https://jobright.ai/jobs/info/69d531ec366bb95ba554317f?utm_campaign=1051&utm_source=git)** | Palo Alto, California | On Site | Apr 07 |
-| **[Sporting Kansas City](http://www.sportingkc.com)** | **[Ticket Sales & Service Intern - Summer 2026](https://jobright.ai/jobs/info/699ce129ce78e77b4fe19790?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 07 |
-| **[ArtsyEmpire](artsyempire.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d52fac366bb95ba5543061?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/696578ad5ad3a93f8230bdfb?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Apr 07 |
-| **[Doka USA](http://www.dokausa.com)** | **[Sales Intern, Southeast](https://jobright.ai/jobs/info/69d52ea0cdb525785fbcec0c?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Apr 07 |
-| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d52e62e63cea7a8b65f24a?utm_campaign=1051&utm_source=git)** | Kansas, United States | Remote | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
