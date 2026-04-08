@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69d60da4891d7b11cfd07f7e?utm_campaign=1051&utm_source=git)** | East Syracuse, NY | On Site | Apr 08 |
+| **[Sandisk](https://www.sandisk.com)** | **[Summer 2026 Sales and Business Operations Intern](https://jobright.ai/jobs/info/69d60bc8891d7b11cfd07f43?utm_campaign=1051&utm_source=git)** | Milpitas, CA | On Site | Apr 08 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69d6024e366bb95ba554af37?utm_campaign=1051&utm_source=git)** | Victoria, Subdivision A, NS | On Site | Apr 08 |
 | **[Logitech](https://www.logitech.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69ceaa31398fb071abf8783b?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Apr 08 |
 | **[PeopleLens](https://peoplelens.ai)** | **[Sales Development Intern - AI Native (Spring 2026)](https://jobright.ai/jobs/info/69d5ff3d706f771673ba8e94?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 08 |
@@ -103,8 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d5917e891d7b11cfd02f91?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Apr 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d5917b706f771673ba42f7?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Apr 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d5916ce63cea7a8b6624d9?utm_campaign=1051&utm_source=git)** | Liberty Township, OH | On Site | Apr 07 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d5915fcfdc6132f9463496?utm_campaign=1051&utm_source=git)** | Owensboro, KY | On Site | Apr 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d5915fcfdc6132f9463497?utm_campaign=1051&utm_source=git)** | DeKalb, IL | On Site | Apr 07 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d5915fcfdc6132f9463496?utm_campaign=1051&utm_source=git)** | Owensboro, KY | On Site | Apr 07 |
 | **[AerSale, Inc.](https://www.aersale.com/)** | **[Sourcing Analyst Intern](https://jobright.ai/jobs/info/69d590dccdb525785fbd1e34?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Apr 07 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Director of Development](https://jobright.ai/jobs/info/69d59058706f771673ba42bf?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Apr 07 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69b084c2749500645096eec6?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 07 |
@@ -121,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Just Group plc](https://www.justgroupplc.co.uk/)** | **[National Account Director](https://jobright.ai/jobs/info/69d57228e63cea7a8b66168d?utm_campaign=1051&utm_source=git)** | Field, BC | On Site | Apr 07 |
 | **[Knichel Logistics, Inc.](http://www.knichellogistics.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69d570ad706f771673ba3317?utm_campaign=1051&utm_source=git)** | Cranberry Township, Pennsylvania, United States | On Site | Apr 07 |
 | **[Wolverine Advanced Materials](http://www.wamglobal.com/)** | **[Purchasing Assistant-Intern](https://jobright.ai/jobs/info/69d57091e63cea7a8b66144a?utm_campaign=1051&utm_source=git)** | Blacksburg, VA | On Site | Apr 07 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/69d60de4cfdc6132f946850a?utm_campaign=1051&utm_source=git)** | Mississauga, ON | On Site | Apr 07 |
 | **[The Midtown Grp](https://themidtowngrp.com)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69d56ba7e63cea7a8b6612e8?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
 | **[Nielsen](https://www.nielsen.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69d569e3e63cea7a8b6611c9?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Industrial Sales/Account Manager Intern](https://jobright.ai/jobs/info/69d56846e63cea7a8b661063?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 07 |
@@ -132,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Standlee Premium Western Forage](http://standleeforage.com)** | **[Sales Intern - West Region](https://jobright.ai/jobs/info/69d56050cdb525785fbd04a8?utm_campaign=1051&utm_source=git)** | Bend, Oregon, United States | On Site | Apr 07 |
 | ↳ | **[Sales Intern - Southeast Region](https://jobright.ai/jobs/info/69d5604d706f771673ba2966?utm_campaign=1051&utm_source=git)** | Lynchburg, Virginia, United States | On Site | Apr 07 |
 | ↳ | **[Sales Intern - Midwest Region](https://jobright.ai/jobs/info/69d5604bcdb525785fbd049d?utm_campaign=1051&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Apr 07 |
-| ↳ | **[Sales Intern - Northeast Region](https://jobright.ai/jobs/info/69d56049366bb95ba5544811?utm_campaign=1051&utm_source=git)** | Bowling Green, Kentucky, United States | On Site | Apr 07 |
 | ↳ | **[Sales Intern - Midwest Region](https://jobright.ai/jobs/info/69d56049366bb95ba5544810?utm_campaign=1051&utm_source=git)** | Des Moines, Iowa, United States | On Site | Apr 07 |
+| ↳ | **[Sales Intern - Northeast Region](https://jobright.ai/jobs/info/69d56049366bb95ba5544811?utm_campaign=1051&utm_source=git)** | Bowling Green, Kentucky, United States | On Site | Apr 07 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Research Intern - Business Development](https://jobright.ai/jobs/info/69d5601b366bb95ba5544706?utm_campaign=1051&utm_source=git)** | Pullman - 2420 | On Site | Apr 07 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Business Development Co-op (4 or 8 months)](https://jobright.ai/jobs/info/69d55932706f771673ba2598?utm_campaign=1051&utm_source=git)** | Richmond, BC | On Site | Apr 07 |
 | **[Highwoods Properties](http://highwoods.com)** | **[Summer Leasing Intern](https://jobright.ai/jobs/info/69d558c9e63cea7a8b6606f9?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
@@ -142,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[National Association of Home Builders](https://www.nahb.org)** | **[Business Development Intern, Sponsorships & Advertising](https://jobright.ai/jobs/info/69d5535fe63cea7a8b6604ce?utm_campaign=1051&utm_source=git)** | DC - Main Office, Washington, DC, US | On Site | Apr 07 |
 | **[ATP Gov](https://atpgov.com/)** | **[ACCOUNT EXECUTIVE - ARMY](https://jobright.ai/jobs/info/69d55145366bb95ba5544050?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69cb0ba4aa3c2c1995e33928?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Apr 07 |
-| **[Legacy Philanthropy](http://www.legacyphilanthropy.com)** | **[Sports Partnerships Intern (Athlete Philanthropy) – Remote](https://jobright.ai/jobs/info/69d54ab9cdb525785fbcfa21?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 07 |
 | **[JR Capital](https://www.jrwcap.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d549c0cfdc6132f9461059?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Apr 07 |
 | **[Nielsen](https://www.nielsen.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69d549b4366bb95ba5543ce9?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Apr 07 |
 | **[Umdasch Group](https://umdaschgroup-ventures.com/)** | **[Sales Intern, Southeast](https://jobright.ai/jobs/info/69d549aae63cea7a8b65ffba?utm_campaign=1051&utm_source=git)** | 105 Boulder Brook Cir, Lawrenceville, GA 30045, USA | On Site | Apr 07 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69ba88d05697383741401e81?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Apr 07 |
 | **[Workato](http://www.workato.com)** | **[Intern, Customer Success](https://jobright.ai/jobs/info/69d54438cfdc6132f9460d75?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Apr 07 |
 | **[SVN Cornerstone](https://www.svncornerstone.com)** | **[Intern to Junior Broker Career Track](https://jobright.ai/jobs/info/69d54406891d7b11cfd007da?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Apr 07 |
+| **[Asian Americans for Equality](https://www.aafe.org/)** | **[Business Advisor Support Intern (Mandarin Chinese Speaker)](https://jobright.ai/jobs/info/69d60dea706f771673ba92f2?utm_campaign=1051&utm_source=git)** | Queens, New York, United States | On Site | Apr 07 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69d540becdb525785fbcf534?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 07 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Sales Intern - Best Buy Accounts - Minnesota  (Home Solution)](https://jobright.ai/jobs/info/69d5409e366bb95ba55438a1?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Apr 07 |
-| **[Lumentum](https://www.lumentum.com/en)** | **[Sales Support and Market Analyst Intern](https://jobright.ai/jobs/info/69d5373ecdb525785fbcf1ab?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 07 |
-| **[Zentility](https://www.zentility.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d53419cdb525785fbcf0dd?utm_campaign=1051&utm_source=git)** | Annapolis, MD | On Site | Apr 07 |
-| **[San Diego State University](http://www.sdsu.edu)** | **[Director of Development (Administrator I)](https://jobright.ai/jobs/info/69d533d0cdb525785fbcf0b1?utm_campaign=1051&utm_source=git)** | SD Metro Area | Hybrid | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
