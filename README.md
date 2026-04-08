@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lamar Advertising Company](http://www.lamar.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d6ac8f706f771673bad0a7?utm_campaign=1051&utm_source=git)** | GRANITE FALLS, North Carolina, United States | On Site | Apr 08 |
+| **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales Service Intern](https://jobright.ai/jobs/info/69ba992b06c1ba00c54cc8bd?utm_campaign=1051&utm_source=git)** | Miami, NM | Hybrid | Apr 08 |
+| **[Faurecia](https://www.forvia.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d6a8c248f0c8161d2fa0c7?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Apr 08 |
+| **[Riverhead Mazda](www.riverheadmazda.com)** | **[Sales Leadership Development Internship](https://jobright.ai/jobs/info/69d6a896366bb95ba554ed8c?utm_campaign=1051&utm_source=git)** | Riverhead, NY | On Site | Apr 08 |
+| **[Sofinnova Investments](http://www.sofinnova.com)** | **[Venture Fellow](https://jobright.ai/jobs/info/69d6a83d52a5bf580012ae89?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 08 |
+| **[Capital One](http://www.capitalone.com)** | **[Student Café Ambassador (Intern) - Uptown Dallas, Wynnewood Village, Stonebriar Centre](https://jobright.ai/jobs/info/69820b8b0f6f7e7a2cdb30ad?utm_campaign=1051&utm_source=git)** | Frisco, TX | On Site | Apr 08 |
+| **[SavATree](http://www.savatree.com)** | **[Internship](https://jobright.ai/jobs/info/69d6a73b366bb95ba554ecbe?utm_campaign=1051&utm_source=git)** | Mashpee, MA | On Site | Apr 08 |
+| **[DRF Water Heating Solutions](https://www.drftps.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/69d6a4d548f0c8161d2f9184?utm_campaign=1051&utm_source=git)** | Plainfield, IL | On Site | Apr 08 |
+| **[Flowcode](https://www.flowcode.com/)** | **[Sales Development Representative (SDR) Intern](https://jobright.ai/jobs/info/69d6a406706f771673babd9d?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 08 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d6a15ce63cea7a8b66a065?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Apr 08 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d6a12ccfdc6132f946b0b2?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Apr 08 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d6a0bc52a5bf5800129dcd?utm_campaign=1051&utm_source=git)** | Syracuse, NY | On Site | Apr 08 |
@@ -65,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d6a09d706f771673babce0?utm_campaign=1051&utm_source=git)** | Noblesville, IN | On Site | Apr 08 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d6a07f366bb95ba554dbcb?utm_campaign=1051&utm_source=git)** | Bridgeport, WV | On Site | Apr 08 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d6a07f366bb95ba554dbcc?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 08 |
-| **[Affinity Group, Sales & Marketing Agency](http://www.affinitysales.com/)** | **[Foodservice Sales and Marketing Internship](https://jobright.ai/jobs/info/69d69f4a706f771673babc50?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
 | **[Electro](electrogum.com)** | **[NIL Partnerships Intern](https://jobright.ai/jobs/info/69d69d5252a5bf5800129c09?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | Apr 08 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[NA Small and Medium Business (SMB) Category Team: Business Development Intern Summer 2026](https://jobright.ai/jobs/info/699df672ce78e77b4fe31a1a?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Apr 08 |
 | **[Eagleview](http://www.eagleview.com)** | **[Go-to-Market & Business Development Intern](https://jobright.ai/jobs/info/69d6984552a5bf5800129b3f?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 08 |
@@ -88,11 +96,11 @@ For a complete list, click the following sortable link below:
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69d6814a48f0c8161d2f8277?utm_campaign=1051&utm_source=git)** | Wisconsin Dells, WI | On Site | Apr 08 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern](https://jobright.ai/jobs/info/695c500022c9dc0d3d5440ff?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Apr 08 |
 | **[IgniteIt Inc.](events.igniteit.com)** | **[Conference Sales Intern](https://jobright.ai/jobs/info/69d67c6de63cea7a8b6691e5?utm_campaign=1051&utm_source=git)** | Bloomfield Hills, MI | Hybrid | Apr 08 |
+| **[Stark Enterprises](http://starkenterprises.com)** | **[Asset Management and Investment Intern](https://jobright.ai/jobs/info/69d6acd952a5bf580012b239?utm_campaign=1051&utm_source=git)** | Cleveland, OH | Hybrid | Apr 08 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Client Management - Summer 2026](https://jobright.ai/jobs/info/69d6786252a5bf5800128f09?utm_campaign=1051&utm_source=git)** | Conway | On Site | Apr 08 |
 | ↳ | **[Intern - Client Management - Summer 2026](https://jobright.ai/jobs/info/69d67856cfdc6132f946a1d8?utm_campaign=1051&utm_source=git)** | Remote/Homebased | Remote | Apr 08 |
 | **[Naboo](https://naboo.app)** | **[Sales Development Representative (SDR) - Internship](https://jobright.ai/jobs/info/69d6981dcfdc6132f946ad74?utm_campaign=1051&utm_source=git)** | Montreal, QC | On Site | Apr 08 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69d67507706f771673baacc0?utm_campaign=1051&utm_source=git)** | London, ON | On Site | Apr 08 |
-| **[IBM](http://www.ibm.com)** | **[Technology Sales– Intern Co-op](https://jobright.ai/jobs/info/69d5f4f1366bb95ba554a39e?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Apr 08 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d673b0366bb95ba554cb71?utm_campaign=1051&utm_source=git)** | Brentwood, TN | On Site | Apr 08 |
 | **[HNR Solutions Inc](www.hnrsolutions.ca)** | **[Sales Representative – Intern](https://jobright.ai/jobs/info/69d6739f706f771673baac76?utm_campaign=1051&utm_source=git)** | Brampton, ON | Hybrid | Apr 08 |
 | **[Fechometal USA](https://fechometal.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d6739e706f771673baac6f?utm_campaign=1051&utm_source=git)** | Sanford, FL | On Site | Apr 08 |
@@ -114,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Arch Telecom](https://linktr.ee/ArchTelecom)** | **[Hiring Event for Retail Associate Manager 17th April PHEASANT LANE MALL Portuguese or Brazilian Speaking Preferred](https://jobright.ai/jobs/info/69d66519e63cea7a8b668a3f?utm_campaign=1051&utm_source=git)** | Nashua, NH | On Site | Apr 08 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Corporate Development M&A](https://jobright.ai/jobs/info/69bb8c093b74eb1e2c8a07b4?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Apr 08 |
 | **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/689e6981faa4e875e827bfe6?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Apr 08 |
-| **[IBM](http://www.ibm.com)** | **[Technology Sales– Intern Co-op](https://jobright.ai/jobs/info/69c0c9de79e36d3a847d1f1d?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Apr 08 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/692e2503ef4b48533d13cffd?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Apr 08 |
 | **[Sun Gro Horticulture](http://www.sungro.com)** | **[Sales Training Internship](https://jobright.ai/jobs/info/699cfafbce78e77b4fe1bb64?utm_campaign=1051&utm_source=git)** | Springfield, MA | On Site | Apr 08 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Houston TX](https://jobright.ai/jobs/info/69d6614048f0c8161d2f77bf?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 08 |
@@ -142,19 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Purchasing Intern](https://jobright.ai/jobs/info/69197cd445fb6f5ead8a8e2f?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Apr 08 |
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/699c6d94e0bddb6acacb7990?utm_campaign=1051&utm_source=git)** | Shreveport, LA | On Site | Apr 08 |
 | **[Pearson](https://www.pearson.com/)** | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69cabc718fc6090c5d45095b?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Apr 08 |
-| ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69ca80dde565c26a7003df1a?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Apr 08 |
 | ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69d5ce92891d7b11cfd05b89?utm_campaign=1051&utm_source=git)** | Augusta, ME | On Site | Apr 08 |
+| ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69ca80dde565c26a7003df1a?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Apr 08 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Queens)](https://jobright.ai/jobs/info/69d6315248f0c8161d2f6eeb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 08 |
-| **[Pearson](https://www.pearson.com/)** | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69ca8a7e466f1e133aac479e?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 08 |
-| ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69c64aaf1818a24cd84c3221?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 08 |
+| **[Pearson](https://www.pearson.com/)** | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69c64aaf1818a24cd84c3221?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 08 |
+| ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69ca8a7e466f1e133aac479e?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 08 |
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/699c69d3e0bddb6acacb7517?utm_campaign=1051&utm_source=git)** | Alexandria, LA | On Site | Apr 08 |
 | **[Pearson](https://www.pearson.com/)** | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69d62e4e366bb95ba554bc07?utm_campaign=1051&utm_source=git)** | Salem, OR | On Site | Apr 08 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Treasury Management Sales Support Analyst](https://jobright.ai/jobs/info/69d62b2ce63cea7a8b667f71?utm_campaign=1051&utm_source=git)** | Short Hills, NJ | Hybrid | Apr 08 |
-| ↳ | **[Treasury Management Sales Support Analyst](https://jobright.ai/jobs/info/69d62b0252a5bf5800127c9d?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Apr 08 |
-| ↳ | **[Treasury Management Sales Support Analyst](https://jobright.ai/jobs/info/69d62aeccfdc6132f9468f9d?utm_campaign=1051&utm_source=git)** | Irving, TX | Hybrid | Apr 08 |
-| ↳ | **[Treasury Management Sales Support Analyst](https://jobright.ai/jobs/info/69d62ae0cfdc6132f9468f80?utm_campaign=1051&utm_source=git)** | Chandler, AZ | Hybrid | Apr 08 |
-| ↳ | **[Treasury Management Sales Support Analyst](https://jobright.ai/jobs/info/69d62ad9706f771673ba9c57?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 08 |
-| **[Core-Mark International](http://www.core-mark.com/)** | **[Business Development & Sales Intern](https://jobright.ai/jobs/info/69cb4e83466f1e133aaccae1?utm_campaign=1051&utm_source=git)** | Wilkes-Barre, PA | On Site | Apr 08 |
-| **[Wolverine Advanced Materials](http://www.wamglobal.com/)** | **[Purchasing Assistant-Intern](https://jobright.ai/jobs/info/69d625ec706f771673ba99a9?utm_campaign=1051&utm_source=git)** | Blacksburg, VA | On Site | Apr 08 |
-| **[Rinker Materials](http://www.rinkerpipe.com/)** | **[Internship (Sales)](https://jobright.ai/jobs/info/69bb8c693b74eb1e2c8a09ff?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
