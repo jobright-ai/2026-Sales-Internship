@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ryder System, Inc.](http://ryder.com/en)** | **[Intern - IT Business Development Solutioning](https://jobright.ai/jobs/info/69d80199738f2f099e899b19?utm_campaign=1051&utm_source=git)** | USA - Coral Gables FL HQ | On Site | Apr 09 |
+| **[Andrews Distributing](https://www.andrewsdistributing.com/s/)** | **[Sales Intern Summer 2026](https://jobright.ai/jobs/info/69d80198738f2f099e899b0c?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
+| **[Redwood Living](https://www.byredwood.com)** | **[Operations Leasing and Sales Intern](https://jobright.ai/jobs/info/69d7fdf3738f2f099e8998bc?utm_campaign=1051&utm_source=git)** | Vermilion, OH | On Site | Apr 09 |
+| ↳ | **[Operations Leasing and Sales Intern](https://jobright.ai/jobs/info/69d7fddf9f97a42dc9c194bd?utm_campaign=1051&utm_source=git)** | Elyria, OH | On Site | Apr 09 |
+| **[Citi](https://www.citi.com)** | **[Markets - Sales and Trading, Summer Analyst, New York City - US, 2027](https://jobright.ai/jobs/info/694ab05f3019f50a4fe5c798?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 09 |
+| **[Guideline](https://pcdreamscape.com/)** | **[Sales Development Summer Intern](https://jobright.ai/jobs/info/69d7f918869c7e25d859299a?utm_campaign=1051&utm_source=git)** | Fully Remote | Remote | Apr 09 |
+| ↳ | **[Sales & Customer Success Summer Intern](https://jobright.ai/jobs/info/69d7f9109f97a42dc9c1938c?utm_campaign=1051&utm_source=git)** | New York | On Site | Apr 09 |
+| ↳ | **[Sales Development Summer Intern](https://jobright.ai/jobs/info/69d7f909b861c42857c4785c?utm_campaign=1051&utm_source=git)** | New York | On Site | Apr 09 |
+| ↳ | **[Sales & Customer Success Summer Intern](https://jobright.ai/jobs/info/69d7f8fab67cec4f9b0997d6?utm_campaign=1051&utm_source=git)** | Hybrid Remote | Hybrid | Apr 09 |
+| **[Omni Fiber](https://www.omnifiber.com/)** | **[Sales Intern (OH, MI, PA)](https://jobright.ai/jobs/info/69d7f8d7869c7e25d85928da?utm_campaign=1051&utm_source=git)** | Mason, OH, USA, 45040 | On Site | Apr 09 |
+| **[Paradigm Education Solutions](https://paradigmeducation.com/)** | **[K12 Sales Internship](https://jobright.ai/jobs/info/69d7f8d6869c7e25d85928d8?utm_campaign=1051&utm_source=git)** | 4050 Westmark Drive, Dubuque, IA, USA | On Site | Apr 09 |
 | **[ETS](http://www.ets.org)** | **[2026 ETS Capital Summer Intern](https://jobright.ai/jobs/info/69d7f198b861c42857c47705?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Apr 09 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Portfolio Management & Customer Programs Intern (NYC)](https://jobright.ai/jobs/info/69bafc7a569738374140d04f?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 09 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Sales and Marketing Intern (Greenville, NC)](https://jobright.ai/jobs/info/69b61adc06c1ba00c547ec34?utm_campaign=1051&utm_source=git)** | Carolina Beach, NC | On Site | Apr 09 |
@@ -73,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Advisor Internship Program (AIP) (Victoria/Kelowna)](https://jobright.ai/jobs/info/69c7635ab773006330b7816e?utm_campaign=1051&utm_source=git)** | Victoria, BC | On Site | Apr 09 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Sales Coordination](https://jobright.ai/jobs/info/699fbe09ce78e77b4fe5a288?utm_campaign=1051&utm_source=git)** | Brossard, QC | On Site | Apr 09 |
 | **[Calix](http://www.calix.com)** | **[Success Experience Intern](https://jobright.ai/jobs/info/69bafc8106c1ba00c54d4c02?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 09 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d7fc9e869c7e25d8592a64?utm_campaign=1051&utm_source=git)** | Norton Shores, MI | On Site | Apr 09 |
 | **[RagaAI Inc](http://www.raga.ai)** | **[AI Product & Customer Success Intern_Chicago Illinois](https://jobright.ai/jobs/info/69d7dedd869c7e25d8591f42?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
 | **[DentalScan](https://www.dentalscan.us)** | **[Business Development Internship](https://jobright.ai/jobs/info/69d7dec3738f2f099e898d9d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69c91897e565c26a70033d77?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Apr 09 |
@@ -90,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Wiz](https://www.wiz.io)** | **[Manager, Technical Account Management (West)](https://jobright.ai/jobs/info/69bb558c5697383741415735?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 09 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Intern](https://jobright.ai/jobs/info/69d7d35eb861c42857c46627?utm_campaign=1051&utm_source=git)** | NY - New York City | On Site | Apr 09 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Starting in Summer 2026](https://jobright.ai/jobs/info/69d7ef4b869c7e25d8592607?utm_campaign=1051&utm_source=git)** | Chicago, IL United States of America | On Site | Apr 09 |
+| **[THE·TEAM](http://the.team)** | **[Intern, Business Development](https://jobright.ai/jobs/info/69d7fcd6f4ea471a51fe2c89?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 09 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69d7d0f2869c7e25d8591480?utm_campaign=1051&utm_source=git)** | San Diego, CA, US | On Site | Apr 09 |
 | ↳ | **[Sales Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69d7d0edf4ea471a51fe1674?utm_campaign=1051&utm_source=git)** | San Diego South - Little Italy, Pacific Beach, Mission Valley, Point Loma, Downtown | On Site | Apr 09 |
 | **[Xpansiv](https://www.xpansiv.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69d7ed2b9f97a42dc9c18f9e?utm_campaign=1051&utm_source=git)** | New York | On Site | Apr 09 |
@@ -143,18 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Pathful Inc.](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker - U.S. Only (Junior Sales Analyst: Strategic Sales Forecasting for Holiday Success)](https://jobright.ai/jobs/info/69d78b5d48f0c8161d301596?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Pearson](https://www.pearson.com/)** | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69ca2be883ea553769ff625b?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Apr 09 |
 | ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69c9e8e9e565c26a70038eb9?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Apr 09 |
-| ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69ca80c8aa3c2c1995e2d46f?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 09 |
 | ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69ca93afaa3c2c1995e2de25?utm_campaign=1051&utm_source=git)** | Cheyenne, WY | On Site | Apr 09 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Vancouver Office – CPA and Non-CPA Opportunities in Deal Advisory – Corporate Finance – Co-op – January 2027 Start](https://jobright.ai/jobs/info/69bb19675697383741411508?utm_campaign=1051&utm_source=git)** | Vancouver, BC | On Site | Apr 09 |
-| **[Agrawal Tech Global](https://agrawaltechglobal.com)** | **[Sales intern 6 month unpaid](https://jobright.ai/jobs/info/69d7eabcb861c42857c471b1?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 09 |
-| **[Strattec Security Corporation](http://www.strattec.com/)** | **[Business Development Intern - Summer](https://jobright.ai/jobs/info/69bb8213569738374141850e?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Apr 09 |
-| **[Pearson](https://www.pearson.com/)** | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69d0888bcfdc6132f943c40a?utm_campaign=1051&utm_source=git)** | Charleston, WV | On Site | Apr 09 |
-| **[EnerSys](http://enersys.com)** | **[Sales Forecasting Intern (Hybrid)](https://jobright.ai/jobs/info/69bb0ca3569738374140fb30?utm_campaign=1051&utm_source=git)** | Reading, PA | Hybrid | Apr 09 |
-| **[Pearson](https://www.pearson.com/)** | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69c64aaf1818a24cd84c3220?utm_campaign=1051&utm_source=git)** | Annapolis, MD | On Site | Apr 09 |
-| ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69c918881818a24cd84d9901?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Apr 09 |
-| ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69ca2c8ce565c26a7003b6ce?utm_campaign=1051&utm_source=git)** | Olympia, WA | On Site | Apr 09 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Business Development Representative (BDR) Intern (Summer 2026)](https://jobright.ai/jobs/info/699e631a81476f6176b76a07?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 09 |
-| **[Pearson](https://www.pearson.com/)** | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69ca2ca7b773006330b8b904?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 09 |
-| ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69d341b9cdb525785fbbe13c?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 09 |
-| ↳ | **[Lead, Pricing and Inclusive Access Strategy](https://jobright.ai/jobs/info/69c633c5e565c26a7001bb5e?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
