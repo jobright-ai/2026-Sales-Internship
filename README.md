@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Specialityvalve](https://www.specialityvalve.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d71c7a52a5bf580012deab?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 08 |
+| **[LAttitude Inc](https://www.linkedin.com/company/109848071)** | **[Sales Intern](https://jobright.ai/jobs/info/69d71879706f771673bafceb?utm_campaign=1051&utm_source=git)** | Trenton, NJ | On Site | Apr 08 |
 | **[Forge Marketing](gritxforge.com/landinghome)** | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69d711bb48f0c8161d2fcc6a?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Apr 08 |
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69d710f9706f771673bafb04?utm_campaign=1051&utm_source=git)** | Opelika, AL | On Site | Apr 08 |
 | ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69d710f8706f771673bafaff?utm_campaign=1051&utm_source=git)** | Dania, FL | On Site | Apr 08 |
 | ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69d710f6706f771673bafafa?utm_campaign=1051&utm_source=git)** | Lumberton, NC | On Site | Apr 08 |
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69d710f0706f771673bafaef?utm_campaign=1051&utm_source=git)** | Adelanto, CA | On Site | Apr 08 |
-| ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69d710e252a5bf580012da03?utm_campaign=1051&utm_source=git)** | Liberty, MO | On Site | Apr 08 |
 | ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69d710e252a5bf580012da02?utm_campaign=1051&utm_source=git)** | Pekin, IL | On Site | Apr 08 |
+| ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69d710e252a5bf580012da03?utm_campaign=1051&utm_source=git)** | Liberty, MO | On Site | Apr 08 |
 | ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69d710d4cfdc6132f946ee88?utm_campaign=1051&utm_source=git)** | Naugatuck, CT | On Site | Apr 08 |
 | ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69d710b8366bb95ba5551898?utm_campaign=1051&utm_source=git)** | La Verne, CA | On Site | Apr 08 |
 | ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69d70fd1706f771673baf8f9?utm_campaign=1051&utm_source=git)** | Bethel Park, PA | On Site | Apr 08 |
@@ -76,8 +78,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69d70e5b52a5bf580012d897?utm_campaign=1051&utm_source=git)** | Sherwood, AR | On Site | Apr 08 |
 | ↳ | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/69d70e5a52a5bf580012d896?utm_campaign=1051&utm_source=git)** | East Liverpool, OH | On Site | Apr 08 |
 | ↳ | **[Summer 2026 Sales Internship - Paid](https://jobright.ai/jobs/info/69d70e45e63cea7a8b66dbcd?utm_campaign=1051&utm_source=git)** | Redmond, OR | On Site | Apr 08 |
-| ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69d70e45706f771673baf7ce?utm_campaign=1051&utm_source=git)** | Niles, IL | On Site | Apr 08 |
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69d70e45366bb95ba55515e2?utm_campaign=1051&utm_source=git)** | Walnut, CA | On Site | Apr 08 |
+| ↳ | **[Summer 2026 Sales Internship (Paid Housing)](https://jobright.ai/jobs/info/69d70e45706f771673baf7ce?utm_campaign=1051&utm_source=git)** | Niles, IL | On Site | Apr 08 |
 | ↳ | **[Summer 2026 Sales Internship (Housing + Paid)](https://jobright.ai/jobs/info/69d70e3d48f0c8161d2fc962?utm_campaign=1051&utm_source=git)** | Oak Park, MI | On Site | Apr 08 |
 | **[C & B Ag](https://deerequipment.com/)** | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d70e3ae63cea7a8b66dbc4?utm_campaign=1051&utm_source=git)** | Lake Park, MN | On Site | Apr 08 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Atlanta, GA)](https://jobright.ai/jobs/info/69d70bce52a5bf580012d6c5?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 08 |
@@ -113,10 +115,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d6e2b848f0c8161d2fbc5a?utm_campaign=1051&utm_source=git)** | Estero, FL | On Site | Apr 08 |
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69d6e2aa366bb95ba555094f?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 08 |
 | **[Sandisk](https://www.sandisk.com)** | **[Summer 2026 Retail Consumer Business Development Intern](https://jobright.ai/jobs/info/69d6e2a1706f771673baea5b?utm_campaign=1051&utm_source=git)** | Irvine, CA | Hybrid | Apr 08 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d6e29752a5bf580012cb6e?utm_campaign=1051&utm_source=git)** | Humble, TX | On Site | Apr 08 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d6e29752a5bf580012cb6f?utm_campaign=1051&utm_source=git)** | Greeley, CO | On Site | Apr 08 |
-| **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[2026 Walmart & Club Sales Summer Internship](https://jobright.ai/jobs/info/69d6e282706f771673bae9c7?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Apr 08 |
-| ↳ | **[2026 Walmart & Club Sales Summer Internship](https://jobright.ai/jobs/info/69d6e282706f771673bae9cd?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Apr 08 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d6e29752a5bf580012cb6f?utm_campaign=1051&utm_source=git)** | Greeley, CO | On Site | Apr 08 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d6e29752a5bf580012cb6e?utm_campaign=1051&utm_source=git)** | Humble, TX | On Site | Apr 08 |
+| **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[2026 Walmart & Club Sales Summer Internship](https://jobright.ai/jobs/info/69d6e282706f771673bae9cd?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Apr 08 |
+| ↳ | **[2026 Walmart & Club Sales Summer Internship](https://jobright.ai/jobs/info/69d6e282706f771673bae9c7?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Apr 08 |
 | **[State of Utah](http://www.utah.gov/)** | **[Purchasing Agent I](https://jobright.ai/jobs/info/69d70bad706f771673baf5a2?utm_campaign=1051&utm_source=git)** | Taylorsville, UT | Hybrid | Apr 08 |
 | **[PNC](http://www.pnc.com)** | **[Mortgage Loan Officer](https://jobright.ai/jobs/info/69d6db8252a5bf580012c825?utm_campaign=1051&utm_source=git)** | Chestnut Hill, MA | On Site | Apr 08 |
 | **[Troon](http://www.troon.com/)** | **[Golf Operations Internship](https://jobright.ai/jobs/info/69d6d87552a5bf580012c705?utm_campaign=1051&utm_source=git)** | Lihue, HI | On Site | Apr 08 |
@@ -137,11 +139,11 @@ For a complete list, click the following sortable link below:
 | **[C & B Ag](https://deerequipment.com/)** | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c71248f0c8161d2fb11b?utm_campaign=1051&utm_source=git)** | Slayton, Minnesota, United States | On Site | Apr 08 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager, Business Markets, Intern](https://jobright.ai/jobs/info/69d6c70948f0c8161d2fb0fd?utm_campaign=1051&utm_source=git)** | MONTRÉAL, Quebec, Canada | On Site | Apr 08 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Summer 2026 Vacation Sales Internship](https://jobright.ai/jobs/info/69d6c654e63cea7a8b66c2b5?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA, United States | On Site | Apr 08 |
-| **[C & B Ag](https://deerequipment.com/)** | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64fcfdc6132f946d30f?utm_campaign=1051&utm_source=git)** | Spencer, Iowa, United States | On Site | Apr 08 |
+| **[C & B Ag](https://deerequipment.com/)** | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64fcfdc6132f946d311?utm_campaign=1051&utm_source=git)** | Pipestone, Minnesota, United States | On Site | Apr 08 |
+| ↳ | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64fcfdc6132f946d30f?utm_campaign=1051&utm_source=git)** | Spencer, Iowa, United States | On Site | Apr 08 |
 | ↳ | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64fe63cea7a8b66c2ab?utm_campaign=1051&utm_source=git)** | Lake Park, Iowa, United States | On Site | Apr 08 |
-| ↳ | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64fcfdc6132f946d311?utm_campaign=1051&utm_source=git)** | Pipestone, Minnesota, United States | On Site | Apr 08 |
-| ↳ | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64d52a5bf580012bfd3?utm_campaign=1051&utm_source=git)** | Jackson, Minnesota, United States | On Site | Apr 08 |
 | ↳ | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64d52a5bf580012bfd8?utm_campaign=1051&utm_source=git)** | Tracy, Minnesota, United States | On Site | Apr 08 |
+| ↳ | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64d52a5bf580012bfd3?utm_campaign=1051&utm_source=git)** | Jackson, Minnesota, United States | On Site | Apr 08 |
 | **[KIOTI Tractor](http://kioti.com/)** | **[Parts Business Analytics Intern](https://jobright.ai/jobs/info/69d6c648366bb95ba554fd62?utm_campaign=1051&utm_source=git)** | Wendell, NC, US | On Site | Apr 08 |
 | **[Triumph](https://www.tfin.com/)** | **[Carrier Sales Intern](https://jobright.ai/jobs/info/69d6c646e63cea7a8b66c287?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Client Management - Summer 2026](https://jobright.ai/jobs/info/69d6c20de63cea7a8b66c0c1?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[Retail Manager Trainee](https://jobright.ai/jobs/info/69d6b607366bb95ba554f2c2?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Apr 08 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69d6b600366bb95ba554f2ac?utm_campaign=1051&utm_source=git)** | Hamilton, ON | On Site | Apr 08 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69d6b5f6366bb95ba554f2a5?utm_campaign=1051&utm_source=git)** | Ottawa, ON | On Site | Apr 08 |
-| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Sales Intern (6 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69cc8747cfdc6132f940f33d?utm_campaign=1051&utm_source=git)** | Toronto, ON | Hybrid | Apr 08 |
-| **[Novanta Inc.](http://www.novanta.com)** | **[Corporate Development Internship (Summer 2026)](https://jobright.ai/jobs/info/69d6b59048f0c8161d2fa547?utm_campaign=1051&utm_source=git)** | Remote - NY | Remote | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
