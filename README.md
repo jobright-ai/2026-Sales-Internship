@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dimmitt Automotive Group](http://dimmitt.com)** | **[Automotive Service to Sales Concierge](https://jobright.ai/jobs/info/69d6ef6752a5bf580012cf42?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Apr 08 |
+| **[Waste Connections](http://www.wasteconnections.com/)** | **[Sales / Operations Hybrid Internship Summer 2026](https://jobright.ai/jobs/info/69d6ee47e63cea7a8b66d149?utm_campaign=1051&utm_source=git)** | Knoxville, TN | Hybrid | Apr 08 |
+| ↳ | **[Sales Internship Summer 2026](https://jobright.ai/jobs/info/69d6ee2f366bb95ba5550ba8?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Apr 08 |
+| ↳ | **[Sales Internship Summer 2026!](https://jobright.ai/jobs/info/69d6ee02706f771673baed70?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Apr 08 |
 | **[KIOTI Tractor](http://kioti.com/)** | **[Parts Business Analytics Intern](https://jobright.ai/jobs/info/69d6e8d3366bb95ba5550ab3?utm_campaign=1051&utm_source=git)** | Wendell, NC | On Site | Apr 08 |
 | **[Lumos & Associates](http://lumosengineering.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d6e3e5706f771673baeb41?utm_campaign=1051&utm_source=git)** | Reno, NV | On Site | Apr 08 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/69d6e3d452a5bf580012cc6d?utm_campaign=1051&utm_source=git)** | El Dorado Hills, CA | On Site | Apr 08 |
@@ -90,11 +94,11 @@ For a complete list, click the following sortable link below:
 | **[C & B Ag](https://deerequipment.com/)** | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c71248f0c8161d2fb11b?utm_campaign=1051&utm_source=git)** | Slayton, Minnesota, United States | On Site | Apr 08 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager, Business Markets, Intern](https://jobright.ai/jobs/info/69d6c70948f0c8161d2fb0fd?utm_campaign=1051&utm_source=git)** | MONTRÉAL, Quebec, Canada | On Site | Apr 08 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Summer 2026 Vacation Sales Internship](https://jobright.ai/jobs/info/69d6c654e63cea7a8b66c2b5?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA, United States | On Site | Apr 08 |
-| **[C & B Ag](https://deerequipment.com/)** | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64fcfdc6132f946d311?utm_campaign=1051&utm_source=git)** | Pipestone, Minnesota, United States | On Site | Apr 08 |
+| **[C & B Ag](https://deerequipment.com/)** | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64fe63cea7a8b66c2ab?utm_campaign=1051&utm_source=git)** | Lake Park, Iowa, United States | On Site | Apr 08 |
 | ↳ | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64fcfdc6132f946d30f?utm_campaign=1051&utm_source=git)** | Spencer, Iowa, United States | On Site | Apr 08 |
-| ↳ | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64fe63cea7a8b66c2ab?utm_campaign=1051&utm_source=git)** | Lake Park, Iowa, United States | On Site | Apr 08 |
-| ↳ | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64d52a5bf580012bfd3?utm_campaign=1051&utm_source=git)** | Jackson, Minnesota, United States | On Site | Apr 08 |
+| ↳ | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64fcfdc6132f946d311?utm_campaign=1051&utm_source=git)** | Pipestone, Minnesota, United States | On Site | Apr 08 |
 | ↳ | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64d52a5bf580012bfd8?utm_campaign=1051&utm_source=git)** | Tracy, Minnesota, United States | On Site | Apr 08 |
+| ↳ | **[John Deere Sales Intern](https://jobright.ai/jobs/info/69d6c64d52a5bf580012bfd3?utm_campaign=1051&utm_source=git)** | Jackson, Minnesota, United States | On Site | Apr 08 |
 | **[KIOTI Tractor](http://kioti.com/)** | **[Parts Business Analytics Intern](https://jobright.ai/jobs/info/69d6c648366bb95ba554fd62?utm_campaign=1051&utm_source=git)** | Wendell, NC, US | On Site | Apr 08 |
 | **[Triumph](https://www.tfin.com/)** | **[Carrier Sales Intern](https://jobright.ai/jobs/info/69d6c646e63cea7a8b66c287?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Client Management - Summer 2026](https://jobright.ai/jobs/info/69d6c20de63cea7a8b66c0c1?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69657c8ba112b40266136f78?utm_campaign=1051&utm_source=git)** | Hiram, GA | On Site | Apr 08 |
 | **[MacArthur Justice Center](https://www.macarthurjustice.org/)** | **[Development Coordinator](https://jobright.ai/jobs/info/69ba8dd6569738374140368c?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | **[Champro](http://champrosports.com)** | **[Inside Sales Internship](https://jobright.ai/jobs/info/69d6838748f0c8161d2f8399?utm_campaign=1051&utm_source=git)** | Bannockburn, IL | On Site | Apr 08 |
-| **[Okta](http://www.okta.com)** | **[Digital Success Intern (Summer 2026)](https://jobright.ai/jobs/info/69d681afe63cea7a8b6693cc?utm_campaign=1051&utm_source=git)** | Bellevue, Washington | On Site | Apr 08 |
-| **[hai. designs](haivibes.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d68163706f771673bab078?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | Apr 08 |
-| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69d6814a48f0c8161d2f8277?utm_campaign=1051&utm_source=git)** | Wisconsin Dells, WI | On Site | Apr 08 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern](https://jobright.ai/jobs/info/695c500022c9dc0d3d5440ff?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
