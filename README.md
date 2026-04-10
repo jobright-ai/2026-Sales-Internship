@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69d85363b67cec4f9b09bd35?utm_campaign=1051&utm_source=git)** | Sevierville, TN | On Site | Apr 09 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69d852d5738f2f099e89bd57?utm_campaign=1051&utm_source=git)** | Williamsburg, VA | On Site | Apr 09 |
+| **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Promotions/Sales Intern](https://jobright.ai/jobs/info/69d85130b67cec4f9b09bd04?utm_campaign=1051&utm_source=git)** | Wilkes-Barre, PA | On Site | Apr 09 |
+| **[Entergy](https://www.entergy.com)** | **[Summer 2026 Student, Intern , National Accounts](https://jobright.ai/jobs/info/69d84e99f4ea471a51fe505d?utm_campaign=1051&utm_source=git)** | New Orleans, LA | Hybrid | Apr 09 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships - Activations](https://jobright.ai/jobs/info/69bd90d74828227293ffce28?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Apr 09 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Music Partnerships Intern - College Credit](https://jobright.ai/jobs/info/69d8446ab67cec4f9b09ba67?utm_campaign=1051&utm_source=git)** | Los Angeles | On Site | Apr 09 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d843e4f4ea471a51fe4dbd?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
@@ -71,12 +75,12 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Commercial Banking Advisor - Intern](https://jobright.ai/jobs/info/69d837ce869c7e25d85947d5?utm_campaign=1051&utm_source=git)** | MONTRÉAL, Quebec, Canada | On Site | Apr 09 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d837579f97a42dc9c1b23d?utm_campaign=1051&utm_source=git)** | Riverdale, UT | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83754738f2f099e89b728?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Apr 09 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d8594701?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | Apr 09 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d8594704?utm_campaign=1051&utm_source=git)** | Taylor, MI | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d85946fe?utm_campaign=1051&utm_source=git)** | Sandy, UT | On Site | Apr 09 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d8594704?utm_campaign=1051&utm_source=git)** | Taylor, MI | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d8594705?utm_campaign=1051&utm_source=git)** | Roseville, CA | On Site | Apr 09 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83745f4ea471a51fe4ab7?utm_campaign=1051&utm_source=git)** | Wilmington, NC | On Site | Apr 09 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d8594701?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83745f4ea471a51fe4aae?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Apr 09 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83745f4ea471a51fe4ab7?utm_campaign=1051&utm_source=git)** | Wilmington, NC | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83744738f2f099e89b6d2?utm_campaign=1051&utm_source=git)** | Clinton Township, MI | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83735b67cec4f9b09b6ea?utm_campaign=1051&utm_source=git)** | Biloxi, MS | On Site | Apr 09 |
 | **[TriMech](https://trimech.com/)** | **[Client Success Analyst Intern (12 - 16 months)](https://jobright.ai/jobs/info/69d83729f4ea471a51fe4a61?utm_campaign=1051&utm_source=git)** | Oakville, ON | Remote | Apr 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d7ecc7869c7e25d85924e8?utm_campaign=1051&utm_source=git)** | Chico, CA | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d7ec9ef4ea471a51fe2712?utm_campaign=1051&utm_source=git)** | Wenatchee, WA | On Site | Apr 09 |
 | **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Business Partnerships Intern](https://jobright.ai/jobs/info/69d8090a869c7e25d8592eb0?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 09 |
-| **[First Western Trust](https://myfw.com/)** | **[Mortgage Loan Originator Assistant](https://jobright.ai/jobs/info/69d809d2b861c42857c481db?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Apr 09 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/69d7e525f4ea471a51fe2423?utm_campaign=1051&utm_source=git)** | Surrey, BC | On Site | Apr 09 |
-| **[Enercare Inc.](http://enercareinc.com)** | **[Summer Student](https://jobright.ai/jobs/info/69d7e51ef4ea471a51fe2406?utm_campaign=1051&utm_source=git)** | Markham, ON | On Site | Apr 09 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d7e50cf4ea471a51fe23e4?utm_campaign=1051&utm_source=git)** | Santa Rosa, CA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
