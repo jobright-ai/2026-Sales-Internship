@@ -57,15 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships - Activations](https://jobright.ai/jobs/info/69bd90d74828227293ffce28?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Apr 09 |
+| **[Complex NTWRK](https://www.complex.com)** | **[Music Partnerships Intern - College Credit](https://jobright.ai/jobs/info/69d8446ab67cec4f9b09ba67?utm_campaign=1051&utm_source=git)** | Los Angeles | On Site | Apr 09 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d843e4f4ea471a51fe4dbd?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d843e3b67cec4f9b09b9f7?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Apr 09 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d843ddb67cec4f9b09b9f3?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Apr 09 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d843d0738f2f099e89ba0c?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Apr 09 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69d841c59f97a42dc9c1b4c5?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 09 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d84097738f2f099e89b926?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Apr 09 |
+| **[Kerecis](http://www.kerecis.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69d84065869c7e25d85948ec?utm_campaign=1051&utm_source=git)** | Arlington County, VA | On Site | Apr 09 |
+| ↳ | **[Sales Operations Intern](https://jobright.ai/jobs/info/69d83c25b861c42857c4985a?utm_campaign=1051&utm_source=git)** | Arlington County, VA | On Site | Apr 09 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Agency Partnerships Intern (Remote)](https://jobright.ai/jobs/info/69d83afdb861c42857c49810?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 09 |
 | **[RBC](https://www.rbc.com)** | **[Commercial Banking Advisor - Intern](https://jobright.ai/jobs/info/69d837ce869c7e25d85947d5?utm_campaign=1051&utm_source=git)** | MONTRÉAL, Quebec, Canada | On Site | Apr 09 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d837579f97a42dc9c1b23d?utm_campaign=1051&utm_source=git)** | Riverdale, UT | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83754738f2f099e89b728?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d8594701?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | Apr 09 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d85946fe?utm_campaign=1051&utm_source=git)** | Sandy, UT | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d8594704?utm_campaign=1051&utm_source=git)** | Taylor, MI | On Site | Apr 09 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d85946fe?utm_campaign=1051&utm_source=git)** | Sandy, UT | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d8594705?utm_campaign=1051&utm_source=git)** | Roseville, CA | On Site | Apr 09 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83745f4ea471a51fe4aae?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83745f4ea471a51fe4ab7?utm_campaign=1051&utm_source=git)** | Wilmington, NC | On Site | Apr 09 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83745f4ea471a51fe4aae?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83744738f2f099e89b6d2?utm_campaign=1051&utm_source=git)** | Clinton Township, MI | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83735b67cec4f9b09b6ea?utm_campaign=1051&utm_source=git)** | Biloxi, MS | On Site | Apr 09 |
 | **[TriMech](https://trimech.com/)** | **[Client Success Analyst Intern (12 - 16 months)](https://jobright.ai/jobs/info/69d83729f4ea471a51fe4a61?utm_campaign=1051&utm_source=git)** | Oakville, ON | Remote | Apr 09 |
@@ -92,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Guideline](https://pcdreamscape.com/)** | **[Sales & Customer Success Summer Intern](https://jobright.ai/jobs/info/69d8213e869c7e25d8593c61?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 09 |
 | ↳ | **[Sales Development Summer Intern](https://jobright.ai/jobs/info/69d82134869c7e25d8593c31?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Apr 09 |
 | **[HOLLY HUNT](https://www.hollyhunt.com/)** | **[Intern](https://jobright.ai/jobs/info/69d820f3869c7e25d8593b87?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 09 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Account Coordinator Intern](https://jobright.ai/jobs/info/69d8407a738f2f099e89b8d9?utm_campaign=1051&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 09 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d81772f4ea471a51fe3c9c?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Apr 09 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69d80fdab67cec4f9b09a710?utm_campaign=1051&utm_source=git)** | Westlake, LA | On Site | Apr 09 |
 | ↳ | **[Sales Intern - Paid](https://jobright.ai/jobs/info/69d80fd1b67cec4f9b09a704?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 09 |
@@ -142,19 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d7ec9ef4ea471a51fe2712?utm_campaign=1051&utm_source=git)** | Wenatchee, WA | On Site | Apr 09 |
 | **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Business Partnerships Intern](https://jobright.ai/jobs/info/69d8090a869c7e25d8592eb0?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[First Western Trust](https://myfw.com/)** | **[Mortgage Loan Originator Assistant](https://jobright.ai/jobs/info/69d809d2b861c42857c481db?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Apr 09 |
-| **[Raven Healthcare Incubator (RA Capital)](https://www.racap.com/venture)** | **[Raven- Health Tech & Services Venture, MBA Intern](https://jobright.ai/jobs/info/69d83756f4ea471a51fe4ae4?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Apr 09 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/69d7e525f4ea471a51fe2423?utm_campaign=1051&utm_source=git)** | Surrey, BC | On Site | Apr 09 |
 | **[Enercare Inc.](http://enercareinc.com)** | **[Summer Student](https://jobright.ai/jobs/info/69d7e51ef4ea471a51fe2406?utm_campaign=1051&utm_source=git)** | Markham, ON | On Site | Apr 09 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d7e50cf4ea471a51fe23e4?utm_campaign=1051&utm_source=git)** | Santa Rosa, CA | On Site | Apr 09 |
-| **[Lukos](https://lukos.com/)** | **[Business Development Skillbridge Intern](https://jobright.ai/jobs/info/69d7e4e1b67cec4f9b098fc4?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Apr 09 |
-| **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Advisor Internship Program (AIP) (Victoria/Kelowna)](https://jobright.ai/jobs/info/69c7635ab773006330b7816e?utm_campaign=1051&utm_source=git)** | Victoria, BC | On Site | Apr 09 |
-| **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Sales Coordination](https://jobright.ai/jobs/info/699fbe09ce78e77b4fe5a288?utm_campaign=1051&utm_source=git)** | Brossard, QC | On Site | Apr 09 |
-| **[Calix](http://www.calix.com)** | **[Success Experience Intern](https://jobright.ai/jobs/info/69bafc8106c1ba00c54d4c02?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 09 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d7fc9e869c7e25d8592a64?utm_campaign=1051&utm_source=git)** | Norton Shores, MI | On Site | Apr 09 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d809bab67cec4f9b099fe0?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
-| **[RagaAI Inc](http://www.raga.ai)** | **[AI Product & Customer Success Intern_Chicago Illinois](https://jobright.ai/jobs/info/69d7dedd869c7e25d8591f42?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Summer](https://jobright.ai/jobs/info/69c91897e565c26a70033d77?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Apr 09 |
-| **[Giant Spoon](http://giantspoon.com/)** | **[Account Management Intern (Summer)](https://jobright.ai/jobs/info/69d7d84ab861c42857c46d2d?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 09 |
-| **[Wasserman](http://www.teamwass.com)** | **[Intern, Rights Sponsorship Sales](https://jobright.ai/jobs/info/69d7d7c0b67cec4f9b098c90?utm_campaign=1051&utm_source=git)** | USA-NY - New York City Office (One Liberty Plaza) | Hybrid | Apr 09 |
-| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Strategic Business Development](https://jobright.ai/jobs/info/69bb205c5697383741411ef3?utm_campaign=1051&utm_source=git)** | Albany, NY | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
