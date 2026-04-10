@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d8b846b861c42857c4c77d?utm_campaign=1051&utm_source=git)** | Cary, NC | On Site | Apr 10 |
+| **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d8c3b19f97a42dc9c1e4b5?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 10 |
+| **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Residential Homebuilding Internship – Class of 2026 Graduates](https://jobright.ai/jobs/info/69d8c3879f97a42dc9c1e46e?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Apr 10 |
+| **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d8c1e7738f2f099e89e995?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Apr 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d8c1d9738f2f099e89e966?utm_campaign=1051&utm_source=git)** | Fontana, CA | On Site | Apr 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d8b846b861c42857c4c77d?utm_campaign=1051&utm_source=git)** | Cary, NC | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d8b837b861c42857c4c776?utm_campaign=1051&utm_source=git)** | Lancaster, CA | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d8b723869c7e25d85976aa?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Apr 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d8b722869c7e25d85976a9?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d8b722869c7e25d85976a8?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Apr 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d8b722869c7e25d85976a9?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d8b714b67cec4f9b09e5d9?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d8b713b67cec4f9b09e5d8?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d8b70fb67cec4f9b09e5d1?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Apr 10 |
@@ -100,8 +104,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Leader I - Business Banking Healthcare Virtual Team](https://jobright.ai/jobs/info/69d87783b861c42857c4ace5?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | Apr 09 |
 | **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[2026 Walmart & Club Sales Summer Internship](https://jobright.ai/jobs/info/69d8777fb861c42857c4acdf?utm_campaign=1051&utm_source=git)** | Rogers, AR | Hybrid | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Sales Leader I - Business Banking Healthcare Virtual Team](https://jobright.ai/jobs/info/69d8777cf4ea471a51fe608a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Apr 09 |
-| ↳ | **[Sales Leader I - Business Banking Healthcare Virtual Team](https://jobright.ai/jobs/info/69d8777cf4ea471a51fe6089?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Remote | Apr 09 |
 | ↳ | **[Sales Leader I - Business Banking Healthcare Virtual Team](https://jobright.ai/jobs/info/69d8777cf4ea471a51fe6088?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Apr 09 |
+| ↳ | **[Sales Leader I - Business Banking Healthcare Virtual Team](https://jobright.ai/jobs/info/69d8777cf4ea471a51fe6089?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Remote | Apr 09 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Real Estate Intern](https://jobright.ai/jobs/info/69d86e07b67cec4f9b09c70f?utm_campaign=1051&utm_source=git)** | Kawaiahao Plaza | On Site | Apr 09 |
 | **[iQ Credit Union](https://www.iqcu.com/business/credit-cards)** | **[Ridgefield Intern MSR (51470)](https://jobright.ai/jobs/info/69d86a39f4ea471a51fe5a54?utm_campaign=1051&utm_source=git)** | Ridgefield, WA 98642 | On Site | Apr 09 |
 | ↳ | **[Washougal Intern MSR (51468)](https://jobright.ai/jobs/info/69d86a37b861c42857c4a612?utm_campaign=1051&utm_source=git)** | Washougal, WA 98671 | On Site | Apr 09 |
@@ -140,12 +144,12 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Commercial Banking Advisor - Intern](https://jobright.ai/jobs/info/69d837ce869c7e25d85947d5?utm_campaign=1051&utm_source=git)** | MONTRÉAL, Quebec, Canada | On Site | Apr 09 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d837579f97a42dc9c1b23d?utm_campaign=1051&utm_source=git)** | Riverdale, UT | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83754738f2f099e89b728?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Apr 09 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d8594701?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d8594705?utm_campaign=1051&utm_source=git)** | Roseville, CA | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d8594704?utm_campaign=1051&utm_source=git)** | Taylor, MI | On Site | Apr 09 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d8594701?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d8374c869c7e25d85946fe?utm_campaign=1051&utm_source=git)** | Sandy, UT | On Site | Apr 09 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83745f4ea471a51fe4aae?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83745f4ea471a51fe4ab7?utm_campaign=1051&utm_source=git)** | Wilmington, NC | On Site | Apr 09 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83745f4ea471a51fe4aae?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83744738f2f099e89b6d2?utm_campaign=1051&utm_source=git)** | Clinton Township, MI | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83735b67cec4f9b09b6ea?utm_campaign=1051&utm_source=git)** | Biloxi, MS | On Site | Apr 09 |
 | **[TriMech](https://trimech.com/)** | **[Client Success Analyst Intern (12 - 16 months)](https://jobright.ai/jobs/info/69d83729f4ea471a51fe4a61?utm_campaign=1051&utm_source=git)** | Oakville, ON | Remote | Apr 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83722b67cec4f9b09b6d1?utm_campaign=1051&utm_source=git)** | Frisco, TX | On Site | Apr 09 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83722b67cec4f9b09b6d2?utm_campaign=1051&utm_source=git)** | Hickory, NC | On Site | Apr 09 |
 | **[Domo](http://www.domo.com)** | **[Intern - Customer Success Manager](https://jobright.ai/jobs/info/69d8342ff4ea471a51fe49e0?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | Apr 09 |
-| **[THE·TEAM](http://the.team)** | **[Intern, Rights Sponsorship Sales](https://jobright.ai/jobs/info/69d83393b861c42857c495d4?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
-| **[Las Vegas Motor Speedway](http://lvms.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d83379b861c42857c4956f?utm_campaign=1051&utm_source=git)** | Lebanon, TN, US | On Site | Apr 09 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d83367b861c42857c49508?utm_campaign=1051&utm_source=git)** | Roseville, MN | On Site | Apr 09 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69d83340b861c42857c4949f?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
