@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[HORST Engineering](http://horstengineering.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69daac3a9f97a42dc9c2bbe3?utm_campaign=1051&utm_source=git)** | East Hartford, CT | On Site | Apr 11 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69daa491738f2f099e8abc7d?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Apr 11 |
 | **[Johnson Brothers](https://www.johnsonbrothers.com/)** | **[2026 Retail Sales Intern](https://jobright.ai/jobs/info/69cbd3d8366bb95ba54ec656?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 11 |
-| **[Outlier Sports](www.outliersportsmarketing.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69da9336b67cec4f9b0aa045?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 11 |
 | **[ATP Gov](https://atpgov.com/)** | **[ACCOUNT EXECUTIVE - DOD](https://jobright.ai/jobs/info/69da8f7d869c7e25d85a2a21?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/696927181703f05405ab07fe?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 11 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Sales and Marketing Intern (Asheville)](https://jobright.ai/jobs/info/69be7629393a1008f7446d06?utm_campaign=1051&utm_source=git)** | Greater Jacksonville, NC Area | On Site | Apr 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern](https://jobright.ai/jobs/info/69d9dd5c9f97a42dc9c25113?utm_campaign=1051&utm_source=git)** | Grenada, MS | On Site | Apr 10 |
 | **[Albuquerque Isotopes Baseball Club](http://www.ABQisotopes.com)** | **[Intern, Partnership Fulfillment & Suite Services (56255)](https://jobright.ai/jobs/info/69d9b37fb67cec4f9b0a40f2?utm_campaign=1051&utm_source=git)** | Wappingers Falls, NY 12590 | On Site | Apr 10 |
 | ↳ | **[Intern, Retail Merchandise (56254)](https://jobright.ai/jobs/info/69d9b374869c7e25d859cf64?utm_campaign=1051&utm_source=git)** | Wappingers Falls, NY 12590 | On Site | Apr 10 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69d9b0c6b67cec4f9b0a404c?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
