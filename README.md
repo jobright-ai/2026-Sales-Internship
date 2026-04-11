@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hightower Advisors](https://thrushgroup.hightoweradvisors.com/)** | **[Senior Client Services Associate- Treasury Partners](https://jobright.ai/jobs/info/69bdf8beb106024562835a28?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 11 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69da22deb67cec4f9b0a8047?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
+| ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69cb6902466f1e133aacd854?utm_campaign=1051&utm_source=git)** | Glastonbury, CT | On Site | Apr 11 |
+| ↳ | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69da22069f97a42dc9c278cb?utm_campaign=1051&utm_source=git)** | Fairfax, VA | On Site | Apr 11 |
+| **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[Buying Intern](https://jobright.ai/jobs/info/69bd2679393a1008f7428a65?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Sales Analytics Intern](https://jobright.ai/jobs/info/69bdd04bb106024562830fba?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Apr 11 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Consumer Bank Sales Analyst](https://jobright.ai/jobs/info/69d578b0e63cea7a8b661872?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Apr 11 |
+| ↳ | **[Intern - Consumer Bank Sales Analyst](https://jobright.ai/jobs/info/69d577d7cdb525785fbd1162?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 11 |
+| **[Barnes Aerospace](https://www.barnesaero.com/)** | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a221c60da45516f16b6a89?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Apr 11 |
+| **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Sales Operations Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/69bd167645e08b3dc1fa27b3?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Apr 11 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69d89702869c7e25d859669b?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Apr 11 |
 | **[Trellix](http://www.trellix.com)** | **[Sales Intern - Federal](https://jobright.ai/jobs/info/69da1352869c7e25d85a0d0b?utm_campaign=1051&utm_source=git)** | US, Virginia, Fairfax | On Site | Apr 11 |
 | ↳ | **[Trellix Intern](https://jobright.ai/jobs/info/69da134bf748bc5d08a512c2?utm_campaign=1051&utm_source=git)** | US, Virginia, Reston | On Site | Apr 11 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69da0614f748bc5d08a511a1?utm_campaign=1051&utm_source=git)** | Conception Bay South, NL | On Site | Apr 11 |
@@ -72,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d62d738f2f099e8a50ee?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d618738f2f099e8a50d1?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ccf748bc5d08a4e8a8?utm_campaign=1051&utm_source=git)** | Paterson, NJ | On Site | Apr 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c82?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c85?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Apr 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c82?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d4ca869c7e25d859e203?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Apr 10 |
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Project Intern (Lemon8) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9cdae738f2f099e8a4db9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
 | **[Boise State University](https://boisestate.edu)** | **[Director of Prospect Development](https://jobright.ai/jobs/info/69d9cb3c738f2f099e8a49d8?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Apr 10 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Account Executive](https://jobright.ai/jobs/info/69da0387869c7e25d85a097e?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 10 |
 | **[Kennicott 1881](https://www.kennicott.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d943b8b67cec4f9b0a0ee2?utm_campaign=1051&utm_source=git)** | Chicago - Chicago, IL 60622 | Hybrid | Apr 10 |
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- San Francisco, Investment Sales](https://jobright.ai/jobs/info/69d942b8869c7e25d8599d20?utm_campaign=1051&utm_source=git)** | San Francisco, California, United States | On Site | Apr 10 |
-| **[Wedgewood Investment Group, LLC](https://www.wedgewoodllc.com)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/69d941f0b67cec4f9b0a0d75?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | On Site | Apr 10 |
-| **[Herc Rentals](http://www.HercRentals.com)** | **[Sales and Operations Intern](https://jobright.ai/jobs/info/69ceff7254f00230c6d05b20?utm_campaign=1051&utm_source=git)** | Spring Lake, MI | On Site | Apr 10 |
-| **[Allstate](http://www.allstate.com)** | **[Field Sales Intern](https://jobright.ai/jobs/info/69d940b9738f2f099e8a0ae0?utm_campaign=1051&utm_source=git)** | Chicago Suburban | Hybrid | Apr 10 |
-| **[iPOS Systems](https://ipossystems.com)** | **[Inside Sales Internship Program](https://jobright.ai/jobs/info/69d93fd5f748bc5d08a4a129?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Apr 10 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93fcff748bc5d08a4a11b?utm_campaign=1051&utm_source=git)** | Idaho, United States | Remote | Apr 10 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Urology Field Sales Internship Summer 2026 / Nashville](https://jobright.ai/jobs/info/69d59c16366bb95ba554656e?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 10 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d93cecb67cec4f9b0a0999?utm_campaign=1051&utm_source=git)** | Jackson, MI | On Site | Apr 10 |
-| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93cbeb67cec4f9b0a0913?utm_campaign=1051&utm_source=git)** | Idaho, United States | Remote | Apr 10 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93cbeb67cec4f9b0a0914?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Apr 10 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93cbeb67cec4f9b0a0916?utm_campaign=1051&utm_source=git)** | Delaware, United States | Remote | Apr 10 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d93cad869c7e25d85998a6?utm_campaign=1051&utm_source=git)** | Barboursville, WV | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
