@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nicola Wealth](http://www.nicolawealth.com)** | **[New Graduate Private Wealth Internship Program (12-Month Internship)](https://jobright.ai/jobs/info/69be0ce7482822729300c0a5?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 11 |
+| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a0753a5218a8167671985a?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
+| **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/699bde13ce78e77b4fe065f2?utm_campaign=1051&utm_source=git)** | Williston, ND | On Site | Apr 11 |
+| **[Trellix](http://www.trellix.com)** | **[Trellix Intern](https://jobright.ai/jobs/info/69da4ed8b67cec4f9b0a8fc1?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | Apr 11 |
+| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a06ed35218a816767190e0?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 11 |
+| **[Trellix](http://www.trellix.com)** | **[Sales Intern - Federal](https://jobright.ai/jobs/info/69da4617f748bc5d08a51c56?utm_campaign=1051&utm_source=git)** | Fairfax, VA | On Site | Apr 11 |
+| **[Dal-Tile LLC](http://dal-tile.com)** | **[NEW RESIDENTIAL SALES INTERN](https://jobright.ai/jobs/info/69a267ceb600907a9628b49e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 11 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Ann Arbor, MI](https://jobright.ai/jobs/info/6932f323764507023d1b1423?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Apr 11 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a1f805359fe034b1cd3761?utm_campaign=1051&utm_source=git)** | Palm Beach County, FL | On Site | Apr 11 |
+| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f6ee3376a51a4307bdf738?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Apr 11 |
 | **[Lega Nova Group](http://leganovagroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d72b3e48f0c8161d2fd6b7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Lufthansa Technik Component Services](http://ltcs.com)** | **[Intern – Sales & Fulfillment Closed-Loop Internship position (6-month fixed term) / Hybrid Model (remotely & on-site)](https://jobright.ai/jobs/info/69da3ce1869c7e25d85a12b6?utm_campaign=1051&utm_source=git)** | Hialeah, FL | Hybrid | Apr 11 |
 | **[Genesis](https://www.genesis.com)** | **[Intern, Genesis Sales Operations Analyst](https://jobright.ai/jobs/info/69bdecd5393a1008f743bf20?utm_campaign=1051&utm_source=git)** | Fountain Valley, CA | On Site | Apr 11 |
@@ -93,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d62d738f2f099e8a50ee?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d618738f2f099e8a50d1?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ccf748bc5d08a4e8a8?utm_campaign=1051&utm_source=git)** | Paterson, NJ | On Site | Apr 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c85?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c82?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Apr 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c85?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d4ca869c7e25d859e203?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Apr 10 |
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Project Intern (Lemon8) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9cdae738f2f099e8a4db9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
 | **[Boise State University](https://boisestate.edu)** | **[Director of Prospect Development](https://jobright.ai/jobs/info/69d9cb3c738f2f099e8a49d8?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Apr 10 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FTI](http://www.faithtechinc.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d96013738f2f099e8a18f2?utm_campaign=1051&utm_source=git)** | WI - Menasha | On Site | Apr 10 |
 | **[Actian](http://www.actian.com)** | **[Sales Development Intern (US)](https://jobright.ai/jobs/info/69d95f689f97a42dc9c213c3?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Growth Partnerships & Alliances Intern](https://jobright.ai/jobs/info/69d95f049f97a42dc9c212c6?utm_campaign=1051&utm_source=git)** | McLean, VA | Hybrid | Apr 10 |
-| **[HD Supply](http://hdsupply.com)** | **[Student Intern](https://jobright.ai/jobs/info/69d95efdb67cec4f9b0a1ab0?utm_campaign=1051&utm_source=git)** | Atlanta Metro | On Site | Apr 10 |
-| **[Ace Handyman Services](https://acehandymanfranchising.com/)** | **[Summer Business Intern](https://jobright.ai/jobs/info/69d95e96b67cec4f9b0a19de?utm_campaign=1051&utm_source=git)** | Commerce Township, MI, US | On Site | Apr 10 |
-| **[Detroit Manufacturing Systems (DMS)](https://www.dmsna.com)** | **[Sales Intern - Summer 2026 [Kinetyc]](https://jobright.ai/jobs/info/69d95e519f97a42dc9c21124?utm_campaign=1051&utm_source=git)** | Wixom, 30811 Century Drive, Wixom, Michigan, United States of America | On Site | Apr 10 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Urology Field Sales Internship Summer 2026 / Nashville](https://jobright.ai/jobs/info/69d59c0f366bb95ba5546548?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 10 |
-| ↳ | **[Urology Field Sales Internship Summer 2026 / Charlotte](https://jobright.ai/jobs/info/69d59c11cdb525785fbd223c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
-| **[HMH](http://www.hmhco.com)** | **[ELD & Intervention Account Executive - Small Accounts](https://jobright.ai/jobs/info/69d95a44f748bc5d08a4aa16?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 10 |
-| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- San Francisco, Investment Sales](https://jobright.ai/jobs/info/69d95a0a9f97a42dc9c20ee9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Apr 10 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Urology Field Sales Internship Summer 2026 / Dallas](https://jobright.ai/jobs/info/69d59e31891d7b11cfd033fa?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
-| ↳ | **[Urology Field Sales Internship Summer 2026 / Orlando](https://jobright.ai/jobs/info/69d59e1c706f771673ba46d6?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 10 |
-| **[Xylem](https://heimplanet.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d95346738f2f099e8a108d?utm_campaign=1051&utm_source=git)** | Middletown, CT | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
