@@ -99,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/69bdcca9b106024562830892?utm_campaign=1051&utm_source=git)** | Provo, UT | On Site | Apr 11 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Corporate Development Transactions Intern](https://jobright.ai/jobs/info/69bdde3cb1060245628343d9?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Apr 11 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a25c41b600907a9628a402?utm_campaign=1051&utm_source=git)** | Surprise, AZ | On Site | Apr 11 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69d209d9891d7b11cfce8953?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Apr 11 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[E-Commerce Intern (Summer 2026)](https://jobright.ai/jobs/info/69c8a730b773006330b80797?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Apr 11 |
 | **[Hightower Advisors](https://thrushgroup.hightoweradvisors.com/)** | **[Senior Client Services Associate- Treasury Partners](https://jobright.ai/jobs/info/69bdf8beb106024562835a28?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69da22deb67cec4f9b0a8047?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
@@ -128,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d62d738f2f099e8a50ee?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d618738f2f099e8a50d1?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ccf748bc5d08a4e8a8?utm_campaign=1051&utm_source=git)** | Paterson, NJ | On Site | Apr 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c82?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c85?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Apr 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c82?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d4ca869c7e25d859e203?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Apr 10 |
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Project Intern (Lemon8) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9cdae738f2f099e8a4db9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
 | **[Boise State University](https://boisestate.edu)** | **[Director of Prospect Development](https://jobright.ai/jobs/info/69d9cb3c738f2f099e8a49d8?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Apr 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Hudson Valley Renegades](http://www.hvrenegades.com)** | **[Intern, Partnership Fulfillment & Suite Services](https://jobright.ai/jobs/info/69d9ae82b67cec4f9b0a3d87?utm_campaign=1051&utm_source=git)** | Wappingers Falls, NY | On Site | Apr 10 |
 | ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/69d9ae81f748bc5d08a4d2f3?utm_campaign=1051&utm_source=git)** | Wappingers Falls, NY | On Site | Apr 10 |
 | **[HealthStream](http://www.healthstream.com)** | **[Intern, Sales Operations, Compliance & Specialty Content](https://jobright.ai/jobs/info/69d9a4a25356a60f40fdb5ae?utm_campaign=1051&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
+| **[FTI](http://www.faithtechinc.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d9a4749f97a42dc9c232d1?utm_campaign=1051&utm_source=git)** | Menasha, WI | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
