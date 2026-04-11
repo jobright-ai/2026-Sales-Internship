@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trellix](http://www.trellix.com)** | **[Sales Intern - Federal](https://jobright.ai/jobs/info/69da1352869c7e25d85a0d0b?utm_campaign=1051&utm_source=git)** | US, Virginia, Fairfax | On Site | Apr 11 |
+| ↳ | **[Trellix Intern](https://jobright.ai/jobs/info/69da134bf748bc5d08a512c2?utm_campaign=1051&utm_source=git)** | US, Virginia, Reston | On Site | Apr 11 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69da0614f748bc5d08a511a1?utm_campaign=1051&utm_source=git)** | Conception Bay South, NL | On Site | Apr 11 |
 | ↳ | **[Relationship Manager, Business Markets Intern](https://jobright.ai/jobs/info/69da042fb67cec4f9b0a7b01?utm_campaign=1051&utm_source=git)** | Coquitlam, BC | On Site | Apr 11 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69da03fe869c7e25d85a0a89?utm_campaign=1051&utm_source=git)** | Canada | Remote | Apr 11 |
@@ -70,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d62d738f2f099e8a50ee?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d618738f2f099e8a50d1?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ccf748bc5d08a4e8a8?utm_campaign=1051&utm_source=git)** | Paterson, NJ | On Site | Apr 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c85?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c82?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Apr 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c85?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d4ca869c7e25d859e203?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Apr 10 |
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Project Intern (Lemon8) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9cdae738f2f099e8a4db9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
 | **[Boise State University](https://boisestate.edu)** | **[Director of Prospect Development](https://jobright.ai/jobs/info/69d9cb3c738f2f099e8a49d8?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Apr 10 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93fcff748bc5d08a4a11b?utm_campaign=1051&utm_source=git)** | Idaho, United States | Remote | Apr 10 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Urology Field Sales Internship Summer 2026 / Nashville](https://jobright.ai/jobs/info/69d59c16366bb95ba554656e?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 10 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d93cecb67cec4f9b0a0999?utm_campaign=1051&utm_source=git)** | Jackson, MI | On Site | Apr 10 |
-| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93cbeb67cec4f9b0a0914?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Apr 10 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93cbeb67cec4f9b0a0913?utm_campaign=1051&utm_source=git)** | Idaho, United States | Remote | Apr 10 |
+| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93cbeb67cec4f9b0a0913?utm_campaign=1051&utm_source=git)** | Idaho, United States | Remote | Apr 10 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93cbeb67cec4f9b0a0914?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Apr 10 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93cbeb67cec4f9b0a0916?utm_campaign=1051&utm_source=git)** | Delaware, United States | Remote | Apr 10 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d93cad869c7e25d85998a6?utm_campaign=1051&utm_source=git)** | Barboursville, WV | On Site | Apr 10 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d93c795356a60f40fd8552?utm_campaign=1051&utm_source=git)** | Jackson, TN | On Site | Apr 10 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2ff09ae2a534885ea4964?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
