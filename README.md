@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69daa491738f2f099e8abc7d?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Apr 11 |
+| **[Johnson Brothers](https://www.johnsonbrothers.com/)** | **[2026 Retail Sales Intern](https://jobright.ai/jobs/info/69cbd3d8366bb95ba54ec656?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 11 |
 | **[Outlier Sports](www.outliersportsmarketing.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69da9336b67cec4f9b0aa045?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 11 |
 | **[ATP Gov](https://atpgov.com/)** | **[ACCOUNT EXECUTIVE - DOD](https://jobright.ai/jobs/info/69da8f7d869c7e25d85a2a21?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/696927181703f05405ab07fe?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 11 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Sales and Marketing Intern (Asheville)](https://jobright.ai/jobs/info/69be7629393a1008f7446d06?utm_campaign=1051&utm_source=git)** | Greater Jacksonville, NC Area | On Site | Apr 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933fe29f131d96e48468f0f?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Apr 11 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/6933ab3b764507023d1b7d87?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | Apr 11 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Intern (Remote) - Agency Partnerships](https://jobright.ai/jobs/info/69da756df748bc5d08a52e85?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Daxko](https://www.daxko.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69bddfbc393a1008f743b705?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Apr 11 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/ThriftSmart/Sales Associate/Rivergate Location](https://jobright.ai/jobs/info/69da720f738f2f099e8a94e9?utm_campaign=1051&utm_source=git)** | Nashville, TN, United States | On Site | Apr 11 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Corporate Development & Strategy](https://jobright.ai/jobs/info/69d9bfad5356a60f40fdbe69?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 11 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d62d738f2f099e8a50ee?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d618738f2f099e8a50d1?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ccf748bc5d08a4e8a8?utm_campaign=1051&utm_source=git)** | Paterson, NJ | On Site | Apr 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c82?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c85?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Apr 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c82?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d4ca869c7e25d859e203?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Apr 10 |
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Project Intern (Lemon8) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9cdae738f2f099e8a4db9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
 | **[Boise State University](https://boisestate.edu)** | **[Director of Prospect Development](https://jobright.ai/jobs/info/69d9cb3c738f2f099e8a49d8?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Albuquerque Isotopes Baseball Club](http://www.ABQisotopes.com)** | **[Intern, Partnership Fulfillment & Suite Services (56255)](https://jobright.ai/jobs/info/69d9b37fb67cec4f9b0a40f2?utm_campaign=1051&utm_source=git)** | Wappingers Falls, NY 12590 | On Site | Apr 10 |
 | ↳ | **[Intern, Retail Merchandise (56254)](https://jobright.ai/jobs/info/69d9b374869c7e25d859cf64?utm_campaign=1051&utm_source=git)** | Wappingers Falls, NY 12590 | On Site | Apr 10 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69d9b0c6b67cec4f9b0a404c?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Apr 10 |
-| **[Gatesman](http://www.gatesmanagency.com/)** | **[Account Management Intern](https://jobright.ai/jobs/info/69d9b03e869c7e25d859cec5?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
