@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[E-Commerce Intern (Summer 2026)](https://jobright.ai/jobs/info/69c8a730b773006330b80797?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Apr 11 |
 | **[Hightower Advisors](https://thrushgroup.hightoweradvisors.com/)** | **[Senior Client Services Associate- Treasury Partners](https://jobright.ai/jobs/info/69bdf8beb106024562835a28?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69da22deb67cec4f9b0a8047?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
 | ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69cb6902466f1e133aacd854?utm_campaign=1051&utm_source=git)** | Glastonbury, CT | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rentokil Réunion - Les experts de la lutte contre les nuisibles partout  à la Réunion](https://www.rentokil.re)** | **[Account Executive](https://jobright.ai/jobs/info/69da0387869c7e25d85a097b?utm_campaign=1051&utm_source=git)** | Brookville, PA | On Site | Apr 10 |
 | ↳ | **[Account Executive](https://jobright.ai/jobs/info/69da0387869c7e25d85a097e?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 10 |
 | **[Kennicott 1881](https://www.kennicott.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d943b8b67cec4f9b0a0ee2?utm_campaign=1051&utm_source=git)** | Chicago - Chicago, IL 60622 | Hybrid | Apr 10 |
-| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- San Francisco, Investment Sales](https://jobright.ai/jobs/info/69d942b8869c7e25d8599d20?utm_campaign=1051&utm_source=git)** | San Francisco, California, United States | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
