@@ -151,10 +151,10 @@ For a complete list, click the following sortable link below:
 | **[FTI](http://www.faithtechinc.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d9a4749f97a42dc9c232d1?utm_campaign=1051&utm_source=git)** | Menasha, WI | On Site | Apr 10 |
 | **[SimCare AI (YC S24)](https://somalab.ai)** | **[GTM Operations Intern (In person, summer '26)](https://jobright.ai/jobs/info/69d9a427869c7e25d859c70a?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Apr 10 |
 | **[ConstructConnect](https://www.constructconnect.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69a10ace81476f6176bb60f7?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 10 |
-| **[Amori Sounds](http://www.amorisounds.com)** | **[Music Business Development Intern](https://jobright.ai/jobs/info/69d99627f748bc5d08a4c0db?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 10 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern- Customer Account Specialist - Starting in Summer 2026](https://jobright.ai/jobs/info/69d99176738f2f099e8a270f?utm_campaign=1051&utm_source=git)** | Chicago, IL United States of America | On Site | Apr 10 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d990f7f748bc5d08a4be0a?utm_campaign=1051&utm_source=git)** | Union Gap, WA | On Site | Apr 10 |
 | **[PRG Real Estate](http://prgrealestate.com)** | **[Leasing Representative Intern](https://jobright.ai/jobs/info/69d988b9b67cec4f9b0a28e9?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Apr 10 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d988ac869c7e25d859b6d8?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Apr 10 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d988a2869c7e25d859b6ab?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Apr 10 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69d988865356a60f40fda2aa?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
