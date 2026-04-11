@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumos Fiber](https://www.lumosfiber.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69bdace6b10602456282a3ed?utm_campaign=1051&utm_source=git)** | High Point, NC | On Site | Apr 11 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69bcc8d3e6a0d9792584d250?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | Hybrid | Apr 11 |
+| **[Adswerve, Inc.](http://www.adswerve.com)** | **[Senior Technical Sales Engineer](https://jobright.ai/jobs/info/69bdc52c393a1008f7435203?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/6969273c1703f05405ab084e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 11 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a24f4eb600907a962898ca?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 11 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69d0a9e9cfdc6132f943d947?utm_campaign=1051&utm_source=git)** | Newark, CA | On Site | Apr 11 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Apr 11 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Customer Success Summer Intern](https://jobright.ai/jobs/info/69ce1505cdb525785fb93aaf?utm_campaign=1051&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships - Activations](https://jobright.ai/jobs/info/69be07b7393a1008f743e0a9?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Apr 11 |
+| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a05ea80836fe79d86147d2?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Apr 11 |
+| **[Dana Incorporated](https://www.danatm4.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69bd4f0fb106024562823c9e?utm_campaign=1051&utm_source=git)** | Maumee, OH | On Site | Apr 11 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/697d8172ce48107c0541b2d7?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Apr 11 |
+| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a0634f0836fe79d86150f3?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Apr 11 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69cb1224a8c1822476e23c10?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Apr 11 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69697bdd639b452fb57f5b8c?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | Apr 11 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696aa7085fc8624185399f22?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | Apr 11 |
 | **[Nicola Wealth](http://www.nicolawealth.com)** | **[New Graduate Private Wealth Internship Program (12-Month Internship)](https://jobright.ai/jobs/info/69be0ce7482822729300c0a5?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 11 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a0753a5218a8167671985a?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
 | **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/699bde13ce78e77b4fe065f2?utm_campaign=1051&utm_source=git)** | Williston, ND | On Site | Apr 11 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PRG Real Estate](http://prgrealestate.com)** | **[Leasing Representative Intern](https://jobright.ai/jobs/info/69d988b9b67cec4f9b0a28e9?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Apr 10 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d988ac869c7e25d859b6d8?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Apr 10 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d988a2869c7e25d859b6ab?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Apr 10 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69d988865356a60f40fda2aa?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
-| **[Farmer Focus](https://www.farmerfocus.com)** | **[Internship: Sales & Supply Chain](https://jobright.ai/jobs/info/69d98775b67cec4f9b0a268d?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | Hybrid | Apr 10 |
-| **[Ford Office Technologies](https://www.fordtech.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69d98231f748bc5d08a4bb5a?utm_campaign=1051&utm_source=git)** | Erie,PA,US | On Site | Apr 10 |
-| ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/69d97fd0b67cec4f9b0a25ca?utm_campaign=1051&utm_source=git)** | Niles,OH,US | On Site | Apr 10 |
-| **[Johns Manville](http://www.jm.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d97b5cf748bc5d08a4b9cd?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | Apr 10 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Global Banking and Markets - Sales and Trading Intern/Co-op-Fall 2026](https://jobright.ai/jobs/info/69d978b7869c7e25d859b1c3?utm_campaign=1051&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/69d978aa738f2f099e8a1e79?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 10 |
-| **[Boise State University School of Nursing](https://www.boisestate.edu/nursing/)** | **[Director of Prospect Development](https://jobright.ai/jobs/info/69d976b7869c7e25d859b0d8?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Apr 10 |
-| **[OnePoint Patient Care](https://www.oppc.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69d97670738f2f099e8a1c81?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Apr 10 |
-| **[DIJINATION LLC](www.dijination.net)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d99347738f2f099e8a27fc?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Apr 10 |
-| **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Showroom Operations Internship - DALLAS](https://jobright.ai/jobs/info/69d969409f97a42dc9c21670?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Apr 10 |
-| **[HealthStream](http://www.healthstream.com)** | **[Intern, Sales Operations, Compliance & Specialty Content](https://jobright.ai/jobs/info/69d968abf748bc5d08a4b211?utm_campaign=1051&utm_source=git)** | USA Remote - Nashville, TN 37203 | Remote | Apr 10 |
-| **[PRG Real Estate](http://prgrealestate.com)** | **[Leasing Representative Intern](https://jobright.ai/jobs/info/69d96601869c7e25d859ab07?utm_campaign=1051&utm_source=git)** | The Locks, Richmond, VA, US | On Site | Apr 10 |
-| **[FTI](http://www.faithtechinc.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69d96013738f2f099e8a18f2?utm_campaign=1051&utm_source=git)** | WI - Menasha | On Site | Apr 10 |
-| **[Actian](http://www.actian.com)** | **[Sales Development Intern (US)](https://jobright.ai/jobs/info/69d95f689f97a42dc9c213c3?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 10 |
-| **[Thomson Reuters](http://thomsonreuters.com)** | **[Growth Partnerships & Alliances Intern](https://jobright.ai/jobs/info/69d95f049f97a42dc9c212c6?utm_campaign=1051&utm_source=git)** | McLean, VA | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
