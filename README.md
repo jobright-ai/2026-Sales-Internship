@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HORST Engineering](http://horstengineering.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69daac3a9f97a42dc9c2bbe3?utm_campaign=1051&utm_source=git)** | East Hartford, CT | On Site | Apr 11 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69daa491738f2f099e8abc7d?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Apr 11 |
 | **[Johnson Brothers](https://www.johnsonbrothers.com/)** | **[2026 Retail Sales Intern](https://jobright.ai/jobs/info/69cbd3d8366bb95ba54ec656?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 11 |
 | **[Outlier Sports](www.outliersportsmarketing.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69da9336b67cec4f9b0aa045?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 11 |
@@ -64,7 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/696927181703f05405ab07fe?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 11 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Sales and Marketing Intern (Asheville)](https://jobright.ai/jobs/info/69be7629393a1008f7446d06?utm_campaign=1051&utm_source=git)** | Greater Jacksonville, NC Area | On Site | Apr 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933fe29f131d96e48468f0f?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Apr 11 |
-| ↳ | **[Summer 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/6933ab3b764507023d1b7d87?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | Apr 11 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/696807551703f05405a9a53e?utm_campaign=1051&utm_source=git)** | Council Bluffs, IA | On Site | Apr 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/6933ab3b764507023d1b7d87?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | Apr 11 |
 | **[Daxko](https://www.daxko.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69bddfbc393a1008f743b705?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Apr 11 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/ThriftSmart/Sales Associate/Rivergate Location](https://jobright.ai/jobs/info/69da720f738f2f099e8a94e9?utm_campaign=1051&utm_source=git)** | Nashville, TN, United States | On Site | Apr 11 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Corporate Development & Strategy](https://jobright.ai/jobs/info/69d9bfad5356a60f40fdbe69?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 11 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69d6d60b52a5bf580012c643?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 11 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69697bdd639b452fb57f5b8c?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | Apr 11 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696aa7085fc8624185399f22?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | Apr 11 |
-| **[Agrawal Tech Global](https://agrawaltechglobal.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69da727af748bc5d08a52dcb?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Nicola Wealth](http://www.nicolawealth.com)** | **[New Graduate Private Wealth Internship Program (12-Month Internship)](https://jobright.ai/jobs/info/69be0ce7482822729300c0a5?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 11 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a0753a5218a8167671985a?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
 | **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/699bde13ce78e77b4fe065f2?utm_campaign=1051&utm_source=git)** | Williston, ND | On Site | Apr 11 |
@@ -127,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/69da03b89f97a42dc9c27348?utm_campaign=1051&utm_source=git)** | Grand Falls-Windsor, NL | On Site | Apr 11 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Property Management Internship - Tampa](https://jobright.ai/jobs/info/69da0331869c7e25d85a0875?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Apr 11 |
 | **[HP Marketing](https://www.hpros.com/)** | **[Field Summer Sales Intern 2026](https://jobright.ai/jobs/info/69d9f1ae5356a60f40fdea00?utm_campaign=1051&utm_source=git)** | Melbourne, FL | On Site | Apr 11 |
-| **[Electro](electrogum.com)** | **[NIL Partnerships Intern](https://jobright.ai/jobs/info/69d9e3249f97a42dc9c2529d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Detroit Manufacturing Systems (DMS)](https://www.dmsna.com)** | **[Sales Intern - Summer 2026 [Kinetyc]](https://jobright.ai/jobs/info/69d9e3109f97a42dc9c25275?utm_campaign=1051&utm_source=git)** | Wixom, MI | On Site | Apr 10 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d62d738f2f099e8a50ee?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d618738f2f099e8a50d1?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Apr 10 |
