@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lega Nova Group](http://leganovagroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d72b3e48f0c8161d2fd6b7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 11 |
+| **[Lufthansa Technik Component Services](http://ltcs.com)** | **[Intern – Sales & Fulfillment Closed-Loop Internship position (6-month fixed term) / Hybrid Model (remotely & on-site)](https://jobright.ai/jobs/info/69da3ce1869c7e25d85a12b6?utm_campaign=1051&utm_source=git)** | Hialeah, FL | Hybrid | Apr 11 |
+| **[Genesis](https://www.genesis.com)** | **[Intern, Genesis Sales Operations Analyst](https://jobright.ai/jobs/info/69bdecd5393a1008f743bf20?utm_campaign=1051&utm_source=git)** | Fountain Valley, CA | On Site | Apr 11 |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Retail Admin Intern](https://jobright.ai/jobs/info/6966eb83a112b4026614fadd?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Apr 11 |
+| **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/69bdcca9b106024562830892?utm_campaign=1051&utm_source=git)** | Provo, UT | On Site | Apr 11 |
+| **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Corporate Development Transactions Intern](https://jobright.ai/jobs/info/69bdde3cb1060245628343d9?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Apr 11 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a25c41b600907a9628a402?utm_campaign=1051&utm_source=git)** | Surprise, AZ | On Site | Apr 11 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69d209d9891d7b11cfce8953?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Apr 11 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[E-Commerce Intern (Summer 2026)](https://jobright.ai/jobs/info/69c8a730b773006330b80797?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Apr 11 |
 | **[Hightower Advisors](https://thrushgroup.hightoweradvisors.com/)** | **[Senior Client Services Associate- Treasury Partners](https://jobright.ai/jobs/info/69bdf8beb106024562835a28?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69da22deb67cec4f9b0a8047?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
@@ -69,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Barnes Aerospace](https://www.barnesaero.com/)** | **[SIOP (Sales, Inventory & Operations Planning) Intern](https://jobright.ai/jobs/info/69a221c60da45516f16b6a89?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Apr 11 |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Sales Operations Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/69bd167645e08b3dc1fa27b3?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Apr 11 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69d89702869c7e25d859669b?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Apr 11 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Personal Banker (U) International Speedway Daytona Beach FL](https://jobright.ai/jobs/info/69da3666b67cec4f9b0a81bd?utm_campaign=1051&utm_source=git)** | Daytona Beach, FL | On Site | Apr 11 |
 | **[Trellix](http://www.trellix.com)** | **[Sales Intern - Federal](https://jobright.ai/jobs/info/69da1352869c7e25d85a0d0b?utm_campaign=1051&utm_source=git)** | US, Virginia, Fairfax | On Site | Apr 11 |
 | ↳ | **[Trellix Intern](https://jobright.ai/jobs/info/69da134bf748bc5d08a512c2?utm_campaign=1051&utm_source=git)** | US, Virginia, Reston | On Site | Apr 11 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69da0614f748bc5d08a511a1?utm_campaign=1051&utm_source=git)** | Conception Bay South, NL | On Site | Apr 11 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Urology Field Sales Internship Summer 2026 / Dallas](https://jobright.ai/jobs/info/69d59e31891d7b11cfd033fa?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
 | ↳ | **[Urology Field Sales Internship Summer 2026 / Orlando](https://jobright.ai/jobs/info/69d59e1c706f771673ba46d6?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 10 |
 | **[Xylem](https://heimplanet.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d95346738f2f099e8a108d?utm_campaign=1051&utm_source=git)** | Middletown, CT | On Site | Apr 10 |
-| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Intern / Hustling, Learning, and Driving Results](https://jobright.ai/jobs/info/69d952e4b67cec4f9b0a1220?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 10 |
-| **[TI Automotive](http://www.tiautomotive.com)** | **[Purchasing Summer Intern](https://jobright.ai/jobs/info/69d952dd738f2f099e8a0fa4?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Apr 10 |
-| **[Bradley Caldwell, Inc](http://bradleycaldwell.com)** | **[Wholesales Procurement and Logistics Intern](https://jobright.ai/jobs/info/69d97644b67cec4f9b0a218a?utm_campaign=1051&utm_source=git)** | Hazleton, PA | On Site | Apr 10 |
-| **[PanAgora Asset Management](http://www.panagora.com)** | **[Global Distribution Intern](https://jobright.ai/jobs/info/69d950aa738f2f099e8a0e62?utm_campaign=1051&utm_source=git)** | MA Boston - PanAgora | On Site | Apr 10 |
-| **[DOCUmation](https://mation.com)** | **[San Antonio - Summer 2026 Sales Intern](https://jobright.ai/jobs/info/69d9495bb67cec4f9b0a0fff?utm_campaign=1051&utm_source=git)** | San Antonio, Texas, United States | On Site | Apr 10 |
-| **[Actian](http://www.actian.com)** | **[Sales Development Intern (EMEA)](https://jobright.ai/jobs/info/69d977675356a60f40fd9e0f?utm_campaign=1051&utm_source=git)** | EMEA - Remote | Remote | Apr 10 |
-| **[Rentokil Réunion - Les experts de la lutte contre les nuisibles partout  à la Réunion](https://www.rentokil.re)** | **[Account Executive](https://jobright.ai/jobs/info/69da0387869c7e25d85a097b?utm_campaign=1051&utm_source=git)** | Brookville, PA | On Site | Apr 10 |
-| ↳ | **[Account Executive](https://jobright.ai/jobs/info/69da0387869c7e25d85a097e?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 10 |
-| **[Kennicott 1881](https://www.kennicott.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d943b8b67cec4f9b0a0ee2?utm_campaign=1051&utm_source=git)** | Chicago - Chicago, IL 60622 | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
