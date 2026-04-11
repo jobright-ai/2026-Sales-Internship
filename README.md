@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electro](electrogum.com)** | **[NIL Partnerships Intern](https://jobright.ai/jobs/info/69d9e3249f97a42dc9c2529d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 10 |
+| **[Detroit Manufacturing Systems (DMS)](https://www.dmsna.com)** | **[Sales Intern - Summer 2026 [Kinetyc]](https://jobright.ai/jobs/info/69d9e3109f97a42dc9c25275?utm_campaign=1051&utm_source=git)** | Wixom, MI | On Site | Apr 10 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d62d738f2f099e8a50ee?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d618738f2f099e8a50d1?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ccf748bc5d08a4e8a8?utm_campaign=1051&utm_source=git)** | Paterson, NJ | On Site | Apr 10 |
@@ -135,9 +137,9 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93fcff748bc5d08a4a11b?utm_campaign=1051&utm_source=git)** | Idaho, United States | Remote | Apr 10 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Urology Field Sales Internship Summer 2026 / Nashville](https://jobright.ai/jobs/info/69d59c16366bb95ba554656e?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 10 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d93cecb67cec4f9b0a0999?utm_campaign=1051&utm_source=git)** | Jackson, MI | On Site | Apr 10 |
-| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93cbeb67cec4f9b0a0914?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Apr 10 |
+| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93cbeb67cec4f9b0a0916?utm_campaign=1051&utm_source=git)** | Delaware, United States | Remote | Apr 10 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93cbeb67cec4f9b0a0913?utm_campaign=1051&utm_source=git)** | Idaho, United States | Remote | Apr 10 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93cbeb67cec4f9b0a0916?utm_campaign=1051&utm_source=git)** | Delaware, United States | Remote | Apr 10 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d93cbeb67cec4f9b0a0914?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Apr 10 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d93cad869c7e25d85998a6?utm_campaign=1051&utm_source=git)** | Barboursville, WV | On Site | Apr 10 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69d93c795356a60f40fd8552?utm_campaign=1051&utm_source=git)** | Jackson, TN | On Site | Apr 10 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69b2ff09ae2a534885ea4964?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Apr 10 |
@@ -147,14 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d935979f97a42dc9c20065?utm_campaign=1051&utm_source=git)** | Oregon, United States | Remote | Apr 10 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d9358f9f97a42dc9c2003b?utm_campaign=1051&utm_source=git)** | Rhode Island, United States | Remote | Apr 10 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d9358f9f97a42dc9c20038?utm_campaign=1051&utm_source=git)** | North Dakota, United States | Remote | Apr 10 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d9358f9f97a42dc9c20039?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Apr 10 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d9358f9f97a42dc9c20036?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | Apr 10 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d9358f9f97a42dc9c2003a?utm_campaign=1051&utm_source=git)** | South Dakota, United States | Remote | Apr 10 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d9358f9f97a42dc9c20039?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Apr 10 |
 | **[TripleLift](http://www.triplelift.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/69d93434738f2f099e8a05e6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d933f9f748bc5d08a4990e?utm_campaign=1051&utm_source=git)** | Alaska, United States | Remote | Apr 10 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d933f3f748bc5d08a498df?utm_campaign=1051&utm_source=git)** | New Jersey, United States | Remote | Apr 10 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d933d6869c7e25d85996aa?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Apr 10 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d933d6869c7e25d85996ab?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Apr 10 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d933c0738f2f099e8a053d?utm_campaign=1051&utm_source=git)** | Iowa, United States | Remote | Apr 10 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69d933c0738f2f099e8a053c?utm_campaign=1051&utm_source=git)** | Utah, United States | Remote | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
