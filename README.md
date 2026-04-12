@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Muncie, IN](https://jobright.ai/jobs/info/693302bbf131d96e4845f2b5?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Apr 12 |
+| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696aae165fc862418539af8a?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Apr 12 |
+| **[HORST Engineering](http://horstengineering.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69db9b68f748bc5d08a58a23?utm_campaign=1051&utm_source=git)** | East Hartford, CT | On Site | Apr 12 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Sunderland, MA](https://jobright.ai/jobs/info/6932fcc2f131d96e4845f04b?utm_campaign=1051&utm_source=git)** | Sunderland, MA | On Site | Apr 12 |
+| ↳ | **[Student Housing Operations Intern - Muncie, IN](https://jobright.ai/jobs/info/693302bbf131d96e4845f2b5?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Apr 12 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a1fb76359fe034b1cd3a97?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 12 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Laramie, WY](https://jobright.ai/jobs/info/6933095ea0dde7020e2ea0e7?utm_campaign=1051&utm_source=git)** | Laramie, WY | On Site | Apr 12 |
 | **[Vacheron Constantin](https://www.vacheron-constantin.com/)** | **[Retail Experience Intern](https://jobright.ai/jobs/info/69a1f1c20da45516f16b3c1e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 12 |
@@ -72,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[BCD Meetings & Events](http://www.bcdme.com)** | **[Intern](https://jobright.ai/jobs/info/69db56bef748bc5d08a584db?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 12 |
 | **[Iowa Spine and Performance](https://www.iowaspineandperformance.com)** | **[Sales Intern (Patient Sales Representative Track) – Iowa Spine and Performance](https://jobright.ai/jobs/info/69db54389f97a42dc9c2e7c0?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 11 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Mid-Atlantic)](https://jobright.ai/jobs/info/69daee8e5356a60f40fe43f0?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Apr 11 |
-| ↳ | **[2026 Sales/Brokerage Intern - Summer (Radnor, PA)](https://jobright.ai/jobs/info/69daee4c869c7e25d85a56fc?utm_campaign=1051&utm_source=git)** | Radnor, PA | On Site | Apr 11 |
 | ↳ | **[2026 Sales/Brokerage Intern - Summer (El Paso, TX)](https://jobright.ai/jobs/info/69daee4c869c7e25d85a56fd?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Apr 11 |
+| ↳ | **[2026 Sales/Brokerage Intern - Summer (Radnor, PA)](https://jobright.ai/jobs/info/69daee4c869c7e25d85a56fc?utm_campaign=1051&utm_source=git)** | Radnor, PA | On Site | Apr 11 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698525d9348f733a5c395458?utm_campaign=1051&utm_source=git)** | Caledon, ON | On Site | Apr 11 |
 | **[OES Global, Inc.](https://oesglobalinc.com)** | **[Business Development Intern - Career Opportunity](https://jobright.ai/jobs/info/69dabd2eb67cec4f9b0ac0a1?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL | On Site | Apr 11 |
 | **[Maxie Price RV](http://maxiepricerv.com)** | **[Automotive & Internet Sales Agent](https://jobright.ai/jobs/info/69dab7f4738f2f099e8abf12?utm_campaign=1051&utm_source=git)** | Loganville, GA | On Site | Apr 11 |
@@ -138,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Rentokil Réunion - Les experts de la lutte contre les nuisibles partout  à la Réunion](https://www.rentokil.re)** | **[Account Executive](https://jobright.ai/jobs/info/69db6465738f2f099e8aee53?utm_campaign=1051&utm_source=git)** | Paramus, NJ | On Site | Apr 11 |
 | ↳ | **[Account Executive](https://jobright.ai/jobs/info/69db64659f97a42dc9c2eba0?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Apr 11 |
 | ↳ | **[Account Executive](https://jobright.ai/jobs/info/69db648ef748bc5d08a58615?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 11 |
-| ↳ | **[Account Executive](https://jobright.ai/jobs/info/69db646bb67cec4f9b0aef81?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | On Site | Apr 11 |
 | ↳ | **[Account Executive](https://jobright.ai/jobs/info/69db648df748bc5d08a58612?utm_campaign=1051&utm_source=git)** | Glen Burnie, MD | On Site | Apr 11 |
+| ↳ | **[Account Executive](https://jobright.ai/jobs/info/69db646bb67cec4f9b0aef81?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | On Site | Apr 11 |
 | ↳ | **[Inside Sales Professional](https://jobright.ai/jobs/info/69db6478738f2f099e8aee63?utm_campaign=1051&utm_source=git)** | Newmarket, ON | On Site | Apr 11 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69da0614f748bc5d08a511a1?utm_campaign=1051&utm_source=git)** | Conception Bay South, NL | On Site | Apr 11 |
 | ↳ | **[Relationship Manager, Business Markets Intern](https://jobright.ai/jobs/info/69da042fb67cec4f9b0a7b01?utm_campaign=1051&utm_source=git)** | Coquitlam, BC | On Site | Apr 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Technology Sales– Intern Co-op](https://jobright.ai/jobs/info/69db3e7e9f97a42dc9c2e04c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Starting in Summer 2026](https://jobright.ai/jobs/info/69db46e9b67cec4f9b0ae716?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d62d738f2f099e8a50ee?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Apr 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d618738f2f099e8a50d1?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Apr 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ccf748bc5d08a4e8a8?utm_campaign=1051&utm_source=git)** | Paterson, NJ | On Site | Apr 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c82?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
