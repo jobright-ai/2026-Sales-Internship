@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Mid-Atlantic)](https://jobright.ai/jobs/info/69daee8e5356a60f40fe43f0?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Apr 11 |
-| ↳ | **[2026 Sales/Brokerage Intern - Summer (Radnor, PA)](https://jobright.ai/jobs/info/69daee4c869c7e25d85a56fc?utm_campaign=1051&utm_source=git)** | Radnor, PA | On Site | Apr 11 |
 | ↳ | **[2026 Sales/Brokerage Intern - Summer (El Paso, TX)](https://jobright.ai/jobs/info/69daee4c869c7e25d85a56fd?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Apr 11 |
+| ↳ | **[2026 Sales/Brokerage Intern - Summer (Radnor, PA)](https://jobright.ai/jobs/info/69daee4c869c7e25d85a56fc?utm_campaign=1051&utm_source=git)** | Radnor, PA | On Site | Apr 11 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Intern - Agency Partnerships](https://jobright.ai/jobs/info/69daeb2d738f2f099e8ac812?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698525d9348f733a5c395458?utm_campaign=1051&utm_source=git)** | Caledon, ON | On Site | Apr 11 |
 | **[OES Global, Inc.](https://oesglobalinc.com)** | **[Business Development Intern - Career Opportunity](https://jobright.ai/jobs/info/69dabd2eb67cec4f9b0ac0a1?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL | On Site | Apr 11 |
@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[HORST Engineering](http://horstengineering.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69daac3a9f97a42dc9c2bbe3?utm_campaign=1051&utm_source=git)** | East Hartford, CT | On Site | Apr 11 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69daa491738f2f099e8abc7d?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Apr 11 |
 | **[Johnson Brothers](https://www.johnsonbrothers.com/)** | **[2026 Retail Sales Intern](https://jobright.ai/jobs/info/69cbd3d8366bb95ba54ec656?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 11 |
-| **[ATP Gov](https://atpgov.com/)** | **[ACCOUNT EXECUTIVE - DOD](https://jobright.ai/jobs/info/69da8f7d869c7e25d85a2a21?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/696927181703f05405ab07fe?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 11 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Sales and Marketing Intern (Asheville)](https://jobright.ai/jobs/info/69be7629393a1008f7446d06?utm_campaign=1051&utm_source=git)** | Greater Jacksonville, NC Area | On Site | Apr 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933fe29f131d96e48468f0f?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Apr 11 |
@@ -115,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Hightower Advisors](https://thrushgroup.hightoweradvisors.com/)** | **[Senior Client Services Associate- Treasury Partners](https://jobright.ai/jobs/info/69bdf8beb106024562835a28?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69da22deb67cec4f9b0a8047?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
 | ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69cb6902466f1e133aacd854?utm_campaign=1051&utm_source=git)** | Glastonbury, CT | On Site | Apr 11 |
-| ↳ | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69da22069f97a42dc9c278cb?utm_campaign=1051&utm_source=git)** | Fairfax, VA | On Site | Apr 11 |
 | **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[Buying Intern](https://jobright.ai/jobs/info/69bd2679393a1008f7428a65?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Sales Analytics Intern](https://jobright.ai/jobs/info/69bdd04bb106024562830fba?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Apr 11 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Consumer Bank Sales Analyst](https://jobright.ai/jobs/info/69d578b0e63cea7a8b661872?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Apr 11 |
@@ -137,14 +135,15 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d62d738f2f099e8a50ee?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d618738f2f099e8a50d1?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ccf748bc5d08a4e8a8?utm_campaign=1051&utm_source=git)** | Paterson, NJ | On Site | Apr 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c85?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c82?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Apr 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d5ae9f97a42dc9c24c85?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9d4ca869c7e25d859e203?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Apr 10 |
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Project Intern (Lemon8) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9cdae738f2f099e8a4db9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
 | **[Boise State University](https://boisestate.edu)** | **[Director of Prospect Development](https://jobright.ai/jobs/info/69d9cb3c738f2f099e8a49d8?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Apr 10 |
 | **[Equinix](http://www.equinix.com)** | **[Operational Excellence Intern, Customer Success](https://jobright.ai/jobs/info/69d9caed9f97a42dc9c244d5?utm_campaign=1051&utm_source=git)** | Toronto, ON | Hybrid | Apr 10 |
 | **[Ace Handyman Services](https://acehandymanfranchising.com/)** | **[Summer Business Intern](https://jobright.ai/jobs/info/69d9caacb67cec4f9b0a4b18?utm_campaign=1051&utm_source=git)** | Commerce Township, MI | On Site | Apr 10 |
 | **[Allstate](http://www.allstate.com)** | **[Field Sales Intern](https://jobright.ai/jobs/info/69d9ca985356a60f40fdc65a?utm_campaign=1051&utm_source=git)** | Northbrook, IL | On Site | Apr 10 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Urology Field Sales Internship Summer 2026 / Dallas](https://jobright.ai/jobs/info/69db1f10738f2f099e8ad5d0?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9c0d3738f2f099e8a4546?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | On Site | Apr 10 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Corporate Development Intern – 2026](https://jobright.ai/jobs/info/69d9c07e5356a60f40fdc2d6?utm_campaign=1051&utm_source=git)** | Richmond, VA | Hybrid | Apr 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator&Partner Strategy Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9c02db67cec4f9b0a46f3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69da03805356a60f40fdf62e?utm_campaign=1051&utm_source=git)** | Alexandria, VA | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9ba169f97a42dc9c23c2f?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9ba159f97a42dc9c23c2b?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Apr 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9b9f9b67cec4f9b0a42ea?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
