@@ -123,6 +123,12 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Personal Banker (U) International Speedway Daytona Beach FL](https://jobright.ai/jobs/info/69da3666b67cec4f9b0a81bd?utm_campaign=1051&utm_source=git)** | Daytona Beach, FL | On Site | Apr 11 |
 | **[Trellix](http://www.trellix.com)** | **[Sales Intern - Federal](https://jobright.ai/jobs/info/69da1352869c7e25d85a0d0b?utm_campaign=1051&utm_source=git)** | US, Virginia, Fairfax | On Site | Apr 11 |
 | ↳ | **[Trellix Intern](https://jobright.ai/jobs/info/69da134bf748bc5d08a512c2?utm_campaign=1051&utm_source=git)** | US, Virginia, Reston | On Site | Apr 11 |
+| **[Rentokil Réunion - Les experts de la lutte contre les nuisibles partout  à la Réunion](https://www.rentokil.re)** | **[Account Executive](https://jobright.ai/jobs/info/69db6465738f2f099e8aee53?utm_campaign=1051&utm_source=git)** | Paramus, NJ | On Site | Apr 11 |
+| ↳ | **[Account Executive](https://jobright.ai/jobs/info/69db64659f97a42dc9c2eba0?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Apr 11 |
+| ↳ | **[Account Executive](https://jobright.ai/jobs/info/69db648ef748bc5d08a58615?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 11 |
+| ↳ | **[Account Executive](https://jobright.ai/jobs/info/69db648df748bc5d08a58612?utm_campaign=1051&utm_source=git)** | Glen Burnie, MD | On Site | Apr 11 |
+| ↳ | **[Account Executive](https://jobright.ai/jobs/info/69db646bb67cec4f9b0aef81?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | On Site | Apr 11 |
+| ↳ | **[Inside Sales Professional](https://jobright.ai/jobs/info/69db6478738f2f099e8aee63?utm_campaign=1051&utm_source=git)** | Newmarket, ON | On Site | Apr 11 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69da0614f748bc5d08a511a1?utm_campaign=1051&utm_source=git)** | Conception Bay South, NL | On Site | Apr 11 |
 | ↳ | **[Relationship Manager, Business Markets Intern](https://jobright.ai/jobs/info/69da042fb67cec4f9b0a7b01?utm_campaign=1051&utm_source=git)** | Coquitlam, BC | On Site | Apr 11 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69da03fe869c7e25d85a0a89?utm_campaign=1051&utm_source=git)** | Canada | Remote | Apr 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9c019869c7e25d859d66d?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Apr 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9c012869c7e25d859d641?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Apr 10 |
 | **[DOCUmation](https://mation.com)** | **[San Antonio - Summer 2026 Sales Intern](https://jobright.ai/jobs/info/69d9bfda869c7e25d859d5a6?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
-| **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69da0420b67cec4f9b0a7ac7?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | On Site | Apr 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69da0413b67cec4f9b0a7a89?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Apr 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69da03f8b67cec4f9b0a7a6d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69da03805356a60f40fdf62e?utm_campaign=1051&utm_source=git)** | Alexandria, VA | On Site | Apr 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9ba169f97a42dc9c23c2f?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69d9ba159f97a42dc9c23c2b?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
