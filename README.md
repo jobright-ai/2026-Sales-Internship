@@ -101,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c4a1edd5a1016e98dbf2c4?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 12 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Commodity Trader Intern](https://jobright.ai/jobs/info/69bee0fcb1060245628448e0?utm_campaign=1051&utm_source=git)** | Inver Grove Heights, MN | On Site | Apr 12 |
 | **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/69bf63432c312363dcd21a00?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Remote | Apr 12 |
-| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d0bc5a54f00230c6d15a87?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 12 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696968b1639b452fb57f3c13?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Apr 12 |
+| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696968b1639b452fb57f3c13?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Apr 12 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69d0bc5a54f00230c6d15a87?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 12 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/699945cd81476f6176b1dd27?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Apr 12 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Sales Planning](https://jobright.ai/jobs/info/69a2a3d6359fe034b1cdf6ab?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696aae165fc862418539af8a?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Apr 12 |
@@ -116,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[NEW RESIDENTIAL SALES INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a209390da45516f16b5225?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 12 |
 | **[BCD Meetings & Events](http://www.bcdme.com)** | **[Intern](https://jobright.ai/jobs/info/69db56bef748bc5d08a584db?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 12 |
 | **[Iowa Spine and Performance](https://www.iowaspineandperformance.com)** | **[Sales Intern (Patient Sales Representative Track) – Iowa Spine and Performance](https://jobright.ai/jobs/info/69db54389f97a42dc9c2e7c0?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 11 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69dc8c959f97a42dc9c3185d?utm_campaign=1051&utm_source=git)** | Fairfax, VA | On Site | Apr 11 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Mid-Atlantic)](https://jobright.ai/jobs/info/69daee8e5356a60f40fe43f0?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Apr 11 |
 | ↳ | **[2026 Sales/Brokerage Intern - Summer (El Paso, TX)](https://jobright.ai/jobs/info/69daee4c869c7e25d85a56fd?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Apr 11 |
 | ↳ | **[2026 Sales/Brokerage Intern - Summer (Radnor, PA)](https://jobright.ai/jobs/info/69daee4c869c7e25d85a56fc?utm_campaign=1051&utm_source=git)** | Radnor, PA | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696959641703f05405ab329c?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | Apr 11 |
 | **[Trellix](http://www.trellix.com)** | **[Sales Intern - Federal](https://jobright.ai/jobs/info/69da4617f748bc5d08a51c56?utm_campaign=1051&utm_source=git)** | Fairfax, VA | On Site | Apr 11 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[NEW RESIDENTIAL SALES INTERN](https://jobright.ai/jobs/info/69a267ceb600907a9628b49e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 11 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Ann Arbor, MI](https://jobright.ai/jobs/info/6932f323764507023d1b1423?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
