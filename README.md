@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TD](https://www.td.com)** | **[TD Insurance Private Client Advice Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc75845356a60f40fe9134?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Intern (Remote) - Agency Partnerships](https://jobright.ai/jobs/info/69dc9556b67cec4f9b0b2189?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 13 |
+| **[TD](https://www.td.com)** | **[Account Manager Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dc9254b67cec4f9b0b1c76?utm_campaign=1051&utm_source=git)** | Calgary, Alberta | On Site | Apr 12 |
+| ↳ | **[TD Insurance Private Client Advice Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc75845356a60f40fe9134?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | **[RagaAI Inc](http://www.raga.ai)** | **[AI Product & Customer Success Interns_St Paul, Minnesota](https://jobright.ai/jobs/info/69dc6ef1b67cec4f9b0b15d0?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Apr 12 |
 | **[griddable.io](https://griddable.io)** | **[Account Director, K-12 Education](https://jobright.ai/jobs/info/69dc6d4c5356a60f40fe8f25?utm_campaign=1051&utm_source=git)** | Killeen-Temple Area | On Site | Apr 12 |
 | **[Fusion100](http://Fusion100co.com)** | **[Sorority Sales & Partnerships Intern](https://jobright.ai/jobs/info/69dc6d4b5356a60f40fe8f1b?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Apr 12 |
@@ -112,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Laramie, WY](https://jobright.ai/jobs/info/6933095ea0dde7020e2ea0e7?utm_campaign=1051&utm_source=git)** | Laramie, WY | On Site | Apr 12 |
 | **[Vacheron Constantin](https://www.vacheron-constantin.com/)** | **[Retail Experience Intern](https://jobright.ai/jobs/info/69a1f1c20da45516f16b3c1e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/69867b820f6f7e7a2ce178ae?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 12 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69da71ecb67cec4f9b0a96ae?utm_campaign=1051&utm_source=git)** | Peoria, AZ | On Site | Apr 12 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[NEW RESIDENTIAL SALES INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a209390da45516f16b5225?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 12 |
 | **[BCD Meetings & Events](http://www.bcdme.com)** | **[Intern](https://jobright.ai/jobs/info/69db56bef748bc5d08a584db?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 12 |
 | **[Iowa Spine and Performance](https://www.iowaspineandperformance.com)** | **[Sales Intern (Patient Sales Representative Track) – Iowa Spine and Performance](https://jobright.ai/jobs/info/69db54389f97a42dc9c2e7c0?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 11 |
@@ -139,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69a24f4eb600907a962898ca?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 11 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69d0a9e9cfdc6132f943d947?utm_campaign=1051&utm_source=git)** | Newark, CA | On Site | Apr 11 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Apr 11 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Customer Success Summer Intern](https://jobright.ai/jobs/info/69ce1505cdb525785fb93aaf?utm_campaign=1051&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships - Activations](https://jobright.ai/jobs/info/69be07b7393a1008f743e0a9?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Apr 11 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a05ea80836fe79d86147d2?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Apr 11 |
 | **[Dana Incorporated](https://www.danatm4.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69bd4f0fb106024562823c9e?utm_campaign=1051&utm_source=git)** | Maumee, OH | On Site | Apr 11 |
