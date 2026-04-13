@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jungle Kind](junglekind.com/max)** | **[Ecommerce Sales Internship](https://jobright.ai/jobs/info/69dc43a2738f2f099e8b0295?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 12 |
 | **[Sapochetti Brands](sapbrands.shop)** | **[Sales And Client Relations Intern](https://jobright.ai/jobs/info/69dc30c79f97a42dc9c2fe67?utm_campaign=1051&utm_source=git)** | Greater Boston | Hybrid | Apr 12 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/69dc2814b67cec4f9b0b01cc?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Apr 12 |
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Strategic Partnerships Intern](https://jobright.ai/jobs/info/69dbfcb35356a60f40fe7738?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Apr 12 |
-| **[Revilo Technologies](www.reviloautocare.com)** | **[US-Based Business Development Intern l Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/69dbe14ff748bc5d08a58dfb?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 12 |
 | **[Paycom](http://www.paycom.com)** | **[Client Success Manager - Skillbridge](https://jobright.ai/jobs/info/69abdf972747003c3d51bcb2?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Apr 12 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Michigan) - Summer '26](https://jobright.ai/jobs/info/68c2893903b99f6b3429507d?utm_campaign=1051&utm_source=git)** | Edmore, MI | On Site | Apr 12 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69c63a69e565c26a7001c067?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Apr 12 |
@@ -77,13 +77,13 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/696922481703f05405aafc98?utm_campaign=1051&utm_source=git)** | Douglasville, GA | On Site | Apr 12 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/68f7fe5f5dc1be601281fc1a?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | Hybrid | Apr 12 |
 | **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69695ebff25a38006697f1e2?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Apr 12 |
-| **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69c7508e1818a24cd84cd54a?utm_campaign=1051&utm_source=git)** | Hillsboro, OR | On Site | Apr 12 |
-| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69c8a0b91818a24cd84d5d1b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 12 |
+| **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69c8a0b91818a24cd84d5d1b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 12 |
+| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69c7508e1818a24cd84cd54a?utm_campaign=1051&utm_source=git)** | Hillsboro, OR | On Site | Apr 12 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/692018e13f782d2f1afc2d96?utm_campaign=1051&utm_source=git)** | Dublin, CA | On Site | Apr 12 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Commodity Trader Intern](https://jobright.ai/jobs/info/69bee0feb1060245628448e9?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 12 |
 | **[myAgro](http://www.myagro.org/)** | **[Development Manager](https://jobright.ai/jobs/info/699dab77e0bddb6acacd0fd6?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 12 |
-| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 12 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c4a1edd5a1016e98dbf2c4?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 12 |
+| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69c4a1edd5a1016e98dbf2c4?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 12 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 12 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Commodity Trader Intern](https://jobright.ai/jobs/info/69bee0fcb1060245628448e0?utm_campaign=1051&utm_source=git)** | Inver Grove Heights, MN | On Site | Apr 12 |
 | **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/69bf63432c312363dcd21a00?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Remote | Apr 12 |
 | **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d0bc5a54f00230c6d15a87?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 12 |
