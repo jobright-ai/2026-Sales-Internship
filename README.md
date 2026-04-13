@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ardelyx, Inc.](https://ardelyx.com/)** | **[IBSRELA East Commercial Sales Intern](https://jobright.ai/jobs/info/69dcd161f748bc5d08a5ca9a?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Apr 13 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Starkville, MS](https://jobright.ai/jobs/info/6932fbad764507023d1b1717?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Apr 13 |
+| ↳ | **[Student Housing Operations Intern - Minneapolis, MN](https://jobright.ai/jobs/info/69a7c1ec637232443f65198f?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Apr 13 |
+| ↳ | **[Student Housing Operations Intern - Normal, IL](https://jobright.ai/jobs/info/6932fe20764507023d1b1807?utm_campaign=1051&utm_source=git)** | Normal, IL | On Site | Apr 13 |
 | **[TD](https://www.td.com)** | **[Commercial Banking Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5e4738f2f099e8b2f4c?utm_campaign=1051&utm_source=git)** | Surrey, BC | On Site | Apr 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Account Manager Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5cd738f2f099e8b2f16?utm_campaign=1051&utm_source=git)** | Calgary, AB | On Site | Apr 13 |
 | ↳ | **[TD Insurance Private Client Advice Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5c8bc6f6622c990e9b6?utm_campaign=1051&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
@@ -132,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Iowa Spine and Performance](https://www.iowaspineandperformance.com)** | **[Sales Intern (Patient Sales Representative Track) – Iowa Spine and Performance](https://jobright.ai/jobs/info/69db54389f97a42dc9c2e7c0?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69dc8c959f97a42dc9c3185d?utm_campaign=1051&utm_source=git)** | Fairfax, VA | On Site | Apr 11 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Mid-Atlantic)](https://jobright.ai/jobs/info/69daee8e5356a60f40fe43f0?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Apr 11 |
-| ↳ | **[2026 Sales/Brokerage Intern - Summer (El Paso, TX)](https://jobright.ai/jobs/info/69daee4c869c7e25d85a56fd?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Apr 11 |
 | ↳ | **[2026 Sales/Brokerage Intern - Summer (Radnor, PA)](https://jobright.ai/jobs/info/69daee4c869c7e25d85a56fc?utm_campaign=1051&utm_source=git)** | Radnor, PA | On Site | Apr 11 |
+| ↳ | **[2026 Sales/Brokerage Intern - Summer (El Paso, TX)](https://jobright.ai/jobs/info/69daee4c869c7e25d85a56fd?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Apr 11 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698525d9348f733a5c395458?utm_campaign=1051&utm_source=git)** | Caledon, ON | On Site | Apr 11 |
 | **[OES Global, Inc.](https://oesglobalinc.com)** | **[Business Development Intern - Career Opportunity](https://jobright.ai/jobs/info/69dabd2eb67cec4f9b0ac0a1?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL | On Site | Apr 11 |
 | **[Maxie Price RV](http://maxiepricerv.com)** | **[Automotive & Internet Sales Agent](https://jobright.ai/jobs/info/69dab7f4738f2f099e8abf12?utm_campaign=1051&utm_source=git)** | Loganville, GA | On Site | Apr 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69a24f4eb600907a962898ca?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 11 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69d0a9e9cfdc6132f943d947?utm_campaign=1051&utm_source=git)** | Newark, CA | On Site | Apr 11 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Apr 11 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships - Activations](https://jobright.ai/jobs/info/69be07b7393a1008f743e0a9?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Apr 11 |
-| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a05ea80836fe79d86147d2?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Apr 11 |
-| **[Dana Incorporated](https://www.danatm4.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69bd4f0fb106024562823c9e?utm_campaign=1051&utm_source=git)** | Maumee, OH | On Site | Apr 11 |
-| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/697d8172ce48107c0541b2d7?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
