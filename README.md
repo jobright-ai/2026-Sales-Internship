@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ActionLink](https://www.actionlink.com/)** | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69dc5bd7869c7e25d85a97b8?utm_campaign=1051&utm_source=git)** | Aurora, CO | On Site | Apr 12 |
+| **[Ardelyx, Inc.](https://ardelyx.com/)** | **[IBSRELA East Commercial Sales Intern](https://jobright.ai/jobs/info/69dc5b625356a60f40fe82e9?utm_campaign=1051&utm_source=git)** | Waltham, Massachusetts | On Site | Apr 12 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69dc541a738f2f099e8b06e2?utm_campaign=1051&utm_source=git)** | Newport Rhode Island Area | On Site | Apr 12 |
 | **[Dioun Health](diounhealth.com)** | **[Private Equity Sales Intern - Commission Based](https://jobright.ai/jobs/info/69dc50bab67cec4f9b0b0771?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 12 |
 | **[ActionLink](https://www.actionlink.com/)** | **[Field Representative - TCL Mobile](https://jobright.ai/jobs/info/69dc50b3b67cec4f9b0b075b?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 12 |
@@ -90,12 +92,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/692018e13f782d2f1afc2d96?utm_campaign=1051&utm_source=git)** | Dublin, CA | On Site | Apr 12 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Commodity Trader Intern](https://jobright.ai/jobs/info/69bee0feb1060245628448e9?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 12 |
 | **[myAgro](http://www.myagro.org/)** | **[Development Manager](https://jobright.ai/jobs/info/699dab77e0bddb6acacd0fd6?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 12 |
-| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69c4a1edd5a1016e98dbf2c4?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 12 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 12 |
+| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 12 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c4a1edd5a1016e98dbf2c4?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 12 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Commodity Trader Intern](https://jobright.ai/jobs/info/69bee0fcb1060245628448e0?utm_campaign=1051&utm_source=git)** | Inver Grove Heights, MN | On Site | Apr 12 |
 | **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/69bf63432c312363dcd21a00?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Remote | Apr 12 |
-| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696968b1639b452fb57f3c13?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Apr 12 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69d0bc5a54f00230c6d15a87?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 12 |
+| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d0bc5a54f00230c6d15a87?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 12 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696968b1639b452fb57f3c13?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Apr 12 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/699945cd81476f6176b1dd27?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Apr 12 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Sales Planning](https://jobright.ai/jobs/info/69a2a3d6359fe034b1cdf6ab?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696aae165fc862418539af8a?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Apr 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lega Nova Group](http://leganovagroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d72b3e48f0c8161d2fd6b7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Lufthansa Technik Component Services](http://ltcs.com)** | **[Intern – Sales & Fulfillment Closed-Loop Internship position (6-month fixed term) / Hybrid Model (remotely & on-site)](https://jobright.ai/jobs/info/69da3ce1869c7e25d85a12b6?utm_campaign=1051&utm_source=git)** | Hialeah, FL | Hybrid | Apr 11 |
 | **[Genesis](https://www.genesis.com)** | **[Intern, Genesis Sales Operations Analyst](https://jobright.ai/jobs/info/69bdecd5393a1008f743bf20?utm_campaign=1051&utm_source=git)** | Fountain Valley, CA | On Site | Apr 11 |
-| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Retail Admin Intern](https://jobright.ai/jobs/info/6966eb83a112b4026614fadd?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Apr 11 |
-| **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/69bdcca9b106024562830892?utm_campaign=1051&utm_source=git)** | Provo, UT | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
