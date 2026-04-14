@@ -57,6 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magna International](http://www.magna.com/)** | **[Intern - Purchasing](https://jobright.ai/jobs/info/69de89b236823d1b42581c6c?utm_campaign=1051&utm_source=git)** | Southfield, Michigan, US | On Site | Apr 14 |
+| **[Bellco Credit Union](https://www.bellco.org)** | **[Lending Operations Intern - Consumer and Real Estate](https://jobright.ai/jobs/info/69de877d36823d1b425818dc?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Apr 14 |
+| **[Herc Rentals](http://www.HercRentals.com)** | **[Sales and Operations Intern](https://jobright.ai/jobs/info/69de8773aba61f1417315850?utm_campaign=1051&utm_source=git)** | Lees Summit, MO | On Site | Apr 14 |
+| **[Johnston Environmental](johnstonei.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69de86fa433ac8430e0da31b?utm_campaign=1051&utm_source=git)** | Charlotte Metro | On Site | Apr 14 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de856b36823d1b42581757?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Apr 14 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de855aaba61f14173156a6?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | Apr 14 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales & Leadership Intern](https://jobright.ai/jobs/info/69de815c5913ad339813d7ff?utm_campaign=1051&utm_source=git)** | Spring, TX | On Site | Apr 14 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de815c5913ad339813d7fb?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Apr 14 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69de813d5913ad339813d7cc?utm_campaign=1051&utm_source=git)** | Meridian, MS | On Site | Apr 14 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69de80c218cf504166e2d624?utm_campaign=1051&utm_source=git)** | Toledo, OH | On Site | Apr 14 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80b8e34484770f1a26be?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Apr 14 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80b8e34484770f1a26bf?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Apr 14 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80ad433ac8430e0da054?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Apr 14 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80a7e34484770f1a26af?utm_campaign=1051&utm_source=git)** | Nevada, United States | Remote | Apr 14 |
+| **[Prysmian](https://www.prysmian.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69a5e3f9359fe034b1d09b6e?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Apr 14 |
+| **[San José State University](http://www.sjsu.edu/)** | **[Director of Development for Business](https://jobright.ai/jobs/info/69a643fdd706a731db3820b6?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Outbound Sales Representative - 2026 Summer Intern](https://jobright.ai/jobs/info/698be51906d9b0622496165f?utm_campaign=1051&utm_source=git)** | Allen, TX | Hybrid | Apr 14 |
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69de7b7936823d1b42581521?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Apr 14 |
 | **[Prysmian](https://www.prysmian.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a63c49d706a731db3816ec?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Apr 14 |
 | **[Zonda](https://zondahome.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69de7aaa433ac8430e0d9f54?utm_campaign=1051&utm_source=git)** | US | On Site | Apr 14 |
@@ -77,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Business Intern](https://jobright.ai/jobs/info/69de728836823d1b4258108b?utm_campaign=1051&utm_source=git)** | Waltham, MA, USA | Hybrid | Apr 14 |
 | **[Five9](http://www.five9.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69de6ee5aba61f1417314f5a?utm_campaign=1051&utm_source=git)** | United States (Remote) | Remote | Apr 14 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de6df15913ad339813d310?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Apr 14 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de6daaaba61f1417314e23?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Apr 14 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de6d7be34484770f1a1fa1?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Apr 14 |
 | **[Deltek](http://www.deltek.com)** | **[Sales Enablement Support Intern](https://jobright.ai/jobs/info/69de6ce95913ad339813d231?utm_campaign=1051&utm_source=git)** | US-Herndon-VA (Hybrid) | Hybrid | Apr 14 |
 | ↳ | **[Customer Success Intern](https://jobright.ai/jobs/info/69de6cdcaba61f1417314d9d?utm_campaign=1051&utm_source=git)** | US (Remote) | Remote | Apr 14 |
@@ -105,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Development Program Analyst/Associate – Commercial & Corporate Banking (East/Midwest)](https://jobright.ai/jobs/info/69de6109aba61f14173149ff?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | **[Immaculate Cleaning Company Inc.](https://www.immaculatecleaningohio.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69de60e818cf504166e2caf0?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Apr 14 |
 | **[The Midtown Grp](https://themidtowngrp.com)** | **[Business Sales Development Intern](https://jobright.ai/jobs/info/69de60daaba61f14173149d1?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 14 |
-| **[Sprinklr](http://www.sprinklr.com)** | **[Sales Ops Intern](https://jobright.ai/jobs/info/69de5fb7433ac8430e0d947b?utm_campaign=1051&utm_source=git)** | United States - Texas - Austin | On Site | Apr 14 |
+| **[Sprinklr](http://www.sprinklr.com)** | **[Sales Ops Intern](https://jobright.ai/jobs/info/69de5fb7433ac8430e0d9478?utm_campaign=1051&utm_source=git)** | United States - Texas - Austin | On Site | Apr 14 |
 | ↳ | **[Sales Ops Intern](https://jobright.ai/jobs/info/69de5f7736823d1b42580a09?utm_campaign=1051&utm_source=git)** | United States - Texas - Remote | Remote | Apr 14 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69de5c66e34484770f1a19c1?utm_campaign=1051&utm_source=git)** | London, ON | On Site | Apr 14 |
 | **[LUG Sports Group](https://www.lugsports.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/69de5bb9aba61f1417314836?utm_campaign=1051&utm_source=git)** | Toronto, ON | Remote | Apr 14 |
@@ -119,18 +135,18 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Account Specialist Summer Internship - Enterprise Truck Rental](https://jobright.ai/jobs/info/69c2203775f7ff1cd810e494?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Apr 14 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69970c9981476f6176af2942?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Apr 14 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/6920115c3f782d2f1afc29a0?utm_campaign=1051&utm_source=git)** | Fairfax, VA | On Site | Apr 14 |
-| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69c4ade3d5a1016e98dbfb5c?utm_campaign=1051&utm_source=git)** | Cedar Park, TX | On Site | Apr 14 |
-| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69ccd995cdb525785fb83aaf?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Apr 14 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69200bd8a49a885af9a36348?utm_campaign=1051&utm_source=git)** | Nashua, NH | On Site | Apr 14 |
+| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69c4ade3d5a1016e98dbfb5c?utm_campaign=1051&utm_source=git)** | Cedar Park, TX | On Site | Apr 14 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/692008a5a49a885af9a3620e?utm_campaign=1051&utm_source=git)** | Albany, NY | On Site | Apr 14 |
+| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69ccd995cdb525785fb83aaf?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Apr 14 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69200f393f782d2f1afc28a0?utm_campaign=1051&utm_source=git)** | North Chicago, IL | On Site | Apr 14 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69cb3c57aa3c2c1995e35545?utm_campaign=1051&utm_source=git)** | Oakton, VA | On Site | Apr 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Burien](https://jobright.ai/jobs/info/68ddda1244d32141e0bfb325?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 14 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69b4d8a206c1ba00c5465ad7?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Apr 14 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/698891f58da7a6120463afce?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Apr 14 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69c63a0e1818a24cd84c1cce?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Apr 14 |
-| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69cc951d366bb95ba54f32e9?utm_campaign=1051&utm_source=git)** | Sterling, VA | On Site | Apr 14 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69ca40141b5ad028873a04db?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Apr 14 |
+| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69cc951d366bb95ba54f32e9?utm_campaign=1051&utm_source=git)** | Sterling, VA | On Site | Apr 14 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69c774e11b5ad0288738ce61?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 14 |
 | **[Traffic Tech](http://www.traffictech.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69de4b86aba61f1417314291?utm_campaign=1051&utm_source=git)** | Montreal, QC | On Site | Apr 14 |
 | **[Lumanity](http://lumanity.com/)** | **[Business Development Intern - Within Commuting Distance to Morristown, NJ](https://jobright.ai/jobs/info/69de4b23e34484770f1a13bb?utm_campaign=1051&utm_source=git)** | US-NJ-Morristown | Hybrid | Apr 14 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Paragard Sales Intern](https://jobright.ai/jobs/info/69c187142c312363dcd48572?utm_campaign=1051&utm_source=git)** | Livingston, NJ | On Site | Apr 14 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69201adc3f782d2f1afc2e6d?utm_campaign=1051&utm_source=git)** | San Carlos, CA | On Site | Apr 14 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/6920110c3f782d2f1afc2982?utm_campaign=1051&utm_source=git)** | Milpitas, CA | On Site | Apr 14 |
-| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/692010ec09cc522e87747cab?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | Apr 14 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/69dda4c9e34484770f19e37c?utm_campaign=1051&utm_source=git)** | Edmonton, AB | On Site | Apr 14 |
-| **[ArtsyEmpire](artsyempire.com)** | **[Sales development representative intern](https://jobright.ai/jobs/info/69de43b536823d1b425802e9?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 14 |
-| ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/69de43a2e34484770f1a12b3?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 14 |
-| **[FUJIFILM Biosciences](http://www.irvinesci.com)** | **[Commercial Operations - Intern](https://jobright.ai/jobs/info/69ccbd1acdb525785fb821bb?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | On Site | Apr 14 |
-| **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69c7507daa3c2c1995e1721d?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Apr 14 |
-| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/692019753f782d2f1afc2dd7?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Apr 14 |
-| ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69201e2f09cc522e87748321?utm_campaign=1051&utm_source=git)** | Elkridge, MD | On Site | Apr 14 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Edwardsville, IL](https://jobright.ai/jobs/info/6933001c764507023d1b18fa?utm_campaign=1051&utm_source=git)** | Edwardsville, IL | On Site | Apr 14 |
-| **[Arbor Homes](https://yourarborhome.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/69c1c72c79e36d3a847ed3ed?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Apr 14 |
-| **[Summit Events](summiteventsclt.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69de2fe5e34484770f1a0f0e?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 14 |
-| **[NewGen Mission Support LLC](newgenmissionsupport.com)** | **[Sales And Marketing Specialist](https://jobright.ai/jobs/info/69de2b9218cf504166e2be2e?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Remote | Apr 14 |
-| **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Intern - Junior/senior](https://jobright.ai/jobs/info/69a65436d706a731db38363e?utm_campaign=1051&utm_source=git)** | Westfield, MA | Hybrid | Apr 14 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Specialist Fresh Category Development](https://jobright.ai/jobs/info/69de1b7636823d1b4257fbbe?utm_campaign=1051&utm_source=git)** | Carlisle, PA | Hybrid | Apr 14 |
-| **[Würth Industry USA](http://www.wurthindustry.com)** | **[New Business Development Specialist - Intern](https://jobright.ai/jobs/info/69c212a72c312363dcd5a1dc?utm_campaign=1051&utm_source=git)** | Sanford, VA | On Site | Apr 14 |
-| **[Echo Global Logistics](https://www.echo.com)** | **[Logistics Account Executive Intern](https://jobright.ai/jobs/info/69c1b1242c312363dcd4d9ca?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
