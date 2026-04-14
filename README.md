@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fike Corporation](https://www.fike.com/)** | **[Supply Chain & Customer Planning Intern](https://jobright.ai/jobs/info/69dec2a836823d1b42583b00?utm_campaign=1051&utm_source=git)** | Missouri City, MO | On Site | Apr 14 |
+| **[SideKix HQ Inc.](SideKixHQ.com)** | **[Advisor Partnerships & Operations Internship (unpaid)](https://jobright.ai/jobs/info/69dec26a18cf504166e2fbd1?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 14 |
+| **[Adastra](https://adastracorp.com)** | **[FSI Sales & Industry Enablement Intern](https://jobright.ai/jobs/info/69dec0b85913ad339813fddf?utm_campaign=1051&utm_source=git)** | Toronto, ON, CA | Hybrid | Apr 14 |
+| ↳ | **[FSI Sales & Industry Enablement Intern](https://jobright.ai/jobs/info/69dec0b7aba61f14173178c8?utm_campaign=1051&utm_source=git)** | CA-ON-Toronto | Hybrid | Apr 14 |
+| **[Henry Schein](http://www.henryschein.com)** | **[Dental Field Sales Intern - Georgia](https://jobright.ai/jobs/info/69dec08f36823d1b42583970?utm_campaign=1051&utm_source=git)** | Georgia, United States - Remote | Remote | Apr 14 |
+| **[Athletics](http://www.athletics.com)** | **[Intern, Sales & Service](https://jobright.ai/jobs/info/69debe9518cf504166e2fa32?utm_campaign=1051&utm_source=git)** | Las Vegas Black Fire | On Site | Apr 14 |
+| **[Cruze](https://cruzemaps.github.io/cruzewebsite/)** | **[Sales Intern](https://jobright.ai/jobs/info/69debc90aba61f1417317741?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 14 |
+| **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69debc87e34484770f1a47bd?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Apr 14 |
+| **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, Sales and Marketing](https://jobright.ai/jobs/info/69debb2f5913ad339813f91d?utm_campaign=1051&utm_source=git)** | Macon, GA | On Site | Apr 14 |
+| **[Segal](https://www.segalco.com)** | **[Intern, Insurance (Summer 2026)](https://jobright.ai/jobs/info/69deb97636823d1b42583746?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 14 |
 | **[Appli AI](https://applisolutions.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69deb296433ac8430e0dbf8b?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | Apr 14 |
-| **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Bannockburn](https://jobright.ai/jobs/info/69deb28f18cf504166e2f54f?utm_campaign=1051&utm_source=git)** | OH - Cincinnati - 5th St | On Site | Apr 14 |
 | **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69deb2755913ad339813ef2e?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | On Site | Apr 14 |
 | **[Best Plumbing Supply](http://bestplg.com)** | **[Sales and Operations Internship](https://jobright.ai/jobs/info/69deb1d35913ad339813eebe?utm_campaign=1051&utm_source=git)** | Wyoming, MI, USA | On Site | Apr 14 |
 | **[Segal Marco Advisors](http://segalmarco.com/)** | **[Intern, Insurance (Summer 2026)](https://jobright.ai/jobs/info/69deb1ae433ac8430e0dbdcb?utm_campaign=1051&utm_source=git)** | US-MI-Lansing | Hybrid | Apr 14 |
@@ -79,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Sales Intern - Newport, KY](https://jobright.ai/jobs/info/69dea5a0433ac8430e0db639?utm_campaign=1051&utm_source=git)** | Newport | On Site | Apr 14 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/69dea3de36823d1b42582c96?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Apr 14 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern - Paid](https://jobright.ai/jobs/info/69dea324e34484770f1a3b9c?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Apr 14 |
-| **[H7 BioCapital](https://h7biocapital.com)** | **[Business Development Fellowship (Remote)](https://jobright.ai/jobs/info/69dea10b433ac8430e0db321?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Laerdal Medical](http://www.laerdal.com)** | **[Business Development Summer Intern](https://jobright.ai/jobs/info/69de9d30aba61f14173166db?utm_campaign=1051&utm_source=git)** | Wappingers Falls, NY | Hybrid | Apr 14 |
 | **[University of Nebraska Foundation](https://nufoundation.org/)** | **[Prospect Management & Research Intern](https://jobright.ai/jobs/info/69de9d09e34484770f1a37de?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 14 |
 | **[Communities Foundation of Texas](http://www.cftexas.org)** | **[INTERN - External Affairs](https://jobright.ai/jobs/info/69d504cccfdc6132f945f368?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 14 |
@@ -109,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de815c5913ad339813d7fb?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Apr 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69de813d5913ad339813d7cc?utm_campaign=1051&utm_source=git)** | Meridian, MS | On Site | Apr 14 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69de80c218cf504166e2d624?utm_campaign=1051&utm_source=git)** | Toledo, OH | On Site | Apr 14 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80b8e34484770f1a26be?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Apr 14 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80b8e34484770f1a26bf?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Apr 14 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80b8e34484770f1a26bf?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Apr 14 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80b8e34484770f1a26be?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Apr 14 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80ad433ac8430e0da054?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Apr 14 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80a7e34484770f1a26af?utm_campaign=1051&utm_source=git)** | Nevada, United States | Remote | Apr 14 |
 | **[Prysmian](https://www.prysmian.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69a5e3f9359fe034b1d09b6e?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Apr 14 |
@@ -135,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Business Intern](https://jobright.ai/jobs/info/69de728836823d1b4258108b?utm_campaign=1051&utm_source=git)** | Waltham, MA, USA | Hybrid | Apr 14 |
 | **[Enel X](https://www.enelx.com/)** | **[Energy Markets Intern; July - December Co-Op (Remote, USA)](https://jobright.ai/jobs/info/69deb2d85913ad339813f0ad?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Five9](http://www.five9.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69de6ee5aba61f1417314f5a?utm_campaign=1051&utm_source=git)** | United States (Remote) | Remote | Apr 14 |
+| **[Lumanity](http://lumanity.com/)** | **[Business Development & Commercial Operations Intern - Commuting Distance to Morristown, NJ Required](https://jobright.ai/jobs/info/69deba0c5913ad339813f3f9?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Apr 14 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de6df15913ad339813d310?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Apr 14 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de6daaaba61f1417314e23?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Apr 14 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de6d7be34484770f1a1fa1?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Apr 14 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/69c27b5bec22f8310ab04b11?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Apr 14 |
 | ↳ | **[Account Specialist Summer Internship - Enterprise Truck Rental](https://jobright.ai/jobs/info/69c2203d75f7ff1cd810e49a?utm_campaign=1051&utm_source=git)** | Syracuse, NY | On Site | Apr 14 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8bde44d32141e0bf7eda?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Apr 14 |
-| **[Lumanity](http://lumanity.com/)** | **[Business Development & Commercial Operations Intern - Commuting Distance to Morristown, NJ Required](https://jobright.ai/jobs/info/69de6925e34484770f1a1d4e?utm_campaign=1051&utm_source=git)** | US-NJ-Morristown | Hybrid | Apr 14 |
-| ↳ | **[Business Development & Commercial Operations Intern - Commuting Distance to Morristown, NJ Required](https://jobright.ai/jobs/info/69de692118cf504166e2cd32?utm_campaign=1051&utm_source=git)** | Morristown, NJ, US | Hybrid | Apr 14 |
-| **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Development Program Analyst/Associate – Commercial & Corporate Banking (East/Midwest)](https://jobright.ai/jobs/info/69de658e433ac8430e0d9669?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Apr 14 |
-| ↳ | **[Corporate & Institutional Banking Development Program Analyst/Associate – Commercial & Corporate Banking (East/Midwest)](https://jobright.ai/jobs/info/69de658e433ac8430e0d9670?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Apr 14 |
-| ↳ | **[Corporate & Institutional Banking Development Program Analyst/Associate – Commercial & Corporate Banking (East/Midwest)](https://jobright.ai/jobs/info/69de657d36823d1b42580c12?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
-| ↳ | **[Corporate & Institutional Banking Development Program Analyst/Associate – Commercial & Corporate Banking (East/Midwest)](https://jobright.ai/jobs/info/69de657d36823d1b42580c11?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Apr 14 |
-| ↳ | **[Corporate & Institutional Banking Development Program Analyst/Associate – Commercial & Corporate Banking (East/Midwest)](https://jobright.ai/jobs/info/69de654e5913ad339813d018?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Apr 14 |
-| ↳ | **[Corporate & Institutional Banking Development Program Analyst/Associate – Commercial & Corporate Banking (East/Midwest)](https://jobright.ai/jobs/info/69de6538aba61f1417314aee?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Apr 14 |
-| **[Aecon U.S.](https://www.aecon.com/us)** | **[Proposal Intern](https://jobright.ai/jobs/info/69de64a818cf504166e2cb9c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
