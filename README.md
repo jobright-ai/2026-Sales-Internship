@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zebra Technologies](https://www.zebra.com)** | **[Inside Business Development Representative (Onsite Chicago)](https://jobright.ai/jobs/info/69dedd1e5913ad33981407f6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
+| **[Athletics](http://www.athletics.com)** | **[Intern, Sales & Service](https://jobright.ai/jobs/info/69ded9825913ad3398140707?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Apr 14 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Consumer Bank Sales Analyst](https://jobright.ai/jobs/info/69ded8a018cf504166e3034f?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Apr 14 |
+| **[Compass Group Canada](http://www.compass-canada.com)** | **[Co-Op Student Intern](https://jobright.ai/jobs/info/69ded89f36823d1b42584252?utm_campaign=1051&utm_source=git)** | Mississauga, ON | On Site | Apr 14 |
+| **[UST](https://www.ust.com)** | **[Software Sales Intern](https://jobright.ai/jobs/info/69ded8365913ad339814063b?utm_campaign=1051&utm_source=git)** | Alpharetta | Remote | Apr 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69ded116e34484770f1a4f81?utm_campaign=1051&utm_source=git)** | Coeur d'Alene, ID | On Site | Apr 14 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[2023 Summer Intern - Sales](https://jobright.ai/jobs/info/69dece54e34484770f1a4f2b?utm_campaign=1051&utm_source=git)** | Walnut Creek - 1255 Treat | Hybrid | Apr 14 |
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69decdf1aba61f1417317e7a?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Apr 14 |
@@ -103,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Beacon Boxx](http://www.beaconboxx.com)** | **[Founder’s Associate Intern (HealthTech / Strategy / Growth)](https://jobright.ai/jobs/info/69dea67c433ac8430e0db8d0?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | On Site | Apr 14 |
 | **[Hemut (YC X25)](https://www.hemut.com/)** | **[Sales Development Representative](https://jobright.ai/jobs/info/69dea640e34484770f1a3ed8?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 14 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services - Real Estate](https://jobright.ai/jobs/info/69dea5dde34484770f1a3e29?utm_campaign=1051&utm_source=git)** | WINNIPEG, Manitoba, Canada | On Site | Apr 14 |
-| **[Phoenix Incidents](https://phoenixincidents.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=launch&utm_content=post_body&utm_vendorID=1053700935)** | **[GTM / Sales Summer Intern](https://jobright.ai/jobs/info/69dea5da18cf504166e2eefe?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 14 |
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Membership & Industry Relations (New York Chapter)](https://jobright.ai/jobs/info/69dea5b9433ac8430e0db6fb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 14 |
 | **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Sales Intern - Newport, KY](https://jobright.ai/jobs/info/69dea5a0433ac8430e0db639?utm_campaign=1051&utm_source=git)** | Newport | On Site | Apr 14 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/69dea3de36823d1b42582c96?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Apr 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harwood Hospitality Group](http://www.harwoodhospitality.com)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69de7735e34484770f1a2265?utm_campaign=1051&utm_source=git)** | Dallas, Texas, United States | On Site | Apr 14 |
 | **[Allied Universal](https://www.aus.com/)** | **[Event Services Client Account Manager](https://jobright.ai/jobs/info/69de74deaba61f141731510a?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Apr 14 |
 | **[Logitech](https://www.logitech.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69ceaa31398fb071abf8783b?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Apr 14 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Sales Operations and FP&A Intern](https://jobright.ai/jobs/info/69de73ec433ac8430e0d9c00?utm_campaign=1051&utm_source=git)** | Santa Clara, California, United States | On Site | Apr 14 |
-| **[Distinct Vancouver](https://distinctvancouver.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69de7380433ac8430e0d9b16?utm_campaign=1051&utm_source=git)** | Vancouver, BC | On Site | Apr 14 |
-| **[ATP Gov](https://atpgov.com/)** | **[ACCOUNT EXECUTIVE - DHHS](https://jobright.ai/jobs/info/69de733918cf504166e2d13b?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 14 |
-| **[People Edge USA](www.peopleedgeusa.com)** | **[Sales And Marketing Representative](https://jobright.ai/jobs/info/69de7305433ac8430e0d9a6b?utm_campaign=1051&utm_source=git)** | New Jersey, United States | Remote | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
