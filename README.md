@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prysmian](https://www.prysmian.com)** | **[Inside Sales & Prod Mgmt Intern](https://jobright.ai/jobs/info/69dfa24ce34484770f1a973d?utm_campaign=1051&utm_source=git)** | Vaughan, Canada | On Site | Apr 15 |
+| **[Fiserv](http://www.fiserv.com)** | **[Summer 2026 Internship Program – Sales (Berkeley Heights, NJ)](https://jobright.ai/jobs/info/69dfa24614bf245fc7a6cc6c?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Apr 15 |
+| **[CME Group](http://www.cmegroup.com)** | **[Data Sales Intern - Year Round](https://jobright.ai/jobs/info/69dfa2425913ad3398144b87?utm_campaign=1051&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Apr 15 |
+| **[SurveyMonkey](https://www.momentive.ai)** | **[Sales Intern](https://jobright.ai/jobs/info/69c30b8fec22f8310ab118cb?utm_campaign=1051&utm_source=git)** | Ottawa, ON | Hybrid | Apr 15 |
+| **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69697b38639b452fb57f5ae8?utm_campaign=1051&utm_source=git)** | Des Moines Metro | On Site | Apr 15 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/696981ca1703f05405ab6d2e?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/6969864ef25a380066982b79?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Apr 15 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69699797f25a380066985233?utm_campaign=1051&utm_source=git)** | Omaha Metropolitan Area | On Site | Apr 15 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/6955f6e59f1b381eb26f2ca6?utm_campaign=1051&utm_source=git)** | Pine Bluff, AR | On Site | Apr 15 |
+| **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69697a0e639b452fb57f59f6?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Apr 15 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69697a23639b452fb57f5a05?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Apr 15 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69696c2c639b452fb57f430b?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Apr 15 |
+| **[USA Sport Group](https://usasportgroup.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69df99cc433ac8430e0e1168?utm_campaign=1051&utm_source=git)** | Whitehouse Station, NJ | On Site | Apr 15 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69200694a49a885af9a36161?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Apr 15 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/692007ac09cc522e877476b9?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 15 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a661592c0d8b0f5cd082c3?utm_campaign=1051&utm_source=git)** | Carrollton, TX | On Site | Apr 15 |
@@ -77,9 +90,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69df8054aba61f141731bf47?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 15 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69df8054aba61f141731bf3f?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Apr 15 |
 | ↳ | **[NetSuite Social Impact Intern](https://jobright.ai/jobs/info/69df8053aba61f141731bf3d?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Apr 15 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69df8032433ac8430e0e0b7d?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Apr 15 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69df8032433ac8430e0e0b7e?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Apr 15 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69df8032433ac8430e0e0b7f?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Apr 15 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69df8032433ac8430e0e0b7d?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Apr 15 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69df80315913ad3398144110?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Apr 15 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69df802ce34484770f1a8faf?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 15 |
 | **[Finning](http://www.finning.com)** | **[Sales Internship (Construction)](https://jobright.ai/jobs/info/69c2e961753c101b21565145?utm_campaign=1051&utm_source=git)** | Edmonton, AB | On Site | Apr 15 |
@@ -115,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Flustra LLC](https://www.linkedin.com/company/98628733)** | **[Paid Ad Content & Creative Intern (E-Commerce) – Remote](https://jobright.ai/jobs/info/69df27ae36823d1b42586be8?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | Apr 14 |
 | **[Progressive Insurance](https://www.progressive.com)** | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df2198433ac8430e0df218?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Apr 14 |
 | ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df2198433ac8430e0df217?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Apr 14 |
-| ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df2198433ac8430e0df213?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | Apr 14 |
 | ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df2198433ac8430e0df214?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Remote | Apr 14 |
+| ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df2198433ac8430e0df213?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | Apr 14 |
 | ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df218f433ac8430e0df201?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Apr 14 |
 | ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df217936823d1b425868b9?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Apr 14 |
 | ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df217936823d1b425868b7?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | Apr 14 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Triluxe](https://www.triluxe.com)** | **[Internship - Luxury Fashion Showroom](https://jobright.ai/jobs/info/69def35c5913ad33981413da?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 14 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Dental Field Sales Intern - Georgia](https://jobright.ai/jobs/info/69def3575913ad33981413c9?utm_campaign=1051&utm_source=git)** | Georgia, United States | On Site | Apr 14 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Brokerage Intern](https://jobright.ai/jobs/info/69dee58ae34484770f1a548e?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Apr 14 |
-| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69dee57936823d1b42584526?utm_campaign=1051&utm_source=git)** | Milledgeville, GA | On Site | Apr 14 |
-| **[UST HealthProof](https://usthealthproof.com)** | **[Software Sales Intern](https://jobright.ai/jobs/info/69dee529433ac8430e0dcf80?utm_campaign=1051&utm_source=git)** | Alpharetta | Remote | Apr 14 |
-| **[Gen](https://www.gendigital.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/69dee0e8aba61f1417318386?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | Apr 14 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[Inside Business Development Representative (Onsite Chicago)](https://jobright.ai/jobs/info/69dedd1e5913ad33981407f6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
-| **[Athletics](http://www.athletics.com)** | **[Intern, Sales & Service](https://jobright.ai/jobs/info/69ded9825913ad3398140707?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Apr 14 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Consumer Bank Sales Analyst](https://jobright.ai/jobs/info/69ded8a018cf504166e3034f?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Apr 14 |
-| **[Compass Group Canada](http://www.compass-canada.com)** | **[Co-Op Student Intern](https://jobright.ai/jobs/info/69ded89f36823d1b42584252?utm_campaign=1051&utm_source=git)** | Mississauga, ON | On Site | Apr 14 |
-| **[UST](https://www.ust.com)** | **[Software Sales Intern](https://jobright.ai/jobs/info/69ded8365913ad339814063b?utm_campaign=1051&utm_source=git)** | Alpharetta | Remote | Apr 14 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69ded116e34484770f1a4f81?utm_campaign=1051&utm_source=git)** | Coeur d'Alene, ID | On Site | Apr 14 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[2023 Summer Intern - Sales](https://jobright.ai/jobs/info/69dece54e34484770f1a4f2b?utm_campaign=1051&utm_source=git)** | Walnut Creek - 1255 Treat | Hybrid | Apr 14 |
-| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69decdf1aba61f1417317e7a?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Apr 14 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69decdaaaba61f1417317e01?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Apr 14 |
-| **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69decda518cf504166e2ffcc?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
