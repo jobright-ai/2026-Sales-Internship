@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UST](https://www.ust.com)** | **[Software Sales Intern](https://jobright.ai/jobs/info/69defb6f5913ad3398141a06?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Remote | Apr 14 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Charlotte, NC (Starting Summer 2026)](https://jobright.ai/jobs/info/69def8b636823d1b425853d3?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 14 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69def52e18cf504166e312fe?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 14 |
+| **[Arch Telecom](https://linktr.ee/ArchTelecom)** | **[Hiring Event for Retail Associate Manager 17th to 24th April REHOBOTH BEACH / Costal Hwy](https://jobright.ai/jobs/info/69def41de34484770f1a5fcf?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE | On Site | Apr 14 |
+| ↳ | **[Hiring Event for Retail Associate Manager 17th to 24th April MILLSBORO / Dupont Blvd](https://jobright.ai/jobs/info/69def3fe433ac8430e0ddb72?utm_campaign=1051&utm_source=git)** | Millsboro, DE | On Site | Apr 14 |
+| **[EasyPost](http://www.easypost.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69def3ce18cf504166e31160?utm_campaign=1051&utm_source=git)** | Lehi, UT | On Site | Apr 14 |
+| **[Adastra](https://adastracorp.com)** | **[FSI Sales & Industry Enablement Intern](https://jobright.ai/jobs/info/69def3c9433ac8430e0ddaa4?utm_campaign=1051&utm_source=git)** | Toronto, ON | Hybrid | Apr 14 |
+| **[Arch Telecom](https://linktr.ee/ArchTelecom)** | **[Hiring Event for Retail Associate Manager14th April to 24th April PENNSVILLE / North Broadway](https://jobright.ai/jobs/info/69def3c718cf504166e31153?utm_campaign=1051&utm_source=git)** | Pennsville, NJ | On Site | Apr 14 |
+| ↳ | **[Hiring Event for Retail Associate Manager 17th to 24th April MEDIA / W Baltimore Pike](https://jobright.ai/jobs/info/69def3b9aba61f1417318f6d?utm_campaign=1051&utm_source=git)** | Media, PA | On Site | Apr 14 |
+| ↳ | **[Hiring Event for Retail Associate Manager 17th to 24th April SMYRNA / S Dupont Blvd](https://jobright.ai/jobs/info/69def3a45913ad33981414fc?utm_campaign=1051&utm_source=git)** | Smyrna, DE | On Site | Apr 14 |
+| ↳ | **[Hiring Event for Retail Associate Manager 17th to 24th April WOODBURY / S Broad St](https://jobright.ai/jobs/info/69def3975913ad33981414be?utm_campaign=1051&utm_source=git)** | Woodbury, NJ | On Site | Apr 14 |
+| **[Triluxe](https://www.triluxe.com)** | **[Internship - Luxury Fashion Showroom](https://jobright.ai/jobs/info/69def35c5913ad33981413da?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 14 |
+| **[Henry Schein](http://www.henryschein.com)** | **[Dental Field Sales Intern - Georgia](https://jobright.ai/jobs/info/69def3575913ad33981413c9?utm_campaign=1051&utm_source=git)** | Georgia, United States | On Site | Apr 14 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Brokerage Intern](https://jobright.ai/jobs/info/69dee58ae34484770f1a548e?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Apr 14 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69dee57936823d1b42584526?utm_campaign=1051&utm_source=git)** | Milledgeville, GA | On Site | Apr 14 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[Software Sales Intern](https://jobright.ai/jobs/info/69dee529433ac8430e0dcf80?utm_campaign=1051&utm_source=git)** | Alpharetta | Remote | Apr 14 |
@@ -102,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Segal Marco Advisors](http://segalmarco.com/)** | **[Intern, Insurance (Summer 2026)](https://jobright.ai/jobs/info/69deb1ae433ac8430e0dbdcb?utm_campaign=1051&utm_source=git)** | US-MI-Lansing | Hybrid | Apr 14 |
 | ↳ | **[Intern, Insurance (Summer 2026)](https://jobright.ai/jobs/info/69deb19a5913ad339813ee49?utm_campaign=1051&utm_source=git)** | US-NY-New York | Hybrid | Apr 14 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Commercial Operations Internship, LATAM](https://jobright.ai/jobs/info/69deae3718cf504166e2f321?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 14 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Outside Sales Specialist Intern](https://jobright.ai/jobs/info/69deadf618cf504166e2f203?utm_campaign=1051&utm_source=git)** | Elk Mound, WI | On Site | Apr 14 |
 | **[Five9](http://www.five9.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69deadf2e34484770f1a412c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Triad Partners](https://triadpartners.com)** | **[Summer Intern - Sales and Executive Support](https://jobright.ai/jobs/info/69dea939433ac8430e0dbaab?utm_campaign=1051&utm_source=git)** | Lawrence, KS | Hybrid | Apr 14 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69dea8bb5913ad339813ecef?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Apr 14 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de815c5913ad339813d7fb?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Apr 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69de813d5913ad339813d7cc?utm_campaign=1051&utm_source=git)** | Meridian, MS | On Site | Apr 14 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69de80c218cf504166e2d624?utm_campaign=1051&utm_source=git)** | Toledo, OH | On Site | Apr 14 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80b8e34484770f1a26be?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Apr 14 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80b8e34484770f1a26bf?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Apr 14 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80ad433ac8430e0da054?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Apr 14 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80a7e34484770f1a26af?utm_campaign=1051&utm_source=git)** | Nevada, United States | Remote | Apr 14 |
-| **[Prysmian](https://www.prysmian.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69a5e3f9359fe034b1d09b6e?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Apr 14 |
-| **[San José State University](http://www.sjsu.edu/)** | **[Director of Development for Business](https://jobright.ai/jobs/info/69a643fdd706a731db3820b6?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Outbound Sales Representative - 2026 Summer Intern](https://jobright.ai/jobs/info/698be51906d9b0622496165f?utm_campaign=1051&utm_source=git)** | Allen, TX | Hybrid | Apr 14 |
-| **[Prysmian](https://www.prysmian.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a63c49d706a731db3816ec?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Apr 14 |
-| **[Zonda](https://zondahome.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69de7aaa433ac8430e0d9f54?utm_campaign=1051&utm_source=git)** | US | On Site | Apr 14 |
-| **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern Austin TX](https://jobright.ai/jobs/info/69de7a7f5913ad339813d673?utm_campaign=1051&utm_source=git)** | Austin Downtown | On Site | Apr 14 |
-| **[Sprinklr](http://www.sprinklr.com)** | **[Sales Ops Intern](https://jobright.ai/jobs/info/69de788ce34484770f1a244c?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 14 |
-| **[United Airlines](https://www.united.com)** | **[Intern - Cargo (Summer 2026)](https://jobright.ai/jobs/info/69de7750aba61f14173151d8?utm_campaign=1051&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
