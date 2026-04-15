@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leidos](https://www.leidos.com)** | **[Business Development High School Intern](https://jobright.ai/jobs/info/69df073e433ac8430e0de287?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | Apr 14 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Agency Partnerships Internship (Remote)](https://jobright.ai/jobs/info/69df06c018cf504166e318e5?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 14 |
 | **[UST](https://www.ust.com)** | **[Software Sales Intern](https://jobright.ai/jobs/info/69defb6f5913ad3398141a06?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Remote | Apr 14 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Charlotte, NC (Starting Summer 2026)](https://jobright.ai/jobs/info/69def8b636823d1b425853d3?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 14 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69def52e18cf504166e312fe?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 14 |
@@ -117,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Commercial Operations Internship, LATAM](https://jobright.ai/jobs/info/69deae3718cf504166e2f321?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 14 |
 | **[Five9](http://www.five9.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69deadf2e34484770f1a412c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Triad Partners](https://triadpartners.com)** | **[Summer Intern - Sales and Executive Support](https://jobright.ai/jobs/info/69dea939433ac8430e0dbaab?utm_campaign=1051&utm_source=git)** | Lawrence, KS | Hybrid | Apr 14 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69dea8bb5913ad339813ecef?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Apr 14 |
 | **[MAS9](www.mas9.com)** | **[Software Sales and Marketing Summer Internship](https://jobright.ai/jobs/info/69dea89f36823d1b4258302b?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Apr 14 |
 | **[EasyPost](http://www.easypost.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69dea88daba61f1417316ea6?utm_campaign=1051&utm_source=git)** | Lehi, Utah | On Site | Apr 14 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Intern HVAC Controls](https://jobright.ai/jobs/info/69dea85418cf504166e2f07b?utm_campaign=1051&utm_source=git)** | Houston-Texas-United States of America | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales & Leadership Intern](https://jobright.ai/jobs/info/69de815c5913ad339813d7ff?utm_campaign=1051&utm_source=git)** | Spring, TX | On Site | Apr 14 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de815c5913ad339813d7fb?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Apr 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69de813d5913ad339813d7cc?utm_campaign=1051&utm_source=git)** | Meridian, MS | On Site | Apr 14 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69de80c218cf504166e2d624?utm_campaign=1051&utm_source=git)** | Toledo, OH | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
