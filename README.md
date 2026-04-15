@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Brokerage Intern](https://jobright.ai/jobs/info/69dee58ae34484770f1a548e?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Apr 14 |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69dee57936823d1b42584526?utm_campaign=1051&utm_source=git)** | Milledgeville, GA | On Site | Apr 14 |
+| **[UST HealthProof](https://usthealthproof.com)** | **[Software Sales Intern](https://jobright.ai/jobs/info/69dee529433ac8430e0dcf80?utm_campaign=1051&utm_source=git)** | Alpharetta | Remote | Apr 14 |
+| **[Gen](https://www.gendigital.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/69dee0e8aba61f1417318386?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | Apr 14 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[Inside Business Development Representative (Onsite Chicago)](https://jobright.ai/jobs/info/69dedd1e5913ad33981407f6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
 | **[Athletics](http://www.athletics.com)** | **[Intern, Sales & Service](https://jobright.ai/jobs/info/69ded9825913ad3398140707?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Apr 14 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Consumer Bank Sales Analyst](https://jobright.ai/jobs/info/69ded8a018cf504166e3034f?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Apr 14 |
@@ -141,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de815c5913ad339813d7fb?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Apr 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69de813d5913ad339813d7cc?utm_campaign=1051&utm_source=git)** | Meridian, MS | On Site | Apr 14 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69de80c218cf504166e2d624?utm_campaign=1051&utm_source=git)** | Toledo, OH | On Site | Apr 14 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80b8e34484770f1a26bf?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Apr 14 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80b8e34484770f1a26be?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Apr 14 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80b8e34484770f1a26be?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Apr 14 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80b8e34484770f1a26bf?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Apr 14 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80ad433ac8430e0da054?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Apr 14 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80a7e34484770f1a26af?utm_campaign=1051&utm_source=git)** | Nevada, United States | Remote | Apr 14 |
 | **[Prysmian](https://www.prysmian.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69a5e3f9359fe034b1d09b6e?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Apr 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern Austin TX](https://jobright.ai/jobs/info/69de7a7f5913ad339813d673?utm_campaign=1051&utm_source=git)** | Austin Downtown | On Site | Apr 14 |
 | **[Sprinklr](http://www.sprinklr.com)** | **[Sales Ops Intern](https://jobright.ai/jobs/info/69de788ce34484770f1a244c?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 14 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Cargo (Summer 2026)](https://jobright.ai/jobs/info/69de7750aba61f14173151d8?utm_campaign=1051&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | Hybrid | Apr 14 |
-| **[Goosehead Insurance](http://www.gooseheadinsurance.com)** | **[Skybound Internship (FTW)](https://jobright.ai/jobs/info/69de773d5913ad339813d4b8?utm_campaign=1051&utm_source=git)** | Fort Worth | On Site | Apr 14 |
-| **[Harwood Hospitality Group](http://www.harwoodhospitality.com)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69de7735e34484770f1a2265?utm_campaign=1051&utm_source=git)** | Dallas, Texas, United States | On Site | Apr 14 |
-| **[Allied Universal](https://www.aus.com/)** | **[Event Services Client Account Manager](https://jobright.ai/jobs/info/69de74deaba61f141731510a?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Apr 14 |
-| **[Logitech](https://www.logitech.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69ceaa31398fb071abf8783b?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
