@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Progressive Insurance](https://www.progressive.com)** | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df2198433ac8430e0df213?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | Apr 14 |
+| ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df2198433ac8430e0df218?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Apr 14 |
+| ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df2198433ac8430e0df215?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Apr 14 |
+| ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df2198433ac8430e0df214?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Remote | Apr 14 |
+| ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df218f433ac8430e0df201?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Apr 14 |
+| ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df217936823d1b425868b7?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | Apr 14 |
+| ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df217936823d1b425868b9?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Apr 14 |
+| ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df217936823d1b425868bb?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | Apr 14 |
+| ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df2166aba61f141731a67e?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Apr 14 |
+| ↳ | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/69df214fe34484770f1a76d8?utm_campaign=1051&utm_source=git)** | Mississippi, United States | Remote | Apr 14 |
+| **[Coach](https://uk.coach.com)** | **[Intern, Retail Ops](https://jobright.ai/jobs/info/69df21345913ad3398142b34?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 14 |
+| **[Cruze](https://cruzemaps.github.io/cruzewebsite/)** | **[Sales Intern](https://jobright.ai/jobs/info/69df212ee34484770f1a768c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 14 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Intern (Remote), Agency Partnerships](https://jobright.ai/jobs/info/69df1820aba61f141731a215?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 14 |
 | ↳ | **[Agency Partnerships Intern](https://jobright.ai/jobs/info/69df1087aba61f1417319fb0?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Rose Valley Management](https://www.rosevalleymanagement.com)** | **[Leasing Intern (Paid)](https://jobright.ai/jobs/info/69df0e575913ad339814234c?utm_campaign=1051&utm_source=git)** | New Haven, CT | On Site | Apr 14 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Related Management Company](http://www.related.com)** | **[Club Membership Administrator](https://jobright.ai/jobs/info/69de9347433ac8430e0daf11?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Apr 14 |
 | **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Business Intern](https://jobright.ai/jobs/info/69de933b36823d1b4258245e?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Apr 14 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Intern](https://jobright.ai/jobs/info/69de932ee34484770f1a3425?utm_campaign=1051&utm_source=git)** | Miramar, FL | On Site | Apr 14 |
-| **[IHC Agency](https://ihcagency.com/)** | **[Events & Partnership Intern](https://jobright.ai/jobs/info/69de9323aba61f1417316393?utm_campaign=1051&utm_source=git)** | Miami-FTL Area | Hybrid | Apr 14 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Commercial Strategy (Summer 2027)](https://jobright.ai/jobs/info/69de92f6e34484770f1a33b3?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
-| **[Group Management Services, Inc.](https://www.groupmgmt.com/)** | **[Austin Sales Intern](https://jobright.ai/jobs/info/69de92ee36823d1b425823ad?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 14 |
-| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69de92ee36823d1b425823ac?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 14 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/69de92ed36823d1b425823a8?utm_campaign=1051&utm_source=git)** | Milford, MA | On Site | Apr 14 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/69de91395913ad339813e258?utm_campaign=1051&utm_source=git)** | Columbus, OH, United States | On Site | Apr 14 |
-| **[Magna International](http://www.magna.com/)** | **[Intern - Purchasing](https://jobright.ai/jobs/info/69de89b236823d1b42581c6c?utm_campaign=1051&utm_source=git)** | Southfield, Michigan, US | On Site | Apr 14 |
-| **[Bellco Credit Union](https://www.bellco.org)** | **[Lending Operations Intern - Consumer and Real Estate](https://jobright.ai/jobs/info/69de877d36823d1b425818dc?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Apr 14 |
-| **[Herc Rentals](http://www.HercRentals.com)** | **[Sales and Operations Intern](https://jobright.ai/jobs/info/69de8773aba61f1417315850?utm_campaign=1051&utm_source=git)** | Lees Summit, MO | On Site | Apr 14 |
-| **[Johnston Environmental](johnstonei.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69de86fa433ac8430e0da31b?utm_campaign=1051&utm_source=git)** | Charlotte Metro | On Site | Apr 14 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de856b36823d1b42581757?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Apr 14 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de855aaba61f14173156a6?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
