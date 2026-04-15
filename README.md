@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Commercial Operations Associate Internship Summer](https://jobright.ai/jobs/info/69e01515433ac8430e0e4474?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e014e314bf245fc7a6fd76?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 15 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e014e2aba61f141731f78c?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e014deaba61f141731f785?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 15 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69ba986a06c1ba00c54cc2f5?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 15 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69ba985c06c1ba00c54cc245?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 15 |
+| **[Diamond Run Golf Club](https://www.invitedclubs.com/clubs/diamond-run-golf-club)** | **[Event Sales Coordinator Intern](https://jobright.ai/jobs/info/69e0144f433ac8430e0e4394?utm_campaign=1051&utm_source=git)** | 99 Station Ave, Glenside, PA, 19038, US | On Site | Apr 15 |
+| **[Carson Group](https://www.carsongroup.com/)** | **[Client Acquisition Intern](https://jobright.ai/jobs/info/69e0124f14bf245fc7a6fcb2?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Apr 15 |
+| **[Buffalo Sabres](http://sabres.com)** | **[Membership Sales Intern](https://jobright.ai/jobs/info/69e010944920452a85dd177a?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Apr 15 |
+| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/69e01068aba61f141731f59f?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | Apr 15 |
+| **[Zegna](https://www.zegna.us/)** | **[Store Development Trainee](https://jobright.ai/jobs/info/69e00d704920452a85dd156c?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Apr 15 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69e00d3f5913ad3398147950?utm_campaign=1051&utm_source=git)** | Mississauga, ON | On Site | Apr 15 |
+| **[Harmonic](http://harmonicinc.com)** | **[Sales Operation Intern](https://jobright.ai/jobs/info/69e00a96aba61f141731f39f?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Apr 15 |
+| **[Genesys](https://www.genesys.com)** | **[Direct Response Representative Intern](https://jobright.ai/jobs/info/69d5cb20706f771673ba6ccb?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | Apr 15 |
 | **[Cortif Technologies](https://www.hollanoah.com/)** | **[Sales Internship (AI)](https://jobright.ai/jobs/info/69e005c55913ad339814769d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales Intern - Controls](https://jobright.ai/jobs/info/69e00569e34484770f1ac20c?utm_campaign=1051&utm_source=git)** | Honolulu-Hawaii-United States of America | On Site | Apr 15 |
 | **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern - Sales and Ticketing](https://jobright.ai/jobs/info/69e0053f4920452a85dd12a8?utm_campaign=1051&utm_source=git)** | Citi Field – Queens, New York | On Site | Apr 15 |
@@ -116,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd66314bf245fc7a6e03b?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd65faba61f141731dac7?utm_campaign=1051&utm_source=git)** | Saginaw, MI | On Site | Apr 15 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/69dfd658aba61f141731dabb?utm_campaign=1051&utm_source=git)** | Amarillo, TX | On Site | Apr 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd641433ac8430e0e2719?utm_campaign=1051&utm_source=git)** | Midland, MI | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd641433ac8430e0e2717?utm_campaign=1051&utm_source=git)** | Lubbock, TX | On Site | Apr 15 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd641433ac8430e0e2719?utm_campaign=1051&utm_source=git)** | Midland, MI | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd6364920452a85dcfb75?utm_campaign=1051&utm_source=git)** | Piqua, OH | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd62ee34484770f1aab47?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Apr 15 |
 | **[Santander](https://www.santander.com/)** | **[Dealer Commercial Services Intern](https://jobright.ai/jobs/info/69dfd5f814bf245fc7a6e00c?utm_campaign=1051&utm_source=git)** | Dallas | On Site | Apr 15 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfbe9baba61f141731d3d6?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | Apr 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69a7c49876bbe83d3afb4104?utm_campaign=1051&utm_source=git)** | Cypress, TX | On Site | Apr 15 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Business Associate](https://jobright.ai/jobs/info/69a77a4276bbe83d3afadf0f?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Apr 15 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales Unpaid Summer Internship](https://jobright.ai/jobs/info/69dfbe02433ac8430e0e1e1a?utm_campaign=1051&utm_source=git)** | LA, Baton Rouge | On Site | Apr 15 |
-| **[CaptiveAire Systems](http://captiveaire.com)** | **[Technical Sales Intern- Mississauga](https://jobright.ai/jobs/info/69dfbc2ae34484770f1aa0f1?utm_campaign=1051&utm_source=git)** | Mississauga, ON | On Site | Apr 15 |
-| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69dfbc2914bf245fc7a6d6d5?utm_campaign=1051&utm_source=git)** | Waterloo, ON | On Site | Apr 15 |
-| **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/69d7b294869c7e25d858f98c?utm_campaign=1051&utm_source=git)** | Irving, TX | Hybrid | Apr 15 |
-| **[Harmonic](http://harmonicinc.com)** | **[Sales Operation Intern](https://jobright.ai/jobs/info/69dfba75433ac8430e0e1c50?utm_campaign=1051&utm_source=git)** | San Jose, CA, United States | Hybrid | Apr 15 |
-| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern)–Broadview, IL (Starting Summer 2026)](https://jobright.ai/jobs/info/69dfb9e0e34484770f1a9fb5?utm_campaign=1051&utm_source=git)** | 9250 Joliet Rd, Hodgkins,IL 60525-4162 | On Site | Apr 15 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern)–Broadview, IL (Starting Summer 2026)](https://jobright.ai/jobs/info/69dfb9e0e34484770f1a9fb1?utm_campaign=1051&utm_source=git)** | 7601 Kingery Hwy, Willowbrook,IL 60527-5538 | On Site | Apr 15 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern)–Broadview, IL (Starting Summer 2026)](https://jobright.ai/jobs/info/69dfb9df4920452a85dcf02e?utm_campaign=1051&utm_source=git)** | 2901 S Cicero Ave, Cicero,IL 60804-3637 | On Site | Apr 15 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern)–Broadview, IL (Starting Summer 2026)](https://jobright.ai/jobs/info/69dfb9df4920452a85dcf02f?utm_campaign=1051&utm_source=git)** | 15850 S 94th Ave, Orland Park,IL 60462-4725 | On Site | Apr 15 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern)–Broadview, IL (Starting Summer 2026)](https://jobright.ai/jobs/info/69dfb9dcaba61f141731cf4e?utm_campaign=1051&utm_source=git)** | 850 W North Ave, Melrose Park,IL 60160-1611 | On Site | Apr 15 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern)–Broadview, IL (Starting Summer 2026)](https://jobright.ai/jobs/info/69dfb9dcaba61f141731cf50?utm_campaign=1051&utm_source=git)** | 13460 S Archer Ave, Lemont,IL 60439-4755 | On Site | Apr 15 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern)–Broadview, IL (Starting Summer 2026)](https://jobright.ai/jobs/info/69dfb9da5913ad3398145441?utm_campaign=1051&utm_source=git)** | 2333 63rd St, Woodridge,IL 60517-1300 | On Site | Apr 15 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern)–Broadview, IL (Starting Summer 2026)](https://jobright.ai/jobs/info/69dfb9d9433ac8430e0e1bb7?utm_campaign=1051&utm_source=git)** | 2701 Plainfield Rd, Joliet,IL 60435-1166 | On Site | Apr 15 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern)–Broadview, IL (Starting Summer 2026)](https://jobright.ai/jobs/info/69dfb9d95913ad339814543f?utm_campaign=1051&utm_source=git)** | 1111 Brook Forest Ave, Shorewood,IL 60404-8845 | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
