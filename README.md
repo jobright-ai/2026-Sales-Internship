@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69c7858d1818a24cd84cf637?utm_campaign=1051&utm_source=git)** | Grove City, OH | On Site | Apr 16 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69a7c453637232443f65205e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 16 |
+| **[Saputo Inc.](http://www.saputo.com/)** | **[Strategic Business Development Intern](https://jobright.ai/jobs/info/69e103afd612782e61146840?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Apr 16 |
+| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/69e103a040a62c1fa93b643f?utm_campaign=1051&utm_source=git)** | GREATER SUDBURY / GRAND SUDBURY, Ontario, Canada | On Site | Apr 16 |
+| **[One Inc](https://www.oneinc.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/69e102eaacc736112f5c179a?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 16 |
+| **[Group Management Services, Inc.](https://www.groupmgmt.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e0ff89acc736112f5c16a7?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 16 |
+| **[Actian](http://www.actian.com)** | **[Sales Development Intern (US)](https://jobright.ai/jobs/info/69d95f689f97a42dc9c213c3?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 16 |
+| **[Black Book](https://www.blackbook.com)** | **[Sales Operations Intern (PT)](https://jobright.ai/jobs/info/69c81d9baa3c2c1995e1d2ec?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | Hybrid | Apr 16 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c4e3a66f4f855eeda79a39?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Apr 16 |
+| **[AARP](http://www.aarp.org)** | **[Startup Account Management Intern](https://jobright.ai/jobs/info/69bc5d814828227293fe19f8?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
+| **[Minitab](http://www.minitab.com/en-us/)** | **[Sales Technology Intern](https://jobright.ai/jobs/info/696fe57f0f4e0f657ea42be0?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | Apr 16 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[MEMBERSHIP & DEVELOPMENT Summer INTERNSHIP](https://jobright.ai/jobs/info/69e0f3bdacc736112f5c1065?utm_campaign=1051&utm_source=git)** | Bethlehem, PA | On Site | Apr 16 |
-| **[Adastra](https://adastracorp.com)** | **[Partner and Alliance Coordinator Intern](https://jobright.ai/jobs/info/69e0f3b0d612782e611460e9?utm_campaign=1051&utm_source=git)** | Markham, ON, CA | Hybrid | Apr 16 |
 | **[LayerZero Labs](https://layerzero.network)** | **[Institutional Business Development Intern](https://jobright.ai/jobs/info/69c4ecb16f4f855eeda7afb2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[IPC Systems](http://www.ipc.com)** | **[OneConnect Sales Intern](https://jobright.ai/jobs/info/69c42567d5a1016e98db30ee?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
-| **[Adastra](https://adastracorp.com)** | **[Partner and Alliance Coordinator Intern](https://jobright.ai/jobs/info/69e0f36b6c20aa114953e8b9?utm_campaign=1051&utm_source=git)** | CA-ON-Markham | Hybrid | Apr 16 |
 | **[Leidos](https://www.leidos.com)** | **[Business Development Operations Intern](https://jobright.ai/jobs/info/69e0f353fd1c0456f3faba27?utm_campaign=1051&utm_source=git)** | Reston, VA | Hybrid | Apr 16 |
 | ↳ | **[Business Development Operations Intern](https://jobright.ai/jobs/info/69e0f34e40a62c1fa93b5c3a?utm_campaign=1051&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Apr 16 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Chattanooga, TN](https://jobright.ai/jobs/info/6954d8b0463e8c6081333e04?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Apr 16 |
@@ -89,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Octave](https://www.octave.com/)** | **[Sales Excellence Intern](https://jobright.ai/jobs/info/69c45b69d5a1016e98db910e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Apr 16 |
 | ↳ | **[Sales Excellence Intern](https://jobright.ai/jobs/info/69c45891d5a1016e98db8945?utm_campaign=1051&utm_source=git)** | Madison, AL | Remote | Apr 16 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Energy Sales Intern](https://jobright.ai/jobs/info/698ba2d7c5761b521a9b33c2?utm_campaign=1051&utm_source=git)** | New Town, ND | On Site | Apr 16 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a95bc2f2055e05d1717e6a?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[SALES INTERN (Derry, New Hampshire, United States, 03038)](https://jobright.ai/jobs/info/69a77bb676bbe83d3afae0b4?utm_campaign=1051&utm_source=git)** | Derry, NH | On Site | Apr 16 |
 | **[Oracle](https://www.oracle.com/)** | **[Client Success Summer Intern, Oracle Energy and Water](https://jobright.ai/jobs/info/69c5016649316e7df50201e7?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Apr 16 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e0b4c8ff71e82d604b2ea4?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Apr 16 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/69e01068aba61f141731f59f?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | Apr 15 |
 | **[SpecterOps](http://www.specterops.io)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e0368e5913ad3398148786?utm_campaign=1051&utm_source=git)** | Remote, United States | Remote | Apr 15 |
 | **[Zegna](https://www.zegna.us/)** | **[Store Development Trainee](https://jobright.ai/jobs/info/69e00d704920452a85dd156c?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Apr 15 |
-| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69e00d3f5913ad3398147950?utm_campaign=1051&utm_source=git)** | Mississauga, ON | On Site | Apr 15 |
-| **[Harmonic](http://harmonicinc.com)** | **[Sales Operation Intern](https://jobright.ai/jobs/info/69e00a96aba61f141731f39f?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Apr 15 |
-| **[Genesys](https://www.genesys.com)** | **[Direct Response Representative Intern](https://jobright.ai/jobs/info/69d5cb20706f771673ba6ccb?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | Apr 15 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales Intern - Controls](https://jobright.ai/jobs/info/69e00569e34484770f1ac20c?utm_campaign=1051&utm_source=git)** | Honolulu-Hawaii-United States of America | On Site | Apr 15 |
-| **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern - Sales and Ticketing](https://jobright.ai/jobs/info/69e0053f4920452a85dd12a8?utm_campaign=1051&utm_source=git)** | Citi Field – Queens, New York | On Site | Apr 15 |
-| **[Solera Holdings, LLC.](https://www.solera.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e005345913ad33981475de?utm_campaign=1051&utm_source=git)** | Westlake, Texas | On Site | Apr 15 |
-| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69e005204920452a85dd1219?utm_campaign=1051&utm_source=git)** | New Orleans, LA | Hybrid | Apr 15 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69ba8bff5697383741402c62?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 15 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/69e001d014bf245fc7a6f528?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Apr 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69e001ce433ac8430e0e3caa?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
