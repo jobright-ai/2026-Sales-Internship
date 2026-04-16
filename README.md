@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e0b4c8ff71e82d604b2ea4?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Apr 16 |
 | **[Eagleview](http://www.eagleview.com)** | **[Go-to-Market & Business Development Intern](https://jobright.ai/jobs/info/69d6984552a5bf5800129b3f?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 16 |
 | **[SideChef](http://www.sidechef.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e09f3cb20fd532b4ae26c2?utm_campaign=1051&utm_source=git)** | Shanghai, VA | On Site | Apr 16 |
+| **[RagaAI Inc](http://www.raga.ai)** | **[AI Product & Customer Success Intern -St. Paul, Minnesota, United States](https://jobright.ai/jobs/info/69e0b5569f8d646778e14894?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Apr 16 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69e08e8dc17d1d5254335402?utm_campaign=1051&utm_source=git)** | Windsor, NS | On Site | Apr 16 |
 | **[ADP](http://www.adp.com)** | **[Digital Sales Intern](https://jobright.ai/jobs/info/69e083bccf5a9e0c33c86f44?utm_campaign=1051&utm_source=git)** | Mississauga, ON | On Site | Apr 15 |
 | **[Pivot Energy](https://www.pivotenergy.net)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/69e07411cf5a9e0c33c86a4a?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 15 |
@@ -78,8 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69cef6cccdb525785fb9da5f?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 15 |
 | **[SGC Power](https://sgc-power.com/)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/69e0548bba9bd32d0336fba7?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Apr 15 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Aristocrat Graduate - Commercial Strategy](https://jobright.ai/jobs/info/69e03328e34484770f1ad29e?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Apr 15 |
-| **[Progressive Insurance](https://www.progressive.com)** | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02deb4920452a85dd216a?utm_campaign=1051&utm_source=git)** | Arizona, United States | Remote | Apr 15 |
-| ↳ | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02de44920452a85dd215f?utm_campaign=1051&utm_source=git)** | Iowa, United States | Remote | Apr 15 |
+| **[Progressive Insurance](https://www.progressive.com)** | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02de44920452a85dd215f?utm_campaign=1051&utm_source=git)** | Iowa, United States | Remote | Apr 15 |
 | ↳ | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02de45913ad33981484ea?utm_campaign=1051&utm_source=git)** | Indiana, United States | Remote | Apr 15 |
 | ↳ | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02de34920452a85dd215c?utm_campaign=1051&utm_source=git)** | Maryland, United States | Remote | Apr 15 |
 | **[Ennismore](https://ennismore.com)** | **[Partnerships Intern](https://jobright.ai/jobs/info/69e02d45e34484770f1ad021?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 15 |
@@ -99,6 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e02a01e34484770f1acc68?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e029e8e34484770f1acc07?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e029dc14bf245fc7a70149?utm_campaign=1051&utm_source=git)** | Portage, MI | On Site | Apr 15 |
+| **[Agilent Technologies](http://www.agilent.com)** | **[Sales Business Development – Pharma & Biopharma (Cell Analysis)](https://jobright.ai/jobs/info/69e0b341ff71e82d604b2e5e?utm_campaign=1051&utm_source=git)** | Trenton, NJ | Hybrid | Apr 15 |
 | **[Medica](https://www.medica.com)** | **[Sales & Account Management Intern - St. Louis](https://jobright.ai/jobs/info/69e01afe433ac8430e0e4570?utm_campaign=1051&utm_source=git)** | St Louis, Missouri, United States | Hybrid | Apr 15 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Real Estate Intern](https://jobright.ai/jobs/info/69d8b209738f2f099e89e2ff?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Apr 15 |
 | **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Commercial Operations Associate Internship Summer](https://jobright.ai/jobs/info/69e01515433ac8430e0e4474?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/69dfe88faba61f141731e327?utm_campaign=1051&utm_source=git)** | Winnipeg, MB | On Site | Apr 15 |
 | ↳ | **[Relationship Manager Intern, Commercial Financial Services - Real Estate](https://jobright.ai/jobs/info/69dfe88eaba61f141731e31c?utm_campaign=1051&utm_source=git)** | Winnipeg, MB | On Site | Apr 15 |
 | **[Prysmian](https://www.prysmian.com)** | **[Inside Sales & Prod Mgmt Intern](https://jobright.ai/jobs/info/69dfe88daba61f141731e311?utm_campaign=1051&utm_source=git)** | Vaughan, ON | On Site | Apr 15 |
-| **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69dfe888aba61f141731e308?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Apr 15 |
-| **[FactSet](http://www.factset.com)** | **[Client Solution Internship - Toronto, Summer 2026](https://jobright.ai/jobs/info/69dfe7044920452a85dd02ab?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
