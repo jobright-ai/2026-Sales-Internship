@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medica](https://www.medica.com)** | **[Sales & Account Management Intern - St. Louis](https://jobright.ai/jobs/info/69e01afe433ac8430e0e4570?utm_campaign=1051&utm_source=git)** | St Louis, Missouri, United States | Hybrid | Apr 15 |
 | **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Commercial Operations Associate Internship Summer](https://jobright.ai/jobs/info/69e01515433ac8430e0e4474?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e014e314bf245fc7a6fd76?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e014e2aba61f141731f78c?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69e00d3f5913ad3398147950?utm_campaign=1051&utm_source=git)** | Mississauga, ON | On Site | Apr 15 |
 | **[Harmonic](http://harmonicinc.com)** | **[Sales Operation Intern](https://jobright.ai/jobs/info/69e00a96aba61f141731f39f?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Apr 15 |
 | **[Genesys](https://www.genesys.com)** | **[Direct Response Representative Intern](https://jobright.ai/jobs/info/69d5cb20706f771673ba6ccb?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | Apr 15 |
-| **[Cortif Technologies](https://www.hollanoah.com/)** | **[Sales Internship (AI)](https://jobright.ai/jobs/info/69e005c55913ad339814769d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales Intern - Controls](https://jobright.ai/jobs/info/69e00569e34484770f1ac20c?utm_campaign=1051&utm_source=git)** | Honolulu-Hawaii-United States of America | On Site | Apr 15 |
 | **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern - Sales and Ticketing](https://jobright.ai/jobs/info/69e0053f4920452a85dd12a8?utm_campaign=1051&utm_source=git)** | Citi Field – Queens, New York | On Site | Apr 15 |
 | **[Solera Holdings, LLC.](https://www.solera.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e005345913ad33981475de?utm_campaign=1051&utm_source=git)** | Westlake, Texas | On Site | Apr 15 |
@@ -130,13 +130,13 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd66314bf245fc7a6e03b?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd65faba61f141731dac7?utm_campaign=1051&utm_source=git)** | Saginaw, MI | On Site | Apr 15 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/69dfd658aba61f141731dabb?utm_campaign=1051&utm_source=git)** | Amarillo, TX | On Site | Apr 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd641433ac8430e0e2717?utm_campaign=1051&utm_source=git)** | Lubbock, TX | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd641433ac8430e0e2719?utm_campaign=1051&utm_source=git)** | Midland, MI | On Site | Apr 15 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd641433ac8430e0e2717?utm_campaign=1051&utm_source=git)** | Lubbock, TX | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd6364920452a85dcfb75?utm_campaign=1051&utm_source=git)** | Piqua, OH | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd62ee34484770f1aab47?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Apr 15 |
 | **[Santander](https://www.santander.com/)** | **[Dealer Commercial Services Intern](https://jobright.ai/jobs/info/69dfd5f814bf245fc7a6e00c?utm_campaign=1051&utm_source=git)** | Dallas | On Site | Apr 15 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd4905913ad3398145f15?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd4905913ad3398145f16?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Apr 15 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd4905913ad3398145f16?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Apr 15 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd4905913ad3398145f15?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
 | **[Visit Detroit](https://visitdetroit.com/)** | **[Destination Partnership Services Intern](https://jobright.ai/jobs/info/69dfcf1b14bf245fc7a6dee7?utm_campaign=1051&utm_source=git)** | Detroit, MI, US | On Site | Apr 15 |
 | **[Collection XIIX, Ltd.](http://www.collection18.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69dfcdf35913ad3398145e1e?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Apr 15 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Strategic Growth Intern](https://jobright.ai/jobs/info/69dfcd8b4920452a85dcf9db?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Apr 15 |
