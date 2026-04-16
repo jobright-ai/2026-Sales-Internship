@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Caddie](budgetcaddie.com)** | **[Strategic Partnerships Intern](https://jobright.ai/jobs/info/69e077c0cf5a9e0c33c86ae8?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | Apr 15 |
+| **[ADP](http://www.adp.com)** | **[Digital Sales Intern](https://jobright.ai/jobs/info/69e083bccf5a9e0c33c86f44?utm_campaign=1051&utm_source=git)** | Mississauga, ON | On Site | Apr 15 |
 | **[Pivot Energy](https://www.pivotenergy.net)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/69e07411cf5a9e0c33c86a4a?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 15 |
 | **[ATP Gov](https://atpgov.com/)** | **[ACCOUNT EXECUTIVE - NAVY](https://jobright.ai/jobs/info/69e067bdba9bd32d0337039d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 15 |
 | **[PNC](http://www.pnc.com)** | **[Relationship Manager III-C&IB (F)](https://jobright.ai/jobs/info/69e064bab20fd532b4ae1469?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Hybrid | Apr 15 |
@@ -76,8 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69cef6cccdb525785fb9da5f?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 15 |
 | **[SGC Power](https://sgc-power.com/)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/69e0548bba9bd32d0336fba7?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Apr 15 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Aristocrat Graduate - Commercial Strategy](https://jobright.ai/jobs/info/69e03328e34484770f1ad29e?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Apr 15 |
-| **[Progressive Insurance](https://www.progressive.com)** | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02f0f433ac8430e0e4d5a?utm_campaign=1051&utm_source=git)** | Utah, United States | Remote | Apr 15 |
-| ↳ | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02e3714bf245fc7a70662?utm_campaign=1051&utm_source=git)** | Missouri, United States | Remote | Apr 15 |
+| **[Progressive Insurance](https://www.progressive.com)** | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02e3714bf245fc7a70662?utm_campaign=1051&utm_source=git)** | Missouri, United States | Remote | Apr 15 |
 | ↳ | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02dfd5913ad339814851a?utm_campaign=1051&utm_source=git)** | Indiana, United States | Remote | Apr 15 |
 | ↳ | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02def4920452a85dd2175?utm_campaign=1051&utm_source=git)** | Arizona, United States | Remote | Apr 15 |
 | ↳ | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02de44920452a85dd215f?utm_campaign=1051&utm_source=git)** | Iowa, United States | Remote | Apr 15 |
@@ -88,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Medica](https://www.medica.com)** | **[Sales & Account Management Intern - St. Louis](https://jobright.ai/jobs/info/69e02b1314bf245fc7a70456?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Apr 15 |
 | **[Johnson O'Connor](http://www.johnsonoconnor.com/)** | **[2027 Winter Intern](https://jobright.ai/jobs/info/69e02b095913ad33981483cb?utm_campaign=1051&utm_source=git)** | Wakefield, MA | On Site | Apr 15 |
 | **[Progressive Insurance](https://www.progressive.com)** | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02af05913ad339814834c?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | Apr 15 |
+| ↳ | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02ae7aba61f141731fed0?utm_campaign=1051&utm_source=git)** | Utah, United States | Remote | Apr 15 |
 | ↳ | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02ad1aba61f141731fe7a?utm_campaign=1051&utm_source=git)** | South Dakota, United States | Remote | Apr 15 |
 | **[SpecterOps](http://www.specterops.io)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e02a4c14bf245fc7a70238?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 15 |
 | **[MEFTii](https://www.meftiicomm.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e02a4a14bf245fc7a7022c?utm_campaign=1051&utm_source=git)** | Spring, TX | Hybrid | Apr 15 |
