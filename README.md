@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Shopify Agency Partnerships Internship Role (Remote)](https://jobright.ai/jobs/info/69e04225e34484770f1ad64f?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69cef6cccdb525785fb9da5f?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 15 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Aristocrat Graduate - Commercial Strategy](https://jobright.ai/jobs/info/69e03328e34484770f1ad29e?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Apr 15 |
 | **[Progressive Insurance](https://www.progressive.com)** | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02f63aba61f14173200d3?utm_campaign=1051&utm_source=git)** | Utah, United States | Remote | Apr 15 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e02a32433ac8430e0e4870?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Apr 15 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - San Francisco, Summer 2026](https://jobright.ai/jobs/info/69e02a2a433ac8430e0e484a?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Apr 15 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e02a0514bf245fc7a701a5?utm_campaign=1051&utm_source=git)** | Cheyenne, WY | On Site | Apr 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e02a01e34484770f1acc68?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e02a01e34484770f1acc67?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Apr 15 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e02a01e34484770f1acc68?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e029e8e34484770f1acc07?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e029dc14bf245fc7a70149?utm_campaign=1051&utm_source=git)** | Portage, MI | On Site | Apr 15 |
 | **[Medica](https://www.medica.com)** | **[Sales & Account Management Intern - St. Louis](https://jobright.ai/jobs/info/69e01afe433ac8430e0e4570?utm_campaign=1051&utm_source=git)** | St Louis, Missouri, United States | Hybrid | Apr 15 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e014e314bf245fc7a6fd76?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e014e2aba61f141731f78c?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e014deaba61f141731f785?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 15 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/69ba985c06c1ba00c54cc245?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 15 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69ba986a06c1ba00c54cc2f5?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 15 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69ba985c06c1ba00c54cc245?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 15 |
 | **[Diamond Run Golf Club](https://www.invitedclubs.com/clubs/diamond-run-golf-club)** | **[Event Sales Coordinator Intern](https://jobright.ai/jobs/info/69e0144f433ac8430e0e4394?utm_campaign=1051&utm_source=git)** | 99 Station Ave, Glenside, PA, 19038, US | On Site | Apr 15 |
 | **[Carson Group](https://www.carsongroup.com/)** | **[Client Acquisition Intern](https://jobright.ai/jobs/info/69e0124f14bf245fc7a6fcb2?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Apr 15 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Membership Sales Intern](https://jobright.ai/jobs/info/69e010944920452a85dd177a?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Apr 15 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd66314bf245fc7a6e03b?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd65faba61f141731dac7?utm_campaign=1051&utm_source=git)** | Saginaw, MI | On Site | Apr 15 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/69dfd658aba61f141731dabb?utm_campaign=1051&utm_source=git)** | Amarillo, TX | On Site | Apr 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd641433ac8430e0e2717?utm_campaign=1051&utm_source=git)** | Lubbock, TX | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd641433ac8430e0e2719?utm_campaign=1051&utm_source=git)** | Midland, MI | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
