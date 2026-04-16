@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69cef6cccdb525785fb9da5f?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 15 |
+| **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Aristocrat Graduate - Commercial Strategy](https://jobright.ai/jobs/info/69e03328e34484770f1ad29e?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Apr 15 |
 | **[Progressive Insurance](https://www.progressive.com)** | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02f63aba61f14173200d3?utm_campaign=1051&utm_source=git)** | Utah, United States | Remote | Apr 15 |
 | ↳ | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02e3714bf245fc7a70662?utm_campaign=1051&utm_source=git)** | Missouri, United States | Remote | Apr 15 |
 | ↳ | **[Licensed Sales Agent](https://jobright.ai/jobs/info/69e02dfd5913ad339814851a?utm_campaign=1051&utm_source=git)** | Indiana, United States | Remote | Apr 15 |
@@ -75,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e02a32433ac8430e0e4870?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Apr 15 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - San Francisco, Summer 2026](https://jobright.ai/jobs/info/69e02a2a433ac8430e0e484a?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Apr 15 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e02a0514bf245fc7a701a5?utm_campaign=1051&utm_source=git)** | Cheyenne, WY | On Site | Apr 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e02a01e34484770f1acc67?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e02a01e34484770f1acc68?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 15 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e02a01e34484770f1acc67?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e029e8e34484770f1acc07?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e029dc14bf245fc7a70149?utm_campaign=1051&utm_source=git)** | Portage, MI | On Site | Apr 15 |
 | **[Medica](https://www.medica.com)** | **[Sales & Account Management Intern - St. Louis](https://jobright.ai/jobs/info/69e01afe433ac8430e0e4570?utm_campaign=1051&utm_source=git)** | St Louis, Missouri, United States | Hybrid | Apr 15 |
@@ -85,12 +87,13 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e014e314bf245fc7a6fd76?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e014e2aba61f141731f78c?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e014deaba61f141731f785?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 15 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/69ba986a06c1ba00c54cc2f5?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 15 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69ba985c06c1ba00c54cc245?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 15 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69ba986a06c1ba00c54cc2f5?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 15 |
 | **[Diamond Run Golf Club](https://www.invitedclubs.com/clubs/diamond-run-golf-club)** | **[Event Sales Coordinator Intern](https://jobright.ai/jobs/info/69e0144f433ac8430e0e4394?utm_campaign=1051&utm_source=git)** | 99 Station Ave, Glenside, PA, 19038, US | On Site | Apr 15 |
 | **[Carson Group](https://www.carsongroup.com/)** | **[Client Acquisition Intern](https://jobright.ai/jobs/info/69e0124f14bf245fc7a6fcb2?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Apr 15 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Membership Sales Intern](https://jobright.ai/jobs/info/69e010944920452a85dd177a?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Apr 15 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/69e01068aba61f141731f59f?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | Apr 15 |
+| **[SpecterOps](http://www.specterops.io)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e0368e5913ad3398148786?utm_campaign=1051&utm_source=git)** | Remote, United States | Remote | Apr 15 |
 | **[Zegna](https://www.zegna.us/)** | **[Store Development Trainee](https://jobright.ai/jobs/info/69e00d704920452a85dd156c?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Apr 15 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69e00d3f5913ad3398147950?utm_campaign=1051&utm_source=git)** | Mississauga, ON | On Site | Apr 15 |
 | **[Harmonic](http://harmonicinc.com)** | **[Sales Operation Intern](https://jobright.ai/jobs/info/69e00a96aba61f141731f39f?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Apr 15 |
@@ -107,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69ba8bf45697383741402c3e?utm_campaign=1051&utm_source=git)** | Gainesville Metro | On Site | Apr 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69ba940b3b74eb1e2c889c69?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Apr 15 |
 | **[HUB International](https://www.hubinternational.com)** | **[Commercial Lines Intern](https://jobright.ai/jobs/info/69e02dcb5913ad33981484c2?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Apr 15 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69dffe5a4920452a85dd0f06?utm_campaign=1051&utm_source=git)** | Tukwila, WA | On Site | Apr 15 |
 | **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69dffe3e4920452a85dd0eda?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Sales Support - Paid Internship](https://jobright.ai/jobs/info/69dffe2ae34484770f1abe82?utm_campaign=1051&utm_source=git)** | Stow, OH, US, 44224 | On Site | Apr 15 |
 | **[Activdate App](https://www.activdate.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e001b4433ac8430e0e3c61?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 15 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd66314bf245fc7a6e03b?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd65faba61f141731dac7?utm_campaign=1051&utm_source=git)** | Saginaw, MI | On Site | Apr 15 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/69dfd658aba61f141731dabb?utm_campaign=1051&utm_source=git)** | Amarillo, TX | On Site | Apr 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd641433ac8430e0e2719?utm_campaign=1051&utm_source=git)** | Midland, MI | On Site | Apr 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd641433ac8430e0e2717?utm_campaign=1051&utm_source=git)** | Lubbock, TX | On Site | Apr 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd6364920452a85dcfb75?utm_campaign=1051&utm_source=git)** | Piqua, OH | On Site | Apr 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd62ee34484770f1aab47?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Apr 15 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69dfd641433ac8430e0e2719?utm_campaign=1051&utm_source=git)** | Midland, MI | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
