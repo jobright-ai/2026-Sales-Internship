@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATP Gov](https://atpgov.com/)** | **[ACCOUNT EXECUTIVE - NAVY](https://jobright.ai/jobs/info/69e067bdba9bd32d0337039d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 15 |
+| **[PNC](http://www.pnc.com)** | **[Relationship Manager III-C&IB (F)](https://jobright.ai/jobs/info/69e064bab20fd532b4ae1469?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Hybrid | Apr 15 |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69e06307cf5a9e0c33c86149?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Apr 15 |
 | **[PNC](http://www.pnc.com)** | **[Business Development Manager - Financial Wellness Solutions](https://jobright.ai/jobs/info/69e059f4cf5a9e0c33c85dd3?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Apr 15 |
 | ↳ | **[Relationship Manager I - Business Banking](https://jobright.ai/jobs/info/69e059deb20fd532b4ae0eb9?utm_campaign=1051&utm_source=git)** | Zion, IL | On Site | Apr 15 |
 | ↳ | **[Relationship Manager II - Business Banking](https://jobright.ai/jobs/info/69e0592aba9bd32d0336fcf3?utm_campaign=1051&utm_source=git)** | Powell, OH | On Site | Apr 15 |
@@ -113,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales Intern - Controls](https://jobright.ai/jobs/info/69e00569e34484770f1ac20c?utm_campaign=1051&utm_source=git)** | Honolulu-Hawaii-United States of America | On Site | Apr 15 |
 | **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern - Sales and Ticketing](https://jobright.ai/jobs/info/69e0053f4920452a85dd12a8?utm_campaign=1051&utm_source=git)** | Citi Field – Queens, New York | On Site | Apr 15 |
 | **[Solera Holdings, LLC.](https://www.solera.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e005345913ad33981475de?utm_campaign=1051&utm_source=git)** | Westlake, Texas | On Site | Apr 15 |
-| **[Valemont Group](https://www.linkedin.com/company/109316021)** | **[Private Equity Sales Internship](https://jobright.ai/jobs/info/69e005294920452a85dd122f?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 15 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69e005204920452a85dd1219?utm_campaign=1051&utm_source=git)** | New Orleans, LA | Hybrid | Apr 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69ba8bff5697383741402c62?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 15 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69e001d014bf245fc7a6f528?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69dfe888aba61f141731e308?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Apr 15 |
 | **[FactSet](http://www.factset.com)** | **[Client Solution Internship - Toronto, Summer 2026](https://jobright.ai/jobs/info/69dfe7044920452a85dd02ab?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 15 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Membership Sales Intern](https://jobright.ai/jobs/info/69dfe6c4433ac8430e0e2e33?utm_campaign=1051&utm_source=git)** | Buffalo, New York, United States | On Site | Apr 15 |
-| **[Azul](http://www.azul.com)** | **[Intern, Sales Enablement](https://jobright.ai/jobs/info/69dfe64ee34484770f1ab266?utm_campaign=1051&utm_source=git)** | United States - Remote | Remote | Apr 15 |
-| **[Chicago Blackhawks](http://hurricanes.nhl.com)** | **[Intern, Corporate Partnership Strategy](https://jobright.ai/jobs/info/69dfe3894920452a85dd00e3?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
