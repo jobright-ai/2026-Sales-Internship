@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Open Influence](https://www.openinfluence.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57db9?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
-| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbf?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
+| **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d81772f4ea471a51fe3c9c?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Apr 17 |
+| **[First Bank & Trust](http://bankeasy.com)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/69e29dcefcfcbd43860a3abf?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Apr 17 |
+| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbf?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57db9?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2959c5c44d4710fe25d7f?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Sales Internship - Ashland, OH](https://jobright.ai/jobs/info/698e11d478b4502f12a4df74?utm_campaign=1051&utm_source=git)** | Ashland, OH | On Site | Apr 17 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69e28e415c44d4710fe25b4f?utm_campaign=1051&utm_source=git)** | Weston, WI | On Site | Apr 17 |
 | **[Locala](https://asklocala.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69e28e2a3770bd5361cd8f02?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | Hybrid | Apr 17 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Internship, Agency Partnerships](https://jobright.ai/jobs/info/69e28e052f286535930771c9?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
@@ -82,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[KIOTI Tractor](http://kioti.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e27980be46fa3a4ef57605?utm_campaign=1051&utm_source=git)** | Wendell, NC | On Site | Apr 17 |
 | **[National Life Group](https://www.nationallife.com)** | **[Internal Wholesaler - Distribution](https://jobright.ai/jobs/info/69719c4c51f726477183f620?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Apr 17 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/69cf7aa0891d7b11cfcd3f5a?utm_campaign=1051&utm_source=git)** | Brookings, SD | Hybrid | Apr 17 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e2aa91fcfcbd43860a3c26?utm_campaign=1051&utm_source=git)** | Traverse City, MI | On Site | Apr 17 |
 | **[Egis in the U.S.](http://b-l-n.com)** | **[TLEE Spas + Wellness / Summer Internship Program](https://jobright.ai/jobs/info/69e271d65c44d4710fe25457?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Apr 17 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68e446d71852e62f00803f08?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Apr 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933d122764507023d1b9d41?utm_campaign=1051&utm_source=git)** | Dickinson, ND | On Site | Apr 17 |
@@ -140,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Luxury Resale Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e1ff49d612782e6114df45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69c58d0faa9a29199e807173?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Apr 17 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1fb656c20aa1149546546?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
-| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbe03?utm_campaign=1051&utm_source=git)** | Bouctouche, NB | On Site | Apr 17 |
-| ↳ | **[Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbdfe?utm_campaign=1051&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 17 |
+| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbdfe?utm_campaign=1051&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 17 |
+| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbe03?utm_campaign=1051&utm_source=git)** | Bouctouche, NB | On Site | Apr 17 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f2aa6afe5d2fd108b58d?utm_campaign=1051&utm_source=git)** | Chilliwack, BC | On Site | Apr 17 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1e6cbff71e82d604bb8c1?utm_campaign=1051&utm_source=git)** | Carpinteria, CA, USA | On Site | Apr 17 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Sales And Operations Internship](https://jobright.ai/jobs/info/69e1e4c5fd1c0456f3fb2e28?utm_campaign=1051&utm_source=git)** | Grandville, MI | On Site | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Durham District School Board](https://www.ddsb.ca/)** | **[SUMMER STUDENT - IGNITE DURHAM LEARNING FOUNDATION (IDLF) - JUNIOR FUNDRAISING DEVELOPMENT ASSOCIATE](https://jobright.ai/jobs/info/69e197bdd612782e6114955a?utm_campaign=1051&utm_source=git)** | Whitby, ON | On Site | Apr 16 |
 | **[Allianz Trade in North America](https://www.allianz-trade.com/en_US.html?utm_medium=social&utm_source=linkedin&utm_campaign=linkedin_homepage )** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e18f596c20aa1149541aca?utm_campaign=1051&utm_source=git)** | Baltimore, MD | Remote | Apr 16 |
 | **[DayOf](https://www.dayof.travel)** | **[Growth & Partnerships Intern](https://jobright.ai/jobs/info/69e1acca6c20aa11495424cb?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Apr 16 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Retail Performance Boston](https://jobright.ai/jobs/info/69e1884f6c20aa114954190b?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Apr 16 |
-| **[Aramark Student Nutrition](http://www.aramarkeducation.com)** | **[2026 Retail Intern - Cape May Zoo](https://jobright.ai/jobs/info/69e1e539d612782e6114d3c0?utm_campaign=1051&utm_source=git)** | Cape May Court House, NJ | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
