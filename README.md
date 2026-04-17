@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Data Axle](https://www.data-axle.com/)** | **[Associate Account Manager Intern](https://jobright.ai/jobs/info/69e2563e2f286535930764f8?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
+| **[Netzilo Inc](https://www.netzilo.com)** | **[Business Development Representative (BDR) Intern](https://jobright.ai/jobs/info/69e24b0b2f286535930763cb?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698eaed1f64d441a1650f5e7?utm_campaign=1051&utm_source=git)** | Miramar, FL | On Site | Apr 17 |
+| **[Element Materials Technology](https://www.element.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c59e3ce565c26a70012ada?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Apr 17 |
+| **[Metaprise](https://www.metaprise.ai/)** | **[Partnerships Intern](https://jobright.ai/jobs/info/69e249f95c44d4710fe24c02?utm_campaign=1051&utm_source=git)** | New York | On Site | Apr 17 |
 | **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/698c84dcf64d441a164e7240?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[Whitebox Real Estate, LLC](https://whiteboxrealestate.com/)** | **[Commercial Real Estate Intern - Full Time - For Graduates](https://jobright.ai/jobs/info/69e2314bcda04a63293a01f4?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69be80a64828227293014b65?utm_campaign=1051&utm_source=git)** | De Soto, KS | On Site | Apr 17 |
@@ -86,12 +91,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f2aa6afe5d2fd108b58d?utm_campaign=1051&utm_source=git)** | Chilliwack, BC | On Site | Apr 17 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1e6cbff71e82d604bb8c1?utm_campaign=1051&utm_source=git)** | Carpinteria, CA, USA | On Site | Apr 17 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Sales And Operations Internship](https://jobright.ai/jobs/info/69e1e4c5fd1c0456f3fb2e28?utm_campaign=1051&utm_source=git)** | Grandville, MI | On Site | Apr 17 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Intern, Agency Partnerships](https://jobright.ai/jobs/info/69e1de2440a62c1fa93bc3b0?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69e1da4bfd1c0456f3fb1757?utm_campaign=1051&utm_source=git)** | West Virginia, United States | On Site | Apr 16 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/69e1cfceff71e82d604b8eb6?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Apr 16 |
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Water Country - Sales & Marketing Intern](https://jobright.ai/jobs/info/69e1cfb4ff71e82d604b8e81?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Apr 16 |
 | **[Crunch Fitness, Primetime Fitness LLC](https://linktr.ee/primetimefitnessllc)** | **[Member Service Representative Pre-Sale Online Hiring Event](https://jobright.ai/jobs/info/69e1c40440a62c1fa93ba146?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Apr 16 |
-| **[Specialityvalve](https://www.specialityvalve.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e1c268ff71e82d604b8947?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Apr 16 |
 | **[ATP Gov](https://atpgov.com/)** | **[ACCOUNT EXECUTIVE - ARMY](https://jobright.ai/jobs/info/69e1e7506c20aa1149545c21?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Commerce Partnerships Intern](https://jobright.ai/jobs/info/69e1aaf96c20aa1149542479?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[S&P Global](https://www.spglobal.com)** | **[Account Management Intern - CCO](https://jobright.ai/jobs/info/69e1a1e940a62c1fa93b94aa?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
@@ -113,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Retail Performance Boston](https://jobright.ai/jobs/info/69e16ddcacc736112f5c39e2?utm_campaign=1051&utm_source=git)** | Boston, MA, United States | Hybrid | Apr 16 |
 | **[S&P Global](https://www.spglobal.com)** | **[Account Management Intern - CCO](https://jobright.ai/jobs/info/69e167f9ff71e82d604b6c1b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69e1937dd612782e611493a2?utm_campaign=1051&utm_source=git)** | Alexandria, VA | On Site | Apr 16 |
-| **[Valemont Group](https://www.linkedin.com/company/109316021)** | **[Sales - Private Equity Internship](https://jobright.ai/jobs/info/69e163d16c20aa1149540e7c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan External Production - Home Loan Advisor - External (Sacramento)](https://jobright.ai/jobs/info/69e16265acc736112f5c3695?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Development](https://jobright.ai/jobs/info/69e1622dacc736112f5c3639?utm_campaign=1051&utm_source=git)** | Montreal, QC | On Site | Apr 16 |
 | **[Circle Logistics, Inc](http://circledelivers.com)** | **[Summer Sales Internship - Indianapolis West](https://jobright.ai/jobs/info/69e15e7c40a62c1fa93b80a0?utm_campaign=1051&utm_source=git)** | Brownsburg, IN | On Site | Apr 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rentokil Réunion - Les experts de la lutte contre les nuisibles partout  à la Réunion](https://www.rentokil.re)** | **[Outside Sales Professional](https://jobright.ai/jobs/info/69e1e560acc736112f5c8087?utm_campaign=1051&utm_source=git)** | Owings Mills, MD | On Site | Apr 16 |
 | ↳ | **[Account Executive](https://jobright.ai/jobs/info/69e1e4adfd1c0456f3fb2dd5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Apr 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/69a7588476bbe83d3afab974?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Apr 16 |
-| **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Commercial Payments & Liquidity Solutions, Sales Support](https://jobright.ai/jobs/info/69e12fadacc736112f5c2525?utm_campaign=1051&utm_source=git)** | Timonium, MD | Hybrid | Apr 16 |
-| **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69616943a112b402660feb25?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
