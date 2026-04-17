@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Synapse Health](http://www.synapsehealth.com)** | **[Supplier Network Intern](https://jobright.ai/jobs/info/69e2b28f3770bd5361cd9973?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
+| **[Saputo Inc.](http://www.saputo.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e2aad32f28653593077769?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Apr 17 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d81772f4ea471a51fe3c9c?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Apr 17 |
 | **[First Bank & Trust](http://bankeasy.com)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/69e29dcefcfcbd43860a3abf?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbf?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
@@ -69,13 +71,16 @@ For a complete list, click the following sortable link below:
 | **[First Western Trust](https://myfw.com/)** | **[Trust Specialist](https://jobright.ai/jobs/info/69c6b5671b5ad0288738632b?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Apr 17 |
 | **[National Life Group](https://www.nationallife.com)** | **[Internal Wholesaler - Distribution (Mandarin Speaking)](https://jobright.ai/jobs/info/697198f6333b6343a14e32b0?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Apr 17 |
 | ↳ | **[Internal Wholesaler - Distribution](https://jobright.ai/jobs/info/6971a09151f726477183f908?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Apr 17 |
+| **[Barrel One Collective](https://barrelonecollective.com)** | **[Sales and Merchandising Intern](https://jobright.ai/jobs/info/69e2b3792f28653593077bd2?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 17 |
 | **[Rich Products Corporation](https://rich.com)** | **[Fulfillment Intern](https://jobright.ai/jobs/info/69c5ab95aa3c2c1995e02e63?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Apr 17 |
 | **[First Western Trust](https://myfw.com/)** | **[Senior Wealth Specialist](https://jobright.ai/jobs/info/69c5bc3baa3c2c1995e03b64?utm_campaign=1051&utm_source=git)** | Boulder, CO | On Site | Apr 17 |
 | **[DeepChatBI](https://deepchatbi.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e2886bfcfcbd43860a3522?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
+| **[Auctane](https://auctane.com/)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/69c6ae35aa3c2c1995e113d3?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Apr 17 |
 | **[Locala](https://asklocala.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69e280475c44d4710fe2575c?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Apr 17 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Retail Sales](https://jobright.ai/jobs/info/69a8d8922580d3183f00f930?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Apr 17 |
 | **[Cadent](http://www.cadent.tv)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69c5941b1818a24cd84b8111?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Chicago, Summer 2026](https://jobright.ai/jobs/info/69e2800d5c44d4710fe25705?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
+| **[WorldLangAmerica](www.worldlangamerica.org)** | **[Remote Business Development Intern](https://jobright.ai/jobs/info/69e2ac41be46fa3a4ef5824e?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Apr 17 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Associate Director of Community and Industry Partnerships - UI Research Park - EnterpriseWorks](https://jobright.ai/jobs/info/69e27bf93ce36005badbe603?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Apr 17 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Advanced Intern - Business Development](https://jobright.ai/jobs/info/69e27bf43ce36005badbe5db?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | On Site | Apr 17 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Inside Sales](https://jobright.ai/jobs/info/69e27b58be46fa3a4ef576da?utm_campaign=1051&utm_source=git)** | Lebanon, IN | On Site | Apr 17 |
@@ -142,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Luxury Resale Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e1ff49d612782e6114df45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69c58d0faa9a29199e807173?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Apr 17 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1fb656c20aa1149546546?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
-| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbdfe?utm_campaign=1051&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 17 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbe03?utm_campaign=1051&utm_source=git)** | Bouctouche, NB | On Site | Apr 17 |
+| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbe03?utm_campaign=1051&utm_source=git)** | Bouctouche, NB | On Site | Apr 17 |
+| ↳ | **[Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbdfe?utm_campaign=1051&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 17 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f2aa6afe5d2fd108b58d?utm_campaign=1051&utm_source=git)** | Chilliwack, BC | On Site | Apr 17 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1e6cbff71e82d604bb8c1?utm_campaign=1051&utm_source=git)** | Carpinteria, CA, USA | On Site | Apr 17 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Sales And Operations Internship](https://jobright.ai/jobs/info/69e1e4c5fd1c0456f3fb2e28?utm_campaign=1051&utm_source=git)** | Grandville, MI | On Site | Apr 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kennywood Park](https://www.kennywood.com/)** | **[Water Country - Sales & Marketing Intern](https://jobright.ai/jobs/info/69e1cfb4ff71e82d604b8e81?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Apr 16 |
 | **[Crunch Fitness, Primetime Fitness LLC](https://linktr.ee/primetimefitnessllc)** | **[Member Service Representative Pre-Sale Online Hiring Event](https://jobright.ai/jobs/info/69e1c40440a62c1fa93ba146?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Commerce Partnerships Intern](https://jobright.ai/jobs/info/69e1aaf96c20aa1149542479?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| **[S&P Global](https://www.spglobal.com)** | **[Account Management Intern - CCO](https://jobright.ai/jobs/info/69e1a1e940a62c1fa93b94aa?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships - Activations](https://jobright.ai/jobs/info/69bd90d74828227293ffce28?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Apr 16 |
-| **[Durham District School Board](https://www.ddsb.ca/)** | **[SUMMER STUDENT - IGNITE DURHAM LEARNING FOUNDATION (IDLF) - JUNIOR FUNDRAISING DEVELOPMENT ASSOCIATE](https://jobright.ai/jobs/info/69e197bdd612782e6114955a?utm_campaign=1051&utm_source=git)** | Whitby, ON | On Site | Apr 16 |
-| **[Allianz Trade in North America](https://www.allianz-trade.com/en_US.html?utm_medium=social&utm_source=linkedin&utm_campaign=linkedin_homepage )** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e18f596c20aa1149541aca?utm_campaign=1051&utm_source=git)** | Baltimore, MD | Remote | Apr 16 |
-| **[DayOf](https://www.dayof.travel)** | **[Growth & Partnerships Intern](https://jobright.ai/jobs/info/69e1acca6c20aa11495424cb?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
