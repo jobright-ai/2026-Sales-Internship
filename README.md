@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69c591f4e565c26a700124de?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Apr 17 |
+| **[Avanade](http://www.avanade.com)** | **[Manager - Power Platform Architect SME](https://jobright.ai/jobs/info/69c5fb491b5ad0288737b825?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1ff886afe5d2fd108bbd2?utm_campaign=1051&utm_source=git)** | Carpinteria, CA | On Site | Apr 17 |
+| **[TikTok](https://www.tiktok.com)** | **[Luxury Resale Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e1ff49d612782e6114df45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69c58d0faa9a29199e807173?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Apr 17 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1fb656c20aa1149546546?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbdfe?utm_campaign=1051&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 17 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbe03?utm_campaign=1051&utm_source=git)** | Bouctouche, NB | On Site | Apr 17 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f2aa6afe5d2fd108b58d?utm_campaign=1051&utm_source=git)** | Chilliwack, BC | On Site | Apr 17 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e11b5cacc736112f5c1ea4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Apr 16 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69e11b53ff71e82d604b529c?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Apr 16 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Vendor Finance Intern](https://jobright.ai/jobs/info/69a8c8a379f3f4037f434441?utm_campaign=1051&utm_source=git)** | Mount Laurel, NJ | Hybrid | Apr 16 |
-| **[Lewis & Ellis - Actuaries and Consultants](http://lewisellis.com)** | **[Business Development Intern (PartTime)](https://jobright.ai/jobs/info/69e11a576c20aa114953f5a9?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Apr 16 |
-| **[MarketScale](https://marketscale.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e11a0cfd1c0456f3fac798?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
-| **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69e1168bfd1c0456f3fac6f1?utm_campaign=1051&utm_source=git)** | New Orleans, LA | Remote | Apr 16 |
-| **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698c9636f64d441a164e810d?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 16 |
-| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69e114a8acc736112f5c1d05?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Apr 16 |
-| **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/698c7be678b4502f12a3006d?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
