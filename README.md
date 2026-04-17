@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships - Activations](https://jobright.ai/jobs/info/69bd90d74828227293ffce28?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Apr 16 |
+| **[Durham District School Board](https://www.ddsb.ca/)** | **[SUMMER STUDENT - IGNITE DURHAM LEARNING FOUNDATION (IDLF) - JUNIOR FUNDRAISING DEVELOPMENT ASSOCIATE](https://jobright.ai/jobs/info/69e197bdd612782e6114955a?utm_campaign=1051&utm_source=git)** | Whitby, ON | On Site | Apr 16 |
 | **[Allianz Trade in North America](https://www.allianz-trade.com/en_US.html?utm_medium=social&utm_source=linkedin&utm_campaign=linkedin_homepage )** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e18f596c20aa1149541aca?utm_campaign=1051&utm_source=git)** | Baltimore, MD | Remote | Apr 16 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Retail Performance Boston](https://jobright.ai/jobs/info/69e1884f6c20aa114954190b?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Apr 16 |
 | **[TZ Medical](http://tzmedical.com)** | **[TZ Medical - Medical Device Sales Internship Program](https://jobright.ai/jobs/info/69e17e2c40a62c1fa93b8b44?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Apr 16 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, E-commerce](https://jobright.ai/jobs/info/69e16fa8acc736112f5c3b2c?utm_campaign=1051&utm_source=git)** | Mont-Royal, QC | On Site | Apr 16 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Retail Performance Boston](https://jobright.ai/jobs/info/69e16ddcacc736112f5c39e2?utm_campaign=1051&utm_source=git)** | Boston, MA, United States | Hybrid | Apr 16 |
 | **[S&P Global](https://www.spglobal.com)** | **[Account Management Intern - CCO](https://jobright.ai/jobs/info/69e167f9ff71e82d604b6c1b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69e1937dd612782e611493a2?utm_campaign=1051&utm_source=git)** | Alexandria, VA | On Site | Apr 16 |
 | **[Valemont Group](https://www.linkedin.com/company/109316021)** | **[Sales - Private Equity Internship](https://jobright.ai/jobs/info/69e163d16c20aa1149540e7c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan External Production - Home Loan Advisor - External (Sacramento)](https://jobright.ai/jobs/info/69e16265acc736112f5c3695?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Development](https://jobright.ai/jobs/info/69e1622dacc736112f5c3639?utm_campaign=1051&utm_source=git)** | Montreal, QC | On Site | Apr 16 |
@@ -137,11 +140,11 @@ For a complete list, click the following sortable link below:
 | **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698c9636f64d441a164e810d?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 16 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69e114a8acc736112f5c1d05?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Apr 16 |
 | **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/698c7be678b4502f12a3006d?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Apr 16 |
+| ↳ | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69d5e067e63cea7a8b665ce1?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 16 |
 | ↳ | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698c9417f64d441a164e7ec4?utm_campaign=1051&utm_source=git)** | Pelham, AL | On Site | Apr 16 |
 | ↳ | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698c80e1f64d441a164e6f87?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Apr 16 |
-| ↳ | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69d5e067e63cea7a8b665ce1?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 16 |
-| ↳ | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/698c96570f6f7e7a2ce84f85?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 16 |
 | ↳ | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698c96c80f6f7e7a2ce85001?utm_campaign=1051&utm_source=git)** | McDonough, GA | On Site | Apr 16 |
+| ↳ | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/698c96570f6f7e7a2ce84f85?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 16 |
 | **[Lamar Advertising Company](http://www.lamar.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e135aeacc736112f5c263e?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Apr 16 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Fresno CA](https://jobright.ai/jobs/info/69e110a8acc736112f5c1c43?utm_campaign=1051&utm_source=git)** | Fresno, CA, United States | On Site | Apr 16 |
 | **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69e10ddeff71e82d604b4f18?utm_campaign=1051&utm_source=git)** | San Jose, CA | Remote | Apr 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tech Sales Intern](https://jobright.ai/jobs/info/69e1090b6c20aa114953f175?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Apr 16 |
 | **[State Street](https://www.statestreet.com/)** | **[Client Strategy,  6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69e1056f40a62c1fa93b64df?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts | On Site | Apr 16 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69c7858d1818a24cd84cf637?utm_campaign=1051&utm_source=git)** | Grove City, OH | On Site | Apr 16 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69a7c453637232443f65205e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 16 |
-| **[Saputo Inc.](http://www.saputo.com/)** | **[Strategic Business Development Intern](https://jobright.ai/jobs/info/69e103afd612782e61146840?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Apr 16 |
-| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/69e103a040a62c1fa93b643f?utm_campaign=1051&utm_source=git)** | GREATER SUDBURY / GRAND SUDBURY, Ontario, Canada | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
