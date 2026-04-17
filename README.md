@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[KLA](https://www.kla.com)** | **[Data Analytics Intern – Business Development](https://jobright.ai/jobs/info/69e156b540a62c1fa93b7e95?utm_campaign=1051&utm_source=git)** | Milpitas, CA | On Site | Apr 16 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Strategic Business Development Intern](https://jobright.ai/jobs/info/69e154c940a62c1fa93b7e63?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Apr 16 |
 | **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e154c76c20aa1149540a23?utm_campaign=1051&utm_source=git)** | Parma, OH | On Site | Apr 16 |
-| **[State Street](https://www.statestreet.com/)** | **[Client Strategy, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69e154c2ff71e82d604b66b9?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 16 |
 | **[FCX Performance](http://fcxperformance.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e154c140a62c1fa93b7e48?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 16 |
 | **[PNC](http://www.pnc.com)** | **[Loan Processing Analyst (MLO)](https://jobright.ai/jobs/info/69e154b040a62c1fa93b7e27?utm_campaign=1051&utm_source=git)** | Arizona, United States | Hybrid | Apr 16 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Partnership Services Intern ( Auburn Sports Properties)](https://jobright.ai/jobs/info/69e154a8ff71e82d604b6694?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Apr 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Johns Manville](http://www.jm.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d97b5cf748bc5d08a4b9cd?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | Apr 16 |
 | **[Custom Truck One Source](https://www.customtruck.com/)** | **[BUSINESS DEVELOPEMNT INTERN](https://jobright.ai/jobs/info/69c45a4f6f4f855eeda6dcb3?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 16 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[MedTech Strategic Intern](https://jobright.ai/jobs/info/69e10914acc736112f5c1974?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Apr 16 |
+| ↳ | **[Tech Sales Intern](https://jobright.ai/jobs/info/69e1090b6c20aa114953f175?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
