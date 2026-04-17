@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69c591f4e565c26a700124df?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
+| **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69e20900874d412bcbbc238a?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69c591f4e565c26a700124de?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Apr 17 |
 | **[Avanade](http://www.avanade.com)** | **[Manager - Power Platform Architect SME](https://jobright.ai/jobs/info/69c5fb491b5ad0288737b825?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1ff886afe5d2fd108bbd2?utm_campaign=1051&utm_source=git)** | Carpinteria, CA | On Site | Apr 17 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbdfe?utm_campaign=1051&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 17 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbe03?utm_campaign=1051&utm_source=git)** | Bouctouche, NB | On Site | Apr 17 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f2aa6afe5d2fd108b58d?utm_campaign=1051&utm_source=git)** | Chilliwack, BC | On Site | Apr 17 |
+| **[GCI Residential, LLC | Goldberg Companies, Inc. | GCI Construction | GCI Development](http://goldbergcompanies.com)** | **[Leasing and Property Management Summer Internship](https://jobright.ai/jobs/info/69e21000ad27d95045be30a7?utm_campaign=1051&utm_source=git)** | Beachwood, OH | On Site | Apr 17 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1e6cbff71e82d604bb8c1?utm_campaign=1051&utm_source=git)** | Carpinteria, CA, USA | On Site | Apr 17 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Sales And Operations Internship](https://jobright.ai/jobs/info/69e1e4c5fd1c0456f3fb2e28?utm_campaign=1051&utm_source=git)** | Grandville, MI | On Site | Apr 17 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Intern, Agency Partnerships](https://jobright.ai/jobs/info/69e1de2440a62c1fa93bc3b0?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Sales Intern - Detroit Summer 2026](https://jobright.ai/jobs/info/69e13efb40a62c1fa93b7596?utm_campaign=1051&utm_source=git)** | Bloomfield Hills, MI | On Site | Apr 16 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Sales and Operations Planning](https://jobright.ai/jobs/info/69a8da8479f3f4037f4366a2?utm_campaign=1051&utm_source=git)** | Gloucester City, NJ | On Site | Apr 16 |
 | **[HeyGears](https://www.heygears.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/69d58136cdb525785fbd16fb?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Apr 16 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e11b81d612782e61146ec0?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | Apr 16 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e11b81d612782e61146ebf?utm_campaign=1051&utm_source=git)** | Gainesville, FL | Remote | Apr 16 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e11b81d612782e61146ebf?utm_campaign=1051&utm_source=git)** | Gainesville, FL | Remote | Apr 16 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e11b81d612782e61146ec0?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | Apr 16 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e11b66acc736112f5c1ec7?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | Remote | Apr 16 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Healthcare & Community Partnerships Intern](https://jobright.ai/jobs/info/69e11b64ff71e82d604b52d1?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 16 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e11b5cacc736112f5c1ea4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Apr 16 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/69e11b53ff71e82d604b529c?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Apr 16 |
-| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Vendor Finance Intern](https://jobright.ai/jobs/info/69a8c8a379f3f4037f434441?utm_campaign=1051&utm_source=git)** | Mount Laurel, NJ | Hybrid | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
