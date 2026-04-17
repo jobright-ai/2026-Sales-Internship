@@ -76,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69e2271fed4dfe55c455f833?utm_campaign=1051&utm_source=git)** | Inverness, NS | On Site | Apr 17 |
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69a8a09879f3f4037f42c4ff?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Apr 17 |
 | **[FranklinCovey](http://www.franklincovey.com)** | **[International Education Sales Director](https://jobright.ai/jobs/info/69e223770335427bb49c787d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
-| **[Eisai US](http://us.eisai.com/)** | **[Summer Pharmacy Intern – Eisai Market Access (Hybrid)](https://jobright.ai/jobs/info/69c593ce1b5ad028873767d3?utm_campaign=1051&utm_source=git)** | Nutley, NJ | Hybrid | Apr 17 |
 | **[SeatGeek](https://seatgeek.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/69c5bd9fe565c26a700146dc?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Legends Global](http://legends.net)** | **[2026 Cincinnati Open Merchandise Assistant Internship](https://jobright.ai/jobs/info/69c594251818a24cd84b8129?utm_campaign=1051&utm_source=git)** | Greater Indianapolis | On Site | Apr 17 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Sales, Specialty Retail, e.l.f & Naturium](https://jobright.ai/jobs/info/698a6c970f6f7e7a2ce593ee?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
@@ -90,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Luxury Resale Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e1ff49d612782e6114df45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69c58d0faa9a29199e807173?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Apr 17 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1fb656c20aa1149546546?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
-| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbdfe?utm_campaign=1051&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 17 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbe03?utm_campaign=1051&utm_source=git)** | Bouctouche, NB | On Site | Apr 17 |
+| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbe03?utm_campaign=1051&utm_source=git)** | Bouctouche, NB | On Site | Apr 17 |
+| ↳ | **[Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbdfe?utm_campaign=1051&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 17 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f2aa6afe5d2fd108b58d?utm_campaign=1051&utm_source=git)** | Chilliwack, BC | On Site | Apr 17 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1e6cbff71e82d604bb8c1?utm_campaign=1051&utm_source=git)** | Carpinteria, CA, USA | On Site | Apr 17 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Sales And Operations Internship](https://jobright.ai/jobs/info/69e1e4c5fd1c0456f3fb2e28?utm_campaign=1051&utm_source=git)** | Grandville, MI | On Site | Apr 17 |
@@ -124,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Development](https://jobright.ai/jobs/info/69e1622dacc736112f5c3639?utm_campaign=1051&utm_source=git)** | Montreal, QC | On Site | Apr 16 |
 | **[Circle Logistics, Inc](http://circledelivers.com)** | **[Summer Sales Internship - Indianapolis West](https://jobright.ai/jobs/info/69e15e7c40a62c1fa93b80a0?utm_campaign=1051&utm_source=git)** | Brownsburg, IN | On Site | Apr 16 |
 | **[Equinix](http://www.equinix.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/69e15e57acc736112f5c3417?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Apr 16 |
+| **[Mine & Yours](http://www.mineandyours.com)** | **[Buying Intern (Authentication)](https://jobright.ai/jobs/info/69e269475c44d4710fe2502f?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 16 |
 | **[TexL Campaigns](https://texlcampaigns.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e179f940a62c1fa93b8a2b?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Apr 16 |
 | **[KLA](https://www.kla.com)** | **[Data Analytics Intern – Business Development](https://jobright.ai/jobs/info/69e156b540a62c1fa93b7e95?utm_campaign=1051&utm_source=git)** | Milpitas, CA | On Site | Apr 16 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Strategic Business Development Intern](https://jobright.ai/jobs/info/69e154c940a62c1fa93b7e63?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Apr 16 |
