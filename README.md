@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Air Charter Service](http://www.aircharterservice.com)** | **[Sales Assistant / Summer Internship (Private Jets)](https://jobright.ai/jobs/info/69e25b94fcfcbd43860a2a65?utm_campaign=1051&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
 | **[Data Axle](https://www.data-axle.com/)** | **[Associate Account Manager Intern](https://jobright.ai/jobs/info/69e2563e2f286535930764f8?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Netzilo Inc](https://www.netzilo.com)** | **[Business Development Representative (BDR) Intern](https://jobright.ai/jobs/info/69e24b0b2f286535930763cb?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698eaed1f64d441a1650f5e7?utm_campaign=1051&utm_source=git)** | Miramar, FL | On Site | Apr 17 |
 | **[Element Materials Technology](https://www.element.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c59e3ce565c26a70012ada?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Apr 17 |
 | **[Metaprise](https://www.metaprise.ai/)** | **[Partnerships Intern](https://jobright.ai/jobs/info/69e249f95c44d4710fe24c02?utm_campaign=1051&utm_source=git)** | New York | On Site | Apr 17 |
+| **[Leavitt Machinery](https://www.leavittmachinery.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69c5d205aa9a29199e80ad0c?utm_campaign=1051&utm_source=git)** | Edmonton, AB | On Site | Apr 17 |
+| **[BCD Meetings & Events](http://www.bcdme.com)** | **[Intern](https://jobright.ai/jobs/info/69db56bef748bc5d08a584db?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
+| **[Saputo Inc.](http://www.saputo.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e25fe63ce36005badbde7c?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Apr 17 |
 | **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/698c84dcf64d441a164e7240?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[Whitebox Real Estate, LLC](https://whiteboxrealestate.com/)** | **[Commercial Real Estate Intern - Full Time - For Graduates](https://jobright.ai/jobs/info/69e2314bcda04a63293a01f4?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69be80a64828227293014b65?utm_campaign=1051&utm_source=git)** | De Soto, KS | On Site | Apr 17 |
@@ -86,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Luxury Resale Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e1ff49d612782e6114df45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69c58d0faa9a29199e807173?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Apr 17 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1fb656c20aa1149546546?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
-| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbe03?utm_campaign=1051&utm_source=git)** | Bouctouche, NB | On Site | Apr 17 |
-| ↳ | **[Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbdfe?utm_campaign=1051&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 17 |
+| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbdfe?utm_campaign=1051&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 17 |
+| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbe03?utm_campaign=1051&utm_source=git)** | Bouctouche, NB | On Site | Apr 17 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f2aa6afe5d2fd108b58d?utm_campaign=1051&utm_source=git)** | Chilliwack, BC | On Site | Apr 17 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1e6cbff71e82d604bb8c1?utm_campaign=1051&utm_source=git)** | Carpinteria, CA, USA | On Site | Apr 17 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Sales And Operations Internship](https://jobright.ai/jobs/info/69e1e4c5fd1c0456f3fb2e28?utm_campaign=1051&utm_source=git)** | Grandville, MI | On Site | Apr 17 |
@@ -133,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Hickory Crawdads](http://www.milb.com/index.jsp?sid=t448)** | **[Ticket Sales Intern](https://jobright.ai/jobs/info/69e185c46c20aa1149541853?utm_campaign=1051&utm_source=git)** | Hickory, NC | On Site | Apr 16 |
 | **[IPConfigure Inc.](http://www.ipconfigure.com/)** | **[Sales Operations Associate Intern](https://jobright.ai/jobs/info/69e148376c20aa11495405cf?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Apr 16 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Buy on Board Intern (Summer 2026)](https://jobright.ai/jobs/info/69e146ccd612782e61147dc8?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Apr 16 |
-| **[GCI Residential, LLC | Goldberg Companies, Inc. | GCI Construction | GCI Development](http://goldbergcompanies.com)** | **[Leasing and Property Management Summer Internship](https://jobright.ai/jobs/info/69e22ce95a16743a729c544a?utm_campaign=1051&utm_source=git)** | Charlotte,NC,US | On Site | Apr 16 |
-| ↳ | **[Leasing and Property Management Summer Internship](https://jobright.ai/jobs/info/69e22cdded4dfe55c455f949?utm_campaign=1051&utm_source=git)** | Beachwood,OH,US | On Site | Apr 16 |
+| **[GCI Residential, LLC | Goldberg Companies, Inc. | GCI Construction | GCI Development](http://goldbergcompanies.com)** | **[Leasing and Property Management Summer Internship](https://jobright.ai/jobs/info/69e22cdded4dfe55c455f949?utm_campaign=1051&utm_source=git)** | Beachwood,OH,US | On Site | Apr 16 |
+| ↳ | **[Leasing and Property Management Summer Internship](https://jobright.ai/jobs/info/69e22ce95a16743a729c544a?utm_campaign=1051&utm_source=git)** | Charlotte,NC,US | On Site | Apr 16 |
 | **[CFSB - Community Financial Services Bank](https://www.cfsbky.com/)** | **[Business Development Intern (Fall 2026)](https://jobright.ai/jobs/info/69e22b70cda04a63293a00de?utm_campaign=1051&utm_source=git)** | Paducah, Kentucky, United States | On Site | Apr 16 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Hourly: ENTR Hub Business Development Representative](https://jobright.ai/jobs/info/69e143bbd612782e61147c30?utm_campaign=1051&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 16 |
 | **[Eastern Industrial Supplies, Inc.](http://easternfirst.com)** | **[Industrial Sales Intern](https://jobright.ai/jobs/info/69e1435e6c20aa11495403da?utm_campaign=1051&utm_source=git)** | Tucker, GA | On Site | Apr 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SaskTel](http://www.sasktel.com)** | **[Service Representative (SaskTel Stores- Incented Sales Rep)](https://jobright.ai/jobs/info/69e135886c20aa114953fdbe?utm_campaign=1051&utm_source=git)** | Regina, SK | On Site | Apr 16 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Sales Intern - Home Depot Account - Alpharetta, GA](https://jobright.ai/jobs/info/69c44ef36f4f855eeda6c193?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Apr 16 |
 | **[DSplus](https://dsplus.co/)** | **[Intern, Account](https://jobright.ai/jobs/info/69e1357bacc736112f5c25f0?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Apr 16 |
-| **[San José State University](http://www.sjsu.edu/)** | **[Senior Director of Development for the College of Engineering](https://jobright.ai/jobs/info/69a69179708b430a607af589?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
-| **[Rentokil Réunion - Les experts de la lutte contre les nuisibles partout  à la Réunion](https://www.rentokil.re)** | **[Outside Sales Professional](https://jobright.ai/jobs/info/69e1e560acc736112f5c8087?utm_campaign=1051&utm_source=git)** | Owings Mills, MD | On Site | Apr 16 |
-| ↳ | **[Account Executive](https://jobright.ai/jobs/info/69e1e4adfd1c0456f3fb2dd5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Apr 16 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/69a7588476bbe83d3afab974?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
