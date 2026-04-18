@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a76?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
-| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
+| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
+| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a76?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Aflac](http://www.aflac.com)** | **[Regional Practice Lead](https://jobright.ai/jobs/info/69e2e1893ce36005badc03af?utm_campaign=1051&utm_source=git)** | Columbus, GA | Remote | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e2e188fcfcbd43860a503c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Intuitive Health](https://www.iheruc.com)** | **[Intern, Real Estate Development](https://jobright.ai/jobs/info/69e2e17afcfcbd43860a4fdb?utm_campaign=1051&utm_source=git)** | Plano, TX | Remote | Apr 17 |
@@ -127,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Intern](https://jobright.ai/jobs/info/69e2825b5c44d4710fe2582d?utm_campaign=1051&utm_source=git)** | New York-New York-United States of America | Hybrid | Apr 17 |
 | **[Group Management Services, Inc.](https://www.groupmgmt.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e271fc2f28653593076924?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 17 |
 | **[Leavitt Machinery](https://www.leavittmachinery.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69c5d229aa9a29199e80adbd?utm_campaign=1051&utm_source=git)** | Kitchener, ON | On Site | Apr 17 |
-| **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/698c81b0f64d441a164e7020?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Apr 17 |
 | **[HMH](http://www.hmhco.com)** | **[Sr NWEA Account Executive - GA, AL](https://jobright.ai/jobs/info/69e2719dbe46fa3a4ef572a4?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Apr 17 |
 | **[Netzilo Inc](https://www.netzilo.com)** | **[Business Development Representative (BDR) Intern](https://jobright.ai/jobs/info/69e24b0b2f286535930763cb?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/698eaed1f64d441a1650f5e7?utm_campaign=1051&utm_source=git)** | Miramar, FL | On Site | Apr 17 |
@@ -153,8 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Whitebox Real Estate, LLC](https://whiteboxrealestate.com/)** | **[Commercial Real Estate Intern - Full Time - For Graduates](https://jobright.ai/jobs/info/69e2314bcda04a63293a01f4?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69be80a64828227293014b65?utm_campaign=1051&utm_source=git)** | De Soto, KS | On Site | Apr 17 |
 | **[Lenox Advisors](http://lenoxadvisors.com)** | **[Business Support & Operations Intern – NYC (Lenox)](https://jobright.ai/jobs/info/698c4fd191fdda424d593c62?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69c60d551b5ad0288737bf6f?utm_campaign=1051&utm_source=git)** | Prince George, BC | On Site | Apr 17 |
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Development Intern - Fall 2026](https://jobright.ai/jobs/info/6972ae7c4ccbf64f8df2b988?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 17 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69e2271fed4dfe55c455f833?utm_campaign=1051&utm_source=git)** | Inverness, NS | On Site | Apr 17 |
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69a8a09879f3f4037f42c4ff?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Apr 17 |
+| **[FranklinCovey](http://www.franklincovey.com)** | **[International Education Sales Director](https://jobright.ai/jobs/info/69e223770335427bb49c787d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
+| **[SeatGeek](https://seatgeek.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/69c5bd9fe565c26a700146dc?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
