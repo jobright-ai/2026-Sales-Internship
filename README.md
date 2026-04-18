@@ -57,11 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Sales Research Intern](https://jobright.ai/jobs/info/69e2ce183ce36005badbfdc8?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Apr 17 |
+| ↳ | **[Sales Research Intern](https://jobright.ai/jobs/info/69e2ce11be46fa3a4ef58f01?utm_campaign=1051&utm_source=git)** | Fairfax, VA | On Site | Apr 17 |
+| ↳ | **[Sales Research Intern](https://jobright.ai/jobs/info/69e2cdf22f286535930784e3?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | Apr 17 |
+| **[Nextpower](https://nextpower.com/)** | **[Sales Analyst Intern, Account Team](https://jobright.ai/jobs/info/69e2cde9be46fa3a4ef58e33?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Apr 17 |
+| **[Anta](https://anta.com/en/index.php)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e2cde53ce36005badbfcc9?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Hybrid | Apr 17 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Sales Operations Business Analyst](https://jobright.ai/jobs/info/69e2c7255c44d4710fe26cc6?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Apr 17 |
+| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Sales Research Intern](https://jobright.ai/jobs/info/69e2c71b2f286535930782ce?utm_campaign=1051&utm_source=git)** | Eatontown, NJ | On Site | Apr 17 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Inside Sales](https://jobright.ai/jobs/info/69e2c7082f28653593078257?utm_campaign=1051&utm_source=git)** | Lebanon, IN | On Site | Apr 17 |
+| **[Gritology Inc](https://gritologyinc.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69e2c6f53ce36005badbfa5e?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Apr 17 |
+| **[Respondology](https://respondology.com/)** | **[Client Success Intern](https://jobright.ai/jobs/info/69e2c6ea2f286535930781bc?utm_campaign=1051&utm_source=git)** | Boulder, CO | Hybrid | Apr 17 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Procurement Specialist I](https://jobright.ai/jobs/info/69e2bfc1be46fa3a4ef589a9?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Apr 17 |
-| **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Intern – Corporate Development](https://jobright.ai/jobs/info/69e2bf8afcfcbd43860a44dc?utm_campaign=1051&utm_source=git)** | 1421 S MANHATTAN AVE, FULLERTON, CA, 92831, US | On Site | Apr 17 |
 | **[Synapse Health](http://www.synapsehealth.com)** | **[Supplier Network Intern](https://jobright.ai/jobs/info/69e2b28f3770bd5361cd9973?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e2aad32f28653593077769?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Apr 17 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Service Team Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/69e2cdbffcfcbd43860a49ab?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | Apr 17 |
+| ↳ | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/69e2cde4be46fa3a4ef58e1d?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | Apr 17 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d81772f4ea471a51fe3c9c?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Apr 17 |
+| **[iORGANBIO](https://iorgan.bio)** | **[Intern, Business Outreach](https://jobright.ai/jobs/info/69e2c7092f2865359307826a?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Apr 17 |
 | **[First Bank & Trust](http://bankeasy.com)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/69e29dcefcfcbd43860a3abf?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbf?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57db9?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
@@ -87,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[WorldLangAmerica](www.worldlangamerica.org)** | **[Remote Business Development Intern](https://jobright.ai/jobs/info/69e2ac41be46fa3a4ef5824e?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Apr 17 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Associate Director of Community and Industry Partnerships - UI Research Park - EnterpriseWorks](https://jobright.ai/jobs/info/69e27bf93ce36005badbe603?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Apr 17 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Advanced Intern - Business Development](https://jobright.ai/jobs/info/69e27bf43ce36005badbe5db?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | On Site | Apr 17 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Inside Sales](https://jobright.ai/jobs/info/69e27b58be46fa3a4ef576da?utm_campaign=1051&utm_source=git)** | Lebanon, IN | On Site | Apr 17 |
 | **[RRD](https://www.rrd.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e2798abe46fa3a4ef57633?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 17 |
 | **[KIOTI Tractor](http://kioti.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e27980be46fa3a4ef57605?utm_campaign=1051&utm_source=git)** | Wendell, NC | On Site | Apr 17 |
 | **[National Life Group](https://www.nationallife.com)** | **[Internal Wholesaler - Distribution](https://jobright.ai/jobs/info/69719c4c51f726477183f620?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Apr 17 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69c591f4e565c26a700124df?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69e20900874d412bcbbc238a?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69c591f4e565c26a700124de?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Apr 17 |
-| **[Avanade](http://www.avanade.com)** | **[Manager - Power Platform Architect SME](https://jobright.ai/jobs/info/69c5fb491b5ad0288737b825?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1ff886afe5d2fd108bbd2?utm_campaign=1051&utm_source=git)** | Carpinteria, CA | On Site | Apr 17 |
-| **[TikTok](https://www.tiktok.com)** | **[Luxury Resale Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e1ff49d612782e6114df45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[ATI Sales Intern - West Region](https://jobright.ai/jobs/info/69c58d0faa9a29199e807173?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Apr 17 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1fb656c20aa1149546546?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
-| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbe03?utm_campaign=1051&utm_source=git)** | Bouctouche, NB | On Site | Apr 17 |
-| ↳ | **[Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/69e1f303ff71e82d604bbdfe?utm_campaign=1051&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 17 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e1f2aa6afe5d2fd108b58d?utm_campaign=1051&utm_source=git)** | Chilliwack, BC | On Site | Apr 17 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1e6cbff71e82d604bb8c1?utm_campaign=1051&utm_source=git)** | Carpinteria, CA, USA | On Site | Apr 17 |
-| **[Hajoca Corporation](https://www.hajoca.com)** | **[Sales And Operations Internship](https://jobright.ai/jobs/info/69e1e4c5fd1c0456f3fb2e28?utm_campaign=1051&utm_source=git)** | Grandville, MI | On Site | Apr 17 |
-| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69e1da4bfd1c0456f3fb1757?utm_campaign=1051&utm_source=git)** | West Virginia, United States | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
