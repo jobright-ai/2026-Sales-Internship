@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Central Florida](https://www.ucf.edu)** | **[Procurement Specialist I](https://jobright.ai/jobs/info/69e2bfc1be46fa3a4ef589a9?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Apr 17 |
+| **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Intern – Corporate Development](https://jobright.ai/jobs/info/69e2bf8afcfcbd43860a44dc?utm_campaign=1051&utm_source=git)** | 1421 S MANHATTAN AVE, FULLERTON, CA, 92831, US | On Site | Apr 17 |
 | **[Synapse Health](http://www.synapsehealth.com)** | **[Supplier Network Intern](https://jobright.ai/jobs/info/69e2b28f3770bd5361cd9973?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e2aad32f28653593077769?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Apr 17 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d81772f4ea471a51fe3c9c?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Apr 17 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbf?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57db9?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2959c5c44d4710fe25d7f?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
+| **[HotTakes](hottakes.com)** | **[Business Development Associate (Student Position)](https://jobright.ai/jobs/info/689ce8bd83d13d1f5b6abd52?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69e28e415c44d4710fe25b4f?utm_campaign=1051&utm_source=git)** | Weston, WI | On Site | Apr 17 |
 | **[Locala](https://asklocala.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69e28e2a3770bd5361cd8f02?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | Hybrid | Apr 17 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Internship, Agency Partnerships](https://jobright.ai/jobs/info/69e28e052f286535930771c9?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
@@ -76,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[First Western Trust](https://myfw.com/)** | **[Senior Wealth Specialist](https://jobright.ai/jobs/info/69c5bc3baa3c2c1995e03b64?utm_campaign=1051&utm_source=git)** | Boulder, CO | On Site | Apr 17 |
 | **[DeepChatBI](https://deepchatbi.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e2886bfcfcbd43860a3522?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Auctane](https://auctane.com/)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/69c6ae35aa3c2c1995e113d3?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Apr 17 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Supply Chain Management - Sales Organization](https://jobright.ai/jobs/info/69aaa3082ebd316bece26ab2?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 17 |
 | **[Locala](https://asklocala.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69e280475c44d4710fe2575c?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Apr 17 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Retail Sales](https://jobright.ai/jobs/info/69a8d8922580d3183f00f930?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Apr 17 |
 | **[Cadent](http://www.cadent.tv)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69c5941b1818a24cd84b8111?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1e6cbff71e82d604bb8c1?utm_campaign=1051&utm_source=git)** | Carpinteria, CA, USA | On Site | Apr 17 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Sales And Operations Internship](https://jobright.ai/jobs/info/69e1e4c5fd1c0456f3fb2e28?utm_campaign=1051&utm_source=git)** | Grandville, MI | On Site | Apr 17 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69e1da4bfd1c0456f3fb1757?utm_campaign=1051&utm_source=git)** | West Virginia, United States | On Site | Apr 16 |
-| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/69e1cfceff71e82d604b8eb6?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Apr 16 |
-| **[Kennywood Park](https://www.kennywood.com/)** | **[Water Country - Sales & Marketing Intern](https://jobright.ai/jobs/info/69e1cfb4ff71e82d604b8e81?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Apr 16 |
-| **[Crunch Fitness, Primetime Fitness LLC](https://linktr.ee/primetimefitnessllc)** | **[Member Service Representative Pre-Sale Online Hiring Event](https://jobright.ai/jobs/info/69e1c40440a62c1fa93ba146?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Apr 16 |
-| **[New York Post](http://nypost.com/)** | **[Commerce Partnerships Intern](https://jobright.ai/jobs/info/69e1aaf96c20aa1149542479?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
