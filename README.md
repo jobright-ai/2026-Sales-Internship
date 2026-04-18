@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69e33dcafcfcbd43860a5f9d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e32fd92f28653593078e9f?utm_campaign=1051&utm_source=git)** | Ashburn, VA | On Site | Apr 17 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Intern](https://jobright.ai/jobs/info/69e32f863ce36005badc06e5?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Intern – Corporate Development](https://jobright.ai/jobs/info/69e335f8fcfcbd43860a5e20?utm_campaign=1051&utm_source=git)** | Boise, ID | Hybrid | Apr 17 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Senior Sales Director - Connected Living and Digital Commerce](https://jobright.ai/jobs/info/69e2d779be46fa3a4ef5909f?utm_campaign=1051&utm_source=git)** | St. Petersburg, Florida, United States | Remote | Apr 17 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Sales Support and Market Analyst Intern](https://jobright.ai/jobs/info/69d5373ecdb525785fbcf1ab?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
 | **[First Bank & Trust](http://bankeasy.com)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/69e29dcefcfcbd43860a3abf?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Apr 17 |
-| **[Open Influence](https://www.openinfluence.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57db9?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
-| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbf?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
+| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbf?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57db9?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2959c5c44d4710fe25d7f?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
 | **[HotTakes](hottakes.com)** | **[Business Development Associate (Student Position)](https://jobright.ai/jobs/info/689ce8bd83d13d1f5b6abd52?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69e2e75efcfcbd43860a509f?utm_campaign=1051&utm_source=git)** | Wilmington, NC | Remote | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Redwood Living](https://www.byredwood.com)** | **[Operations Leasing and Sales Intern](https://jobright.ai/jobs/info/69e271f02f286535930768df?utm_campaign=1051&utm_source=git)** | Merrillville, IN | On Site | Apr 17 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Community Engagement Verification and SNAP Analyst](https://jobright.ai/jobs/info/69c57dbaaa9a29199e8059d8?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | Apr 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8f15a983e6768bc553cea?utm_campaign=1051&utm_source=git)** | Butte, MT | On Site | Apr 17 |
-| **[Skydio](https://www.skydio.com)** | **[Sales Planning Analyst Intern](https://jobright.ai/jobs/info/69c5ab70aa3c2c1995e02e3d?utm_campaign=1051&utm_source=git)** | San Mateo, CA | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
