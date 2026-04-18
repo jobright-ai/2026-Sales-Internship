@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DoubleVerify](http://www.doubleverify.com)** | **[Partnership Operations Intern](https://jobright.ai/jobs/info/69ab1b4d7e1fab39d382a3da?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 18 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Internship (Remote), Agency Partnerships](https://jobright.ai/jobs/info/69e3dbb11ec29c5920b962b5?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 18 |
+| **[Samba TV](http://www.samba.tv)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c72afc83ea553769fe151e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 18 |
+| **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Fulfillment & Client Experience Operations Intern (Showroom)](https://jobright.ai/jobs/info/69e3d8d80ddab31db6f976e6?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Apr 18 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69e3d855cd85881c9505ff0b?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | Apr 18 |
+| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Merchandising Internship](https://jobright.ai/jobs/info/69c6f38f1b5ad02887388b9b?utm_campaign=1051&utm_source=git)** | Columbus, OH, USA | Hybrid | Apr 18 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/695c3ab222c9dc0d3d54195c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 18 |
 | **[SanMar](http://www.sanmar.com)** | **[Sales Ops Intern, Video Production](https://jobright.ai/jobs/info/69c6fbf283ea553769fdf6d8?utm_campaign=1051&utm_source=git)** | Issaquah, WA | Hybrid | Apr 18 |
 | **[Black Copper](blackcopper.org)** | **[Fundraising Intern](https://jobright.ai/jobs/info/69e3c1ce0ddab31db6f97629?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Apr 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rich Products Corporation](https://rich.com)** | **[Fulfillment Intern](https://jobright.ai/jobs/info/69c5ab95aa3c2c1995e02e63?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Apr 17 |
 | **[First Western Trust](https://myfw.com/)** | **[Senior Wealth Specialist](https://jobright.ai/jobs/info/69c5bc3baa3c2c1995e03b64?utm_campaign=1051&utm_source=git)** | Boulder, CO | On Site | Apr 17 |
 | **[RBC](https://www.rbc.com)** | **[client advisor intern](https://jobright.ai/jobs/info/69e34e4bbe46fa3a4ef5a8d5?utm_campaign=1051&utm_source=git)** | CAMBRIDGE, Ontario, Canada | On Site | Apr 17 |
-| **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Sales Operations Intern – Data & Insights](https://jobright.ai/jobs/info/69e34e353ce36005badc1747?utm_campaign=1051&utm_source=git)** | Palo Alto | On Site | Apr 17 |
-| **[Auctane](https://auctane.com/)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/69c6ae35aa3c2c1995e113d3?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Apr 17 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Supply Chain Management - Sales Organization](https://jobright.ai/jobs/info/69aaa3082ebd316bece26ab2?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 17 |
-| **[Locala](https://asklocala.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69e280475c44d4710fe2575c?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Apr 17 |
-| **[Leviton](https://www.leviton.com)** | **[Intern, Retail Sales](https://jobright.ai/jobs/info/69a8d8922580d3183f00f930?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Apr 17 |
-| **[Cadent](http://www.cadent.tv)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69c5941b1818a24cd84b8111?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
