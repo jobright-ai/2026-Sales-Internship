@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
-| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a76?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
+| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a76?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
+| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
 | **[Aflac](http://www.aflac.com)** | **[Regional Practice Lead](https://jobright.ai/jobs/info/69e2e1893ce36005badc03af?utm_campaign=1051&utm_source=git)** | Columbus, GA | Remote | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e2e188fcfcbd43860a503c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Intuitive Health](https://www.iheruc.com)** | **[Intern, Real Estate Development](https://jobright.ai/jobs/info/69e2e17afcfcbd43860a4fdb?utm_campaign=1051&utm_source=git)** | Plano, TX | Remote | Apr 17 |
@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69e2e75efcfcbd43860a509f?utm_campaign=1051&utm_source=git)** | Wilmington, NC | Remote | Apr 17 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69e28e415c44d4710fe25b4f?utm_campaign=1051&utm_source=git)** | Weston, WI | On Site | Apr 17 |
 | **[Locala](https://asklocala.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69e28e2a3770bd5361cd8f02?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | Hybrid | Apr 17 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Internship, Agency Partnerships](https://jobright.ai/jobs/info/69e28e052f286535930771c9?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69e28e023ce36005badbeab5?utm_campaign=1051&utm_source=git)** | Mankato, MN | On Site | Apr 17 |
 | **[First Western Trust](https://myfw.com/)** | **[Trust Specialist](https://jobright.ai/jobs/info/69c6b5671b5ad0288738632b?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Apr 17 |
 | **[National Life Group](https://www.nationallife.com)** | **[Internal Wholesaler - Distribution (Mandarin Speaking)](https://jobright.ai/jobs/info/697198f6333b6343a14e32b0?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Apr 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/698c84dcf64d441a164e7240?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[Whitebox Real Estate, LLC](https://whiteboxrealestate.com/)** | **[Commercial Real Estate Intern - Full Time - For Graduates](https://jobright.ai/jobs/info/69e2314bcda04a63293a01f4?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69be80a64828227293014b65?utm_campaign=1051&utm_source=git)** | De Soto, KS | On Site | Apr 17 |
+| **[Lenox Advisors](http://lenoxadvisors.com)** | **[Business Support & Operations Intern – NYC (Lenox)](https://jobright.ai/jobs/info/698c4fd191fdda424d593c62?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
