@@ -77,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Gritology Inc](https://gritologyinc.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69e2c6f53ce36005badbfa5e?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Apr 17 |
 | **[Respondology](https://respondology.com/)** | **[Client Success Intern](https://jobright.ai/jobs/info/69e2c6ea2f286535930781bc?utm_campaign=1051&utm_source=git)** | Boulder, CO | Hybrid | Apr 17 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Procurement Specialist I](https://jobright.ai/jobs/info/69e2bfc1be46fa3a4ef589a9?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Apr 17 |
+| **[Risewell Homes](http://www.risewellhomes.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69e2e3dc5c44d4710fe2752f?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
 | **[Synapse Health](http://www.synapsehealth.com)** | **[Supplier Network Intern](https://jobright.ai/jobs/info/69e2b28f3770bd5361cd9973?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Sales Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/69e2d67b3ce36005badbff2e?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | Apr 17 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69e2d6885c44d4710fe270e9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Apr 17 |
@@ -89,10 +90,11 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Senior Sales Director - Connected Living and Digital Commerce](https://jobright.ai/jobs/info/69e2d779be46fa3a4ef5909f?utm_campaign=1051&utm_source=git)** | St. Petersburg, Florida, United States | Remote | Apr 17 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Sales Support and Market Analyst Intern](https://jobright.ai/jobs/info/69d5373ecdb525785fbcf1ab?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
 | **[First Bank & Trust](http://bankeasy.com)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/69e29dcefcfcbd43860a3abf?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Apr 17 |
-| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbf?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57db9?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
+| **[Open Influence](https://www.openinfluence.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57db9?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
+| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbf?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2959c5c44d4710fe25d7f?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
 | **[HotTakes](hottakes.com)** | **[Business Development Associate (Student Position)](https://jobright.ai/jobs/info/689ce8bd83d13d1f5b6abd52?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
+| **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69e2e75efcfcbd43860a509f?utm_campaign=1051&utm_source=git)** | Wilmington, NC | Remote | Apr 17 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69e28e415c44d4710fe25b4f?utm_campaign=1051&utm_source=git)** | Weston, WI | On Site | Apr 17 |
 | **[Locala](https://asklocala.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69e28e2a3770bd5361cd8f02?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | Hybrid | Apr 17 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Internship, Agency Partnerships](https://jobright.ai/jobs/info/69e28e052f286535930771c9?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
@@ -103,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Barrel One Collective](https://barrelonecollective.com)** | **[Sales and Merchandising Intern](https://jobright.ai/jobs/info/69e2b3792f28653593077bd2?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 17 |
 | **[Rich Products Corporation](https://rich.com)** | **[Fulfillment Intern](https://jobright.ai/jobs/info/69c5ab95aa3c2c1995e02e63?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Apr 17 |
 | **[First Western Trust](https://myfw.com/)** | **[Senior Wealth Specialist](https://jobright.ai/jobs/info/69c5bc3baa3c2c1995e03b64?utm_campaign=1051&utm_source=git)** | Boulder, CO | On Site | Apr 17 |
-| **[DeepChatBI](https://deepchatbi.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e2886bfcfcbd43860a3522?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Auctane](https://auctane.com/)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/69c6ae35aa3c2c1995e113d3?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Apr 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Supply Chain Management - Sales Organization](https://jobright.ai/jobs/info/69aaa3082ebd316bece26ab2?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 17 |
 | **[Locala](https://asklocala.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69e280475c44d4710fe2575c?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/698c84dcf64d441a164e7240?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[Whitebox Real Estate, LLC](https://whiteboxrealestate.com/)** | **[Commercial Real Estate Intern - Full Time - For Graduates](https://jobright.ai/jobs/info/69e2314bcda04a63293a01f4?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69be80a64828227293014b65?utm_campaign=1051&utm_source=git)** | De Soto, KS | On Site | Apr 17 |
-| **[Lenox Advisors](http://lenoxadvisors.com)** | **[Business Support & Operations Intern – NYC (Lenox)](https://jobright.ai/jobs/info/698c4fd191fdda424d593c62?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
