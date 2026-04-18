@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Black Copper](blackcopper.org)** | **[Fundraising Intern](https://jobright.ai/jobs/info/69e3c1ce0ddab31db6f97629?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Apr 18 |
+| **[Dioun Health](diounhealth.com)** | **[Private Equity Sales Intern - Commission Based](https://jobright.ai/jobs/info/69e3c1310ddab31db6f975fc?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 18 |
+| **[National Life Group](https://www.nationallife.com)** | **[Internal Wholesaler - Distribution (Spanish Speaking)](https://jobright.ai/jobs/info/69719b3d333b6343a14e34af?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Apr 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/69c27b5bec22f8310ab04b11?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Apr 18 |
 | **[CertiK](https://www.certik.com/)** | **[Business Development Intern / CertiK Ambassador](https://jobright.ai/jobs/info/698f4a270cc8ea15f1d9c5a0?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Apr 18 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69d80ecbb861c42857c485a7?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Apr 18 |
@@ -115,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Respondology](https://respondology.com/)** | **[Client Success Intern](https://jobright.ai/jobs/info/69e2c6ea2f286535930781bc?utm_campaign=1051&utm_source=git)** | Boulder, CO | Hybrid | Apr 17 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Procurement Specialist I](https://jobright.ai/jobs/info/69e2bfc1be46fa3a4ef589a9?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Apr 17 |
 | **[Dolby Chadwick Gallery](http://www.dolbychadwickgallery.com)** | **[Gallery Intern](https://jobright.ai/jobs/info/69e336293770bd5361cdb68c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Apr 17 |
-| **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Intern – Corporate Development](https://jobright.ai/jobs/info/69e33577fcfcbd43860a5d30?utm_campaign=1051&utm_source=git)** | 1421 S MANHATTAN AVE, FULLERTON, CA, 92831, US | On Site | Apr 17 |
 | **[Synapse Health](http://www.synapsehealth.com)** | **[Supplier Network Intern](https://jobright.ai/jobs/info/69e2b28f3770bd5361cd9973?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) /  Huntington Beach, CA - Summer 2026](https://jobright.ai/jobs/info/69e34e762f28653593079f79?utm_campaign=1051&utm_source=git)** | Huntington Beach, CA 92647 | On Site | Apr 17 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Sales Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/69e2d67b3ce36005badbff2e?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | Apr 17 |
@@ -128,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Senior Sales Director - Connected Living and Digital Commerce](https://jobright.ai/jobs/info/69e2d779be46fa3a4ef5909f?utm_campaign=1051&utm_source=git)** | St. Petersburg, Florida, United States | Remote | Apr 17 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Sales Support and Market Analyst Intern](https://jobright.ai/jobs/info/69d5373ecdb525785fbcf1ab?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
 | **[First Bank & Trust](http://bankeasy.com)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/69e29dcefcfcbd43860a3abf?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Apr 17 |
-| **[Open Influence](https://www.openinfluence.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57db9?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
-| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbf?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
+| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbf?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57db9?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2959c5c44d4710fe25d7f?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
 | **[Nextracker Inc.](https://www.linkedin.com/company/3807153)** | **[Sales Analyst Intern, Account Team](https://jobright.ai/jobs/info/69e34e3efcfcbd43860a63e5?utm_campaign=1051&utm_source=git)** | Fremont, North Bldg, California - USA | On Site | Apr 17 |
 | **[HotTakes](hottakes.com)** | **[Business Development Associate (Student Position)](https://jobright.ai/jobs/info/689ce8bd83d13d1f5b6abd52?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Associate Director of Community and Industry Partnerships - UI Research Park - EnterpriseWorks](https://jobright.ai/jobs/info/69e27bf93ce36005badbe603?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Apr 17 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Advanced Intern - Business Development](https://jobright.ai/jobs/info/69e27bf43ce36005badbe5db?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | On Site | Apr 17 |
 | **[RRD](https://www.rrd.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e2798abe46fa3a4ef57633?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 17 |
-| **[National Life Group](https://www.nationallife.com)** | **[Internal Wholesaler - Distribution](https://jobright.ai/jobs/info/69719c4c51f726477183f620?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Apr 17 |
-| **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/69cf7aa0891d7b11cfcd3f5a?utm_campaign=1051&utm_source=git)** | Brookings, SD | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
