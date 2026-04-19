@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[UPL](http://www.upl-ltd.com/)** | **[Sales Intern, Northern Field Crops](https://jobright.ai/jobs/info/69a9df581f59c56275e29b7a?utm_campaign=1051&utm_source=git)** | Illinois, AR | On Site | Apr 18 |
 | **[Dioun Health](diounhealth.com)** | **[Private Equity Sales Intern - Commission Based](https://jobright.ai/jobs/info/69e3c1310ddab31db6f975fc?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Intern - Sales Support](https://jobright.ai/jobs/info/69ab402b142d5b4265fc897c?utm_campaign=1051&utm_source=git)** | Mount Laurel, NJ | Hybrid | Apr 18 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8f2aef9c6ff7aedf15335?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Apr 18 |
 | **[National Life Group](https://www.nationallife.com)** | **[Internal Wholesaler - Distribution (Spanish Speaking)](https://jobright.ai/jobs/info/69719b3d333b6343a14e34af?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Apr 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/69c27b5bec22f8310ab04b11?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Apr 18 |
 | **[CertiK](https://www.certik.com/)** | **[Business Development Intern / CertiK Ambassador](https://jobright.ai/jobs/info/698f4a270cc8ea15f1d9c5a0?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Apr 18 |
@@ -103,13 +104,14 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69e33dcafcfcbd43860a5f9d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 18 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/69cb715da8c1822476e26b87?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Apr 17 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/69cbccdee1921223acc72c23?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Apr 17 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern - Paid](https://jobright.ai/jobs/info/69dff65514bf245fc7a6f04d?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 17 |
 | **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e32fd92f28653593078e9f?utm_campaign=1051&utm_source=git)** | Ashburn, VA | On Site | Apr 17 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Intern](https://jobright.ai/jobs/info/69e32f863ce36005badc06e5?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Nonsense](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e34c4e3770bd5361cdb89a?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 17 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Intern – Corporate Development](https://jobright.ai/jobs/info/69e335f8fcfcbd43860a5e20?utm_campaign=1051&utm_source=git)** | Boise, ID | Hybrid | Apr 17 |
 | **[Fifth Avenue Co.](https://www.fifthavenuegrp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e335f83ce36005badc114b?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 17 |
-| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a76?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
-| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
+| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
+| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a76?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Aflac](http://www.aflac.com)** | **[Regional Practice Lead](https://jobright.ai/jobs/info/69e2e1893ce36005badc03af?utm_campaign=1051&utm_source=git)** | Columbus, GA | Remote | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e2e188fcfcbd43860a503c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Intuitive Health](https://www.iheruc.com)** | **[Intern, Real Estate Development](https://jobright.ai/jobs/info/69e2e17afcfcbd43860a4fdb?utm_campaign=1051&utm_source=git)** | Plano, TX | Remote | Apr 17 |
@@ -134,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) /  Huntington Beach, CA - Summer 2026](https://jobright.ai/jobs/info/69e34e762f28653593079f79?utm_campaign=1051&utm_source=git)** | Huntington Beach, CA 92647 | On Site | Apr 17 |
 | **[Synapse Health](http://www.synapsehealth.com)** | **[Equip Supplier Network Intern](https://jobright.ai/jobs/info/69e451fdf8fa2f3ec329c006?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Sales Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/69e2d67b3ce36005badbff2e?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | Apr 17 |
-| **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69e2d6885c44d4710fe270e9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Apr 17 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e2aad32f28653593077769?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Apr 17 |
 | **[Leidos](https://www.leidos.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e2e24e5c44d4710fe2751c?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | Apr 17 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Service Team Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/69e2cdbffcfcbd43860a49ab?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Life Group](https://www.nationallife.com)** | **[Internal Wholesaler - Distribution (Mandarin Speaking)](https://jobright.ai/jobs/info/697198f6333b6343a14e32b0?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Apr 17 |
 | ↳ | **[Internal Wholesaler - Distribution](https://jobright.ai/jobs/info/6971a09151f726477183f908?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Apr 17 |
 | **[Barrel One Collective](https://barrelonecollective.com)** | **[Sales and Merchandising Intern](https://jobright.ai/jobs/info/69e2b3792f28653593077bd2?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 17 |
-| **[Rich Products Corporation](https://rich.com)** | **[Fulfillment Intern](https://jobright.ai/jobs/info/69c5ab95aa3c2c1995e02e63?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
