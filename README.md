@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698512a18da7a612045f65ec?utm_campaign=1051&utm_source=git)** | Caledon, ON | Hybrid | Apr 19 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/69c27b5bec22f8310ab04b11?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Apr 19 |
+| **[Give Kids The World Village](https://www.gktw.org)** | **[Merchandise Operations Internship](https://jobright.ai/jobs/info/69e4ff60e0cd471b2f1223ea?utm_campaign=1051&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
+| ↳ | **[Development Internship](https://jobright.ai/jobs/info/69e4ff603cfd986aa6f8216c?utm_campaign=1051&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69dec966aba61f1417317b76?utm_campaign=1051&utm_source=git)** | Bensalem, PA | On Site | Apr 19 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Youngstown, OH (Summer 2026)](https://jobright.ai/jobs/info/68e40b2f1852e62f00800754?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Apr 19 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/69cbccdee1921223acc72c23?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Apr 19 |
 | **[Dental-X (Formerly Med-X AI)](https://dental-x.ai/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e4be17f8fa2f3ec329cfdb?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 19 |
@@ -80,8 +85,9 @@ For a complete list, click the following sortable link below:
 | **[Dioun Health](diounhealth.com)** | **[Private Equity Sales Intern - Commission Based](https://jobright.ai/jobs/info/69e3c1310ddab31db6f975fc?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Intern - Sales Support](https://jobright.ai/jobs/info/69ab402b142d5b4265fc897c?utm_campaign=1051&utm_source=git)** | Mount Laurel, NJ | Hybrid | Apr 18 |
 | **[National Life Group](https://www.nationallife.com)** | **[Internal Wholesaler - Distribution (Spanish Speaking)](https://jobright.ai/jobs/info/69719b3d333b6343a14e34af?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Apr 18 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693ceeb250bbaf765050100d?utm_campaign=1051&utm_source=git)** | League City, TX | On Site | Apr 18 |
+| **[CertiK](https://www.certik.com/)** | **[Business Development Intern / CertiK Ambassador](https://jobright.ai/jobs/info/698f46cc0cc8ea15f1d9c0b4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8f2aef9c6ff7aedf15335?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Apr 18 |
-| ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/69c27b5bec22f8310ab04b11?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Apr 18 |
 | **[CertiK](https://www.certik.com/)** | **[Business Development Intern / CertiK Ambassador](https://jobright.ai/jobs/info/698f4a270cc8ea15f1d9c5a0?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Apr 18 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69d80ecbb861c42857c485a7?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Apr 18 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Sales Process Specialist](https://jobright.ai/jobs/info/69c8c39a1818a24cd84d6b7f?utm_campaign=1051&utm_source=git)** | Melville, NY | Hybrid | Apr 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e2e24e5c44d4710fe2751c?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | Apr 17 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Service Team Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/69e2cdbffcfcbd43860a49ab?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | Apr 17 |
 | ↳ | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/69e2cde4be46fa3a4ef58e1d?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | Apr 17 |
-| **[iORGANBIO](https://iorgan.bio)** | **[Intern, Business Outreach](https://jobright.ai/jobs/info/69e2c7092f2865359307826a?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Apr 17 |
-| **[Jabil](https://www.jabil.com)** | **[Senior Sales Director - Connected Living and Digital Commerce](https://jobright.ai/jobs/info/69e2d779be46fa3a4ef5909f?utm_campaign=1051&utm_source=git)** | St. Petersburg, Florida, United States | Remote | Apr 17 |
-| **[Lumentum](https://www.lumentum.com/en)** | **[Sales Support and Market Analyst Intern](https://jobright.ai/jobs/info/69d5373ecdb525785fbcf1ab?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
-| **[First Bank & Trust](http://bankeasy.com)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/69e29dcefcfcbd43860a3abf?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Apr 17 |
-| **[Open Influence](https://www.openinfluence.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57db9?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
-| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbf?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
