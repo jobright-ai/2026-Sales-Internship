@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prescient Edge](https://www.prescientedge.com/)** | **[Business Development & Research Intern](https://jobright.ai/jobs/info/69e5450de0cd471b2f122696?utm_campaign=1051&utm_source=git)** | McLean, VA | On Site | Apr 19 |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696a495e350cf43803113abd?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 19 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 19 |
 | ↳ | **[Bilingual International Sales Intern (Mexico)](https://jobright.ai/jobs/info/65086fe6b1e91ec1ac9bcf1c?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 19 |
 | **[Valemont Group](https://www.linkedin.com/company/109316021)** | **[Private Equity Sales Internship](https://jobright.ai/jobs/info/69e51a753aa0c47964390a2f?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 19 |
@@ -68,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/69cb715da8c1822476e26b87?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Apr 19 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698512a18da7a612045f65ec?utm_campaign=1051&utm_source=git)** | Caledon, ON | Hybrid | Apr 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/69c27b5bec22f8310ab04b11?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Apr 19 |
-| **[Give Kids The World Village](https://www.gktw.org)** | **[Merchandise Operations Internship](https://jobright.ai/jobs/info/69e4ff60e0cd471b2f1223ea?utm_campaign=1051&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
-| ↳ | **[Development Internship](https://jobright.ai/jobs/info/69e4ff603cfd986aa6f8216c?utm_campaign=1051&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
+| **[Give Kids The World Village](https://www.gktw.org)** | **[Development Internship](https://jobright.ai/jobs/info/69e4ff603cfd986aa6f8216c?utm_campaign=1051&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
+| ↳ | **[Merchandise Operations Internship](https://jobright.ai/jobs/info/69e4ff60e0cd471b2f1223ea?utm_campaign=1051&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69dec966aba61f1417317b76?utm_campaign=1051&utm_source=git)** | Bensalem, PA | On Site | Apr 19 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Youngstown, OH (Summer 2026)](https://jobright.ai/jobs/info/68e40b2f1852e62f00800754?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Apr 19 |
 | **[CertiK](https://www.certik.com/)** | **[Business Development Intern / CertiK Ambassador](https://jobright.ai/jobs/info/698f3d200f6f7e7a2ceb6065?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Apr 19 |
@@ -135,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Nonsense](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e34c4e3770bd5361cdb89a?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 17 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Intern – Corporate Development](https://jobright.ai/jobs/info/69e335f8fcfcbd43860a5e20?utm_campaign=1051&utm_source=git)** | Boise, ID | Hybrid | Apr 17 |
 | **[Fifth Avenue Co.](https://www.fifthavenuegrp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e335f83ce36005badc114b?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 17 |
-| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
-| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a76?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
+| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a76?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
+| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
 | **[Aflac](http://www.aflac.com)** | **[Regional Practice Lead](https://jobright.ai/jobs/info/69e2e1893ce36005badc03af?utm_campaign=1051&utm_source=git)** | Columbus, GA | Remote | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e2e188fcfcbd43860a503c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Intuitive Health](https://www.iheruc.com)** | **[Intern, Real Estate Development](https://jobright.ai/jobs/info/69e2e17afcfcbd43860a4fdb?utm_campaign=1051&utm_source=git)** | Plano, TX | Remote | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Sales Research Intern](https://jobright.ai/jobs/info/69e2c71b2f286535930782ce?utm_campaign=1051&utm_source=git)** | Eatontown, NJ | On Site | Apr 17 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Inside Sales](https://jobright.ai/jobs/info/69e2c7082f28653593078257?utm_campaign=1051&utm_source=git)** | Lebanon, IN | On Site | Apr 17 |
 | **[Gritology Inc](https://gritologyinc.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69e2c6f53ce36005badbfa5e?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Apr 17 |
-| **[Respondology](https://respondology.com/)** | **[Client Success Intern](https://jobright.ai/jobs/info/69e2c6ea2f286535930781bc?utm_campaign=1051&utm_source=git)** | Boulder, CO | Hybrid | Apr 17 |
-| **[University of Central Florida](https://www.ucf.edu)** | **[Procurement Specialist I](https://jobright.ai/jobs/info/69e2bfc1be46fa3a4ef589a9?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
