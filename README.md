@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/69cbccdee1921223acc72c23?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Apr 19 |
 | **[Dental-X (Formerly Med-X AI)](https://dental-x.ai/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e4be17f8fa2f3ec329cfdb?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/69d74d8048f0c8161d2ff6a4?utm_campaign=1051&utm_source=git)** | Trumbull, CT | On Site | Apr 19 |
+| **[MFS Supply](http://mfssupply.com)** | **[Sales Intern-Securing](https://jobright.ai/jobs/info/69e4d1b53aa0c47964390476?utm_campaign=1051&utm_source=git)** | Solon, OH | On Site | Apr 19 |
 | **[Xylem](https://heimplanet.com/)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/69d5ff0f706f771673ba8be8?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 19 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69e4b9fdf8fa2f3ec329c4b4?utm_campaign=1051&utm_source=git)** | Clayton. In, US | On Site | Apr 19 |
 | **[Coloplast](https://www.coloplast.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e4b0117820c036924cab0b?utm_campaign=1051&utm_source=git)** | Arlington, US | On Site | Apr 19 |
@@ -76,9 +78,9 @@ For a complete list, click the following sortable link below:
 | **[UPL](http://www.upl-ltd.com/)** | **[Sales Intern, Northern Field Crops](https://jobright.ai/jobs/info/69a9df581f59c56275e29b7a?utm_campaign=1051&utm_source=git)** | Illinois, AR | On Site | Apr 18 |
 | **[Dioun Health](diounhealth.com)** | **[Private Equity Sales Intern - Commission Based](https://jobright.ai/jobs/info/69e3c1310ddab31db6f975fc?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Intern - Sales Support](https://jobright.ai/jobs/info/69ab402b142d5b4265fc897c?utm_campaign=1051&utm_source=git)** | Mount Laurel, NJ | Hybrid | Apr 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8f2aef9c6ff7aedf15335?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Apr 18 |
 | **[National Life Group](https://www.nationallife.com)** | **[Internal Wholesaler - Distribution (Spanish Speaking)](https://jobright.ai/jobs/info/69719b3d333b6343a14e34af?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Apr 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/69c27b5bec22f8310ab04b11?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Apr 18 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8f2aef9c6ff7aedf15335?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Apr 18 |
+| ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/69c27b5bec22f8310ab04b11?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Apr 18 |
 | **[CertiK](https://www.certik.com/)** | **[Business Development Intern / CertiK Ambassador](https://jobright.ai/jobs/info/698f4a270cc8ea15f1d9c5a0?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Apr 18 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69d80ecbb861c42857c485a7?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Apr 18 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Sales Process Specialist](https://jobright.ai/jobs/info/69c8c39a1818a24cd84d6b7f?utm_campaign=1051&utm_source=git)** | Melville, NY | Hybrid | Apr 18 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[New York Hilton Midtown](http://www.newyorkhiltonmidtown.com)** | **[Front Office Rooms Operations Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/69c6f3661818a24cd84ca199?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Apr 18 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69e33dcafcfcbd43860a5f9d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 18 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/69cb715da8c1822476e26b87?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Apr 17 |
-| ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/69cbccdee1921223acc72c23?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Apr 17 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern - Paid](https://jobright.ai/jobs/info/69dff65514bf245fc7a6f04d?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 17 |
 | **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e32fd92f28653593078e9f?utm_campaign=1051&utm_source=git)** | Ashburn, VA | On Site | Apr 17 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Intern](https://jobright.ai/jobs/info/69e32f863ce36005badc06e5?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbf?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2959c5c44d4710fe25d7f?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
 | **[Nextracker Inc.](https://www.linkedin.com/company/3807153)** | **[Sales Analyst Intern, Account Team](https://jobright.ai/jobs/info/69e34e3efcfcbd43860a63e5?utm_campaign=1051&utm_source=git)** | Fremont, North Bldg, California - USA | On Site | Apr 17 |
-| **[HotTakes](hottakes.com)** | **[Business Development Associate (Student Position)](https://jobright.ai/jobs/info/689ce8bd83d13d1f5b6abd52?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
