@@ -94,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Environmental Sales Internship](https://jobright.ai/jobs/info/69aa3d3f1f59c56275e3179d?utm_campaign=1051&utm_source=git)** | 1214 Campbell Ave SE, Roanoke, VA, 24013, US | On Site | Apr 18 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Client Development Intern - Fragrance & Beauty (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fc372ebd316bece1bb82?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Apr 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a431fac80bb5492bcc4ab?utm_campaign=1051&utm_source=git)** | Beaumont, TX | On Site | Apr 18 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/693a3a57ac80bb5492bcbf23?utm_campaign=1051&utm_source=git)** | Baytown, TX | On Site | Apr 18 |
 | **[Devil Dog Marketplace](https://devildogmarketplace.com/)** | **[LinkedIn Outreach Intern – Paid Per Performance (Trust-Based Business Development Training)](https://jobright.ai/jobs/info/69e38cc82664c278c1dd4f2f?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69dd854b9f97a42dc9c36801?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Apr 18 |
 | **[STMicroelectronics](https://www.st.com)** | **[Sales Operations Analyst Intern](https://jobright.ai/jobs/info/6997f615e0bddb6acac6e93a?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Apr 18 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Nonsense](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e34c4e3770bd5361cdb89a?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 17 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Intern – Corporate Development](https://jobright.ai/jobs/info/69e335f8fcfcbd43860a5e20?utm_campaign=1051&utm_source=git)** | Boise, ID | Hybrid | Apr 17 |
 | **[Fifth Avenue Co.](https://www.fifthavenuegrp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e335f83ce36005badc114b?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 17 |
-| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
-| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a76?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
+| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a76?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
+| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
 | **[Aflac](http://www.aflac.com)** | **[Regional Practice Lead](https://jobright.ai/jobs/info/69e2e1893ce36005badc03af?utm_campaign=1051&utm_source=git)** | Columbus, GA | Remote | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e2e188fcfcbd43860a503c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Intuitive Health](https://www.iheruc.com)** | **[Intern, Real Estate Development](https://jobright.ai/jobs/info/69e2e17afcfcbd43860a4fdb?utm_campaign=1051&utm_source=git)** | Plano, TX | Remote | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Open Influence](https://www.openinfluence.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57db9?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbf?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2959c5c44d4710fe25d7f?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
-| **[Nextracker Inc.](https://www.linkedin.com/company/3807153)** | **[Sales Analyst Intern, Account Team](https://jobright.ai/jobs/info/69e34e3efcfcbd43860a63e5?utm_campaign=1051&utm_source=git)** | Fremont, North Bldg, California - USA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
