@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Youngstown, OH (Summer 2026)](https://jobright.ai/jobs/info/68e40b2f1852e62f00800754?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Apr 19 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/69cbccdee1921223acc72c23?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Apr 19 |
 | **[Dental-X (Formerly Med-X AI)](https://dental-x.ai/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e4be17f8fa2f3ec329cfdb?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/69d74d8048f0c8161d2ff6a4?utm_campaign=1051&utm_source=git)** | Trumbull, CT | On Site | Apr 19 |
@@ -119,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Nonsense](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e34c4e3770bd5361cdb89a?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 17 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Intern – Corporate Development](https://jobright.ai/jobs/info/69e335f8fcfcbd43860a5e20?utm_campaign=1051&utm_source=git)** | Boise, ID | Hybrid | Apr 17 |
 | **[Fifth Avenue Co.](https://www.fifthavenuegrp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e335f83ce36005badc114b?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 17 |
-| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a76?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
-| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
+| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
+| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a76?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Aflac](http://www.aflac.com)** | **[Regional Practice Lead](https://jobright.ai/jobs/info/69e2e1893ce36005badc03af?utm_campaign=1051&utm_source=git)** | Columbus, GA | Remote | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e2e188fcfcbd43860a503c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Intuitive Health](https://www.iheruc.com)** | **[Intern, Real Estate Development](https://jobright.ai/jobs/info/69e2e17afcfcbd43860a4fdb?utm_campaign=1051&utm_source=git)** | Plano, TX | Remote | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Bank & Trust](http://bankeasy.com)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/69e29dcefcfcbd43860a3abf?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57db9?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e29663be46fa3a4ef57dbf?utm_campaign=1051&utm_source=git)** | Los Angeles | Hybrid | Apr 17 |
-| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2959c5c44d4710fe25d7f?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
