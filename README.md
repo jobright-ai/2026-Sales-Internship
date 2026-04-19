@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xylem](https://heimplanet.com/)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/69d5ff0f706f771673ba8be8?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 19 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Sales Research Intern](https://jobright.ai/jobs/info/69e2ce183ce36005badbfdc8?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Apr 18 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Partnership Operations Intern](https://jobright.ai/jobs/info/69ab1b4d7e1fab39d382a3da?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[Samba TV](http://www.samba.tv)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c72afc83ea553769fe151e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Western Trust](https://myfw.com/)** | **[Trust Specialist](https://jobright.ai/jobs/info/69c6b5671b5ad0288738632b?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Apr 17 |
 | **[National Life Group](https://www.nationallife.com)** | **[Internal Wholesaler - Distribution (Mandarin Speaking)](https://jobright.ai/jobs/info/697198f6333b6343a14e32b0?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Apr 17 |
 | ↳ | **[Internal Wholesaler - Distribution](https://jobright.ai/jobs/info/6971a09151f726477183f908?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Apr 17 |
-| **[Barrel One Collective](https://barrelonecollective.com)** | **[Sales and Merchandising Intern](https://jobright.ai/jobs/info/69e2b3792f28653593077bd2?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
