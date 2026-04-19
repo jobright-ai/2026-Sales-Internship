@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/69d74d8048f0c8161d2ff6a4?utm_campaign=1051&utm_source=git)** | Trumbull, CT | On Site | Apr 19 |
 | **[Xylem](https://heimplanet.com/)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/69d5ff0f706f771673ba8be8?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 19 |
+| **[Coloplast](https://www.coloplast.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e4b0117820c036924cab0b?utm_campaign=1051&utm_source=git)** | Arlington, US | On Site | Apr 19 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Sales Research Intern](https://jobright.ai/jobs/info/69e2ce183ce36005badbfdc8?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Apr 18 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Partnership Operations Intern](https://jobright.ai/jobs/info/69ab1b4d7e1fab39d382a3da?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[Samba TV](http://www.samba.tv)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c72afc83ea553769fe151e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 18 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Nonsense](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e34c4e3770bd5361cdb89a?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 17 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Intern – Corporate Development](https://jobright.ai/jobs/info/69e335f8fcfcbd43860a5e20?utm_campaign=1051&utm_source=git)** | Boise, ID | Hybrid | Apr 17 |
 | **[Fifth Avenue Co.](https://www.fifthavenuegrp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e335f83ce36005badc114b?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 17 |
-| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
-| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a76?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
+| **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a76?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
+| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
 | **[Aflac](http://www.aflac.com)** | **[Regional Practice Lead](https://jobright.ai/jobs/info/69e2e1893ce36005badc03af?utm_campaign=1051&utm_source=git)** | Columbus, GA | Remote | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e2e188fcfcbd43860a503c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Intuitive Health](https://www.iheruc.com)** | **[Intern, Real Estate Development](https://jobright.ai/jobs/info/69e2e17afcfcbd43860a4fdb?utm_campaign=1051&utm_source=git)** | Plano, TX | Remote | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Locala](https://asklocala.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69e28e2a3770bd5361cd8f02?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | Hybrid | Apr 17 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69e28e023ce36005badbeab5?utm_campaign=1051&utm_source=git)** | Mankato, MN | On Site | Apr 17 |
 | **[First Western Trust](https://myfw.com/)** | **[Trust Specialist](https://jobright.ai/jobs/info/69c6b5671b5ad0288738632b?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Apr 17 |
-| **[National Life Group](https://www.nationallife.com)** | **[Internal Wholesaler - Distribution (Mandarin Speaking)](https://jobright.ai/jobs/info/697198f6333b6343a14e32b0?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Apr 17 |
-| ↳ | **[Internal Wholesaler - Distribution](https://jobright.ai/jobs/info/6971a09151f726477183f908?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
