@@ -63,15 +63,20 @@ For a complete list, click the following sortable link below:
 | **[ATP Gov](https://atpgov.com/)** | **[ACCOUNT EXECUTIVE - VA/CIVILIAN](https://jobright.ai/jobs/info/69e5c80fe0cd471b2f122c47?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 19 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Outside Sales Specialist Intern](https://jobright.ai/jobs/info/68f1384fe6870116b1f54f43?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Teachers of Tomorrow](https://www.teachersoftomorrow.org)** | **[Client Engagement Manager](https://jobright.ai/jobs/info/69e5c7ff3cfd986aa6f82ab9?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 19 |
+| **[Give Kids The World Village](https://www.gktw.org)** | **[Development Internship](https://jobright.ai/jobs/info/69e5eeb03cfd986aa6f831ba?utm_campaign=1051&utm_source=git)** | Kissimmee, FL | On Site | Apr 19 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69e56136e0cd471b2f122980?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Apr 19 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e559a13cfd986aa6f826ee?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 19 |
-| **[Oxford Instruments GmbH](http://oxinst.com)** | **[Territory Sales Manager](https://jobright.ai/jobs/info/69ddd913aba61f14173128b6?utm_campaign=1051&utm_source=git)** | Concord, MA | On Site | Apr 19 |
+| **[Oxford Instruments GmbH](http://oxinst.com)** | **[Territory Sales Manager](https://jobright.ai/jobs/info/69e5ee847820c036924cdcb3?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Apr 19 |
+| ↳ | **[Territory Sales Manager](https://jobright.ai/jobs/info/69ddd913aba61f14173128b6?utm_campaign=1051&utm_source=git)** | Concord, MA | On Site | Apr 19 |
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[Business Development & Research Intern](https://jobright.ai/jobs/info/69e5450de0cd471b2f122696?utm_campaign=1051&utm_source=git)** | McLean, VA | On Site | Apr 19 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696a495e350cf43803113abd?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 19 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69e5ee4c3cfd986aa6f8304e?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | Apr 19 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/69e5ee7a3aa0c479643917a7?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Apr 19 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 19 |
 | ↳ | **[Bilingual International Sales Intern (Mexico)](https://jobright.ai/jobs/info/65086fe6b1e91ec1ac9bcf1c?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 19 |
 | **[Valemont Group](https://www.linkedin.com/company/109316021)** | **[Private Equity Sales Internship](https://jobright.ai/jobs/info/69e51a753aa0c47964390a2f?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 19 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d5315c366bb95ba55430c4?utm_campaign=1051&utm_source=git)** | Ehrenberg, AZ | On Site | Apr 19 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e5f6513cfd986aa6f8322a?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Apr 19 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69d5315c366bb95ba55430c4?utm_campaign=1051&utm_source=git)** | Ehrenberg, AZ | On Site | Apr 19 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69e50e3cf8fa2f3ec329e612?utm_campaign=1051&utm_source=git)** | Ontario, Canada | On Site | Apr 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8ef7195f5211cd2ceb937?utm_campaign=1051&utm_source=git)** | Bismarck, ND | On Site | Apr 19 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/691f497e3f782d2f1afb9f04?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Apr 19 |
@@ -83,6 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Development Internship](https://jobright.ai/jobs/info/69e4ff603cfd986aa6f8216c?utm_campaign=1051&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69dec966aba61f1417317b76?utm_campaign=1051&utm_source=git)** | Bensalem, PA | On Site | Apr 19 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69741ba1206da320f49e3c92?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Apr 19 |
+| ↳ | **[Sales Internship](https://jobright.ai/jobs/info/69741c0037785856350e14d1?utm_campaign=1051&utm_source=git)** | Cranberry Township, PA | On Site | Apr 19 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Youngstown, OH (Summer 2026)](https://jobright.ai/jobs/info/68e40b2f1852e62f00800754?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Apr 19 |
 | **[CertiK](https://www.certik.com/)** | **[Business Development Intern / CertiK Ambassador](https://jobright.ai/jobs/info/698f3d200f6f7e7a2ceb6065?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Apr 19 |
 | **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69c91b81e565c26a700340ab?utm_campaign=1051&utm_source=git)** | Lethbridge, Alberta, Canada | On Site | Apr 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Open Influence](https://www.openinfluence.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a76?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
 | **[Aflac](http://www.aflac.com)** | **[Regional Practice Lead](https://jobright.ai/jobs/info/69e2e1893ce36005badc03af?utm_campaign=1051&utm_source=git)** | Columbus, GA | Remote | Apr 17 |
-| **[Open Influence](https://www.openinfluence.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e2e188fcfcbd43860a503c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
-| **[Intuitive Health](https://www.iheruc.com)** | **[Intern, Real Estate Development](https://jobright.ai/jobs/info/69e2e17afcfcbd43860a4fdb?utm_campaign=1051&utm_source=git)** | Plano, TX | Remote | Apr 17 |
-| **[AllTech Services, Inc.](https://www.alltechservicesinc.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/69e32f952f28653593078cf3?utm_campaign=1051&utm_source=git)** | Sterling, VA | On Site | Apr 17 |
-| **[Birchwood Automotive Group](https://www.birchwood.ca/)** | **[PROFESSIONAL INTERN - SALES ASSISTANT](https://jobright.ai/jobs/info/69e2dbccfcfcbd43860a4f24?utm_campaign=1051&utm_source=git)** | Winnipeg, MB | On Site | Apr 17 |
-| **[Recor Medical](http://recormedical.com)** | **[Sales Operations Intern – Data & Insights](https://jobright.ai/jobs/info/69e2dbbe5c44d4710fe27377?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
-| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/69e2d6805c44d4710fe270a4?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
