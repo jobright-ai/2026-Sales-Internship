@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/69cb715da8c1822476e26b87?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Apr 19 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698512a18da7a612045f65ec?utm_campaign=1051&utm_source=git)** | Caledon, ON | Hybrid | Apr 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/69c27b5bec22f8310ab04b11?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Apr 19 |
-| **[Give Kids The World Village](https://www.gktw.org)** | **[Merchandise Operations Internship](https://jobright.ai/jobs/info/69e4ff60e0cd471b2f1223ea?utm_campaign=1051&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
-| ↳ | **[Development Internship](https://jobright.ai/jobs/info/69e4ff603cfd986aa6f8216c?utm_campaign=1051&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
+| **[Give Kids The World Village](https://www.gktw.org)** | **[Development Internship](https://jobright.ai/jobs/info/69e4ff603cfd986aa6f8216c?utm_campaign=1051&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
+| ↳ | **[Merchandise Operations Internship](https://jobright.ai/jobs/info/69e4ff60e0cd471b2f1223ea?utm_campaign=1051&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69dec966aba61f1417317b76?utm_campaign=1051&utm_source=git)** | Bensalem, PA | On Site | Apr 19 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69741ba1206da320f49e3c92?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Apr 19 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Youngstown, OH (Summer 2026)](https://jobright.ai/jobs/info/68e40b2f1852e62f00800754?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Apr 19 |
@@ -87,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Xylem](https://heimplanet.com/)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/69d5ff0f706f771673ba8be8?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 19 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69e4b9fdf8fa2f3ec329c4b4?utm_campaign=1051&utm_source=git)** | Clayton. In, US | On Site | Apr 19 |
 | **[Coloplast](https://www.coloplast.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e4b0117820c036924cab0b?utm_campaign=1051&utm_source=git)** | Arlington, US | On Site | Apr 19 |
+| **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/69c8f086b773006330b82ea6?utm_campaign=1051&utm_source=git)** | Oxnard, CA | Hybrid | Apr 18 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Sales Research Intern](https://jobright.ai/jobs/info/69e2ce183ce36005badbfdc8?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Apr 18 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Partnership Operations Intern](https://jobright.ai/jobs/info/69ab1b4d7e1fab39d382a3da?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[Samba TV](http://www.samba.tv)** | **[Business Development Intern](https://jobright.ai/jobs/info/69c72afc83ea553769fe151e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nextpower](https://nextpower.com/)** | **[Sales Analyst Intern, Account Team](https://jobright.ai/jobs/info/69e2cde9be46fa3a4ef58e33?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Apr 17 |
 | **[Anta](https://anta.com/en/index.php)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e2cde53ce36005badbfcc9?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Hybrid | Apr 17 |
 | **[TicketNetwork](http://www.ticketnetwork.com)** | **[Originations Intern](https://jobright.ai/jobs/info/69e4c1d0e0cd471b2f121740?utm_campaign=1051&utm_source=git)** | Los Angeles, CA 90045, USA | On Site | Apr 17 |
-| **[Risewell Homes](http://www.risewellhomes.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69e2e3dc5c44d4710fe2752f?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
