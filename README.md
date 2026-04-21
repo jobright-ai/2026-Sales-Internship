@@ -57,7 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Internship - Sioux Falls, SD - Summer 2026](https://jobright.ai/jobs/info/69e7a5287820c036924d78ea?utm_campaign=1051&utm_source=git)** | Sioux Falls | On Site | Apr 21 |
+| ↳ | **[Sales Management Trainee Internship - Sioux Falls, SD - Summer 2026](https://jobright.ai/jobs/info/69e7a4f658811370cb11dc3f?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD, US | On Site | Apr 21 |
+| **[Mark43](http://mark43.com)** | **[Sales Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69e7a43a3aa0c4796439b212?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 21 |
+| **[SentinelOne](http://www.sentinelone.com)** | **[Customer Outcomes Operations Intern](https://jobright.ai/jobs/info/69e7a42d58811370cb11dc26?utm_campaign=1051&utm_source=git)** | United States - Remote | Remote | Apr 21 |
+| **[RRD](https://www.rrd.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e7a2d67820c036924d7894?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 21 |
+| **[The Zest Lab](https://thezestlab.com )** | **[Account Coordinator Internship](https://jobright.ai/jobs/info/69e7a2c458811370cb11db98?utm_campaign=1051&utm_source=git)** | Richmond, VA | Hybrid | Apr 21 |
+| **[Vector Marketing](https://vectormarketing.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e7a2b658811370cb11db42?utm_campaign=1051&utm_source=git)** | Hamilton, NJ | Hybrid | Apr 21 |
+| **[Mercer Company](https://mercer-company.com/)** | **[2026 Marsh Summer Intern - New York](https://jobright.ai/jobs/info/69e7a2b10a6e09555302b88f?utm_campaign=1051&utm_source=git)** | New York - 1166 | Hybrid | Apr 21 |
+| **[CoreSite](http://www.coresite.com)** | **[Senior Sales Operations Analyst (1897)](https://jobright.ai/jobs/info/69d7abce738f2f099e8958db?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Apr 21 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Advertising & Partnerships Sales and Sales Support Internships – Academic Year](https://jobright.ai/jobs/info/69e7a2563aa0c4796439b19c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 21 |
+| **[Group Management Services, Inc.](https://www.groupmgmt.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e7a2370a6e09555302b7c6?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Apr 21 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/69e5fd6bf8fa2f3ec329f4fc?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Apr 21 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Retail Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69e79b7f58811370cb11d978?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
+| **[HMH](http://www.hmhco.com)** | **[ELD & Intervention Account Executive - Small Accounts](https://jobright.ai/jobs/info/69d95a44f748bc5d08a4aa16?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 21 |
 | **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Sales Intern](https://jobright.ai/jobs/info/69e7937be0cd471b2f12c742?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Apr 21 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Advertising & Partnerships Sales and Sales Support Internships – Academic Year](https://jobright.ai/jobs/info/69e79376e0cd471b2f12c720?utm_campaign=1051&utm_source=git)** | Universal City, CA | On Site | Apr 21 |
 | **[Group Management Services, Inc.](https://www.groupmgmt.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e79366e0cd471b2f12c6d6?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Apr 21 |
@@ -69,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Partner Operations](https://jobright.ai/jobs/info/6996490b81476f6176ae0ac7?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Apr 21 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Field Sales Intern - Southeast](https://jobright.ai/jobs/info/69caded5aa3c2c1995e3121f?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Apr 21 |
 | **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Retail Operations](https://jobright.ai/jobs/info/69cbe9ed366bb95ba54eca96?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Apr 21 |
+| **[Patrick Danielson State Farm](http://www.myagentpat.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69e7a2937820c036924d77c2?utm_campaign=1051&utm_source=git)** | Spring, TX | On Site | Apr 21 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Field Sales Intern - Midwest](https://jobright.ai/jobs/info/69cade9d8fc6090c5d4520e8?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Apr 21 |
 | **[MAA](https://ir.maac.com)** | **[Summer Internship Opportunity / Raleigh Property Management](https://jobright.ai/jobs/info/69cac7341b5ad028873a4bd4?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 21 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Intern](https://jobright.ai/jobs/info/69e76a68e0cd471b2f12b807?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Apr 21 |
@@ -138,23 +152,9 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69e697c13aa0c47964395069?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 20 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69e695f2f8fa2f3ec32a2ac4?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 20 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Procurement Business Partner Intern](https://jobright.ai/jobs/info/69e6f2239b6eb37e26f82a3d?utm_campaign=1051&utm_source=git)** | Oakland | Hybrid | Apr 20 |
-| ↳ | **[Procurement Business Partner Intern](https://jobright.ai/jobs/info/69e6f1e33aa0c47964396840?utm_campaign=1051&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 20 |
 | ↳ | **[Procurement Business Partner Intern](https://jobright.ai/jobs/info/69e6f2277820c036924d2cbb?utm_campaign=1051&utm_source=git)** | San Luis Obispo | Hybrid | Apr 20 |
+| ↳ | **[Procurement Business Partner Intern](https://jobright.ai/jobs/info/69e6f1e33aa0c47964396840?utm_campaign=1051&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69e692b7f8fa2f3ec32a2a68?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Apr 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69e69216e0cd471b2f126835?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Apr 20 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Retail Operations Intern](https://jobright.ai/jobs/info/69e691c23cfd986aa6f8697e?utm_campaign=1051&utm_source=git)** | Des Peres, MO | On Site | Apr 20 |
-| **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Laramie, WY - Summer 2026)](https://jobright.ai/jobs/info/69e69195f8fa2f3ec32a28c8?utm_campaign=1051&utm_source=git)** | Laramie, WY | On Site | Apr 20 |
-| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Intern / Hustling, Learning, and Driving Results](https://jobright.ai/jobs/info/69e691413aa0c47964394d62?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 20 |
-| **[Nielsen](https://www.nielsen.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e6f22ae0cd471b2f128069?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Apr 20 |
-| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e6ab739b6eb37e26f81ae6?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Apr 20 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a495e350cf43803113abd?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
-| **[Pretium Enterprise Services, India](www.pretium.com)** | **[Internship - Mortgage Servicing](https://jobright.ai/jobs/info/69e68e999b6eb37e26f80f1a?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Apr 20 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Commercial Lines Intern](https://jobright.ai/jobs/info/69e68c4ef8fa2f3ec32a271d?utm_campaign=1051&utm_source=git)** | Canton MA | On Site | Apr 20 |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall, Commercial Banking- Relationship Manager Student Intern (4 months)](https://jobright.ai/jobs/info/69e6b57c3aa0c47964395b32?utm_campaign=1051&utm_source=git)** | SURREY, British Columbia, Canada | On Site | Apr 20 |
-| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Partnership Closer Intern](https://jobright.ai/jobs/info/69e689b1f8fa2f3ec32a26a5?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 20 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69e689473aa0c47964394bc4?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 20 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfb89ae34484770f1a9e3a?utm_campaign=1051&utm_source=git)** | Athens, GA | Remote | Apr 20 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dec962aba61f1417317b67?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Apr 20 |
-| **[Towson University](http://www.towson.edu/)** | **[Senior Associate Athletics Director-Development](https://jobright.ai/jobs/info/69e68321f8fa2f3ec32a24cb?utm_campaign=1051&utm_source=git)** | Towson, MD | On Site | Apr 20 |
-| **[Southwest Utility Solutions](https://www.swutilitysolutions.com)** | **[Sales Assistant Internship](https://jobright.ai/jobs/info/69e6828a3aa0c479643949f1?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
