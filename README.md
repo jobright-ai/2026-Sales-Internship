@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mymir](https://mymir.ai/)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/69e70ed73aa0c47964396a76?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 20 |
+| **[Alibaba.com](https://www.alibaba.com)** | **[GTM & Partnerships Intern](https://jobright.ai/jobs/info/69e71c9c3aa0c47964396e2b?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Apr 20 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Agency Partnerships - Remote Intern](https://jobright.ai/jobs/info/69e715e33aa0c47964396d10?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 20 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Technical Business Development Internship (Summer 2026)](https://jobright.ai/jobs/info/69e6ff7b3aa0c47964396a40?utm_campaign=1051&utm_source=git)** | Pleasanton, CA | On Site | Apr 20 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/695c3ab222c9dc0d3d54195c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 20 |
-| **[ZoodleApp](www.zoodleapp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e6f7877820c036924d2d38?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 20 |
+| **[RBC](https://www.rbc.com)** | **[2026 Fall, Commercial Banking- Relationship Manager Student Intern](https://jobright.ai/jobs/info/69e71602f8fa2f3ec32a4820?utm_campaign=1051&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Apr 20 |
+| ↳ | **[2026 Fall, Commercial Banking - Relationship Manager Student Intern](https://jobright.ai/jobs/info/69e71602f8fa2f3ec32a481e?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
+| ↳ | **[2026 Fall, Commercial Banking -  Commercial Banking Advisor Student Intern](https://jobright.ai/jobs/info/69e7170fe0cd471b2f128593?utm_campaign=1051&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Apr 20 |
 | **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Mortgage Operations Intern (Summer Temp)](https://jobright.ai/jobs/info/69e6f15d9b6eb37e26f829ed?utm_campaign=1051&utm_source=git)** | Sartell, MN | On Site | Apr 20 |
 | **[Carolina Core FC](https://www.carolinacorefc.com)** | **[Sales Academy Executive (Internship Program)](https://jobright.ai/jobs/info/69e6f1483aa0c47964396791?utm_campaign=1051&utm_source=git)** | High Point, NC | On Site | Apr 20 |
 | **[Nielsen](https://www.nielsen.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e6ec243aa0c479643964d1?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[ASPIRE Commercial Banking - Indigenous Financial Services - Fall 2026 Co-op / Internship](https://jobright.ai/jobs/info/69e716cce0cd471b2f128538?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
 | **[Veoneer](https://www.veoneer.com/en/technology)** | **[Sales Intern](https://jobright.ai/jobs/info/69e6e38d3aa0c47964396435?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | Apr 20 |
 | **[DSplus](https://dsplus.co/)** | **[Intern, Account](https://jobright.ai/jobs/info/69e1357bacc736112f5c25f0?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Apr 20 |
 | **[Islamic Relief Canada](https://www.islamicreliefcanada.org/)** | **[Charity Shop Coordinator - Summer Internship](https://jobright.ai/jobs/info/69e70e37f8fa2f3ec32a4557?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | Hybrid | Apr 20 |
@@ -83,6 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Fall, Personal Banking- Client Advisor Student Intern (4 Months)](https://jobright.ai/jobs/info/69e6b5ec9b6eb37e26f81d24?utm_campaign=1051&utm_source=git)** | 1586 JOHNSTON RD, UNIT 1:WHITE ROCK | On Site | Apr 20 |
 | **[CED](http://www.cedcareers.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e6b483f8fa2f3ec32a3587?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Apr 20 |
 | **[Cosm](https://www.cosm.com)** | **[Venue Sales Intern](https://jobright.ai/jobs/info/69e6b3c69b6eb37e26f81c0a?utm_campaign=1051&utm_source=git)** | Inglewood, CA | Hybrid | Apr 20 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[ASPIRE Commercial Banking - Indigenous Financial Services - Fall 2026 Co-op / Internship](https://jobright.ai/jobs/info/69e713e4e0cd471b2f12850a?utm_campaign=1051&utm_source=git)** | Toronto, ON, CA | On Site | Apr 20 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall, Commercial Banking -  Commercial Banking Advisor Student Intern (4  months)](https://jobright.ai/jobs/info/69e6aa9b9b6eb37e26f819a2?utm_campaign=1051&utm_source=git)** | OSHAWA, Ontario, Canada | On Site | Apr 20 |
 | ↳ | **[2026 Fall, Commercial Banking - Relationship Manager Student Intern (4 months)](https://jobright.ai/jobs/info/69e6aa703aa0c47964395797?utm_campaign=1051&utm_source=git)** | MONTRÉAL, Quebec, Canada | On Site | Apr 20 |
 | **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[Intern](https://jobright.ai/jobs/info/69e6a896e0cd471b2f126fda?utm_campaign=1051&utm_source=git)** | Lincoln, NE, US | On Site | Apr 20 |
@@ -107,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Laramie, WY - Summer 2026)](https://jobright.ai/jobs/info/69e69195f8fa2f3ec32a28c8?utm_campaign=1051&utm_source=git)** | Laramie, WY | On Site | Apr 20 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Intern / Hustling, Learning, and Driving Results](https://jobright.ai/jobs/info/69e691413aa0c47964394d62?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 20 |
 | **[Nielsen](https://www.nielsen.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e6f22ae0cd471b2f128069?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Apr 20 |
-| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696a495e350cf43803113abd?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e6ab739b6eb37e26f81ae6?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Apr 20 |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e6ab739b6eb37e26f81ae6?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Apr 20 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a495e350cf43803113abd?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
 | **[Pretium Enterprise Services, India](www.pretium.com)** | **[Internship - Mortgage Servicing](https://jobright.ai/jobs/info/69e68e999b6eb37e26f80f1a?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Apr 20 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Commercial Lines Intern](https://jobright.ai/jobs/info/69e68c4ef8fa2f3ec32a271d?utm_campaign=1051&utm_source=git)** | Canton MA | On Site | Apr 20 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall, Commercial Banking- Relationship Manager Student Intern (4 months)](https://jobright.ai/jobs/info/69e6b57c3aa0c47964395b32?utm_campaign=1051&utm_source=git)** | SURREY, British Columbia, Canada | On Site | Apr 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brightroc Marketing](brightrocmarketing.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/69e673b93cfd986aa6f85c3d?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Apr 20 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Generalist Intern](https://jobright.ai/jobs/info/69e6527f9b6eb37e26f7f73c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 20 |
 | **[Popmenu](https://get.popmenu.com)** | **[Sales Development Summer Internship (NYC)](https://jobright.ai/jobs/info/69e652113cfd986aa6f84de9?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 20 |
-| **[Eagle Carriers of South Florida, LLC](https://www.eaglecarriers.net)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/69e64ce73aa0c47964393122?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Apr 20 |
-| **[International Pool & Spa Centers](https://interpools.com)** | **[E-Commerce Support Intern](https://jobright.ai/jobs/info/69e649ed7820c036924cf532?utm_campaign=1051&utm_source=git)** | North York, Ontario, Canada | On Site | Apr 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/69ba91193b74eb1e2c888fbd?utm_campaign=1051&utm_source=git)** | Natchitoches, LA | On Site | Apr 20 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Supply Chain Management - Sales Organization](https://jobright.ai/jobs/info/69aaa3082ebd316bece26ab2?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 20 |
-| ↳ | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/69dd8a1c61f6ed54321fdc31?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
