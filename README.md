@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Risewell Homes](http://www.risewellhomes.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e6c0d07820c036924d2230?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Apr 20 |
+| **[CouponDonation](http://www.coupondonation.com)** | **[Sales Internship - Summer (Unpaid)](https://jobright.ai/jobs/info/69e6beac9b6eb37e26f81eae?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 20 |
 | **[Printerior](https://printeriordesigns.com)** | **[Business Development & Sales Intern](https://jobright.ai/jobs/info/69e6bab23cfd986aa6f8766d?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Apr 20 |
 | **[Risewell Homes](http://www.risewellhomes.com)** | **[Land Acquisition Intern](https://jobright.ai/jobs/info/69e6bab13cfd986aa6f8765f?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 20 |
 | **[Relay Media Consultants](relaymediaconsultants.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69e6bab13cfd986aa6f87661?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | Hybrid | Apr 20 |
-| **[Corsair](http://www.corsair.com)** | **[Data Scientist Intern - E-commerce](https://jobright.ai/jobs/info/69e6b91c3cfd986aa6f87614?utm_campaign=1051&utm_source=git)** | Milpitas, CA | On Site | Apr 20 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall, Personal Banking- Client Advisor Student Intern (4 Months)](https://jobright.ai/jobs/info/69e6b88ff8fa2f3ec32a35e8?utm_campaign=1051&utm_source=git)** | RICHMOND, British Columbia, Canada | On Site | Apr 20 |
 | ↳ | **[2026 Fall, Personal Banking- Client Advisor Student Intern (4 Months)](https://jobright.ai/jobs/info/69e6b5ec9b6eb37e26f81d24?utm_campaign=1051&utm_source=git)** | 1586 JOHNSTON RD, UNIT 1:WHITE ROCK | On Site | Apr 20 |
 | **[CED](http://www.cedcareers.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e6b483f8fa2f3ec32a3587?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Apr 20 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Commercial Operations Internship, LATAM](https://jobright.ai/jobs/info/69deae3718cf504166e2f321?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 20 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e681f3e0cd471b2f12631f?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Apr 20 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Intern](https://jobright.ai/jobs/info/69e680573cfd986aa6f8633f?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 20 |
-| **[Taylor Corporation](https://www.taylor.com/)** | **[Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/69e680513aa0c4796439495d?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN - Taylor Corporation | On Site | Apr 20 |
 | **[AARP](http://www.aarp.org)** | **[Startup Account Management Intern](https://jobright.ai/jobs/info/69bc5d814828227293fe19f8?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Apr 20 |
 | **[JDA Worldwide](http://www.jdaworldwide.com/)** | **[Sales & Marketing Summer Intern](https://jobright.ai/jobs/info/69e67b94f8fa2f3ec32a2016?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 20 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern - Summer 2026](https://jobright.ai/jobs/info/69e67b93f8fa2f3ec32a200f?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 20 |
@@ -117,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/69e65f733cfd986aa6f85436?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Apr 20 |
 | ↳ | **[SAP iXp Intern - Supply Chain Management - Sales Organization](https://jobright.ai/jobs/info/69e65f61f8fa2f3ec32a156f?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 20 |
 | **[ALLO Fiber](http://www.allocommunications.com)** | **[First Impression Specialist Intern](https://jobright.ai/jobs/info/69e65f463aa0c47964393a6b?utm_campaign=1051&utm_source=git)** | North Platte, NE 702 | On Site | Apr 20 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Advertising & Partnerships Sales and Sales Support Internships – Academic Year](https://jobright.ai/jobs/info/69e65f2a9b6eb37e26f7fd3a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 20 |
-| ↳ | **[Platform Distribution & Partnerships Internship – Academic Year](https://jobright.ai/jobs/info/69e65f2a9b6eb37e26f7fd3f?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 20 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Platform Distribution & Partnerships Internship – Academic Year](https://jobright.ai/jobs/info/69e65f2a9b6eb37e26f7fd3f?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 20 |
+| ↳ | **[Advertising & Partnerships Sales and Sales Support Internships – Academic Year](https://jobright.ai/jobs/info/69e65f2a9b6eb37e26f7fd3a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 20 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Metro New Jersey)](https://jobright.ai/jobs/info/69e65f07f8fa2f3ec32a14d3?utm_campaign=1051&utm_source=git)** | Warren, NJ, United States | On Site | Apr 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/69355e06f131d96e4846e1e4?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Apr 20 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69d80ecbb861c42857c485a7?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Apr 20 |
