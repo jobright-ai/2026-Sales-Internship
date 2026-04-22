@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Make-A-Wish Canada](https://makeawish.ca)** | **[Fundraising Intern - Grants & Foundations](https://jobright.ai/jobs/info/69e883d64b0fa35a70766a38?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | Hybrid | Apr 22 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Sales Intern (Summer 2026 - KOMO)](https://jobright.ai/jobs/info/69e872dde0cd471b2f13557c?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 22 |
 | **[Tropicana Brands Group](https://www.tropicanabrandsgroup.com)** | **[Sales Operations/Customer Service Intern](https://jobright.ai/jobs/info/69e86c304b0fa35a70766704?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Apr 21 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Sales Intern (Summer 2026 - WKRC)](https://jobright.ai/jobs/info/69e86c26e0cd471b2f135410?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Apr 21 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/69e87a097820c036924e0275?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Apr 21 |
 | **[Amerita, Inc](http://www.ameritaiv.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e84f7ae0cd471b2f131021?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Apr 21 |
 | ↳ | **[Sales Ops Intern](https://jobright.ai/jobs/info/69e84f737820c036924dbc1b?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Apr 21 |
-| **[F50.AI](http://f50.io)** | **[Startup Analyst Intern](https://jobright.ai/jobs/info/69e8493e4b0fa35a70762284?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Apr 21 |
 | **[LOFT](https://www.loft.com/)** | **[Spring Retail Management Internship](https://jobright.ai/jobs/info/69e848a00a6e09555302fc40?utm_campaign=1051&utm_source=git)** | Chestnut Hill, MA | On Site | Apr 21 |
 | **[VMI Worldwide](http://vmiworldwide.com)** | **[North American Distribution Intern](https://jobright.ai/jobs/info/69e848960a6e09555302fc00?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
 | **[Florida Everblades Professional Hockey Club](http://floridaeverblades.com)** | **[Sales Internship - 2026/2027 Season](https://jobright.ai/jobs/info/69e8486b0a6e09555302faea?utm_campaign=1051&utm_source=git)** | Estero, FL | On Site | Apr 21 |
