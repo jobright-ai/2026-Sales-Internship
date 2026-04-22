@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Business Development & Operations Intern](https://jobright.ai/jobs/info/69e85d9b3aa0c479643a2f9c?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Apr 21 |
+| **[First Bank & Trust](http://bankeasy.com)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/69e29dcefcfcbd43860a3abf?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Apr 21 |
+| **[Datawatch Systems](http://www.datawatchsystems.com/)** | **[College Intern 2026](https://jobright.ai/jobs/info/69e85cd94b0fa35a70766413?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | Apr 21 |
 | **[Amerita, Inc](http://www.ameritaiv.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e84f7ae0cd471b2f131021?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Apr 21 |
 | ↳ | **[Sales Ops Intern](https://jobright.ai/jobs/info/69e84f737820c036924dbc1b?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Apr 21 |
 | **[F50.AI](http://f50.io)** | **[Startup Analyst Intern](https://jobright.ai/jobs/info/69e8493e4b0fa35a70762284?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Apr 21 |
@@ -134,7 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e7e9f8e0cd471b2f12e26e?utm_campaign=1051&utm_source=git)** | North Little Rock, AR | On Site | Apr 21 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e7e9f8e0cd471b2f12e26a?utm_campaign=1051&utm_source=git)** | Wichita Falls, TX | On Site | Apr 21 |
 | **[S&P Global](https://www.spglobal.com)** | **[Polk Auto Solutions Customer Success Intern](https://jobright.ai/jobs/info/69e7b2ee3aa0c4796439b686?utm_campaign=1051&utm_source=git)** | Michigan, US | On Site | Apr 21 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e7e8300a6e09555302cf02?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Apr 21 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e7e8300a6e09555302cf04?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Apr 21 |
 | **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69e7e21b7820c036924d8b98?utm_campaign=1051&utm_source=git)** | Baltimore, MD | Remote | Apr 21 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e7e222f8fa2f3ec32aa10b?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | Apr 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Business Development & Operations Intern](https://jobright.ai/jobs/info/69e7b0247820c036924d7ce2?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA, USA | On Site | Apr 21 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69c2e43494007a2195def39f?utm_campaign=1051&utm_source=git)** | Orlando, FL | Remote | Apr 21 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69c2e43094007a2195def393?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Apr 21 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c2e42b94007a2195def37a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Apr 21 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c2e48aec22f8310ab0dff7?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Apr 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69c2e42c753c101b21564a59?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | Apr 21 |
-| **[RRD](https://www.rrd.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e7a2d67820c036924d7894?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 21 |
-| **[The Zest Lab](https://thezestlab.com )** | **[Account Coordinator Internship](https://jobright.ai/jobs/info/69e7a2c458811370cb11db98?utm_campaign=1051&utm_source=git)** | Richmond, VA | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
