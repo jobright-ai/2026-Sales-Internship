@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[barrière](https://www.mybarriere.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69e8989a4b0fa35a70767125?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Apr 22 |
+| **[Colliers](http://www.colliers.com)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/69cc7faacfdc6132f940d47a?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Apr 22 |
 | **[Make-A-Wish Canada](https://makeawish.ca)** | **[Fundraising Intern - Grants & Foundations](https://jobright.ai/jobs/info/69e883d64b0fa35a70766a38?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | Hybrid | Apr 22 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Sales Intern (Summer 2026 - KOMO)](https://jobright.ai/jobs/info/69e872dde0cd471b2f13557c?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 22 |
 | **[Tropicana Brands Group](https://www.tropicanabrandsgroup.com)** | **[Sales Operations/Customer Service Intern](https://jobright.ai/jobs/info/69e86c304b0fa35a70766704?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Apr 21 |
@@ -112,12 +114,12 @@ For a complete list, click the following sortable link below:
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Sales Assistant / Summer Internship (Private Jets)](https://jobright.ai/jobs/info/69e7d3edf8fa2f3ec32a9c3a?utm_campaign=1051&utm_source=git)** | Nassau County, NY | On Site | Apr 21 |
 | **[Riverside Insights](https://www.riversideinsights.com)** | **[Account Executive, ImPACT](https://jobright.ai/jobs/info/69e80b6e0a6e09555302df56?utm_campaign=1051&utm_source=git)** | Washington, DC | Remote | Apr 21 |
 | **[Total Beverage Solution](https://www.totalbeveragesolution.com/)** | **[Rotational Business Analyst Internship](https://jobright.ai/jobs/info/69e7d39a7820c036924d874f?utm_campaign=1051&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Apr 21 |
-| **[Foothill Credit Union](https://www.foothillcu.org)** | **[Business Development Internship](https://jobright.ai/jobs/info/69e7f9a058811370cb11f9b6?utm_campaign=1051&utm_source=git)** | Arcadia, CA | On Site | Apr 21 |
-| ↳ | **[Consumer Lending Internship](https://jobright.ai/jobs/info/69e7f7ccf8fa2f3ec32aaab9?utm_campaign=1051&utm_source=git)** | Arcadia, CA | On Site | Apr 21 |
+| **[Foothill Credit Union](https://www.foothillcu.org)** | **[Consumer Lending Internship](https://jobright.ai/jobs/info/69e7f7ccf8fa2f3ec32aaab9?utm_campaign=1051&utm_source=git)** | Arcadia, CA | On Site | Apr 21 |
+| ↳ | **[Business Development Internship](https://jobright.ai/jobs/info/69e7f9a058811370cb11f9b6?utm_campaign=1051&utm_source=git)** | Arcadia, CA | On Site | Apr 21 |
 | **[PrimeWave Marketing](PrimeWaveMarketing.org)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/69e7d3753aa0c4796439c067?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Apr 21 |
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Sales Assistant / Summer Internship (Private Jets)](https://jobright.ai/jobs/info/69e7d3660a6e09555302c6c1?utm_campaign=1051&utm_source=git)** | Uniondale, NY | On Site | Apr 21 |
-| **[KnowBe4](http://www.KnowBe4.com)** | **[Sales Development Intern (Hybrid)](https://jobright.ai/jobs/info/69e7d3650a6e09555302c6b3?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | Apr 21 |
-| ↳ | **[Sales Development Representative Intern (Hybrid)](https://jobright.ai/jobs/info/69e7d36558811370cb11ea90?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | Apr 21 |
+| **[KnowBe4](http://www.KnowBe4.com)** | **[Sales Development Representative Intern (Hybrid)](https://jobright.ai/jobs/info/69e7d36558811370cb11ea90?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | Apr 21 |
+| ↳ | **[Sales Development Intern (Hybrid)](https://jobright.ai/jobs/info/69e7d3650a6e09555302c6b3?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | Apr 21 |
 | **[Foothill Credit Union](https://www.foothillcu.org)** | **[Business Development Internship](https://jobright.ai/jobs/info/69e7f96d0a6e09555302d68c?utm_campaign=1051&utm_source=git)** | Arcadia, California | On Site | Apr 21 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Laconia NH](https://jobright.ai/jobs/info/69e7cd95f8fa2f3ec32a9a72?utm_campaign=1051&utm_source=git)** | Laconia, NH | On Site | Apr 21 |
 | ↳ | **[Sales Intern Myrtle Beach SC](https://jobright.ai/jobs/info/69e7cd5d58811370cb11e72e?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Apr 21 |
@@ -142,7 +144,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e7e9f8e0cd471b2f12e26e?utm_campaign=1051&utm_source=git)** | North Little Rock, AR | On Site | Apr 21 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e7e9f8e0cd471b2f12e26a?utm_campaign=1051&utm_source=git)** | Wichita Falls, TX | On Site | Apr 21 |
 | **[S&P Global](https://www.spglobal.com)** | **[Polk Auto Solutions Customer Success Intern](https://jobright.ai/jobs/info/69e7b2ee3aa0c4796439b686?utm_campaign=1051&utm_source=git)** | Michigan, US | On Site | Apr 21 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e7e8300a6e09555302cf04?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Apr 21 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69e7e8300a6e09555302cf02?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Apr 21 |
 | **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69e7e21b7820c036924d8b98?utm_campaign=1051&utm_source=git)** | Baltimore, MD | Remote | Apr 21 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e7e222f8fa2f3ec32aa10b?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | Apr 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Business Development & Operations Intern](https://jobright.ai/jobs/info/69e7b0247820c036924d7ce2?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA, USA | On Site | Apr 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[Center of Excellence Intern - Thurgood Marshall College Fund](https://jobright.ai/jobs/info/69e7ea1fe0cd471b2f12e30d?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | Apr 21 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Internship - Sioux Falls, SD - Summer 2026](https://jobright.ai/jobs/info/69e7a5287820c036924d78ea?utm_campaign=1051&utm_source=git)** | Sioux Falls | On Site | Apr 21 |
 | ↳ | **[Sales Management Trainee Internship - Sioux Falls, SD - Summer 2026](https://jobright.ai/jobs/info/69e7a4f658811370cb11dc3f?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD, US | On Site | Apr 21 |
-| **[Mark43](http://mark43.com)** | **[Sales Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69e7a43a3aa0c4796439b212?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 21 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[Customer Outcomes Operations Intern](https://jobright.ai/jobs/info/69e7a42d58811370cb11dc26?utm_campaign=1051&utm_source=git)** | United States - Remote | Remote | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
