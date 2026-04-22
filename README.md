@@ -144,8 +144,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69c2e43494007a2195def39f?utm_campaign=1051&utm_source=git)** | Orlando, FL | Remote | Apr 21 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69c2e43094007a2195def393?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Apr 21 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c2e42b94007a2195def37a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Apr 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69c2e42c753c101b21564a59?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | Apr 21 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c2e48aec22f8310ab0dff7?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Apr 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69c2e42c753c101b21564a59?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | Apr 21 |
 | **[RRD](https://www.rrd.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e7a2d67820c036924d7894?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 21 |
 | **[The Zest Lab](https://thezestlab.com )** | **[Account Coordinator Internship](https://jobright.ai/jobs/info/69e7a2c458811370cb11db98?utm_campaign=1051&utm_source=git)** | Richmond, VA | Hybrid | Apr 21 |
 | **[Vector Marketing](https://vectormarketing.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69e7a2b658811370cb11db42?utm_campaign=1051&utm_source=git)** | Hamilton, NJ | Hybrid | Apr 21 |
