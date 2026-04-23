@@ -81,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Gap Inc.](https://www.gapinc.com/en-us/)** | **[Intern- Gap Store Operations, Retail Strategies](https://jobright.ai/jobs/info/69e94a35e0cd471b2f13c5d8?utm_campaign=1051&utm_source=git)** | NY 55 Thomas St, US | On Site | Apr 22 |
 | **[Blackfoot Communications](http://www.blackfoot.com)** | **[Sales Intern  (Temp Summer Position)](https://jobright.ai/jobs/info/69e977e34b0fa35a7076e8c5?utm_campaign=1051&utm_source=git)** | Missoula, MT, US | On Site | Apr 22 |
 | **[Wefunder](http://www.wefunder.com)** | **[Internship - Customer Success](https://jobright.ai/jobs/info/69e977837820c036924e82a9?utm_campaign=1051&utm_source=git)** | San Francisco, CA, US | On Site | Apr 22 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Land Acquisition Intern](https://jobright.ai/jobs/info/69e9796ce0cd471b2f13e02a?utm_campaign=1051&utm_source=git)** | Fresno | Hybrid | Apr 22 |
-| ↳ | **[Land Acquisition Intern](https://jobright.ai/jobs/info/69e9796d3aa0c479643aa93c?utm_campaign=1051&utm_source=git)** | Oakland | Hybrid | Apr 22 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Land Acquisition Intern](https://jobright.ai/jobs/info/69e9796d3aa0c479643aa93c?utm_campaign=1051&utm_source=git)** | Oakland | Hybrid | Apr 22 |
+| ↳ | **[Land Acquisition Intern](https://jobright.ai/jobs/info/69e9796ce0cd471b2f13e02a?utm_campaign=1051&utm_source=git)** | Fresno | Hybrid | Apr 22 |
 | ↳ | **[Land Acquisition Intern](https://jobright.ai/jobs/info/69e9795d0a6e09555303c6ea?utm_campaign=1051&utm_source=git)** | Sacramento | Hybrid | Apr 22 |
 | ↳ | **[Land Acquisition Intern](https://jobright.ai/jobs/info/69e9796858811370cb12dffb?utm_campaign=1051&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 22 |
 | **[Nightwing](nightwing.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e93c1458811370cb12c05e?utm_campaign=1051&utm_source=git)** | Sterling, VA, US | On Site | Apr 22 |
@@ -98,12 +98,12 @@ For a complete list, click the following sortable link below:
 | **[Venture Home](https://venturesolar.com/)** | **[Business Development Associate (Paid Internship)](https://jobright.ai/jobs/info/69e979c04b0fa35a7076f1a9?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Apr 22 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Dallas, TX)](https://jobright.ai/jobs/info/69e9507858811370cb12c9ad?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 22 |
 | **[Continental](https://www.continental.com)** | **[Field Sales Trainee - Tires, PLT](https://jobright.ai/jobs/info/69e95cb97820c036924e7aa8?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Apr 22 |
-| **[FCX Performance](http://fcxperformance.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/69e95d1e3aa0c479643a9846?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Apr 22 |
-| ↳ | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/69ae6ced4f6bcc18280996cd?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Apr 22 |
+| **[FCX Performance](http://fcxperformance.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/69ae6ced4f6bcc18280996cd?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Apr 22 |
+| ↳ | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/69e95d1e3aa0c479643a9846?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Apr 22 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern*](https://jobright.ai/jobs/info/69e92e713aa0c479643a82ea?utm_campaign=1051&utm_source=git)** | Oak Brook, Illinois, United States of America | On Site | Apr 22 |
 | **[Parts Town](https://www.partstown.com)** | **[Customer Insights & Success Intern](https://jobright.ai/jobs/info/69e9798e3aa0c479643aa9e8?utm_campaign=1051&utm_source=git)** | Addison, Illinois | Hybrid | Apr 22 |
-| **[ADP Brazil Labs](https://tech.adp.com/careers/locations/brazil/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/69e977d0e0cd471b2f13d850?utm_campaign=1051&utm_source=git)** | Tampa, FL, 33609, United States | On Site | Apr 22 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69e977c80a6e09555303bff2?utm_campaign=1051&utm_source=git)** | Fort Myers, FL, 33913, United States | On Site | Apr 22 |
+| **[ADP Brazil Labs](https://tech.adp.com/careers/locations/brazil/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/69e977c80a6e09555303bff2?utm_campaign=1051&utm_source=git)** | Fort Myers, FL, 33913, United States | On Site | Apr 22 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69e977d0e0cd471b2f13d850?utm_campaign=1051&utm_source=git)** | Tampa, FL, 33609, United States | On Site | Apr 22 |
 | **[Parts Town](https://www.partstown.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69e94e5c4b0fa35a7076d757?utm_campaign=1051&utm_source=git)** | DuPage County, IL | Hybrid | Apr 22 |
 | **[Elementrailer](http://elementrailer.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e94e1e0a6e09555303af5a?utm_campaign=1051&utm_source=git)** | Greater Seattle Area | Hybrid | Apr 22 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Portland ME](https://jobright.ai/jobs/info/69e923b30a6e09555303985f?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | Apr 22 |
@@ -120,8 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Revilo Technologies](www.reviloautocare.com)** | **[Sales Intern for  U.S.-Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/69e918810a6e095553038c24?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 22 |
 | **[Provident](http://www.providentrealty.net/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69e979b34b0fa35a7076f193?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 22 |
 | **[RTW Foundation](https://www.rtwf.org)** | **[Relationship Coordinator Internship, Rare Disease](https://jobright.ai/jobs/info/69e914334b0fa35a7076b4fc?utm_campaign=1051&utm_source=git)** | New York | On Site | Apr 22 |
-| **[Victaulic](https://www.victaulic.com)** | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/69b027ae0b2db6275c03972e?utm_campaign=1051&utm_source=git)** | Maryland, United States | On Site | Apr 22 |
-| ↳ | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/69e956d04b0fa35a7076dbad?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | On Site | Apr 22 |
+| **[Victaulic](https://www.victaulic.com)** | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/69e956d04b0fa35a7076dbad?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | On Site | Apr 22 |
 | **[PediaMetrix](http://www.pediametrix.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e94e407820c036924e733a?utm_campaign=1051&utm_source=git)** | Rockville, MD | On Site | Apr 22 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[(NEX LITTLE CREEK) SPECIALTY SALES ASSOCIATE - HOME GALLERY](https://jobright.ai/jobs/info/69e2b37f5c44d4710fe26598?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 22 |
 | **[RTW Foundation](https://www.rtwf.org)** | **[Relationship Coordinator Internship, Rare Disease](https://jobright.ai/jobs/info/69e94e694b0fa35a7076d790?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e1ff886afe5d2fd108bbd2?utm_campaign=1051&utm_source=git)** | Carpinteria, CA | On Site | Apr 22 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e941b958811370cb12c2fb?utm_campaign=1051&utm_source=git)** | Manassas, VA | On Site | Apr 22 |
 | **[NetApp](http://netapp.com)** | **[Digital & AI Experience Intern, Customer Success](https://jobright.ai/jobs/info/69e8eb3a58811370cb128f6d?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Hybrid | Apr 22 |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Commercial Strategy & Partnerships  (Onsite: NY)](https://jobright.ai/jobs/info/69e8e81f0a6e0955530373c3?utm_campaign=1051&utm_source=git)** | New York, New York, US | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
