@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall 2026 Financial Sales & Advising Internship](https://jobright.ai/jobs/info/69ea91cf58811370cb1341f1?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Apr 23 |
+| **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/69ea91947820c036924ee970?utm_campaign=1051&utm_source=git)** | Troy, MI, UNITED STATES | On Site | Apr 23 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69ea8fec4b0fa35a70775089?utm_campaign=1051&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Apr 23 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69ea8f37dc35f7132c4aada4?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 23 |
+| **[Barclé Group](https://barclegroup.com)** | **[Real Estate Acquisitions & Partnerships Intern – Airbnb Investment Properties](https://jobright.ai/jobs/info/69ea8dbddc35f7132c4aac40?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Apr 23 |
 | **[Electro](electrogum.com)** | **[NIL Partnerships Intern](https://jobright.ai/jobs/info/69ea75a33aa0c479643b0384?utm_campaign=1051&utm_source=git)** | Lexington, KY | Remote | Apr 23 |
 | ↳ | **[Partnerships Outreach Intern](https://jobright.ai/jobs/info/69ea75970a6e09555304157e?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Remote | Apr 23 |
 | **[HawkBrook](https://www.hawk-brook.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/69ea752958811370cb13393e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 23 |
@@ -79,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Advertising & Partnerships Sales and Sales Support Internships – Academic Year](https://jobright.ai/jobs/info/69ea7f83dc35f7132c4aa9d6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 23 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[(NEX NORFOLK) SALES ASSOCIATE - UNIFORMS](https://jobright.ai/jobs/info/69e67bb3f8fa2f3ec32a20ca?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Apr 23 |
 | **[Greystone](https://www.greystone.com)** | **[Summer 2026 Internship - Agency Loan Origination](https://jobright.ai/jobs/info/69cdecd6cfdc6132f9421564?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 23 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[Senior Channel Sales Executive - Product Stewardship](https://jobright.ai/jobs/info/698aec9e0f6f7e7a2ce6379d?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Apr 23 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #615](https://jobright.ai/jobs/info/69ea725c3aa0c479643afbb2?utm_campaign=1051&utm_source=git)** | 1740 Commerce Dr, North Mankato, MN, 56003 | On Site | Apr 23 |
 | **[ThoughtData](https://www.thoughtdata.com/)** | **[Business Development Intern (Remote - India)](https://jobright.ai/jobs/info/69ea2c1b0a6e09555303f6df?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 23 |
 | **[CoreSite](http://www.coresite.com)** | **[Account Manager (1889)](https://jobright.ai/jobs/info/69d7762f48f0c8161d300f4d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
@@ -135,26 +139,22 @@ For a complete list, click the following sortable link below:
 | **[Promega Corporation](http://www.promega.com/es)** | **[Sales & Marketing Intern, Custom Solutions](https://jobright.ai/jobs/info/69e983147820c036924e8dc8?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Apr 22 |
 | **[Revise Robotics (YC W25)](https://www.reviserobotics.com)** | **[Business Development Intern – Summer/Fall 2026](https://jobright.ai/jobs/info/69ea4fa358811370cb1325f7?utm_campaign=1051&utm_source=git)** | New York City | On Site | Apr 22 |
 | **[Humani Holdings](https://www.humaniholdings.com/)** | **[Sales Development Internship](https://jobright.ai/jobs/info/69e95d353aa0c479643a9953?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 22 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e9a4fb58811370cb12e8c6?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Apr 22 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e7e222f8fa2f3ec32aa10b?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | Apr 22 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e7e222f8fa2f3ec32aa10b?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | Apr 22 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e9a4fb58811370cb12e8c6?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Apr 22 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69e9867f7820c036924e8ea2?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Apr 22 |
 | **[UNC University Libraries](https://library.unc.edu)** | **[Assistant Director of Development](https://jobright.ai/jobs/info/69e99dcee0cd471b2f13e6a3?utm_campaign=1051&utm_source=git)** | Triangle Area | On Site | Apr 22 |
-| **[SaskTel](http://www.sasktel.com)** | **[Service Representative (SaskTel Stores- Incented Sales Rep)](https://jobright.ai/jobs/info/69e135886c20aa114953fdbe?utm_campaign=1051&utm_source=git)** | Regina, SK | On Site | Apr 22 |
-| ↳ | **[Service Representative (SaskTel Stores- Incented Sales Rep)](https://jobright.ai/jobs/info/69e9719958811370cb12d64d?utm_campaign=1051&utm_source=git)** | Weyburn, Saskatchewan, Canada | On Site | Apr 22 |
+| **[SaskTel](http://www.sasktel.com)** | **[Service Representative (SaskTel Stores- Incented Sales Rep)](https://jobright.ai/jobs/info/69e9719958811370cb12d64d?utm_campaign=1051&utm_source=git)** | Weyburn, Saskatchewan, Canada | On Site | Apr 22 |
+| ↳ | **[Service Representative (SaskTel Stores- Incented Sales Rep)](https://jobright.ai/jobs/info/69e135886c20aa114953fdbe?utm_campaign=1051&utm_source=git)** | Regina, SK | On Site | Apr 22 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Service Sales Intern](https://jobright.ai/jobs/info/69e99dd5e0cd471b2f13e6c2?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 22 |
 | **[Scout House](https://scouthouse.com/)** | **[AI Business Development Intern](https://jobright.ai/jobs/info/69e950267820c036924e751f?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Apr 22 |
 | **[The Court & Tone Club](https://thecourtandtoneclub.myshopify.com/)** | **[Director of Partnerships Intern](https://jobright.ai/jobs/info/69e9717d3aa0c479643a9e95?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 22 |
 | **[The Colie Group](https://www.thedreammakersteam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e99dd6e0cd471b2f13e6cf?utm_campaign=1051&utm_source=git)** | Missouri, United States | Remote | Apr 22 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e99dde0a6e09555303cf2a?utm_campaign=1051&utm_source=git)** | Greenville-Spartanburg-Anderson, South Carolina Area | Hybrid | Apr 22 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e99de458811370cb12e6be?utm_campaign=1051&utm_source=git)** | Triangle Area | Remote | Apr 22 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e99dde0a6e09555303cf2a?utm_campaign=1051&utm_source=git)** | Greenville-Spartanburg-Anderson, South Carolina Area | Hybrid | Apr 22 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Summer 2026 - Real Estate Intern - 90352781 - Philadelphia](https://jobright.ai/jobs/info/69e96bb058811370cb12d443?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Apr 22 |
 | **[Blackfoot Communications](http://www.blackfoot.com)** | **[Sales Intern  (Temp Summer Position)](https://jobright.ai/jobs/info/69e977e34b0fa35a7076e8c5?utm_campaign=1051&utm_source=git)** | Missoula, MT, US | On Site | Apr 22 |
 | **[Wefunder](http://www.wefunder.com)** | **[Internship - Customer Success](https://jobright.ai/jobs/info/69e977837820c036924e82a9?utm_campaign=1051&utm_source=git)** | San Francisco, CA, US | On Site | Apr 22 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Land Acquisition Intern](https://jobright.ai/jobs/info/69e9795d0a6e09555303c6ea?utm_campaign=1051&utm_source=git)** | Sacramento | Hybrid | Apr 22 |
 | ↳ | **[Land Acquisition Intern](https://jobright.ai/jobs/info/69e9796858811370cb12dffb?utm_campaign=1051&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 22 |
 | ↳ | **[Land Acquisition Intern](https://jobright.ai/jobs/info/69e9796d3aa0c479643aa93c?utm_campaign=1051&utm_source=git)** | Oakland | Hybrid | Apr 22 |
-| ↳ | **[Land Acquisition Intern](https://jobright.ai/jobs/info/69e9796ce0cd471b2f13e02a?utm_campaign=1051&utm_source=git)** | Fresno | Hybrid | Apr 22 |
-| **[Nightwing](nightwing.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e93c1458811370cb12c05e?utm_campaign=1051&utm_source=git)** | Sterling, VA, US | On Site | Apr 22 |
-| **[Aspen Technology](http://www.aspentech.com)** | **[Intern (Business Development – Sales)](https://jobright.ai/jobs/info/69e93bdb7820c036924e6c43?utm_campaign=1051&utm_source=git)** | Houston, US | On Site | Apr 22 |
-| **[Branksome Hall](https://www.branksome.on.ca)** | **[Advancement Intern](https://jobright.ai/jobs/info/69e93ad77820c036924e6af2?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
