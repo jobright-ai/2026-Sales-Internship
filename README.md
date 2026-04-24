@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[We Insure](https://weinsuregroup.com/)** | **[Sales & Marketing Operations Intern](https://jobright.ai/jobs/info/69eac9b60a6e095553042c1e?utm_campaign=1051&utm_source=git)** | New York City, NY, US | Hybrid | Apr 23 |
+| ↳ | **[Sales & Marketing Operations Intern](https://jobright.ai/jobs/info/69eac94858811370cb134ffa?utm_campaign=1051&utm_source=git)** | NYC 441, US | Hybrid | Apr 23 |
 | **[Verkada](https://www.verkada.com)** | **[Channel Enablement Intern](https://jobright.ai/jobs/info/69eabaf20a6e0955530429b4?utm_campaign=1051&utm_source=git)** | San Mateo, CA United States | On Site | Apr 23 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote-Based Agency Partnerships Intern](https://jobright.ai/jobs/info/69eab79b3aa0c479643b1558?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 23 |
 | **[Cruze](https://cruzemaps.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69eab72ddc35f7132c4aba3d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 23 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Promega Corporation](http://www.promega.com/es)** | **[Sales & Marketing Intern, Custom Solutions](https://jobright.ai/jobs/info/69e983147820c036924e8dc8?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Apr 22 |
 | **[Revise Robotics (YC W25)](https://www.reviserobotics.com)** | **[Business Development Intern – Summer/Fall 2026](https://jobright.ai/jobs/info/69ea4fa358811370cb1325f7?utm_campaign=1051&utm_source=git)** | New York City | On Site | Apr 22 |
 | **[Humani Holdings](https://www.humaniholdings.com/)** | **[Sales Development Internship](https://jobright.ai/jobs/info/69e95d353aa0c479643a9953?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 22 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e7e222f8fa2f3ec32aa10b?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | Apr 22 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e9a4fb58811370cb12e8c6?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Apr 22 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/69e9867f7820c036924e8ea2?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Apr 22 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e9a4fb58811370cb12e8c6?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
