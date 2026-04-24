@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[M&T Bank](http://www.mtb.com)** | **[2026 Community Branch Internship Program - Danvers](https://jobright.ai/jobs/info/69eb66494b0fa35a7077b253?utm_campaign=1051&utm_source=git)** | Danvers, MA, US | On Site | Apr 24 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Partner Relations Intern – Agencies (Remote)](https://jobright.ai/jobs/info/69eb5e8116b2612c2a11b7ff?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69b15466d04c69566c7389d3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69eb49187820c036924f29b4?utm_campaign=1051&utm_source=git)** | NL-Hub | On Site | Apr 24 |
 | **[Gethired Digital](https://gethireddigital.com)** | **[PROSPECTING INTERN](https://jobright.ai/jobs/info/69eb0704dc35f7132c4ad25e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Apr 23 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/69caffcb466f1e133aac9a3d?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Apr 23 |
+| **[Thnks](https://www.thnks.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69eb668058811370cb13922b?utm_campaign=1051&utm_source=git)** | Franklin, TN | Hybrid | Apr 23 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Field Sales Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69eb52c67820c036924f2eed?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Apr 23 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Fall 2026 - Honolulu)](https://jobright.ai/jobs/info/69c591cee565c26a700124c0?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Apr 23 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Store Operations Communications & Workload Execution Intern](https://jobright.ai/jobs/info/69eb56c316b2612c2a11b541?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Apr 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/699632ba81476f6176adee28?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | Apr 23 |
 | **[CORE Electric Cooperative](https://core.coop)** | **[Intern - Business and Community Development](https://jobright.ai/jobs/info/69cdbf7e891d7b11cfcbf933?utm_campaign=1051&utm_source=git)** | Sedalia, CO | On Site | Apr 23 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Client Account Operations Intern](https://jobright.ai/jobs/info/69ccc5fb366bb95ba54f680d?utm_campaign=1051&utm_source=git)** | Albany, NY | On Site | Apr 23 |
-| **[Thomson Reuters](http://thomsonreuters.com)** | **[Tax Print Sales Intern](https://jobright.ai/jobs/info/69d5ce93891d7b11cfd05ba0?utm_campaign=1051&utm_source=git)** | Eagan, MN | Hybrid | Apr 23 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Business Development Internship](https://jobright.ai/jobs/info/69e14637d612782e61147c8b?utm_campaign=1051&utm_source=git)** | Aventura, FL | On Site | Apr 23 |
-| **[AMETEK](http://www.ametek.com)** | **[Inside Sales / Client Services Intern](https://jobright.ai/jobs/info/69ea73df0a6e09555304135b?utm_campaign=1051&utm_source=git)** | Columbus, OH, US, 43085 | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
