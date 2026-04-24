@@ -61,8 +61,8 @@ For a complete list, click the following sortable link below:
 | **[LoanPro](https://loanpro.io/)** | **[RevOps Intern](https://jobright.ai/jobs/info/69eacc32dc35f7132c4abdbe?utm_campaign=1051&utm_source=git)** | Farmington, Utah, United States | On Site | Apr 23 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Sales & Marketing Operations Intern](https://jobright.ai/jobs/info/69eac9b60a6e095553042c1e?utm_campaign=1051&utm_source=git)** | New York City, NY, US | Hybrid | Apr 23 |
 | ↳ | **[Sales & Marketing Operations Intern](https://jobright.ai/jobs/info/69eac94858811370cb134ffa?utm_campaign=1051&utm_source=git)** | NYC 441, US | Hybrid | Apr 23 |
+| **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern - Summer 2026](https://jobright.ai/jobs/info/69e67b93f8fa2f3ec32a200f?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 23 |
 | **[Verkada](https://www.verkada.com)** | **[Channel Enablement Intern](https://jobright.ai/jobs/info/69eabaf20a6e0955530429b4?utm_campaign=1051&utm_source=git)** | San Mateo, CA United States | On Site | Apr 23 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Remote-Based Agency Partnerships Intern](https://jobright.ai/jobs/info/69eab79b3aa0c479643b1558?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 23 |
 | **[Cruze](https://cruzemaps.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69eab72ddc35f7132c4aba3d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 23 |
 | **[LIXIR](https://lixirotg.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/69eab1d67820c036924ef30b?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Apr 23 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Leasing Professional - Internship](https://jobright.ai/jobs/info/69eaa83658811370cb1349fa?utm_campaign=1051&utm_source=git)** | The Dean, Charlottesville, VA, US | On Site | Apr 23 |
@@ -91,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Bci Miami](https://www.bcimiami.com)** | **[Broker-Dealer Intern (Sales, Trading & Operat](https://jobright.ai/jobs/info/69ea5c4d7820c036924ed1fd?utm_campaign=1051&utm_source=git)** | Miami, FL, US | On Site | Apr 23 |
 | **[Bachman's Inc.](http://bachmans.com)** | **[Buying Office Intern](https://jobright.ai/jobs/info/69ea5c2f4b0fa35a7077392a?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Apr 23 |
 | **[Titan Technologies](https://titantechnologies.com)** | **[Proposal Support Intern](https://jobright.ai/jobs/info/69ea53464b0fa35a707736b1?utm_campaign=1051&utm_source=git)** | Reston, Virginia, United States | Remote | Apr 23 |
+| **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698525d9348f733a5c395458?utm_campaign=1051&utm_source=git)** | Caledon, ON | On Site | Apr 23 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Summer Retail Internship](https://jobright.ai/jobs/info/69ea4b587820c036924eccb9?utm_campaign=1051&utm_source=git)** | Store 1280-Hilton Head Outlets-ANN-Bluffton, SC 29910, US | On Site | Apr 23 |
 | **[CAC Group](https://cacgroup.com)** | **[Intern, Business Development](https://jobright.ai/jobs/info/69ea47a84b0fa35a707731ef?utm_campaign=1051&utm_source=git)** | Edina, Minnesota, US | On Site | Apr 23 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Senior Channel Sales Executive - Product Stewardship](https://jobright.ai/jobs/info/698ae3204db8972cec0056e8?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Apr 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ARM Institute](http://arminstitute.org/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69eaa8253aa0c479643b122a?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Apr 22 |
 | **[Gordon Flesch Company](http://www.gflesch.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69ea94d63aa0c479643b0c47?utm_campaign=1051&utm_source=git)** | West Allis, WI | On Site | Apr 22 |
 | **[Buena AI](https://buena.ai)** | **[Sales Development Representative Intern (Commission-Only) — AI Enterprise Sales](https://jobright.ai/jobs/info/69e963fe58811370cb12d270?utm_campaign=1051&utm_source=git)** | Gainesville, FL | Remote | Apr 22 |
-| **[Altitude Promotions](https://altitudepromotions.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69e963fc58811370cb12d257?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
