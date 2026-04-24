@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - HVAC Sales](https://jobright.ai/jobs/info/69ea9d7d58811370cb134728?utm_campaign=1051&utm_source=git)** | US-CA-Irvine | On Site | Apr 23 |
 | ↳ | **[Intern - HVAC Sales](https://jobright.ai/jobs/info/69ea9d233aa0c479643b0f1d?utm_campaign=1051&utm_source=git)** | Onsite | On Site | Apr 23 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/69ea9d114b0fa35a70775603?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 23 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Remote - Shopify Agency Partnerships Intern](https://jobright.ai/jobs/info/69ea9d030a6e095553042205?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 23 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - HVAC Sales](https://jobright.ai/jobs/info/69ea9cfd0a6e0955530421e1?utm_campaign=1051&utm_source=git)** | Irvine, CA, US | On Site | Apr 23 |
 | **[Data Axle](https://www.data-axle.com/)** | **[Revenue Enablement Specialist Intern](https://jobright.ai/jobs/info/69ea96797820c036924eebb5?utm_campaign=1051&utm_source=git)** | Virtual Location, TX, 75240, United States | Remote | Apr 23 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall 2026 Financial Sales & Advising Internship](https://jobright.ai/jobs/info/69ea91cf58811370cb1341f1?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Apr 23 |
@@ -79,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69ea8fec4b0fa35a70775089?utm_campaign=1051&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Apr 23 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69ea8f37dc35f7132c4aada4?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 23 |
 | **[Barclé Group](https://barclegroup.com)** | **[Real Estate Acquisitions & Partnerships Intern – Airbnb Investment Properties](https://jobright.ai/jobs/info/69ea8dbddc35f7132c4aac40?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Apr 23 |
+| **[The Colie Group](https://www.thedreammakersteam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69eafdb7dc35f7132c4ad0a5?utm_campaign=1051&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Remote | Apr 23 |
 | **[Electro](electrogum.com)** | **[NIL Partnerships Intern](https://jobright.ai/jobs/info/69ea75a33aa0c479643b0384?utm_campaign=1051&utm_source=git)** | Lexington, KY | Remote | Apr 23 |
 | ↳ | **[Partnerships Outreach Intern](https://jobright.ai/jobs/info/69ea75970a6e09555304157e?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Remote | Apr 23 |
 | **[HawkBrook](https://www.hawk-brook.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/69ea752958811370cb13393e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 23 |
