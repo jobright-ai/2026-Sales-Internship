@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Fall 2026 - Honolulu)](https://jobright.ai/jobs/info/69c591cee565c26a700124c0?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Apr 23 |
 | **[LoanPro](https://loanpro.io/)** | **[RevOps Intern](https://jobright.ai/jobs/info/69eacc32dc35f7132c4abdbe?utm_campaign=1051&utm_source=git)** | Farmington, Utah, United States | On Site | Apr 23 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Sales & Marketing Operations Intern](https://jobright.ai/jobs/info/69eac9b60a6e095553042c1e?utm_campaign=1051&utm_source=git)** | New York City, NY, US | Hybrid | Apr 23 |
 | ↳ | **[Sales & Marketing Operations Intern](https://jobright.ai/jobs/info/69eac94858811370cb134ffa?utm_campaign=1051&utm_source=git)** | NYC 441, US | Hybrid | Apr 23 |
@@ -85,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Summer 2026 Retail Management Internship-Boulevard at Box Hill](https://jobright.ai/jobs/info/69ea67594b0fa35a70773e05?utm_campaign=1051&utm_source=git)** | Store 1885-Boulevard at Box Hill-ANN-Abingdon, MD 21009, US | On Site | Apr 23 |
 | **[Thélios](https://thelios.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/69ea63f53aa0c479643af67a?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 23 |
 | **[Shiseido](http://www.shiseido.com/)** | **[E-Retail Intern](https://jobright.ai/jobs/info/69ea5e0758811370cb132b51?utm_campaign=1051&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Apr 23 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[TractorHouse Sales Intern](https://jobright.ai/jobs/info/664e9858f97ff61ecf83b39e?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 23 |
 | **[Quanta Ventures Fund](https://www.quantaventures.ai)** | **[Venture Capital Intern (A.I. Driven Fund. Computer Science/Coding Background Preferred)](https://jobright.ai/jobs/info/69ea835c4b0fa35a70774ddf?utm_campaign=1051&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Apr 23 |
 | **[Bci Miami](https://www.bcimiami.com)** | **[Broker-Dealer Intern (Sales, Trading & Operat](https://jobright.ai/jobs/info/69ea5c4d7820c036924ed1fd?utm_campaign=1051&utm_source=git)** | Miami, FL, US | On Site | Apr 23 |
 | **[Bachman's Inc.](http://bachmans.com)** | **[Buying Office Intern](https://jobright.ai/jobs/info/69ea5c2f4b0fa35a7077392a?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Apr 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gordon Flesch Company](http://www.gflesch.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69ea94d63aa0c479643b0c47?utm_campaign=1051&utm_source=git)** | West Allis, WI | On Site | Apr 22 |
 | **[Buena AI](https://buena.ai)** | **[Sales Development Representative Intern (Commission-Only) — AI Enterprise Sales](https://jobright.ai/jobs/info/69e963fe58811370cb12d270?utm_campaign=1051&utm_source=git)** | Gainesville, FL | Remote | Apr 22 |
 | **[Altitude Promotions](https://altitudepromotions.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69e963fc58811370cb12d257?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Apr 22 |
-| **[Promega Corporation](http://www.promega.com/es)** | **[Sales & Marketing Intern, Custom Solutions](https://jobright.ai/jobs/info/69e983147820c036924e8dc8?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Apr 22 |
-| **[Revise Robotics (YC W25)](https://www.reviserobotics.com)** | **[Business Development Intern – Summer/Fall 2026](https://jobright.ai/jobs/info/69ea4fa358811370cb1325f7?utm_campaign=1051&utm_source=git)** | New York City | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
