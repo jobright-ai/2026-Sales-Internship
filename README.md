@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Sales Intern](https://jobright.ai/jobs/info/6944c8a7a7227b3ece667202?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69cb842b466f1e133aacefa9?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Apr 24 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Community Branch Internship Program - Danvers](https://jobright.ai/jobs/info/69eb66494b0fa35a7077b253?utm_campaign=1051&utm_source=git)** | Danvers, MA, US | On Site | Apr 24 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69b3dd5dad360c0340a91add?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Apr 24 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Partner Relations Intern – Agencies (Remote)](https://jobright.ai/jobs/info/69eb5e8116b2612c2a11b7ff?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
+| **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695dc2f5efe5dd5cbd3d9cc2?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Apr 24 |
+| **[Veterans United Home Loans](https://www.veterans-united.org)** | **[Sales Internship - Kansas City Area](https://jobright.ai/jobs/info/69b2a820ae2a534885e9cb1d?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Apr 24 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69b34f8fae2a534885eab3ff?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 24 |
+| **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Sales Intern](https://jobright.ai/jobs/info/69965adfe0bddb6acac4cae4?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | Apr 24 |
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69b15466d04c69566c7389d3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69eb49187820c036924f29b4?utm_campaign=1051&utm_source=git)** | NL-Hub | On Site | Apr 24 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Sales, Canada (Toronto)](https://jobright.ai/jobs/info/697946e839f7f96cc6d1be27?utm_campaign=1051&utm_source=git)** | Greater Montreal Metropolitan Area | Remote | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Merchandise Internship: 2026 PGA Championship](https://jobright.ai/jobs/info/69d0c787366bb95ba5522866?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
 | **[Gethired Digital](https://gethireddigital.com)** | **[PROSPECTING INTERN](https://jobright.ai/jobs/info/69eb0704dc35f7132c4ad25e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Apr 23 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/69caffcb466f1e133aac9a3d?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Apr 23 |
@@ -76,8 +84,7 @@ For a complete list, click the following sortable link below:
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Sales Intern (Boston)](https://jobright.ai/jobs/info/69e754950a6e09555302a198?utm_campaign=1051&utm_source=git)** | Westwood, MA | On Site | Apr 23 |
 | **[Verkada](https://www.verkada.com)** | **[Channel Enablement Intern](https://jobright.ai/jobs/info/69eabaf20a6e0955530429b4?utm_campaign=1051&utm_source=git)** | San Mateo, CA United States | On Site | Apr 23 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Sales Support Intern - Summer 2026](https://jobright.ai/jobs/info/69e74efe0a6e095553029f4d?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 23 |
-| **[State Farm](http://www.brantblessing.com)** | **[Fall 2026 - Insurance Sales Intern](https://jobright.ai/jobs/info/69eb6e3e7820c036924f3c3f?utm_campaign=1051&utm_source=git)** | Fishers, IN | On Site | Apr 23 |
-| ↳ | **[Spring 2027 - Insurance Sales Intern](https://jobright.ai/jobs/info/69eb6e5c58811370cb13959b?utm_campaign=1051&utm_source=git)** | Fishers, IN | On Site | Apr 23 |
+| **[State Farm](http://www.brantblessing.com)** | **[Spring 2027 - Insurance Sales Intern](https://jobright.ai/jobs/info/69eb6e5c58811370cb13959b?utm_campaign=1051&utm_source=git)** | Fishers, IN | On Site | Apr 23 |
 | ↳ | **[Spring 2027 - Insurance Sales Intern](https://jobright.ai/jobs/info/69eb6ea80a6e0955530475c6?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Apr 23 |
 | ↳ | **[Fall 2026 - Insurance Sales Intern](https://jobright.ai/jobs/info/69eb6e337820c036924f3c0b?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Apr 23 |
 | **[Cruze](https://cruzemaps.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69eab72ddc35f7132c4aba3d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 23 |
@@ -117,9 +124,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Partnerships Outreach Intern](https://jobright.ai/jobs/info/69ea75970a6e09555304157e?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Remote | Apr 23 |
 | **[The Colie Group](https://www.thedreammakersteam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69eb25ac4b0fa35a70778741?utm_campaign=1051&utm_source=git)** | Wilmington, NC | Remote | Apr 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb25b97820c036924f128a?utm_campaign=1051&utm_source=git)** | Maryland, United States | Remote | Apr 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb254e16b2612c2a1191f4?utm_campaign=1051&utm_source=git)** | Virginia, United States | Hybrid | Apr 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb254e58811370cb136b62?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Apr 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb25b97820c036924f1289?utm_campaign=1051&utm_source=git)** | Columbia, MO | Remote | Apr 23 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb254e58811370cb136b62?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Apr 23 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb254e16b2612c2a1191f4?utm_campaign=1051&utm_source=git)** | Virginia, United States | Hybrid | Apr 23 |
 | **[HawkBrook](https://www.hawk-brook.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/69ea752958811370cb13393e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 23 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69eb2596dc35f7132c4adeb0?utm_campaign=1051&utm_source=git)** | Detroit Metro | Hybrid | Apr 23 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[Sale Associate Hardlines PT w/Benefits](https://jobright.ai/jobs/info/69e7406ce0cd471b2f12a930?utm_campaign=1051&utm_source=git)** | Kittery, ME | On Site | Apr 23 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Advertising & Partnerships Sales and Sales Support Internships – Academic Year](https://jobright.ai/jobs/info/69ea7f83dc35f7132c4aa9d6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 23 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[(NEX NORFOLK) SALES ASSOCIATE - UNIFORMS](https://jobright.ai/jobs/info/69e67bb3f8fa2f3ec32a20ca?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Apr 23 |
 | **[Greystone](https://www.greystone.com)** | **[Summer 2026 Internship - Agency Loan Origination](https://jobright.ai/jobs/info/69cdecd6cfdc6132f9421564?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 23 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #615](https://jobright.ai/jobs/info/69ea725c3aa0c479643afbb2?utm_campaign=1051&utm_source=git)** | 1740 Commerce Dr, North Mankato, MN, 56003 | On Site | Apr 23 |
-| **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Credit Analyst Intern (Summer)](https://jobright.ai/jobs/info/69d1c96754f00230c6d1cd1b?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | Remote | Apr 23 |
-| **[ThoughtData](https://www.thoughtdata.com/)** | **[Business Development Intern (Remote - India)](https://jobright.ai/jobs/info/69ea2c1b0a6e09555303f6df?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 23 |
-| **[CoreSite](http://www.coresite.com)** | **[Account Manager (1889)](https://jobright.ai/jobs/info/69d7762f48f0c8161d300f4d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
-| **[ABC Fitness](http://www.abcfinancial.com)** | **[Strategic Growth Intern](https://jobright.ai/jobs/info/69e0c272fd1c0456f3faa807?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 23 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[2026 Summer Intern Account Manager Intern - West Region (San Diego)](https://jobright.ai/jobs/info/695d8b5ff5f3c43f38e267e0?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Apr 23 |
-| **[CoreSite](http://www.coresite.com)** | **[Account Manager (1889)](https://jobright.ai/jobs/info/69d7b6c1869c7e25d858ff12?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
