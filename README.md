@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LoanPro](https://loanpro.io/)** | **[RevOps Intern](https://jobright.ai/jobs/info/69eacc32dc35f7132c4abdbe?utm_campaign=1051&utm_source=git)** | Farmington, Utah, United States | On Site | Apr 23 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Sales & Marketing Operations Intern](https://jobright.ai/jobs/info/69eac9b60a6e095553042c1e?utm_campaign=1051&utm_source=git)** | New York City, NY, US | Hybrid | Apr 23 |
 | ↳ | **[Sales & Marketing Operations Intern](https://jobright.ai/jobs/info/69eac94858811370cb134ffa?utm_campaign=1051&utm_source=git)** | NYC 441, US | Hybrid | Apr 23 |
 | **[Verkada](https://www.verkada.com)** | **[Channel Enablement Intern](https://jobright.ai/jobs/info/69eabaf20a6e0955530429b4?utm_campaign=1051&utm_source=git)** | San Mateo, CA United States | On Site | Apr 23 |
@@ -90,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Titan Technologies](https://titantechnologies.com)** | **[Proposal Support Intern](https://jobright.ai/jobs/info/69ea53464b0fa35a707736b1?utm_campaign=1051&utm_source=git)** | Reston, Virginia, United States | Remote | Apr 23 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Summer Retail Internship](https://jobright.ai/jobs/info/69ea4b587820c036924eccb9?utm_campaign=1051&utm_source=git)** | Store 1280-Hilton Head Outlets-ANN-Bluffton, SC 29910, US | On Site | Apr 23 |
 | **[CAC Group](https://cacgroup.com)** | **[Intern, Business Development](https://jobright.ai/jobs/info/69ea47a84b0fa35a707731ef?utm_campaign=1051&utm_source=git)** | Edina, Minnesota, US | On Site | Apr 23 |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[Senior Channel Sales Executive - Product Stewardship](https://jobright.ai/jobs/info/698ae3204db8972cec0056e8?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Apr 23 |
 | **[Titan Technologies](https://titantechnologies.com)** | **[Proposal Support Intern](https://jobright.ai/jobs/info/69eaac4f3aa0c479643b134f?utm_campaign=1051&utm_source=git)** | Reston, VA | Remote | Apr 23 |
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Business Development Marketing Co-op / Intern](https://jobright.ai/jobs/info/6996255cce78e77b4fda1b05?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Apr 23 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69630fff25e18715077fbeda?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Apr 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altitude Promotions](https://altitudepromotions.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69e963fc58811370cb12d257?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Apr 22 |
 | **[Promega Corporation](http://www.promega.com/es)** | **[Sales & Marketing Intern, Custom Solutions](https://jobright.ai/jobs/info/69e983147820c036924e8dc8?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Apr 22 |
 | **[Revise Robotics (YC W25)](https://www.reviserobotics.com)** | **[Business Development Intern – Summer/Fall 2026](https://jobright.ai/jobs/info/69ea4fa358811370cb1325f7?utm_campaign=1051&utm_source=git)** | New York City | On Site | Apr 22 |
-| **[Humani Holdings](https://www.humaniholdings.com/)** | **[Sales Development Internship](https://jobright.ai/jobs/info/69e95d353aa0c479643a9953?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 22 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e9a4fb58811370cb12e8c6?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
