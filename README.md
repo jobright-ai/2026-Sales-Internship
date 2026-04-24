@@ -70,7 +70,9 @@ For a complete list, click the following sortable link below:
 | **[LIXIR](https://lixirotg.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/69eab1d67820c036924ef30b?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Apr 23 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Leasing Professional - Internship](https://jobright.ai/jobs/info/69eaa83658811370cb1349fa?utm_campaign=1051&utm_source=git)** | The Dean, Charlottesville, VA, US | On Site | Apr 23 |
 | ↳ | **[Leasing Professional - Internship](https://jobright.ai/jobs/info/69eaa7e03aa0c479643b11ed?utm_campaign=1051&utm_source=git)** | The Bennett, Charlottesville, VA, US | On Site | Apr 23 |
+| **[Lukos](https://lukos.com/)** | **[Business Development Skillbridge Intern](https://jobright.ai/jobs/info/69e9fa84dc35f7132c4a680f?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Apr 23 |
 | **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[Buying Intern](https://jobright.ai/jobs/info/69eb25e37820c036924f1358?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 23 |
+| **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/69eb3a180a6e095553045ccf?utm_campaign=1051&utm_source=git)** | Tonawanda, NY | On Site | Apr 23 |
 | **[TexL Campaigns](https://texlcampaigns.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69eaa170dc35f7132c4ab579?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Apr 23 |
 | **[Leggett & Platt](http://www.leggett.com)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/69eb257c58811370cb136c12?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Apr 23 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - HVAC Sales](https://jobright.ai/jobs/info/69ea9d7d58811370cb134728?utm_campaign=1051&utm_source=git)** | US-CA-Irvine | On Site | Apr 23 |
@@ -84,7 +86,9 @@ For a complete list, click the following sortable link below:
 | **[The Colie Group](https://www.thedreammakersteam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69eb259c4b0fa35a70778707?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Apr 23 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69ea8fec4b0fa35a70775089?utm_campaign=1051&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Apr 23 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69ea8f37dc35f7132c4aada4?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 23 |
+| **[Ann Taylor](http://www.anntaylor.com)** | **[Summer Retail Internship](https://jobright.ai/jobs/info/69eb2ef04b0fa35a70778896?utm_campaign=1051&utm_source=git)** | Bluffton, SC | On Site | Apr 23 |
 | **[Barclé Group](https://barclegroup.com)** | **[Real Estate Acquisitions & Partnerships Intern – Airbnb Investment Properties](https://jobright.ai/jobs/info/69ea8dbddc35f7132c4aac40?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Apr 23 |
+| **[LOFT](https://www.loft.com/)** | **[Summer 2026 Retail Management Internship-Boulevard at Box Hill](https://jobright.ai/jobs/info/69eb2ee616b2612c2a11938a?utm_campaign=1051&utm_source=git)** | Abingdon Reserve, MD | On Site | Apr 23 |
 | **[Revise Robotics (YC W25)](https://www.reviserobotics.com)** | **[Business Development Intern – Summer/Fall 2026](https://jobright.ai/jobs/info/69eb255d16b2612c2a11923a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 23 |
 | **[Corsair](http://www.corsair.com)** | **[Partnership Operations Intern](https://jobright.ai/jobs/info/69eb0c057820c036924f0bdb?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 23 |
 | **[Cross Screen Media](http://www.crossscreen.media)** | **[Political Account Coordinator Intern - Customer Success](https://jobright.ai/jobs/info/69eb25954b0fa35a707786ea?utm_campaign=1051&utm_source=git)** | Alexandria, VA | Hybrid | Apr 23 |
@@ -94,11 +98,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Partnerships Outreach Intern](https://jobright.ai/jobs/info/69ea75970a6e09555304157e?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Remote | Apr 23 |
 | **[The Colie Group](https://www.thedreammakersteam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69eb25ac4b0fa35a70778741?utm_campaign=1051&utm_source=git)** | Wilmington, NC | Remote | Apr 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb25b97820c036924f128a?utm_campaign=1051&utm_source=git)** | Maryland, United States | Remote | Apr 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb254e16b2612c2a1191f4?utm_campaign=1051&utm_source=git)** | Virginia, United States | Hybrid | Apr 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb254e58811370cb136b62?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Apr 23 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb254e16b2612c2a1191f4?utm_campaign=1051&utm_source=git)** | Virginia, United States | Hybrid | Apr 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb25b97820c036924f1289?utm_campaign=1051&utm_source=git)** | Columbia, MO | Remote | Apr 23 |
 | **[HawkBrook](https://www.hawk-brook.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/69ea752958811370cb13393e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 23 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69eb2596dc35f7132c4adeb0?utm_campaign=1051&utm_source=git)** | Detroit Metro | Hybrid | Apr 23 |
+| **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[Sale Associate Hardlines PT w/Benefits](https://jobright.ai/jobs/info/69e7406ce0cd471b2f12a930?utm_campaign=1051&utm_source=git)** | Kittery, ME | On Site | Apr 23 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Client Partnership Group](https://jobright.ai/jobs/info/69cd9e93cdb525785fb8ceb9?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Apr 23 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69eb0c1c0a6e0955530441dc?utm_campaign=1051&utm_source=git)** | Saint John, New Brunswick, Canada | On Site | Apr 23 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69eb056458811370cb13641a?utm_campaign=1051&utm_source=git)** | Bathurst, New Brunswick, Canada | On Site | Apr 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Event Sales Intern](https://jobright.ai/jobs/info/69e62e217820c036924ceac9?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Apr 23 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 371](https://jobright.ai/jobs/info/69e9cef658811370cb12f46f?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Apr 23 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e9ceb60a6e09555303db68?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Apr 23 |
-| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 396](https://jobright.ai/jobs/info/69e9ce6ce0cd471b2f13f39f?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Apr 23 |
-| **[Alibaba Cloud](https://in.alibabacloud.com)** | **[Sales Intern - Sunnyvale](https://jobright.ai/jobs/info/69e9c9bc4b0fa35a707702db?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Apr 23 |
-| **[ADP](http://www.adp.com)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/69e9c6e63aa0c479643abbda?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | Apr 23 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69e9f23858811370cb12f79c?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Apr 23 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69e9ef930a6e09555303de94?utm_campaign=1051&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
