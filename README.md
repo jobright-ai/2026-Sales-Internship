@@ -57,19 +57,29 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AvePoint Public Sector](https://www.avepoint.com/solutions/us-public-sector)** | **[Sales Internship - Public Sector](https://jobright.ai/jobs/info/69ebb88d7820c036924f6699?utm_campaign=1051&utm_source=git)** | Arlington, VA, United States | On Site | Apr 24 |
+| **[Greenlight](https://greenlight.com/)** | **[Sales Enablement & Operations Intern](https://jobright.ai/jobs/info/69ebb7f958811370cb13bff0?utm_campaign=1051&utm_source=git)** | Atlanta Metro | Hybrid | Apr 24 |
+| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Buying Intern](https://jobright.ai/jobs/info/69cee712891d7b11cfcce32d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 24 |
+| **[Structural Group, Inc.](http://www.structuralgroup.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ebb7827820c036924f6428?utm_campaign=1051&utm_source=git)** | Columbia, MD, US | Hybrid | Apr 24 |
+| **[Legends Global](http://legends.net)** | **[Global Sales, Summer Intern](https://jobright.ai/jobs/info/69ebaee24b0fa35a7077db23?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
+| **[Zywave](http://www.zywave.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ebae8c0a6e0955530498da?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Apr 24 |
 | **[Oklahoma State University Foundation](http://OSUgiving.com)** | **[Donor Engagement Intern](https://jobright.ai/jobs/info/69ebaac058811370cb13bb0c?utm_campaign=1051&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Apr 24 |
 | **[AV](https://www.avinc.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69eba8210a6e09555304959c?utm_campaign=1051&utm_source=git)** | 20521 Seneca Meadows Pkwy, Germantown, MD, US | On Site | Apr 24 |
-| **[NetApp](http://netapp.com)** | **[Digital & AI Experience Intern, Customer Success](https://jobright.ai/jobs/info/69eba7f37820c036924f5ded?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Hybrid | Apr 24 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/69cf7aa0891d7b11cfcd3f5a?utm_campaign=1051&utm_source=git)** | Brookings, SD | Hybrid | Apr 24 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Sales Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/69e636159b6eb37e26f7eb25?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | Apr 24 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Truck Rental Sales Account Specialist Internship - Seattle](https://jobright.ai/jobs/info/695fa5e97ebc25398eb58b8e?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
 | **[Elite Breakout Marketing Inc](https://www.elitebreakoutmarketinginc.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69eb93c60a6e0955530483cd?utm_campaign=1051&utm_source=git)** | Saginaw, MI | On Site | Apr 24 |
 | **[DVF (Diane von Furstenberg)](http://world.dvf.com/)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/69eb93bd4b0fa35a7077cf38?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 24 |
 | **[Invisible North](https://invisiblenorth.com/)** | **[ACCOUNTS TEAM COOPERATIVE WORK EXPERIENCE](https://jobright.ai/jobs/info/69eb92ea58811370cb13a427?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | Hybrid | Apr 24 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695d6a37f5f3c43f38e233c8?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Account Management Intern - Chicago, IL](https://jobright.ai/jobs/info/699643d681476f6176ae02b8?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
+| **[Analog Devices](http://www.analog.com)** | **[Business Discovery Research Analyst Intern (Business Discovery Team)](https://jobright.ai/jobs/info/69cef76e891d7b11cfccee85?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 24 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Inside Sales](https://jobright.ai/jobs/info/69ce36d9cfdc6132f9425daa?utm_campaign=1051&utm_source=git)** | Cartersville, GA | On Site | Apr 24 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Surety Intern](https://jobright.ai/jobs/info/69a27c5d359fe034b1cdc2c3?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Apr 24 |
 | **[CSpring](http://cspring.com)** | **[Catalyst Sales Trainee [Summer 2026]](https://jobright.ai/jobs/info/6984e8da8da7a612045f33f7?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
+| **[Mosaic North America](http://www.mosaic.com/)** | **[HP Product Specialist – Calgary](https://jobright.ai/jobs/info/69ebb80c16b2612c2a11e0d9?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 24 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Inside Sales Department (Calgary Office)](https://jobright.ai/jobs/info/69ceee86366bb95ba5511205?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Apr 24 |
+| ↳ | **[Fall Intern 2026 - Inside Sales Department (Vancouver Office)](https://jobright.ai/jobs/info/69ceee66cfdc6132f942e001?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 24 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69cb842b466f1e133aacefa9?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Apr 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/68d1a9d38c62e63bc7fce336?utm_campaign=1051&utm_source=git)** | Manchester, NH | On Site | Apr 24 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Seller Fees](https://jobright.ai/jobs/info/6997db4ce0bddb6acac6abfe?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Apr 24 |
@@ -96,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Gethired Digital](https://gethireddigital.com)** | **[PROSPECTING INTERN](https://jobright.ai/jobs/info/69eb0704dc35f7132c4ad25e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Apr 23 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/69caffcb466f1e133aac9a3d?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Apr 23 |
 | **[Thnks](https://www.thnks.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69eb668058811370cb13922b?utm_campaign=1051&utm_source=git)** | Franklin, TN | Hybrid | Apr 23 |
-| **[DCPS](https://dcps.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/69eb90c94b0fa35a7077c3dd?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Apr 23 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Field Sales Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69eb52c67820c036924f2eed?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Apr 23 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Fall 2026 - Honolulu)](https://jobright.ai/jobs/info/69c591cee565c26a700124c0?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Apr 23 |
 | **[LoanPro](https://loanpro.io/)** | **[RevOps Intern](https://jobright.ai/jobs/info/69eacc32dc35f7132c4abdbe?utm_campaign=1051&utm_source=git)** | Farmington, Utah, United States | On Site | Apr 23 |
@@ -146,15 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Partnerships Outreach Intern](https://jobright.ai/jobs/info/69ea75970a6e09555304157e?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Remote | Apr 23 |
 | **[The Colie Group](https://www.thedreammakersteam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69eb25ac4b0fa35a70778741?utm_campaign=1051&utm_source=git)** | Wilmington, NC | Remote | Apr 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb25b97820c036924f128a?utm_campaign=1051&utm_source=git)** | Maryland, United States | Remote | Apr 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb25b97820c036924f1289?utm_campaign=1051&utm_source=git)** | Columbia, MO | Remote | Apr 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb254e58811370cb136b62?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Apr 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb254e16b2612c2a1191f4?utm_campaign=1051&utm_source=git)** | Virginia, United States | Hybrid | Apr 23 |
-| **[HawkBrook](https://www.hawk-brook.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/69ea752958811370cb13393e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 23 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69eb2596dc35f7132c4adeb0?utm_campaign=1051&utm_source=git)** | Detroit Metro | Hybrid | Apr 23 |
-| **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[Sale Associate Hardlines PT w/Benefits](https://jobright.ai/jobs/info/69e7406ce0cd471b2f12a930?utm_campaign=1051&utm_source=git)** | Kittery, ME | On Site | Apr 23 |
-| **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Client Partnership Group](https://jobright.ai/jobs/info/69cd9e93cdb525785fb8ceb9?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Apr 23 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69eb0c1c0a6e0955530441dc?utm_campaign=1051&utm_source=git)** | Saint John, New Brunswick, Canada | On Site | Apr 23 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69eb056458811370cb13641a?utm_campaign=1051&utm_source=git)** | Bathurst, New Brunswick, Canada | On Site | Apr 23 |
-| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Summer 2026 Retail Management Internship-Boulevard at Box Hill](https://jobright.ai/jobs/info/69ea67594b0fa35a70773e05?utm_campaign=1051&utm_source=git)** | Store 1885-Boulevard at Box Hill-ANN-Abingdon, MD 21009, US | On Site | Apr 23 |
-| **[Thélios](https://thelios.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/69ea63f53aa0c479643af67a?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 23 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69eb25b97820c036924f1289?utm_campaign=1051&utm_source=git)** | Columbia, MO | Remote | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
