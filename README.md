@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Verkada](https://www.verkada.com)** | **[Channel Enablement Intern](https://jobright.ai/jobs/info/69eabaf20a6e0955530429b4?utm_campaign=1051&utm_source=git)** | San Mateo, CA United States | On Site | Apr 23 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Remote-Based Agency Partnerships Intern](https://jobright.ai/jobs/info/69eab79b3aa0c479643b1558?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 23 |
+| **[Cruze](https://cruzemaps.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69eab72ddc35f7132c4aba3d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 23 |
+| **[LIXIR](https://lixirotg.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/69eab1d67820c036924ef30b?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Apr 23 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Leasing Professional - Internship](https://jobright.ai/jobs/info/69eaa83658811370cb1349fa?utm_campaign=1051&utm_source=git)** | The Dean, Charlottesville, VA, US | On Site | Apr 23 |
 | ↳ | **[Leasing Professional - Internship](https://jobright.ai/jobs/info/69eaa7e03aa0c479643b11ed?utm_campaign=1051&utm_source=git)** | The Bennett, Charlottesville, VA, US | On Site | Apr 23 |
 | **[TexL Campaigns](https://texlcampaigns.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69eaa170dc35f7132c4ab579?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Apr 23 |
@@ -74,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Electro](electrogum.com)** | **[NIL Partnerships Intern](https://jobright.ai/jobs/info/69ea75a33aa0c479643b0384?utm_campaign=1051&utm_source=git)** | Lexington, KY | Remote | Apr 23 |
 | ↳ | **[Partnerships Outreach Intern](https://jobright.ai/jobs/info/69ea75970a6e09555304157e?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Remote | Apr 23 |
 | **[HawkBrook](https://www.hawk-brook.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/69ea752958811370cb13393e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 23 |
+| **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Client Partnership Group](https://jobright.ai/jobs/info/69cd9e93cdb525785fb8ceb9?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Apr 23 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Summer 2026 Retail Management Internship-Boulevard at Box Hill](https://jobright.ai/jobs/info/69ea67594b0fa35a70773e05?utm_campaign=1051&utm_source=git)** | Store 1885-Boulevard at Box Hill-ANN-Abingdon, MD 21009, US | On Site | Apr 23 |
 | **[Thélios](https://thelios.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/69ea63f53aa0c479643af67a?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 23 |
 | **[Shiseido](http://www.shiseido.com/)** | **[E-Retail Intern](https://jobright.ai/jobs/info/69ea5e0758811370cb132b51?utm_campaign=1051&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Apr 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e7e222f8fa2f3ec32aa10b?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | Apr 22 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e9a4fb58811370cb12e8c6?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Apr 22 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69e9867f7820c036924e8ea2?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Apr 22 |
-| **[UNC University Libraries](https://library.unc.edu)** | **[Assistant Director of Development](https://jobright.ai/jobs/info/69e99dcee0cd471b2f13e6a3?utm_campaign=1051&utm_source=git)** | Triangle Area | On Site | Apr 22 |
-| **[SaskTel](http://www.sasktel.com)** | **[Service Representative (SaskTel Stores- Incented Sales Rep)](https://jobright.ai/jobs/info/69e9719958811370cb12d64d?utm_campaign=1051&utm_source=git)** | Weyburn, Saskatchewan, Canada | On Site | Apr 22 |
-| ↳ | **[Service Representative (SaskTel Stores- Incented Sales Rep)](https://jobright.ai/jobs/info/69e135886c20aa114953fdbe?utm_campaign=1051&utm_source=git)** | Regina, SK | On Site | Apr 22 |
-| **[McKinstry](http://www.mckinstry.com)** | **[Service Sales Intern](https://jobright.ai/jobs/info/69e99dd5e0cd471b2f13e6c2?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 22 |
-| **[Scout House](https://scouthouse.com/)** | **[AI Business Development Intern](https://jobright.ai/jobs/info/69e950267820c036924e751f?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
