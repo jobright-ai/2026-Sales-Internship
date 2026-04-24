@@ -82,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Barclé Group](https://barclegroup.com)** | **[Real Estate Acquisitions & Partnerships Intern – Airbnb Investment Properties](https://jobright.ai/jobs/info/69ea8dbddc35f7132c4aac40?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Apr 23 |
 | **[Corsair](http://www.corsair.com)** | **[Partnership Operations Intern](https://jobright.ai/jobs/info/69eb0c057820c036924f0bdb?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 23 |
 | **[The Colie Group](https://www.thedreammakersteam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69eafdb7dc35f7132c4ad0a5?utm_campaign=1051&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Remote | Apr 23 |
+| **[Rushmore Crossing](http://shoprushmorecrossing.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69eb130b16b2612c2a1187bd?utm_campaign=1051&utm_source=git)** | Rapid City, SD | On Site | Apr 23 |
 | **[Electro](electrogum.com)** | **[NIL Partnerships Intern](https://jobright.ai/jobs/info/69ea75a33aa0c479643b0384?utm_campaign=1051&utm_source=git)** | Lexington, KY | Remote | Apr 23 |
 | ↳ | **[Partnerships Outreach Intern](https://jobright.ai/jobs/info/69ea75970a6e09555304157e?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Remote | Apr 23 |
 | **[HawkBrook](https://www.hawk-brook.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/69ea752958811370cb13393e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[World Food Program USA](http://wfpusa.org)** | **[Intern, Institutional Partnerships](https://jobright.ai/jobs/info/69e979517820c036924e8aa9?utm_campaign=1051&utm_source=git)** | World Food Program USA - DC  - Washington, DC 20006 | On Site | Apr 22 |
 | **[Hightower Advisors](https://thrushgroup.hightoweradvisors.com/)** | **[Business Development Representative - Smith Anglin Financial](https://jobright.ai/jobs/info/69e99d923aa0c479643ab048?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 22 |
 | **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69e9717a58811370cb12d5c0?utm_campaign=1051&utm_source=git)** | Sarasota, FL | Remote | Apr 22 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e986a33aa0c479643aac97?utm_campaign=1051&utm_source=git)** | Manchester, NH | Remote | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
