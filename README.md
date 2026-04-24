@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kemco Systems](https://www.kemcosystems.com)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ebf0057820c036924f81be?utm_campaign=1051&utm_source=git)** | Clearwater, FL, US | On Site | Apr 24 |
+| **[TruGen AI](https://trugen.ai)** | **[Sales & Marketing Intern (AI Startup)](https://jobright.ai/jobs/info/69ebef13dc35f7132c4b45fe?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
+| ↳ | **[Community & Partnerships Intern (AI Startup)](https://jobright.ai/jobs/info/69ebef077820c036924f80ea?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebe50b58811370cb13d67f?utm_campaign=1051&utm_source=git)** | Waukesha, WI | On Site | Apr 24 |
 | **[Solenis](http://solenis.com/)** | **[Pulp and Paper Technical Sales Internship - Fall 2026](https://jobright.ai/jobs/info/69ebddffdc35f7132c4b3fe0?utm_campaign=1051&utm_source=git)** | Georgia, United States | On Site | Apr 24 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69dfe888aba61f141731e308?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Apr 24 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Global Accounts Sales & Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69ebc9bd16b2612c2a11efee?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Apr 24 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebc7aa7820c036924f73e1?utm_campaign=1051&utm_source=git)** | Waukesha, Wisconsin, United States of America, 53188-1696 | On Site | Apr 24 |
 | ↳ | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebc79e16b2612c2a11eed8?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States of America, 20004-2414 | On Site | Apr 24 |
+| **[Kelly Tutors](www.kellytutors.com)** | **[Sales and Outreach Internship (Flexible, 2-5 hours/week)](https://jobright.ai/jobs/info/69ebef1d58811370cb13da75?utm_campaign=1051&utm_source=git)** | Greater Seattle Area | Remote | Apr 24 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69ebc3d50a6e09555304a386?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Apr 24 |
 | **[Cruze](https://cruzemaps.com/)** | **[Cruze Sales and Marketing Intern](https://jobright.ai/jobs/info/69ebc3ce58811370cb13c5cd?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Tombras](http://tombras.com)** | **[Account Service Intern](https://jobright.ai/jobs/info/69ebc39a16b2612c2a11e6db?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 24 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[CRM Intern (Summer 2026)](https://jobright.ai/jobs/info/69ce9466cdb525785fb98c86?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Amazon Science](https://www.amazon.science)** | **[Intern - Economics, Private Brands - Intelligence](https://jobright.ai/jobs/info/69eba7e616b2612c2a11db3c?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Apr 24 |
 | **[Gethired Digital](https://gethireddigital.com)** | **[PROSPECTING INTERN](https://jobright.ai/jobs/info/69eb0704dc35f7132c4ad25e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Apr 23 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/69caffcb466f1e133aac9a3d?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Apr 23 |
 | **[Thnks](https://www.thnks.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69eb668058811370cb13922b?utm_campaign=1051&utm_source=git)** | Franklin, TN | Hybrid | Apr 23 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Field Sales Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69eb52c67820c036924f2eed?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Apr 23 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Fall 2026 - Honolulu)](https://jobright.ai/jobs/info/69c591cee565c26a700124c0?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Apr 23 |
 | **[LoanPro](https://loanpro.io/)** | **[RevOps Intern](https://jobright.ai/jobs/info/69eacc32dc35f7132c4abdbe?utm_campaign=1051&utm_source=git)** | Farmington, Utah, United States | On Site | Apr 23 |
-| **[We Insure](https://weinsuregroup.com/)** | **[Sales & Marketing Operations Intern](https://jobright.ai/jobs/info/69eac9b60a6e095553042c1e?utm_campaign=1051&utm_source=git)** | New York City, NY, US | Hybrid | Apr 23 |
-| ↳ | **[Sales & Marketing Operations Intern](https://jobright.ai/jobs/info/69eac94858811370cb134ffa?utm_campaign=1051&utm_source=git)** | NYC 441, US | Hybrid | Apr 23 |
-| **[Georgia Pacific](gp.com)** | **[Sales Internship - Summer 2026 (Atlanta, GA)](https://jobright.ai/jobs/info/69eb48d17820c036924f2890?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
