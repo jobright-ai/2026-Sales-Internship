@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69d6d60b52a5bf580012c643?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 25 |
+| **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Norcross, GA](https://jobright.ai/jobs/info/69d01f7c0b098b7a670768c4?utm_campaign=1051&utm_source=git)** | Norcross, GA | On Site | Apr 25 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/69ece27b7820c036924fbe23?utm_campaign=1051&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Apr 25 |
 | **[Tessco LLC](http://www.tessco.com)** | **[Distribution Center Intern](https://jobright.ai/jobs/info/69cff14b54f00230c6d0d7d0?utm_campaign=1051&utm_source=git)** | Hunt Valley, MD | On Site | Apr 25 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern - San Jose](https://jobright.ai/jobs/info/695d69a2f1f8465b79f393fc?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69ecd02216b2612c2a1234ac?utm_campaign=1051&utm_source=git)** | Detroit Metro | Hybrid | Apr 25 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Saint-Louis Showroom Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69d0435e891d7b11cfcda122?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 25 |
 | **[Veterans United Home Loans](https://www.veterans-united.org)** | **[Intern - Loan Coordinating](https://jobright.ai/jobs/info/69d02d14366bb95ba551c32c?utm_campaign=1051&utm_source=git)** | Greater St. Louis | On Site | Apr 25 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69b376cfa8ac8e70ff67bc87?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 25 |
 | **[TERRY ASSET MANAGEMENT LLC](https://www.linkedin.com/company/58812246)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69ecda534b0fa35a7078365c?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Apr 25 |
@@ -73,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[RxGpt](https://rxgpthealth.com)** | **[PROSPECTING INTERN](https://jobright.ai/jobs/info/69ec565158811370cb13f9ee?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[Kemco Systems](https://www.kemcosystems.com)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ec5daa0a6e09555304dc80?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Apr 24 |
 | **[DCPS](https://dcps.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/69ec5dc64b0fa35a70781fd5?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Apr 24 |
-| **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63af?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
-| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63ad?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
+| **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63ad?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
+| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63af?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
 | ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec382d58811370cb13f565?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Apr 24 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Indianapolis, IN)](https://jobright.ai/jobs/info/69ec382a4b0fa35a70781a11?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
 | **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ec36b916b2612c2a121b82?utm_campaign=1051&utm_source=git)** | Evangeline Parish County, LA | On Site | Apr 24 |
@@ -108,8 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Global Sales, Summer Intern](https://jobright.ai/jobs/info/69ebf39058811370cb13dcda?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
 | ↳ | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69ebf38758811370cb13dca6?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 24 |
 | **[Kemco Systems](https://www.kemcosystems.com)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ebf0057820c036924f81be?utm_campaign=1051&utm_source=git)** | Clearwater, FL, US | On Site | Apr 24 |
-| **[TruGen AI](https://trugen.ai)** | **[Sales & Marketing Intern (AI Startup)](https://jobright.ai/jobs/info/69ebef13dc35f7132c4b45fe?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
-| ↳ | **[Community & Partnerships Intern (AI Startup)](https://jobright.ai/jobs/info/69ebef077820c036924f80ea?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
+| **[TruGen AI](https://trugen.ai)** | **[Community & Partnerships Intern (AI Startup)](https://jobright.ai/jobs/info/69ebef077820c036924f80ea?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
 | **[TZ Medical](http://tzmedical.com)** | **[Medical Device Sales Internship Fall 2026 (Paid)](https://jobright.ai/jobs/info/69ec11850a6e09555304c586?utm_campaign=1051&utm_source=git)** | Tualatin, OR | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69ec11e516b2612c2a120bc8?utm_campaign=1051&utm_source=git)** | Frisco, TX | On Site | Apr 24 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebe50b58811370cb13d67f?utm_campaign=1051&utm_source=git)** | Waukesha, WI | On Site | Apr 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69ebdda00a6e09555304adf4?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 24 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[AAA Field Sales Intern - CO West Region](https://jobright.ai/jobs/info/69962023e0bddb6acac47f52?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Apr 24 |
 | **[AvePoint Public Sector](https://www.avepoint.com/solutions/us-public-sector)** | **[Sales Internship - Public Sector](https://jobright.ai/jobs/info/69ebb88d7820c036924f6699?utm_campaign=1051&utm_source=git)** | Arlington, VA, United States | On Site | Apr 24 |
-| **[Greenlight](https://greenlight.com/)** | **[Sales Enablement & Operations Intern](https://jobright.ai/jobs/info/69ebb7f958811370cb13bff0?utm_campaign=1051&utm_source=git)** | Atlanta Metro | Hybrid | Apr 24 |
-| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Buying Intern](https://jobright.ai/jobs/info/69cee712891d7b11cfcce32d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 24 |
-| **[Structural Group, Inc.](http://www.structuralgroup.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ebb7827820c036924f6428?utm_campaign=1051&utm_source=git)** | Columbia, MD, US | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
