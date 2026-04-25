@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DentalScan](https://www.dentalscan.us)** | **[Business Development Intern (Healthcare / Dental)](https://jobright.ai/jobs/info/69ecf75816b2612c2a123bdd?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69d6d60b52a5bf580012c643?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 25 |
 | **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Norcross, GA](https://jobright.ai/jobs/info/69d01f7c0b098b7a670768c4?utm_campaign=1051&utm_source=git)** | Norcross, GA | On Site | Apr 25 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/69ece27b7820c036924fbe23?utm_campaign=1051&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Apr 25 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[RxGpt](https://rxgpthealth.com)** | **[PROSPECTING INTERN](https://jobright.ai/jobs/info/69ec565158811370cb13f9ee?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[Kemco Systems](https://www.kemcosystems.com)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ec5daa0a6e09555304dc80?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Apr 24 |
 | **[DCPS](https://dcps.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/69ec5dc64b0fa35a70781fd5?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Apr 24 |
-| **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63ad?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
-| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63af?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
+| **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63af?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
+| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63ad?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
 | ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec382d58811370cb13f565?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Apr 24 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Indianapolis, IN)](https://jobright.ai/jobs/info/69ec382a4b0fa35a70781a11?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
 | **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ec36b916b2612c2a121b82?utm_campaign=1051&utm_source=git)** | Evangeline Parish County, LA | On Site | Apr 24 |
@@ -112,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Global Sales, Summer Intern](https://jobright.ai/jobs/info/69ebf39058811370cb13dcda?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
 | ↳ | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69ebf38758811370cb13dca6?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 24 |
 | **[Kemco Systems](https://www.kemcosystems.com)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ebf0057820c036924f81be?utm_campaign=1051&utm_source=git)** | Clearwater, FL, US | On Site | Apr 24 |
-| **[TruGen AI](https://trugen.ai)** | **[Community & Partnerships Intern (AI Startup)](https://jobright.ai/jobs/info/69ebef077820c036924f80ea?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
 | **[TZ Medical](http://tzmedical.com)** | **[Medical Device Sales Internship Fall 2026 (Paid)](https://jobright.ai/jobs/info/69ec11850a6e09555304c586?utm_campaign=1051&utm_source=git)** | Tualatin, OR | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69ec11e516b2612c2a120bc8?utm_campaign=1051&utm_source=git)** | Frisco, TX | On Site | Apr 24 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebe50b58811370cb13d67f?utm_campaign=1051&utm_source=git)** | Waukesha, WI | On Site | Apr 24 |
@@ -133,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Global Accounts Sales & Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69ebc9bd16b2612c2a11efee?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Apr 24 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebc7aa7820c036924f73e1?utm_campaign=1051&utm_source=git)** | Waukesha, Wisconsin, United States of America, 53188-1696 | On Site | Apr 24 |
 | ↳ | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebc79e16b2612c2a11eed8?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States of America, 20004-2414 | On Site | Apr 24 |
-| **[Rutgers University](http://www.rutgers.edu)** | **[Engagement & Events Intern](https://jobright.ai/jobs/info/69ebfbb84b0fa35a7077fbc4?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
-| ↳ | **[Brand Partnership Activation Intern](https://jobright.ai/jobs/info/69ebf35b58811370cb13dbd2?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
+| **[Rutgers University](http://www.rutgers.edu)** | **[Brand Partnership Activation Intern](https://jobright.ai/jobs/info/69ebf35b58811370cb13dbd2?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
+| ↳ | **[Engagement & Events Intern](https://jobright.ai/jobs/info/69ebfbb84b0fa35a7077fbc4?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Sales and Outreach Internship (Flexible, 2-5 hours/week)](https://jobright.ai/jobs/info/69ebef1d58811370cb13da75?utm_campaign=1051&utm_source=git)** | Greater Seattle Area | Remote | Apr 24 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69ebc3d50a6e09555304a386?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Apr 24 |
 | **[Cruze](https://cruzemaps.com/)** | **[Cruze Sales and Marketing Intern](https://jobright.ai/jobs/info/69ebc3ce58811370cb13c5cd?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
