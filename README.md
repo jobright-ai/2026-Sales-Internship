@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Selling - Intern](https://jobright.ai/jobs/info/69d047d6cdb525785fba956e?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Apr 25 |
 | **[DentalScan](https://www.dentalscan.us)** | **[Business Development Intern (Healthcare / Dental)](https://jobright.ai/jobs/info/69ecf75816b2612c2a123bdd?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69d6d60b52a5bf580012c643?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 25 |
 | **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Norcross, GA](https://jobright.ai/jobs/info/69d01f7c0b098b7a670768c4?utm_campaign=1051&utm_source=git)** | Norcross, GA | On Site | Apr 25 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[RxGpt](https://rxgpthealth.com)** | **[PROSPECTING INTERN](https://jobright.ai/jobs/info/69ec565158811370cb13f9ee?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[Kemco Systems](https://www.kemcosystems.com)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ec5daa0a6e09555304dc80?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Apr 24 |
 | **[DCPS](https://dcps.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/69ec5dc64b0fa35a70781fd5?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Apr 24 |
-| **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63af?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
-| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63ad?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
+| **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63ad?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
+| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63af?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
 | ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec382d58811370cb13f565?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Apr 24 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Indianapolis, IN)](https://jobright.ai/jobs/info/69ec382a4b0fa35a70781a11?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
 | **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ec36b916b2612c2a121b82?utm_campaign=1051&utm_source=git)** | Evangeline Parish County, LA | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TZ Medical](http://tzmedical.com)** | **[TZ Medical - Medical Device Sales Internship Program](https://jobright.ai/jobs/info/69ebf60516b2612c2a12002f?utm_campaign=1051&utm_source=git)** | Tualatin, OR | On Site | Apr 24 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69ebdda00a6e09555304adf4?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 24 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[AAA Field Sales Intern - CO West Region](https://jobright.ai/jobs/info/69962023e0bddb6acac47f52?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Apr 24 |
-| **[AvePoint Public Sector](https://www.avepoint.com/solutions/us-public-sector)** | **[Sales Internship - Public Sector](https://jobright.ai/jobs/info/69ebb88d7820c036924f6699?utm_campaign=1051&utm_source=git)** | Arlington, VA, United States | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
