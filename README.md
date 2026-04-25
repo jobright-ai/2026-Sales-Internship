@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63af?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
+| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63ad?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
+| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec382d58811370cb13f565?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Apr 24 |
+| **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Indianapolis, IN)](https://jobright.ai/jobs/info/69ec382a4b0fa35a70781a11?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
+| **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ec36b916b2612c2a121b82?utm_campaign=1051&utm_source=git)** | Evangeline Parish County, LA | On Site | Apr 24 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[ACE Mentorship Program - Intern](https://jobright.ai/jobs/info/69ec32e1dc35f7132c4b614a?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Apr 24 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/69ec2744dc35f7132c4b5f2e?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 24 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Intern- Gap Store Operations, Retail Strategies](https://jobright.ai/jobs/info/69ec272d58811370cb13f0dc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69ec272a58811370cb13f0c1?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Apr 24 |
@@ -65,6 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[College Intern (ETS) - Entry Level Buyer I - Procurement Operations/ Temporary](https://jobright.ai/jobs/info/69ec270e16b2612c2a121425?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Apr 24 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Business Market](https://jobright.ai/jobs/info/69ec26b90a6e09555304ce88?utm_campaign=1051&utm_source=git)** | Nanaimo, British Columbia, Canada | On Site | Apr 24 |
 | **[AARP](http://www.aarp.org)** | **[Startup Account Management Intern](https://jobright.ai/jobs/info/69bc5d814828227293fe19f8?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Apr 24 |
+| **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SALES ASSOCIATE (RPT/MENS & SHOES)](https://jobright.ai/jobs/info/69ec2f2758811370cb13f1fb?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Apr 24 |
+| ↳ | **[SALES ASSOCIATE (FLEX/MENS & SHOES)](https://jobright.ai/jobs/info/69ec2dd60a6e09555304cfc2?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Apr 24 |
 | **[APMEX, Inc.](http://www.apmex.com)** | **[Retail Trader Intern- Onsite OKC, OK](https://jobright.ai/jobs/info/69ec0ab658811370cb13e603?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Apr 24 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships – Data & Research](https://jobright.ai/jobs/info/69d3f81ce63cea7a8b655528?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[APMEX, Inc.](http://www.apmex.com)** | **[Online Marketplaces Intern- Onsite OKC, OK](https://jobright.ai/jobs/info/69ec0ab2dc35f7132c4b543e?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Apr 24 |
@@ -94,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69ec11e516b2612c2a120bc8?utm_campaign=1051&utm_source=git)** | Frisco, TX | On Site | Apr 24 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebe50b58811370cb13d67f?utm_campaign=1051&utm_source=git)** | Waukesha, WI | On Site | Apr 24 |
 | **[Solenis](http://solenis.com/)** | **[Pulp and Paper Technical Sales Internship - Fall 2026](https://jobright.ai/jobs/info/69ebddffdc35f7132c4b3fe0?utm_campaign=1051&utm_source=git)** | Georgia, United States | On Site | Apr 24 |
-| **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69dfe888aba61f141731e308?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Apr 24 |
 | **[Jackson](https://www.jackson.com)** | **[Intern](https://jobright.ai/jobs/info/69ebfc2458811370cb13e0da?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 24 |
 | **[APMEX, Inc.](http://www.apmex.com)** | **[Retail Trader Intern- Onsite OKC, OK](https://jobright.ai/jobs/info/69ebd9130a6e09555304ab0b?utm_campaign=1051&utm_source=git)** | APMEX DOWNTOWN - Oklahoma City, OK 73102 | On Site | Apr 24 |
 | **[LJA](https://www.lja.com/)** | **[Intern - Business Development](https://jobright.ai/jobs/info/69ebd90e58811370cb13d164?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Apr 24 |
@@ -107,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69ebd30a16b2612c2a11f2b6?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL | On Site | Apr 24 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69ebd2c07820c036924f768f?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
 | **[GlobalFoundries](https://gf.com/)** | **[Sales Account Manager Intern, Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/69ebfd514b0fa35a70780002?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Apr 24 |
-| **[Data Axle - Inboxable](https://www.data-axle.com/what-we-do/inboxable/features/)** | **[Revenue Enablement Specialist Intern](https://jobright.ai/jobs/info/69ebfd9d0a6e09555304bddb?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Toyland Intern](https://jobright.ai/jobs/info/69ebfcf77820c036924f875a?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Apr 24 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Global Accounts Sales & Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69ebc9bd16b2612c2a11efee?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Apr 24 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebc7aa7820c036924f73e1?utm_campaign=1051&utm_source=git)** | Waukesha, Wisconsin, United States of America, 53188-1696 | On Site | Apr 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zywave](http://www.zywave.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ebae8c0a6e0955530498da?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Apr 24 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Intern (Business Development – Sales)](https://jobright.ai/jobs/info/69ea509658811370cb13269b?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 24 |
 | **[Oklahoma State University Foundation](http://OSUgiving.com)** | **[Donor Engagement Intern](https://jobright.ai/jobs/info/69ebaac058811370cb13bb0c?utm_campaign=1051&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Apr 24 |
-| **[AV](https://www.avinc.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69eba8210a6e09555304959c?utm_campaign=1051&utm_source=git)** | 20521 Seneca Meadows Pkwy, Germantown, MD, US | On Site | Apr 24 |
-| **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/69cf7aa0891d7b11cfcd3f5a?utm_campaign=1051&utm_source=git)** | Brookings, SD | Hybrid | Apr 24 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Sales Intern (Year-Round)](https://jobright.ai/jobs/info/69ebc3b4dc35f7132c4b320e?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Apr 24 |
-| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69ebc798dc35f7132c4b37c2?utm_campaign=1051&utm_source=git)** | Walnut, CA | On Site | Apr 24 |
-| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69ebc7bc16b2612c2a11ef26?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Apr 24 |
-| ↳ | **[Regional Account Manager](https://jobright.ai/jobs/info/69ebc7b858811370cb13cd43?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
