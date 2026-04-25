@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698512a18da7a612045f65ec?utm_campaign=1051&utm_source=git)** | Caledon, ON | Hybrid | Apr 25 |
 | **[FCX Performance](http://fcxperformance.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/69ed2b387820c036924fc574?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Apr 25 |
 | **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Sales Intern - Nashville, TN](https://jobright.ai/jobs/info/6998d8e8ce78e77b4fdd6927?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 25 |
 | **[Sony](https://www.sony.com)** | **[Venture Research Intern](https://jobright.ai/jobs/info/69d73576706f771673bb0ac3?utm_campaign=1051&utm_source=git)** | San Mateo, CA | Hybrid | Apr 25 |
+| **[Data Axle - Inboxable](https://www.data-axle.com/what-we-do/inboxable/features/)** | **[Revenue Enablement Specialist Intern](https://jobright.ai/jobs/info/69ed40890a6e09555304f906?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/69990f47e0bddb6acac805ce?utm_campaign=1051&utm_source=git)** | Long Beach, CA | Hybrid | Apr 25 |
 | **[Insight](https://www.insight.com)** | **[Client Executive Intern](https://jobright.ai/jobs/info/69d13a260b098b7a670803e1?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 25 |
+| **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/69990b2be0bddb6acac802da?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Apr 25 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[TruckPaper Sales Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382910?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 25 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Experience Intern (Graduate Student)](https://jobright.ai/jobs/info/69b4caea06c1ba00c546481c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 25 |
 | ↳ | **[Client Success Intern](https://jobright.ai/jobs/info/69b4caea3b74eb1e2c822762?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 25 |
 | **[Inovalon](http://www.inovalon.com)** | **[Sales Intern / Summer 2026](https://jobright.ai/jobs/info/69b4ab153b74eb1e2c82027d?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Apr 25 |
@@ -142,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Global Accounts Sales & Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69ebc9bd16b2612c2a11efee?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Apr 24 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebc7aa7820c036924f73e1?utm_campaign=1051&utm_source=git)** | Waukesha, Wisconsin, United States of America, 53188-1696 | On Site | Apr 24 |
 | ↳ | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebc79e16b2612c2a11eed8?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States of America, 20004-2414 | On Site | Apr 24 |
-| **[Rutgers University](http://www.rutgers.edu)** | **[Brand Partnership Activation Intern](https://jobright.ai/jobs/info/69ebf35b58811370cb13dbd2?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
-| ↳ | **[Engagement & Events Intern](https://jobright.ai/jobs/info/69ebfbb84b0fa35a7077fbc4?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
+| **[Rutgers University](http://www.rutgers.edu)** | **[Engagement & Events Intern](https://jobright.ai/jobs/info/69ebfbb84b0fa35a7077fbc4?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
+| ↳ | **[Brand Partnership Activation Intern](https://jobright.ai/jobs/info/69ebf35b58811370cb13dbd2?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Sales and Outreach Internship (Flexible, 2-5 hours/week)](https://jobright.ai/jobs/info/69ebef1d58811370cb13da75?utm_campaign=1051&utm_source=git)** | Greater Seattle Area | Remote | Apr 24 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69ebc3d50a6e09555304a386?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Apr 24 |
 | **[Cruze](https://cruzemaps.com/)** | **[Cruze Sales and Marketing Intern](https://jobright.ai/jobs/info/69ebc3ce58811370cb13c5cd?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Account Service Intern](https://jobright.ai/jobs/info/69ebc3097820c036924f6b70?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ebc2dbdc35f7132c4b2fa1?utm_campaign=1051&utm_source=git)** | Kansas City, Missouri | On Site | Apr 24 |
 | ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ebc2d77820c036924f6a95?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | On Site | Apr 24 |
-| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ebc2c50a6e095553049ff3?utm_campaign=1051&utm_source=git)** | St. Louis, Missouri | On Site | Apr 24 |
-| **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Toyland Intern](https://jobright.ai/jobs/info/69ebc2aa58811370cb13c34a?utm_campaign=1051&utm_source=git)** | Buffalo, New York, United States | On Site | Apr 24 |
-| **[Plug-In Promotions Inc](pluginpromotions.com)** | **[Sales Intern – Plug In Promotions (Summer 2026)](https://jobright.ai/jobs/info/69ebc251dc35f7132c4b2e36?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Apr 24 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebddb3dc35f7132c4b3eb8?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
