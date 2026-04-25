@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veterans United Home Loans](https://www.veterans-united.org)** | **[Intern - Loan Coordinating](https://jobright.ai/jobs/info/69d02d14366bb95ba551c32c?utm_campaign=1051&utm_source=git)** | Greater St. Louis | On Site | Apr 25 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69b376cfa8ac8e70ff67bc87?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller Live Analytics Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS)](https://jobright.ai/jobs/info/694349c2dd382f5f566949d3?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 25 |
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69cff5cf54f00230c6d0df07?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 25 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Sales Intern, North/East Bay, CA - Summer 2026](https://jobright.ai/jobs/info/697b3df51423772304eb64fe?utm_campaign=1051&utm_source=git)** | Napa, CA | Hybrid | Apr 25 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Internal Production - Home Loan Advisor - In-Market](https://jobright.ai/jobs/info/699941eace78e77b4fde0176?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 25 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69ec72e558811370cb140042?utm_campaign=1051&utm_source=git)** | Canada | Remote | Apr 25 |
 | **[RxGpt](https://rxgpthealth.com)** | **[PROSPECTING INTERN](https://jobright.ai/jobs/info/69ec565158811370cb13f9ee?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
+| **[Matson, Inc.](http://matson.com)** | **[Pricing Intern](https://jobright.ai/jobs/info/69ecc20516b2612c2a122dfe?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Apr 24 |
 | **[Kemco Systems](https://www.kemcosystems.com)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ec5daa0a6e09555304dc80?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Apr 24 |
 | **[DCPS](https://dcps.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/69ec5dc64b0fa35a70781fd5?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Apr 24 |
 | **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63af?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
@@ -123,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Global Accounts Sales & Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69ebc9bd16b2612c2a11efee?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Apr 24 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebc7aa7820c036924f73e1?utm_campaign=1051&utm_source=git)** | Waukesha, Wisconsin, United States of America, 53188-1696 | On Site | Apr 24 |
 | ↳ | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebc79e16b2612c2a11eed8?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States of America, 20004-2414 | On Site | Apr 24 |
-| **[Rutgers University](http://www.rutgers.edu)** | **[Brand Partnership Activation Intern](https://jobright.ai/jobs/info/69ebf35b58811370cb13dbd2?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
-| ↳ | **[Engagement & Events Intern](https://jobright.ai/jobs/info/69ebfbb84b0fa35a7077fbc4?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
+| **[Rutgers University](http://www.rutgers.edu)** | **[Engagement & Events Intern](https://jobright.ai/jobs/info/69ebfbb84b0fa35a7077fbc4?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
+| ↳ | **[Brand Partnership Activation Intern](https://jobright.ai/jobs/info/69ebf35b58811370cb13dbd2?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Sales and Outreach Internship (Flexible, 2-5 hours/week)](https://jobright.ai/jobs/info/69ebef1d58811370cb13da75?utm_campaign=1051&utm_source=git)** | Greater Seattle Area | Remote | Apr 24 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69ebc3d50a6e09555304a386?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Apr 24 |
 | **[Cruze](https://cruzemaps.com/)** | **[Cruze Sales and Marketing Intern](https://jobright.ai/jobs/info/69ebc3ce58811370cb13c5cd?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Account Service Intern](https://jobright.ai/jobs/info/69ebfd154b0fa35a7077ffa7?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Planning & Allocation](https://jobright.ai/jobs/info/69cee71f398fb071abf8a979?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Brother USA](https://brother-usa.com)** | **[Sales Operations Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/69cf4cc2cdb525785fba1376?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | Hybrid | Apr 24 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/69b62bce06c1ba00c54803ad?utm_campaign=1051&utm_source=git)** | Burlington, NJ | Hybrid | Apr 24 |
-| **[Oklahoma State University Foundation](http://OSUgiving.com)** | **[Donor Engagement Intern](https://jobright.ai/jobs/info/69ebfce8dc35f7132c4b4d30?utm_campaign=1051&utm_source=git)** | Stillwater, OK | On Site | Apr 24 |
-| **[AFL](http://www.AFLglobal.com)** | **[Client Success Intern- Summer 2026](https://jobright.ai/jobs/info/69cf4569398fb071abf8e573?utm_campaign=1051&utm_source=git)** | Duncan, SC | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
