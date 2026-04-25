@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69cff5cf54f00230c6d0df07?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 25 |
+| **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Sales Intern, North/East Bay, CA - Summer 2026](https://jobright.ai/jobs/info/697b3df51423772304eb64fe?utm_campaign=1051&utm_source=git)** | Napa, CA | Hybrid | Apr 25 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Internal Production - Home Loan Advisor - In-Market](https://jobright.ai/jobs/info/699941eace78e77b4fde0176?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 25 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69ec72e558811370cb140042?utm_campaign=1051&utm_source=git)** | Canada | Remote | Apr 25 |
 | **[RxGpt](https://rxgpthealth.com)** | **[PROSPECTING INTERN](https://jobright.ai/jobs/info/69ec565158811370cb13f9ee?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[Kemco Systems](https://www.kemcosystems.com)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ec5daa0a6e09555304dc80?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Apr 24 |
 | **[DCPS](https://dcps.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/69ec5dc64b0fa35a70781fd5?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Apr 24 |
-| **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63ad?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
-| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63af?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
+| **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63af?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
+| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63ad?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
 | ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec382d58811370cb13f565?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Apr 24 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Indianapolis, IN)](https://jobright.ai/jobs/info/69ec382a4b0fa35a70781a11?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
 | **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ec36b916b2612c2a121b82?utm_campaign=1051&utm_source=git)** | Evangeline Parish County, LA | On Site | Apr 24 |
@@ -86,8 +88,7 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Sports and Entertainment Intern](https://jobright.ai/jobs/info/69ebfdf70a6e09555304beea?utm_campaign=1051&utm_source=git)** | Plainview, NY | On Site | Apr 24 |
 | **[Altitude Promotions](https://altitudepromotions.com)** | **[B2B Intern](https://jobright.ai/jobs/info/69ebfdcbdc35f7132c4b4ec4?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Global Sales, Summer Intern](https://jobright.ai/jobs/info/69ebfc094b0fa35a7077fd96?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Apr 24 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ebfbe84b0fa35a7077fccf?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Apr 24 |
-| **[Legends Global](http://legends.net)** | **[Merchandise Internship: 2026 PGA Championship](https://jobright.ai/jobs/info/69ebfbd0dc35f7132c4b4aa2?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
+| ↳ | **[Merchandise Internship: 2026 PGA Championship](https://jobright.ai/jobs/info/69ebfbd0dc35f7132c4b4aa2?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
 | **[AV](https://www.avinc.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ebfb8f16b2612c2a1201ef?utm_campaign=1051&utm_source=git)** | Germantown, MD | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69ebfb8b16b2612c2a1201d6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
 | ↳ | **[2026 Cincinnati Open Merchandise Assistant Internship](https://jobright.ai/jobs/info/69ebfb8816b2612c2a1201c9?utm_campaign=1051&utm_source=git)** | Greater Indianapolis | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zywave](http://www.zywave.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ebae8c0a6e0955530498da?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Apr 24 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Intern (Business Development – Sales)](https://jobright.ai/jobs/info/69ea509658811370cb13269b?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 24 |
 | **[Oklahoma State University Foundation](http://OSUgiving.com)** | **[Donor Engagement Intern](https://jobright.ai/jobs/info/69ebaac058811370cb13bb0c?utm_campaign=1051&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Apr 24 |
-| **[AV](https://www.avinc.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69eba8210a6e09555304959c?utm_campaign=1051&utm_source=git)** | 20521 Seneca Meadows Pkwy, Germantown, MD, US | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
