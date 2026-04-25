@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63af?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
-| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63ad?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Remote - Shopify Agency Partnerships Intern](https://jobright.ai/jobs/info/69ec416416b2612c2a121e1a?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
+| **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63ad?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
+| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63af?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
 | ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec382d58811370cb13f565?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Apr 24 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Indianapolis, IN)](https://jobright.ai/jobs/info/69ec382a4b0fa35a70781a11?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
 | **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ec36b916b2612c2a121b82?utm_campaign=1051&utm_source=git)** | Evangeline Parish County, LA | On Site | Apr 24 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[College Intern (ETS) - Entry Level Buyer I - Procurement Operations/ Temporary](https://jobright.ai/jobs/info/69ec270e16b2612c2a121425?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Apr 24 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Business Market](https://jobright.ai/jobs/info/69ec26b90a6e09555304ce88?utm_campaign=1051&utm_source=git)** | Nanaimo, British Columbia, Canada | On Site | Apr 24 |
 | **[AARP](http://www.aarp.org)** | **[Startup Account Management Intern](https://jobright.ai/jobs/info/69bc5d814828227293fe19f8?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Apr 24 |
-| **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SALES ASSOCIATE (RPT/MENS & SHOES)](https://jobright.ai/jobs/info/69ec2f2758811370cb13f1fb?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Apr 24 |
-| ↳ | **[SALES ASSOCIATE (FLEX/MENS & SHOES)](https://jobright.ai/jobs/info/69ec2dd60a6e09555304cfc2?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Apr 24 |
+| **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SALES ASSOCIATE (FLEX/MENS & SHOES)](https://jobright.ai/jobs/info/69ec2dd60a6e09555304cfc2?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Apr 24 |
+| ↳ | **[SALES ASSOCIATE (RPT/MENS & SHOES)](https://jobright.ai/jobs/info/69ec2f2758811370cb13f1fb?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Apr 24 |
 | **[APMEX, Inc.](http://www.apmex.com)** | **[Retail Trader Intern- Onsite OKC, OK](https://jobright.ai/jobs/info/69ec0ab658811370cb13e603?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Apr 24 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships – Data & Research](https://jobright.ai/jobs/info/69d3f81ce63cea7a8b655528?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[APMEX, Inc.](http://www.apmex.com)** | **[Online Marketplaces Intern- Onsite OKC, OK](https://jobright.ai/jobs/info/69ec0ab2dc35f7132c4b543e?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AFL](http://www.AFLglobal.com)** | **[Client Success Intern- Summer 2026](https://jobright.ai/jobs/info/69cf4569398fb071abf8e573?utm_campaign=1051&utm_source=git)** | Duncan, SC | Hybrid | Apr 24 |
 | **[Zywave](http://www.zywave.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ebae8c0a6e0955530498da?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Apr 24 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Intern (Business Development – Sales)](https://jobright.ai/jobs/info/69ea509658811370cb13269b?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 24 |
-| **[Oklahoma State University Foundation](http://OSUgiving.com)** | **[Donor Engagement Intern](https://jobright.ai/jobs/info/69ebaac058811370cb13bb0c?utm_campaign=1051&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
