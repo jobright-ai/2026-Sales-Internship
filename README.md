@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Software Sales Intern](https://jobright.ai/jobs/info/697d59ad3f57a33569673ac1?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Apr 26 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Seller Fees](https://jobright.ai/jobs/info/6997ce0d81476f6176affdda?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 26 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[In House Sales Data & Projects Intern](https://jobright.ai/jobs/info/697d5cfa3f57a33569673ed0?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Apr 26 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Sales Internship-Raleigh](https://jobright.ai/jobs/info/69ee2c96dc35f7132c4ba2f5?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Apr 26 |
 | **[Van Subaru](http://www.vansubaru.com)** | **[INTERN - Sales Field Operations](https://jobright.ai/jobs/info/69ee2858dc35f7132c4ba252?utm_campaign=1051&utm_source=git)** | Camden, NJ, United States | On Site | Apr 26 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Sales Field Operations](https://jobright.ai/jobs/info/69ee2856dc35f7132c4ba24e?utm_campaign=1051&utm_source=git)** | Camden, NJ, United States | On Site | Apr 26 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69630fff25e18715077fbeda?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Apr 26 |
@@ -83,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Capma.io](https://capma.io/)** | **[Sales Intern](https://jobright.ai/jobs/info/69ed75030a6e09555304fcf0?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Goosehead Insurance](https://www.goosehead.com)** | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a3956e359fe034b1ce93ee?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 25 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a39528b600907a9629a11e?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Apr 25 |
-| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/6981281f7f40342e15da09bc?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Apr 25 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/698135d57f40342e15da2694?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 25 |
+| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/6981281f7f40342e15da09bc?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Apr 25 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a39525b600907a9629a116?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a392580da45516f16c98fa?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 25 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a4c1830da45516f16d71dd?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Event Sales Intern](https://jobright.ai/jobs/info/69ebf4f77820c036924f8385?utm_campaign=1051&utm_source=git)** | Hagerstown, MD | On Site | Apr 24 |
 | **[APMEX, Inc.](http://www.apmex.com)** | **[Online Marketplaces Intern- Onsite OKC, OK](https://jobright.ai/jobs/info/69ebf4d1dc35f7132c4b4816?utm_campaign=1051&utm_source=git)** | APMEX DOWNTOWN - Oklahoma City, OK 73102 | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Global Sales, Summer Intern](https://jobright.ai/jobs/info/69ebf39058811370cb13dcda?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
+| ↳ | **[Partnership Strategy Intern](https://jobright.ai/jobs/info/69ebf38758811370cb13dca6?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
