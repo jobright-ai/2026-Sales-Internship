@@ -67,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a39525b600907a9629a116?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a392580da45516f16c98fa?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 25 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a4c1830da45516f16d71dd?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 25 |
-| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69811a11abff4c399a9fe9ee?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Apr 25 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69583a029f1b381eb2712094?utm_campaign=1051&utm_source=git)** | Nashville Metro | Hybrid | Apr 25 |
+| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69811a11abff4c399a9fe9ee?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Apr 25 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69811b00abff4c399a9feb49?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Apr 25 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/698123ebabff4c399a9ff919?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 25 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698512a18da7a612045f65ec?utm_campaign=1051&utm_source=git)** | Caledon, ON | Hybrid | Apr 25 |
@@ -102,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Internal Production - Home Loan Advisor - In-Market](https://jobright.ai/jobs/info/699941eace78e77b4fde0176?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Apr 25 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69ec72e558811370cb140042?utm_campaign=1051&utm_source=git)** | Canada | Remote | Apr 25 |
 | **[RxGpt](https://rxgpthealth.com)** | **[PROSPECTING INTERN](https://jobright.ai/jobs/info/69ec565158811370cb13f9ee?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
+| **[Branksome Hall](https://www.branksome.on.ca)** | **[Advancement Intern](https://jobright.ai/jobs/info/69e93ad77820c036924e6af2?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 24 |
 | **[Kemco Systems](https://www.kemcosystems.com)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ec5daa0a6e09555304dc80?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Apr 24 |
 | **[DCPS](https://dcps.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/69ec5dc64b0fa35a70781fd5?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Apr 24 |
 | **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63af?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[Sales Account Manager Intern, Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/69ebfd514b0fa35a70780002?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Apr 24 |
 | **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Toyland Intern](https://jobright.ai/jobs/info/69ebfcf77820c036924f875a?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Apr 24 |
 | **[Rezolve Ai](http://www.rezolve.com)** | **[Global Partnerships, Strategy & Operations Analyst (Summer Intern)](https://jobright.ai/jobs/info/69ecdadf58811370cb140be2?utm_campaign=1051&utm_source=git)** | REMOTE-Canada | Remote | Apr 24 |
-| **[Lenovo](https://www.lenovo.com/in/en)** | **[Global Accounts Sales & Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69ebc9bd16b2612c2a11efee?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
