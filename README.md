@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goosehead Insurance](https://www.goosehead.com)** | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a3956e359fe034b1ce93ee?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 25 |
+| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a39528b600907a9629a11e?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Apr 25 |
+| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/698135d57f40342e15da2694?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 25 |
+| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/6981281f7f40342e15da09bc?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Apr 25 |
+| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a39525b600907a9629a116?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
+| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a392580da45516f16c98fa?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 25 |
+| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a4c1830da45516f16d71dd?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 25 |
+| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69811a11abff4c399a9fe9ee?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Apr 25 |
+| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69583a029f1b381eb2712094?utm_campaign=1051&utm_source=git)** | Nashville Metro | Hybrid | Apr 25 |
+| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/698123ebabff4c399a9ff919?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 25 |
+| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69811b00abff4c399a9feb49?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Apr 25 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698512a18da7a612045f65ec?utm_campaign=1051&utm_source=git)** | Caledon, ON | Hybrid | Apr 25 |
 | **[FCX Performance](http://fcxperformance.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/69ed2b387820c036924fc574?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Apr 25 |
 | **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Sales Intern - Nashville, TN](https://jobright.ai/jobs/info/6998d8e8ce78e77b4fdd6927?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 25 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Global Accounts Sales & Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69ebc9bd16b2612c2a11efee?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Apr 24 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebc7aa7820c036924f73e1?utm_campaign=1051&utm_source=git)** | Waukesha, Wisconsin, United States of America, 53188-1696 | On Site | Apr 24 |
 | ↳ | **[Commercial Operations Intern, USCAN Radiopharmacy](https://jobright.ai/jobs/info/69ebc79e16b2612c2a11eed8?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States of America, 20004-2414 | On Site | Apr 24 |
-| **[Rutgers University](http://www.rutgers.edu)** | **[Engagement & Events Intern](https://jobright.ai/jobs/info/69ebfbb84b0fa35a7077fbc4?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
-| ↳ | **[Brand Partnership Activation Intern](https://jobright.ai/jobs/info/69ebf35b58811370cb13dbd2?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
-| **[Kelly Tutors](www.kellytutors.com)** | **[Sales and Outreach Internship (Flexible, 2-5 hours/week)](https://jobright.ai/jobs/info/69ebef1d58811370cb13da75?utm_campaign=1051&utm_source=git)** | Greater Seattle Area | Remote | Apr 24 |
-| **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69ebc3d50a6e09555304a386?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Apr 24 |
-| **[Cruze](https://cruzemaps.com/)** | **[Cruze Sales and Marketing Intern](https://jobright.ai/jobs/info/69ebc3ce58811370cb13c5cd?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Tombras](http://tombras.com)** | **[Account Service Intern](https://jobright.ai/jobs/info/69ebc39a16b2612c2a11e6db?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 24 |
-| **[Bluebeam](http://www.bluebeam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69ceec79cdb525785fb9d16c?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Machinery Trader Sales Intern](https://jobright.ai/jobs/info/6677104cf278834492d876fb?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Apr 24 |
-| **[Tombras](http://tombras.com)** | **[Account Service Intern](https://jobright.ai/jobs/info/69ebc3097820c036924f6b70?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
-| **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ebc2dbdc35f7132c4b2fa1?utm_campaign=1051&utm_source=git)** | Kansas City, Missouri | On Site | Apr 24 |
-| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ebc2d77820c036924f6a95?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
