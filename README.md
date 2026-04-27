@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foothill Credit Union](https://www.foothillcu.org)** | **[Business Development Internship](https://jobright.ai/jobs/info/69ef8e6efbe0994a40eb7012?utm_campaign=1051&utm_source=git)** | Arcadia, CA | On Site | Apr 27 |
+| **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Customer Success AI Optimization Intern](https://jobright.ai/jobs/info/69ef8e52e624fe645d532087?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Apr 27 |
+| **[H Mart Manhattan](https://www.hmartny.com/)** | **[Bilingual Procurement & Business Operations Intern (Korean/English)](https://jobright.ai/jobs/info/69ef8e29e624fe645d531ff4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 27 |
+| **[Sparrow](https://www.sparrowup.com)** | **[Generalist Intern](https://jobright.ai/jobs/info/69ef8d85fbe0994a40eb6f2b?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 27 |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Field Sales Engineer Intern - S2026](https://jobright.ai/jobs/info/69d3d40ccdb525785fbc374c?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Apr 27 |
 | **[Center for Regional Economic Competitiveness](https://www.creconline.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/69ef84f30a6e095553055698?utm_campaign=1051&utm_source=git)** | DC-Baltimore Area | Hybrid | Apr 27 |
 | **[AnewHealth](https://anewhealthrx.com)** | **[Strategic Partnership Intern](https://jobright.ai/jobs/info/69ef84b3fbe0994a40eb69d2?utm_campaign=1051&utm_source=git)** | Montgomery County, PA | On Site | Apr 27 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales / Operations Intern - Rolla, ND](https://jobright.ai/jobs/info/69ef84b20a6e0955530554da?utm_campaign=1051&utm_source=git)** | Rolla, North Dakota, United States, US | On Site | Apr 27 |
@@ -64,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69ef7d9658811370cb14687e?utm_campaign=1051&utm_source=git)** | La Grange, IL | On Site | Apr 27 |
 | **[de Anda Capital](https://www.deanda.capital/)** | **[Sales & Operations Analyst Intern / Hybrid in New York City / May 2026 Start](https://jobright.ai/jobs/info/69ef7d8f58811370cb14685e?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Apr 27 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Westchester/Rockland Counties)](https://jobright.ai/jobs/info/69ef7d1d16b2612c2a129ac0?utm_campaign=1051&utm_source=git)** | Danbury, CT, United States | On Site | Apr 27 |
-| **[Crum & Forster](https://www.cfins.com/)** | **[Specialty Package NY Intern](https://jobright.ai/jobs/info/69ef7d050a6e095553055172?utm_campaign=1051&utm_source=git)** | US-NY-NEW YORK | On Site | Apr 27 |
 | **[CarepathRx](https://carepathrxllc.com/)** | **[Strategic Partnership Intern](https://jobright.ai/jobs/info/69ef79f9fbe0994a40eb656c?utm_campaign=1051&utm_source=git)** | PA - Remote, US | Remote | Apr 27 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Wilmington NC](https://jobright.ai/jobs/info/69ef74b70a6e095553054fc3?utm_campaign=1051&utm_source=git)** | Wilmington, NC, United States | On Site | Apr 27 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Sales Field Operations](https://jobright.ai/jobs/info/69ef65dde624fe645d530c37?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Apr 27 |
@@ -102,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Capma.io](https://capma.io/)** | **[Sales Intern](https://jobright.ai/jobs/info/69ed75030a6e09555304fcf0?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Goosehead Insurance](https://www.goosehead.com)** | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a3956e359fe034b1ce93ee?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 25 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a39528b600907a9629a11e?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Apr 25 |
-| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/698135d57f40342e15da2694?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 25 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/6981281f7f40342e15da09bc?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Apr 25 |
+| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/698135d57f40342e15da2694?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Apr 25 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a39525b600907a9629a116?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a392580da45516f16c98fa?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 25 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a4c1830da45516f16d71dd?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Intern- Gap Store Operations, Retail Strategies](https://jobright.ai/jobs/info/69ec272d58811370cb13f0dc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69ec272a58811370cb13f0c1?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Apr 24 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/69ec27254b0fa35a7078118b?utm_campaign=1051&utm_source=git)** | Nelson, British Columbia, Canada | On Site | Apr 24 |
-| **[CECO Environmental Corporation](https://www.cecoenviro.com/)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ec27177820c036924f9875?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Apr 24 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[College Intern (ETS) - Entry Level Buyer I - Procurement Operations/ Temporary](https://jobright.ai/jobs/info/69ec270e16b2612c2a121425?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Apr 24 |
-| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Business Market](https://jobright.ai/jobs/info/69ec26b90a6e09555304ce88?utm_campaign=1051&utm_source=git)** | Nanaimo, British Columbia, Canada | On Site | Apr 24 |
-| **[AARP](http://www.aarp.org)** | **[Startup Account Management Intern](https://jobright.ai/jobs/info/69bc5d814828227293fe19f8?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
