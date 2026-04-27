@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brightroc Marketing](brightrocmarketing.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/69eed8660a6e095553052c30?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Apr 26 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/69eebe8558811370cb1444e5?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Apr 26 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69616943a112b402660feb25?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Apr 26 |
 | **[Blue Mountain](http://coolblue.com)** | **[Remote Revenue Operations Analyst Internship](https://jobright.ai/jobs/info/69ee736e7820c036924fee08?utm_campaign=1051&utm_source=git)** | State College, PA | Remote | Apr 26 |
@@ -125,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Branksome Hall](https://www.branksome.on.ca)** | **[Advancement Intern](https://jobright.ai/jobs/info/69e93ad77820c036924e6af2?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 24 |
 | **[Kemco Systems](https://www.kemcosystems.com)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ec5daa0a6e09555304dc80?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Apr 24 |
 | **[DCPS](https://dcps.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/69ec5dc64b0fa35a70781fd5?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Apr 24 |
-| **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63ad?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
-| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63af?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
+| **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63af?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
+| ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec3875dc35f7132c4b63ad?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
 | ↳ | **[Leasing Intern](https://jobright.ai/jobs/info/69ec382d58811370cb13f565?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Apr 24 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Indianapolis, IN)](https://jobright.ai/jobs/info/69ec382a4b0fa35a70781a11?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
 | **[Grown Home](www.grownhome.co.uk)** | **[Kaizen Summer Sales Internship](https://jobright.ai/jobs/info/69ec36b916b2612c2a121b82?utm_campaign=1051&utm_source=git)** | Evangeline Parish County, LA | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69ec117658811370cb13e77c?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[2026 Cincinnati Open Merchandise Assistant Internship](https://jobright.ai/jobs/info/69ebf5067820c036924f83cd?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Apr 24 |
 | ↳ | **[Event Sales Intern](https://jobright.ai/jobs/info/69ebf4f77820c036924f8385?utm_campaign=1051&utm_source=git)** | Hagerstown, MD | On Site | Apr 24 |
-| **[APMEX, Inc.](http://www.apmex.com)** | **[Online Marketplaces Intern- Onsite OKC, OK](https://jobright.ai/jobs/info/69ebf4d1dc35f7132c4b4816?utm_campaign=1051&utm_source=git)** | APMEX DOWNTOWN - Oklahoma City, OK 73102 | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
