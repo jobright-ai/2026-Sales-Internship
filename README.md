@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[D&H Distributing](https://www.dandh.com/)** | **[Sales Operations - (Intern-Summer 2026)](https://jobright.ai/jobs/info/69f0e04162b48c6838792682?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 28 |
+| **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Internship](https://jobright.ai/jobs/info/69cd4dcb398fb071abf73e6f?utm_campaign=1051&utm_source=git)** | Mississippi, United States | Hybrid | Apr 28 |
+| **[Waresport](https://www.waresport.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f0d5bbecbc8c2f73202270?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[OWL Services](https://owlservices.com)** | **[Intern](https://jobright.ai/jobs/info/69f0cfc2ecbc8c2f73201ef5?utm_campaign=1051&utm_source=git)** | Plymouth Meeting, PA, US | On Site | Apr 28 |
 | **[Sun Gro Horticulture](http://www.sungro.com)** | **[Sales Training Internship](https://jobright.ai/jobs/info/699cd34181476f6176b5604e?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 28 |
 | **[Locala](https://asklocala.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69e280475c44d4710fe2575c?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Apr 28 |
@@ -68,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Skymaster](skymasterpro.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69f0c44562b48c6838791212?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Shaw’s and Star Market](https://www.shaws.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/69f0c41762b48c68387911da?utm_campaign=1051&utm_source=git)** | Milford, NH | On Site | Apr 28 |
 | ↳ | **[Retail Management Internship](https://jobright.ai/jobs/info/69f0c4088d8d624381a977d3?utm_campaign=1051&utm_source=git)** | Berlin, VT | On Site | Apr 28 |
-| ↳ | **[Retail Management Internship](https://jobright.ai/jobs/info/69d46ba2e63cea7a8b659623?utm_campaign=1051&utm_source=git)** | North Hampton, NH | On Site | Apr 28 |
 | **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d440a8e63cea7a8b65833c?utm_campaign=1051&utm_source=git)** | Albany, GA | On Site | Apr 28 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Westchester/Rockland Counties)](https://jobright.ai/jobs/info/69f0c3978d8d624381a97795?utm_campaign=1051&utm_source=git)** | Danbury, CT | On Site | Apr 28 |
+| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Sales Support Operations Intern - Fall 2026](https://jobright.ai/jobs/info/699cfbeae0bddb6acacc0d1d?utm_campaign=1051&utm_source=git)** | Green Bay, WI | Hybrid | Apr 28 |
 | **[CoreSite](http://www.coresite.com)** | **[Senior Sales Engineer (1903)](https://jobright.ai/jobs/info/69d7600ee63cea7a8b6711f6?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Apr 28 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/69f0abbf62b48c6838790d7b?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Apr 28 |
 | **[BCD Meetings & Events](http://www.bcdme.com)** | **[Intern](https://jobright.ai/jobs/info/69f0a651ecbc8c2f7320089e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hamilton Health Sciences Foundation](https://www.hamiltonhealth.ca)** | **[Foundation Intern](https://jobright.ai/jobs/info/69efde1b16b2612c2a12c268?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Apr 27 |
 | **[Seyfarth Shaw LLP](http://www.seyfarth.com)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/69efdde216b2612c2a12c23c?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 27 |
 | **[New England Heritage Properties](http://heritageprop.net)** | **[Full Time Summer Intern](https://jobright.ai/jobs/info/69efd83ce624fe645d533a94?utm_campaign=1051&utm_source=git)** | Lowell, MA | On Site | Apr 27 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BTM (Business Transformation Management)](https://jobright.ai/jobs/info/69efd80716b2612c2a12c089?utm_campaign=1051&utm_source=git)** | New York, NY, US, 10001 | On Site | Apr 27 |
-| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Business Markets](https://jobright.ai/jobs/info/69efd80258811370cb148ce7?utm_campaign=1051&utm_source=git)** | PEACE RIVER, Alberta, Canada | On Site | Apr 27 |
-| **[Seyfarth Shaw LLP](http://www.seyfarth.com)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/69efd64916b2612c2a12be3c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
