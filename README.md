@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AvePoint](http://www.avepoint.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69f0012dfbe0994a40eb9ea9?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 27 |
+| **[Buena AI](https://buena.ai)** | **[Business Development Representative Intern (Commission-Only) - AI Enterprise Sales](https://jobright.ai/jobs/info/69efff0f16b2612c2a12d11c?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Apr 27 |
+| **[Loenbro](http://loenbro.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/69effd4758811370cb14a12a?utm_campaign=1051&utm_source=git)** | Texas | On Site | Apr 27 |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69b0609fdfaeda6ff59a1ff0?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 27 |
+| **[Fusion100](http://Fusion100co.com)** | **[Sales Summer Intern](https://jobright.ai/jobs/info/69effca358811370cb14a0e7?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Apr 27 |
+| **[Sinica Education](https://www.sinicaeducation.com)** | **[Bilingual Business Development and Marketing Internship (Chinese/English)](https://jobright.ai/jobs/info/69effc380a6e095553058a22?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69effc370a6e095553058a18?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 27 |
+| **[Viatris](https://www.viatris.com/en)** | **[Intern, Established Products & Strategic Partnership](https://jobright.ai/jobs/info/69eff3d558811370cb149fba?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Lennox](http://www.lennox.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69eff3c958811370cb149f90?utm_campaign=1051&utm_source=git)** | Richardson, TX | On Site | Apr 27 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69eff3c616b2612c2a12cf57?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Apr 27 |
 | **[Sapphire](https://www.sapphiresound.ca)** | **[Sales Intern](https://jobright.ai/jobs/info/69eff3bde624fe645d534823?utm_campaign=1051&utm_source=git)** | Abbotsford, British Columbia, Canada | On Site | Apr 27 |
 | **[Henry Schein Canada](https://www.henryschein.ca/)** | **[Bilingual - Dental Field Sales Summer Intern (British Columbia)](https://jobright.ai/jobs/info/69eff3a40a6e0955530588b9?utm_campaign=1051&utm_source=git)** | British Columbia, Canada | On Site | Apr 27 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698525d9348f733a5c395458?utm_campaign=1051&utm_source=git)** | Caledon, Ontario, Canada | On Site | Apr 27 |
-| **[Matson, Inc.](http://matson.com)** | **[Pricing Intern](https://jobright.ai/jobs/info/69eff39516b2612c2a12ce82?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Apr 27 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69eff38d0a6e095553058853?utm_campaign=1051&utm_source=git)** | Canada | Remote | Apr 27 |
 | **[Inference.ai](https://www.inference.ai/)** | **[AI Partnerships & Growth Intern](https://jobright.ai/jobs/info/69eff0fe16b2612c2a12ce1f?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Apr 27 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69efee7458811370cb149cfc?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Apr 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/69ef3ec816b2612c2a128462?utm_campaign=1051&utm_source=git)** | Cromwell, CT | On Site | Apr 27 |
 | **[Brandlete](https://www.brandletehq.com)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/69e8581b4b0fa35a7076621c?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Apr 27 |
 | **[SHOPLINE](http://www.shoplineapp.com)** | **[Partnerships Intern](https://jobright.ai/jobs/info/69cc8bd8cfdc6132f940fb03?utm_campaign=1051&utm_source=git)** | Pasadena, CA | Remote | Apr 27 |
-| **[Brightroc Marketing](brightrocmarketing.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/69eed8660a6e095553052c30?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Apr 26 |
-| **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69616943a112b402660feb25?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Apr 26 |
-| **[Gen](https://www.gendigital.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/69efe6960a6e09555305811c?utm_campaign=1051&utm_source=git)** | USA - Mountain View, CA | On Site | Apr 26 |
-| **[Blue Mountain](http://coolblue.com)** | **[Remote Revenue Operations Analyst Internship](https://jobright.ai/jobs/info/69ee736e7820c036924fee08?utm_campaign=1051&utm_source=git)** | State College, PA | Remote | Apr 26 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/69c0aec67798f73e35e52b35?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 26 |
-| **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/6998fdc4ce78e77b4fdd99d8?utm_campaign=1051&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Hybrid | Apr 26 |
-| ↳ | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/6998ea9ece78e77b4fdd79ac?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
