@@ -57,12 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Suncadia](http://www.suncadiaresort.com)** | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/69d4f85d706f771673b9fe10?utm_campaign=1051&utm_source=git)** | Cle Elum, WA | On Site | Apr 28 |
+| **[Access Systems, Inc.](https://www.accesssystems.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69f0c544b27fee43e8cd4ba3?utm_campaign=1051&utm_source=git)** | Des Moines Metro | On Site | Apr 28 |
+| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69f0c4878d8d624381a97994?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Apr 28 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/69f0c45262b48c683879123e?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Apr 28 |
+| **[Skymaster](skymasterpro.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69f0c44562b48c6838791212?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
+| **[Shaw’s and Star Market](https://www.shaws.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/69f0c41762b48c68387911da?utm_campaign=1051&utm_source=git)** | Milford, NH | On Site | Apr 28 |
+| ↳ | **[Retail Management Internship](https://jobright.ai/jobs/info/69d46ba2e63cea7a8b659623?utm_campaign=1051&utm_source=git)** | North Hampton, NH | On Site | Apr 28 |
+| ↳ | **[Retail Management Internship](https://jobright.ai/jobs/info/69f0c4088d8d624381a977d3?utm_campaign=1051&utm_source=git)** | Berlin, VT | On Site | Apr 28 |
+| **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69d440a8e63cea7a8b65833c?utm_campaign=1051&utm_source=git)** | Albany, GA | On Site | Apr 28 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Westchester/Rockland Counties)](https://jobright.ai/jobs/info/69f0c3978d8d624381a97795?utm_campaign=1051&utm_source=git)** | Danbury, CT | On Site | Apr 28 |
 | **[CoreSite](http://www.coresite.com)** | **[Senior Sales Engineer (1903)](https://jobright.ai/jobs/info/69d7600ee63cea7a8b6711f6?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Apr 28 |
 | **[Shaw’s and Star Market](https://www.shaws.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/69f0b6feecbc8c2f73200a60?utm_campaign=1051&utm_source=git)** | Nashua, NH | On Site | Apr 28 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/69f0abbf62b48c6838790d7b?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Apr 28 |
 | **[Shaw’s and Star Market](https://www.shaws.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/69f0abbd8feca91f1491bad8?utm_campaign=1051&utm_source=git)** | Merrimack, NH | On Site | Apr 28 |
 | **[BCD Meetings & Events](http://www.bcdme.com)** | **[Intern](https://jobright.ai/jobs/info/69f0a651ecbc8c2f7320089e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69b87b1906c1ba00c54a7512?utm_campaign=1051&utm_source=git)** | Mason, OH | On Site | Apr 28 |
+| **[WMUR-TV](http://www.wmur.com/)** | **[WMUR Sales Intern](https://jobright.ai/jobs/info/69d47058891d7b11cfcfa3ab?utm_campaign=1051&utm_source=git)** | Manchester, NH | On Site | Apr 28 |
+| **[American Cutting Edge, Inc.](http://www.americancuttingedge.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69e9f8e67820c036924ea365?utm_campaign=1051&utm_source=git)** | Miamisburg, OH | On Site | Apr 28 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Retail Intern (Summer 2026)](https://jobright.ai/jobs/info/69b85a5c3b74eb1e2c860cbb?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 28 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Senior Credit Product Portfolio Representative](https://jobright.ai/jobs/info/69f097a38feca91f1491af1b?utm_campaign=1051&utm_source=git)** | Irving, TX | Hybrid | Apr 28 |
 | **[Alice & Bob](https://alice-bob.com)** | **[Quantum Technical Business Development Internship](https://jobright.ai/jobs/info/69f0979bb27fee43e8cd3979?utm_campaign=1051&utm_source=git)** | Boston | Hybrid | Apr 28 |
@@ -72,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69f0abcf8feca91f1491bb04?utm_campaign=1051&utm_source=git)** | Plainfield, NJ | On Site | Apr 28 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Sales Specialist- Bilingual in Mandarin Chinese](https://jobright.ai/jobs/info/69f07c918d8d624381a965b1?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69f065fd825a315d7ca31ee7?utm_campaign=1051&utm_source=git)** | Detroit Metro | Hybrid | Apr 28 |
-| **[Mavenwit](https://www.mavenwit.com/)** | **[Sales Development Representative](https://jobright.ai/jobs/info/69f09129825a315d7ca322cf?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Galveston and Webster](https://jobright.ai/jobs/info/69f052d22b095843b031242f?utm_campaign=1051&utm_source=git)** | Galveston, TX | On Site | Apr 27 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f052cea4aa3545d8a5def9?utm_campaign=1051&utm_source=git)** | Baytown, TX | On Site | Apr 27 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f05221b27fee43e8cd3127?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 27 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JPS Composite Materials](https://jpscm.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/69efd5870a6e0955530575b3?utm_campaign=1051&utm_source=git)** | Camden, DE, 19934, United States | On Site | Apr 27 |
 | **[Circ®](https://circ.earth)** | **[Business Development Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69efe68dfbe0994a40eb941b?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 27 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc7214b0fa35a7078bc65?utm_campaign=1051&utm_source=git)** | Richardson, TX, US | On Site | Apr 27 |
-| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc722e624fe645d53371a?utm_campaign=1051&utm_source=git)** | US-TX-Richardson | On Site | Apr 27 |
-| **[Seyfarth Shaw LLP](http://www.seyfarth.com)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/69efe64bfbe0994a40eb93ca?utm_campaign=1051&utm_source=git)** | Boston, KY | On Site | Apr 27 |
-| **[Air Charter Service](http://www.aircharterservice.com)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/69efc6dae624fe645d533669?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 27 |
-| **[Valley Collective](https://www.thevalleycollective.com/)** | **[Sales & Promotions Intern](https://jobright.ai/jobs/info/69efc60afbe0994a40eb86d4?utm_campaign=1051&utm_source=git)** | Greater McAllen Area | On Site | Apr 27 |
-| **[HeyGears](https://www.heygears.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/69d58136cdb525785fbd16fb?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Apr 27 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/69efe36efbe0994a40eb9117?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 27 |
-| **[Digbi Health](https://digbihealth.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69efdd1658811370cb148d9f?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 27 |
-| **[Dream Finders Homes](https://www.dreamfindershomes.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69efbdd816b2612c2a12b8bc?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Apr 27 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Wilmington NC](https://jobright.ai/jobs/info/69efbdc3e624fe645d5334f1?utm_campaign=1051&utm_source=git)** | Wilmington, NC | On Site | Apr 27 |
-| **[Faurecia](https://www.forvia.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69efbb7216b2612c2a12b7ed?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Apr 27 |
-| **[HandyTube](https://handytube.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/69efb9b24b0fa35a7078b594?utm_campaign=1051&utm_source=git)** | Camden, DE, 19934, United States | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
