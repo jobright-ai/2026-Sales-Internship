@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loenbro](http://loenbro.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/69f00d4efbe0994a40eba26d?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 27 |
+| **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[(NEX NORFOLK) SALES ASSOCIATE - CONSUMABLES](https://jobright.ai/jobs/info/69f00a8f0a6e095553058fa1?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Apr 27 |
+| **[Carlsmed](https://www.carlsmed.com/)** | **[Intern - MedTech Sales Operations](https://jobright.ai/jobs/info/69f00a3a58811370cb14a533?utm_campaign=1051&utm_source=git)** | Carlsbad, California, United States | On Site | Apr 27 |
+| **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SALES ASSOCIATE (MINIMART)](https://jobright.ai/jobs/info/69f009f358811370cb14a45f?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Apr 27 |
+| **[Smartly](http://smartly.io)** | **[Sales Enablement & Competitive Intelligence Intern](https://jobright.ai/jobs/info/69dd9c1c35a2b346b20b1ec1?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | Apr 27 |
 | **[AvePoint](http://www.avepoint.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69f0012dfbe0994a40eb9ea9?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 27 |
 | **[Buena AI](https://buena.ai)** | **[Business Development Representative Intern (Commission-Only) - AI Enterprise Sales](https://jobright.ai/jobs/info/69efff0f16b2612c2a12d11c?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Apr 27 |
 | **[Loenbro](http://loenbro.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/69effd4758811370cb14a12a?utm_campaign=1051&utm_source=git)** | Texas | On Site | Apr 27 |
@@ -89,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Established Products & Strategic Partnership](https://jobright.ai/jobs/info/69efe54cfbe0994a40eb92bc?utm_campaign=1051&utm_source=git)** | United States Remote Office, US | Remote | Apr 27 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #111](https://jobright.ai/jobs/info/69efe3de16b2612c2a12c4a4?utm_campaign=1051&utm_source=git)** | 12585 58th St N, Oak Park Heights, MN, 55082 | On Site | Apr 27 |
 | **[Ocugen](http://ocugen.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69efe305fbe0994a40eb9068?utm_campaign=1051&utm_source=git)** | Malvern, PA | On Site | Apr 27 |
+| **[Lasko Products](https://www.lasko.com/)** | **[Sales Strategy Summer  Internship](https://jobright.ai/jobs/info/6985212c0f6f7e7a2cdfab9f?utm_campaign=1051&utm_source=git)** | West Chester, PA | Hybrid | Apr 27 |
 | **[Applause](http://www.applause.com)** | **[Sales Intelligence Intern](https://jobright.ai/jobs/info/69efe2a716b2612c2a12c39a?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | On Site | Apr 27 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69efe23bfbe0994a40eb8f2e?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Hamilton Health Sciences Foundation](https://www.hamiltonhealth.ca)** | **[Foundation Intern](https://jobright.ai/jobs/info/69efde1b16b2612c2a12c268?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Apr 27 |
@@ -100,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Health2047](https://www.health2047.com/)** | **[Health2047 Internship Program](https://jobright.ai/jobs/info/69efd63216b2612c2a12be14?utm_campaign=1051&utm_source=git)** | Menlo Park, CA | Hybrid | Apr 27 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/69efd5870a6e0955530575b3?utm_campaign=1051&utm_source=git)** | Camden, DE, 19934, United States | On Site | Apr 27 |
 | **[Circ®](https://circ.earth)** | **[Business Development Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69efe68dfbe0994a40eb941b?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 27 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc722e624fe645d53371a?utm_campaign=1051&utm_source=git)** | US-TX-Richardson | On Site | Apr 27 |
-| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc7214b0fa35a7078bc65?utm_campaign=1051&utm_source=git)** | Richardson, TX, US | On Site | Apr 27 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc7214b0fa35a7078bc65?utm_campaign=1051&utm_source=git)** | Richardson, TX, US | On Site | Apr 27 |
+| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc722e624fe645d53371a?utm_campaign=1051&utm_source=git)** | US-TX-Richardson | On Site | Apr 27 |
 | **[Seyfarth Shaw LLP](http://www.seyfarth.com)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/69efe64bfbe0994a40eb93ca?utm_campaign=1051&utm_source=git)** | Boston, KY | On Site | Apr 27 |
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/69efc6dae624fe645d533669?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 27 |
 | **[Valley Collective](https://www.thevalleycollective.com/)** | **[Sales & Promotions Intern](https://jobright.ai/jobs/info/69efc60afbe0994a40eb86d4?utm_campaign=1051&utm_source=git)** | Greater McAllen Area | On Site | Apr 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Westchester/Rockland Counties)](https://jobright.ai/jobs/info/69ef7d1d16b2612c2a129ac0?utm_campaign=1051&utm_source=git)** | Danbury, CT, United States | On Site | Apr 27 |
 | **[CarepathRx](https://carepathrxllc.com/)** | **[Strategic Partnership Intern](https://jobright.ai/jobs/info/69ef79f9fbe0994a40eb656c?utm_campaign=1051&utm_source=git)** | PA - Remote, US | Remote | Apr 27 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Wilmington NC](https://jobright.ai/jobs/info/69ef74b70a6e095553054fc3?utm_campaign=1051&utm_source=git)** | Wilmington, NC, United States | On Site | Apr 27 |
-| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Sales Field Operations](https://jobright.ai/jobs/info/69ef65dde624fe645d530c37?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Apr 27 |
-| **[Theator](https://www.theator.io/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69ef65c1e624fe645d530c0c?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Apr 27 |
-| **[Freight Flex](http://www.freightflex.com)** | **[Logistics Sales Intern](https://jobright.ai/jobs/info/69ef58be16b2612c2a128ec0?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Apr 27 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/69ef3ec816b2612c2a128462?utm_campaign=1051&utm_source=git)** | Cromwell, CT | On Site | Apr 27 |
-| **[Brandlete](https://www.brandletehq.com)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/69e8581b4b0fa35a7076621c?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Apr 27 |
-| **[SHOPLINE](http://www.shoplineapp.com)** | **[Partnerships Intern](https://jobright.ai/jobs/info/69cc8bd8cfdc6132f940fb03?utm_campaign=1051&utm_source=git)** | Pasadena, CA | Remote | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
