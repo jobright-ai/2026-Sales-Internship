@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Retail Intern (Summer 2026)](https://jobright.ai/jobs/info/69b85a5c3b74eb1e2c860cbb?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 28 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Senior Credit Product Portfolio Representative](https://jobright.ai/jobs/info/69f097a38feca91f1491af1b?utm_campaign=1051&utm_source=git)** | Irving, TX | Hybrid | Apr 28 |
+| **[Alice & Bob](https://alice-bob.com)** | **[Quantum Technical Business Development Internship](https://jobright.ai/jobs/info/69f0979bb27fee43e8cd3979?utm_campaign=1051&utm_source=git)** | Boston | Hybrid | Apr 28 |
+| **[TikTok](https://www.tiktok.com)** | **[Partner Operations Intern (Monetization Product Partnerships) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bd2056b10602456282103c?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 28 |
+| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Retail Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69d74441950d1a0760b7db55?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Apr 28 |
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Sales Development Internship (Nationwide - Summer '26)](https://jobright.ai/jobs/info/691ab48abcdbf3560c9d9d20?utm_campaign=1051&utm_source=git)** | Davidson, NC | On Site | Apr 28 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Sales Specialist- Bilingual in Mandarin Chinese](https://jobright.ai/jobs/info/69f07c918d8d624381a965b1?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69f065fd825a315d7ca31ee7?utm_campaign=1051&utm_source=git)** | Detroit Metro | Hybrid | Apr 28 |
+| **[Mavenwit](https://www.mavenwit.com/)** | **[Sales Development Representative](https://jobright.ai/jobs/info/69f09129825a315d7ca322cf?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Galveston and Webster](https://jobright.ai/jobs/info/69f052d22b095843b031242f?utm_campaign=1051&utm_source=git)** | Galveston, TX | On Site | Apr 27 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f052cea4aa3545d8a5def9?utm_campaign=1051&utm_source=git)** | Baytown, TX | On Site | Apr 27 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f05221b27fee43e8cd3127?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 27 |
@@ -132,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Health2047](https://www.health2047.com/)** | **[Health2047 Internship Program](https://jobright.ai/jobs/info/69efd63216b2612c2a12be14?utm_campaign=1051&utm_source=git)** | Menlo Park, CA | Hybrid | Apr 27 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/69efd5870a6e0955530575b3?utm_campaign=1051&utm_source=git)** | Camden, DE, 19934, United States | On Site | Apr 27 |
 | **[Circ®](https://circ.earth)** | **[Business Development Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69efe68dfbe0994a40eb941b?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 27 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc7214b0fa35a7078bc65?utm_campaign=1051&utm_source=git)** | Richardson, TX, US | On Site | Apr 27 |
-| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc722e624fe645d53371a?utm_campaign=1051&utm_source=git)** | US-TX-Richardson | On Site | Apr 27 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc722e624fe645d53371a?utm_campaign=1051&utm_source=git)** | US-TX-Richardson | On Site | Apr 27 |
+| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc7214b0fa35a7078bc65?utm_campaign=1051&utm_source=git)** | Richardson, TX, US | On Site | Apr 27 |
 | **[Seyfarth Shaw LLP](http://www.seyfarth.com)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/69efe64bfbe0994a40eb93ca?utm_campaign=1051&utm_source=git)** | Boston, KY | On Site | Apr 27 |
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/69efc6dae624fe645d533669?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 27 |
 | **[Valley Collective](https://www.thevalleycollective.com/)** | **[Sales & Promotions Intern](https://jobright.ai/jobs/info/69efc60afbe0994a40eb86d4?utm_campaign=1051&utm_source=git)** | Greater McAllen Area | On Site | Apr 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Insighter](Insighterapp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69efd406e624fe645d53387b?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Apr 27 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[College Intern (ETS) - Entry Level Buyer I - Procurement Operations/ Temporary](https://jobright.ai/jobs/info/69ec270e16b2612c2a121425?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Apr 27 |
 | **[HandyTube](https://handytube.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/69efd60f16b2612c2a12bdf6?utm_campaign=1051&utm_source=git)** | Camden, DE | On Site | Apr 27 |
-| **[Crum & Forster](https://www.cfins.com/)** | **[Specialty Package E&S NY Intern-1](https://jobright.ai/jobs/info/69efb0480a6e0955530567f6?utm_campaign=1051&utm_source=git)** | NEW YORK, NY, US | On Site | Apr 27 |
-| ↳ | **[Specialty Package E&S NY Intern-1](https://jobright.ai/jobs/info/69efb04658811370cb147dad?utm_campaign=1051&utm_source=git)** | US-NY-NEW YORK | On Site | Apr 27 |
-| **[Coastal](https://coastalcloud.us)** | **[Business Development Intern - Fall 2026](https://jobright.ai/jobs/info/69efaf6e16b2612c2a12ae54?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Apr 27 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Hourly: ENTR Hub Business Development Representative](https://jobright.ai/jobs/info/69efd882e624fe645d533ac1?utm_campaign=1051&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
-| **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SALES ASSOCIATE](https://jobright.ai/jobs/info/69efd5e416b2612c2a12bdaf?utm_campaign=1051&utm_source=git)** | Patuxent River, MD | On Site | Apr 27 |
-| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales / Operations Intern - Rolla, ND](https://jobright.ai/jobs/info/69efadc5fbe0994a40eb7a34?utm_campaign=1051&utm_source=git)** | Rolla, ND | On Site | Apr 27 |
-| **[Crum & Forster](https://www.cfins.com/)** | **[Specialty Package E&S NY Intern-2](https://jobright.ai/jobs/info/69efad5558811370cb147b7d?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
