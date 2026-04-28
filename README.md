@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoreSite](http://www.coresite.com)** | **[Senior Sales Engineer (1903)](https://jobright.ai/jobs/info/69d7600ee63cea7a8b6711f6?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Apr 28 |
+| **[Shaw’s and Star Market](https://www.shaws.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/69f0b6feecbc8c2f73200a60?utm_campaign=1051&utm_source=git)** | Nashua, NH | On Site | Apr 28 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/69f0abbf62b48c6838790d7b?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Apr 28 |
 | **[Shaw’s and Star Market](https://www.shaws.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/69f0abbd8feca91f1491bad8?utm_campaign=1051&utm_source=git)** | Merrimack, NH | On Site | Apr 28 |
 | **[BCD Meetings & Events](http://www.bcdme.com)** | **[Intern](https://jobright.ai/jobs/info/69f0a651ecbc8c2f7320089e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
@@ -143,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Health2047](https://www.health2047.com/)** | **[Health2047 Internship Program](https://jobright.ai/jobs/info/69efd63216b2612c2a12be14?utm_campaign=1051&utm_source=git)** | Menlo Park, CA | Hybrid | Apr 27 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/69efd5870a6e0955530575b3?utm_campaign=1051&utm_source=git)** | Camden, DE, 19934, United States | On Site | Apr 27 |
 | **[Circ®](https://circ.earth)** | **[Business Development Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69efe68dfbe0994a40eb941b?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 27 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc722e624fe645d53371a?utm_campaign=1051&utm_source=git)** | US-TX-Richardson | On Site | Apr 27 |
-| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc7214b0fa35a7078bc65?utm_campaign=1051&utm_source=git)** | Richardson, TX, US | On Site | Apr 27 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc7214b0fa35a7078bc65?utm_campaign=1051&utm_source=git)** | Richardson, TX, US | On Site | Apr 27 |
+| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc722e624fe645d53371a?utm_campaign=1051&utm_source=git)** | US-TX-Richardson | On Site | Apr 27 |
 | **[Seyfarth Shaw LLP](http://www.seyfarth.com)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/69efe64bfbe0994a40eb93ca?utm_campaign=1051&utm_source=git)** | Boston, KY | On Site | Apr 27 |
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/69efc6dae624fe645d533669?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 27 |
 | **[Valley Collective](https://www.thevalleycollective.com/)** | **[Sales & Promotions Intern](https://jobright.ai/jobs/info/69efc60afbe0994a40eb86d4?utm_campaign=1051&utm_source=git)** | Greater McAllen Area | On Site | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Wilmington NC](https://jobright.ai/jobs/info/69efbdc3e624fe645d5334f1?utm_campaign=1051&utm_source=git)** | Wilmington, NC | On Site | Apr 27 |
 | **[Faurecia](https://www.forvia.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69efbb7216b2612c2a12b7ed?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Apr 27 |
 | **[HandyTube](https://handytube.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/69efb9b24b0fa35a7078b594?utm_campaign=1051&utm_source=git)** | Camden, DE, 19934, United States | On Site | Apr 27 |
-| **[Logistics Supply](https://logisticssupply.com)** | **[Sales Specialist Intern](https://jobright.ai/jobs/info/69efb8980a6e095553056b2a?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 27 |
-| **[Succession Partners](www.successionpartnersnc.com)** | **[Fintech Sales Intern](https://jobright.ai/jobs/info/69efb87ae624fe645d532e49?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
