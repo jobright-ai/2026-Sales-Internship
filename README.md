@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Galveston and Webster](https://jobright.ai/jobs/info/69f052d22b095843b031242f?utm_campaign=1051&utm_source=git)** | Galveston, TX | On Site | Apr 27 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f052cea4aa3545d8a5def9?utm_campaign=1051&utm_source=git)** | Baytown, TX | On Site | Apr 27 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f05221b27fee43e8cd3127?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 27 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f051f4825a315d7ca31c8a?utm_campaign=1051&utm_source=git)** | League City, TX | On Site | Apr 27 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69f051f3825a315d7ca31c87?utm_campaign=1051&utm_source=git)** | Beaumont, TX | On Site | Apr 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Programs and Deal Design - Deal Success Center Americas](https://jobright.ai/jobs/info/69f036c4ecbc8c2f731fef67?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Apr 27 |
+| **[Standlee Premium Western Forage](http://standleeforage.com)** | **[Sales Intern - Northeast Region](https://jobright.ai/jobs/info/69f051d62b095843b031236d?utm_campaign=1051&utm_source=git)** | Bowling Green, KY | On Site | Apr 27 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SALES ASSOCIATE (FLEX/MENS & SHOES)](https://jobright.ai/jobs/info/69f02beaecbc8c2f731fed93?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Apr 27 |
 | ↳ | **[Sales Associate-Softlines Flex](https://jobright.ai/jobs/info/69f02bc72b095843b0311c43?utm_campaign=1051&utm_source=git)** | Kittery, ME | On Site | Apr 27 |
 | ↳ | **[SALES ASSOCIATE (RPT/MENS & SHOES)](https://jobright.ai/jobs/info/69f02b9a825a315d7ca316b3?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Apr 27 |
@@ -122,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Health2047](https://www.health2047.com/)** | **[Health2047 Internship Program](https://jobright.ai/jobs/info/69efd63216b2612c2a12be14?utm_campaign=1051&utm_source=git)** | Menlo Park, CA | Hybrid | Apr 27 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/69efd5870a6e0955530575b3?utm_campaign=1051&utm_source=git)** | Camden, DE, 19934, United States | On Site | Apr 27 |
 | **[Circ®](https://circ.earth)** | **[Business Development Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69efe68dfbe0994a40eb941b?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 27 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc7214b0fa35a7078bc65?utm_campaign=1051&utm_source=git)** | Richardson, TX, US | On Site | Apr 27 |
-| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc722e624fe645d53371a?utm_campaign=1051&utm_source=git)** | US-TX-Richardson | On Site | Apr 27 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc722e624fe645d53371a?utm_campaign=1051&utm_source=git)** | US-TX-Richardson | On Site | Apr 27 |
+| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/69efc7214b0fa35a7078bc65?utm_campaign=1051&utm_source=git)** | Richardson, TX, US | On Site | Apr 27 |
 | **[Seyfarth Shaw LLP](http://www.seyfarth.com)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/69efe64bfbe0994a40eb93ca?utm_campaign=1051&utm_source=git)** | Boston, KY | On Site | Apr 27 |
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/69efc6dae624fe645d533669?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 27 |
 | **[Valley Collective](https://www.thevalleycollective.com/)** | **[Sales & Promotions Intern](https://jobright.ai/jobs/info/69efc60afbe0994a40eb86d4?utm_campaign=1051&utm_source=git)** | Greater McAllen Area | On Site | Apr 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/69efac0ee624fe645d53295f?utm_campaign=1051&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 27 |
 | **[Circ®](https://circ.earth)** | **[Business Development Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69efabfe4b0fa35a7078ae3b?utm_campaign=1051&utm_source=git)** | Remote - U.S. Eastern Time Zone | Remote | Apr 27 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/69efabdb4b0fa35a7078adee?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 27 |
-| **[Mountfitchet Group](https://mountfitchet.com)** | **[Sales Assistant / Summer Internship (Commercial Jets)](https://jobright.ai/jobs/info/69efaa70e624fe645d532885?utm_campaign=1051&utm_source=git)** | 1200 RXR Plaza, Uniondale, NY 11553, USA | On Site | Apr 27 |
-| **[Air Charter Service](http://www.aircharterservice.com)** | **[Sales Assistant / Summer Internship (Commercial Jets)](https://jobright.ai/jobs/info/69efa82cfbe0994a40eb775d?utm_campaign=1051&utm_source=git)** | Uniondale, NY | On Site | Apr 27 |
-| **[Summit Events](summiteventsclt.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69efa81ae624fe645d532763?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 27 |
-| **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Event Sales Intern](https://jobright.ai/jobs/info/69efa1f8fbe0994a40eb7686?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Apr 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/69b58b093b74eb1e2c8355d8?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Apr 27 |
-| **[Victory Branding](https://victorybranding.org/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69ef9ecae624fe645d5324ed?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
