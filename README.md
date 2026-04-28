@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OWL Services](https://owlservices.com)** | **[Intern](https://jobright.ai/jobs/info/69f118f58feca91f1491e9f3?utm_campaign=1051&utm_source=git)** | Plymouth Meeting, PA | On Site | Apr 28 |
+| **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/69f118e362b48c6838793cb5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Apr 28 |
+| **[Innovid](https://www.innovid.com)** | **[Client Success Intern](https://jobright.ai/jobs/info/69f118caecbc8c2f73203cd8?utm_campaign=1051&utm_source=git)** | NY / Chicago | Hybrid | Apr 28 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Sales Administrative Assistant Intern – Summer 2026 (Cleveland, OH)](https://jobright.ai/jobs/info/69f118b6ecbc8c2f73203c6e?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Apr 28 |
+| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69f1105d8d8d624381a9a359?utm_campaign=1051&utm_source=git)** | Michigan, United States | On Site | Apr 28 |
+| ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69f1104562b48c6838793977?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | Apr 28 |
+| ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69f1100b825a315d7ca35e22?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | On Site | Apr 28 |
+| **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[(NEX NORFOLK) SALES ASSOCIATE - MINI MART](https://jobright.ai/jobs/info/69f10ff4825a315d7ca35ddd?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Apr 28 |
+| **[Coleto Brands](https://coletobrands.com)** | **[2026 Summer Intern - Sales Intern - Sales and Retail Strategy](https://jobright.ai/jobs/info/69f10e0cb27fee43e8cd6da7?utm_campaign=1051&utm_source=git)** | Greenville, SC | Remote | Apr 28 |
+| **[Cassels Brock & Blackwell LLP](http://www.cassels.com)** | **[Business Development & Marketing Student](https://jobright.ai/jobs/info/69f10e058feca91f1491e27c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
+| **[SpectrumVoIP](https://www.spectrumvoip.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f10dff8d8d624381a99f86?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Apr 28 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69f1040becbc8c2f732032d6?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Remote | Apr 28 |
 | **[Alice & Bob](https://alice-bob.com)** | **[Quantum Technical Business Development Internship](https://jobright.ai/jobs/info/69f103b662b48c6838793250?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Apr 28 |
 | **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69f1039f62b48c68387931ba?utm_campaign=1051&utm_source=git)** | Savannah, GA | Remote | Apr 28 |
@@ -73,13 +84,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69f0f4d0825a315d7ca35372?utm_campaign=1051&utm_source=git)** | St Louis, MO | Remote | Apr 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Bremerton](https://jobright.ai/jobs/info/69ba90663b74eb1e2c888bee?utm_campaign=1051&utm_source=git)** | Port Orchard, WA | On Site | Apr 28 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Strategic Sales & Analytics Intern (September to December)](https://jobright.ai/jobs/info/69d4f713891d7b11cfcfeb03?utm_campaign=1051&utm_source=git)** | Needham, MA | Hybrid | Apr 28 |
-| **[Work4Flow](www.work4flow.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f0eece8d8d624381a993d4?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
+| **[EB Denim](https://www.ebdenim.com)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/69f11894ecbc8c2f73203ba2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Agency Partnership Intern](https://jobright.ai/jobs/info/69f118ca825a315d7ca3610e?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[REVELxp](https://revelxp.com)** | **[REVELxp - Sales Intern, Colorado State Ticket Sales and Service](https://jobright.ai/jobs/info/69f0eeb0825a315d7ca35199?utm_campaign=1051&utm_source=git)** | Fort Collins,CO,US | On Site | Apr 28 |
 | **[US LBM](http://uslbm.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69d441f6cfdc6132f94593d9?utm_campaign=1051&utm_source=git)** | Gilbert, AZ | On Site | Apr 28 |
 | **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69f10415ecbc8c2f73203310?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | Apr 28 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69f1039462b48c683879317d?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | Apr 28 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69f1038e8feca91f1491de9f?utm_campaign=1051&utm_source=git)** | Davenport, IA | Remote | Apr 28 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69f1037e825a315d7ca35796?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Apr 28 |
+| **[Fusion100](http://Fusion100co.com)** | **[Greek Life Sales and Partnerships Intern](https://jobright.ai/jobs/info/69f118948feca91f1491e764?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Apr 28 |
 | **[DataCatalyst](https://www.datacatalyst.com )** | **[New Business Development Intern](https://jobright.ai/jobs/info/69f10389b27fee43e8cd6a3d?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Apr 28 |
 | **[D&H Distributing](https://www.dandh.com/)** | **[Sales Operations - (Intern-Summer 2026)](https://jobright.ai/jobs/info/69f0e04162b48c6838792682?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 28 |
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Internship](https://jobright.ai/jobs/info/69cd4dcb398fb071abf73e6f?utm_campaign=1051&utm_source=git)** | Mississippi, United States | Hybrid | Apr 28 |
@@ -91,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Locala](https://asklocala.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69e280475c44d4710fe2575c?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Apr 28 |
 | **[RailPros](http://railpros.com)** | **[Intern - Real Estate](https://jobright.ai/jobs/info/69d44065891d7b11cfcf8d11?utm_campaign=1051&utm_source=git)** | Omaha, NE | Hybrid | Apr 28 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships – Data & Research](https://jobright.ai/jobs/info/69d42799891d7b11cfcf7ec3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
-| **[Yurbban Hospitality Group](https://www.yurbban.com)** | **[J1 Front Desk – UMA House / South Beach, Miami](https://jobright.ai/jobs/info/69f103798d8d624381a99a25?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | On Site | Apr 28 |
-| ↳ | **[J1 Front Desk – Lennox Hotel / Miami Beach](https://jobright.ai/jobs/info/69f10379825a315d7ca3577a?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | On Site | Apr 28 |
+| **[Yurbban Hospitality Group](https://www.yurbban.com)** | **[J1 Front Desk – Lennox Hotel / Miami Beach](https://jobright.ai/jobs/info/69f10379825a315d7ca3577a?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | On Site | Apr 28 |
+| ↳ | **[J1 Front Desk – UMA House / South Beach, Miami](https://jobright.ai/jobs/info/69f103798d8d624381a99a25?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | On Site | Apr 28 |
 | **[Suncadia](http://www.suncadiaresort.com)** | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/69d4f85d706f771673b9fe10?utm_campaign=1051&utm_source=git)** | Cle Elum, WA | On Site | Apr 28 |
 | **[Access Systems, Inc.](https://www.accesssystems.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69f0c544b27fee43e8cd4ba3?utm_campaign=1051&utm_source=git)** | Des Moines Metro | On Site | Apr 28 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69f0c4878d8d624381a97994?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Apr 28 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69b0609fdfaeda6ff59a1ff0?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 27 |
 | **[Sinica Education](https://www.sinicaeducation.com)** | **[Bilingual Business Development and Marketing Internship (Chinese/English)](https://jobright.ai/jobs/info/69effc380a6e095553058a22?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/69effc370a6e095553058a18?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 27 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f0cf12825a315d7ca3458c?utm_campaign=1051&utm_source=git)** | Pasco, WA | On Site | Apr 27 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69f0cf978d8d624381a986da?utm_campaign=1051&utm_source=git)** | Moses Lake, WA | On Site | Apr 27 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69f0cf95b27fee43e8cd57c0?utm_campaign=1051&utm_source=git)** | Hermiston, OR | On Site | Apr 27 |
-| **[Henry Schein](http://www.henryschein.com)** | **[Bilingual - Dental Field Sales Summer Intern (British Columbia)](https://jobright.ai/jobs/info/69f044baa4aa3545d8a5db9a?utm_campaign=1051&utm_source=git)** | British Columbia, Canada | On Site | Apr 27 |
-| **[Viatris](https://www.viatris.com/en)** | **[Intern, Established Products & Strategic Partnership](https://jobright.ai/jobs/info/69eff3d558811370cb149fba?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 27 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69eff3c616b2612c2a12cf57?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Apr 27 |
-| **[Sapphire](https://www.sapphiresound.ca)** | **[Sales Intern](https://jobright.ai/jobs/info/69eff3bde624fe645d534823?utm_campaign=1051&utm_source=git)** | Abbotsford, British Columbia, Canada | On Site | Apr 27 |
-| **[Henry Schein Canada](https://www.henryschein.ca/)** | **[Bilingual - Dental Field Sales Summer Intern (British Columbia)](https://jobright.ai/jobs/info/69eff3a40a6e0955530588b9?utm_campaign=1051&utm_source=git)** | British Columbia, Canada | On Site | Apr 27 |
-| **[Lasko Products](https://www.lasko.com/)** | **[Sales Summer Internship](https://jobright.ai/jobs/info/698525d9348f733a5c395458?utm_campaign=1051&utm_source=git)** | Caledon, Ontario, Canada | On Site | Apr 27 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69eff38d0a6e095553058853?utm_campaign=1051&utm_source=git)** | Canada | Remote | Apr 27 |
-| **[Inference.ai](https://www.inference.ai/)** | **[AI Partnerships & Growth Intern](https://jobright.ai/jobs/info/69eff0fe16b2612c2a12ce1f?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Apr 27 |
-| **[Lignetics](https://lignetics.com/)** | **[Industrial Business Development Summer Internship](https://jobright.ai/jobs/info/69efee190a6e0955530585fd?utm_campaign=1051&utm_source=git)** | Fully Remote | Remote | Apr 27 |
-| **[Standlee Premium Western Forage](http://standleeforage.com)** | **[Sales Intern - Northeast Region](https://jobright.ai/jobs/info/69efedbafbe0994a40eb97e0?utm_campaign=1051&utm_source=git)** | Bowling Green, Kentucky, United States | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
