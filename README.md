@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/69f0abbf62b48c6838790d7b?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Apr 28 |
+| **[Shaw’s and Star Market](https://www.shaws.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/69f0abbd8feca91f1491bad8?utm_campaign=1051&utm_source=git)** | Merrimack, NH | On Site | Apr 28 |
+| **[BCD Meetings & Events](http://www.bcdme.com)** | **[Intern](https://jobright.ai/jobs/info/69f0a651ecbc8c2f7320089e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
+| **[Magnera Corporation](https://magnera.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69b87b1906c1ba00c54a7512?utm_campaign=1051&utm_source=git)** | Mason, OH | On Site | Apr 28 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Retail Intern (Summer 2026)](https://jobright.ai/jobs/info/69b85a5c3b74eb1e2c860cbb?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 28 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Senior Credit Product Portfolio Representative](https://jobright.ai/jobs/info/69f097a38feca91f1491af1b?utm_campaign=1051&utm_source=git)** | Irving, TX | Hybrid | Apr 28 |
 | **[Alice & Bob](https://alice-bob.com)** | **[Quantum Technical Business Development Internship](https://jobright.ai/jobs/info/69f0979bb27fee43e8cd3979?utm_campaign=1051&utm_source=git)** | Boston | Hybrid | Apr 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Partner Operations Intern (Monetization Product Partnerships) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bd2056b10602456282103c?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 28 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Retail Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69d74441950d1a0760b7db55?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Apr 28 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Sales Development Internship (Nationwide - Summer '26)](https://jobright.ai/jobs/info/691ab48abcdbf3560c9d9d20?utm_campaign=1051&utm_source=git)** | Davidson, NC | On Site | Apr 28 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69f0abcf8feca91f1491bb04?utm_campaign=1051&utm_source=git)** | Plainfield, NJ | On Site | Apr 28 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Sales Specialist- Bilingual in Mandarin Chinese](https://jobright.ai/jobs/info/69f07c918d8d624381a965b1?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69f065fd825a315d7ca31ee7?utm_campaign=1051&utm_source=git)** | Detroit Metro | Hybrid | Apr 28 |
 | **[Mavenwit](https://www.mavenwit.com/)** | **[Sales Development Representative](https://jobright.ai/jobs/info/69f09129825a315d7ca322cf?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
@@ -117,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Grace Hill](http://www.gracehill.com/)** | **[Customer Success Ops Intern](https://jobright.ai/jobs/info/69efe8b958811370cb149a95?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Pivot Energy](https://www.pivotenergy.net)** | **[Intern, Revenue Operations](https://jobright.ai/jobs/info/69efe844e624fe645d534324?utm_campaign=1051&utm_source=git)** | Denver, Colorado | On Site | Apr 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BTM (Business Transformation Management)](https://jobright.ai/jobs/info/69efe8320a6e0955530582a1?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 27 |
-| **[Electro](electrogum.com)** | **[Influencer Partnerships Intern](https://jobright.ai/jobs/info/69efe8224b0fa35a7078cc3d?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Apr 27 |
 | **[Albuquerque Isotopes Baseball Club](http://www.ABQisotopes.com)** | **[Ticket Sales Intern (56412)](https://jobright.ai/jobs/info/69efe804fbe0994a40eb95ba?utm_campaign=1051&utm_source=git)** | Moosic, PA 18507 | On Site | Apr 27 |
 | **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Sales Operations (f/m/d)](https://jobright.ai/jobs/info/69b7150706c1ba00c548df00?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Apr 27 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Customer Engagement Intern](https://jobright.ai/jobs/info/69efe710e624fe645d534101?utm_campaign=1051&utm_source=git)** | Quincy, MA | Hybrid | Apr 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HandyTube](https://handytube.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/69efb9b24b0fa35a7078b594?utm_campaign=1051&utm_source=git)** | Camden, DE, 19934, United States | On Site | Apr 27 |
 | **[Logistics Supply](https://logisticssupply.com)** | **[Sales Specialist Intern](https://jobright.ai/jobs/info/69efb8980a6e095553056b2a?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 27 |
 | **[Succession Partners](www.successionpartnersnc.com)** | **[Fintech Sales Intern](https://jobright.ai/jobs/info/69efb87ae624fe645d532e49?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 27 |
-| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Healthcare & Community Partnerships Intern](https://jobright.ai/jobs/info/69efd5d916b2612c2a12bda9?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 27 |
-| **[Insighter](Insighterapp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69efd406e624fe645d53387b?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Apr 27 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[College Intern (ETS) - Entry Level Buyer I - Procurement Operations/ Temporary](https://jobright.ai/jobs/info/69ec270e16b2612c2a121425?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Apr 27 |
-| **[HandyTube](https://handytube.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/69efd60f16b2612c2a12bdf6?utm_campaign=1051&utm_source=git)** | Camden, DE | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
