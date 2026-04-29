@@ -57,22 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Sales/Admin](https://jobright.ai/jobs/info/69f23c858d8d624381a9fefe?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 29 |
+| **[Eugenia Kim](https://eugeniakim.com)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/69f23c41825a315d7ca3b695?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 29 |
+| **[Workato](http://www.workato.com)** | **[Intern, Customer Success](https://jobright.ai/jobs/info/69d54438cfdc6132f9460d75?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Apr 29 |
+| **[Puff Media](https://www.puffmedia.co/)** | **[E-commerce Intern (TikTok Shop focus)](https://jobright.ai/jobs/info/69f23a158d8d624381a9fd0b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 29 |
 | **[Thélios](https://thelios.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69d591b5366bb95ba55461b8?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 29 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Store Management Michigan Intern - Retail](https://jobright.ai/jobs/info/69f232ffab4ec4779fff7ca8?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Apr 29 |
 | **[FatCat Strategies](https://fatcatstrategies.com)** | **[Account Manager Intern](https://jobright.ai/jobs/info/69f231d68d8d624381a9f9ca?utm_campaign=1051&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Apr 29 |
-| **[Coty](https://www.coty.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f231d5ecbc8c2f7320926a?utm_campaign=1051&utm_source=git)** | Toronto | Hybrid | Apr 29 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69f231d2825a315d7ca3b37a?utm_campaign=1051&utm_source=git)** | Calgary | Hybrid | Apr 29 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69f231b38feca91f149237ce?utm_campaign=1051&utm_source=git)** | Montreal | Hybrid | Apr 29 |
 | **[Florida Sales & Marketing Group](https://www.floridasalesmarketing.com)** | **[Summer Sales & Leadership Internship – Entry Level!](https://jobright.ai/jobs/info/69f22a3eecbc8c2f732090a7?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Apr 29 |
 | **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/689e6981faa4e875e827bfe6?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Apr 29 |
 | **[NSP - National Sales Partners](https://nationalsalespartners.com)** | **[Summer Business Development Internship](https://jobright.ai/jobs/info/69f22a208d8d624381a9f829?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Apr 29 |
 | **[Sara Lee Frozen Bakery](https://saraleefrozenbakery.com/)** | **[Revenue Management Intern](https://jobright.ai/jobs/info/69f22a1aecbc8c2f73208fc1?utm_campaign=1051&utm_source=git)** | Oak Brook, IL, US | Hybrid | Apr 29 |
+| **[The Collegiate Lineup](https://www.thecollegiatelineup.com)** | **[Student Sales and Marketing Manager](https://jobright.ai/jobs/info/69f243a48feca91f14923e85?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Business Development Internship](https://jobright.ai/jobs/info/69f224fe8d8d624381a9f5ca?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Apr 29 |
-| **[Puff Media](https://www.puffmedia.co/)** | **[Social Media & E-commerce Intern (TikTok Shop focus)](https://jobright.ai/jobs/info/69f22463825a315d7ca3affb?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 29 |
 | **[The Michael J. Fox Foundation for Parkinson's Research](http://www.michaeljfox.org)** | **[Research Alliances Intern (Corporate Sponsorships)](https://jobright.ai/jobs/info/69f2165becbc8c2f73208c74?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69f21625ab4ec4779fff72ab?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Apr 29 |
 | **[Coleto Brands](https://coletobrands.com)** | **[2026 Summer Intern - Sales Intern - Sales and Retail Strategy](https://jobright.ai/jobs/info/69f2161eecbc8c2f73208b42?utm_campaign=1051&utm_source=git)** | Greenville, SC | Remote | Apr 29 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Markets](https://jobright.ai/jobs/info/69f215deab4ec4779fff71f8?utm_campaign=1051&utm_source=git)** | HALIFAX, Nova Scotia, Canada | On Site | Apr 29 |
+| **[Sara Lee Frozen Bakery](https://saraleefrozenbakery.com/)** | **[Revenue Management Intern](https://jobright.ai/jobs/info/69f234b8f154d768fbaa5d0a?utm_campaign=1051&utm_source=git)** | Oak Brook, IL | Hybrid | Apr 29 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Commercial/IT](https://jobright.ai/jobs/info/699d5a18e0bddb6acaccadfa?utm_campaign=1051&utm_source=git)** | Torrance, CA | On Site | Apr 29 |
 | **[FatCat Strategies](https://fatcatstrategies.com)** | **[Account Manager Intern](https://jobright.ai/jobs/info/69f23356ecbc8c2f7320934c?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
 | **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69bb865506c1ba00c54df8a8?utm_campaign=1051&utm_source=git)** | Palm Harbor, FL | On Site | Apr 29 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Digital Provisions](https://www.digitalprovisions.com/)** | **[Sales Intern (Security Integration)](https://jobright.ai/jobs/info/69d59df4891d7b11cfd03327?utm_campaign=1051&utm_source=git)** | Ronkonkoma, NY | On Site | Apr 29 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f20b2e825a315d7ca3a768?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 29 |
 | **[Brightroc Marketing](brightrocmarketing.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/69eed8660a6e095553052c30?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Apr 29 |
-| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69a3b6aa359fe034b1ceadc3?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Apr 29 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Intern - Sales & Operations](https://jobright.ai/jobs/info/69f1d5228d8d624381a9e608?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69f19dd6ecbc8c2f73206f67?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Internship, Agency Partnerships](https://jobright.ai/jobs/info/69f1b98d825a315d7ca39b98?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
@@ -108,10 +109,9 @@ For a complete list, click the following sortable link below:
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Sales Intern (PT)](https://jobright.ai/jobs/info/69f17a02ecbc8c2f73205c40?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 28 |
 | **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Intern - Field Sales](https://jobright.ai/jobs/info/69f15cceb27fee43e8cd8b04?utm_campaign=1051&utm_source=git)** | Franklin Furnace, OH | On Site | Apr 28 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SALES ASSOCIATE](https://jobright.ai/jobs/info/69efd5e416b2612c2a12bdaf?utm_campaign=1051&utm_source=git)** | Patuxent River, MD | On Site | Apr 28 |
-| ↳ | **[(LITTLE CREEK MINI MART) SALES ASSOCIATE](https://jobright.ai/jobs/info/69f186688feca91f14920ae8?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 28 |
 | ↳ | **[SALES ASSOCIATE](https://jobright.ai/jobs/info/69f18687ecbc8c2f73206497?utm_campaign=1051&utm_source=git)** | Great Lakes, IL | On Site | Apr 28 |
-| ↳ | **[(NEX NORFOLK) SALES ASSOCIATE - MINIMART](https://jobright.ai/jobs/info/69f009f358811370cb14a45f?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Apr 28 |
 | ↳ | **[(NEX LITTLE CREEK) - SALES ASSOCIATE - SOFTLINES](https://jobright.ai/jobs/info/69f186a6b27fee43e8cd98c2?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 28 |
+| ↳ | **[(LITTLE CREEK MINI MART) SALES ASSOCIATE](https://jobright.ai/jobs/info/69f186688feca91f14920ae8?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 28 |
 | **[Regency Properties](https://regency-prop.com/)** | **[Leasing Intern](https://jobright.ai/jobs/info/69f153f28d8d624381a9baba?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Apr 28 |
 | **[Pittston Co-Packers](https://pittstoncopackers.com)** | **[NYC Business Development Intern](https://jobright.ai/jobs/info/69f153ef825a315d7ca3768e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Continental](https://www.continental.com)** | **[Field Sales Trainee - Tires, PLT](https://jobright.ai/jobs/info/69e95cb97820c036924e7aa8?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
@@ -119,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/69f15042b27fee43e8cd889e?utm_campaign=1051&utm_source=git)** | 00507 - California Corporate Buying Office, US | Hybrid | Apr 28 |
 | **[Bell](https://letstalk.bell.ca/en)** | **[Retails Sales Associate, Woodgrove Centre](https://jobright.ai/jobs/info/69f15038ecbc8c2f73205347?utm_campaign=1051&utm_source=git)** | Nanaimo, British Columbia, Canada | On Site | Apr 28 |
 | **[Waites](https://waites.net)** | **[BDR - Sales Intern](https://jobright.ai/jobs/info/69f15037b27fee43e8cd8863?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Apr 28 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69f15016b27fee43e8cd879d?utm_campaign=1051&utm_source=git)** | Madison, WI | Remote | Apr 28 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69f15016b27fee43e8cd879e?utm_campaign=1051&utm_source=git)** | Spartanburg, SC | Remote | Apr 28 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69f15016b27fee43e8cd879e?utm_campaign=1051&utm_source=git)** | Spartanburg, SC | Remote | Apr 28 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69f15016b27fee43e8cd879d?utm_campaign=1051&utm_source=git)** | Madison, WI | Remote | Apr 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69f14ffe825a315d7ca3742a?utm_campaign=1051&utm_source=git)** | Gainesville, FL | Remote | Apr 28 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69f14ffd8feca91f1491faf5?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Apr 28 |
 | **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69f1484fb27fee43e8cd86b2?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Apr 28 |
