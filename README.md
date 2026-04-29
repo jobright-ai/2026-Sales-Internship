@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cadent](http://www.cadent.tv)** | **[Account Management Intern](https://jobright.ai/jobs/info/69f254d1ab4ec4779fff8939?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 29 |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69b085820b2db6275c049fc5?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
+| **[AIR Asset Management](https://airassetmanagement.com/)** | **[Sales & Operations Intern](https://jobright.ai/jobs/info/69f25410825a315d7ca3bf00?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Apr 29 |
 | **[Win BIOLOGICS](https://winbiologics.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f24d70ab4ec4779fff86f3?utm_campaign=1051&utm_source=git)** | Wichita, Kansas Metropolitan Area | On Site | Apr 29 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69cb0e49466f1e133aaca765?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | Apr 29 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f246cf8d8d624381aa02f3?utm_campaign=1051&utm_source=git)** | Triad Area | On Site | Apr 29 |
@@ -80,6 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Business Development Internship](https://jobright.ai/jobs/info/69f224fe8d8d624381a9f5ca?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Apr 29 |
 | **[Applied Industrial Technologies](http://www.applied.com)** | **[Intern - Customer Service & Sales](https://jobright.ai/jobs/info/689e6a8583d13d1f5b6bc26f?utm_campaign=1051&utm_source=git)** | Portage, IN | On Site | Apr 29 |
 | **[Lend-A-Loan LLC](https://www.lendaloanmortgage.com)** | **[Loan Officer Trainee](https://jobright.ai/jobs/info/69f24d51ecbc8c2f73209d1d?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Apr 29 |
+| **[Lassonde Pappas & Company, Inc.](http://lassondepappas.com/)** | **[Commercialization Intern](https://jobright.ai/jobs/info/69b855a856973837413d8258?utm_campaign=1051&utm_source=git)** | Cherry Hill, NJ | On Site | Apr 29 |
+| **[Blackfoot Communications](http://www.blackfoot.com)** | **[Sales Intern  (Temp Summer Position)](https://jobright.ai/jobs/info/69f25c63825a315d7ca3c095?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Apr 29 |
 | **[The Michael J. Fox Foundation for Parkinson's Research](http://www.michaeljfox.org)** | **[Research Alliances Intern (Corporate Sponsorships)](https://jobright.ai/jobs/info/69f2165becbc8c2f73208c74?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69f21625ab4ec4779fff72ab?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Apr 29 |
 | **[Coleto Brands](https://coletobrands.com)** | **[2026 Summer Intern - Sales Intern - Sales and Retail Strategy](https://jobright.ai/jobs/info/69f2161eecbc8c2f73208b42?utm_campaign=1051&utm_source=git)** | Greenville, SC | Remote | Apr 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a4c1830da45516f16d71dd?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 28 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a39528b600907a9629a11e?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Apr 28 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a39525b600907a9629a116?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf4?utm_campaign=1051&utm_source=git)** | Athens, GA, US | On Site | Apr 28 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69811b00abff4c399a9feb49?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Apr 28 |
-| **[Harvest Midstream Company](https://www.harvestmidstream.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f153c1b27fee43e8cd8904?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 28 |
-| **[AnewHealth](https://anewhealthrx.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f1291eb27fee43e8cd7654?utm_campaign=1051&utm_source=git)** | Montgomery County, PA | On Site | Apr 28 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f14233825a315d7ca36fa8?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
