@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Intern, Agency Partnerships](https://jobright.ai/jobs/info/69f17e31825a315d7ca3838d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
+| **[Danger Zone Marketing](https://aceyourbusiness.com)** | **[Paid Sales Internship](https://jobright.ai/jobs/info/69f17e2fb27fee43e8cd96de?utm_campaign=1051&utm_source=git)** | Knoxville, TN | Hybrid | Apr 28 |
+| **[Supergood](https://www.gosupergood.com)** | **[Account Services Intern](https://jobright.ai/jobs/info/69f17a1d8feca91f1492035c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
+| **[Lactalis Canada](https://lactalis.ca/)** | **[Business Development Intern - Ingredients](https://jobright.ai/jobs/info/69f173ef8feca91f14920249?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
+| **[Fabick Cat](https://www.fabickcat.com/)** | **[Intern - Sales](https://jobright.ai/jobs/info/69f16652825a315d7ca379e5?utm_campaign=1051&utm_source=git)** | Fenton, MO | On Site | Apr 28 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/69f16b218feca91f14920117?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Apr 28 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/69f16b1f8feca91f1492010a?utm_campaign=1051&utm_source=git)** | Pincher Creek, Alberta, Canada | On Site | Apr 28 |
 | **[Frost](https://www.frostbank.com/)** | **[College Intern - Credit Operations](https://jobright.ai/jobs/info/69f16af162b48c683879560a?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Apr 28 |
-| **[Fabick Cat](https://www.fabickcat.com/)** | **[Intern - Sales](https://jobright.ai/jobs/info/69f16652825a315d7ca379e5?utm_campaign=1051&utm_source=git)** | Fenton, MO | On Site | Apr 28 |
 | **[TEALL Sports & Entertainment](http://teallcapital.com/)** | **[REVELxp - Sales Intern, Colorado State Ticket Sales and Service](https://jobright.ai/jobs/info/69f1663f8feca91f1492002c?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Apr 28 |
+| **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Sales Intern (PT)](https://jobright.ai/jobs/info/69f17a02ecbc8c2f73205c40?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 28 |
 | **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Intern - Field Sales](https://jobright.ai/jobs/info/69f15cceb27fee43e8cd8b04?utm_campaign=1051&utm_source=git)** | Franklin Furnace, OH | On Site | Apr 28 |
 | **[Regency Properties](https://regency-prop.com/)** | **[Leasing Intern](https://jobright.ai/jobs/info/69f153f28d8d624381a9baba?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Apr 28 |
 | **[Pittston Co-Packers](https://pittstoncopackers.com)** | **[NYC Business Development Intern](https://jobright.ai/jobs/info/69f153ef825a315d7ca3768e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[J1 Front Desk – Lennox Hotel / Miami Beach](https://jobright.ai/jobs/info/69f10379825a315d7ca3577a?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | On Site | Apr 28 |
 | **[Suncadia](http://www.suncadiaresort.com)** | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/69d4f85d706f771673b9fe10?utm_campaign=1051&utm_source=git)** | Cle Elum, WA | On Site | Apr 28 |
 | **[Access Systems, Inc.](https://www.accesssystems.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69f0c544b27fee43e8cd4ba3?utm_campaign=1051&utm_source=git)** | Des Moines Metro | On Site | Apr 28 |
-| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69f0c4878d8d624381a97994?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Apr 28 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/69f0c45262b48c683879123e?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Apr 28 |
-| **[Skymaster](skymasterpro.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69f0c44562b48c6838791212?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Westchester/Rockland Counties)](https://jobright.ai/jobs/info/69f0c3978d8d624381a97795?utm_campaign=1051&utm_source=git)** | Danbury, CT | On Site | Apr 28 |
-| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Sales Support Operations Intern - Fall 2026](https://jobright.ai/jobs/info/699cfbeae0bddb6acacc0d1d?utm_campaign=1051&utm_source=git)** | Green Bay, WI | Hybrid | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
