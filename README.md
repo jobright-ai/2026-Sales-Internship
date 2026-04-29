@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Business Development Internship](https://jobright.ai/jobs/info/69f224fe8d8d624381a9f5ca?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Apr 29 |
+| **[Puff Media](https://www.puffmedia.co/)** | **[Social Media & E-commerce Intern (TikTok Shop focus)](https://jobright.ai/jobs/info/69f22463825a315d7ca3affb?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 29 |
 | **[The Michael J. Fox Foundation for Parkinson's Research](http://www.michaeljfox.org)** | **[Research Alliances Intern (Corporate Sponsorships)](https://jobright.ai/jobs/info/69f2165becbc8c2f73208c74?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69f21625ab4ec4779fff72ab?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Apr 29 |
 | **[Coleto Brands](https://coletobrands.com)** | **[2026 Summer Intern - Sales Intern - Sales and Retail Strategy](https://jobright.ai/jobs/info/69f2161eecbc8c2f73208b42?utm_campaign=1051&utm_source=git)** | Greenville, SC | Remote | Apr 29 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Markets](https://jobright.ai/jobs/info/69f215deab4ec4779fff71f8?utm_campaign=1051&utm_source=git)** | HALIFAX, Nova Scotia, Canada | On Site | Apr 29 |
+| **[Geographic Solutions, Inc.](http://www.geographicsolutions.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69bb865506c1ba00c54df8a8?utm_campaign=1051&utm_source=git)** | Palm Harbor, FL | On Site | Apr 29 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69d52bf5706f771673ba0fb2?utm_campaign=1051&utm_source=git)** | De Soto, KS | On Site | Apr 29 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Outside Sales Specialist Intern](https://jobright.ai/jobs/info/68f1384fe6870116b1f54f43?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 29 |
+| **[WPBF 25](https://www.wpbf.com)** | **[WPBF Sales Intern](https://jobright.ai/jobs/info/69ba8db43b74eb1e2c888120?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL | On Site | Apr 29 |
+| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Markets](https://jobright.ai/jobs/info/69f224f2f154d768fbaa5864?utm_campaign=1051&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Apr 29 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/694a3d99187e565c6bfa4780?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Apr 29 |
+| ↳ | **[Partner Management Intern](https://jobright.ai/jobs/info/694a3a2e187e565c6bfa45c5?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Apr 29 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Queens)](https://jobright.ai/jobs/info/69d6315248f0c8161d2f6eeb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[JD.COM](http://corporate.jd.com)** | **[Industry Sales (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/69f1ee2d8d8d624381a9e829?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 29 |
 | **[Digital Provisions](https://www.digitalprovisions.com/)** | **[Sales Intern (Security Integration)](https://jobright.ai/jobs/info/69d59df4891d7b11cfd03327?utm_campaign=1051&utm_source=git)** | Ronkonkoma, NY | On Site | Apr 29 |
@@ -71,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Brightroc Marketing](brightrocmarketing.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/69eed8660a6e095553052c30?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Apr 29 |
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69a3b6aa359fe034b1ceadc3?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Apr 29 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Intern - Sales & Operations](https://jobright.ai/jobs/info/69f1d5228d8d624381a9e608?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Small Business Internship](https://jobright.ai/jobs/info/69f19dd9ecbc8c2f73206f6f?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 28 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69f19dd6ecbc8c2f73206f67?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Internship, Agency Partnerships](https://jobright.ai/jobs/info/69f1b98d825a315d7ca39b98?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69f190168d8d624381a9d42e?utm_campaign=1051&utm_source=git)** | Canada | Remote | Apr 28 |
@@ -91,10 +96,10 @@ For a complete list, click the following sortable link below:
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Sales Intern (PT)](https://jobright.ai/jobs/info/69f17a02ecbc8c2f73205c40?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 28 |
 | **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Intern - Field Sales](https://jobright.ai/jobs/info/69f15cceb27fee43e8cd8b04?utm_campaign=1051&utm_source=git)** | Franklin Furnace, OH | On Site | Apr 28 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SALES ASSOCIATE](https://jobright.ai/jobs/info/69efd5e416b2612c2a12bdaf?utm_campaign=1051&utm_source=git)** | Patuxent River, MD | On Site | Apr 28 |
-| ↳ | **[(LITTLE CREEK MINI MART) SALES ASSOCIATE](https://jobright.ai/jobs/info/69f186688feca91f14920ae8?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 28 |
-| ↳ | **[SALES ASSOCIATE](https://jobright.ai/jobs/info/69f18687ecbc8c2f73206497?utm_campaign=1051&utm_source=git)** | Great Lakes, IL | On Site | Apr 28 |
 | ↳ | **[(NEX NORFOLK) SALES ASSOCIATE - MINIMART](https://jobright.ai/jobs/info/69f009f358811370cb14a45f?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Apr 28 |
 | ↳ | **[(NEX LITTLE CREEK) - SALES ASSOCIATE - SOFTLINES](https://jobright.ai/jobs/info/69f186a6b27fee43e8cd98c2?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 28 |
+| ↳ | **[SALES ASSOCIATE](https://jobright.ai/jobs/info/69f18687ecbc8c2f73206497?utm_campaign=1051&utm_source=git)** | Great Lakes, IL | On Site | Apr 28 |
+| ↳ | **[(LITTLE CREEK MINI MART) SALES ASSOCIATE](https://jobright.ai/jobs/info/69f186688feca91f14920ae8?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 28 |
 | **[Regency Properties](https://regency-prop.com/)** | **[Leasing Intern](https://jobright.ai/jobs/info/69f153f28d8d624381a9baba?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Apr 28 |
 | **[Pittston Co-Packers](https://pittstoncopackers.com)** | **[NYC Business Development Intern](https://jobright.ai/jobs/info/69f153ef825a315d7ca3768e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Continental](https://www.continental.com)** | **[Field Sales Trainee - Tires, PLT](https://jobright.ai/jobs/info/69e95cb97820c036924e7aa8?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
@@ -113,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Curbell Plastics](https://www.curbellplastics.com)** | **[Sales Intern Part- Time](https://jobright.ai/jobs/info/69f139f262b48c683879474a?utm_campaign=1051&utm_source=git)** | Orchard Park, New York, United States | On Site | Apr 28 |
 | **[Goosehead Insurance](https://www.goosehead.com)** | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69583a029f1b381eb2712094?utm_campaign=1051&utm_source=git)** | Nashville Metro | Hybrid | Apr 28 |
 | **[Blue Wave](https://bluewaveevents.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f135e3825a315d7ca36a48?utm_campaign=1051&utm_source=git)** | Montgomery, AL | On Site | Apr 28 |
-| **[FoundRae](https://foundrae.com)** | **[E-Commerce and Digital Marketing Intern](https://jobright.ai/jobs/info/69f135b862b48c68387944a6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69f135b08d8d624381a9ae5a?utm_campaign=1051&utm_source=git)** | Lexington, KY | Remote | Apr 28 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69f135a38d8d624381a9ae21?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | Apr 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69f1359762b48c68387943ed?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Apr 28 |
@@ -139,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[RV Sales Internship](https://jobright.ai/jobs/info/69f1427c825a315d7ca3713b?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | Apr 28 |
 | **[UDR - Opening Doors to your future](http://www.udr.com/)** | **[Intern - Multi-Family Property Management](https://jobright.ai/jobs/info/69f12d87ecbc8c2f73204258?utm_campaign=1051&utm_source=git)** | Bel Air, MD | On Site | Apr 28 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[(NEX NORFOLK) SALES ASSOCIATE - MINI MART](https://jobright.ai/jobs/info/69f10ff4825a315d7ca35ddd?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Apr 28 |
-| **[Coleto Brands](https://coletobrands.com)** | **[2026 Summer Intern - Sales Intern - Sales and Retail Strategy](https://jobright.ai/jobs/info/69f10e0cb27fee43e8cd6da7?utm_campaign=1051&utm_source=git)** | Greenville, SC | Remote | Apr 28 |
 | **[Cassels Brock & Blackwell LLP](http://www.cassels.com)** | **[Business Development & Marketing Student](https://jobright.ai/jobs/info/69f10e058feca91f1491e27c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
 | **[SpectrumVoIP](https://www.spectrumvoip.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f10dff8d8d624381a99f86?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Apr 28 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69e901737820c036924e46c3?utm_campaign=1051&utm_source=git)** | Londonderry, NH | On Site | Apr 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CLV GROUP](https://www.clvgroup.com)** | **[Summer Real Estate Sales Intern](https://jobright.ai/jobs/info/69f12d218feca91f1491ee92?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Apr 28 |
 | **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69f0f55162b48c6838792dd8?utm_campaign=1051&utm_source=git)** | Detroit, MI | Remote | Apr 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69f0f5178d8d624381a99647?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | Apr 28 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69f0f513b27fee43e8cd660a?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | Apr 28 |
-| **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Account Management Intern – Business Analytics - Summer 2026](https://jobright.ai/jobs/info/69f0f4f5ecbc8c2f73202b98?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Apr 28 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Software Sales Intern](https://jobright.ai/jobs/info/69f0f4deb27fee43e8cd6566?utm_campaign=1051&utm_source=git)** | Westford-Massachusetts-United States of America, US | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
