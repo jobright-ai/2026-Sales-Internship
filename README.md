@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Intern - Field Sales](https://jobright.ai/jobs/info/69f15cceb27fee43e8cd8b04?utm_campaign=1051&utm_source=git)** | Franklin Furnace, OH | On Site | Apr 28 |
 | **[Regency Properties](https://regency-prop.com/)** | **[Leasing Intern](https://jobright.ai/jobs/info/69f153f28d8d624381a9baba?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Apr 28 |
 | **[Pittston Co-Packers](https://pittstoncopackers.com)** | **[NYC Business Development Intern](https://jobright.ai/jobs/info/69f153ef825a315d7ca3768e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Continental](https://www.continental.com)** | **[Field Sales Trainee - Tires, PLT](https://jobright.ai/jobs/info/69e95cb97820c036924e7aa8?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69f0f513b27fee43e8cd660a?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | Apr 28 |
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Account Management Intern – Business Analytics - Summer 2026](https://jobright.ai/jobs/info/69f0f4f5ecbc8c2f73202b98?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Apr 28 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Software Sales Intern](https://jobright.ai/jobs/info/69f0f4deb27fee43e8cd6566?utm_campaign=1051&utm_source=git)** | Westford-Massachusetts-United States of America, US | On Site | Apr 28 |
-| **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69f0f4d0825a315d7ca3536b?utm_campaign=1051&utm_source=git)** | Columbus, OH | Remote | Apr 28 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/69f0f4d0825a315d7ca35372?utm_campaign=1051&utm_source=git)** | St Louis, MO | Remote | Apr 28 |
+| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69f0f4d0825a315d7ca35372?utm_campaign=1051&utm_source=git)** | St Louis, MO | Remote | Apr 28 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69f0f4d0825a315d7ca3536b?utm_campaign=1051&utm_source=git)** | Columbus, OH | Remote | Apr 28 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Sales Intern - Best Buy Accounts - Minnesota  (Home Solution)](https://jobright.ai/jobs/info/69d5409e366bb95ba55438a1?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Apr 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Bremerton](https://jobright.ai/jobs/info/69ba90663b74eb1e2c888bee?utm_campaign=1051&utm_source=git)** | Port Orchard, WA | On Site | Apr 28 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Strategic Sales & Analytics Intern (September to December)](https://jobright.ai/jobs/info/69d4f713891d7b11cfcfeb03?utm_campaign=1051&utm_source=git)** | Needham, MA | Hybrid | Apr 28 |
@@ -134,15 +135,14 @@ For a complete list, click the following sortable link below:
 | **[D&H Distributing](https://www.dandh.com/)** | **[Sales Operations - (Intern-Summer 2026)](https://jobright.ai/jobs/info/69f0e04162b48c6838792682?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 28 |
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Internship](https://jobright.ai/jobs/info/69cd4dcb398fb071abf73e6f?utm_campaign=1051&utm_source=git)** | Mississippi, United States | Hybrid | Apr 28 |
 | **[Waresport](https://www.waresport.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f0d5bbecbc8c2f73202270?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
-| **[TierPoint](http://www.tierpoint.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69cd71a0cfdc6132f9418b22?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Apr 28 |
 | **[OWL Services](https://owlservices.com)** | **[Intern](https://jobright.ai/jobs/info/69f0cfc2ecbc8c2f73201ef5?utm_campaign=1051&utm_source=git)** | Plymouth Meeting, PA, US | On Site | Apr 28 |
 | **[Sun Gro Horticulture](http://www.sungro.com)** | **[Sales Training Internship](https://jobright.ai/jobs/info/699cd34181476f6176b5604e?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 28 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/69d3cf1e366bb95ba5537858?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Apr 28 |
 | **[Locala](https://asklocala.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69e280475c44d4710fe2575c?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Apr 28 |
 | **[RailPros](http://railpros.com)** | **[Intern - Real Estate](https://jobright.ai/jobs/info/69d44065891d7b11cfcf8d11?utm_campaign=1051&utm_source=git)** | Omaha, NE | Hybrid | Apr 28 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Global Partnerships – Data & Research](https://jobright.ai/jobs/info/69d42799891d7b11cfcf7ec3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
-| **[Yurbban Hospitality Group](https://www.yurbban.com)** | **[J1 Front Desk – Lennox Hotel / Miami Beach](https://jobright.ai/jobs/info/69f10379825a315d7ca3577a?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | On Site | Apr 28 |
-| ↳ | **[J1 Front Desk – UMA House / South Beach, Miami](https://jobright.ai/jobs/info/69f103798d8d624381a99a25?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | On Site | Apr 28 |
+| **[Yurbban Hospitality Group](https://www.yurbban.com)** | **[J1 Front Desk – UMA House / South Beach, Miami](https://jobright.ai/jobs/info/69f103798d8d624381a99a25?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | On Site | Apr 28 |
+| ↳ | **[J1 Front Desk – Lennox Hotel / Miami Beach](https://jobright.ai/jobs/info/69f10379825a315d7ca3577a?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | On Site | Apr 28 |
 | **[Suncadia](http://www.suncadiaresort.com)** | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/69d4f85d706f771673b9fe10?utm_campaign=1051&utm_source=git)** | Cle Elum, WA | On Site | Apr 28 |
 | **[Access Systems, Inc.](https://www.accesssystems.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69f0c544b27fee43e8cd4ba3?utm_campaign=1051&utm_source=git)** | Des Moines Metro | On Site | Apr 28 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69f0c4878d8d624381a97994?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Apr 28 |
