@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Queens)](https://jobright.ai/jobs/info/69d6315248f0c8161d2f6eeb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[JD.COM](http://corporate.jd.com)** | **[Industry Sales (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/69f1ee2d8d8d624381a9e829?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 29 |
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69a3b6aa359fe034b1ceadc3?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Apr 29 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Intern - Sales & Operations](https://jobright.ai/jobs/info/69f1d5228d8d624381a9e608?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
@@ -80,10 +81,10 @@ For a complete list, click the following sortable link below:
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Sales Intern (PT)](https://jobright.ai/jobs/info/69f17a02ecbc8c2f73205c40?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 28 |
 | **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Intern - Field Sales](https://jobright.ai/jobs/info/69f15cceb27fee43e8cd8b04?utm_campaign=1051&utm_source=git)** | Franklin Furnace, OH | On Site | Apr 28 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SALES ASSOCIATE](https://jobright.ai/jobs/info/69efd5e416b2612c2a12bdaf?utm_campaign=1051&utm_source=git)** | Patuxent River, MD | On Site | Apr 28 |
-| ↳ | **[(NEX LITTLE CREEK) - SALES ASSOCIATE - SOFTLINES](https://jobright.ai/jobs/info/69f186a6b27fee43e8cd98c2?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 28 |
-| ↳ | **[SALES ASSOCIATE](https://jobright.ai/jobs/info/69f18687ecbc8c2f73206497?utm_campaign=1051&utm_source=git)** | Great Lakes, IL | On Site | Apr 28 |
-| ↳ | **[(LITTLE CREEK MINI MART) SALES ASSOCIATE](https://jobright.ai/jobs/info/69f186688feca91f14920ae8?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 28 |
 | ↳ | **[(NEX NORFOLK) SALES ASSOCIATE - MINIMART](https://jobright.ai/jobs/info/69f009f358811370cb14a45f?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Apr 28 |
+| ↳ | **[SALES ASSOCIATE](https://jobright.ai/jobs/info/69f18687ecbc8c2f73206497?utm_campaign=1051&utm_source=git)** | Great Lakes, IL | On Site | Apr 28 |
+| ↳ | **[(NEX LITTLE CREEK) - SALES ASSOCIATE - SOFTLINES](https://jobright.ai/jobs/info/69f186a6b27fee43e8cd98c2?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 28 |
+| ↳ | **[(LITTLE CREEK MINI MART) SALES ASSOCIATE](https://jobright.ai/jobs/info/69f186688feca91f14920ae8?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 28 |
 | **[Regency Properties](https://regency-prop.com/)** | **[Leasing Intern](https://jobright.ai/jobs/info/69f153f28d8d624381a9baba?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Apr 28 |
 | **[Pittston Co-Packers](https://pittstoncopackers.com)** | **[NYC Business Development Intern](https://jobright.ai/jobs/info/69f153ef825a315d7ca3768e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Continental](https://www.continental.com)** | **[Field Sales Trainee - Tires, PLT](https://jobright.ai/jobs/info/69e95cb97820c036924e7aa8?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Agency Partnership Intern](https://jobright.ai/jobs/info/69f118ca825a315d7ca3610e?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[REVELxp](https://revelxp.com)** | **[REVELxp - Sales Intern, Colorado State Ticket Sales and Service](https://jobright.ai/jobs/info/69f0eeb0825a315d7ca35199?utm_campaign=1051&utm_source=git)** | Fort Collins,CO,US | On Site | Apr 28 |
 | **[US LBM](http://uslbm.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69d441f6cfdc6132f94593d9?utm_campaign=1051&utm_source=git)** | Gilbert, AZ | On Site | Apr 28 |
-| **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69f10415ecbc8c2f73203310?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
