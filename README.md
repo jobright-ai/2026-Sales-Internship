@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69b0609fdfaeda6ff59a1ff0?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
+| **[Tencent](https://www.tencent.com/)** | **[Global Business Development Intern (Palo Alto)](https://jobright.ai/jobs/info/69a8494b7ac93962b70814b8?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Apr 29 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/69f2dd838d8d624381aa45e4?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Apr 29 |
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/69f2d86eab4ec4779fffd702?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | On Site | Apr 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Programs and Deal Design - Deal Success Center Americas](https://jobright.ai/jobs/info/69f2d7dc825a315d7ca40fdc?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Remote | Apr 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Intern, Agency Partnerships](https://jobright.ai/jobs/info/69f17e31825a315d7ca3838d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Danger Zone Marketing](https://aceyourbusiness.com)** | **[Paid Sales Internship](https://jobright.ai/jobs/info/69f17e2fb27fee43e8cd96de?utm_campaign=1051&utm_source=git)** | Knoxville, TN | Hybrid | Apr 28 |
 | **[Supergood](https://www.gosupergood.com)** | **[Account Services Intern](https://jobright.ai/jobs/info/69f17a1d8feca91f1492035c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
-| **[Lactalis Canada](https://lactalis.ca/)** | **[Business Development Intern - Ingredients](https://jobright.ai/jobs/info/69f173ef8feca91f14920249?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
-| **[Fabick Cat](https://www.fabickcat.com/)** | **[Intern - Sales](https://jobright.ai/jobs/info/69f16652825a315d7ca379e5?utm_campaign=1051&utm_source=git)** | Fenton, MO | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
