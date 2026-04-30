@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KaraMGMT](https://www.linkedin.com/company/110102351)** | **[Creator Partnerships Intern (Remote)](https://jobright.ai/jobs/info/69f32297c78b9e4518953728?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Apr 30 |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) / Fullerton, CA - Summer 2026](https://jobright.ai/jobs/info/69f31e1c6942c746fa69000d?utm_campaign=1051&utm_source=git)** | Fullerton, CA | On Site | Apr 30 |
 | **[Jitto](getjitto.com)** | **[Business Development Representative (Co-op/Internship)](https://jobright.ai/jobs/info/69f303278feca91f14929432?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
+| **[Hajoca Corporation](https://www.hajoca.com)** | **[Sales And Operations Internship](https://jobright.ai/jobs/info/69f322221f90bd6ae23cdac3?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Apr 29 |
+| ↳ | **[Summer Internship- South Division 2026](https://jobright.ai/jobs/info/69f31e1f343eef4fb0a9920d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69b0609fdfaeda6ff59a1ff0?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Business Development Intern (Palo Alto)](https://jobright.ai/jobs/info/69a8494b7ac93962b70814b8?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Apr 29 |
 | **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Event Sales Intern](https://jobright.ai/jobs/info/69efa1f8fbe0994a40eb7686?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Apr 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69f19dd6ecbc8c2f73206f67?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Internship, Agency Partnerships](https://jobright.ai/jobs/info/69f1b98d825a315d7ca39b98?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69f190168d8d624381a9d42e?utm_campaign=1051&utm_source=git)** | Canada | Remote | Apr 28 |
-| **[TikTok](https://www.tiktok.com)** | **[Publisher Partnerships Project Intern (TikTok-Operations-News-Global Partnerships) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f186ca8d8d624381a9ca7f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
-| **[CBRE](https://www.cbre.com)** | **[Part-Time Intern (Industrial Leasing, Onsite Charleston, SC)](https://jobright.ai/jobs/info/69f18692ecbc8c2f732064b0?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Apr 28 |
-| **[TikTok](https://www.tiktok.com)** | **[Global Sports Partnerships Project Intern (TikTok-Operations-Sports-Global Partnerships) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69f1867cecbc8c2f73206463?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 28 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Intern, Agency Partnerships](https://jobright.ai/jobs/info/69f17e31825a315d7ca3838d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
