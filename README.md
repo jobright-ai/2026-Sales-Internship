@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jitto](getjitto.com)** | **[Business Development Representative (Co-op/Internship)](https://jobright.ai/jobs/info/69f303278feca91f14929432?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69b0609fdfaeda6ff59a1ff0?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Business Development Intern (Palo Alto)](https://jobright.ai/jobs/info/69a8494b7ac93962b70814b8?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Apr 29 |
+| **[Lasko Products](https://www.lasko.com/)** | **[Sales Strategy Summer  Internship](https://jobright.ai/jobs/info/6985212c0f6f7e7a2cdfab9f?utm_campaign=1051&utm_source=git)** | West Chester, PA | Hybrid | Apr 29 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/69f2dd838d8d624381aa45e4?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Apr 29 |
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/69f2d86eab4ec4779fffd702?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | On Site | Apr 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Programs and Deal Design - Deal Success Center Americas](https://jobright.ai/jobs/info/69f2d7dc825a315d7ca40fdc?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Remote | Apr 29 |
@@ -147,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Digital Provisions](https://www.digitalprovisions.com/)** | **[Sales Intern (Security Integration)](https://jobright.ai/jobs/info/69d59df4891d7b11cfd03327?utm_campaign=1051&utm_source=git)** | Ronkonkoma, NY | On Site | Apr 29 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f20b2e825a315d7ca3a768?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 29 |
 | **[Brightroc Marketing](brightrocmarketing.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/69eed8660a6e095553052c30?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Apr 29 |
-| **[Central Garden & Pet](http://www.central.com)** | **[Intern - Sales & Operations](https://jobright.ai/jobs/info/69f1d5228d8d624381a9e608?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69f19dd6ecbc8c2f73206f67?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Internship, Agency Partnerships](https://jobright.ai/jobs/info/69f1b98d825a315d7ca39b98?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69f190168d8d624381a9d42e?utm_campaign=1051&utm_source=git)** | Canada | Remote | Apr 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Global Sports Partnerships Project Intern (TikTok-Operations-Sports-Global Partnerships) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69f1867cecbc8c2f73206463?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 28 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Remote Intern, Agency Partnerships](https://jobright.ai/jobs/info/69f17e31825a315d7ca3838d?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Danger Zone Marketing](https://aceyourbusiness.com)** | **[Paid Sales Internship](https://jobright.ai/jobs/info/69f17e2fb27fee43e8cd96de?utm_campaign=1051&utm_source=git)** | Knoxville, TN | Hybrid | Apr 28 |
-| **[Supergood](https://www.gosupergood.com)** | **[Account Services Intern](https://jobright.ai/jobs/info/69f17a1d8feca91f1492035c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
