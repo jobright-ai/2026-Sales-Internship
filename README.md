@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revvity](https://www.revvity.com/)** | **[Corporate Development Summer Intern](https://jobright.ai/jobs/info/69f2af4034c4af7a79ab47f8?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Apr 29 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/69f2a7ea8feca91f1492613d?utm_campaign=1051&utm_source=git)** | Sevierville, TN | On Site | Apr 29 |
+| **[McKinstry](http://www.mckinstry.com)** | **[Sales Excellence Intern](https://jobright.ai/jobs/info/69f2a7a68d8d624381aa1f11?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[The Colie Group](https://www.thedreammakersteam.com)** | **[Business Intern](https://jobright.ai/jobs/info/69f29650825a315d7ca3d65c?utm_campaign=1051&utm_source=git)** | Clinton, MS | On Site | Apr 29 |
 | **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Fund Development Intern (Association Office)](https://jobright.ai/jobs/info/69f28be78d8d624381aa182e?utm_campaign=1051&utm_source=git)** | New York, NY, None | On Site | Apr 29 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Commercial / Public Sector, Inside Sales Intern](https://jobright.ai/jobs/info/69f28bb0f154d768fbaa7b06?utm_campaign=1051&utm_source=git)** | Greenville, South Carolina, United States of America | Hybrid | Apr 29 |
@@ -68,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Sales Associate Intern](https://jobright.ai/jobs/info/69f279d7f154d768fbaa7199?utm_campaign=1051&utm_source=git)** | Orlando, FL | Remote | Apr 29 |
 | **[FreshDirect](http://freshdirect.com)** | **[Summer Internship- Assortment Strategy Intern](https://jobright.ai/jobs/info/69f279858d8d624381aa10f8?utm_campaign=1051&utm_source=git)** | Bronx, NY | On Site | Apr 29 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Hospitality & Spa Intern (Summer 2026)](https://jobright.ai/jobs/info/69f279548d8d624381aa0ff3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 29 |
+| **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69cb0d571b5ad028873a849a?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | Apr 29 |
 | **[Coty](https://www.coty.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f29650825a315d7ca3d65b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 29 |
 | **[Silvus Technologies](http://silvustechnologies.com)** | **[Outbound Sales Representative - 2026 Summer Intern](https://jobright.ai/jobs/info/69f2896df154d768fbaa790c?utm_campaign=1051&utm_source=git)** | Allen, TX | On Site | Apr 29 |
 | **[V2 Jets](https://www.v2jets.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f269ca825a315d7ca3c921?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Apr 29 |
@@ -91,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Business Analyst, Account Services Specialist](https://jobright.ai/jobs/info/69f245d8825a315d7ca3ba32?utm_campaign=1051&utm_source=git)** | 4221 N 203rd St, Elkhorn, NE 68022, USA | On Site | Apr 29 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/692e2503ef4b48533d13cffd?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Apr 29 |
 | **[IRONCLAD](https://thisisironclad.com)** | **[INTERNSHIP: Sales/Admin](https://jobright.ai/jobs/info/69f23c858d8d624381a9fefe?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 29 |
-| **[Eugenia Kim](https://eugeniakim.com)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/69f23c41825a315d7ca3b695?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[Workato](http://www.workato.com)** | **[Intern, Customer Success](https://jobright.ai/jobs/info/69d54438cfdc6132f9460d75?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Apr 29 |
 | **[Thélios](https://thelios.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69d591b5366bb95ba55461b8?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 29 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Store Management Michigan Intern - Retail](https://jobright.ai/jobs/info/69f232ffab4ec4779fff7ca8?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Apr 29 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Intern - Field Sales](https://jobright.ai/jobs/info/69f15cceb27fee43e8cd8b04?utm_campaign=1051&utm_source=git)** | Franklin Furnace, OH | On Site | Apr 28 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SALES ASSOCIATE](https://jobright.ai/jobs/info/69efd5e416b2612c2a12bdaf?utm_campaign=1051&utm_source=git)** | Patuxent River, MD | On Site | Apr 28 |
 | ↳ | **[(LITTLE CREEK MINI MART) SALES ASSOCIATE](https://jobright.ai/jobs/info/69f186688feca91f14920ae8?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 28 |
-| ↳ | **[(NEX LITTLE CREEK) - SALES ASSOCIATE - SOFTLINES](https://jobright.ai/jobs/info/69f186a6b27fee43e8cd98c2?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 28 |
 | ↳ | **[SALES ASSOCIATE](https://jobright.ai/jobs/info/69f18687ecbc8c2f73206497?utm_campaign=1051&utm_source=git)** | Great Lakes, IL | On Site | Apr 28 |
+| ↳ | **[(NEX LITTLE CREEK) - SALES ASSOCIATE - SOFTLINES](https://jobright.ai/jobs/info/69f186a6b27fee43e8cd98c2?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Apr 28 |
 | **[Regency Properties](https://regency-prop.com/)** | **[Leasing Intern](https://jobright.ai/jobs/info/69f153f28d8d624381a9baba?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Apr 28 |
 | **[Pittston Co-Packers](https://pittstoncopackers.com)** | **[NYC Business Development Intern](https://jobright.ai/jobs/info/69f153ef825a315d7ca3768e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Continental](https://www.continental.com)** | **[Field Sales Trainee - Tires, PLT](https://jobright.ai/jobs/info/69e95cb97820c036924e7aa8?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
 | **[Nonlinear](https://www.nonlinear.build)** | **[Sales/GTM Engineer Intern](https://jobright.ai/jobs/info/69f18684b27fee43e8cd985c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Apr 28 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/69f15042b27fee43e8cd889e?utm_campaign=1051&utm_source=git)** | 00507 - California Corporate Buying Office, US | Hybrid | Apr 28 |
-| **[Bell](https://letstalk.bell.ca/en)** | **[Retails Sales Associate, Woodgrove Centre](https://jobright.ai/jobs/info/69f15038ecbc8c2f73205347?utm_campaign=1051&utm_source=git)** | Nanaimo, British Columbia, Canada | On Site | Apr 28 |
-| **[Waites](https://waites.net)** | **[BDR - Sales Intern](https://jobright.ai/jobs/info/69f15037b27fee43e8cd8863?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Apr 28 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69f15016b27fee43e8cd879d?utm_campaign=1051&utm_source=git)** | Madison, WI | Remote | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
