@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/694a01df7d506e3808f51df3?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | On Site | Apr 30 |
+| **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69197cd445fb6f5ead8a8e2f?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Apr 30 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[COMMERCIAL SALES INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/699fc26781476f6176b97c06?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Brooklyn Navy Yard)](https://jobright.ai/jobs/info/69d6b1a348f0c8161d2fa4c1?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Apr 30 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69d707d6706f771673baf45c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 30 |
 | **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cb7910efdec76df36bd277?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Apr 30 |
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69d6e2aa366bb95ba555094f?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 30 |
+| **[Rinker Materials](http://www.rinkerpipe.com/)** | **[Sales Internship (Concrete Industry)](https://jobright.ai/jobs/info/69bacf3006c1ba00c54d1da7?utm_campaign=1051&utm_source=git)** | Henderson, CO | On Site | Apr 30 |
 | **[KaraMGMT](https://www.linkedin.com/company/110102351)** | **[Creator Partnerships Intern (Remote)](https://jobright.ai/jobs/info/69f32297c78b9e4518953728?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Apr 30 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) / Fullerton, CA - Summer 2026](https://jobright.ai/jobs/info/69f31e1c6942c746fa69000d?utm_campaign=1051&utm_source=git)** | Fullerton, CA | On Site | Apr 30 |
 | **[Jitto](getjitto.com)** | **[Business Development Representative (Co-op/Internship)](https://jobright.ai/jobs/info/69f303278feca91f14929432?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
@@ -69,6 +72,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship- South Division 2026](https://jobright.ai/jobs/info/69f31e1f343eef4fb0a9920d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69b0609fdfaeda6ff59a1ff0?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Business Development Intern (Palo Alto)](https://jobright.ai/jobs/info/69a8494b7ac93962b70814b8?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Apr 29 |
+| **[Valley Collective](https://www.thevalleycollective.com/)** | **[Sales & Promotions Intern](https://jobright.ai/jobs/info/69efc60afbe0994a40eb86d4?utm_campaign=1051&utm_source=git)** | Greater McAllen Area | On Site | Apr 29 |
+| **[Summit Events](summiteventsclt.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69efa81ae624fe645d532763?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 29 |
+| **[Brandlete](https://www.brandletehq.com)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/69e8581b4b0fa35a7076621c?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Apr 29 |
 | **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Event Sales Intern](https://jobright.ai/jobs/info/69efa1f8fbe0994a40eb7686?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Apr 29 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Strategy Summer  Internship](https://jobright.ai/jobs/info/6985212c0f6f7e7a2cdfab9f?utm_campaign=1051&utm_source=git)** | West Chester, PA | Hybrid | Apr 29 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/69f2dd838d8d624381aa45e4?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Apr 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Markets](https://jobright.ai/jobs/info/69f224f2f154d768fbaa5864?utm_campaign=1051&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Apr 29 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/694a3d99187e565c6bfa4780?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Apr 29 |
 | ↳ | **[Partner Management Intern](https://jobright.ai/jobs/info/694a3a2e187e565c6bfa45c5?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Apr 29 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Queens)](https://jobright.ai/jobs/info/69d6315248f0c8161d2f6eeb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 29 |
-| **[JD.COM](http://corporate.jd.com)** | **[Industry Sales (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/69f1ee2d8d8d624381a9e829?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Apr 29 |
-| **[Digital Provisions](https://www.digitalprovisions.com/)** | **[Sales Intern (Security Integration)](https://jobright.ai/jobs/info/69d59df4891d7b11cfd03327?utm_campaign=1051&utm_source=git)** | Ronkonkoma, NY | On Site | Apr 29 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Van Nuys, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f20b2e825a315d7ca3a768?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 29 |
-| **[Brightroc Marketing](brightrocmarketing.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/69eed8660a6e095553052c30?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Apr 29 |
-| **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69f19dd6ecbc8c2f73206f67?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
