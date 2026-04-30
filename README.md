@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/69f2dd838d8d624381aa45e4?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Apr 29 |
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/69f2d86eab4ec4779fffd702?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | On Site | Apr 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Programs and Deal Design - Deal Success Center Americas](https://jobright.ai/jobs/info/69f2d7dc825a315d7ca40fdc?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Remote | Apr 29 |
+| **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/69f2ea0f8feca91f14928ca9?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Apr 29 |
 | **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Fund Development Intern (Association Office)](https://jobright.ai/jobs/info/69f2cc43ab4ec4779fffc206?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[Paragon 28](http://www.Paragon28.com)** | **[Sales and Operations Intern](https://jobright.ai/jobs/info/69f2ca8c825a315d7ca3fa59?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Apr 29 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SALES ASSOCIATE](https://jobright.ai/jobs/info/69f2c4a9ecbc8c2f7320d7bb?utm_campaign=1051&utm_source=git)** | Patuxent River, MD | On Site | Apr 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Supergood](https://www.gosupergood.com)** | **[Account Services Intern](https://jobright.ai/jobs/info/69f17a1d8feca91f1492035c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Lactalis Canada](https://lactalis.ca/)** | **[Business Development Intern - Ingredients](https://jobright.ai/jobs/info/69f173ef8feca91f14920249?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
 | **[Fabick Cat](https://www.fabickcat.com/)** | **[Intern - Sales](https://jobright.ai/jobs/info/69f16652825a315d7ca379e5?utm_campaign=1051&utm_source=git)** | Fenton, MO | On Site | Apr 28 |
-| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/69f16b218feca91f14920117?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
