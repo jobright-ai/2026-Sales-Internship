@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Raptor Technologies](https://www.raptortech.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f372f2461b9b613a620504?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Apr 30 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Corporate Development M&A](https://jobright.ai/jobs/info/69baba355697383741409187?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Apr 30 |
 | **[Extia](http://extia.fr)** | **[Internship (student position) - Business Development Representative](https://jobright.ai/jobs/info/69f369f6343eef4fb0a9a46e?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 30 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/69f3669658b23a2329da41e3?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | Apr 30 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Global Markets, Sales (Miami, FL)](https://jobright.ai/jobs/info/69d7057a48f0c8161d2fc5b9?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Apr 30 |
 | **[Universal Coin & Bullion, Ltd.](https://universalcoin.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f35eae6942c746fa690f23?utm_campaign=1051&utm_source=git)** | Beaumont, TX | On Site | Apr 30 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Digital Sales Operations Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69bb86d506c1ba00c54dfa36?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Apr 30 |
+| **[SmartRoots](https://www.smartroots.us/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69f372e2461b9b613a6204d2?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 30 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Merchandising Operations Intern, Accessories & Partnerships](https://jobright.ai/jobs/info/69bb5f303b74eb1e2c89cbd4?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/694a01df7d506e3808f51df3?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | On Site | Apr 30 |
 | **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69197cd445fb6f5ead8a8e2f?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Apr 30 |
@@ -75,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Influx](https://www.influxonline.co)** | **[Student Sales Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69f366501f90bd6ae23ceae6?utm_campaign=1051&utm_source=git)** | Canada | Remote | Apr 30 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f358bd6942c746fa690ddb?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f35626343eef4fb0a99eec?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Apr 30 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f35626343eef4fb0a99eed?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Apr 30 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f35614461b9b613a61fb2b?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 30 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f35626343eef4fb0a99eed?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Apr 30 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f35627343eef4fb0a99eef?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Apr 30 |
 | **[Rinker Materials](http://www.rinkerpipe.com/)** | **[Sales Internship (Concrete Industry)](https://jobright.ai/jobs/info/69bacf3006c1ba00c54d1da7?utm_campaign=1051&utm_source=git)** | Henderson, CO | On Site | Apr 30 |
 | **[KaraMGMT](https://www.linkedin.com/company/110102351)** | **[Creator Partnerships Intern (Remote)](https://jobright.ai/jobs/info/69f32297c78b9e4518953728?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Apr 30 |
@@ -92,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Event Sales Intern](https://jobright.ai/jobs/info/69efa1f8fbe0994a40eb7686?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Apr 29 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Strategy Summer  Internship](https://jobright.ai/jobs/info/6985212c0f6f7e7a2cdfab9f?utm_campaign=1051&utm_source=git)** | West Chester, PA | Hybrid | Apr 29 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/69f2dd838d8d624381aa45e4?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Apr 29 |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Business Account Intern](https://jobright.ai/jobs/info/69f3749a461b9b613a62052b?utm_campaign=1051&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/69f2d86eab4ec4779fffd702?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | On Site | Apr 29 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/69f2ea0f8feca91f14928ca9?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Apr 29 |
 | **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Fund Development Intern (Association Office)](https://jobright.ai/jobs/info/69f2cc43ab4ec4779fffc206?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/69f2467e8d8d624381aa0167?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Apr 29 |
 | **[The Collegiate Lineup](https://www.thecollegiatelineup.com)** | **[Student Sales and Marketing Manager](https://jobright.ai/jobs/info/69f243a48feca91f14923e85?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/68c9cc8e95f5211cd2cf4719?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 29 |
-| **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Business Development Internship](https://jobright.ai/jobs/info/69f224fe8d8d624381a9f5ca?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Apr 29 |
-| **[Applied Industrial Technologies](http://www.applied.com)** | **[Intern - Customer Service & Sales](https://jobright.ai/jobs/info/689e6a8583d13d1f5b6bc26f?utm_campaign=1051&utm_source=git)** | Portage, IN | On Site | Apr 29 |
-| **[Lend-A-Loan LLC](https://www.lendaloanmortgage.com)** | **[Loan Officer Trainee](https://jobright.ai/jobs/info/69f24d51ecbc8c2f73209d1d?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
