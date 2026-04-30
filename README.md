@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/69f2dd838d8d624381aa45e4?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Apr 29 |
+| **[Quirch Foods](http://www.quirchfoods.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/69f2d86eab4ec4779fffd702?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | On Site | Apr 29 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Programs and Deal Design - Deal Success Center Americas](https://jobright.ai/jobs/info/69f2d7dc825a315d7ca40fdc?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Remote | Apr 29 |
 | **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Fund Development Intern (Association Office)](https://jobright.ai/jobs/info/69f2cc43ab4ec4779fffc206?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[Paragon 28](http://www.Paragon28.com)** | **[Sales and Operations Intern](https://jobright.ai/jobs/info/69f2ca8c825a315d7ca3fa59?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Apr 29 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SALES ASSOCIATE](https://jobright.ai/jobs/info/69f2c4a9ecbc8c2f7320d7bb?utm_campaign=1051&utm_source=git)** | Patuxent River, MD | On Site | Apr 29 |
@@ -70,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Revise Robotics (YC W25)](https://www.reviserobotics.com)** | **[Business Development Intern – Summer/Fall 2026](https://jobright.ai/jobs/info/69f2cc33ecbc8c2f7320d9ad?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/69f2a7ea8feca91f1492613d?utm_campaign=1051&utm_source=git)** | Sevierville, TN | On Site | Apr 29 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Sales Excellence Intern](https://jobright.ai/jobs/info/69f2a7a68d8d624381aa1f11?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69f2cf6decbc8c2f7320dbe9?utm_campaign=1051&utm_source=git)** | Hyde Park, NY | On Site | Apr 29 |
 | **[The Colie Group](https://www.thedreammakersteam.com)** | **[Business Intern](https://jobright.ai/jobs/info/69f29650825a315d7ca3d65c?utm_campaign=1051&utm_source=git)** | Clinton, MS | On Site | Apr 29 |
 | **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Fund Development Intern (Association Office)](https://jobright.ai/jobs/info/69f28be78d8d624381aa182e?utm_campaign=1051&utm_source=git)** | New York, NY, None | On Site | Apr 29 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Commercial / Public Sector, Inside Sales Intern](https://jobright.ai/jobs/info/69f28bb0f154d768fbaa7b06?utm_campaign=1051&utm_source=git)** | Greenville, South Carolina, United States of America | Hybrid | Apr 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lactalis Canada](https://lactalis.ca/)** | **[Business Development Intern - Ingredients](https://jobright.ai/jobs/info/69f173ef8feca91f14920249?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
 | **[Fabick Cat](https://www.fabickcat.com/)** | **[Intern - Sales](https://jobright.ai/jobs/info/69f16652825a315d7ca379e5?utm_campaign=1051&utm_source=git)** | Fenton, MO | On Site | Apr 28 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/69f16b218feca91f14920117?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Apr 28 |
-| **[Frost](https://www.frostbank.com/)** | **[College Intern - Credit Operations](https://jobright.ai/jobs/info/69f16af162b48c683879560a?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Apr 28 |
-| **[TEALL Sports & Entertainment](http://teallcapital.com/)** | **[REVELxp - Sales Intern, Colorado State Ticket Sales and Service](https://jobright.ai/jobs/info/69f1663f8feca91f1492002c?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Apr 28 |
-| **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Sales Intern (PT)](https://jobright.ai/jobs/info/69f17a02ecbc8c2f73205c40?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Apr 28 |
-| **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Intern - Field Sales](https://jobright.ai/jobs/info/69f15cceb27fee43e8cd8b04?utm_campaign=1051&utm_source=git)** | Franklin Furnace, OH | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
