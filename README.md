@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Vertiv](https://www.Vertiv.com)** | **[Technical Business Development Internship (Summer 2026)](https://jobright.ai/jobs/info/69f3d9766942c746fa69572f?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Apr 30 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - Gainesville, Winter Haven](https://jobright.ai/jobs/info/69f3e41458b23a2329da8cd1?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Apr 30 |
+| **[Grace Hill](http://www.gracehill.com/)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/69f3e4021f90bd6ae23d2af4?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 30 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Technical Business Development Internship (Summer 2026)](https://jobright.ai/jobs/info/69f3dc9a58b23a2329da853c?utm_campaign=1051&utm_source=git)** | Pleasanton, CA | On Site | Apr 30 |
+| ↳ | **[Technical Business Development Internship (Summer 2026)](https://jobright.ai/jobs/info/69f3d9766942c746fa69572f?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Apr 30 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Corporate Development M&A](https://jobright.ai/jobs/info/69f3d953461b9b613a6247f1?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Apr 30 |
 | **[Weidner Apartment Homes](https://www.weidner.com/)** | **[Intern Office](https://jobright.ai/jobs/info/69f3d8cf6942c746fa695592?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | Apr 30 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Director of Sales (Senior Living)](https://jobright.ai/jobs/info/69f3d1b258b23a2329da827a?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Apr 30 |
@@ -65,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[SimpleCiti Companies](http://www.simpleciti.com)** | **[Commercial Real Estate Underwriting Intern](https://jobright.ai/jobs/info/69f3cbe3343eef4fb0a9e27e?utm_campaign=1051&utm_source=git)** | Garden City, NY | On Site | Apr 30 |
 | **[Belong Health](https://belong-health.com/)** | **[Strategic Growth Intern](https://jobright.ai/jobs/info/69f3d94c461b9b613a6247c5?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Apr 30 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/69f3bc4a58b23a2329da7d20?utm_campaign=1051&utm_source=git)** | Provo, Utah, United States | Hybrid | Apr 30 |
+| **[WD](https://www.westerndigital.com)** | **[Senior Director, Business Development](https://jobright.ai/jobs/info/69f3e3701f90bd6ae23d26d6?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[RV Sales Internship](https://jobright.ai/jobs/info/69f3d934343eef4fb0a9e817?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | Apr 30 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f3d93d343eef4fb0a9e85c?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Apr 30 |
 | **[Baldwin Supply Company](http://baldwinsupply.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69f3b34858b23a2329da753e?utm_campaign=1051&utm_source=git)** | Plymouth, MN | On Site | Apr 30 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f3ad22461b9b613a62270f?utm_campaign=1051&utm_source=git)** | Minnesota, United States | Remote | Apr 30 |
 | **[EnerStar Solutions](https://enerstarsolutions.com)** | **[Intern – Oilfield Sales & Operations](https://jobright.ai/jobs/info/69f3ad22461b9b613a62270e?utm_campaign=1051&utm_source=git)** | Fairview, Montana, United States | On Site | Apr 30 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f3ad1f461b9b613a622700?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Remote | Apr 30 |
-| **[Targetbase](https://targetbase.com/)** | **[Intern - Client Engagement](https://jobright.ai/jobs/info/69d6cc9948f0c8161d2fb336?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 30 |
 | **[Baldwin Supply Company](http://baldwinsupply.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69f3ace158b23a2329da674e?utm_campaign=1051&utm_source=git)** | Plymouth, MN, US | On Site | Apr 30 |
 | **[Biltmore Farms](https://www.biltmorefarms.com)** | **[Hospitality Internship - Biltmore Farms Hotels - Summer 2026](https://jobright.ai/jobs/info/69f3da7f1f90bd6ae23d2281?utm_campaign=1051&utm_source=git)** | Asheville, NC | On Site | Apr 30 |
 | **[FreedomPay](https://corporate.freedompay.com/)** | **[Summer Intern 2026 - Customer Success](https://jobright.ai/jobs/info/69f3cbee343eef4fb0a9e2a0?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Apr 30 |
@@ -136,9 +139,9 @@ For a complete list, click the following sortable link below:
 | **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69d6e2aa366bb95ba555094f?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 30 |
 | **[Influx](https://www.influxonline.co)** | **[Student Sales Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69f366501f90bd6ae23ceae6?utm_campaign=1051&utm_source=git)** | Canada | Remote | Apr 30 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f358bd6942c746fa690ddb?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f35614461b9b613a61fb2b?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 30 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f35626343eef4fb0a99eed?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | Apr 30 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f35626343eef4fb0a99eec?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | Apr 30 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - San Fernando, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f35614461b9b613a61fb2b?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Apr 30 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f35627343eef4fb0a99eef?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | Apr 30 |
 | **[Rinker Materials](http://www.rinkerpipe.com/)** | **[Sales Internship (Concrete Industry)](https://jobright.ai/jobs/info/69bacf3006c1ba00c54d1da7?utm_campaign=1051&utm_source=git)** | Henderson, CO | On Site | Apr 30 |
 | **[KaraMGMT](https://www.linkedin.com/company/110102351)** | **[Creator Partnerships Intern (Remote)](https://jobright.ai/jobs/info/69f32297c78b9e4518953728?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Apr 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Event Sales Intern](https://jobright.ai/jobs/info/69efa1f8fbe0994a40eb7686?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Apr 29 |
 | **[Victory Branding](https://victorybranding.org/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69ef9ecae624fe645d5324ed?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Apr 29 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Sales Strategy Summer  Internship](https://jobright.ai/jobs/info/6985212c0f6f7e7a2cdfab9f?utm_campaign=1051&utm_source=git)** | West Chester, PA | Hybrid | Apr 29 |
-| **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/69f2dd838d8d624381aa45e4?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Apr 29 |
-| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Business Account Intern](https://jobright.ai/jobs/info/69f3749a461b9b613a62052b?utm_campaign=1051&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
-| **[Quirch Foods](http://www.quirchfoods.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/69f2d86eab4ec4779fffd702?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
