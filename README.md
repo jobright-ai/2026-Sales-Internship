@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HORST Engineering](http://horstengineering.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69f49b7212f2811ab5a5fe1d?utm_campaign=1051&utm_source=git)** | East Hartford, CT | On Site | May 01 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/69d84e97869c7e25d8594cc8?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 01 |
+| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/69d8e81d9f97a42dc9c1e9d1?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | May 01 |
+| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f6e9a39a63986de758368c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | On Site | May 01 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Business Development Representative (BDR) Intern (Summer 2026)](https://jobright.ai/jobs/info/699e631a81476f6176b76a07?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Strategy&Operation Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS)](https://jobright.ai/jobs/info/69d8cc6e9f97a42dc9c1e57f?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 01 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69f48626db88714bcdfada16?utm_campaign=1051&utm_source=git)** | Peachtree City, GA | On Site | May 01 |
+| **[Avanade](http://www.avanade.com)** | **[US Technical Pre-Sales Lead - Apps & Infra Practice](https://jobright.ai/jobs/info/69d80a3eb67cec4f9b09a16e?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | May 01 |
 | **[CBRE](https://www.cbre.com)** | **[Internship Charlotte, NC (Datacenter Focused)](https://jobright.ai/jobs/info/69f478310b36ff035474ca66?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 01 |
+| ↳ | **[Internship / Charlotte, NC (Datacenter Focused)](https://jobright.ai/jobs/info/69f49bd5a3d34b4f76f50a4d?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 01 |
 | **[Branksome Hall](https://www.branksome.on.ca)** | **[Advancement Intern](https://jobright.ai/jobs/info/69e93ad77820c036924e6af2?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 01 |
 | **[HP Marketing](https://www.hpros.com/)** | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69f448ae1f90bd6ae23d4055?utm_campaign=1051&utm_source=git)** | Melbourne, FL | On Site | Apr 30 |
 | **[PeopleLens](https://peoplelens.ai)** | **[Sales Development Intern - AI Native (Summer 2026)](https://jobright.ai/jobs/info/69f440c4461b9b613a62616e?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 30 |
@@ -95,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[WD](https://www.westerndigital.com)** | **[Senior Director, Business Development](https://jobright.ai/jobs/info/69f3e3701f90bd6ae23d26d6?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[RV Sales Internship](https://jobright.ai/jobs/info/69f3d934343eef4fb0a9e817?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | Apr 30 |
 | **[Gypsum Management and Supply](http://www.gms.com)** | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404b1343eef4fb0a9f6a4?utm_campaign=1051&utm_source=git)** | Westminster, Colorado, US | On Site | Apr 30 |
-| ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f405156942c746fa696679?utm_campaign=1051&utm_source=git)** | Joppa, Maryland, US | On Site | Apr 30 |
 | ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404371f90bd6ae23d322e?utm_campaign=1051&utm_source=git)** | Alpharetta, Georgia, US | On Site | Apr 30 |
+| ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f405156942c746fa696679?utm_campaign=1051&utm_source=git)** | Joppa, Maryland, US | On Site | Apr 30 |
 | ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404bb343eef4fb0a9f6c4?utm_campaign=1051&utm_source=git)** | Miami, Florida, US | On Site | Apr 30 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f3d93d343eef4fb0a9e85c?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Apr 30 |
 | **[Baldwin Supply Company](http://baldwinsupply.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69f3b34858b23a2329da753e?utm_campaign=1051&utm_source=git)** | Plymouth, MN | On Site | Apr 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economics, Private Brands - Intelligence](https://jobright.ai/jobs/info/69d7b3ab9f97a42dc9c1676c?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
 | **[Universal Coin & Bullion, Ltd.](https://universalcoin.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f35eae6942c746fa690f23?utm_campaign=1051&utm_source=git)** | Beaumont, TX | On Site | Apr 30 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Digital Sales Operations Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69bb86d506c1ba00c54dfa36?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Apr 30 |
-| **[DRB Homes](http://danryanbuilders.com)** | **[Intern- Sales & Marketing](https://jobright.ai/jobs/info/69bb298d3b74eb1e2c899945?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Apr 30 |
-| **[Redwood Living](https://www.byredwood.com)** | **[Operations Leasing and Sales Intern](https://jobright.ai/jobs/info/69f38169343eef4fb0a9aa0d?utm_campaign=1051&utm_source=git)** | Bennington, NE | On Site | Apr 30 |
-| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Merchandising Operations Intern, Accessories & Partnerships](https://jobright.ai/jobs/info/69bb5f303b74eb1e2c89cbd4?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
-| **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/694a01df7d506e3808f51df3?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | On Site | Apr 30 |
-| **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69197cd445fb6f5ead8a8e2f?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Apr 30 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[COMMERCIAL SALES INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/699fc26781476f6176b97c06?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
