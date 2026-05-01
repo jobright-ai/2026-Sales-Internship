@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Business Development Representative (BDR) Intern (Summer 2026)](https://jobright.ai/jobs/info/699e631a81476f6176b76a07?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 01 |
+| **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Strategy&Operation Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS)](https://jobright.ai/jobs/info/69d8cc6e9f97a42dc9c1e57f?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 01 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69f48626db88714bcdfada16?utm_campaign=1051&utm_source=git)** | Peachtree City, GA | On Site | May 01 |
 | **[CBRE](https://www.cbre.com)** | **[Internship Charlotte, NC (Datacenter Focused)](https://jobright.ai/jobs/info/69f478310b36ff035474ca66?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 01 |
-| **[BrightHaven Agency](https://www.brighthavenagency.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f484bf81706a5bd2160896?utm_campaign=1051&utm_source=git)** | United States | Remote | May 01 |
+| **[Branksome Hall](https://www.branksome.on.ca)** | **[Advancement Intern](https://jobright.ai/jobs/info/69e93ad77820c036924e6af2?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 01 |
 | **[HP Marketing](https://www.hpros.com/)** | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69f448ae1f90bd6ae23d4055?utm_campaign=1051&utm_source=git)** | Melbourne, FL | On Site | Apr 30 |
 | **[PeopleLens](https://peoplelens.ai)** | **[Sales Development Intern - AI Native (Summer 2026)](https://jobright.ai/jobs/info/69f440c4461b9b613a62616e?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 30 |
 | **[TransUnion](http://www.transunion.com)** | **[Sales Support Internship - Summer 2026](https://jobright.ai/jobs/info/69f42394343eef4fb0a9fd60?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Apr 30 |
@@ -91,9 +94,9 @@ For a complete list, click the following sortable link below:
 | **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/69f3bc4a58b23a2329da7d20?utm_campaign=1051&utm_source=git)** | Provo, Utah, United States | Hybrid | Apr 30 |
 | **[WD](https://www.westerndigital.com)** | **[Senior Director, Business Development](https://jobright.ai/jobs/info/69f3e3701f90bd6ae23d26d6?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[RV Sales Internship](https://jobright.ai/jobs/info/69f3d934343eef4fb0a9e817?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | Apr 30 |
-| **[Gypsum Management and Supply](http://www.gms.com)** | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404371f90bd6ae23d322e?utm_campaign=1051&utm_source=git)** | Alpharetta, Georgia, US | On Site | Apr 30 |
+| **[Gypsum Management and Supply](http://www.gms.com)** | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404b1343eef4fb0a9f6a4?utm_campaign=1051&utm_source=git)** | Westminster, Colorado, US | On Site | Apr 30 |
 | ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f405156942c746fa696679?utm_campaign=1051&utm_source=git)** | Joppa, Maryland, US | On Site | Apr 30 |
-| ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404b1343eef4fb0a9f6a4?utm_campaign=1051&utm_source=git)** | Westminster, Colorado, US | On Site | Apr 30 |
+| ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404371f90bd6ae23d322e?utm_campaign=1051&utm_source=git)** | Alpharetta, Georgia, US | On Site | Apr 30 |
 | ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404bb343eef4fb0a9f6c4?utm_campaign=1051&utm_source=git)** | Miami, Florida, US | On Site | Apr 30 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f3d93d343eef4fb0a9e85c?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Apr 30 |
 | **[Baldwin Supply Company](http://baldwinsupply.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69f3b34858b23a2329da753e?utm_campaign=1051&utm_source=git)** | Plymouth, MN | On Site | Apr 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/694a01df7d506e3808f51df3?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | On Site | Apr 30 |
 | **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69197cd445fb6f5ead8a8e2f?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Apr 30 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[COMMERCIAL SALES INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/699fc26781476f6176b97c06?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Brooklyn Navy Yard)](https://jobright.ai/jobs/info/69d6b1a348f0c8161d2fa4c1?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Apr 30 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69d707d6706f771673baf45c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 30 |
-| **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cb7910efdec76df36bd277?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
