@@ -86,9 +86,9 @@ For a complete list, click the following sortable link below:
 | **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/69f3bc4a58b23a2329da7d20?utm_campaign=1051&utm_source=git)** | Provo, Utah, United States | Hybrid | Apr 30 |
 | **[WD](https://www.westerndigital.com)** | **[Senior Director, Business Development](https://jobright.ai/jobs/info/69f3e3701f90bd6ae23d26d6?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[RV Sales Internship](https://jobright.ai/jobs/info/69f3d934343eef4fb0a9e817?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | Apr 30 |
-| **[Gypsum Management and Supply](http://www.gms.com)** | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404371f90bd6ae23d322e?utm_campaign=1051&utm_source=git)** | Alpharetta, Georgia, US | On Site | Apr 30 |
+| **[Gypsum Management and Supply](http://www.gms.com)** | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404b1343eef4fb0a9f6a4?utm_campaign=1051&utm_source=git)** | Westminster, Colorado, US | On Site | Apr 30 |
+| ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404371f90bd6ae23d322e?utm_campaign=1051&utm_source=git)** | Alpharetta, Georgia, US | On Site | Apr 30 |
 | ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f405156942c746fa696679?utm_campaign=1051&utm_source=git)** | Joppa, Maryland, US | On Site | Apr 30 |
-| ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404b1343eef4fb0a9f6a4?utm_campaign=1051&utm_source=git)** | Westminster, Colorado, US | On Site | Apr 30 |
 | ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404bb343eef4fb0a9f6c4?utm_campaign=1051&utm_source=git)** | Miami, Florida, US | On Site | Apr 30 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f3d93d343eef4fb0a9e85c?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Apr 30 |
 | **[Baldwin Supply Company](http://baldwinsupply.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69f3b34858b23a2329da753e?utm_campaign=1051&utm_source=git)** | Plymouth, MN | On Site | Apr 30 |
