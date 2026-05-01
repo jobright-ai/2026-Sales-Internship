@@ -57,15 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Domo](http://www.domo.com)** | **[Intern - Customer Success Manager](https://jobright.ai/jobs/info/69d8342ff4ea471a51fe49e0?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | May 01 |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f4eceea3d34b4f76f527d6?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | May 01 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69f4e98181706a5bd2163ceb?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | May 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69f4e93543a25828a8d15b50?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | May 01 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f4e49e43a25828a8d15a65?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | May 01 |
 | **[Gennoctua](https://www.gennoctua.com/)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/69f4d43112f2811ab5a6139d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
-| **[Catholic Charities of the Archdiocese of New York](http://catholiccharitiesny.org/)** | **[Intern](https://jobright.ai/jobs/info/69f4d416db88714bcdfb02ed?utm_campaign=1051&utm_source=git)** | Hybrid Remote, New York, New York | Hybrid | May 01 |
+| **[Henry Schein Canada](https://www.henryschein.ca/)** | **[Dental Field Sales Summer Intern (Toronto)](https://jobright.ai/jobs/info/69f4f2cf12f2811ab5a61e9f?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | May 01 |
 | **[Prosource](https://www.totalprosource.com/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/69f4cc86a3d34b4f76f51b12?utm_campaign=1051&utm_source=git)** | Blue Ash,OH,US | On Site | May 01 |
 | **[SANY America](http://sanyamerica.com)** | **[Intern – Business Analyst](https://jobright.ai/jobs/info/69f4cc3643a25828a8d14aa5?utm_campaign=1051&utm_source=git)** | Peachtree City, GA 30269, USA | Remote | May 01 |
 | **[Tempur Sealy International](https://www.tempursealy.com)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/69f4c711db88714bcdfafc14?utm_campaign=1051&utm_source=git)** | Lexington, KY, US | On Site | May 01 |
 | **[Waresport](https://www.waresport.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f4c6d143a25828a8d149f3?utm_campaign=1051&utm_source=git)** | United States | Remote | May 01 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69f4c6cf43a25828a8d149ed?utm_campaign=1051&utm_source=git)** | Naples, FL | On Site | May 01 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[OBP Inside Sales Intern](https://jobright.ai/jobs/info/69f4c61c0b36ff035474ec72?utm_campaign=1051&utm_source=git)** | Livingston, NJ | On Site | May 01 |
+| **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f4e742a3d34b4f76f5262e?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | May 01 |
 | **[Kerecis](http://www.kerecis.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69d83afeb861c42857c49812?utm_campaign=1051&utm_source=git)** | Arlington County, VA | On Site | May 01 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69bc4ec75b89c002acf1c64f?utm_campaign=1051&utm_source=git)** | Denton, TX | On Site | May 01 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a058675218a81676716701?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
@@ -89,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f4b0e112f2811ab5a6069f?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | May 01 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f4b0fcdb88714bcdfaf700?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | May 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Strategy&Operation Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS)](https://jobright.ai/jobs/info/69d8cc6e9f97a42dc9c1e57f?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 01 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69f48626db88714bcdfada16?utm_campaign=1051&utm_source=git)** | Peachtree City, GA | On Site | May 01 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Intern - Meeting & Events Intern, Kohler Hospitality](https://jobright.ai/jobs/info/69d83768869c7e25d8594758?utm_campaign=1051&utm_source=git)** | Kohler, WI | On Site | May 01 |
 | **[Avanade](http://www.avanade.com)** | **[US Technical Pre-Sales Lead - Apps & Infra Practice](https://jobright.ai/jobs/info/69d80a3eb67cec4f9b09a16e?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | May 01 |
 | **[HOLLY HUNT](https://www.hollyhunt.com/)** | **[Intern](https://jobright.ai/jobs/info/69d820f3869c7e25d8593b87?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advisor Internship Program (AIP) (Toronto/Waterloo/Ottawa)](https://jobright.ai/jobs/info/69c7509e1818a24cd84cd5f5?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | **[Citi](https://www.citi.com)** | **[Markets - Sales and Trading, Summer Analyst, New York City - US, 2027](https://jobright.ai/jobs/info/694ab05f3019f50a4fe5c798?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 30 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall College Financial Representative- Sales Internship Chicago](https://jobright.ai/jobs/info/69f397a91f90bd6ae23d0f05?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | On Site | Apr 30 |
-| **[Weis Markets](https://www.weismarkets.com)** | **[Store Development Intern](https://jobright.ai/jobs/info/69f3978858b23a2329da61d8?utm_campaign=1051&utm_source=git)** | Sunbury, PA | On Site | Apr 30 |
-| **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Sales Coordination](https://jobright.ai/jobs/info/699fbe09ce78e77b4fe5a288?utm_campaign=1051&utm_source=git)** | Brossard, Quebec, Canada | On Site | Apr 30 |
-| **[ITW](http://www.itw.com/)** | **[Strategic Sourcing Intern - Summer 2026](https://jobright.ai/jobs/info/69f39706343eef4fb0a9c054?utm_campaign=1051&utm_source=git)** | Glenview, Illinois, United States of America | On Site | Apr 30 |
-| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69f393b16942c746fa692e31?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
