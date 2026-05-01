@@ -89,9 +89,9 @@ For a complete list, click the following sortable link below:
 | **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/69f3bc4a58b23a2329da7d20?utm_campaign=1051&utm_source=git)** | Provo, Utah, United States | Hybrid | Apr 30 |
 | **[WD](https://www.westerndigital.com)** | **[Senior Director, Business Development](https://jobright.ai/jobs/info/69f3e3701f90bd6ae23d26d6?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[RV Sales Internship](https://jobright.ai/jobs/info/69f3d934343eef4fb0a9e817?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | Apr 30 |
-| **[Gypsum Management and Supply](http://www.gms.com)** | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f405156942c746fa696679?utm_campaign=1051&utm_source=git)** | Joppa, Maryland, US | On Site | Apr 30 |
+| **[Gypsum Management and Supply](http://www.gms.com)** | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404371f90bd6ae23d322e?utm_campaign=1051&utm_source=git)** | Alpharetta, Georgia, US | On Site | Apr 30 |
 | ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404b1343eef4fb0a9f6a4?utm_campaign=1051&utm_source=git)** | Westminster, Colorado, US | On Site | Apr 30 |
-| ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404371f90bd6ae23d322e?utm_campaign=1051&utm_source=git)** | Alpharetta, Georgia, US | On Site | Apr 30 |
+| ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f405156942c746fa696679?utm_campaign=1051&utm_source=git)** | Joppa, Maryland, US | On Site | Apr 30 |
 | ↳ | **[2026 Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69f404bb343eef4fb0a9f6c4?utm_campaign=1051&utm_source=git)** | Miami, Florida, US | On Site | Apr 30 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f3d93d343eef4fb0a9e85c?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Apr 30 |
 | **[Baldwin Supply Company](http://baldwinsupply.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69f3b34858b23a2329da753e?utm_campaign=1051&utm_source=git)** | Plymouth, MN | On Site | Apr 30 |
@@ -128,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69f393b16942c746fa692e31?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Apr 30 |
 | **[ITW](http://www.itw.com/)** | **[Strategic Sourcing Intern - Summer 2026](https://jobright.ai/jobs/info/69f3ad66343eef4fb0a9c834?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | Apr 30 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Intern - Fire](https://jobright.ai/jobs/info/69f3d8cac78b9e45189580b5?utm_campaign=1051&utm_source=git)** | Cranberry Township-Pennsylvania-United States of America, US | On Site | Apr 30 |
-| **[Fusion100](http://Fusion100co.com)** | **[College Sales Intern](https://jobright.ai/jobs/info/69f3880f58b23a2329da4e21?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Apr 30 |
 | **[Raptor Technologies](https://www.raptortech.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f384f5343eef4fb0a9aadf?utm_campaign=1051&utm_source=git)** | Houston, Texas, United States | Hybrid | Apr 30 |
 | **[Teleflex](http://www.teleflex.com)** | **[Territory Development Representative, Surgical - Baltimore/DC](https://jobright.ai/jobs/info/69f3a161c78b9e45189567a7?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Apr 30 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #490](https://jobright.ai/jobs/info/69f3834b6942c746fa691948?utm_campaign=1051&utm_source=git)** | 7500 Nordic Dr, Cedar Falls, IA, 50613 | On Site | Apr 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Brooklyn Navy Yard)](https://jobright.ai/jobs/info/69d6b1a348f0c8161d2fa4c1?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Apr 30 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69d707d6706f771673baf45c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 30 |
 | **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cb7910efdec76df36bd277?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Apr 30 |
+| **[Influx](https://www.influxonline.co)** | **[Student Sales Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69f356231f90bd6ae23ce7e1?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
