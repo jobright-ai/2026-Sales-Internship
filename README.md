@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a05ea80836fe79d86147d2?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | May 02 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Corporate Development Intern – 2026](https://jobright.ai/jobs/info/69f5f58612f2811ab5a66516?utm_campaign=1051&utm_source=git)** | Richmond, VA | Hybrid | May 02 |
 | **[Trench Group](https://trench-group.com/)** | **[Factory Sales Intern (12 Months)](https://jobright.ai/jobs/info/69d339500b098b7a6708cbbe?utm_campaign=1051&utm_source=git)** | Pickering, Ontario, Canada | On Site | May 02 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a066460836fe79d861573c?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | May 02 |
 | ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a0ce350836fe79d861cd13?utm_campaign=1051&utm_source=git)** | Golden Valley, MN | On Site | May 02 |
@@ -68,10 +70,9 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Project Intern (Lemon8) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9cdae738f2f099e8a4db9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 02 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Retail Auto Relationship Manager](https://jobright.ai/jobs/info/69f5d94a81706a5bd216742e?utm_campaign=1051&utm_source=git)** | Daytona Beach, FL | Hybrid | May 02 |
 | ↳ | **[Retail Auto Relationship Manager](https://jobright.ai/jobs/info/69f5d8b9a3d34b4f76f5686b?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | May 02 |
+| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69bc784f5b89c002acf238f2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 02 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/69f5d6aa12f2811ab5a65978?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 02 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Rancho Cucamonga - Home Loan Advisor - External](https://jobright.ai/jobs/info/69a022340836fe79d860e411?utm_campaign=1051&utm_source=git)** | Rancho Cucamonga, CA | On Site | May 02 |
-| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69bc784f5b89c002acf238f2?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | May 02 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69f5df5043a25828a8d19acf?utm_campaign=1051&utm_source=git)** | Glastonbury, CT | On Site | May 02 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[MBA Intern, US TV Distribution - Summer 2026](https://jobright.ai/jobs/info/69f5c5a212f2811ab5a65843?utm_campaign=1051&utm_source=git)** | Culver City, CA | On Site | May 02 |
 | **[Breakthrough T1D](https://www.breakthrought1d.org/)** | **[Part Time Research Business Development Summer 2026 Internship](https://jobright.ai/jobs/info/69f5f23ba3d34b4f76f5720a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 02 |
 | **[Arboreal Management](https://www.arboreal-info.com)** | **[Commercial Real Estate Summer Intern](https://jobright.ai/jobs/info/69f5b40043a25828a8d197df?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | May 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f510b60b36ff03547505e6?utm_campaign=1051&utm_source=git)** | Kansas, United States | Remote | May 01 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f5107881706a5bd2164809?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | May 01 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f5107881706a5bd216480a?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | May 01 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f5107312f2811ab5a62b9e?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
