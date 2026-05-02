@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f5a10c12f2811ab5a6542e?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | May 02 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Sales Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/69e636159b6eb37e26f7eb25?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 02 |
 | **[Humboldt Merchant Services](http://www.hbms.com/)** | **[Humboldt Merchant Services Intern](https://jobright.ai/jobs/info/69f5896ca3d34b4f76f55875?utm_campaign=1051&utm_source=git)** | United States | Remote | May 01 |
+| **[BioSpace](http://www.biospace.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f5a0ff12f2811ab5a6541f?utm_campaign=1051&utm_source=git)** | Malvern, PA | On Site | May 01 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Internal Production - Home Loan Advisor - In-Market (Fresno)](https://jobright.ai/jobs/info/69f592980b36ff03547527c9?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | May 01 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69f5713ca3d34b4f76f5521e?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | May 01 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Sales Administrative Assistant Intern – Summer 2026 (Cleveland, OH)](https://jobright.ai/jobs/info/69f591d9db88714bcdfb4106?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | May 01 |
@@ -75,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69f53c5d43a25828a8d17ff2?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | May 01 |
 | **[BREITLING](http://www.breitling.com)** | **[CRM & Analytics Intern](https://jobright.ai/jobs/info/69f53a5481706a5bd21659a9?utm_campaign=1051&utm_source=git)** | Wilton, CT | On Site | May 01 |
 | **[Revelstoke Capital Partners](https://www.revelstokecapital.com/)** | **[Strategic Partnerships and Procurement Summer Associate](https://jobright.ai/jobs/info/69f53a4f0b36ff0354751443?utm_campaign=1051&utm_source=git)** | United States | Remote | May 01 |
-| **[H15DEN](https://h15den.com)** | **[Strategic Business Development Intern](https://jobright.ai/jobs/info/69f5714aa3d34b4f76f5522b?utm_campaign=1051&utm_source=git)** | Long Beach, CA | Remote | May 01 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Dental Field Sales Summer Intern (Toronto)](https://jobright.ai/jobs/info/69f57d3012f2811ab5a64e9f?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | May 01 |
 | **[Sentinel Technologies](https://sentinel.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69f535bb81706a5bd216582b?utm_campaign=1051&utm_source=git)** | Downers Grove, IL | On Site | May 01 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Client Services - Oakland](https://jobright.ai/jobs/info/69f5321681706a5bd21655d2?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | May 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a058675218a81676716701?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a1006b81476f6176bb5990?utm_campaign=1051&utm_source=git)** | Spring Hill, TN | On Site | May 01 |
 | ↳ | **[Intern, Property Management](https://jobright.ai/jobs/info/69f4a8e4db88714bcdfaef55?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | May 01 |
-| **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SALES ASSOCIATE](https://jobright.ai/jobs/info/69f2c4a9ecbc8c2f7320d7bb?utm_campaign=1051&utm_source=git)** | Patuxent River, MD | On Site | May 01 |
-| ↳ | **[(NEX NORFOLK) SALES ASSOCIATE (4 am - 10 am shift)](https://jobright.ai/jobs/info/69f4d4200b36ff035474f27d?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
