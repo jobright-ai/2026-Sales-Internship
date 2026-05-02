@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[MBA Intern, US TV Distribution - Summer 2026](https://jobright.ai/jobs/info/69f5c5a212f2811ab5a65843?utm_campaign=1051&utm_source=git)** | Culver City, CA | On Site | May 02 |
 | **[Arboreal Management](https://www.arboreal-info.com)** | **[Commercial Real Estate Summer Intern](https://jobright.ai/jobs/info/69f5b40043a25828a8d197df?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | May 02 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f5a10c12f2811ab5a6542e?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | May 02 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Sales Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/69e636159b6eb37e26f7eb25?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 02 |
 | **[Humboldt Merchant Services](http://www.hbms.com/)** | **[Humboldt Merchant Services Intern](https://jobright.ai/jobs/info/69f5896ca3d34b4f76f55875?utm_campaign=1051&utm_source=git)** | United States | Remote | May 01 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f5c4ad43a25828a8d19954?utm_campaign=1051&utm_source=git)** | Iowa City, Iowa | On Site | May 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f5a0ff12f2811ab5a6541f?utm_campaign=1051&utm_source=git)** | Malvern, PA | On Site | May 01 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Internal Production - Home Loan Advisor - In-Market (Fresno)](https://jobright.ai/jobs/info/69f592980b36ff03547527c9?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | May 01 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69f5713ca3d34b4f76f5521e?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | May 01 |
@@ -123,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Intern - Business Development](https://jobright.ai/jobs/info/69f50142a3d34b4f76f5314c?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | May 01 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Sales Development Intern (Hybrid)](https://jobright.ai/jobs/info/69f51d9143a25828a8d17009?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | May 01 |
 | **[Latent AI](http://latentai.com/)** | **[Strategic Partnerships and Growth Operations Intern (Pro Bono)](https://jobright.ai/jobs/info/69f5009743a25828a8d163ac?utm_campaign=1051&utm_source=git)** | Remote (United States) | Remote | May 01 |
-| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f529dfdb88714bcdfb274c?utm_campaign=1051&utm_source=git)** | Louisiana, United States | Remote | May 01 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f52a0e12f2811ab5a63674?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | May 01 |
+| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f52a0e12f2811ab5a63674?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | May 01 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f529dfdb88714bcdfb274c?utm_campaign=1051&utm_source=git)** | Louisiana, United States | Remote | May 01 |
 | **[ATI](https://www.atimaterials.com)** | **[Commercial Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69f51c420b36ff0354750934?utm_campaign=1051&utm_source=git)** | Albany, OR | On Site | May 01 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Partnership Services Intern](https://jobright.ai/jobs/info/69f4fad781706a5bd2164185?utm_campaign=1051&utm_source=git)** | Waco, Texas, United States | On Site | May 01 |
 | **[Fifth Third Bank](http://53.com)** | **[Summer 2027 Intern - Sales and Trading](https://jobright.ai/jobs/info/69f51bf40b36ff0354750863?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | May 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69bc4ec75b89c002acf1c64f?utm_campaign=1051&utm_source=git)** | Denton, TX | On Site | May 01 |
 | **[Purvis Industries](https://www.purvisindustries.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f532710b36ff0354751156?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 01 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a058675218a81676716701?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69a1006b81476f6176bb5990?utm_campaign=1051&utm_source=git)** | Spring Hill, TN | On Site | May 01 |
-| ↳ | **[Intern, Property Management](https://jobright.ai/jobs/info/69f4a8e4db88714bcdfaef55?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
