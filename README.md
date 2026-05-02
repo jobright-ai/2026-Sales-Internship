@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f5e05fa3d34b4f76f568d5?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 02 |
+| **[ByteDance](http://bytedance.com)** | **[Content Partnership Project Intern (Lemon8) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9cdae738f2f099e8a4db9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 02 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Retail Auto Relationship Manager](https://jobright.ai/jobs/info/69f5d94a81706a5bd216742e?utm_campaign=1051&utm_source=git)** | Daytona Beach, FL | Hybrid | May 02 |
+| ↳ | **[Retail Auto Relationship Manager](https://jobright.ai/jobs/info/69f5d8b9a3d34b4f76f5686b?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | May 02 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/69f5d6aa12f2811ab5a65978?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 02 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Rancho Cucamonga - Home Loan Advisor - External](https://jobright.ai/jobs/info/69a022340836fe79d860e411?utm_campaign=1051&utm_source=git)** | Rancho Cucamonga, CA | On Site | May 02 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[MBA Intern, US TV Distribution - Summer 2026](https://jobright.ai/jobs/info/69f5c5a212f2811ab5a65843?utm_campaign=1051&utm_source=git)** | Culver City, CA | On Site | May 02 |
 | **[Arboreal Management](https://www.arboreal-info.com)** | **[Commercial Real Estate Summer Intern](https://jobright.ai/jobs/info/69f5b40043a25828a8d197df?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | May 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gennoctua](https://www.gennoctua.com/)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/69f4d43112f2811ab5a6139d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 | **[Henry Schein Canada](https://www.henryschein.ca/)** | **[Dental Field Sales Summer Intern (Toronto)](https://jobright.ai/jobs/info/69f4f2cf12f2811ab5a61e9f?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | May 01 |
 | **[Prosource](https://www.totalprosource.com/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/69f4cc86a3d34b4f76f51b12?utm_campaign=1051&utm_source=git)** | Blue Ash,OH,US | On Site | May 01 |
-| **[Tempur Sealy International](https://www.tempursealy.com)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/69f4c711db88714bcdfafc14?utm_campaign=1051&utm_source=git)** | Lexington, KY, US | On Site | May 01 |
-| **[Waresport](https://www.waresport.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f4c6d143a25828a8d149f3?utm_campaign=1051&utm_source=git)** | United States | Remote | May 01 |
-| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69f4c6cf43a25828a8d149ed?utm_campaign=1051&utm_source=git)** | Naples, FL | On Site | May 01 |
-| **[CooperSurgical](http://www.coopersurgical.com)** | **[OBP Inside Sales Intern](https://jobright.ai/jobs/info/69f4c61c0b36ff035474ec72?utm_campaign=1051&utm_source=git)** | Livingston, NJ | On Site | May 01 |
-| **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f4e742a3d34b4f76f5262e?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
