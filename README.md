@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69f5713ca3d34b4f76f5521e?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | May 01 |
-| **[Prosource](https://www.totalprosource.com/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/69f56f5e0b36ff0354751e4d?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | May 01 |
 | **[The Health Management Academy](http://www.hmacademy.com/)** | **[Intern, Member Insights](https://jobright.ai/jobs/info/69c579621b5ad02887374275?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | May 01 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Intern - Builder Business Management](https://jobright.ai/jobs/info/69f5607d12f2811ab5a64681?utm_campaign=1051&utm_source=git)** | Englewood Cliffs, NJ | On Site | May 01 |
 | **[Camelback Resort](https://www.skicamelback.com/)** | **[Day Group Sales Intern](https://jobright.ai/jobs/info/69f5602ca3d34b4f76f54e6c?utm_campaign=1051&utm_source=git)** | Tannersville, PA | On Site | May 01 |
@@ -74,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[BREITLING](http://www.breitling.com)** | **[CRM & Analytics Intern](https://jobright.ai/jobs/info/69f53a5481706a5bd21659a9?utm_campaign=1051&utm_source=git)** | Wilton, CT | On Site | May 01 |
 | **[Revelstoke Capital Partners](https://www.revelstokecapital.com/)** | **[Strategic Partnerships and Procurement Summer Associate](https://jobright.ai/jobs/info/69f53a4f0b36ff0354751443?utm_campaign=1051&utm_source=git)** | United States | Remote | May 01 |
 | **[H15DEN](https://h15den.com)** | **[Strategic Business Development Intern](https://jobright.ai/jobs/info/69f5714aa3d34b4f76f5522b?utm_campaign=1051&utm_source=git)** | Long Beach, CA | Remote | May 01 |
+| **[Henry Schein](http://www.henryschein.com)** | **[Dental Field Sales Summer Intern (Toronto)](https://jobright.ai/jobs/info/69f57d3012f2811ab5a64e9f?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | May 01 |
 | **[Sentinel Technologies](https://sentinel.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69f535bb81706a5bd216582b?utm_campaign=1051&utm_source=git)** | Downers Grove, IL | On Site | May 01 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Client Services - Oakland](https://jobright.ai/jobs/info/69f5321681706a5bd21655d2?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | May 01 |
 | **[UNIQLO](https://www.uniqlo.com/jp/ja/)** | **[E-commerce - Site Operations Intern](https://jobright.ai/jobs/info/69f5301a0b36ff035475104b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | On Site | May 01 |
@@ -87,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Target River](https://www.targetriver.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f529c3a3d34b4f76f53f6e?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Hybrid | May 01 |
 | **[HotTakes](hottakes.com)** | **[Sales Development Representative (intern)](https://jobright.ai/jobs/info/69f529880b36ff0354750cd6?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Hybrid | May 01 |
 | **[PathAI](http://www.pathai.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f5291d81706a5bd2165089?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | May 01 |
+| **[RBC](https://www.rbc.com)** | **[client advisor intern-2](https://jobright.ai/jobs/info/69f57d490b36ff0354752593?utm_campaign=1051&utm_source=git)** | VANCOUVER, British Columbia, Canada | On Site | May 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales Intern](https://jobright.ai/jobs/info/69f51d69db88714bcdfb2024?utm_campaign=1051&utm_source=git)** | Wichita Falls, TX | On Site | May 01 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Sales Development Representative Intern (Hybrid)](https://jobright.ai/jobs/info/69f51bf0a3d34b4f76f539b9?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | May 01 |
 | **[Modulus Cleanrooms](https://www.moduluscleanrooms.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f51be6a3d34b4f76f5399d?utm_campaign=1051&utm_source=git)** | San Carlos, CA | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[USA Sport Group](https://usasportgroup.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f4c79cdb88714bcdfafd11?utm_campaign=1051&utm_source=git)** | Whitehouse Station, NJ | On Site | May 01 |
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Sales - CAN- ON- Etobicoke - R26-00601](https://jobright.ai/jobs/info/6983dd6801214b4cdacbff24?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 01 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/69d84e97869c7e25d8594cc8?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 01 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/69d8e81d9f97a42dc9c1e9d1?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
