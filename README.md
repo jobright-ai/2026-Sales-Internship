@@ -57,13 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trench Group](https://trench-group.com/)** | **[Factory Sales Intern (12 Months)](https://jobright.ai/jobs/info/69d339500b098b7a6708cbbe?utm_campaign=1051&utm_source=git)** | Pickering, Ontario, Canada | On Site | May 02 |
+| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a066460836fe79d861573c?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | May 02 |
+| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a0ce350836fe79d861cd13?utm_campaign=1051&utm_source=git)** | Golden Valley, MN | On Site | May 02 |
+| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a064fd81476f6176baa01f?utm_campaign=1051&utm_source=git)** | West Conshohocken, PA | On Site | May 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator&Partner Strategy Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9c02db67cec4f9b0a46f3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 02 |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Growth Partnerships & Alliances Intern](https://jobright.ai/jobs/info/69d95f049f97a42dc9c212c6?utm_campaign=1051&utm_source=git)** | McLean, VA | Hybrid | May 02 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69f5ea2fdb88714bcdfb55d0?utm_campaign=1051&utm_source=git)** | Douglasville, GA | On Site | May 02 |
 | **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f5e05fa3d34b4f76f568d5?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 02 |
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Project Intern (Lemon8) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9cdae738f2f099e8a4db9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 02 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Retail Auto Relationship Manager](https://jobright.ai/jobs/info/69f5d94a81706a5bd216742e?utm_campaign=1051&utm_source=git)** | Daytona Beach, FL | Hybrid | May 02 |
 | ↳ | **[Retail Auto Relationship Manager](https://jobright.ai/jobs/info/69f5d8b9a3d34b4f76f5686b?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | May 02 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/69f5d6aa12f2811ab5a65978?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 02 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Rancho Cucamonga - Home Loan Advisor - External](https://jobright.ai/jobs/info/69a022340836fe79d860e411?utm_campaign=1051&utm_source=git)** | Rancho Cucamonga, CA | On Site | May 02 |
+| **[CARFAX](https://www.carfax.com/)** | **[Regional Account Manager](https://jobright.ai/jobs/info/69bc784f5b89c002acf238f2?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | May 02 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69f5df5043a25828a8d19acf?utm_campaign=1051&utm_source=git)** | Glastonbury, CT | On Site | May 02 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[MBA Intern, US TV Distribution - Summer 2026](https://jobright.ai/jobs/info/69f5c5a212f2811ab5a65843?utm_campaign=1051&utm_source=git)** | Culver City, CA | On Site | May 02 |
+| **[Breakthrough T1D](https://www.breakthrought1d.org/)** | **[Part Time Research Business Development Summer 2026 Internship](https://jobright.ai/jobs/info/69f5f23ba3d34b4f76f5720a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 02 |
 | **[Arboreal Management](https://www.arboreal-info.com)** | **[Commercial Real Estate Summer Intern](https://jobright.ai/jobs/info/69f5b40043a25828a8d197df?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | May 02 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69f5cacfa3d34b4f76f56718?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 02 |
 | ↳ | **[client advisor intern-2](https://jobright.ai/jobs/info/69f5cad8a3d34b4f76f56723?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 02 |
@@ -125,7 +135,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Partnerships Internship (Alabama State Athletics) - Summer 2026](https://jobright.ai/jobs/info/69f5068112f2811ab5a629c4?utm_campaign=1051&utm_source=git)** | Montgomery, AL | On Site | May 01 |
 | ↳ | **[Corporate Partnerships & Ticket Sales Internship (Wofford College Athletics) - Summer 2026](https://jobright.ai/jobs/info/69f5067f12f2811ab5a629b8?utm_campaign=1051&utm_source=git)** | Spartanburg, SC | On Site | May 01 |
 | ↳ | **[Corporate Partnerships Internship (The Citadel Athletics) - Summer 2026](https://jobright.ai/jobs/info/69f506630b36ff0354750371?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | May 01 |
-| **[ATI](https://www.atimaterials.com)** | **[Commercial Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69f50653a3d34b4f76f53371?utm_campaign=1051&utm_source=git)** | Albany, OR, 97321, United States | On Site | May 01 |
+| **[ATI](https://www.forging.com)** | **[Commercial Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69f50653a3d34b4f76f53371?utm_campaign=1051&utm_source=git)** | Albany, OR, 97321, United States | On Site | May 01 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (University of Central Arkansas Athletics) - Summer 2026](https://jobright.ai/jobs/info/69f5064bdb88714bcdfb1892?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | May 01 |
 | ↳ | **[Corporate Partnerships & Ticket Sales Internship (University of West Georgia) - Summer 2026](https://jobright.ai/jobs/info/69f5063ddb88714bcdfb1879?utm_campaign=1051&utm_source=git)** | Carrollton, GA | On Site | May 01 |
 | ↳ | **[Corporate Partnerships & Ticket Sales Internship (Southeastern Louisiana Athletics) - Summer 2026](https://jobright.ai/jobs/info/69f50636db88714bcdfb185b?utm_campaign=1051&utm_source=git)** | Hammond, LA | On Site | May 01 |
@@ -134,9 +144,9 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Intern - Business Development](https://jobright.ai/jobs/info/69f50142a3d34b4f76f5314c?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | May 01 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Sales Development Intern (Hybrid)](https://jobright.ai/jobs/info/69f51d9143a25828a8d17009?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | May 01 |
 | **[Latent AI](http://latentai.com/)** | **[Strategic Partnerships and Growth Operations Intern (Pro Bono)](https://jobright.ai/jobs/info/69f5009743a25828a8d163ac?utm_campaign=1051&utm_source=git)** | Remote (United States) | Remote | May 01 |
-| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f52a0e12f2811ab5a63674?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | May 01 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f529dfdb88714bcdfb274c?utm_campaign=1051&utm_source=git)** | Louisiana, United States | Remote | May 01 |
-| **[ATI](https://www.atimaterials.com)** | **[Commercial Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69f51c420b36ff0354750934?utm_campaign=1051&utm_source=git)** | Albany, OR | On Site | May 01 |
+| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f529dfdb88714bcdfb274c?utm_campaign=1051&utm_source=git)** | Louisiana, United States | Remote | May 01 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f52a0e12f2811ab5a63674?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | May 01 |
+| **[ATI](https://www.forging.com)** | **[Commercial Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69f51c420b36ff0354750934?utm_campaign=1051&utm_source=git)** | Albany, OR | On Site | May 01 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Partnership Services Intern](https://jobright.ai/jobs/info/69f4fad781706a5bd2164185?utm_campaign=1051&utm_source=git)** | Waco, Texas, United States | On Site | May 01 |
 | **[Fifth Third Bank](http://53.com)** | **[Summer 2027 Intern - Sales and Trading](https://jobright.ai/jobs/info/69f51bf40b36ff0354750863?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | May 01 |
 | **[Grayscale Investments](https://grayscale.com)** | **[Distribution Intern](https://jobright.ai/jobs/info/69f51c5fa3d34b4f76f53b7e?utm_campaign=1051&utm_source=git)** | Stamford, CT | Hybrid | May 01 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f5107881706a5bd2164809?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | May 01 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f5107881706a5bd216480a?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | May 01 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f5107312f2811ab5a62b9e?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | May 01 |
-| **[Domo](http://www.domo.com)** | **[Intern - Customer Success Manager](https://jobright.ai/jobs/info/69d8342ff4ea471a51fe49e0?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | May 01 |
-| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Freshman Forum - Summer 2026](https://jobright.ai/jobs/info/69f5111a43a25828a8d16ad5?utm_campaign=1051&utm_source=git)** | Columbus, OH | Remote | May 01 |
-| **[American Fidelity](http://www.americanfidelity.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f4eceea3d34b4f76f527d6?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | May 01 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69f4e98181706a5bd2163ceb?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | May 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69f4e93543a25828a8d15b50?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | May 01 |
-| **[American Fidelity](http://www.americanfidelity.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f4e49e43a25828a8d15a65?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | May 01 |
-| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Strategic Business Development](https://jobright.ai/jobs/info/69bb205c5697383741411ef3?utm_campaign=1051&utm_source=git)** | Albany, NY | Hybrid | May 01 |
-| **[Gennoctua](https://www.gennoctua.com/)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/69f4d43112f2811ab5a6139d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
-| **[Henry Schein Canada](https://www.henryschein.ca/)** | **[Dental Field Sales Summer Intern (Toronto)](https://jobright.ai/jobs/info/69f4f2cf12f2811ab5a61e9f?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | May 01 |
-| **[Prosource](https://www.totalprosource.com/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/69f4cc86a3d34b4f76f51b12?utm_campaign=1051&utm_source=git)** | Blue Ash,OH,US | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
