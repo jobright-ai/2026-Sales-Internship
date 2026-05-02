@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Molex](http://www.molex.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69f5443d81706a5bd2165be0?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | May 01 |
+| **[Fusion100](http://Fusion100co.com)** | **[Greek Life Sales Intern](https://jobright.ai/jobs/info/69f54436db88714bcdfb3112?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | May 01 |
+| **[Breakthrough T1D](https://www.breakthrought1d.org/)** | **[Part Time Research Business Development Summer 2026 Internship](https://jobright.ai/jobs/info/69f53e4543a25828a8d180b2?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 01 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/69f53c5d43a25828a8d17ff2?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | May 01 |
 | **[BREITLING](http://www.breitling.com)** | **[CRM & Analytics Intern](https://jobright.ai/jobs/info/69f53a5481706a5bd21659a9?utm_campaign=1051&utm_source=git)** | Wilton, CT | On Site | May 01 |
 | **[Revelstoke Capital Partners](https://www.revelstokecapital.com/)** | **[Strategic Partnerships and Procurement Summer Associate](https://jobright.ai/jobs/info/69f53a4f0b36ff0354751443?utm_campaign=1051&utm_source=git)** | United States | Remote | May 01 |
 | **[Sentinel Technologies](https://sentinel.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69f535bb81706a5bd216582b?utm_campaign=1051&utm_source=git)** | Downers Grove, IL | On Site | May 01 |
@@ -116,7 +120,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f5107312f2811ab5a62b9e?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | May 01 |
 | **[Domo](http://www.domo.com)** | **[Intern - Customer Success Manager](https://jobright.ai/jobs/info/69d8342ff4ea471a51fe49e0?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | May 01 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Freshman Forum - Summer 2026](https://jobright.ai/jobs/info/69f5111a43a25828a8d16ad5?utm_campaign=1051&utm_source=git)** | Columbus, OH | Remote | May 01 |
-| **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[(NEX DAMNECK) SALES ASSOCIATE (HUNT BROTHERS PIZZA)](https://jobright.ai/jobs/info/69f3ad8b343eef4fb0a9c8c7?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | May 01 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f4eceea3d34b4f76f527d6?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | May 01 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69f4e98181706a5bd2163ceb?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | May 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69f4e93543a25828a8d15b50?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | May 01 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Business Development Representative (BDR) Intern (Summer 2026)](https://jobright.ai/jobs/info/699e631a81476f6176b76a07?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 01 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[COMMERCIAL SALES INTERN](https://jobright.ai/jobs/info/699fc7ac53d97f23ee65482a?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 01 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Store Executive Intern (Store Leadership Intern) - Ventura, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f4b15243a25828a8d14368?utm_campaign=1051&utm_source=git)** | Ventura, CA | On Site | May 01 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f4b106db88714bcdfaf70e?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | May 01 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f4b0e112f2811ab5a6069f?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | May 01 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) –Sacramento/Stockton, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69f4b0e412f2811ab5a606b0?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | May 01 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern)– Northern Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f4b0e112f2811ab5a6069f?utm_campaign=1051&utm_source=git)** | Rohnert Park, CA | On Site | May 01 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Fresno, California (Starting Summer 2025)](https://jobright.ai/jobs/info/69f4b14981706a5bd21626c3?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | May 01 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f4b106db88714bcdfaf70e?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | May 01 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Bay Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f4b0fcdb88714bcdfaf700?utm_campaign=1051&utm_source=git)** | Albany, CA | On Site | May 01 |
-| **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Strategy&Operation Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS)](https://jobright.ai/jobs/info/69d8cc6e9f97a42dc9c1e57f?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 01 |
-| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Intern - Meeting & Events Intern, Kohler Hospitality](https://jobright.ai/jobs/info/69d83768869c7e25d8594758?utm_campaign=1051&utm_source=git)** | Kohler, WI | On Site | May 01 |
-| **[Avanade](http://www.avanade.com)** | **[US Technical Pre-Sales Lead - Apps & Infra Practice](https://jobright.ai/jobs/info/69d80a3eb67cec4f9b09a16e?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
