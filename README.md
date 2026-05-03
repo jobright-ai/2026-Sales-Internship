@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[H15DEN](https://h15den.com)** | **[Business Development and Research / Micro-Internship](https://jobright.ai/jobs/info/69f798deb1fc847fc1ae6540?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 03 |
+| **[Waresport](https://www.waresport.com/)** | **[Outbound Sales Intern](https://jobright.ai/jobs/info/69f7cc25a3d34b4f76f5bd48?utm_campaign=1051&utm_source=git)** | United States | Remote | May 03 |
+| **[H15DEN](https://h15den.com)** | **[Strategic Business Development - Micro Internship](https://jobright.ai/jobs/info/69f7cb04a3d34b4f76f5bce1?utm_campaign=1051&utm_source=git)** | Long Beach, CA | Remote | May 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/6933ab3b764507023d1b7d87?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | May 03 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a24f4eb600907a962898ca?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 03 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | May 03 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a06ed35218a816767190e0?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 03 |
 | **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f6ee3376a51a4307bdf738?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | May 03 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[NEW RESIDENTIAL SALES INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a209390da45516f16b5225?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 03 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69f738d3b1fc847fc1ae557a?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | May 03 |
 | **[Reading Royals](https://royalshockey.com)** | **[Ticket Sales + Sponsorship Intern (Full Season: September – April)](https://jobright.ai/jobs/info/69f6c144a3d34b4f76f59af5?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | May 02 |
 | ↳ | **[Ticket Sales + Sponsorship Intern Summer 2026](https://jobright.ai/jobs/info/69f6c0c70b36ff0354756367?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | May 02 |
 | **[Access Systems, Inc.](https://www.accesssystems.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69f0c4878d8d624381a97994?utm_campaign=1051&utm_source=git)** | Waukee, IA | On Site | May 02 |
@@ -115,14 +115,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bf582f810f9c8c8515?utm_campaign=1051&utm_source=git)** | Beatrice, NE | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bf582f810f9c8c8516?utm_campaign=1051&utm_source=git)** | Princeton, MN | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bd582f810f9c8c8514?utm_campaign=1051&utm_source=git)** | Iowa Falls, IA | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bc582f810f9c8c8511?utm_campaign=1051&utm_source=git)** | Du Quoin, IL | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bc582f810f9c8c8512?utm_campaign=1051&utm_source=git)** | Socorro, NM | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bc582f810f9c8c8510?utm_campaign=1051&utm_source=git)** | Ticonderoga, NY | On Site | May 02 |
+| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bc582f810f9c8c8512?utm_campaign=1051&utm_source=git)** | Socorro, NM | On Site | May 02 |
+| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bc582f810f9c8c8511?utm_campaign=1051&utm_source=git)** | Du Quoin, IL | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bb582f810f9c8c850f?utm_campaign=1051&utm_source=git)** | Dry Ridge, KY | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614ba582f810f9c8c850e?utm_campaign=1051&utm_source=git)** | Evanston, WY | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614b8582f810f9c8c8509?utm_campaign=1051&utm_source=git)** | Williamston, NC | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614b7582f810f9c8c8507?utm_campaign=1051&utm_source=git)** | Brewer, ME | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614b7582f810f9c8c8508?utm_campaign=1051&utm_source=git)** | St Marys, GA | On Site | May 02 |
+| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614b7582f810f9c8c8507?utm_campaign=1051&utm_source=git)** | Brewer, ME | On Site | May 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Parkland](https://jobright.ai/jobs/info/6933f7aa764507023d1baf37?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | May 02 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f61339b1fc847fc1ae27c1?utm_campaign=1051&utm_source=git)** | Spencer, IA | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f61333b1fc847fc1ae27c0?utm_campaign=1051&utm_source=git)** | Holton, KS | On Site | May 02 |
@@ -133,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f61329a3d34b4f76f578a2?utm_campaign=1051&utm_source=git)** | Colby, KS | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f6131f0b36ff03547544b6?utm_campaign=1051&utm_source=git)** | Arkansas City, KS | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f6131aa3d34b4f76f578a1?utm_campaign=1051&utm_source=git)** | Meridian, ID | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f613170b36ff03547544b3?utm_campaign=1051&utm_source=git)** | Grantsboro, NC | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f613170b36ff03547544b2?utm_campaign=1051&utm_source=git)** | Hudson, WI | On Site | May 02 |
+| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f613170b36ff03547544b3?utm_campaign=1051&utm_source=git)** | Grantsboro, NC | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f613160b36ff03547544b1?utm_campaign=1051&utm_source=git)** | Espanola, NM | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f613150b36ff03547544b0?utm_campaign=1051&utm_source=git)** | Ephraim, UT | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f613140b36ff03547544ae?utm_campaign=1051&utm_source=git)** | Fredericksburg, VA | On Site | May 02 |
@@ -149,8 +149,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f6130d81706a5bd2168279?utm_campaign=1051&utm_source=git)** | Le Mars, IA | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f6130d81706a5bd2168278?utm_campaign=1051&utm_source=git)** | West Lebanon, NH | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f6130c81706a5bd2168277?utm_campaign=1051&utm_source=git)** | Sauk Centre, MN | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f6130b81706a5bd2168276?utm_campaign=1051&utm_source=git)** | Appomattox, VA | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f6130ba3d34b4f76f5789e?utm_campaign=1051&utm_source=git)** | Hastings, MN | On Site | May 02 |
+| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f6130b81706a5bd2168276?utm_campaign=1051&utm_source=git)** | Appomattox, VA | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f61309a3d34b4f76f5789c?utm_campaign=1051&utm_source=git)** | Huron, SD | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f61308db88714bcdfb591e?utm_campaign=1051&utm_source=git)** | King George, VA | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f61308db88714bcdfb591d?utm_campaign=1051&utm_source=git)** | Childress, TX | On Site | May 02 |
