@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wiggin Properties, LLC](https://www.wigginprop.com)** | **[Broker Trainee OKC/Tulsa, OK](https://jobright.ai/jobs/info/69f9211d0b36ff035475d62c?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | May 04 |
+| **[Spruce InfoTech Inc.](http://spruceinfotech.com/)** | **[Business Development Executive](https://jobright.ai/jobs/info/69f91c140b36ff035475d4f8?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 04 |
+| **[Inflection Point Entertainment](https://inflectionent.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f91bc10b36ff035475d4b2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | May 04 |
+| **[Initio Capital](https://initiostudios.io)** | **[MBA Venture Capital Intern](https://jobright.ai/jobs/info/69f914cda3d34b4f76f5fff5?utm_campaign=1051&utm_source=git)** | United States | Remote | May 04 |
+| **[JAKKS Pacific](http://jakks.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f9149e0b36ff035475d033?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | On Site | May 04 |
+| **[H15DEN](https://h15den.com)** | **[Strategy Business Development Micro-Internship.](https://jobright.ai/jobs/info/69f91483b1fc847fc1aea9d1?utm_campaign=1051&utm_source=git)** | Long Beach, CA | Remote | May 04 |
+| **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/69f914800b36ff035475cfd3?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, USA | On Site | May 04 |
 | **[ADP Brazil Labs](https://tech.adp.com/careers/locations/brazil/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69f90c83582f810f9c8cfdab?utm_campaign=1051&utm_source=git)** | Allentown, PA, 18101, United States | Remote | May 04 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Poultry & Fresh Meats Innovation Year-Round Intern](https://jobright.ai/jobs/info/69f9003681706a5bd216fd1f?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | May 04 |
 | **[Grandstand Drinkware + Apparel](http://egrandstand.com/)** | **[SALES INTERN](https://jobright.ai/jobs/info/69f8f9b7db88714bcdfbcea6?utm_campaign=1051&utm_source=git)** | Lawrence, KS, US | On Site | May 04 |
@@ -82,13 +89,13 @@ For a complete list, click the following sortable link below:
 | **[Globe Life American Income Division: Surace Smith & Partners Organization](https://ssbendurehartwig.com)** | **[Virtual Sales Position - Internship or Full-time](https://jobright.ai/jobs/info/69f8cdba81706a5bd216e44c?utm_campaign=1051&utm_source=git)** | United States | Remote | May 04 |
 | **[accessiBe](https://accessibe.com/)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/69f8cd0fb1fc847fc1ae89ee?utm_campaign=1051&utm_source=git)** | New York | Hybrid | May 04 |
 | **[Unify](https://unifyams.ai/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f8eb80b1fc847fc1ae95a2?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Fairbanks](https://jobright.ai/jobs/info/68ddd9da09bda65a4b62479f?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | On Site | May 04 |
 | **[Neuberger](http://www.nb.com)** | **[Institutional Client Group Summer Internship (2027)](https://jobright.ai/jobs/info/69f8c2620b36ff035475aaf5?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 04 |
 | **[MaintainX](https://www.getmaintainx.com)** | **[Lead Development Representative (Internship)](https://jobright.ai/jobs/info/69a2acb8359fe034b1ce047c?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | May 04 |
 | **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Intern - Junior](https://jobright.ai/jobs/info/69f8b2bb0b36ff035475a69e?utm_campaign=1051&utm_source=git)** | Greensboro, North Carolina, United States | On Site | May 04 |
 | **[Purvis Industries](https://www.purvisindustries.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f532710b36ff0354751156?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Pilot Success Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f8abf7a3d34b4f76f5d67b?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Global Business Development Intern - Falls Church VA](https://jobright.ai/jobs/info/69f8ab52b1fc847fc1ae82d3?utm_campaign=1051&utm_source=git)** | United States-Virginia-Falls Church, US | On Site | May 04 |
-| **[Stravyn Hill](https://www.linkedin.com/company/108148379)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f8aadf81706a5bd216dc9e?utm_campaign=1051&utm_source=git)** | United States | Remote | May 04 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Agency Partnership Remote - Intern](https://jobright.ai/jobs/info/69f8aa13db88714bcdfbb11c?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | May 04 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69c918791b5ad02887397f1a?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | May 04 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/696c6544350cf43803139470?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | May 04 |
@@ -99,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Playfly Sports](https://www.playfly.com/)** | **[Sales Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/69e636159b6eb37e26f7eb25?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 04 |
 | **[Raptor Technologies](https://www.raptortech.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f384f5343eef4fb0a9aadf?utm_campaign=1051&utm_source=git)** | Houston, Texas, United States | Hybrid | May 04 |
 | **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/69f118e362b48c6838793cb5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 03 |
+| **[Brandlete](https://www.brandletehq.com)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/69e8581b4b0fa35a7076621c?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | May 03 |
 | **[AI Made Fun](https://www.linkedin.com/company/109611111)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f7f751b1fc847fc1ae6b0c?utm_campaign=1051&utm_source=git)** | Katy, TX | On Site | May 03 |
 | **[Relay](https://relayfi.com)** | **[Partnerships Intern](https://jobright.ai/jobs/info/69f8f11a0b36ff035475bbdb?utm_campaign=1051&utm_source=git)** | Toronto, ON | Hybrid | May 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/6933ab3b764507023d1b7d87?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | May 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f615e1b1fc847fc1ae28cb?utm_campaign=1051&utm_source=git)** | Bend, OR | On Site | May 02 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696959641703f05405ab329c?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | May 02 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69696e74639b452fb57f47f1?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | May 02 |
-| **[Mosaic North America](http://www.mosaic.com/)** | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614c7582f810f9c8c8519?utm_campaign=1051&utm_source=git)** | Ava, MO | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bf582f810f9c8c8516?utm_campaign=1051&utm_source=git)** | Princeton, MN | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bf582f810f9c8c8515?utm_campaign=1051&utm_source=git)** | Beatrice, NE | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bd582f810f9c8c8514?utm_campaign=1051&utm_source=git)** | Iowa Falls, IA | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bc582f810f9c8c8510?utm_campaign=1051&utm_source=git)** | Ticonderoga, NY | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bc582f810f9c8c8512?utm_campaign=1051&utm_source=git)** | Socorro, NM | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bc582f810f9c8c8511?utm_campaign=1051&utm_source=git)** | Du Quoin, IL | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bb582f810f9c8c850f?utm_campaign=1051&utm_source=git)** | Dry Ridge, KY | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
