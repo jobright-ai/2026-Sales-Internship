@@ -57,17 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[H15DEN](https://h15den.com)** | **[Business Development and Growth - Micro-Internship](https://jobright.ai/jobs/info/69f9012a0b36ff035475c7b4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 04 |
+| **[ADP Brazil Labs](https://tech.adp.com/careers/locations/brazil/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69f90c83582f810f9c8cfdab?utm_campaign=1051&utm_source=git)** | Allentown, PA, 18101, United States | Remote | May 04 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Poultry & Fresh Meats Innovation Year-Round Intern](https://jobright.ai/jobs/info/69f9003681706a5bd216fd1f?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | May 04 |
 | **[Grandstand Drinkware + Apparel](http://egrandstand.com/)** | **[SALES INTERN](https://jobright.ai/jobs/info/69f8f9b7db88714bcdfbcea6?utm_campaign=1051&utm_source=git)** | Lawrence, KS, US | On Site | May 04 |
 | **[Penn Mutual](https://www.pennmutual.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f8f910582f810f9c8cf8f2?utm_campaign=1051&utm_source=git)** | Remote - United States, US | Remote | May 04 |
-| **[Bootstrapper Capital // powered by Bootstrapper.ai](https://bootstrappercapital.com)** | **[Business & Market Development / Fellowship Intern](https://jobright.ai/jobs/info/69f8f81aa3d34b4f76f5f4f7?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | May 04 |
 | **[Victory Branding](https://victorybranding.org/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69f8f80db1fc847fc1aea034?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | May 04 |
 | **[State Industrial Products](http://stateindustrial.com)** | **[Sales Intern - Cleveland-West](https://jobright.ai/jobs/info/69f8f306582f810f9c8cf49b?utm_campaign=1051&utm_source=git)** | Cleveland, OH, USA | On Site | May 04 |
 | **[IOTIS](IOTISolutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f8f0c7a3d34b4f76f5ec11?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 04 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Bellevue Summer Intern - CM Investment Sales](https://jobright.ai/jobs/info/69f8f05b81706a5bd216f0ca?utm_campaign=1051&utm_source=git)** | CW Site - USA - WA - Bellevue - 11235 SE 6th Street, US | On Site | May 04 |
 | **[Western States Equipment](https://westernstatescat.com)** | **[Business Development Intern, Worksite Solutions](https://jobright.ai/jobs/info/69f8ec370b36ff035475b9ac?utm_campaign=1051&utm_source=git)** | Meridian, Idaho, United States | On Site | May 04 |
 | **[Grayscale Investments](https://grayscale.com)** | **[Distribution Intern](https://jobright.ai/jobs/info/69f50200db88714bcdfb16e0?utm_campaign=1051&utm_source=git)** | Stamford, Connecticut, United States | On Site | May 04 |
+| **[Summit Events](summiteventsclt.com)** | **[Event Sales Intern (Paid Internship)](https://jobright.ai/jobs/info/69f90e8d582f810f9c8d00f3?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 04 |
 | **[Printemps New York](https://us.printemps.com/)** | **[Stock Associate - Intern](https://jobright.ai/jobs/info/69f8e6aa0b36ff035475b534?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern  South Jersey Shore, NJ](https://jobright.ai/jobs/info/69f8e613b1fc847fc1ae90ef?utm_campaign=1051&utm_source=git)** | Ocean City, NJ, United States | On Site | May 04 |
 | **[Stephen Gould](https://www.stephengould.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f8e487b1fc847fc1ae8ee2?utm_campaign=1051&utm_source=git)** | Madison, NJ, US | On Site | May 04 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bf582f810f9c8c8516?utm_campaign=1051&utm_source=git)** | Princeton, MN | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bf582f810f9c8c8515?utm_campaign=1051&utm_source=git)** | Beatrice, NE | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bd582f810f9c8c8514?utm_campaign=1051&utm_source=git)** | Iowa Falls, IA | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bc582f810f9c8c8511?utm_campaign=1051&utm_source=git)** | Du Quoin, IL | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bc582f810f9c8c8510?utm_campaign=1051&utm_source=git)** | Ticonderoga, NY | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bc582f810f9c8c8512?utm_campaign=1051&utm_source=git)** | Socorro, NM | On Site | May 02 |
+| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bc582f810f9c8c8511?utm_campaign=1051&utm_source=git)** | Du Quoin, IL | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f614bb582f810f9c8c850f?utm_campaign=1051&utm_source=git)** | Dry Ridge, KY | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
