@@ -57,18 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goosehead Insurance](http://www.gooseheadinsurance.com)** | **[Skybound Internship (FTW)](https://jobright.ai/jobs/info/69fa2bc6582f810f9c8d4822?utm_campaign=1051&utm_source=git)** | Fort Worth, US | On Site | May 05 |
+| **[Shepherd Electric Supply](http://shepherdelec.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fa2bb3b1fc847fc1aee9a8?utm_campaign=1051&utm_source=git)** | SES Sterling, VA, US | On Site | May 05 |
 | **[Garan, Incorporated](http://www.garanimals.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/69fa2498b1fc847fc1aee769?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | May 05 |
+| **[Data Axle](https://www.data-axle.com/)** | **[Associate Account Manager Intern](https://jobright.ai/jobs/info/69edcd604b0fa35a707855c2?utm_campaign=1051&utm_source=git)** | United States | Remote | May 05 |
 | **[Graybar](http://www.graybar.com)** | **[Showroom Intern](https://jobright.ai/jobs/info/69fa13cba3d34b4f76f63d0c?utm_campaign=1051&utm_source=git)** | MES Brentwood, MO, US | On Site | May 05 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Purchasing Intern – September 2026 – 12 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/69fa13b9b1fc847fc1aee175?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario - Canada, CA | Hybrid | May 05 |
 | **[Blue Nile](http://www.bluenile.com)** | **[Customer Data Strategy Intern](https://jobright.ai/jobs/info/69fa123ab1fc847fc1aedfde?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | May 05 |
 | ↳ | **[Customer Data Strategy Intern](https://jobright.ai/jobs/info/69fa1232a3d34b4f76f63c3c?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | May 05 |
+| **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/692019ec3f782d2f1afc2e04?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | May 05 |
 | **[Prison Fellowship](https://www.prisonfellowship.org/)** | **[Development Stewardship Intern](https://jobright.ai/jobs/info/69fa09ac582f810f9c8d3d6d?utm_campaign=1051&utm_source=git)** | United States | Remote | May 05 |
 | **[Arrant Construction](http://www.arrantconstruction.com)** | **[Summer Internship Opportunity – Business Development](https://jobright.ai/jobs/info/69fa0141582f810f9c8d390f?utm_campaign=1051&utm_source=git)** | Richmond, TX | On Site | May 05 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Sales Intern / Fall 2026](https://jobright.ai/jobs/info/69dd09d9bc6f6622c9910087?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | Remote | May 05 |
 | **[Blue Nile](http://www.bluenile.com)** | **[Customer Data Strategy Intern](https://jobright.ai/jobs/info/69fa2798db88714bcdfc1787?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[Smartly](http://smartly.io)** | **[Sales Enablement & Competitive Intelligence Intern](https://jobright.ai/jobs/info/69dd70b1f748bc5d08a5fe61?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | May 05 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Market Access and Patient Services](https://jobright.ai/jobs/info/69f9f3f4a3d34b4f76f62dcf?utm_campaign=1051&utm_source=git)** | United States Remote Office, US | Remote | May 05 |
+| **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69c4abff33eecf3107950d81?utm_campaign=1051&utm_source=git)** | Oakland, CA | On Site | May 05 |
 | **[Würth Industry USA](http://wurthindustry.com)** | **[New Business Development Specialist - Intern](https://jobright.ai/jobs/info/69c212a72c312363dcd5a1dc?utm_campaign=1051&utm_source=git)** | Sanford, VA | On Site | May 05 |
+| **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/6932efcdf131d96e4845ec3d?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | May 05 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697d93207f40342e15d67490?utm_campaign=1051&utm_source=git)** | Beverly Hills, California, United States | On Site | May 05 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Corporate Development M&A](https://jobright.ai/jobs/info/69f9c72b582f810f9c8d2547?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 05 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/695c3ab222c9dc0d3d54195c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | May 04 |
@@ -139,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Acadium](http://www.acadium.com)** | **[Marketing & Sales Intern (Lead Generation)](https://jobright.ai/jobs/info/69f8979181706a5bd216d502?utm_campaign=1051&utm_source=git)** | United States | Remote | May 04 |
 | **[Group Management Services, Inc.](https://www.groupmgmt.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f88f93b1fc847fc1ae79a7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 04 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69c8a0b91818a24cd84d5d1b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 04 |
-| **[Group Management Services, Inc.](https://www.groupmgmt.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f889a3db88714bcdfba858?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | May 04 |
 | **[STO Building Group](https://stobuildinggroup.com)** | **[Intern - MV](https://jobright.ai/jobs/info/69c918791b5ad02887397f15?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | May 04 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Sales Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/69e636159b6eb37e26f7eb25?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 04 |
 | **[Raptor Technologies](https://www.raptortech.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f384f5343eef4fb0a9aadf?utm_campaign=1051&utm_source=git)** | Houston, Texas, United States | Hybrid | May 04 |
@@ -150,11 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/6933ab3b764507023d1b7d87?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | May 03 |
 | **[Daxko](https://www.daxko.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69bddfbc393a1008f743b705?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | May 03 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a24f4eb600907a962898ca?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 03 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | May 03 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | May 03 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696aa7085fc8624185399f22?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | May 03 |
-| **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69f74b85582f810f9c8cb799?utm_campaign=1051&utm_source=git)** | Williston, ND | On Site | May 03 |
-| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69697bdd639b452fb57f5b8c?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | May 03 |
-| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a0634f0836fe79d86150f3?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | May 03 |
-| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d0a9e9cfdc6132f943d947?utm_campaign=1051&utm_source=git)** | Newark, CA | On Site | May 03 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
