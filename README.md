@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69fa0b67b1fc847fc1aedee0?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 05 |
+| **[Prison Fellowship](https://www.prisonfellowship.org/)** | **[Development Stewardship Intern](https://jobright.ai/jobs/info/69fa09ac582f810f9c8d3d6d?utm_campaign=1051&utm_source=git)** | United States | Remote | May 05 |
 | **[Arrant Construction](http://www.arrantconstruction.com)** | **[Summer Internship Opportunity – Business Development](https://jobright.ai/jobs/info/69fa0141582f810f9c8d390f?utm_campaign=1051&utm_source=git)** | Richmond, TX | On Site | May 05 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Market Access and Patient Services](https://jobright.ai/jobs/info/69f9f3f4a3d34b4f76f62dcf?utm_campaign=1051&utm_source=git)** | United States Remote Office, US | Remote | May 05 |
 | **[Würth Industry USA](http://wurthindustry.com)** | **[New Business Development Specialist - Intern](https://jobright.ai/jobs/info/69c212a72c312363dcd5a1dc?utm_campaign=1051&utm_source=git)** | Sanford, VA | On Site | May 05 |
@@ -105,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern  South Jersey Shore, NJ](https://jobright.ai/jobs/info/69f8e613b1fc847fc1ae90ef?utm_campaign=1051&utm_source=git)** | Ocean City, NJ, United States | On Site | May 04 |
 | **[Stephen Gould](https://www.stephengould.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f8e487b1fc847fc1ae8ee2?utm_campaign=1051&utm_source=git)** | Madison, NJ, US | On Site | May 04 |
 | **[Digital Marketing Alive](https://www.digitalmarketingalive.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f8e3eb0b36ff035475b148?utm_campaign=1051&utm_source=git)** | United States | Remote | May 04 |
-| **[BMO](http://www.bmo.com)** | **[Investment Specialist, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/69f8deb3db88714bcdfbbc96?utm_campaign=1051&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 04 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Sales Aftermarket Service Intern](https://jobright.ai/jobs/info/69f8de5081706a5bd216e7b3?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI 48309, US | On Site | May 04 |
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern MBA](https://jobright.ai/jobs/info/69f8de2e81706a5bd216e74f?utm_campaign=1051&utm_source=git)** | Office - USA - CA - Headquarters, US | Hybrid | May 04 |
 | **[Ellsworth Adhesives](http://ellsworth.com)** | **[Intern, All](https://jobright.ai/jobs/info/69f8dcec0b36ff035475af55?utm_campaign=1051&utm_source=git)** | Germantown, Wisconsin, United States | On Site | May 04 |
@@ -144,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/6933ab3b764507023d1b7d87?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | May 03 |
 | **[Daxko](https://www.daxko.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69bddfbc393a1008f743b705?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | May 03 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a24f4eb600907a962898ca?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 03 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | May 03 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | May 03 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | May 03 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696aa7085fc8624185399f22?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | May 03 |
 | **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69f74b85582f810f9c8cb799?utm_campaign=1051&utm_source=git)** | Williston, ND | On Site | May 03 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69697bdd639b452fb57f5b8c?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | May 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[NEW RESIDENTIAL SALES INTERN](https://jobright.ai/jobs/info/69a267ceb600907a9628b49e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 03 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a06ed35218a816767190e0?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 03 |
 | **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f6ee3376a51a4307bdf738?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | May 03 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[NEW RESIDENTIAL SALES INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a209390da45516f16b5225?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
