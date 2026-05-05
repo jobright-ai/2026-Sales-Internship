@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Best Plumbing Supply](http://bestplg.com)** | **[Mgmt & Sales Trainees (Reg/Div MDP) - Management Trainee Intern](https://jobright.ai/jobs/info/69f92d76a3d34b4f76f60b39?utm_campaign=1051&utm_source=git)** | Orlando, FL, USA | On Site | May 04 |
 | **[Corpay](https://payments.corpay.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/69f92d1adb88714bcdfbe39f?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA 30092, USA | Hybrid | May 04 |
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[E-commerce Intern - US](https://jobright.ai/jobs/info/69f92d05b1fc847fc1aeb605?utm_campaign=1051&utm_source=git)** | Los Angeles, California, United States | On Site | May 04 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[MBA Intern, US TV Distribution - Summer 2026](https://jobright.ai/jobs/info/69f5c5a212f2811ab5a65843?utm_campaign=1051&utm_source=git)** | Culver City, CA | On Site | May 04 |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Sales Intern - Fall 2026](https://jobright.ai/jobs/info/69f92833db88714bcdfbe2af?utm_campaign=1051&utm_source=git)** | Montreal, QC | Remote | May 04 |
 | **[Tekdis LLC](https://www.tekdisllc.com/)** | **[Account Manager Intern](https://jobright.ai/jobs/info/69f927b5b1fc847fc1aeb4fc?utm_campaign=1051&utm_source=git)** | Pleasanton, CA | On Site | May 04 |
 | **[OCD Anxiety Centers](https://ocdanxietycenters.com)** | **[Behavioral Health Sales Intern](https://jobright.ai/jobs/info/69f9242981706a5bd2170db4?utm_campaign=1051&utm_source=git)** | Orem, UT | On Site | May 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69f6cc59a3d34b4f76f59f97?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | May 02 |
 | **[Sloane Strategy](https://sloanestrategy.com)** | **[Sales & Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69f68a2edb88714bcdfb6ea7?utm_campaign=1051&utm_source=git)** | United States | Remote | May 02 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Agency Partnerships Intern](https://jobright.ai/jobs/info/69f65f6db1fc847fc1ae3348?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | May 02 |
+| **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f67f86b1fc847fc1ae3819?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
