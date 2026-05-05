@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Viatris](https://www.viatris.com/en)** | **[Intern, Market Access and Patient Services](https://jobright.ai/jobs/info/69f9f3f4a3d34b4f76f62dcf?utm_campaign=1051&utm_source=git)** | United States Remote Office, US | Remote | May 05 |
+| **[Würth Industry USA](http://wurthindustry.com)** | **[New Business Development Specialist - Intern](https://jobright.ai/jobs/info/69c212a72c312363dcd5a1dc?utm_campaign=1051&utm_source=git)** | Sanford, VA | On Site | May 05 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697d93207f40342e15d67490?utm_campaign=1051&utm_source=git)** | Beverly Hills, California, United States | On Site | May 05 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Corporate Development M&A](https://jobright.ai/jobs/info/69f9c72b582f810f9c8d2547?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 05 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/695c3ab222c9dc0d3d54195c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | May 04 |
@@ -139,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/6933ab3b764507023d1b7d87?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | May 03 |
 | **[Daxko](https://www.daxko.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69bddfbc393a1008f743b705?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | May 03 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a24f4eb600907a962898ca?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 03 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | May 03 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | May 03 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | May 03 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696aa7085fc8624185399f22?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | May 03 |
 | **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69f74b85582f810f9c8cb799?utm_campaign=1051&utm_source=git)** | Williston, ND | On Site | May 03 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69697bdd639b452fb57f5b8c?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | May 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reading Royals](https://royalshockey.com)** | **[Ticket Sales + Sponsorship Intern (Full Season: September – April)](https://jobright.ai/jobs/info/69f6c144a3d34b4f76f59af5?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | May 02 |
 | ↳ | **[Ticket Sales + Sponsorship Intern Summer 2026](https://jobright.ai/jobs/info/69f6c0c70b36ff0354756367?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | May 02 |
 | **[Access Systems, Inc.](https://www.accesssystems.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69f0c4878d8d624381a97994?utm_campaign=1051&utm_source=git)** | Waukee, IA | On Site | May 02 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69f6cc59a3d34b4f76f59f97?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | May 02 |
-| **[Sloane Strategy](https://sloanestrategy.com)** | **[Sales & Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69f68a2edb88714bcdfb6ea7?utm_campaign=1051&utm_source=git)** | United States | Remote | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
