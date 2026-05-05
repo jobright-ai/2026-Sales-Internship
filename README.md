@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arrant Construction](http://www.arrantconstruction.com)** | **[Summer Internship Opportunity – Business Development](https://jobright.ai/jobs/info/69fa0141582f810f9c8d390f?utm_campaign=1051&utm_source=git)** | Richmond, TX | On Site | May 05 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Market Access and Patient Services](https://jobright.ai/jobs/info/69f9f3f4a3d34b4f76f62dcf?utm_campaign=1051&utm_source=git)** | United States Remote Office, US | Remote | May 05 |
 | **[Würth Industry USA](http://wurthindustry.com)** | **[New Business Development Specialist - Intern](https://jobright.ai/jobs/info/69c212a72c312363dcd5a1dc?utm_campaign=1051&utm_source=git)** | Sanford, VA | On Site | May 05 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697d93207f40342e15d67490?utm_campaign=1051&utm_source=git)** | Beverly Hills, California, United States | On Site | May 05 |
@@ -78,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[E-commerce Intern - US](https://jobright.ai/jobs/info/69f92d05b1fc847fc1aeb605?utm_campaign=1051&utm_source=git)** | Los Angeles, California, United States | On Site | May 04 |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Sales Intern - Fall 2026](https://jobright.ai/jobs/info/69f92833db88714bcdfbe2af?utm_campaign=1051&utm_source=git)** | Montreal, QC | Remote | May 04 |
 | **[Tekdis LLC](https://www.tekdisllc.com/)** | **[Account Manager Intern](https://jobright.ai/jobs/info/69f927b5b1fc847fc1aeb4fc?utm_campaign=1051&utm_source=git)** | Pleasanton, CA | On Site | May 04 |
+| **[Advia Credit Union](https://www.adviacu.org)** | **[Commercial Services Intern](https://jobright.ai/jobs/info/69e964444b0fa35a7076e258?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | May 04 |
 | **[OCD Anxiety Centers](https://ocdanxietycenters.com)** | **[Behavioral Health Sales Intern](https://jobright.ai/jobs/info/69f9242981706a5bd2170db4?utm_campaign=1051&utm_source=git)** | Orem, UT | On Site | May 04 |
 | **[Athlux Design Studio](http://www.athluxdesign.com)** | **[Sales & Operations Summer Intern](https://jobright.ai/jobs/info/69f9231adb88714bcdfbdfdc?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | May 04 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern – Sales Operations & Enablement Specialist](https://jobright.ai/jobs/info/69f92305582f810f9c8d0a51?utm_campaign=1051&utm_source=git)** | New York, US | Hybrid | May 04 |
@@ -124,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Global Business Development Intern - Falls Church VA](https://jobright.ai/jobs/info/69f8ab52b1fc847fc1ae82d3?utm_campaign=1051&utm_source=git)** | United States-Virginia-Falls Church, US | On Site | May 04 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Agency Partnership Remote - Intern](https://jobright.ai/jobs/info/69f8aa13db88714bcdfbb11c?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | May 04 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aae165fc862418539af8a?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | May 04 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c4a1edd5a1016e98dbf2c4?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | May 04 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/69c918791b5ad02887397f1a?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | May 04 |
 | ↳ | **[Google Holiday Sales Associate Program 2025 – Be the Spark Behind the Season!](https://jobright.ai/jobs/info/696c6544350cf43803139470?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | May 04 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696968b1639b452fb57f3c13?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | May 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a06ed35218a816767190e0?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 03 |
 | **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f6ee3376a51a4307bdf738?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | May 03 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[NEW RESIDENTIAL SALES INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/69a209390da45516f16b5225?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 03 |
-| **[Reading Royals](https://royalshockey.com)** | **[Ticket Sales + Sponsorship Intern (Full Season: September – April)](https://jobright.ai/jobs/info/69f6c144a3d34b4f76f59af5?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | May 02 |
-| ↳ | **[Ticket Sales + Sponsorship Intern Summer 2026](https://jobright.ai/jobs/info/69f6c0c70b36ff0354756367?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | May 02 |
-| **[Access Systems, Inc.](https://www.accesssystems.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/69f0c4878d8d624381a97994?utm_campaign=1051&utm_source=git)** | Waukee, IA | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
