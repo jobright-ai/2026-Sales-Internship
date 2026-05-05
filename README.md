@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/69fa0b67b1fc847fc1aedee0?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 05 |
+| **[Graybar](http://www.graybar.com)** | **[Showroom Intern](https://jobright.ai/jobs/info/69fa13cba3d34b4f76f63d0c?utm_campaign=1051&utm_source=git)** | MES Brentwood, MO, US | On Site | May 05 |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Purchasing Intern – September 2026 – 12 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/69fa13b9b1fc847fc1aee175?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario - Canada, CA | Hybrid | May 05 |
+| **[Blue Nile](http://www.bluenile.com)** | **[Customer Data Strategy Intern](https://jobright.ai/jobs/info/69fa123ab1fc847fc1aedfde?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | May 05 |
+| ↳ | **[Customer Data Strategy Intern](https://jobright.ai/jobs/info/69fa1232a3d34b4f76f63c3c?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | May 05 |
 | **[Prison Fellowship](https://www.prisonfellowship.org/)** | **[Development Stewardship Intern](https://jobright.ai/jobs/info/69fa09ac582f810f9c8d3d6d?utm_campaign=1051&utm_source=git)** | United States | Remote | May 05 |
 | **[Arrant Construction](http://www.arrantconstruction.com)** | **[Summer Internship Opportunity – Business Development](https://jobright.ai/jobs/info/69fa0141582f810f9c8d390f?utm_campaign=1051&utm_source=git)** | Richmond, TX | On Site | May 05 |
+| **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Sales Intern / Fall 2026](https://jobright.ai/jobs/info/69dd09d9bc6f6622c9910087?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | Remote | May 05 |
+| **[Smartly](http://smartly.io)** | **[Sales Enablement & Competitive Intelligence Intern](https://jobright.ai/jobs/info/69dd70b1f748bc5d08a5fe61?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | May 05 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Market Access and Patient Services](https://jobright.ai/jobs/info/69f9f3f4a3d34b4f76f62dcf?utm_campaign=1051&utm_source=git)** | United States Remote Office, US | Remote | May 05 |
 | **[Würth Industry USA](http://wurthindustry.com)** | **[New Business Development Specialist - Intern](https://jobright.ai/jobs/info/69c212a72c312363dcd5a1dc?utm_campaign=1051&utm_source=git)** | Sanford, VA | On Site | May 05 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697d93207f40342e15d67490?utm_campaign=1051&utm_source=git)** | Beverly Hills, California, United States | On Site | May 05 |
@@ -72,10 +77,10 @@ For a complete list, click the following sortable link below:
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Sales & Business Operations Intern](https://jobright.ai/jobs/info/69f962d6a3d34b4f76f61225?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 04 |
 | **[Fusion100](http://Fusion100co.com)** | **[Fraternity Sales Intern](https://jobright.ai/jobs/info/69f9539eb1fc847fc1aebad1?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | May 04 |
 | **[Breakside Real Estate Group](https://breakside.ca)** | **[Sales Intern/Host](https://jobright.ai/jobs/info/69f94467a3d34b4f76f60f18?utm_campaign=1051&utm_source=git)** | Langley, British Columbia, Canada | On Site | May 04 |
+| **[WOW Brand](http://wowpayments.com)** | **[Business Development Intern - NEW YORK Office (Can Start ASAP)](https://jobright.ai/jobs/info/69fa1894db88714bcdfc125f?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[H15DEN](https://h15den.com)** | **[Business Development and Growth / Micro-Internship](https://jobright.ai/jobs/info/69f93cb6582f810f9c8d1050?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Partner Enablement Intern (Fall/September 2026, 4 Months)](https://jobright.ai/jobs/info/69f93a5cb1fc847fc1aeb785?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | **[Inflection Point Entertainment](https://inflectionent.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f962b181706a5bd217161c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | May 04 |
-| **[Prox Shopping](www.joinprox.com)** | **[Strategic Partnerships Intern (Unpaid)](https://jobright.ai/jobs/info/69f93668a3d34b4f76f60c6e?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Remote | May 04 |
 | **[Best Plumbing Supply](http://bestplg.com)** | **[Mgmt & Sales Trainees (Reg/Div MDP) - Management Trainee Intern](https://jobright.ai/jobs/info/69f92d76a3d34b4f76f60b39?utm_campaign=1051&utm_source=git)** | Orlando, FL, USA | On Site | May 04 |
 | **[Corpay](https://payments.corpay.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/69f92d1adb88714bcdfbe39f?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA 30092, USA | Hybrid | May 04 |
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[E-commerce Intern - US](https://jobright.ai/jobs/info/69f92d05b1fc847fc1aeb605?utm_campaign=1051&utm_source=git)** | Los Angeles, California, United States | On Site | May 04 |
@@ -88,7 +93,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Intern – Sales Operations & Enablement Specialist](https://jobright.ai/jobs/info/69f922db0b36ff035475d6ab?utm_campaign=1051&utm_source=git)** | Lehi, US | Hybrid | May 04 |
 | ↳ | **[2026 Intern – Sales Operations & Enablement Specialist](https://jobright.ai/jobs/info/69f922b2a3d34b4f76f60730?utm_campaign=1051&utm_source=git)** | San Jose, US | Hybrid | May 04 |
 | **[Wiggin Properties, LLC](https://www.wigginprop.com)** | **[Broker Trainee OKC/Tulsa, OK](https://jobright.ai/jobs/info/69f9211d0b36ff035475d62c?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | May 04 |
-| **[Spruce InfoTech Inc.](http://spruceinfotech.com/)** | **[Business Development Executive](https://jobright.ai/jobs/info/69f91c140b36ff035475d4f8?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 04 |
 | **[JAKKS Pacific](http://jakks.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f9149e0b36ff035475d033?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | On Site | May 04 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/69f914800b36ff035475cfd3?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, USA | On Site | May 04 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Agency Partnerships Internship (Remote)](https://jobright.ai/jobs/info/69f9374381706a5bd21710b9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | May 04 |
@@ -105,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Summit Events](summiteventsclt.com)** | **[Event Sales Intern (Paid Internship)](https://jobright.ai/jobs/info/69f90e8d582f810f9c8d00f3?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 04 |
 | **[Printemps New York](https://us.printemps.com/)** | **[Stock Associate - Intern](https://jobright.ai/jobs/info/69f8e6aa0b36ff035475b534?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern  South Jersey Shore, NJ](https://jobright.ai/jobs/info/69f8e613b1fc847fc1ae90ef?utm_campaign=1051&utm_source=git)** | Ocean City, NJ, United States | On Site | May 04 |
-| **[Stephen Gould](https://www.stephengould.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69f8e487b1fc847fc1ae8ee2?utm_campaign=1051&utm_source=git)** | Madison, NJ, US | On Site | May 04 |
 | **[Digital Marketing Alive](https://www.digitalmarketingalive.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f8e3eb0b36ff035475b148?utm_campaign=1051&utm_source=git)** | United States | Remote | May 04 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Sales Aftermarket Service Intern](https://jobright.ai/jobs/info/69f8de5081706a5bd216e7b3?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI 48309, US | On Site | May 04 |
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern MBA](https://jobright.ai/jobs/info/69f8de2e81706a5bd216e74f?utm_campaign=1051&utm_source=git)** | Office - USA - CA - Headquarters, US | Hybrid | May 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d0a9e9cfdc6132f943d947?utm_campaign=1051&utm_source=git)** | Newark, CA | On Site | May 03 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69cb1224a8c1822476e23c10?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | May 03 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/697d8172ce48107c0541b2d7?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | May 03 |
-| **[Dal-Tile LLC](http://dal-tile.com)** | **[NEW RESIDENTIAL SALES INTERN](https://jobright.ai/jobs/info/69a267ceb600907a9628b49e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 03 |
-| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a06ed35218a816767190e0?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 03 |
-| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f6ee3376a51a4307bdf738?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
