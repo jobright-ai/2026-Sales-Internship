@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geotab](http://www.geotab.com/)** | **[Partner Enablement Intern (Fall/September 2026, 4 Months)](https://jobright.ai/jobs/info/69f93a5cb1fc847fc1aeb785?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
+| **[Prox Shopping](www.joinprox.com)** | **[Strategic Partnerships Intern (Unpaid)](https://jobright.ai/jobs/info/69f93668a3d34b4f76f60c6e?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Remote | May 04 |
 | **[Best Plumbing Supply](http://bestplg.com)** | **[Mgmt & Sales Trainees (Reg/Div MDP) - Management Trainee Intern](https://jobright.ai/jobs/info/69f92d76a3d34b4f76f60b39?utm_campaign=1051&utm_source=git)** | Orlando, FL, USA | On Site | May 04 |
 | **[Corpay](https://payments.corpay.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/69f92d1adb88714bcdfbe39f?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA 30092, USA | Hybrid | May 04 |
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[E-commerce Intern - US](https://jobright.ai/jobs/info/69f92d05b1fc847fc1aeb605?utm_campaign=1051&utm_source=git)** | Los Angeles, California, United States | On Site | May 04 |
@@ -72,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[JAKKS Pacific](http://jakks.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f9149e0b36ff035475d033?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | On Site | May 04 |
 | **[H15DEN](https://h15den.com)** | **[Strategy Business Development Micro-Internship.](https://jobright.ai/jobs/info/69f91483b1fc847fc1aea9d1?utm_campaign=1051&utm_source=git)** | Long Beach, CA | Remote | May 04 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/69f914800b36ff035475cfd3?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, USA | On Site | May 04 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Agency Partnerships Internship (Remote)](https://jobright.ai/jobs/info/69f9374381706a5bd21710b9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | May 04 |
 | **[ADP Brazil Labs](https://tech.adp.com/careers/locations/brazil/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69f90c83582f810f9c8cfdab?utm_campaign=1051&utm_source=git)** | Allentown, PA, 18101, United States | Remote | May 04 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Poultry & Fresh Meats Innovation Year-Round Intern](https://jobright.ai/jobs/info/69f9003681706a5bd216fd1f?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | May 04 |
 | **[Grandstand Drinkware + Apparel](http://egrandstand.com/)** | **[SALES INTERN](https://jobright.ai/jobs/info/69f8f9b7db88714bcdfbcea6?utm_campaign=1051&utm_source=git)** | Lawrence, KS, US | On Site | May 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69d988865356a60f40fda2aa?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 02 |
 | **[The Brand Guild](https://thebrandguild.com)** | **[New Business Intern (Growth Team)](https://jobright.ai/jobs/info/69f61e0781706a5bd2168472?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 02 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f61913582f810f9c8c8611?utm_campaign=1051&utm_source=git)** | Prairie du Chien, WI | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f6190c582f810f9c8c860e?utm_campaign=1051&utm_source=git)** | Unicoi, TN | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f61905582f810f9c8c860c?utm_campaign=1051&utm_source=git)** | Goddard, KS | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f616260b36ff03547546c6?utm_campaign=1051&utm_source=git)** | Woodland Park, CO | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
