@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Construction Sales Internship Program](https://jobright.ai/jobs/info/69fa4929b1fc847fc1aef728?utm_campaign=1051&utm_source=git)** | 3735 Green Rd, Beachwood, OH, 44122, US | On Site | May 05 |
+| **[Four Inc.](https://www.fourinc.com/)** | **[Indirect Channel Sales - Internship](https://jobright.ai/jobs/info/69fa46eab1fc847fc1aef587?utm_campaign=1051&utm_source=git)** | Herndon, Virginia, United States | Hybrid | May 05 |
+| **[Waterstone Mortgage Corporation](http://WaterstoneMortgage.com)** | **[Mortgage Intern](https://jobright.ai/jobs/info/69fa45cf582f810f9c8d50bb?utm_campaign=1051&utm_source=git)** | Eagle, Idaho, United States | On Site | May 05 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative](https://jobright.ai/jobs/info/68c339f163829b0a8a501049?utm_campaign=1051&utm_source=git)** | Fairfield County, CT | On Site | May 05 |
+| **[Invences Inc.](https://invences.com)** | **[Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69fa4482db88714bcdfc1f95?utm_campaign=1051&utm_source=git)** | Frisco, TX | Remote | May 05 |
+| **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69fa444d0b36ff0354761576?utm_campaign=1051&utm_source=git)** | United States | Remote | May 05 |
+| ↳ | **[Student Sales Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69fa3ceea3d34b4f76f649bf?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 05 |
 | **[Goosehead Insurance](http://www.gooseheadinsurance.com)** | **[Skybound Internship (FTW)](https://jobright.ai/jobs/info/69fa2bc6582f810f9c8d4822?utm_campaign=1051&utm_source=git)** | Fort Worth, US | On Site | May 05 |
 | **[Shepherd Electric Supply](http://shepherdelec.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fa2bb3b1fc847fc1aee9a8?utm_campaign=1051&utm_source=git)** | SES Sterling, VA, US | On Site | May 05 |
 | **[Garan, Incorporated](http://www.garanimals.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/69fa2498b1fc847fc1aee769?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | May 05 |
@@ -103,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Wiggin Properties, LLC](https://www.wigginprop.com)** | **[Broker Trainee OKC/Tulsa, OK](https://jobright.ai/jobs/info/69f9211d0b36ff035475d62c?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | May 04 |
 | **[JAKKS Pacific](http://jakks.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f9149e0b36ff035475d033?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | On Site | May 04 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/69f914800b36ff035475cfd3?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, USA | On Site | May 04 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Agency Partnerships Internship (Remote)](https://jobright.ai/jobs/info/69f9374381706a5bd21710b9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | May 04 |
 | **[ADP Brazil Labs](https://tech.adp.com/careers/locations/brazil/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69f90c83582f810f9c8cfdab?utm_campaign=1051&utm_source=git)** | Allentown, PA, 18101, United States | Remote | May 04 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Poultry & Fresh Meats Innovation Year-Round Intern](https://jobright.ai/jobs/info/69f9003681706a5bd216fd1f?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | May 04 |
 | **[Grandstand Drinkware + Apparel](http://egrandstand.com/)** | **[SALES INTERN](https://jobright.ai/jobs/info/69f8f9b7db88714bcdfbcea6?utm_campaign=1051&utm_source=git)** | Lawrence, KS, US | On Site | May 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/69f118e362b48c6838793cb5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 03 |
 | **[Brandlete](https://www.brandletehq.com)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/69e8581b4b0fa35a7076621c?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | May 03 |
 | **[AI Made Fun](https://www.linkedin.com/company/109611111)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f7f751b1fc847fc1ae6b0c?utm_campaign=1051&utm_source=git)** | Katy, TX | On Site | May 03 |
-| **[Relay](https://relayfi.com)** | **[Partnerships Intern](https://jobright.ai/jobs/info/69f8f11a0b36ff035475bbdb?utm_campaign=1051&utm_source=git)** | Toronto, ON | Hybrid | May 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/6933ab3b764507023d1b7d87?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | May 03 |
-| **[Daxko](https://www.daxko.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69bddfbc393a1008f743b705?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | May 03 |
-| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a24f4eb600907a962898ca?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 03 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | May 03 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
