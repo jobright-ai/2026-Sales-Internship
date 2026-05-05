@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fusion100](http://Fusion100co.com)** | **[Fraternity Sales Intern](https://jobright.ai/jobs/info/69f9539eb1fc847fc1aebad1?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | May 04 |
 | **[Breakside Real Estate Group](https://breakside.ca)** | **[Sales Intern/Host](https://jobright.ai/jobs/info/69f94467a3d34b4f76f60f18?utm_campaign=1051&utm_source=git)** | Langley, British Columbia, Canada | On Site | May 04 |
 | **[H15DEN](https://h15den.com)** | **[Business Development and Growth / Micro-Internship](https://jobright.ai/jobs/info/69f93cb6582f810f9c8d1050?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Partner Enablement Intern (Fall/September 2026, 4 Months)](https://jobright.ai/jobs/info/69f93a5cb1fc847fc1aeb785?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Wiggin Properties, LLC](https://www.wigginprop.com)** | **[Broker Trainee OKC/Tulsa, OK](https://jobright.ai/jobs/info/69f9211d0b36ff035475d62c?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | May 04 |
 | **[Spruce InfoTech Inc.](http://spruceinfotech.com/)** | **[Business Development Executive](https://jobright.ai/jobs/info/69f91c140b36ff035475d4f8?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 04 |
 | **[JAKKS Pacific](http://jakks.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f9149e0b36ff035475d033?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | On Site | May 04 |
-| **[H15DEN](https://h15den.com)** | **[Strategy Business Development Micro-Internship.](https://jobright.ai/jobs/info/69f91483b1fc847fc1aea9d1?utm_campaign=1051&utm_source=git)** | Long Beach, CA | Remote | May 04 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/69f914800b36ff035475cfd3?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, USA | On Site | May 04 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Agency Partnerships Internship (Remote)](https://jobright.ai/jobs/info/69f9374381706a5bd21710b9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | May 04 |
 | **[ADP Brazil Labs](https://tech.adp.com/careers/locations/brazil/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69f90c83582f810f9c8cfdab?utm_campaign=1051&utm_source=git)** | Allentown, PA, 18101, United States | Remote | May 04 |
