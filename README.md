@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Garan, Incorporated](http://www.garanimals.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/69fa2498b1fc847fc1aee769?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | May 05 |
 | **[Graybar](http://www.graybar.com)** | **[Showroom Intern](https://jobright.ai/jobs/info/69fa13cba3d34b4f76f63d0c?utm_campaign=1051&utm_source=git)** | MES Brentwood, MO, US | On Site | May 05 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Purchasing Intern – September 2026 – 12 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/69fa13b9b1fc847fc1aee175?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario - Canada, CA | Hybrid | May 05 |
 | **[Blue Nile](http://www.bluenile.com)** | **[Customer Data Strategy Intern](https://jobright.ai/jobs/info/69fa123ab1fc847fc1aedfde?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | May 05 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Prison Fellowship](https://www.prisonfellowship.org/)** | **[Development Stewardship Intern](https://jobright.ai/jobs/info/69fa09ac582f810f9c8d3d6d?utm_campaign=1051&utm_source=git)** | United States | Remote | May 05 |
 | **[Arrant Construction](http://www.arrantconstruction.com)** | **[Summer Internship Opportunity – Business Development](https://jobright.ai/jobs/info/69fa0141582f810f9c8d390f?utm_campaign=1051&utm_source=git)** | Richmond, TX | On Site | May 05 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Sales Intern / Fall 2026](https://jobright.ai/jobs/info/69dd09d9bc6f6622c9910087?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | Remote | May 05 |
+| **[Blue Nile](http://www.bluenile.com)** | **[Customer Data Strategy Intern](https://jobright.ai/jobs/info/69fa2798db88714bcdfc1787?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[Smartly](http://smartly.io)** | **[Sales Enablement & Competitive Intelligence Intern](https://jobright.ai/jobs/info/69dd70b1f748bc5d08a5fe61?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | May 05 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Market Access and Patient Services](https://jobright.ai/jobs/info/69f9f3f4a3d34b4f76f62dcf?utm_campaign=1051&utm_source=git)** | United States Remote Office, US | Remote | May 05 |
 | **[Würth Industry USA](http://wurthindustry.com)** | **[New Business Development Specialist - Intern](https://jobright.ai/jobs/info/69c212a72c312363dcd5a1dc?utm_campaign=1051&utm_source=git)** | Sanford, VA | On Site | May 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69697bdd639b452fb57f5b8c?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | May 03 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a0634f0836fe79d86150f3?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | May 03 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d0a9e9cfdc6132f943d947?utm_campaign=1051&utm_source=git)** | Newark, CA | On Site | May 03 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69cb1224a8c1822476e23c10?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | May 03 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/697d8172ce48107c0541b2d7?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
