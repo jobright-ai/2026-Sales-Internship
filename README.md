@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Best Plumbing Supply](http://bestplg.com)** | **[Mgmt & Sales Trainees (Reg/Div MDP) - Management Trainee Intern](https://jobright.ai/jobs/info/69f92d76a3d34b4f76f60b39?utm_campaign=1051&utm_source=git)** | Orlando, FL, USA | On Site | May 04 |
+| **[Corpay](https://payments.corpay.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/69f92d1adb88714bcdfbe39f?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA 30092, USA | Hybrid | May 04 |
+| **[Pixi Inc.](https://www.pixibeauty.com)** | **[E-commerce Intern - US](https://jobright.ai/jobs/info/69f92d05b1fc847fc1aeb605?utm_campaign=1051&utm_source=git)** | Los Angeles, California, United States | On Site | May 04 |
+| **[GoMaterials](https://www.gomaterials.com/)** | **[Sales Intern - Fall 2026](https://jobright.ai/jobs/info/69f92833db88714bcdfbe2af?utm_campaign=1051&utm_source=git)** | Montreal, QC | Remote | May 04 |
+| **[Tekdis LLC](https://www.tekdisllc.com/)** | **[Account Manager Intern](https://jobright.ai/jobs/info/69f927b5b1fc847fc1aeb4fc?utm_campaign=1051&utm_source=git)** | Pleasanton, CA | On Site | May 04 |
+| **[OCD Anxiety Centers](https://ocdanxietycenters.com)** | **[Behavioral Health Sales Intern](https://jobright.ai/jobs/info/69f9242981706a5bd2170db4?utm_campaign=1051&utm_source=git)** | Orem, UT | On Site | May 04 |
+| **[Athlux Design Studio](http://www.athluxdesign.com)** | **[Sales & Operations Summer Intern](https://jobright.ai/jobs/info/69f9231adb88714bcdfbdfdc?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | May 04 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern – Sales Operations & Enablement Specialist](https://jobright.ai/jobs/info/69f92305582f810f9c8d0a51?utm_campaign=1051&utm_source=git)** | New York, US | Hybrid | May 04 |
+| ↳ | **[2026 Intern – Sales Operations & Enablement Specialist](https://jobright.ai/jobs/info/69f922db0b36ff035475d6ab?utm_campaign=1051&utm_source=git)** | Lehi, US | Hybrid | May 04 |
+| ↳ | **[2026 Intern – Sales Operations & Enablement Specialist](https://jobright.ai/jobs/info/69f922b2a3d34b4f76f60730?utm_campaign=1051&utm_source=git)** | San Jose, US | Hybrid | May 04 |
 | **[Wiggin Properties, LLC](https://www.wigginprop.com)** | **[Broker Trainee OKC/Tulsa, OK](https://jobright.ai/jobs/info/69f9211d0b36ff035475d62c?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | May 04 |
 | **[Spruce InfoTech Inc.](http://spruceinfotech.com/)** | **[Business Development Executive](https://jobright.ai/jobs/info/69f91c140b36ff035475d4f8?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 04 |
-| **[Inflection Point Entertainment](https://inflectionent.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f91bc10b36ff035475d4b2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | May 04 |
-| **[Initio Capital](https://initiostudios.io)** | **[MBA Venture Capital Intern](https://jobright.ai/jobs/info/69f914cda3d34b4f76f5fff5?utm_campaign=1051&utm_source=git)** | United States | Remote | May 04 |
 | **[JAKKS Pacific](http://jakks.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69f9149e0b36ff035475d033?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | On Site | May 04 |
 | **[H15DEN](https://h15den.com)** | **[Strategy Business Development Micro-Internship.](https://jobright.ai/jobs/info/69f91483b1fc847fc1aea9d1?utm_campaign=1051&utm_source=git)** | Long Beach, CA | Remote | May 04 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/69f914800b36ff035475cfd3?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, USA | On Site | May 04 |
@@ -112,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/6933ab3b764507023d1b7d87?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | May 03 |
 | **[Daxko](https://www.daxko.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69bddfbc393a1008f743b705?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | May 03 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a24f4eb600907a962898ca?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 03 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | May 03 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | May 03 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | May 03 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696aa7085fc8624185399f22?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | May 03 |
 | **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69f74b85582f810f9c8cb799?utm_campaign=1051&utm_source=git)** | Williston, ND | On Site | May 03 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69697bdd639b452fb57f5b8c?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | May 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f6190c582f810f9c8c860e?utm_campaign=1051&utm_source=git)** | Unicoi, TN | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f61905582f810f9c8c860c?utm_campaign=1051&utm_source=git)** | Goddard, KS | On Site | May 02 |
 | ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f616260b36ff03547546c6?utm_campaign=1051&utm_source=git)** | Woodland Park, CO | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f6160ca3d34b4f76f57af8?utm_campaign=1051&utm_source=git)** | Trumann, AR | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f61606a3d34b4f76f57af7?utm_campaign=1051&utm_source=git)** | Atmore, AL | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f616040b36ff03547546c3?utm_campaign=1051&utm_source=git)** | Chadron, NE | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f616020b36ff03547546c2?utm_campaign=1051&utm_source=git)** | Rawlins, WY | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f615fda3d34b4f76f57af4?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | May 02 |
-| ↳ | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f615e1b1fc847fc1ae28cb?utm_campaign=1051&utm_source=git)** | Bend, OR | On Site | May 02 |
-| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696959641703f05405ab329c?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | May 02 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69696e74639b452fb57f47f1?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
