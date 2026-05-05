@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Breakside Real Estate Group](https://breakside.ca)** | **[Sales Intern/Host](https://jobright.ai/jobs/info/69f94467a3d34b4f76f60f18?utm_campaign=1051&utm_source=git)** | Langley, British Columbia, Canada | On Site | May 04 |
+| **[H15DEN](https://h15den.com)** | **[Business Development and Growth / Micro-Internship](https://jobright.ai/jobs/info/69f93cb6582f810f9c8d1050?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Partner Enablement Intern (Fall/September 2026, 4 Months)](https://jobright.ai/jobs/info/69f93a5cb1fc847fc1aeb785?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | **[Prox Shopping](www.joinprox.com)** | **[Strategic Partnerships Intern (Unpaid)](https://jobright.ai/jobs/info/69f93668a3d34b4f76f60c6e?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Remote | May 04 |
 | **[Best Plumbing Supply](http://bestplg.com)** | **[Mgmt & Sales Trainees (Reg/Div MDP) - Management Trainee Intern](https://jobright.ai/jobs/info/69f92d76a3d34b4f76f60b39?utm_campaign=1051&utm_source=git)** | Orlando, FL, USA | On Site | May 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[1904Group](https://www.1904group.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/69f64185a3d34b4f76f57e0d?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | May 02 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69f6416cdb88714bcdfb5c5c?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | May 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69d988865356a60f40fda2aa?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 02 |
-| **[The Brand Guild](https://thebrandguild.com)** | **[New Business Intern (Growth Team)](https://jobright.ai/jobs/info/69f61e0781706a5bd2168472?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 02 |
-| **[Mosaic North America](http://www.mosaic.com/)** | **[Verizon Value Field Representative](https://jobright.ai/jobs/info/69f61913582f810f9c8c8611?utm_campaign=1051&utm_source=git)** | Prairie du Chien, WI | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
