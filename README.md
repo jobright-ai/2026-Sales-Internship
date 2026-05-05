@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/695c3ab222c9dc0d3d54195c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | May 04 |
+| **[Enove Strategies](https://enovestrategies.com/)** | **[Business Sales Intern](https://jobright.ai/jobs/info/69f98ca1db88714bcdfbf081?utm_campaign=1051&utm_source=git)** | Pasadena, TX | On Site | May 04 |
+| **[Brightroc Marketing](brightrocmarketing.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/69f98c9edb88714bcdfbf07d?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | May 04 |
 | **[AbelCine](http://abelcine.com)** | **[Rental Internship - Los Angeles - Summer 2026](https://jobright.ai/jobs/info/69f962d8b1fc847fc1aebcd2?utm_campaign=1051&utm_source=git)** | Burbank, CA | On Site | May 04 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Sales & Business Operations Intern](https://jobright.ai/jobs/info/69f962d6a3d34b4f76f61225?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 04 |
 | **[Fusion100](http://Fusion100co.com)** | **[Fraternity Sales Intern](https://jobright.ai/jobs/info/69f9539eb1fc847fc1aebad1?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | May 04 |
@@ -103,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative](https://jobright.ai/jobs/info/69f8d60bb1fc847fc1ae8b72?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | May 04 |
 | **[Plastic Beach](http://www.plastic-beach.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69f8d5afb1fc847fc1ae8b35?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | May 04 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Intern - HVAC Systems](https://jobright.ai/jobs/info/69f8f906582f810f9c8cf8cf?utm_campaign=1051&utm_source=git)** | Greenville-South Carolina-United States of America, US | On Site | May 04 |
+| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69c63a69e565c26a7001c067?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | May 04 |
 | **[Globe Life American Income Division: Surace Smith & Partners Organization](https://ssbendurehartwig.com)** | **[Virtual Sales Position - Internship or Full-time](https://jobright.ai/jobs/info/69f8cdba81706a5bd216e44c?utm_campaign=1051&utm_source=git)** | United States | Remote | May 04 |
 | **[accessiBe](https://accessibe.com/)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/69f8cd0fb1fc847fc1ae89ee?utm_campaign=1051&utm_source=git)** | New York | Hybrid | May 04 |
 | **[Unify](https://unifyams.ai/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f8eb80b1fc847fc1ae95a2?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 04 |
@@ -132,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/6933ab3b764507023d1b7d87?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | May 03 |
 | **[Daxko](https://www.daxko.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69bddfbc393a1008f743b705?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | May 03 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69a24f4eb600907a962898ca?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 03 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | May 03 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f23db26b618950dc74c?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | May 03 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | May 03 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/696aa7085fc8624185399f22?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | May 03 |
 | **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69f74b85582f810f9c8cb799?utm_campaign=1051&utm_source=git)** | Williston, ND | On Site | May 03 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69697bdd639b452fb57f5b8c?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | May 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Agency Partnerships Intern](https://jobright.ai/jobs/info/69f65f6db1fc847fc1ae3348?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | May 02 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f67f86b1fc847fc1ae3819?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer 2026 EED MA Office of Business Development Intern](https://jobright.ai/jobs/info/69f65774582f810f9c8c8b87?utm_campaign=1051&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Accounts Management Intern](https://jobright.ai/jobs/info/69f6539281706a5bd2168c2d?utm_campaign=1051&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Accounts Management Intern](https://jobright.ai/jobs/info/69f6539181706a5bd2168c27?utm_campaign=1051&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
-| **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f67ef00b36ff03547555cc?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | May 02 |
-| **[ArcelorMittal South Africa](http://www.arcelormittalsa.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69f66c14b1fc847fc1ae33db?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
