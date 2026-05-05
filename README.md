@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern - CRM](https://jobright.ai/jobs/info/697d93207f40342e15d67490?utm_campaign=1051&utm_source=git)** | Beverly Hills, California, United States | On Site | May 05 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Corporate Development M&A](https://jobright.ai/jobs/info/69f9c72b582f810f9c8d2547?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 05 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/695c3ab222c9dc0d3d54195c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | May 04 |
 | **[Enove Strategies](https://enovestrategies.com/)** | **[Business Sales Intern](https://jobright.ai/jobs/info/69f98ca1db88714bcdfbf081?utm_campaign=1051&utm_source=git)** | Pasadena, TX | On Site | May 04 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern MBA](https://jobright.ai/jobs/info/69f8de2e81706a5bd216e74f?utm_campaign=1051&utm_source=git)** | Office - USA - CA - Headquarters, US | Hybrid | May 04 |
 | **[Ellsworth Adhesives](http://ellsworth.com)** | **[Intern, All](https://jobright.ai/jobs/info/69f8dcec0b36ff035475af55?utm_campaign=1051&utm_source=git)** | Germantown, Wisconsin, United States | On Site | May 04 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative](https://jobright.ai/jobs/info/69f8d60bb1fc847fc1ae8b72?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | May 04 |
-| **[Plastic Beach](http://www.plastic-beach.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69f8d5afb1fc847fc1ae8b35?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | May 04 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Intern - HVAC Systems](https://jobright.ai/jobs/info/69f8f906582f810f9c8cf8cf?utm_campaign=1051&utm_source=git)** | Greenville-South Carolina-United States of America, US | On Site | May 04 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69c63a69e565c26a7001c067?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | May 04 |
 | **[Globe Life American Income Division: Surace Smith & Partners Organization](https://ssbendurehartwig.com)** | **[Virtual Sales Position - Internship or Full-time](https://jobright.ai/jobs/info/69f8cdba81706a5bd216e44c?utm_campaign=1051&utm_source=git)** | United States | Remote | May 04 |
