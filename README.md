@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AV](https://www.avinc.com/)** | **[Bid & Proposal Intern](https://jobright.ai/jobs/info/69fa8da7582f810f9c8d67f3?utm_campaign=1051&utm_source=git)** | Arlington, VA, US | On Site | May 05 |
 | **[Benchmark Gensuite®](https://benchmarkgensuite.com)** | **[[US] Subscriber Success Operations Intern](https://jobright.ai/jobs/info/69fa8221b1fc847fc1af0886?utm_campaign=1051&utm_source=git)** | Mason, Ohio, United States | Hybrid | May 05 |
 | **[Retrofête](https://retrofete.com/)** | **[Showroom Internship](https://jobright.ai/jobs/info/69fa7bc3b1fc847fc1af0799?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 05 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fa7b3d81706a5bd2175ed6?utm_campaign=1051&utm_source=git)** | Meridian, ID | On Site | May 05 |
 | **[Helm AI](www.visithelm.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/69fa7685a3d34b4f76f65cf5?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | May 05 |
 | **[Adtran](http://www.adtran.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69fa7076a3d34b4f76f65bc1?utm_campaign=1051&utm_source=git)** | Adtran Huntsville HQ, US | On Site | May 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sales & Marketing Intern, Fall 2026](https://jobright.ai/jobs/info/69fa7032db88714bcdfc30d3?utm_campaign=1051&utm_source=git)** | VA, Portsmouth, US | On Site | May 05 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69fa8a33a3d34b4f76f66180?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | May 05 |
 | **[Influx](https://www.influxonline.co)** | **[Student Sales Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69fa690481706a5bd21756df?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 05 |
 | ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69fa5f3b0b36ff0354762060?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | May 05 |
 | **[Resolve Tech Solutions](http://www.resolvetech.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fa5e44a3d34b4f76f65324?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 05 |
@@ -79,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Invences Inc.](https://invences.com)** | **[Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69fa4482db88714bcdfc1f95?utm_campaign=1051&utm_source=git)** | Frisco, TX | Remote | May 05 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69fa444d0b36ff0354761576?utm_campaign=1051&utm_source=git)** | United States | Remote | May 05 |
 | ↳ | **[Student Sales Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69fa3ceea3d34b4f76f649bf?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 05 |
+| **[Four Inc.](https://www.fourinc.com/)** | **[HCL Sales Internship](https://jobright.ai/jobs/info/69fa9680a3d34b4f76f6638e?utm_campaign=1051&utm_source=git)** | Herndon, Virginia, United States | Hybrid | May 05 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SALES ASSOCIATE (RPT/SPORTING GOODS)](https://jobright.ai/jobs/info/69f67578a3d34b4f76f588d4?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | May 05 |
 | **[Goosehead Insurance](http://www.gooseheadinsurance.com)** | **[Skybound Internship (FTW)](https://jobright.ai/jobs/info/69fa2bc6582f810f9c8d4822?utm_campaign=1051&utm_source=git)** | Fort Worth, US | On Site | May 05 |
 | **[Shepherd Electric Supply](http://shepherdelec.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fa2bb3b1fc847fc1aee9a8?utm_campaign=1051&utm_source=git)** | SES Sterling, VA, US | On Site | May 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Sales Aftermarket Service Intern](https://jobright.ai/jobs/info/69f8de5081706a5bd216e7b3?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI 48309, US | On Site | May 04 |
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern MBA](https://jobright.ai/jobs/info/69f8de2e81706a5bd216e74f?utm_campaign=1051&utm_source=git)** | Office - USA - CA - Headquarters, US | Hybrid | May 04 |
 | **[Ellsworth Adhesives](http://ellsworth.com)** | **[Intern, All](https://jobright.ai/jobs/info/69f8dcec0b36ff035475af55?utm_campaign=1051&utm_source=git)** | Germantown, Wisconsin, United States | On Site | May 04 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative](https://jobright.ai/jobs/info/69f8d60bb1fc847fc1ae8b72?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | May 04 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Intern - HVAC Systems](https://jobright.ai/jobs/info/69f8f906582f810f9c8cf8cf?utm_campaign=1051&utm_source=git)** | Greenville-South Carolina-United States of America, US | On Site | May 04 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69c63a69e565c26a7001c067?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
