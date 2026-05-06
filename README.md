@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benchmark Gensuite®](https://benchmarkgensuite.com)** | **[[US] Subscriber Success Operations Intern](https://jobright.ai/jobs/info/69fa8221b1fc847fc1af0886?utm_campaign=1051&utm_source=git)** | Mason, Ohio, United States | Hybrid | May 05 |
 | **[Retrofête](https://retrofete.com/)** | **[Showroom Internship](https://jobright.ai/jobs/info/69fa7bc3b1fc847fc1af0799?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 05 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fa7b3d81706a5bd2175ed6?utm_campaign=1051&utm_source=git)** | Meridian, ID | On Site | May 05 |
-| **[LvlUp Ventures](https://www.lvlup.vc/)** | **[Venture Capital Intern - Consumer Goods (CPG)](https://jobright.ai/jobs/info/69fa76d30b36ff03547629ca?utm_campaign=1051&utm_source=git)** | United States | Remote | May 05 |
 | **[Helm AI](www.visithelm.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/69fa7685a3d34b4f76f65cf5?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | May 05 |
 | **[Adtran](http://www.adtran.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69fa7076a3d34b4f76f65bc1?utm_campaign=1051&utm_source=git)** | Adtran Huntsville HQ, US | On Site | May 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sales & Marketing Intern, Fall 2026](https://jobright.ai/jobs/info/69fa7032db88714bcdfc30d3?utm_campaign=1051&utm_source=git)** | VA, Portsmouth, US | On Site | May 05 |
