@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mercer Company](https://mercer-company.com/)** | **[US Marine Intern - Summer 2026 - California](https://jobright.ai/jobs/info/69fe2c69f363bc4dc339c104?utm_campaign=1051&utm_source=git)** | Los Angeles - West 5th, US | Hybrid | May 08 |
+| **[Story of the Season](http://storyoftheseason.com)** | **[Account Manager Internship](https://jobright.ai/jobs/info/69fe3993ad691a11f34ec5de?utm_campaign=1051&utm_source=git)** | United States | Remote | May 08 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Intern](https://jobright.ai/jobs/info/69fe3961f363bc4dc339c4cc?utm_campaign=1051&utm_source=git)** | Pleasant Hill, California, United States | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[SAP iXp Intern - Sales Operations [South MU]](https://jobright.ai/jobs/info/69fe2b256bcf315dc8f55146?utm_campaign=1051&utm_source=git)** | Houston, TX, US | Hybrid | May 08 |
 | ↳ | **[2026 Canon Insights Summer Internship - New Business Development and Product Planning Intern](https://jobright.ai/jobs/info/69fe2b207714cd50b90fe94e?utm_campaign=1051&utm_source=git)** | Melville, NY, US | Hybrid | May 08 |
 | ↳ | **[Client Solutions Internship - Boston, Summer 2026](https://jobright.ai/jobs/info/69fe2b027714cd50b90fe930?utm_campaign=1051&utm_source=git)** | Boston, MA, US | On Site | May 08 |
@@ -66,11 +67,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69fe2a394b9bbf21744aebe3?utm_campaign=1051&utm_source=git)** | United States | Remote | May 08 |
 | **[NiCE](http://nice.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fe2968ad691a11f34ebef9?utm_campaign=1051&utm_source=git)** | USA - Hoboken, NJ | On Site | May 08 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - Business Development Analyst](https://jobright.ai/jobs/info/69fe28dc6bcf315dc8f54f80?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | May 08 |
-| **[WIT](https://witcontests.com)** | **[Partnerships Intern](https://jobright.ai/jobs/info/69fe28cf4b9bbf21744aea3e?utm_campaign=1051&utm_source=git)** | United States | Remote | May 08 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/69fe28c57714cd50b90fe6d5?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | May 08 |
 | **[NetApp](http://netapp.com)** | **[Partner Coordinator Intern](https://jobright.ai/jobs/info/69fe1a26f363bc4dc339b99f?utm_campaign=1051&utm_source=git)** | RTP, North Carolina, USA Office | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Sales & Business Operations Intern (Summer)](https://jobright.ai/jobs/info/69fe13e67714cd50b90fe112?utm_campaign=1051&utm_source=git)** | Overland Park, KS, US | On Site | May 08 |
-| **[Cypress Bank & Trust](https://www.cypressbanktrust.com/)** | **[Summer Internship- Palm Beach](https://jobright.ai/jobs/info/69fe13dc7714cd50b90fe10b?utm_campaign=1051&utm_source=git)** | Palm Beach, FL | On Site | May 08 |
 | **[Mannix Marketing](https://www.mannixmarketing.com)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69fe133152e2b44f558ae50e?utm_campaign=1051&utm_source=git)** | Queensbury, NY, 12804, US | Remote | May 08 |
 | **[Up Campus Student Living](http://upcampusproperties.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/69fe12df52e2b44f558ae4ea?utm_campaign=1051&utm_source=git)** | Columbus,OH,US | On Site | May 08 |
 | **[Dalfen Industrial](http://www.dalfen.com/)** | **[Industrial Real Estate Intern](https://jobright.ai/jobs/info/69fe11e6ad691a11f34eb966?utm_campaign=1051&utm_source=git)** | Dallas, TX, US | On Site | May 08 |
@@ -117,17 +116,17 @@ For a complete list, click the following sortable link below:
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fcd1e4938a651755f96bb4?utm_campaign=1051&utm_source=git)** | Uniondale, NY | On Site | May 07 |
 | **[SSF Imported Auto Parts LLC](https://www.ssfautoparts.com)** | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd166432a3c4da8dff365?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | Remote | May 07 |
 | ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd161432a3c4da8dff362?utm_campaign=1051&utm_source=git)** | San Diego, CA, US | Remote | May 07 |
-| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35d?utm_campaign=1051&utm_source=git)** | Norcross, GA, US | Remote | May 07 |
-| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff357?utm_campaign=1051&utm_source=git)** | South San Francisco, CA, US | Remote | May 07 |
-| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35b?utm_campaign=1051&utm_source=git)** | Houston, TX, US | Remote | May 07 |
-| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35c?utm_campaign=1051&utm_source=git)** | Kennesaw, GA, US | Remote | May 07 |
-| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35f?utm_campaign=1051&utm_source=git)** | Carson, CA, US | Remote | May 07 |
-| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff358?utm_campaign=1051&utm_source=git)** | Irvine, CA, US | Remote | May 07 |
-| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35e?utm_campaign=1051&utm_source=git)** | Las Vegas, NV, US | Remote | May 07 |
 | ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff359?utm_campaign=1051&utm_source=git)** | Oakland, CA, US | Remote | May 07 |
 | ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35a?utm_campaign=1051&utm_source=git)** | Van Nuys, CA, US | Remote | May 07 |
-| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd15f432a3c4da8dff354?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL, US | Remote | May 07 |
+| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35c?utm_campaign=1051&utm_source=git)** | Kennesaw, GA, US | Remote | May 07 |
+| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff357?utm_campaign=1051&utm_source=git)** | South San Francisco, CA, US | Remote | May 07 |
+| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff358?utm_campaign=1051&utm_source=git)** | Irvine, CA, US | Remote | May 07 |
+| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35e?utm_campaign=1051&utm_source=git)** | Las Vegas, NV, US | Remote | May 07 |
+| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35b?utm_campaign=1051&utm_source=git)** | Houston, TX, US | Remote | May 07 |
+| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35d?utm_campaign=1051&utm_source=git)** | Norcross, GA, US | Remote | May 07 |
+| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35f?utm_campaign=1051&utm_source=git)** | Carson, CA, US | Remote | May 07 |
 | ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd15f432a3c4da8dff355?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | Remote | May 07 |
+| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd15f432a3c4da8dff354?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL, US | Remote | May 07 |
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fcce945cff890b03f339d3?utm_campaign=1051&utm_source=git)** | Nassau County, NY | On Site | May 07 |
 | **[Black Book](https://www.blackbook.com)** | **[Sales Operations Intern (PT)](https://jobright.ai/jobs/info/69c81d9baa3c2c1995e1d2ec?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | Hybrid | May 07 |
 | **[Mountfitchet Group](https://mountfitchet.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fcc91ab113035a9f8eb9f7?utm_campaign=1051&utm_source=git)** | 1200 RXR Plaza, Uniondale, NY 11553, USA | On Site | May 07 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Alice & Bob](https://alice-bob.com)** | **[Quantum Technical Business Development Internship- US](https://jobright.ai/jobs/info/69f0979bb27fee43e8cd3979?utm_campaign=1051&utm_source=git)** | Boston | Hybrid | May 07 |
 | **[Rinker Materials](http://www.rinkerpipe.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/696ffb573ed06875134afc7a?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Risk Management and Insurance Summer Internship](https://jobright.ai/jobs/info/69fc6e00e17071257af1a905?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ, US | Hybrid | May 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6dddb113035a9f8e8c6b?utm_campaign=1051&utm_source=git)** | Atlanta, GA, US | On Site | May 07 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6deb6b788e7e7a5bf958?utm_campaign=1051&utm_source=git)** | Washington, DC, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
