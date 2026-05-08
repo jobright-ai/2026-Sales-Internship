@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Intern](https://jobright.ai/jobs/info/69fdff774b9bbf21744adc0d?utm_campaign=1051&utm_source=git)** | Rogers, AR, United States | On Site | May 08 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Annuity Sales Support Associate - Sales  Intern](https://jobright.ai/jobs/info/69fdfdaf6bcf315dc8f53fb5?utm_campaign=1051&utm_source=git)** | Eden Prairie, Minnesota, United States | On Site | May 08 |
+| **[Work at County](workatcounty.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fdfa754b9bbf21744ada0d?utm_campaign=1051&utm_source=git)** | Roberts, WI 54023, USA | On Site | May 08 |
+| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Sales Intern / Detroit](https://jobright.ai/jobs/info/69fdf862f363bc4dc339ad64?utm_campaign=1051&utm_source=git)** | Detroit, MI, US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Development Intern (Oil & Gas)](https://jobright.ai/jobs/info/69fdf1de52e2b44f558ad7f4?utm_campaign=1051&utm_source=git)** | Houston, TX, US | On Site | May 08 |
 | **[Eben Home](https://www.ebenhome.co)** | **[Business Development Intern — Help us build the US from the ground up](https://jobright.ai/jobs/info/69fdefae6bcf315dc8f53a72?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 08 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[SALES INTERN](https://jobright.ai/jobs/info/69a8029f76bbe83d3afb77a8?utm_campaign=1051&utm_source=git)** | Derry, NH | On Site | May 08 |
 | **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern](https://jobright.ai/jobs/info/69fd82eead691a11f34e9bde?utm_campaign=1051&utm_source=git)** | Redford, MI | On Site | May 07 |
 | **[Electro](electrogum.com)** | **[Athlete Partnerships Intern](https://jobright.ai/jobs/info/69fd8204ad691a11f34e9b13?utm_campaign=1051&utm_source=git)** | United States | Remote | May 07 |
-| **[Obsidian Luxe Holdings LLC](http://www.obsidianluxeholdingsllc.com/)** | **[Loan Officer Intern](https://jobright.ai/jobs/info/69fd8272f363bc4dc3398866?utm_campaign=1051&utm_source=git)** | United States | Remote | May 07 |
 | **[Weidner Apartment Homes](https://www.weidner.com/)** | **[Intern Office](https://jobright.ai/jobs/info/69fd4eaee7252f429d40f162?utm_campaign=1051&utm_source=git)** | Anchorage, AK 99518 | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Residential New Construction Sales Intern](https://jobright.ai/jobs/info/69fd4cb16b5b765031e8222e?utm_campaign=1051&utm_source=git)** | Miamisburg, OH, US | On Site | May 07 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Ticket Sales & Service](https://jobright.ai/jobs/info/69fd3a3f938a651755f99920?utm_campaign=1051&utm_source=git)** | Phoenix, AZ 85004, USA | On Site | May 07 |
@@ -94,17 +97,17 @@ For a complete list, click the following sortable link below:
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fcd1e4938a651755f96bb4?utm_campaign=1051&utm_source=git)** | Uniondale, NY | On Site | May 07 |
 | **[SSF Imported Auto Parts LLC](https://www.ssfautoparts.com)** | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd166432a3c4da8dff365?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | Remote | May 07 |
 | ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd161432a3c4da8dff362?utm_campaign=1051&utm_source=git)** | San Diego, CA, US | Remote | May 07 |
-| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35a?utm_campaign=1051&utm_source=git)** | Van Nuys, CA, US | Remote | May 07 |
-| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35b?utm_campaign=1051&utm_source=git)** | Houston, TX, US | Remote | May 07 |
-| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35d?utm_campaign=1051&utm_source=git)** | Norcross, GA, US | Remote | May 07 |
-| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35e?utm_campaign=1051&utm_source=git)** | Las Vegas, NV, US | Remote | May 07 |
 | ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35f?utm_campaign=1051&utm_source=git)** | Carson, CA, US | Remote | May 07 |
-| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff357?utm_campaign=1051&utm_source=git)** | South San Francisco, CA, US | Remote | May 07 |
+| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35e?utm_campaign=1051&utm_source=git)** | Las Vegas, NV, US | Remote | May 07 |
 | ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35c?utm_campaign=1051&utm_source=git)** | Kennesaw, GA, US | Remote | May 07 |
-| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff359?utm_campaign=1051&utm_source=git)** | Oakland, CA, US | Remote | May 07 |
+| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff357?utm_campaign=1051&utm_source=git)** | South San Francisco, CA, US | Remote | May 07 |
+| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35a?utm_campaign=1051&utm_source=git)** | Van Nuys, CA, US | Remote | May 07 |
 | ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff358?utm_campaign=1051&utm_source=git)** | Irvine, CA, US | Remote | May 07 |
-| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd15f432a3c4da8dff354?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL, US | Remote | May 07 |
+| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35b?utm_campaign=1051&utm_source=git)** | Houston, TX, US | Remote | May 07 |
+| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff359?utm_campaign=1051&utm_source=git)** | Oakland, CA, US | Remote | May 07 |
+| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd160432a3c4da8dff35d?utm_campaign=1051&utm_source=git)** | Norcross, GA, US | Remote | May 07 |
 | ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd15f432a3c4da8dff355?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | Remote | May 07 |
+| ↳ | **[Sales Intern (Part-Time)](https://jobright.ai/jobs/info/69fcd15f432a3c4da8dff354?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL, US | Remote | May 07 |
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fcce945cff890b03f339d3?utm_campaign=1051&utm_source=git)** | Nassau County, NY | On Site | May 07 |
 | **[Black Book](https://www.blackbook.com)** | **[Sales Operations Intern (PT)](https://jobright.ai/jobs/info/69c81d9baa3c2c1995e1d2ec?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | Hybrid | May 07 |
 | **[Mountfitchet Group](https://mountfitchet.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fcc91ab113035a9f8eb9f7?utm_campaign=1051&utm_source=git)** | 1200 RXR Plaza, Uniondale, NY 11553, USA | On Site | May 07 |
@@ -135,26 +138,23 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Risk Management and Insurance Summer Internship](https://jobright.ai/jobs/info/69fc6e00e17071257af1a905?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ, US | Hybrid | May 07 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6dddb113035a9f8e8c6b?utm_campaign=1051&utm_source=git)** | Atlanta, GA, US | On Site | May 07 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6deb6b788e7e7a5bf958?utm_campaign=1051&utm_source=git)** | Washington, DC, US | On Site | May 07 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6dc8e17071257af1a848?utm_campaign=1051&utm_source=git)** | Middleton, MA, US | On Site | May 07 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6e085cff890b03f3086a?utm_campaign=1051&utm_source=git)** | Omaha, NE, US | On Site | May 07 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6deb6b788e7e7a5bf959?utm_campaign=1051&utm_source=git)** | Minneapolis, MN, US | On Site | May 07 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6e79666f063d3d6cd817?utm_campaign=1051&utm_source=git)** | MO, US | On Site | May 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6e085cff890b03f3086a?utm_campaign=1051&utm_source=git)** | Omaha, NE, US | On Site | May 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6dc8e17071257af1a848?utm_campaign=1051&utm_source=git)** | Middleton, MA, US | On Site | May 07 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6e79666f063d3d6cd814?utm_campaign=1051&utm_source=git)** | Princeton, NJ, US | On Site | May 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6deb6b788e7e7a5bf959?utm_campaign=1051&utm_source=git)** | Minneapolis, MN, US | On Site | May 07 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6d87938a651755f939d3?utm_campaign=1051&utm_source=git)** | West Des Moines, IA, US | On Site | May 07 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6e79666f063d3d6cd816?utm_campaign=1051&utm_source=git)** | MN, US | On Site | May 07 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6de26b788e7e7a5bf940?utm_campaign=1051&utm_source=git)** | New Haven, CT, US | On Site | May 07 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6de36b788e7e7a5bf94c?utm_campaign=1051&utm_source=git)** | Orlando, FL, US | On Site | May 07 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6dc8e17071257af1a846?utm_campaign=1051&utm_source=git)** | Manchester, NH, US | On Site | May 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6e79666f063d3d6cd816?utm_campaign=1051&utm_source=git)** | MN, US | On Site | May 07 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6dc9e17071257af1a852?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, US | On Site | May 07 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6ddeb113035a9f8e8c72?utm_campaign=1051&utm_source=git)** | Bozeman, MT, US | On Site | May 07 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6ddeb113035a9f8e8c76?utm_campaign=1051&utm_source=git)** | Florham Park, NJ, US | On Site | May 07 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6e075cff890b03f30862?utm_campaign=1051&utm_source=git)** | Baltimore, MD, US | On Site | May 07 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6ddeb113035a9f8e8c6f?utm_campaign=1051&utm_source=git)** | Springfield, MA, US | On Site | May 07 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6dc8e17071257af1a84d?utm_campaign=1051&utm_source=git)** | Denver, CO, US | On Site | May 07 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6de36b788e7e7a5bf94a?utm_campaign=1051&utm_source=git)** | NY, US | On Site | May 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6dc8e17071257af1a846?utm_campaign=1051&utm_source=git)** | Manchester, NH, US | On Site | May 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6ddeb113035a9f8e8c72?utm_campaign=1051&utm_source=git)** | Bozeman, MT, US | On Site | May 07 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6d87938a651755f939db?utm_campaign=1051&utm_source=git)** | Melville, NY, US | On Site | May 07 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6e025cff890b03f30858?utm_campaign=1051&utm_source=git)** | Rockland, MA, US | On Site | May 07 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6de26b788e7e7a5bf942?utm_campaign=1051&utm_source=git)** | NJ, US | On Site | May 07 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6ddeb113035a9f8e8c6d?utm_campaign=1051&utm_source=git)** | Boston, MA, US | On Site | May 07 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6d87938a651755f939d4?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, US | On Site | May 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6d87938a651755f939d9?utm_campaign=1051&utm_source=git)** | Chicago, IL, US | On Site | May 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6e085cff890b03f30868?utm_campaign=1051&utm_source=git)** | IL, US | On Site | May 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6dc7e17071257af1a83d?utm_campaign=1051&utm_source=git)** | Hartford, CT, US | On Site | May 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69fc6e035cff890b03f3085c?utm_campaign=1051&utm_source=git)** | Deerfield, IL, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
