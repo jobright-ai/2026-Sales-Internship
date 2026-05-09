@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Risewell Homes](http://www.risewellhomes.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69e2e3dc5c44d4710fe2752f?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | May 09 |
+| **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69e901737820c036924e46c3?utm_campaign=1051&utm_source=git)** | Londonderry, NH | On Site | May 09 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[After Sales and Client Services Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fcb91f59c56275e2d00d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 09 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Box Office](https://jobright.ai/jobs/info/69c5af4b1b5ad02887377dc2?utm_campaign=1051&utm_source=git)** | Harrison, NJ | On Site | May 09 |
 | **[New York Hilton Midtown](http://www.newyorkhiltonmidtown.com)** | **[Front Office Rooms Operations Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/69f824d2582f810f9c8ccea9?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 09 |
@@ -111,17 +113,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d44b9bbf21744b0c5f?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d26bcf315dc8f56eb4?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d26bcf315dc8f56eb5?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | May 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069d?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | Remote | May 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069f?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069d?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c94b9bbf21744b0c3c?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c852e2b44f558b0b46?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e89?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e86?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e87?utm_campaign=1051&utm_source=git)** | Nashville, TN | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e8d?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | May 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e86?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | May 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e89?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e8a?utm_campaign=1051&utm_source=git)** | Cincinnati Metro | Remote | May 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e8d?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c4ad691a11f34ed350?utm_campaign=1051&utm_source=git)** | Cleveland, OH | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c47714cd50b910067b?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | May 08 |
 | **[Savory Hospitality](http://savory.com)** | **[Sales and Hospitality Intern](https://jobright.ai/jobs/info/69fe53a64b9bbf21744b0b4e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Sales Intern / Detroit](https://jobright.ai/jobs/info/69fe0e2352e2b44f558ae297?utm_campaign=1051&utm_source=git)** | Detroit, MI, US | On Site | May 08 |
 | **[Skydio](https://www.skydio.com)** | **[Sales Planning Analyst Intern](https://jobright.ai/jobs/info/69c5ab70aa3c2c1995e02e3d?utm_campaign=1051&utm_source=git)** | San Mateo, CA | Hybrid | May 08 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Annuity Sales Support Associate - Sales  Intern](https://jobright.ai/jobs/info/69fdfdaf6bcf315dc8f53fb5?utm_campaign=1051&utm_source=git)** | Eden Prairie, Minnesota, United States | On Site | May 08 |
-| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Sales Intern / Detroit](https://jobright.ai/jobs/info/69fdf862f363bc4dc339ad64?utm_campaign=1051&utm_source=git)** | Detroit, MI, US | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Business Development Intern (Oil & Gas)](https://jobright.ai/jobs/info/69fdf1de52e2b44f558ad7f4?utm_campaign=1051&utm_source=git)** | Houston, TX, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
