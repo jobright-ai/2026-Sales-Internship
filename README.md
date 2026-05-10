@@ -124,23 +124,24 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d44b9bbf21744b0c5f?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d26bcf315dc8f56eb4?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d26bcf315dc8f56eb5?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069d?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069f?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | May 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069d?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c94b9bbf21744b0c3c?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c852e2b44f558b0b46?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e87?utm_campaign=1051&utm_source=git)** | Nashville, TN | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e86?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e8a?utm_campaign=1051&utm_source=git)** | Cincinnati Metro | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e8d?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e89?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c47714cd50b910067b?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | May 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e86?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | May 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e8d?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | May 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e8a?utm_campaign=1051&utm_source=git)** | Cincinnati Metro | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c4ad691a11f34ed350?utm_campaign=1051&utm_source=git)** | Cleveland, OH | Remote | May 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c47714cd50b910067b?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | May 08 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Expansion Capital- Summer Internship](https://jobright.ai/jobs/info/69feb2d81161630dd3b01bc3?utm_campaign=1051&utm_source=git)** | 1585 Broadway- NY, US | On Site | May 08 |
 | **[FirstCall Group](https://firstcallmechanical.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69fe4c14f363bc4dc339dd78?utm_campaign=1051&utm_source=git)** | LC Anderson Inc - Brighton, MA 02135 | On Site | May 08 |
 | **[C2H Air and Electric](http://c2hae.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69fe4bbe4b9bbf21744b0827?utm_campaign=1051&utm_source=git)** | LC Anderson Inc - Brighton, MA 02135 | On Site | May 08 |
 | **[Grayscale Investments](https://grayscale.com)** | **[Distribution Intern](https://jobright.ai/jobs/info/69f50200db88714bcdfb16e0?utm_campaign=1051&utm_source=git)** | Stamford, Connecticut, United States | On Site | May 08 |
+| **[Definity](https://www.definityfinancial.com/)** | **[National Strategic Placements - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a000fc174b5407dd4677699?utm_campaign=1051&utm_source=git)** | Toronto, ONT, Canada | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Conversation Design Intern (Customer Success)](https://jobright.ai/jobs/info/69fe49844b9bbf21744b06c9?utm_campaign=1051&utm_source=git)** | United States | Remote | May 08 |
 | ↳ | **[Partner Coordinator Intern](https://jobright.ai/jobs/info/69fe487af363bc4dc339d9d0?utm_campaign=1051&utm_source=git)** | Durham, NC, US | On Site | May 08 |
 | ↳ | **[Intern, Property Management](https://jobright.ai/jobs/info/69fe467552e2b44f558b022f?utm_campaign=1051&utm_source=git)** | Pflugerville, TX, US | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Solutions Internship - Boston, Summer 2026](https://jobright.ai/jobs/info/69fe2b027714cd50b90fe930?utm_campaign=1051&utm_source=git)** | Boston, MA, US | On Site | May 08 |
 | ↳ | **[Sales Intern - Summer 2026 [Kinetyc]](https://jobright.ai/jobs/info/69fe2a846bcf315dc8f550e8?utm_campaign=1051&utm_source=git)** | Wixom, MI, US | On Site | May 08 |
 | ↳ | **[Industrial Real Estate Intern](https://jobright.ai/jobs/info/69fe2a627714cd50b90fe8bc?utm_campaign=1051&utm_source=git)** | Dallas, TX, US | On Site | May 08 |
-| ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/69fe2a394b9bbf21744aebe3?utm_campaign=1051&utm_source=git)** | United States | Remote | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
