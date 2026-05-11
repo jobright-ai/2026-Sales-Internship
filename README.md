@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Sales Representative - Summer College Internship 2026](https://jobright.ai/jobs/info/6a01f4bdfa1aa73213d95a5a?utm_campaign=1051&utm_source=git)** | San Antonio area, US | On Site | May 11 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a01ee43c2ffb31f453687fe?utm_campaign=1051&utm_source=git)** | Oconomowoc, Wisconsin, US | On Site | May 11 |
+| **[Chesapeake Bay Trust](https://cbtrust.org/)** | **[Development Intern](https://jobright.ai/jobs/info/6a01ed3cc2ffb31f45368782?utm_campaign=1051&utm_source=git)** | Annapolis, Maryland, United States | Hybrid | May 11 |
+| **[Shopko Optical](http://www.shopko.com)** | **[Store Development Real Estate Intern](https://jobright.ai/jobs/info/6a01ec96df52f1450d8462ab?utm_campaign=1051&utm_source=git)** | Green Bay, WI, US | On Site | May 11 |
 | **[Ascend Marketing](https://ascendmarketers.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a01ea92df52f1450d846158?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | May 11 |
 | **[Summit Solutions New York](https://www.summitsolutionsnewyork.com/)** | **[Client Relations Intern](https://jobright.ai/jobs/info/6a01ea67c4b08448a0b217d0?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 11 |
 | **[mogul](https://www.mogul.club/)** | **[GTM: Sales Development Intern — Summer 2026](https://jobright.ai/jobs/info/6a01dd65238f143e8352e651?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | May 11 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Saber Power](http://www.saberpower.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fe634452e2b44f558b160c?utm_campaign=1051&utm_source=git)** | Gulf Coast, Rosharon, TX, US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Proposal Intern](https://jobright.ai/jobs/info/69fe62c56bcf315dc8f57463?utm_campaign=1051&utm_source=git)** | Chesapeake, VA, US | On Site | May 08 |
 | **[Allstate](http://www.allstate.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69feb3111161630dd3b01d1a?utm_campaign=1051&utm_source=git)** | USA - IL (Remote), US | Remote | May 08 |
-| **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d9f363bc4dc339dfee?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d9f363bc4dc339dfed?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d652e2b44f558b0b76?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d652e2b44f558b0b75?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d652e2b44f558b0b77?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | May 08 |
+| **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d9f363bc4dc339dfed?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
