@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tierwest](https://tierwestusa.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/6a016b32c4b08448a0b1ef10?utm_campaign=1051&utm_source=git)** | El Paso Metro | On Site | May 10 |
+| **[Indux Technology](https://www.induxtechnology.com/)** | **[Business Development Associate Intern](https://jobright.ai/jobs/info/6a0167c6c4b08448a0b1ea6f?utm_campaign=1051&utm_source=git)** | United States | Remote | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Client Success Internship](https://jobright.ai/jobs/info/6a0159ddfa1aa73213d92b88?utm_campaign=1051&utm_source=git)** | Chicago, IL, US | Hybrid | May 10 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/695c3ab222c9dc0d3d54195c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | May 10 |
 | **[Valemont Group](https://www.linkedin.com/company/109316021)** | **[Private Equity Sales Internship](https://jobright.ai/jobs/info/6a014d02c4b08448a0b1e343?utm_campaign=1051&utm_source=git)** | United States | Remote | May 10 |
@@ -73,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Seller Live Project Intern (TikTok Shop Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69706c8351f726477182c19d?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 10 |
 | **[Smartly](http://smartly.io)** | **[Sales Enablement & Competitive Intelligence Intern](https://jobright.ai/jobs/info/69dd9c1c35a2b346b20b1ec1?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | May 10 |
 | **[Moburst - Growth Done Right](http://www.moburst.com)** | **[Business Development/Sales, Paid Internship](https://jobright.ai/jobs/info/6a004076a0eddc08c239b938?utm_campaign=1051&utm_source=git)** | New York, NY, USA | On Site | May 10 |
+| **[Augmenting Advisors (WRA)](www.https://augmentingadvisors.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a016a04a0eddc08c239f917?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | May 09 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern - Bilingual English/Spanish](https://jobright.ai/jobs/info/699ff1d781476f6176b9d13f?utm_campaign=1051&utm_source=git)** | Pasadena, CA | On Site | May 09 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69bc28d845e08b3dc1f86490?utm_campaign=1051&utm_source=git)** | Pasadena, CA | On Site | May 09 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Corporate Development Intern – 2026](https://jobright.ai/jobs/info/69f5f58612f2811ab5a66516?utm_campaign=1051&utm_source=git)** | Richmond, VA | Hybrid | May 09 |
@@ -82,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69e901737820c036924e46c3?utm_campaign=1051&utm_source=git)** | Londonderry, NH | On Site | May 09 |
 | **[Weight Watchers](https://corporate.ww.com/home/default.aspx)** | **[Sales - Summer Intern](https://jobright.ai/jobs/info/69cc504a366bb95ba54eed6a?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | May 09 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Sales Intern / Fall 2026](https://jobright.ai/jobs/info/69dd09d9bc6f6622c9910087?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | Remote | May 09 |
+| **[Legacy Strategic Consulting](https://legacystrategicconsulting.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a01686ea0eddc08c239f609?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | May 09 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Sales Process Specialist](https://jobright.ai/jobs/info/69c8c39a1818a24cd84d6b7f?utm_campaign=1051&utm_source=git)** | Melville, NY | Hybrid | May 09 |
 | **[National Life Group](https://www.nationallife.com)** | **[Internal Wholesaler - Distribution (Mandarin Speaking)](https://jobright.ai/jobs/info/6971a03a587dfa0bb55f4e4a?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | May 09 |
 | ↳ | **[Internal Wholesaler - Distribution](https://jobright.ai/jobs/info/69719c4c51f726477183f620?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | May 09 |
@@ -143,18 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d9f363bc4dc339dfee?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d9f363bc4dc339dfed?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d652e2b44f558b0b77?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | May 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d652e2b44f558b0b74?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d652e2b44f558b0b76?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d652e2b44f558b0b75?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d652e2b44f558b0b74?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d5ad691a11f34ed37d?utm_campaign=1051&utm_source=git)** | Orlando, FL | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d44b9bbf21744b0c5f?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d26bcf315dc8f56eb5?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d26bcf315dc8f56eb4?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | May 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d26bcf315dc8f56eb5?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | May 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069d?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | Remote | May 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069f?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57cf7714cd50b910069c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c94b9bbf21744b0c3c?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c852e2b44f558b0b46?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57c56bcf315dc8f56e8d?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
