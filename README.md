@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Ascend Marketing](https://ascendmarketers.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a01ea92df52f1450d846158?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | May 11 |
 | **[Summit Solutions New York](https://www.summitsolutionsnewyork.com/)** | **[Client Relations Intern](https://jobright.ai/jobs/info/6a01ea67c4b08448a0b217d0?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 11 |
 | **[mogul](https://www.mogul.club/)** | **[GTM: Sales Development Intern — Summer 2026](https://jobright.ai/jobs/info/6a01dd65238f143e8352e651?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | May 11 |
+| **[Embark Agency](https://www.theembarkagency.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fb811086d5cd46527d603c?utm_campaign=1051&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | May 11 |
 | **[Finish Line Promotions](https://finishlinepromotionsclt.com/)** | **[Graduate Sales Intern](https://jobright.ai/jobs/info/6a01bc70c2ffb31f45366c87?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 11 |
 | **[Victory Branding](https://victorybranding.org/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/69f8f80db1fc847fc1aea034?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | May 11 |
 | **[Landmark Advisors](http://landmarkadv.com)** | **[Strategic Business Intern (M&A, Sales & Media Production)](https://jobright.ai/jobs/info/6a01b32f3053db70a11718b8?utm_campaign=1051&utm_source=git)** | Carmel, IN | Hybrid | May 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Saber Power](http://www.saberpower.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fe634452e2b44f558b160c?utm_campaign=1051&utm_source=git)** | Gulf Coast, Rosharon, TX, US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Proposal Intern](https://jobright.ai/jobs/info/69fe62c56bcf315dc8f57463?utm_campaign=1051&utm_source=git)** | Chesapeake, VA, US | On Site | May 08 |
 | **[Allstate](http://www.allstate.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69feb3111161630dd3b01d1a?utm_campaign=1051&utm_source=git)** | USA - IL (Remote), US | Remote | May 08 |
-| **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe57d9f363bc4dc339dfed?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
