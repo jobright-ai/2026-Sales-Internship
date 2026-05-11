@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Samba TV](http://www.samba.tv)** | **[Commercial Partnerships Intern](https://jobright.ai/jobs/info/69ca9a80466f1e133aac523a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 11 |
+| **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69699797f25a380066985233?utm_campaign=1051&utm_source=git)** | Omaha Metropolitan Area | On Site | May 11 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69efd35fe624fe645d5337dd?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | May 11 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69696c2c639b452fb57f430b?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | May 11 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69697a23639b452fb57f5a05?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | May 11 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/696981ca1703f05405ab6d2e?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | May 11 |
+| **[HawkBrook](https://www.hawk-brook.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/6a023008c2ffb31f4536aad7?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 11 |
+| **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/6969864ef25a380066982b79?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | May 11 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69697a0e639b452fb57f59f6?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | May 11 |
+| **[Healthee](https://healthee.com)** | **[New Ventures Manager - Summer MBA Intern](https://jobright.ai/jobs/info/6a022e16fa1aa73213d974a7?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | May 11 |
+| **[Margaritaville at Sea](https://margaritavilleatsea.com)** | **[Retail Intern](https://jobright.ai/jobs/info/6a0226f2c2ffb31f4536a148?utm_campaign=1051&utm_source=git)** | Orlando Office - Orlando, FL 32801 | On Site | May 11 |
 | **[Skeena Gold + Silver](https://skeenagoldsilver.com)** | **[Intern, Indigenous and Regulatory Partnerships](https://jobright.ai/jobs/info/6a022391c4b08448a0b23065?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 11 |
 | **[ProAmpac](http://www.proampac.com)** | **[Intern - Sales and Operating Planning](https://jobright.ai/jobs/info/6a02237d3053db70a1174a85?utm_campaign=1051&utm_source=git)** | Wrightstown, WI 54180, USA | On Site | May 11 |
 | **[barrière](https://www.mybarriere.com/)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/6a021e34238f143e835307a3?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | May 11 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Master Builders Solutions](https://www.master-builders-solutions.com/en-in)** | **[Technical Sales & Operations Intern](https://jobright.ai/jobs/info/68f1bde5ef766b3f0fd119d3?utm_campaign=1051&utm_source=git)** | Beachwood, OH | On Site | May 08 |
 | **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Fund Development Intern (Association Office)](https://jobright.ai/jobs/info/69fb109187a4820e6da846c2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 08 |
 | **[as i am](https://www.asiamnaturally.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fe9e5b4b9bbf21744b2685?utm_campaign=1051&utm_source=git)** | United States | Remote | May 08 |
-| **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Client Success Renewal Specialist](https://jobright.ai/jobs/info/69fb1e0ce156000841156715?utm_campaign=1051&utm_source=git)** | United States | Remote | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Bid Management Intern](https://jobright.ai/jobs/info/69fe82bd4b9bbf21744b1f62?utm_campaign=1051&utm_source=git)** | United States | Remote | May 08 |
-| ↳ | **[Sales Practicum Intern](https://jobright.ai/jobs/info/69fe82acad691a11f34ee247?utm_campaign=1051&utm_source=git)** | KS, US | On Site | May 08 |
-| ↳ | **[Expansion Capital- Summer Internship](https://jobright.ai/jobs/info/69fe829052e2b44f558b2246?utm_campaign=1051&utm_source=git)** | NY, US | On Site | May 08 |
-| **[Markato](https://wearemarkato.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69fb6d5187a4820e6da88205?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Summer Intern - Business Development Representative](https://jobright.ai/jobs/info/69fe804af363bc4dc339f09a?utm_campaign=1051&utm_source=git)** | Littleton, MA, US | On Site | May 08 |
-| ↳ | **[Event Sales and Planning Intern](https://jobright.ai/jobs/info/69fe7e7f7714cd50b9101546?utm_campaign=1051&utm_source=git)** | Altoona, IA, US | On Site | May 08 |
-| **[Unbridled](https://www.unbridled.com/)** | **[Event Sales & Operations Intern](https://jobright.ai/jobs/info/69fe7ba2ad691a11f34edeb2?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | May 08 |
-| **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe6f627714cd50b91011bc?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | Remote | May 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fe6f20ad691a11f34edd2d?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Remote | May 08 |
-| **[US Claro](https://www.usclaro.com)** | **[Bid Management Intern](https://jobright.ai/jobs/info/69fe6b707714cd50b9101106?utm_campaign=1051&utm_source=git)** | UNAVAILABLE, FL, US | Remote | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
