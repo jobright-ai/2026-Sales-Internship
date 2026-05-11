@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MidFirst Bank](https://www.midfirst.com)** | **[Intern](https://jobright.ai/jobs/info/6a025c43fa1aa73213d99cb4?utm_campaign=1051&utm_source=git)** | Oklahoma City, Oklahoma, United States | On Site | May 11 |
+| **[M Booth](http://www.mbooth.com)** | **[Summer 2026 Intern, Strategic Partnerships](https://jobright.ai/jobs/info/6a025929c4b08448a0b25c2b?utm_campaign=1051&utm_source=git)** | NYC/HYBRID | Hybrid | May 11 |
 | **[EST Companies](https://www.estcos.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a024df03053db70a1176b54?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | May 11 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall Financial Representative Internship](https://jobright.ai/jobs/info/6a024def3053db70a1176b45?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | Hybrid | May 11 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a024a77238f143e83532a2c?utm_campaign=1051&utm_source=git)** | Irvine, CA, US | On Site | May 11 |
@@ -64,8 +66,10 @@ For a complete list, click the following sortable link below:
 | **[Parts Town](https://www.partstown.com)** | **[Purchasing Intern  (Hybrid Work Schedule)](https://jobright.ai/jobs/info/6a024690fa1aa73213d98ad8?utm_campaign=1051&utm_source=git)** | Addison, Illinois | Hybrid | May 11 |
 | **[Defy Detail Supplies](https://defydetail.store)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0242f1238f143e83532746?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | Hybrid | May 11 |
 | **[Parallax Advanced Research](https://parallaxresearch.org/)** | **[Business Development Intern (PT)](https://jobright.ai/jobs/info/6a024287c4b08448a0b24c51?utm_campaign=1051&utm_source=git)** | Beavercreek, OH | On Site | May 11 |
+| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Inventory Management](https://jobright.ai/jobs/info/697dfa3d7f40342e15d6cd91?utm_campaign=1051&utm_source=git)** | Port Washington, NY | On Site | May 11 |
 | **[Integrity](https://www.integrity.com)** | **[Agent Success Intern - Raleigh, NC](https://jobright.ai/jobs/info/6a02333ac2ffb31f4536adbb?utm_campaign=1051&utm_source=git)** | Raleigh, NC, US | On Site | May 11 |
 | **[Startuped](https://startuped.ai)** | **[Business Development Representative](https://jobright.ai/jobs/info/6a0232b33053db70a11757f2?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | May 11 |
+| **[Superior Sports](https://superior-sports.com/)** | **[Marketing Partnerships Intern](https://jobright.ai/jobs/info/6a0254a9238f143e83533419?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | Remote | May 11 |
 | **[The Social Chair](http://thesocialchair.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a023111238f143e83531824?utm_campaign=1051&utm_source=git)** | United States | Remote | May 11 |
 | **[Samba TV](http://www.samba.tv)** | **[Commercial Partnerships Intern](https://jobright.ai/jobs/info/69ca9a80466f1e133aac523a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69699797f25a380066985233?utm_campaign=1051&utm_source=git)** | Omaha Metropolitan Area | On Site | May 11 |
@@ -139,7 +143,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internal Wholesaler - Distribution](https://jobright.ai/jobs/info/69719c4c51f726477183f620?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | May 09 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Sales and Communication Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69aa26c09ca4e908ec656dd8?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | May 09 |
 | ↳ | **[After Sales and Client Services Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fcb91f59c56275e2d00d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 09 |
-| **[Recor Medical](http://recormedical.com)** | **[Sales Operations Intern – Data & Insights](https://jobright.ai/jobs/info/69e2dbbe5c44d4710fe27377?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | May 09 |
 | **[Cadent](http://www.cadent.tv)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69c5941b1818a24cd84b8111?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 09 |
 | **[STMicroelectronics](https://www.st.com)** | **[Technical Sales Engineering Intern](https://jobright.ai/jobs/info/698c992178b4502f12a31832?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | May 09 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69be80a64828227293014b65?utm_campaign=1051&utm_source=git)** | De Soto, KS | On Site | May 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Sales Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69fedb7ac4b08448a0b15e1e?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 09 |
 | ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69fedb78c4b08448a0b15e13?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 09 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69fedb6cfa1aa73213d89bff?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 08 |
-| **[ADP](http://www.adp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fedb04238f143e83522eb6?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 08 |
-| **[Influx](https://www.influxonline.co)** | **[Student Sales Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/69fed969a0eddc08c2396b57?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 08 |
-| **[United Airlines](https://www.united.com)** | **[Intern - Sales Strategy (Summer 2026)](https://jobright.ai/jobs/info/69fed728238f143e83522d61?utm_campaign=1051&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
