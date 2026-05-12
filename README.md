@@ -74,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Samba TV](http://www.samba.tv)** | **[Commercial Partnerships Intern](https://jobright.ai/jobs/info/69ca9a80466f1e133aac523a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69699797f25a380066985233?utm_campaign=1051&utm_source=git)** | Omaha Metropolitan Area | On Site | May 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69efd35fe624fe645d5337dd?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | May 11 |
-| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69696c2c639b452fb57f430b?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | May 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69697a23639b452fb57f5a05?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | May 11 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69696c2c639b452fb57f430b?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | May 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/696981ca1703f05405ab6d2e?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | May 11 |
 | **[HawkBrook](https://www.hawk-brook.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/6a023008c2ffb31f4536aad7?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 11 |
 | **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/6969864ef25a380066982b79?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | May 11 |
