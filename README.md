@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[Intern- Operations](https://jobright.ai/jobs/info/6a02978705484923de476820?utm_campaign=1051&utm_source=git)** | 320 W 36th St, New York, NY, 10018, US | On Site | May 11 |
 | **[Kiva](http://kiva.org)** | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0275a5fa1aa73213d9a520?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | May 11 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Business Development Commercial Accounts](https://jobright.ai/jobs/info/6984e94e348f733a5c3906d2?utm_campaign=1051&utm_source=git)** | Buford, GA | Hybrid | May 11 |
 | **[MidFirst Bank](https://www.midfirst.com)** | **[Intern](https://jobright.ai/jobs/info/6a025c43fa1aa73213d99cb4?utm_campaign=1051&utm_source=git)** | Oklahoma City, Oklahoma, United States | On Site | May 11 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Samba TV](http://www.samba.tv)** | **[Commercial Partnerships Intern](https://jobright.ai/jobs/info/69ca9a80466f1e133aac523a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69699797f25a380066985233?utm_campaign=1051&utm_source=git)** | Omaha Metropolitan Area | On Site | May 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69efd35fe624fe645d5337dd?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | May 11 |
-| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69696c2c639b452fb57f430b?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | May 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69697a23639b452fb57f5a05?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | May 11 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69696c2c639b452fb57f430b?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | May 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/696981ca1703f05405ab6d2e?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | May 11 |
 | **[HawkBrook](https://www.hawk-brook.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/6a023008c2ffb31f4536aad7?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 11 |
 | **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/6969864ef25a380066982b79?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | May 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cadent](http://www.cadent.tv)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69c5941b1818a24cd84b8111?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 09 |
 | **[STMicroelectronics](https://www.st.com)** | **[Technical Sales Engineering Intern](https://jobright.ai/jobs/info/698c992178b4502f12a31832?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | May 09 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69be80a64828227293014b65?utm_campaign=1051&utm_source=git)** | De Soto, KS | On Site | May 09 |
-| **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Box Office](https://jobright.ai/jobs/info/69c5af4b1b5ad02887377dc2?utm_campaign=1051&utm_source=git)** | Harrison, NJ | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
