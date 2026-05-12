@@ -83,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[EST Companies](https://www.estcos.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a024df03053db70a1176b54?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | May 11 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall Financial Representative Internship](https://jobright.ai/jobs/info/6a024def3053db70a1176b45?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | Hybrid | May 11 |
 | **[Parallax Advanced Research](https://parallaxresearch.org/)** | **[Business Development Intern (PT)](https://jobright.ai/jobs/info/6a0311c0f3d6cc51d6373341?utm_campaign=1051&utm_source=git)** | Beavercreek, OH | On Site | May 11 |
-| **[North](https://www.north.com/)** | **[Realta Intern](https://jobright.ai/jobs/info/6a0312bbed6a637463f4c718?utm_campaign=1051&utm_source=git)** | United States | Remote | May 11 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a024a77238f143e83532a2c?utm_campaign=1051&utm_source=git)** | Irvine, CA, US | On Site | May 11 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a024a293053db70a1176872?utm_campaign=1051&utm_source=git)** | US-CA-Irvine | On Site | May 11 |
 | **[Skeena Gold + Silver](https://skeenagoldsilver.com)** | **[Intern, Indigenous and Regulatory Partnerships](https://jobright.ai/jobs/info/6a0311f96c07461fe170079b?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 11 |
@@ -104,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Samba TV](http://www.samba.tv)** | **[Commercial Partnerships Intern](https://jobright.ai/jobs/info/69ca9a80466f1e133aac523a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69699797f25a380066985233?utm_campaign=1051&utm_source=git)** | Omaha Metropolitan Area | On Site | May 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69efd35fe624fe645d5337dd?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | May 11 |
-| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69696c2c639b452fb57f430b?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | May 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69697a23639b452fb57f5a05?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | May 11 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69696c2c639b452fb57f430b?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | May 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/696981ca1703f05405ab6d2e?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | May 11 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Business Development Commercial Accounts](https://jobright.ai/jobs/info/6984e3b08da7a612045f2f5d?utm_campaign=1051&utm_source=git)** | Buford, GA | On Site | May 11 |
 | **[HawkBrook](https://www.hawk-brook.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/6a023008c2ffb31f4536aad7?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Embark Agency](https://www.theembarkagency.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fb811086d5cd46527d603c?utm_campaign=1051&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | May 11 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Summer Sales & Marketing Intern](https://jobright.ai/jobs/info/68cb7413efdec76df36bce5d?utm_campaign=1051&utm_source=git)** | Kaukauna, WI | On Site | May 11 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a02e55eed6a637463f4a8a3?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | May 11 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Wealth Management - ScotiaMcLeod Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6aae0cd471b2f123244?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
