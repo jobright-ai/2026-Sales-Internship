@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Selene Finance LP](https://seleneadvantage.com)** | **[Internship - Mortgage Servicing](https://jobright.ai/jobs/info/69e6d5c93cfd986aa6f87bc0?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | May 12 |
+| **[Sage by N2 Content Marketing](https://sage.n2contentmarketing.com/)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a035c246c07461fe17034ca?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | May 12 |
+| **[Soaring Eagle Casino & Resort](https://www.soaringeaglecasino.com/)** | **[MIG Leasing Agent PT / Summer Intern position](https://jobright.ai/jobs/info/6a035a537c753c287f6e6416?utm_campaign=1051&utm_source=git)** | Mt Pleasant, MI 48858, USA | Hybrid | May 12 |
+| **[INSURICA](http://insurica.com/)** | **[General Insurance Intern](https://jobright.ai/jobs/info/6a0359b522395b6dc6d93a1f?utm_campaign=1051&utm_source=git)** | Tulsa Branch - TULSA, OK 74119 | On Site | May 12 |
 | **[Triumvirate Environmental](http://www.triumvirate.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a0355ee22395b6dc6d93791?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | May 12 |
 | **[NiCE](http://nice.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a035446ed6a637463f4ec1d?utm_campaign=1051&utm_source=git)** | USA - Hoboken, NJ | On Site | May 12 |
 | **[AB InBev APAC](http://www.ab-inbev.cn/)** | **[2023 SET(Sales Execellent Trainee) Summer Intern 채용 (Test)](https://jobright.ai/jobs/info/69d20df4891d7b11cfce9004?utm_campaign=1051&utm_source=git)** | Tower, MN | On Site | May 12 |
 | **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/6a034f66ed6a637463f4e85d?utm_campaign=1051&utm_source=git)** | Irving, TX | Hybrid | May 12 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dec962aba61f1417317b67?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | May 12 |
 | **[Mannix Marketing](https://www.mannixmarketing.com)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a03496eed6a637463f4e5ea?utm_campaign=1051&utm_source=git)** | Queensbury, NY | Remote | May 12 |
-| **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0348df6c07461fe17027a8?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | May 12 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Retail Sales (Summer)](https://jobright.ai/jobs/info/6a0348a86c07461fe170273e?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | May 12 |
 | **[Dash Social](https://www.dashsocial.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a0345c67c753c287f6e574f?utm_campaign=1051&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 12 |
 | **[Succession Partners](www.successionpartnersnc.com)** | **[Fintech Sales Intern](https://jobright.ai/jobs/info/6a0345b67c753c287f6e5714?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | May 12 |
@@ -76,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Sales / Supply Chain Intern](https://jobright.ai/jobs/info/69e75deb3aa0c47964399657?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | May 12 |
 | **[The Seagate Hotel, Golf & Beach Club, Autograph Collection](http://www.seagatedelray.com)** | **[Membership Intern](https://jobright.ai/jobs/info/6a033e74ed6a637463f4e112?utm_campaign=1051&utm_source=git)** | Miami-FTL Area | On Site | May 12 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a033e39ed6a637463f4e02d?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | May 12 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[GTB - Trade & Working Capital Solution Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/6a0365f27c753c287f6e6933?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
 | **[The Seagate Hotel, Golf & Beach Club, Autograph Collection](http://www.seagatedelray.com)** | **[Membership Intern](https://jobright.ai/jobs/info/6a033a7bed6a637463f4dc71?utm_campaign=1051&utm_source=git)** | Delray Beach, FL, US | On Site | May 12 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GTB - Trade & Working Capital Solution Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/6a03367f6c07461fe17017ca?utm_campaign=1051&utm_source=git)** | Toronto, ON, CA | On Site | May 12 |
 | **[TriSpan](https://www.trispanllp.com/)** | **[Deal Team Intern (US)](https://jobright.ai/jobs/info/6a03215e7c753c287f6e3f94?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | May 12 |
@@ -129,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Samba TV](http://www.samba.tv)** | **[Commercial Partnerships Intern](https://jobright.ai/jobs/info/69ca9a80466f1e133aac523a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69699797f25a380066985233?utm_campaign=1051&utm_source=git)** | Omaha Metropolitan Area | On Site | May 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69efd35fe624fe645d5337dd?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | May 11 |
-| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69696c2c639b452fb57f430b?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | May 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69697a23639b452fb57f5a05?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | May 11 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69696c2c639b452fb57f430b?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | May 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/696981ca1703f05405ab6d2e?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | May 11 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Business Development Commercial Accounts](https://jobright.ai/jobs/info/6984e3b08da7a612045f2f5d?utm_campaign=1051&utm_source=git)** | Buford, GA | On Site | May 11 |
 | **[HawkBrook](https://www.hawk-brook.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/6a023008c2ffb31f4536aad7?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68af4b992daaba398441cf2b?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | May 11 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a02fd3fed6a637463f4b076?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | May 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69bbd62c5b89c002acf09652?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE | On Site | May 11 |
-| **[Benchmark Gensuite®](https://benchmarkgensuite.com)** | **[[US] Subscriber Success Operations Intern](https://jobright.ai/jobs/info/69fb2aca18b94b2515be017f?utm_campaign=1051&utm_source=git)** | Mason, OH | Hybrid | May 11 |
-| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Selling - Intern](https://jobright.ai/jobs/info/6a02fd58ed6a637463f4b0c9?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | May 11 |
-| **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a020aabc4b08448a0b226db?utm_campaign=1051&utm_source=git)** | San Jose, CA, US | On Site | May 11 |
-| **[Our Sunday Visitor](https://www.osv.com/default.aspx)** | **[Temporary Account Implementation Intern](https://jobright.ai/jobs/info/6a02087edf52f1450d846efb?utm_campaign=1051&utm_source=git)** | Indiana, Huntington, IN, US | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
