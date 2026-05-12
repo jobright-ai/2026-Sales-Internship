@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[bellFace.inc](https://corp.bell-face.com/)** | **[GTM & Business Development Intern](https://jobright.ai/jobs/info/6a02ebfd22395b6dc6d8f586?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Hybrid | May 12 |
 | **[DRB Homes](http://danryanbuilders.com)** | **[Intern](https://jobright.ai/jobs/info/68dd5746a125e75c422a9d11?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | May 11 |
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Sales Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a02c6ebbc4184089f22bab7?utm_campaign=1051&utm_source=git)** | United States | Remote | May 11 |
 | ↳ | **[Student Sales Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a02c5f4f3d6cc51d637089e?utm_campaign=1051&utm_source=git)** | United States | Remote | May 11 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Samba TV](http://www.samba.tv)** | **[Commercial Partnerships Intern](https://jobright.ai/jobs/info/69ca9a80466f1e133aac523a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69699797f25a380066985233?utm_campaign=1051&utm_source=git)** | Omaha Metropolitan Area | On Site | May 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69efd35fe624fe645d5337dd?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | May 11 |
-| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69697a23639b452fb57f5a05?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | May 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69696c2c639b452fb57f430b?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | May 11 |
+| ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/69697a23639b452fb57f5a05?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | May 11 |
 | ↳ | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/696981ca1703f05405ab6d2e?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | May 11 |
 | **[HawkBrook](https://www.hawk-brook.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/6a023008c2ffb31f4536aad7?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 11 |
 | **[Fenix Pest Control](https://fenixpestcontrol.com)** | **[Summer Sales/Marketing Internship - Housing Included](https://jobright.ai/jobs/info/6969864ef25a380066982b79?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | May 11 |
@@ -108,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Toro Marketing Group](https://www.torogrouptx.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6a020668c2ffb31f453692b0?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 11 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/699952f481476f6176b1f607?utm_campaign=1051&utm_source=git)** | Greater Milwaukee | Hybrid | May 11 |
 | ↳ | **[Intern, Business Development](https://jobright.ai/jobs/info/69bb78c33b74eb1e2c89e96c?utm_campaign=1051&utm_source=git)** | Port Washington, NY | On Site | May 11 |
+| **[ORBIS Corporation](http://www.orbiscorporation.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a02f27eed6a637463f4ae98?utm_campaign=1051&utm_source=git)** | Oconomowoc, WI | On Site | May 11 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Sales Representative - Summer College Internship 2026](https://jobright.ai/jobs/info/6a01f4bdfa1aa73213d95a5a?utm_campaign=1051&utm_source=git)** | San Antonio area, US | On Site | May 11 |
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/69f2467e8d8d624381aa0167?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 11 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a01ee43c2ffb31f453687fe?utm_campaign=1051&utm_source=git)** | Oconomowoc, Wisconsin, US | On Site | May 11 |
@@ -116,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Ascend Marketing](https://ascendmarketers.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a01ea92df52f1450d846158?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | May 11 |
 | **[Summit Solutions New York](https://www.summitsolutionsnewyork.com/)** | **[Client Relations Intern](https://jobright.ai/jobs/info/6a01ea67c4b08448a0b217d0?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 11 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Sales Intern -Summer 2026 (Bunzl Processor Division)](https://jobright.ai/jobs/info/68cc33af7342c7623ae60a50?utm_campaign=1051&utm_source=git)** | Riverside, MO | On Site | May 11 |
+| **[Alice & Bob](https://alice-bob.com)** | **[Quantum Technical Business Development Internship- US](https://jobright.ai/jobs/info/6a02ec1322395b6dc6d8f5d7?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | May 11 |
 | **[mogul](https://www.mogul.club/)** | **[GTM: Sales Development Intern — Summer 2026](https://jobright.ai/jobs/info/6a01dd65238f143e8352e651?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | May 11 |
 | **[Embark Agency](https://www.theembarkagency.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69fb811086d5cd46527d603c?utm_campaign=1051&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | May 11 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Summer Sales & Marketing Intern](https://jobright.ai/jobs/info/68cb7413efdec76df36bce5d?utm_campaign=1051&utm_source=git)** | Kaukauna, WI | On Site | May 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genesys](https://www.genesys.com)** | **[Direct Response Representative Intern](https://jobright.ai/jobs/info/69cc8f62366bb95ba54f2f8c?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | May 10 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Sales Internship - St. Louis Area](https://jobright.ai/jobs/info/69c6d091e565c26a70022e6e?utm_campaign=1051&utm_source=git)** | Greater St. Louis | On Site | May 10 |
 | **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/69c8f086b773006330b82ea6?utm_campaign=1051&utm_source=git)** | Oxnard, CA | On Site | May 10 |
-| **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/69f118e362b48c6838793cb5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 10 |
-| **[Brandlete](https://www.brandletehq.com)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/69e8581b4b0fa35a7076621c?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | May 10 |
-| **[TikTok](https://www.tiktok.com)** | **[Seller Live Project Intern (TikTok Shop Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69706c8351f726477182c19d?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
