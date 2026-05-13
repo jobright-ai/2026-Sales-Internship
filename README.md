@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/6a03d6c2f811a04369605f11?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | May 12 |
+| **[JD.COM](http://corporate.jd.com)** | **[JD Young AI Innovation Systems Business Development Internship](https://jobright.ai/jobs/info/6a03d255f811a04369605e2e?utm_campaign=1051&utm_source=git)** | California, United States | Hybrid | May 12 |
+| **[Innovative Hub Co., Ltd](http://www.innovativehub.com.vn)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a03d21bbc4184089f235f85?utm_campaign=1051&utm_source=git)** | Center City, MN | On Site | May 12 |
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Sales](https://jobright.ai/jobs/info/6a03c6d6bc4184089f235a77?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 12 |
 | **[Virgin Plus](http://www.virginmobile.ca/en)** | **[Retail Hiring Event May 20th 2026, Galeries St-Hyacinthe](https://jobright.ai/jobs/info/6a03c6cabc4184089f235a2c?utm_campaign=1051&utm_source=git)** | St-Hyacinthe, Quebec, Canada | On Site | May 12 |
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Field Sales, National Accounts](https://jobright.ai/jobs/info/6a03c69d22395b6dc6d97e41?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 12 |
@@ -78,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03abc2bc4184089f234cd9?utm_campaign=1051&utm_source=git)** | KELOWNA, British Columbia, Canada | On Site | May 12 |
 | ↳ | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03abc2bc4184089f234cd5?utm_campaign=1051&utm_source=git)** | NANAIMO, British Columbia, Canada | On Site | May 12 |
 | ↳ | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03abbef3d6cc51d6378e5e?utm_campaign=1051&utm_source=git)** | VANCOUVER MAIN BRANCH, 1025 GEORGIA ST W:VANCOUVER, CA | On Site | May 12 |
-| ↳ | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03abb922395b6dc6d97073?utm_campaign=1051&utm_source=git)** | NORTH VANCOUVER, British Columbia, Canada | On Site | May 12 |
 | ↳ | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03abb922395b6dc6d97074?utm_campaign=1051&utm_source=git)** | LANGLEY, British Columbia, Canada | On Site | May 12 |
+| ↳ | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03abb922395b6dc6d97073?utm_campaign=1051&utm_source=git)** | NORTH VANCOUVER, British Columbia, Canada | On Site | May 12 |
 | ↳ | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03abb48ecfd93cd9c10b82?utm_campaign=1051&utm_source=git)** | SURREY, British Columbia, Canada | On Site | May 12 |
 | ↳ | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03abb48ecfd93cd9c10b81?utm_campaign=1051&utm_source=git)** | WHISTLER, British Columbia, Canada | On Site | May 12 |
 | ↳ | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03ab9a6c07461fe170679b?utm_campaign=1051&utm_source=git)** | VICTORIA, British Columbia, Canada | On Site | May 12 |
@@ -102,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Leviton](https://www.leviton.com)** | **[Sales Operations Intern (Year-round)](https://jobright.ai/jobs/info/6a0388cd22395b6dc6d956bc?utm_campaign=1051&utm_source=git)** | Northbrook, IL | On Site | May 12 |
 | ↳ | **[Sales Operations Intern (Year-round)](https://jobright.ai/jobs/info/6a0385908ecfd93cd9c0f1f5?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | May 12 |
 | **[Quest Global](http://www.quest-global.com)** | **[Sales and Proposals Intern](https://jobright.ai/jobs/info/6a03857cf3d6cc51d637774e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 12 |
-| **[Amentum](https://www.amentum.com/)** | **[GSCM Intern](https://jobright.ai/jobs/info/6a037f0622395b6dc6d95098?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 12 |
+| **[Amentum](https://www.amentum.com/)** | **[GSCM Intern](https://jobright.ai/jobs/info/6a037f0622395b6dc6d95094?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 12 |
 | ↳ | **[GSCM Intern](https://jobright.ai/jobs/info/6a037eb7ed6a637463f50809?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 12 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Ohio State Athletics - Retail Fall Internship 2026](https://jobright.ai/jobs/info/6a0376faed6a637463f501ca?utm_campaign=1051&utm_source=git)** | Columbus, OH, US | On Site | May 12 |
 | **[Primepick](https://www.primepick.com)** | **[Business Development / Sales Representative](https://jobright.ai/jobs/info/6a0372c122395b6dc6d947b0?utm_campaign=1051&utm_source=git)** | United States | Remote | May 12 |
@@ -125,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Leviton](https://www.leviton.com)** | **[Intern, Retail Sales (Summer)](https://jobright.ai/jobs/info/6a0348a86c07461fe170273e?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | May 12 |
 | **[Dash Social](https://www.dashsocial.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a0345c67c753c287f6e574f?utm_campaign=1051&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 12 |
 | **[Succession Partners](www.successionpartnersnc.com)** | **[Fintech Sales Intern](https://jobright.ai/jobs/info/6a0345b67c753c287f6e5714?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | May 12 |
-| **[Quest Global](http://www.quest-global.com)** | **[Sales and Proposals Intern](https://jobright.ai/jobs/info/6a0344b8bc4184089f230e9c?utm_campaign=1051&utm_source=git)** | Houston, Texas, United States | On Site | May 12 |
-| ↳ | **[Sales and Proposals Intern](https://jobright.ai/jobs/info/6a0344b8bc4184089f230e9d?utm_campaign=1051&utm_source=git)** | Houston, TX, USA | On Site | May 12 |
+| **[Quest Global](http://www.quest-global.com)** | **[Sales and Proposals Intern](https://jobright.ai/jobs/info/6a0344b8bc4184089f230e9d?utm_campaign=1051&utm_source=git)** | Houston, TX, USA | On Site | May 12 |
+| ↳ | **[Sales and Proposals Intern](https://jobright.ai/jobs/info/6a0344b8bc4184089f230e9c?utm_campaign=1051&utm_source=git)** | Houston, Texas, United States | On Site | May 12 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[ASPIRE Commercial Banking - Global Transaction Banking - Strategy Fall 2026 Co-op/Internship Toronto](https://jobright.ai/jobs/info/69e657e09b6eb37e26f7f9e2?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
 | ↳ | **[ASPIRE Commercial Banking - Indigenous Financial Services - Fall 2026 Co-op / Internship](https://jobright.ai/jobs/info/69e716cce0cd471b2f128538?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
 | **[Aeroseal](https://aeroseal.com/)** | **[AI & Channel Sales Outreach Intern](https://jobright.ai/jobs/info/6a033ecc22395b6dc6d92ab8?utm_campaign=1051&utm_source=git)** | Miamisburg, OH | On Site | May 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a02c5eef3d6cc51d637088f?utm_campaign=1051&utm_source=git)** | United States | Remote | May 11 |
 | ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a02c2626c07461fe16fd15b?utm_campaign=1051&utm_source=git)** | United States | Remote | May 11 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a02b85322395b6dc6d8d66e?utm_campaign=1051&utm_source=git)** | WINDSOR, Ontario, Canada | On Site | May 11 |
-| **[Cruze](https://cruzemaps.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a02b614ed6a637463f48c26?utm_campaign=1051&utm_source=git)** | United States | Remote | May 11 |
-| **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[Intern- Operations](https://jobright.ai/jobs/info/6a02978705484923de476820?utm_campaign=1051&utm_source=git)** | 320 W 36th St, New York, NY, 10018, US | On Site | May 11 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Sales Representative - Summer College Internship 2026](https://jobright.ai/jobs/info/6a03046aed6a637463f4b7a0?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
