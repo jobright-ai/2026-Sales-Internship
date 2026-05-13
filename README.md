@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6a03da94bc4184089f2360a6?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | May 12 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a03da80bc4184089f236043?utm_campaign=1051&utm_source=git)** | Detroit Metro | Hybrid | May 12 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/6a03d6c2f811a04369605f11?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | May 12 |
 | **[JD.COM](http://corporate.jd.com)** | **[JD Young AI Innovation Systems Business Development Internship](https://jobright.ai/jobs/info/6a03d255f811a04369605e2e?utm_campaign=1051&utm_source=git)** | California, United States | Hybrid | May 12 |
 | **[Innovative Hub Co., Ltd](http://www.innovativehub.com.vn)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a03d21bbc4184089f235f85?utm_campaign=1051&utm_source=git)** | Center City, MN | On Site | May 12 |
@@ -76,8 +78,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern - Entry Level Buyer I, Procurement Operations (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff6bc4184089f235137?utm_campaign=1051&utm_source=git)** | Atlanta, GA, US | Hybrid | May 12 |
 | **[Mascoma Bank](https://www.mascomabank.com/business-banking/mascoma-community-development/)** | **[Intern - Go-To-Market & Sales Operations](https://jobright.ai/jobs/info/6a03aeeebc4184089f2350e5?utm_campaign=1051&utm_source=git)** | Lebanon,NH,US | On Site | May 12 |
 | **[Bell Bank](https://bell.bank/)** | **[Insurance Intern - Commercial Lines](https://jobright.ai/jobs/info/6a03aec1f3d6cc51d6379096?utm_campaign=1051&utm_source=git)** | Bloomington, MN, 55431, United States | On Site | May 12 |
-| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03abd17c753c287f6e965a?utm_campaign=1051&utm_source=git)** | VANCOUVER, British Columbia, Canada | On Site | May 12 |
-| ↳ | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03abd17c753c287f6e965b?utm_campaign=1051&utm_source=git)** | RICHMOND, British Columbia, Canada | On Site | May 12 |
+| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03abd17c753c287f6e965b?utm_campaign=1051&utm_source=git)** | RICHMOND, British Columbia, Canada | On Site | May 12 |
+| ↳ | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03abd17c753c287f6e965a?utm_campaign=1051&utm_source=git)** | VANCOUVER, British Columbia, Canada | On Site | May 12 |
 | ↳ | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03abc2bc4184089f234cd9?utm_campaign=1051&utm_source=git)** | KELOWNA, British Columbia, Canada | On Site | May 12 |
 | ↳ | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03abc2bc4184089f234cd5?utm_campaign=1051&utm_source=git)** | NANAIMO, British Columbia, Canada | On Site | May 12 |
 | ↳ | **[Relationship Manager Intern, Commercial Finance Services,  Indigenous market](https://jobright.ai/jobs/info/6a03abbef3d6cc51d6378e5e?utm_campaign=1051&utm_source=git)** | VANCOUVER MAIN BRANCH, 1025 GEORGIA ST W:VANCOUVER, CA | On Site | May 12 |
@@ -105,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Leviton](https://www.leviton.com)** | **[Sales Operations Intern (Year-round)](https://jobright.ai/jobs/info/6a0388cd22395b6dc6d956bc?utm_campaign=1051&utm_source=git)** | Northbrook, IL | On Site | May 12 |
 | ↳ | **[Sales Operations Intern (Year-round)](https://jobright.ai/jobs/info/6a0385908ecfd93cd9c0f1f5?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | May 12 |
 | **[Quest Global](http://www.quest-global.com)** | **[Sales and Proposals Intern](https://jobright.ai/jobs/info/6a03857cf3d6cc51d637774e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 12 |
-| **[Amentum](https://www.amentum.com/)** | **[GSCM Intern](https://jobright.ai/jobs/info/6a037f0622395b6dc6d95094?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 12 |
+| **[Amentum](https://www.amentum.com/)** | **[GSCM Intern](https://jobright.ai/jobs/info/6a037f0622395b6dc6d95098?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 12 |
 | ↳ | **[GSCM Intern](https://jobright.ai/jobs/info/6a037eb7ed6a637463f50809?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 12 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Ohio State Athletics - Retail Fall Internship 2026](https://jobright.ai/jobs/info/6a0376faed6a637463f501ca?utm_campaign=1051&utm_source=git)** | Columbus, OH, US | On Site | May 12 |
 | **[Primepick](https://www.primepick.com)** | **[Business Development / Sales Representative](https://jobright.ai/jobs/info/6a0372c122395b6dc6d947b0?utm_campaign=1051&utm_source=git)** | United States | Remote | May 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Sales Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a02c6ebbc4184089f22bab7?utm_campaign=1051&utm_source=git)** | United States | Remote | May 11 |
 | ↳ | **[Student Sales Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a02c5f4f3d6cc51d637089e?utm_campaign=1051&utm_source=git)** | United States | Remote | May 11 |
 | ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a02c5eef3d6cc51d637088f?utm_campaign=1051&utm_source=git)** | United States | Remote | May 11 |
-| ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a02c2626c07461fe16fd15b?utm_campaign=1051&utm_source=git)** | United States | Remote | May 11 |
-| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a02b85322395b6dc6d8d66e?utm_campaign=1051&utm_source=git)** | WINDSOR, Ontario, Canada | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
