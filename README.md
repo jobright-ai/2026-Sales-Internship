@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloud Science Labs](https://www.cloudsciencelabs.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0489b222395b6dc6d9e167?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 13 |
+| **[CME Group](http://www.cmegroup.com)** | **[Global Account Management Intern - Year Round](https://jobright.ai/jobs/info/6a048845bc4184089f23bf62?utm_campaign=1051&utm_source=git)** | Chicago - 20 S. Wacker, US | Hybrid | May 13 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0487e3f3d6cc51d637ff45?utm_campaign=1051&utm_source=git)** | SLC Metro Area | Hybrid | May 13 |
 | **[Electro](electrogum.com)** | **[Athlete Partnerships Intern](https://jobright.ai/jobs/info/6a047a9ef3d6cc51d637f37a?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | May 13 |
 | **[Embark Agency](https://www.theembarkagency.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a047a8922395b6dc6d9cf1f?utm_campaign=1051&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | May 13 |
 | **[S&P Global](https://www.spglobal.com)** | **[Polk Auto Solutions Customer Success Intern](https://jobright.ai/jobs/info/69e7fdda58811370cb11faf4?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | May 13 |
@@ -65,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Myrtle Beach SC](https://jobright.ai/jobs/info/6a0475ca22395b6dc6d9cc5e?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | May 13 |
 | **[JTI](http://www.jti.com)** | **[SALES ANALYST INTERN](https://jobright.ai/jobs/info/6a04751b7c753c287f6ef33c?utm_campaign=1051&utm_source=git)** | CASABLANCA, MA, 20250 | On Site | May 13 |
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a046ef5f3d6cc51d637edaf?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 13 |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a046de16c07461fe170c6a6?utm_campaign=1051&utm_source=git)** | United States | Remote | May 13 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a046a7a7c753c287f6eed3b?utm_campaign=1051&utm_source=git)** | Miami, Florida, United States of America | On Site | May 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a046a746c07461fe170c39a?utm_campaign=1051&utm_source=git)** | Coral Gables, Florida, United States of America | On Site | May 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a046a736c07461fe170c398?utm_campaign=1051&utm_source=git)** | West Palm Beach, Florida, United States of America | On Site | May 13 |
@@ -134,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Leviton](https://www.leviton.com)** | **[Sales Operations Intern (Year-round)](https://jobright.ai/jobs/info/6a0388cd22395b6dc6d956bc?utm_campaign=1051&utm_source=git)** | Northbrook, IL | On Site | May 12 |
 | ↳ | **[Sales Operations Intern (Year-round)](https://jobright.ai/jobs/info/6a0385908ecfd93cd9c0f1f5?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | May 12 |
 | **[Quest Global](http://www.quest-global.com)** | **[Sales and Proposals Intern](https://jobright.ai/jobs/info/6a03857cf3d6cc51d637774e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 12 |
-| **[Amentum](https://www.amentum.com/)** | **[GSCM Intern](https://jobright.ai/jobs/info/6a037f0622395b6dc6d95094?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 12 |
+| **[Amentum](https://www.amentum.com/)** | **[GSCM Intern](https://jobright.ai/jobs/info/6a037f0622395b6dc6d95098?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 12 |
 | ↳ | **[GSCM Intern](https://jobright.ai/jobs/info/6a037eb7ed6a637463f50809?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 12 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Ohio State Athletics - Retail Fall Internship 2026](https://jobright.ai/jobs/info/6a0376faed6a637463f501ca?utm_campaign=1051&utm_source=git)** | Columbus, OH, US | On Site | May 12 |
 | **[Risewell Homes](http://www.risewellhomes.com)** | **[Land Acquisition Intern](https://jobright.ai/jobs/info/69e6bab13cfd986aa6f8765f?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dec962aba61f1417317b67?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | May 12 |
 | **[Mannix Marketing](https://www.mannixmarketing.com)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a03496eed6a637463f4e5ea?utm_campaign=1051&utm_source=git)** | Queensbury, NY | Remote | May 12 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Retail Sales (Summer)](https://jobright.ai/jobs/info/6a0348a86c07461fe170273e?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | May 12 |
-| **[Dash Social](https://www.dashsocial.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a0345c67c753c287f6e574f?utm_campaign=1051&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 12 |
-| **[Succession Partners](www.successionpartnersnc.com)** | **[Fintech Sales Intern](https://jobright.ai/jobs/info/6a0345b67c753c287f6e5714?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
