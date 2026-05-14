@@ -57,9 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[MEDEX Analytic Services](https://www.medexservice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a058c1b7c753c287f6fa044?utm_campaign=1051&utm_source=git)** | US-CO-Denver | On Site | May 14 |
+| **[The Children's Center of Wayne County (Detroit)](https://www.thechildrenscenter.com/)** | **[Business Development & Operations Intern](https://jobright.ai/jobs/info/6a058db57c753c287f6fa0ac?utm_campaign=1051&utm_source=git)** | DETROIT, MI 48201-2015, USA | On Site | May 14 |
 | **[Vybond](www.vybond.com)** | **[Customer Care & Inside Sales Intern](https://jobright.ai/jobs/info/6a058b3bbc4184089f245e4d?utm_campaign=1051&utm_source=git)** | Bristol, RI 02809 | Hybrid | May 14 |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0588096c07461fe1716ed7?utm_campaign=1051&utm_source=git)** | United States | Remote | May 14 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a058394f3d6cc51d63896bb?utm_campaign=1051&utm_source=git)** | Purchase, New York, United States of America | On Site | May 14 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[2025 Technical Sales Intern](https://jobright.ai/jobs/info/6a0578c57c753c287f6f9862?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | May 14 |
 | **[Crescendo International](https://crescendointernational.co/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a056862a88ea73abf7f0e4a?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | May 13 |
@@ -96,14 +95,14 @@ For a complete list, click the following sortable link below:
 | **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfb74c4920452a85dcee95?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfaefc4920452a85dcec8a?utm_campaign=1051&utm_source=git)** | Kansas City, MO | Remote | May 13 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfb74c4920452a85dcee96?utm_campaign=1051&utm_source=git)** | Clemson, SC | Remote | May 13 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de6d7be34484770f1a1fa1?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | May 13 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80b8e34484770f1a26bf?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfb88de34484770f1a9e0d?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | May 13 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80b8e34484770f1a26bf?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | May 13 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de6d7be34484770f1a1fa1?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | May 13 |
 | **[Cal Alumni Association | UC Berkeley](http://alumni.berkeley.edu)** | **[Strategic Philanthropy & Social Impact Internship](https://jobright.ai/jobs/info/6a04e243bc4184089f2406ab?utm_campaign=1051&utm_source=git)** | Berkeley | Hybrid | May 13 |
-| **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfb796aba61f141731cd92?utm_campaign=1051&utm_source=git)** | St Louis, MO | Remote | May 13 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfaedbaba61f141731cb61?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | May 13 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de855aaba61f14173156a6?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | May 13 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de6daaaba61f1417314e23?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | May 13 |
+| **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfaedbaba61f141731cb61?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | May 13 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfb796aba61f141731cd92?utm_campaign=1051&utm_source=git)** | St Louis, MO | Remote | May 13 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de6daaaba61f1417314e23?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | May 13 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de855aaba61f14173156a6?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | May 13 |
 | **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfab9d5913ad3398144f3c?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfb748433ac8430e0e1a32?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | May 13 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de80ad433ac8430e0da054?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | May 13 |
@@ -115,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Wilmington NC](https://jobright.ai/jobs/info/6a04defabc4184089f24042b?utm_campaign=1051&utm_source=git)** | Wilmington, NC, United States | On Site | May 13 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6a04ddb64373b07358a37851?utm_campaign=1051&utm_source=git)** | Yankton, SD | On Site | May 13 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de815c5913ad339813d7fb?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | May 13 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfab965913ad3398144f2d?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69de6df15913ad339813d310?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | May 13 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfab965913ad3398144f2d?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfb74c4920452a85dcee97?utm_campaign=1051&utm_source=git)** | Orlando, FL | Remote | May 13 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC CM Investment Sales Intern](https://jobright.ai/jobs/info/6a04dd3722395b6dc6da169b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 13 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dfaf8214bf245fc7a6d152?utm_campaign=1051&utm_source=git)** | Gainesville, FL | Remote | May 13 |
@@ -135,26 +134,27 @@ For a complete list, click the following sortable link below:
 | **[Still Bright](https://www.stillbright.co/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a04d6544373b07358a373c2?utm_campaign=1051&utm_source=git)** | Kenilworth, NJ | On Site | May 13 |
 | **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d5f26c07461fe171102e?utm_campaign=1051&utm_source=git)** | Louisville Metro | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d5f26c07461fe171102f?utm_campaign=1051&utm_source=git)** | DC-Baltimore Area | Remote | May 13 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d5dd6c07461fe1711004?utm_campaign=1051&utm_source=git)** | KC Metro Area | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d5dd6c07461fe1711000?utm_campaign=1051&utm_source=git)** | Wisconsin, United States | Remote | May 13 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d5524373b07358a3730f?utm_campaign=1051&utm_source=git)** | Des Moines Metro | Remote | May 13 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d5dd6c07461fe1711004?utm_campaign=1051&utm_source=git)** | KC Metro Area | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d5524373b07358a3730e?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | May 13 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d5524373b07358a3730f?utm_campaign=1051&utm_source=git)** | Des Moines Metro | Remote | May 13 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69fad3a586d5cd46527d0057?utm_campaign=1051&utm_source=git)** | Nashville, TN | Remote | May 13 |
 | **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d37922395b6dc6da11e7?utm_campaign=1051&utm_source=git)** | St. Louis City County, MO | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d37922395b6dc6da11ea?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d3737c753c287f6f3dce?utm_campaign=1051&utm_source=git)** | Kansas, United States | Remote | May 13 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d35f7c753c287f6f3d95?utm_campaign=1051&utm_source=git)** | Greater Birmingham, Alabama Area | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d35f7c753c287f6f3d94?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | May 13 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d35f7c753c287f6f3d95?utm_campaign=1051&utm_source=git)** | Greater Birmingham, Alabama Area | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d35f7c753c287f6f3d96?utm_campaign=1051&utm_source=git)** | Omaha Metropolitan Area | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d354bc4184089f23fc63?utm_campaign=1051&utm_source=git)** | Pittsburgh Region | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d345bc4184089f23fc18?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d342bc4184089f23fc0a?utm_campaign=1051&utm_source=git)** | OKC Metro Area | Remote | May 13 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d318f3d6cc51d6383a16?utm_campaign=1051&utm_source=git)** | Richmond, VA | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d3184373b07358a372d1?utm_campaign=1051&utm_source=git)** | Tulsa Metropolitan Area | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d318f3d6cc51d6383a15?utm_campaign=1051&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Remote | May 13 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d318f3d6cc51d6383a16?utm_campaign=1051&utm_source=git)** | Richmond, VA | Remote | May 13 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d30df3d6cc51d63839e3?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | Remote | May 13 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[2026 Technical Sales Intern](https://jobright.ai/jobs/info/6a0588adbc4184089f245d11?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | May 13 |
 | ↳ | **[2026 Technical Sales Intern](https://jobright.ai/jobs/info/6a0588adbc4184089f245d10?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | May 13 |
 | ↳ | **[Sales Development Internship (Nationwide - Summer '26)](https://jobright.ai/jobs/info/6a0588107c753c287f6f9e03?utm_campaign=1051&utm_source=git)** | Davidson, NC | On Site | May 13 |
 | ↳ | **[2026 Technical Sales Intern](https://jobright.ai/jobs/info/6a0588107c753c287f6f9dfd?utm_campaign=1051&utm_source=git)** | Livonia, MI | On Site | May 13 |
+| **[good2grow™](https://www.good2grow.com/#home)** | **[Sales Intern - Atlanta, GA](https://jobright.ai/jobs/info/6a04cff7f3d6cc51d638302d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
