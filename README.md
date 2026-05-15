@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a06a1e46c07461fe17218b2?utm_campaign=1051&utm_source=git)** | United States | Remote | May 14 |
+| **[National Museum of Women in the Arts](https://nmwa.org/)** | **[Membership Intern](https://jobright.ai/jobs/info/6a06a7c9f3d6cc51d6394f91?utm_campaign=1051&utm_source=git)** | WASHINGTON,DC,US | On Site | May 14 |
+| **[The Children's Center of Wayne County (Detroit)](https://www.thechildrenscenter.com/)** | **[Business Development & Operations Intern](https://jobright.ai/jobs/info/6a06a6e97c753c287f704be8?utm_campaign=1051&utm_source=git)** | DETROIT, MI 48201-2015, USA | On Site | May 14 |
 | **[CBRE](https://www.cbre.com)** | **[Sales Brokerage Intern](https://jobright.ai/jobs/info/6a0693e56c07461fe17214d8?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | May 14 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a068155320bff2205ead020?utm_campaign=1051&utm_source=git)** | San Diego, California, United States of America | On Site | May 14 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a067e39bc4184089f24ff01?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | May 14 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Hyland](https://www.hyland.com/)** | **[Intern, Sales Support](https://jobright.ai/jobs/info/6a06575b6c07461fe171f8f4?utm_campaign=1051&utm_source=git)** | United States | Remote | May 14 |
 | **[Compass International Holdings](https://www.linkedin.com/company/111655670)** | **[Research Intern - New York, NY](https://jobright.ai/jobs/info/6a0657567c753c287f7027fd?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[Anywhere Real Estate Inc.](https://www.anywhere.re)** | **[Research Intern - New York, NY](https://jobright.ai/jobs/info/6a0655babc4184089f24e9c9?utm_campaign=1051&utm_source=git)** | 590 Madison Ave, New York, NY, 10022, US | On Site | May 14 |
-| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern - Mobile](https://jobright.ai/jobs/info/6a0655b26c07461fe171f6f3?utm_campaign=1051&utm_source=git)** | NORTHERN BRUCE PENINSULA, Ontario, Canada | On Site | May 14 |
-| ↳ | **[Banking Advisor Intern - Mobile](https://jobright.ai/jobs/info/6a0655b26c07461fe171f6f4?utm_campaign=1051&utm_source=git)** | OWEN SOUND, Ontario, Canada | On Site | May 14 |
+| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern - Mobile](https://jobright.ai/jobs/info/6a0655b26c07461fe171f6f4?utm_campaign=1051&utm_source=git)** | OWEN SOUND, Ontario, Canada | On Site | May 14 |
+| ↳ | **[Banking Advisor Intern - Mobile](https://jobright.ai/jobs/info/6a0655b26c07461fe171f6f3?utm_campaign=1051&utm_source=git)** | NORTHERN BRUCE PENINSULA, Ontario, Canada | On Site | May 14 |
 | ↳ | **[Banking Advisor Intern - Mobile](https://jobright.ai/jobs/info/6a0655b16c07461fe171f6f2?utm_campaign=1051&utm_source=git)** | SAUGEEN SHORES, Ontario, Canada | On Site | May 14 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/6a06529c7c753c287f7023ed?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | May 14 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/6a064e2ca88ea73abf7fa70a?utm_campaign=1051&utm_source=git)** | De Soto, KS | On Site | May 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amentum](https://www.amentum.com/)** | **[GSCM Intern](https://jobright.ai/jobs/info/6a060fa3a88ea73abf7f6916?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 14 |
 | ↳ | **[GSCM Intern](https://jobright.ai/jobs/info/6a060f9b6c07461fe171ba5a?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 14 |
 | ↳ | **[GSCM Intern](https://jobright.ai/jobs/info/6a060f9bf3d6cc51d638e4e7?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 14 |
-| ↳ | **[GSCM Intern](https://jobright.ai/jobs/info/6a060f957c753c287f6fe7b6?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
