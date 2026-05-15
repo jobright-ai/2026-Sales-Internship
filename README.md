@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Strategy and Inventory Analytics Intern](https://jobright.ai/jobs/info/6a06b56bbc4184089f251307?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | May 14 |
 | **[National Museum of Women in the Arts](https://nmwa.org/)** | **[Membership Intern](https://jobright.ai/jobs/info/6a06a7c9f3d6cc51d6394f91?utm_campaign=1051&utm_source=git)** | WASHINGTON,DC,US | On Site | May 14 |
 | **[The Children's Center of Wayne County (Detroit)](https://www.thechildrenscenter.com/)** | **[Business Development & Operations Intern](https://jobright.ai/jobs/info/6a06a6e97c753c287f704be8?utm_campaign=1051&utm_source=git)** | DETROIT, MI 48201-2015, USA | On Site | May 14 |
 | **[CBRE](https://www.cbre.com)** | **[Sales Brokerage Intern](https://jobright.ai/jobs/info/6a0693e56c07461fe17214d8?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | May 14 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Hyland](https://www.hyland.com/)** | **[Intern, Sales Support](https://jobright.ai/jobs/info/6a06575b6c07461fe171f8f4?utm_campaign=1051&utm_source=git)** | United States | Remote | May 14 |
 | **[Compass International Holdings](https://www.linkedin.com/company/111655670)** | **[Research Intern - New York, NY](https://jobright.ai/jobs/info/6a0657567c753c287f7027fd?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[Anywhere Real Estate Inc.](https://www.anywhere.re)** | **[Research Intern - New York, NY](https://jobright.ai/jobs/info/6a0655babc4184089f24e9c9?utm_campaign=1051&utm_source=git)** | 590 Madison Ave, New York, NY, 10022, US | On Site | May 14 |
-| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern - Mobile](https://jobright.ai/jobs/info/6a0655b26c07461fe171f6f4?utm_campaign=1051&utm_source=git)** | OWEN SOUND, Ontario, Canada | On Site | May 14 |
-| ↳ | **[Banking Advisor Intern - Mobile](https://jobright.ai/jobs/info/6a0655b26c07461fe171f6f3?utm_campaign=1051&utm_source=git)** | NORTHERN BRUCE PENINSULA, Ontario, Canada | On Site | May 14 |
+| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern - Mobile](https://jobright.ai/jobs/info/6a0655b26c07461fe171f6f3?utm_campaign=1051&utm_source=git)** | NORTHERN BRUCE PENINSULA, Ontario, Canada | On Site | May 14 |
+| ↳ | **[Banking Advisor Intern - Mobile](https://jobright.ai/jobs/info/6a0655b26c07461fe171f6f4?utm_campaign=1051&utm_source=git)** | OWEN SOUND, Ontario, Canada | On Site | May 14 |
 | ↳ | **[Banking Advisor Intern - Mobile](https://jobright.ai/jobs/info/6a0655b16c07461fe171f6f2?utm_campaign=1051&utm_source=git)** | SAUGEEN SHORES, Ontario, Canada | On Site | May 14 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/6a06529c7c753c287f7023ed?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | May 14 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/6a064e2ca88ea73abf7fa70a?utm_campaign=1051&utm_source=git)** | De Soto, KS | On Site | May 14 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[PCI Pharma Services](http://www.pciservices.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a06247d320bff2205ea90d1?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | May 14 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Sales Aftermarket Service Intern](https://jobright.ai/jobs/info/6a0624296c07461fe171cdbc?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | May 14 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e014e2aba61f141731f78c?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | May 14 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/698123ebabff4c399a9ff919?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | May 14 |
-| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69811b00abff4c399a9feb49?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | May 14 |
+| **[Goosehead Insurance](https://www.goosehead.com)** | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69811b00abff4c399a9feb49?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | May 14 |
+| ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/698123ebabff4c399a9ff919?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | May 14 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69811a11abff4c399a9fe9ee?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | May 14 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69583a029f1b381eb2712094?utm_campaign=1051&utm_source=git)** | Nashville Metro | Hybrid | May 14 |
 | ↳ | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69a392580da45516f16c98fa?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 14 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Amcor](http://www.amcor.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a061133bc4184089f24a7ec?utm_campaign=1051&utm_source=git)** | Deerfield, IL | On Site | May 14 |
 | **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/6a0610a3bc4184089f24a6bc?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | May 14 |
 | **[Amentum](https://www.amentum.com/)** | **[GSCM Intern](https://jobright.ai/jobs/info/6a060fa3a88ea73abf7f6916?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 14 |
-| ↳ | **[GSCM Intern](https://jobright.ai/jobs/info/6a060f9b6c07461fe171ba5a?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 14 |
 | ↳ | **[GSCM Intern](https://jobright.ai/jobs/info/6a060f9bf3d6cc51d638e4e7?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
