@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a06d99638dbee7915cf7132?utm_campaign=1051&utm_source=git)** | United States | Remote | May 15 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a06cb01f400923a0090aa4a?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | May 15 |
 | **[Cruze](https://cruzemaps.com/)** | **[Growth and Sales Intern](https://jobright.ai/jobs/info/6a06c28f4f290f7450ea3304?utm_campaign=1051&utm_source=git)** | United States | Remote | May 14 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Strategy and Inventory Analytics Intern](https://jobright.ai/jobs/info/6a06b56bbc4184089f251307?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | May 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69ba8bff5697383741402c62?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | May 14 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e014deaba61f141731f785?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 14 |
 | **[Amcor](http://www.amcor.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a061133bc4184089f24a7ec?utm_campaign=1051&utm_source=git)** | Deerfield, IL | On Site | May 14 |
-| **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/6a0610a3bc4184089f24a6bc?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
