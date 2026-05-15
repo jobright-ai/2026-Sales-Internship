@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a079a3d6186f46859881474?utm_campaign=1051&utm_source=git)** | Garff Enterprises Corporate Office - Salt Lake City, UT, US | On Site | May 15 |
+| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0799f3a203b1052e43cf54?utm_campaign=1051&utm_source=git)** | Canfield, Ohio, United States of America | On Site | May 15 |
+| **[Penumbra, Inc.](http://penumbrainc.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a079528a203b1052e43cd28?utm_campaign=1051&utm_source=git)** | Alameda, CA | On Site | May 15 |
 | **[Fusion100](http://Fusion100co.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6a0791a33b54ed42d74cf989?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | May 15 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6a0791976186f46859880b56?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 15 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6a079177939a5f01db951896?utm_campaign=1051&utm_source=git)** | Waterloo, Ontario, Canada | On Site | May 15 |
@@ -94,6 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69e12216fd1c0456f3fac99b?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | May 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69e10ddeff71e82d604b4f18?utm_campaign=1051&utm_source=git)** | San Jose, CA | Remote | May 15 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[SIR CMA Intern](https://jobright.ai/jobs/info/6a075191a203b1052e4398a6?utm_campaign=1051&utm_source=git)** | Nashville Area, US | On Site | May 15 |
+| **[Brandlete](https://www.brandletehq.com)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/69e8581b4b0fa35a7076621c?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | May 15 |
 | **[Montage International](https://www.montageinternational.com)** | **[Intern - CORP](https://jobright.ai/jobs/info/6a07502ba203b1052e4397de?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | May 15 |
 | **[Rubrik](http://rubrik.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6978193852f3c27ec6444596?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 15 |
 | **[TeamViewer](https://www.teamviewer.com)** | **[Channel Sales Internship - Remote, USA](https://jobright.ai/jobs/info/6a074fd5939a5f01db94e45f?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Remote | May 15 |
@@ -108,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[Facilities Intern](https://jobright.ai/jobs/info/6a073a0e8f3e371eb6174d98?utm_campaign=1051&utm_source=git)** | Salem, NH | On Site | May 15 |
 | ↳ | **[Sales Brokerage Intern](https://jobright.ai/jobs/info/6a0739c3403fc339507e22bb?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | May 15 |
 | **[PRG Real Estate](http://prgrealestate.com)** | **[Leasing Representative Intern](https://jobright.ai/jobs/info/6a0738bd939a5f01db94d6d0?utm_campaign=1051&utm_source=git)** | Clarion Crossing, Raleigh, NC, US | On Site | May 15 |
-| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0737a46186f4685987c3ec?utm_campaign=1051&utm_source=git)** | Canfield, Ohio, United States of America | On Site | May 15 |
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a073794939a5f01db94d5de?utm_campaign=1051&utm_source=git)** | Uniondale, NY | On Site | May 15 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Corporate Development Intern – 2026](https://jobright.ai/jobs/info/69f5f58612f2811ab5a66516?utm_campaign=1051&utm_source=git)** | Richmond, VA | Hybrid | May 15 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695d6a37f5f3c43f38e233c8?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | May 15 |
@@ -126,9 +129,9 @@ For a complete list, click the following sortable link below:
 | **[Playfly Sports](https://www.playfly.com/)** | **[Service Team Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a070909078fec52738a75d1?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | May 15 |
 | ↳ | **[Service Team Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a070908078fec52738a75ca?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
 | ↳ | **[Intern ( Virginia Sports Properties)](https://jobright.ai/jobs/info/6a0708f79f57175bd581f59b?utm_campaign=1051&utm_source=git)** | Charlottesville, Virginia | On Site | May 15 |
-| ↳ | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0708f4078fec52738a7597?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
-| ↳ | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0708f4078fec52738a759c?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | May 15 |
 | ↳ | **[Intern ( Virginia Sports Properties)](https://jobright.ai/jobs/info/6a0708f4078fec52738a7599?utm_campaign=1051&utm_source=git)** | Charlottesville, Virginia, United States | On Site | May 15 |
+| ↳ | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0708f4078fec52738a759c?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | May 15 |
+| ↳ | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0708f4078fec52738a7597?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Inside Sales Representative](https://jobright.ai/jobs/info/69c6e5611818a24cd84c994e?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | May 15 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Affiliate Partnership Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/69cd47dc891d7b11cfcb7089?utm_campaign=1051&utm_source=git)** | Remote - United States | Remote | May 15 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Sales Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a07074f4a0a6a7e7d821d32?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Loenbro](http://loenbro.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6a0701e124dcb03739f1d9e4?utm_campaign=1051&utm_source=git)** | Texas | On Site | May 15 |
 | ↳ | **[Corporate Development Intern](https://jobright.ai/jobs/info/6a0701df24dcb03739f1d9da?utm_campaign=1051&utm_source=git)** | Colorado | On Site | May 15 |
 | **[Geotab](http://www.geotab.com/)** | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0701b71f7fa33581c99b7b?utm_campaign=1051&utm_source=git)** | Toronto | Hybrid | May 15 |
-| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0701b61f7fa33581c99b75?utm_campaign=1051&utm_source=git)** | Oakville | Hybrid | May 15 |
-| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0701b41f7fa33581c99b58?utm_campaign=1051&utm_source=git)** | Burnaby | Hybrid | May 15 |
-| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0701b41f7fa33581c99b57?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
