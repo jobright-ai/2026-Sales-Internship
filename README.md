@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fusion100](http://Fusion100co.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6a0791a33b54ed42d74cf989?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | May 15 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6a0791976186f46859880b56?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 15 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6a079177939a5f01db951896?utm_campaign=1051&utm_source=git)** | Waterloo, Ontario, Canada | On Site | May 15 |
+| **[Continental](https://www.continental.com)** | **[Pricing Intern](https://jobright.ai/jobs/info/6a078bb2403fc339507e5e2c?utm_campaign=1051&utm_source=git)** | Fairlawn, OH | On Site | May 15 |
 | **[ADP Brazil Labs](https://tech.adp.com/careers/locations/brazil/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6a0783f6939a5f01db950dd0?utm_campaign=1051&utm_source=git)** | San Francisco, CA, 94105, United States | On Site | May 15 |
 | **[Hanes Companies, Inc](https://hanescompanies.com/)** | **[Summer Intern – Sales Process Automation & Technology Enablement](https://jobright.ai/jobs/info/6a0783f5939a5f01db950dc2?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | May 15 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0783db939a5f01db950d44?utm_campaign=1051&utm_source=git)** | Tallahassee Metro | Remote | May 15 |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a078109a203b1052e43b9f4?utm_campaign=1051&utm_source=git)** | United States | Remote | May 15 |
 | **[Kinark Child and Family Services](http://www.kinark.on.ca)** | **[Business Development Specialist (Intern)](https://jobright.ai/jobs/info/6a077caa6186f4685987f84b?utm_campaign=1051&utm_source=git)** | Markham, ON L3R 5X5 CA (Primary) | Hybrid | May 15 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[SIR CMA Intern](https://jobright.ai/jobs/info/6a0775cd939a5f01db950461?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | May 15 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6a07730e3b54ed42d74cd8e2?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | May 15 |
@@ -111,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695d6a37f5f3c43f38e233c8?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | May 15 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Ticket Sales Internship (Fall 2026)](https://jobright.ai/jobs/info/6a07339d403fc339507e1ed3?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
 | ↳ | **[Corporate Partnerships Internship (Fall 2026)](https://jobright.ai/jobs/info/6a07326b8f3e371eb6174902?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
-| **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/6a076570403fc339507e39fa?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | May 15 |
 | **[PixelQue Software Pvt Ltd](https://pixelque.com/)** | **[Client Success Intern (Customer Success / SaaS)](https://jobright.ai/jobs/info/6a0731be3b54ed42d74cb2d0?utm_campaign=1051&utm_source=git)** | Oklahoma | On Site | May 15 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Business Development Internship - Fall 2026](https://jobright.ai/jobs/info/6a072df14a0a6a7e7d8260b9?utm_campaign=1051&utm_source=git)** | Knoxville, TN, United States | On Site | May 15 |
 | **[Verkada](https://www.verkada.com)** | **[Channel Enablement Intern](https://jobright.ai/jobs/info/69eb41fa58811370cb1380d3?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | May 15 |
@@ -136,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[AMEND Consulting](https://amendllc.com/)** | **[Sales Analyst - Co-op/Internship](https://jobright.ai/jobs/info/6a0706bd4a0a6a7e7d8218e9?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | May 15 |
 | **[Green Thumb Industries (GTI)](https://www.gtigrows.com/)** | **[Revenue Summer Internship - Sales Team](https://jobright.ai/jobs/info/6a070576078fec52738a6c13?utm_campaign=1051&utm_source=git)** | Chicago | On Site | May 15 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Business Development Internship](https://jobright.ai/jobs/info/69e14637d612782e61147c8b?utm_campaign=1051&utm_source=git)** | Aventura, FL | On Site | May 15 |
-| **[M Booth](http://www.mbooth.com)** | **[Summer 2026 Intern, Strategic Partnerships](https://jobright.ai/jobs/info/6a0704d69f57175bd581f2ef?utm_campaign=1051&utm_source=git)** | New York office only | On Site | May 15 |
-| ↳ | **[Summer 2026 Intern, Strategic Partnerships](https://jobright.ai/jobs/info/6a0704d69f57175bd581f2ea?utm_campaign=1051&utm_source=git)** | New York office | On Site | May 15 |
+| **[M Booth](http://www.mbooth.com)** | **[Summer 2026 Intern, Strategic Partnerships](https://jobright.ai/jobs/info/6a0704d69f57175bd581f2ea?utm_campaign=1051&utm_source=git)** | New York office | On Site | May 15 |
+| ↳ | **[Summer 2026 Intern, Strategic Partnerships](https://jobright.ai/jobs/info/6a0704d69f57175bd581f2ef?utm_campaign=1051&utm_source=git)** | New York office only | On Site | May 15 |
 | **[Kiva](http://kiva.org)** | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0704c94a0a6a7e7d820cb0?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | May 15 |
 | ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0275a5fa1aa73213d9a520?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | May 15 |
 | **[Green Thumb Industries (GTI)](https://www.gtigrows.com/)** | **[Revenue Summer Internship - Sales Team](https://jobright.ai/jobs/info/69c1722475f7ff1cd80f6b15?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 15 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Development Intern](https://jobright.ai/jobs/info/6a0701df24dcb03739f1d9da?utm_campaign=1051&utm_source=git)** | Colorado | On Site | May 15 |
 | **[Geotab](http://www.geotab.com/)** | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0701b71f7fa33581c99b7b?utm_campaign=1051&utm_source=git)** | Toronto | Hybrid | May 15 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0701b61f7fa33581c99b75?utm_campaign=1051&utm_source=git)** | Oakville | Hybrid | May 15 |
-| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0701b41f7fa33581c99b57?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0701b41f7fa33581c99b58?utm_campaign=1051&utm_source=git)** | Burnaby | Hybrid | May 15 |
-| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0701b21f7fa33581c99b4b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 15 |
-| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0701b11f7fa33581c99b49?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia - Canada | Hybrid | May 15 |
+| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0701b41f7fa33581c99b57?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
