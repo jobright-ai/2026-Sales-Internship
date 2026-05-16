@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a07f1e4a203b1052e43fbb1?utm_campaign=1051&utm_source=git)** | United States | Remote | May 15 |
+| **[Nomara USA](https://intermediumcorp.com)** | **[Sales And Marketing Specialist (Internship)](https://jobright.ai/jobs/info/6a07ed6e6186f46859883e22?utm_campaign=1051&utm_source=git)** | United States | Remote | May 15 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a07dc896186f46859883652?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, US-TX-Austin, OVG Austin Office | On Site | May 15 |
+| ↳ | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a07dc876186f4685988364f?utm_campaign=1051&utm_source=git)** | US-TX-Austin | On Site | May 15 |
+| **[Carter Creek Winery Resort & Spa](https://www.cartercreek.com)** | **[Summer Hospitality Sales and Events Intern (Unpaid)](https://jobright.ai/jobs/info/6a07d2d43b54ed42d74d2145?utm_campaign=1051&utm_source=git)** | Johnson City, TX | On Site | May 15 |
+| **[Kinark Child and Family Services](http://www.kinark.on.ca)** | **[Business Development Specialist (Intern)](https://jobright.ai/jobs/info/6a07ceff6186f46859883031?utm_campaign=1051&utm_source=git)** | Markham, Ontario, Canada | Hybrid | May 15 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a07c9a2939a5f01db953b5c?utm_campaign=1051&utm_source=git)** | Detroit Metro | Hybrid | May 15 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Business Development Intern Fall 2026](https://jobright.ai/jobs/info/6a07c1528f3e371eb617a518?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | May 15 |
 | **[Outside ROI](https://outsideroi.co)** | **[Sales & Business Development Intern – Digital Marketing Agency](https://jobright.ai/jobs/info/6a07bf47403fc339507e7d19?utm_campaign=1051&utm_source=git)** | Somerville, NJ | Hybrid | May 15 |
@@ -142,19 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Playfly Sports](https://www.playfly.com/)** | **[Service Team Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a070909078fec52738a75d1?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | May 15 |
 | ↳ | **[Service Team Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a070908078fec52738a75ca?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
 | ↳ | **[Intern ( Virginia Sports Properties)](https://jobright.ai/jobs/info/6a0708f79f57175bd581f59b?utm_campaign=1051&utm_source=git)** | Charlottesville, Virginia | On Site | May 15 |
-| ↳ | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0708f4078fec52738a7597?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
 | ↳ | **[Intern ( Virginia Sports Properties)](https://jobright.ai/jobs/info/6a0708f4078fec52738a7599?utm_campaign=1051&utm_source=git)** | Charlottesville, Virginia, United States | On Site | May 15 |
 | ↳ | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0708f4078fec52738a759c?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | May 15 |
+| ↳ | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0708f4078fec52738a7597?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Inside Sales Representative](https://jobright.ai/jobs/info/69c6e5611818a24cd84c994e?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | May 15 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Affiliate Partnership Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/69cd47dc891d7b11cfcb7089?utm_campaign=1051&utm_source=git)** | Remote - United States | Remote | May 15 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Sales Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a07074f4a0a6a7e7d821d32?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
 | ↳ | **[Sales Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a07074e4a0a6a7e7d821d30?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | May 15 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Merchandising Operations Intern, Accessories & Partnerships](https://jobright.ai/jobs/info/69bb2a293b74eb1e2c8999c9?utm_campaign=1051&utm_source=git)** | New York, New York | Hybrid | May 15 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Sales Development Representative Internship, Summer 2026](https://jobright.ai/jobs/info/6a0706e54a0a6a7e7d821ab9?utm_campaign=1051&utm_source=git)** | Remote - United States | Remote | May 15 |
-| **[AMEND Consulting](https://amendllc.com/)** | **[Sales Analyst - Co-op/Internship](https://jobright.ai/jobs/info/6a0706bd4a0a6a7e7d8218e9?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | May 15 |
-| **[Green Thumb Industries (GTI)](https://www.gtigrows.com/)** | **[Revenue Summer Internship - Sales Team](https://jobright.ai/jobs/info/6a070576078fec52738a6c13?utm_campaign=1051&utm_source=git)** | Chicago | On Site | May 15 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Business Development Internship](https://jobright.ai/jobs/info/69e14637d612782e61147c8b?utm_campaign=1051&utm_source=git)** | Aventura, FL | On Site | May 15 |
-| **[M Booth](http://www.mbooth.com)** | **[Summer 2026 Intern, Strategic Partnerships](https://jobright.ai/jobs/info/6a0704d69f57175bd581f2ef?utm_campaign=1051&utm_source=git)** | New York office only | On Site | May 15 |
-| ↳ | **[Summer 2026 Intern, Strategic Partnerships](https://jobright.ai/jobs/info/6a0704d69f57175bd581f2ea?utm_campaign=1051&utm_source=git)** | New York office | On Site | May 15 |
-| **[Kiva](http://kiva.org)** | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0704c94a0a6a7e7d820cb0?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
