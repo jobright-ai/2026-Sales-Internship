@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smartly](http://smartly.io)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a07a4d73b54ed42d74d0c1b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 15 |
+| **[SoFi Stadium and Hollywood Park](https://www.sofistadium.com/)** | **[Revenue and Partnerships Intern](https://jobright.ai/jobs/info/6a07a4598f3e371eb6179565?utm_campaign=1051&utm_source=git)** | Inglewood, CA | On Site | May 15 |
+| **[Mary Square, LLC](https://www.marysquare.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a07a2dc403fc339507e6de4?utm_campaign=1051&utm_source=git)** | Apex, NC | On Site | May 15 |
+| **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Partnership Fulfillment & Suite Services (56597)](https://jobright.ai/jobs/info/6a07a2916186f46859881ac3?utm_campaign=1051&utm_source=git)** | Wappingers Falls, NY 12590 | On Site | May 15 |
+| **[ARUP Laboratories](http://www.aruplab.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/6a07a1348f3e371eb617936d?utm_campaign=1051&utm_source=git)** | Salt Lake City, Utah, United States | On Site | May 15 |
 | **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a079a3d6186f46859881474?utm_campaign=1051&utm_source=git)** | Garff Enterprises Corporate Office - Salt Lake City, UT, US | On Site | May 15 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0799f3a203b1052e43cf54?utm_campaign=1051&utm_source=git)** | Canfield, Ohio, United States of America | On Site | May 15 |
 | **[Penumbra, Inc.](http://penumbrainc.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a079528a203b1052e43cd28?utm_campaign=1051&utm_source=git)** | Alameda, CA | On Site | May 15 |
@@ -130,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Service Team Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a070908078fec52738a75ca?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
 | ↳ | **[Intern ( Virginia Sports Properties)](https://jobright.ai/jobs/info/6a0708f79f57175bd581f59b?utm_campaign=1051&utm_source=git)** | Charlottesville, Virginia | On Site | May 15 |
 | ↳ | **[Intern ( Virginia Sports Properties)](https://jobright.ai/jobs/info/6a0708f4078fec52738a7599?utm_campaign=1051&utm_source=git)** | Charlottesville, Virginia, United States | On Site | May 15 |
-| ↳ | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0708f4078fec52738a759c?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | May 15 |
 | ↳ | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0708f4078fec52738a7597?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
+| ↳ | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0708f4078fec52738a759c?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | May 15 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Inside Sales Representative](https://jobright.ai/jobs/info/69c6e5611818a24cd84c994e?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | May 15 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Affiliate Partnership Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/69cd47dc891d7b11cfcb7089?utm_campaign=1051&utm_source=git)** | Remote - United States | Remote | May 15 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Sales Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a07074f4a0a6a7e7d821d32?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
@@ -141,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[AMEND Consulting](https://amendllc.com/)** | **[Sales Analyst - Co-op/Internship](https://jobright.ai/jobs/info/6a0706bd4a0a6a7e7d8218e9?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | May 15 |
 | **[Green Thumb Industries (GTI)](https://www.gtigrows.com/)** | **[Revenue Summer Internship - Sales Team](https://jobright.ai/jobs/info/6a070576078fec52738a6c13?utm_campaign=1051&utm_source=git)** | Chicago | On Site | May 15 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Business Development Internship](https://jobright.ai/jobs/info/69e14637d612782e61147c8b?utm_campaign=1051&utm_source=git)** | Aventura, FL | On Site | May 15 |
-| **[M Booth](http://www.mbooth.com)** | **[Summer 2026 Intern, Strategic Partnerships](https://jobright.ai/jobs/info/6a0704d69f57175bd581f2ea?utm_campaign=1051&utm_source=git)** | New York office | On Site | May 15 |
-| ↳ | **[Summer 2026 Intern, Strategic Partnerships](https://jobright.ai/jobs/info/6a0704d69f57175bd581f2ef?utm_campaign=1051&utm_source=git)** | New York office only | On Site | May 15 |
+| **[M Booth](http://www.mbooth.com)** | **[Summer 2026 Intern, Strategic Partnerships](https://jobright.ai/jobs/info/6a0704d69f57175bd581f2ef?utm_campaign=1051&utm_source=git)** | New York office only | On Site | May 15 |
+| ↳ | **[Summer 2026 Intern, Strategic Partnerships](https://jobright.ai/jobs/info/6a0704d69f57175bd581f2ea?utm_campaign=1051&utm_source=git)** | New York office | On Site | May 15 |
 | **[Kiva](http://kiva.org)** | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0704c94a0a6a7e7d820cb0?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | May 15 |
 | ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0275a5fa1aa73213d9a520?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | May 15 |
 | **[Green Thumb Industries (GTI)](https://www.gtigrows.com/)** | **[Revenue Summer Internship - Sales Team](https://jobright.ai/jobs/info/69c1722475f7ff1cd80f6b15?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Distribution Intern](https://jobright.ai/jobs/info/6a0704089f57175bd581e9dc?utm_campaign=1051&utm_source=git)** | Stamford | On Site | May 15 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/6a0703e89f57175bd581e86f?utm_campaign=1051&utm_source=git)** | Amsterdam Depot | On Site | May 15 |
 | **[Selador International](https://www.linkedin.com/company/109013286)** | **[Sales & Client Development Intern](https://jobright.ai/jobs/info/6a0725349f57175bd5820495?utm_campaign=1051&utm_source=git)** | Beaumont-PA Area | On Site | May 15 |
-| **[Mechanical Products Nevada](https://www.mpnevada.com/)** | **[Associate Project Sales Engineer Intern](https://jobright.ai/jobs/info/68bb0e476105227d118a29a2?utm_campaign=1051&utm_source=git)** | Las Vegas, Nevada | On Site | May 15 |
-| ↳ | **[Associate Project Sales Engineer Intern](https://jobright.ai/jobs/info/6a0702219f57175bd581e275?utm_campaign=1051&utm_source=git)** | Las Vegas- Post Rd. | On Site | May 15 |
-| **[Loenbro](http://loenbro.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6a0701e124dcb03739f1d9e4?utm_campaign=1051&utm_source=git)** | Texas | On Site | May 15 |
-| ↳ | **[Corporate Development Intern](https://jobright.ai/jobs/info/6a0701df24dcb03739f1d9da?utm_campaign=1051&utm_source=git)** | Colorado | On Site | May 15 |
-| **[Geotab](http://www.geotab.com/)** | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0701b71f7fa33581c99b7b?utm_campaign=1051&utm_source=git)** | Toronto | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
