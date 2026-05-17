@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a09eba9a203b1052e44b2b4?utm_campaign=1051&utm_source=git)** | United States | Remote | May 17 |
+| **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e743883aa0c479643990d7?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | May 17 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/69e559a13cfd986aa6f826ee?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | May 17 |
 | **[Tindall Corporation](https://tindallcorp.com/)** | **[Intern Sales/Estimating](https://jobright.ai/jobs/info/6a09d8f5403fc339507f4566?utm_campaign=1051&utm_source=git)** | Moss Point, MS, US | On Site | May 17 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a09d628a203b1052e44aec6?utm_campaign=1051&utm_source=git)** | SLC Metro Area | Hybrid | May 17 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/697bedd00b88cc7d6422d6d6?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | May 17 |
@@ -79,15 +82,15 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Account Management Intern - Chicago, IL](https://jobright.ai/jobs/info/699643d681476f6176ae02b8?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | May 16 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) / 3 Months / Canada (Remote) / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0873a2939a5f01db959cc0?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 16 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/6a087398939a5f01db959caa?utm_campaign=1051&utm_source=git)** | Manchester, NH | On Site | May 16 |
-| **[AdTheorent](http://www.adtheorent.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040e?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 16 |
-| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040f?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 16 |
+| **[AdTheorent](http://www.adtheorent.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040f?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 16 |
+| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040e?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444664?utm_campaign=1051&utm_source=git)** | Bellaire | On Site | May 16 |
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444663?utm_campaign=1051&utm_source=git)** | Missouri City | On Site | May 16 |
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a3da203b1052e444632?utm_campaign=1051&utm_source=git)** | Bellaire, TX, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a243b54ed42d74d7815?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a233b54ed42d74d7812?utm_campaign=1051&utm_source=git)** | Rehoboth Beach | On Site | May 16 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c1?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, Austin, TX, US | On Site | May 16 |
-| ↳ | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c2?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, US-TX-Austin | On Site | May 16 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c2?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, US-TX-Austin | On Site | May 16 |
+| ↳ | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c1?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, Austin, TX, US | On Site | May 16 |
 | ↳ | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f26186f468598884bd?utm_campaign=1051&utm_source=git)** | US-TX-Austin | On Site | May 16 |
 | **[SERVPRO of Saginaw /  Bay City](https://www.servprosaginawbaycity.com/)** | **[Summer Hospitality Sales and Events Intern (Unpaid)](https://jobright.ai/jobs/info/6a085f0d3b54ed42d74d72d0?utm_campaign=1051&utm_source=git)** | Johnson City, TX | On Site | May 16 |
 | **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Sales Intern](https://jobright.ai/jobs/info/69965adfe0bddb6acac4cae4?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | May 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PharPoint Research, Inc.](http://pharpoint.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a076a843b54ed42d74cd263?utm_campaign=1051&utm_source=git)** | WILMINGTON,NC,US | On Site | May 15 |
 | **[Maverick](https://www.maverickbuilders.com)** | **[Sales Operations & Business Analytics Intern](https://jobright.ai/jobs/info/6a076a48a203b1052e43a592?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL, US | On Site | May 15 |
 | **[CSpring](http://cspring.com)** | **[Catalyst Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6a076a198f3e371eb617691c?utm_campaign=1051&utm_source=git)** | INDIANAPOLIS,IN,US | On Site | May 15 |
-| **[Technique Partner](https://www.techniquepartner.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a076a01403fc339507e3ddd?utm_campaign=1051&utm_source=git)** | Easton, PA | Hybrid | May 15 |
-| **[Zywave](http://www.zywave.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69ebae8c0a6e0955530498da?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | May 15 |
-| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Buying Intern](https://jobright.ai/jobs/info/69cee712891d7b11cfcce32d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
