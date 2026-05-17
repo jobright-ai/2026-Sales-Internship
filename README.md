@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deltek](http://www.deltek.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a0946fa403fc339507f1f2f?utm_campaign=1051&utm_source=git)** | US (Remote) | Remote | May 16 |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a094323a203b1052e448357?utm_campaign=1051&utm_source=git)** | United States | Remote | May 16 |
 | **[Gourmet Foods International](https://www.gfifoods.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a08f337403fc339507f0a18?utm_campaign=1051&utm_source=git)** | GFI Atlanta - Decatur, GA 30034 | On Site | May 16 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development Executive](https://jobright.ai/jobs/info/6a08e6d8403fc339507f06ec?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | May 16 |
 | ↳ | **[Business Development & Sales Internship (Unpaid) CANADA Remote / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a08ca1aa203b1052e445f7f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69e1168bfd1c0456f3fac6f1?utm_campaign=1051&utm_source=git)** | New Orleans, LA | Remote | May 15 |
 | **[Smartly](http://smartly.io)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a07605b3b54ed42d74ccafe?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | May 15 |
 | ↳ | **[Customer Success Intern](https://jobright.ai/jobs/info/6a0760583b54ed42d74ccafd?utm_campaign=1051&utm_source=git)** | New York | Hybrid | May 15 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6a075b543b54ed42d74cc9de?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | May 15 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/6a075b31939a5f01db94e90d?utm_campaign=1051&utm_source=git)** | Columbia, SC | Remote | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
