@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a090afca203b1052e4472b3?utm_campaign=1051&utm_source=git)** | United States | Remote | May 16 |
 | **[Gourmet Foods International](https://www.gfifoods.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a08f337403fc339507f0a18?utm_campaign=1051&utm_source=git)** | GFI Atlanta - Decatur, GA 30034 | On Site | May 16 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development Executive](https://jobright.ai/jobs/info/6a08e6d8403fc339507f06ec?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | May 16 |
 | ↳ | **[Business Development & Sales Internship (Unpaid) CANADA Remote / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a08ca1aa203b1052e445f7f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 16 |
@@ -73,10 +72,10 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Account Management Intern - Chicago, IL](https://jobright.ai/jobs/info/699643d681476f6176ae02b8?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | May 16 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) / 3 Months / Canada (Remote) / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0873a2939a5f01db959cc0?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 16 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/6a087398939a5f01db959caa?utm_campaign=1051&utm_source=git)** | Manchester, NH | On Site | May 16 |
-| **[AdTheorent](http://www.adtheorent.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040f?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 16 |
-| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040e?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 16 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444664?utm_campaign=1051&utm_source=git)** | Bellaire | On Site | May 16 |
-| ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444663?utm_campaign=1051&utm_source=git)** | Missouri City | On Site | May 16 |
+| **[AdTheorent](http://www.adtheorent.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040e?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 16 |
+| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040f?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 16 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444663?utm_campaign=1051&utm_source=git)** | Missouri City | On Site | May 16 |
+| ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444664?utm_campaign=1051&utm_source=git)** | Bellaire | On Site | May 16 |
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a3da203b1052e444632?utm_campaign=1051&utm_source=git)** | Bellaire, TX, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a243b54ed42d74d7815?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a233b54ed42d74d7812?utm_campaign=1051&utm_source=git)** | Rehoboth Beach | On Site | May 16 |
@@ -112,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Sales And Operations Internship](https://jobright.ai/jobs/info/6a081812939a5f01db956389?utm_campaign=1051&utm_source=git)** | Mokena, IL | On Site | May 16 |
 | **[Sabre Systems, LLC](http://www.sabresystems.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a07fd89939a5f01db955699?utm_campaign=1051&utm_source=git)** | Lexington Park, MD | On Site | May 15 |
 | **[Nomara USA](https://intermediumcorp.com)** | **[Sales And Marketing Specialist (Internship)](https://jobright.ai/jobs/info/6a07ed6e6186f46859883e22?utm_campaign=1051&utm_source=git)** | United States | Remote | May 15 |
+| **[Clarity Partners and Associates](https://www.claritypartnersandassociates.com)** | **[Business Sales Internship](https://jobright.ai/jobs/info/6a091ba4939a5f01db95cd76?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | May 15 |
 | **[Carter Hospitality Group, LLC](https://www.carterhospitality.com)** | **[Summer Hospitality Sales and Events Intern (Unpaid)](https://jobright.ai/jobs/info/6a080b303b54ed42d74d3e34?utm_campaign=1051&utm_source=git)** | Johnson City, TX | On Site | May 15 |
 | **[Carter Creek Winery Resort & Spa](https://www.cartercreek.com)** | **[Summer Hospitality Sales and Events Intern (Unpaid)](https://jobright.ai/jobs/info/6a07d2d43b54ed42d74d2145?utm_campaign=1051&utm_source=git)** | Johnson City, TX | On Site | May 15 |
 | **[Kinark Child and Family Services](http://www.kinark.on.ca)** | **[Business Development Specialist (Intern)](https://jobright.ai/jobs/info/6a07ceff6186f46859883031?utm_campaign=1051&utm_source=git)** | Markham, Ontario, Canada | Hybrid | May 15 |
