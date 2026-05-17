@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a090afca203b1052e4472b3?utm_campaign=1051&utm_source=git)** | United States | Remote | May 16 |
 | **[Gourmet Foods International](https://www.gfifoods.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a08f337403fc339507f0a18?utm_campaign=1051&utm_source=git)** | GFI Atlanta - Decatur, GA 30034 | On Site | May 16 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development Executive](https://jobright.ai/jobs/info/6a08e6d8403fc339507f06ec?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | May 16 |
 | ↳ | **[Business Development & Sales Internship (Unpaid) CANADA Remote / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a08ca1aa203b1052e445f7f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 16 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) USA / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a08b8623b54ed42d74d8d22?utm_campaign=1051&utm_source=git)** | United States | Remote | May 16 |
 | **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Sales & Service Intern](https://jobright.ai/jobs/info/69990f47e0bddb6acac805ce?utm_campaign=1051&utm_source=git)** | Long Beach, CA | Hybrid | May 16 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & B2B Sales Internship (Unpaid) USA / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a08b5783b54ed42d74d8c51?utm_campaign=1051&utm_source=git)** | United States | Remote | May 16 |
-| **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Outreach & Engagement Intern](https://jobright.ai/jobs/info/6a08a3caa203b1052e445664?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 16 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Planning & Allocation](https://jobright.ai/jobs/info/69cee71f398fb071abf8a979?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 16 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Sales Intern (Year-Round)](https://jobright.ai/jobs/info/69ebc3b4dc35f7132c4b320e?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | May 16 |
 | **[KRAFZEN](krafzeninc.com)** | **[(Commission-Based) Cold Calling / Lead Generation Intern](https://jobright.ai/jobs/info/6a088f54939a5f01db95a3d0?utm_campaign=1051&utm_source=git)** | United States | Remote | May 16 |
@@ -80,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a3da203b1052e444632?utm_campaign=1051&utm_source=git)** | Bellaire, TX, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a243b54ed42d74d7815?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a233b54ed42d74d7812?utm_campaign=1051&utm_source=git)** | Rehoboth Beach | On Site | May 16 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c1?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, Austin, TX, US | On Site | May 16 |
-| ↳ | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c2?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, US-TX-Austin | On Site | May 16 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c2?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, US-TX-Austin | On Site | May 16 |
+| ↳ | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c1?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, Austin, TX, US | On Site | May 16 |
 | ↳ | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f26186f468598884bd?utm_campaign=1051&utm_source=git)** | US-TX-Austin | On Site | May 16 |
 | **[SERVPRO of Saginaw /  Bay City](https://www.servprosaginawbaycity.com/)** | **[Summer Hospitality Sales and Events Intern (Unpaid)](https://jobright.ai/jobs/info/6a085f0d3b54ed42d74d72d0?utm_campaign=1051&utm_source=git)** | Johnson City, TX | On Site | May 16 |
 | **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Sales Intern](https://jobright.ai/jobs/info/69965adfe0bddb6acac4cae4?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | May 16 |
