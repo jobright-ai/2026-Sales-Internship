@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0a4169a203b1052e44c87f?utm_campaign=1051&utm_source=git)** | United States | Remote | May 17 |
 | **[Fusion100](http://Fusion100co.com)** | **[Sales and Outreach Intern](https://jobright.ai/jobs/info/6a0a36d73b54ed42d74df0b5?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | May 17 |
 | **[3xLOGIC](https://www.3xlogic.com)** | **[Intern](https://jobright.ai/jobs/info/6a0a2a246186f4685988fab0?utm_campaign=1051&utm_source=git)** | Elmsford, NY, US | On Site | May 17 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0a1de43b54ed42d74dea16?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | May 17 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b98f3e371eb6186bc6?utm_campaign=1051&utm_source=git)** | Charlotte - Caldwell, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b98f3e371eb6186bc3?utm_campaign=1051&utm_source=git)** | Atlanta - Glenridge, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b98f3e371eb6186bc4?utm_campaign=1051&utm_source=git)** | McLean - Pinnacle, US | Hybrid | May 17 |
-| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b88f3e371eb6186bc2?utm_campaign=1051&utm_source=git)** | Hunt Valley - Wight, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b88f3e371eb6186bc1?utm_campaign=1051&utm_source=git)** | Durham - Emperor, US | Hybrid | May 17 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b88f3e371eb6186bc2?utm_campaign=1051&utm_source=git)** | Hunt Valley - Wight, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b78f3e371eb6186bc0?utm_campaign=1051&utm_source=git)** | Richmond - Libbie, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b78f3e371eb6186bbf?utm_campaign=1051&utm_source=git)** | Greenville - Airpark, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b78f3e371eb6186bbe?utm_campaign=1051&utm_source=git)** | Greensboro - North Elm, US | Hybrid | May 17 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/6a087398939a5f01db959caa?utm_campaign=1051&utm_source=git)** | Manchester, NH | On Site | May 16 |
 | **[AdTheorent](http://www.adtheorent.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040e?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040f?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 16 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444664?utm_campaign=1051&utm_source=git)** | Bellaire | On Site | May 16 |
-| ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444663?utm_campaign=1051&utm_source=git)** | Missouri City | On Site | May 16 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444663?utm_campaign=1051&utm_source=git)** | Missouri City | On Site | May 16 |
+| ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444664?utm_campaign=1051&utm_source=git)** | Bellaire | On Site | May 16 |
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a3da203b1052e444632?utm_campaign=1051&utm_source=git)** | Bellaire, TX, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a243b54ed42d74d7815?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a233b54ed42d74d7812?utm_campaign=1051&utm_source=git)** | Rehoboth Beach | On Site | May 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ARUP Laboratories](http://www.aruplab.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/6a07a1348f3e371eb617936d?utm_campaign=1051&utm_source=git)** | Salt Lake City, Utah, United States | On Site | May 15 |
 | **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a079a3d6186f46859881474?utm_campaign=1051&utm_source=git)** | Garff Enterprises Corporate Office - Salt Lake City, UT, US | On Site | May 15 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0799f3a203b1052e43cf54?utm_campaign=1051&utm_source=git)** | Canfield, Ohio, United States of America | On Site | May 15 |
-| **[Penumbra, Inc.](http://penumbrainc.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a079528a203b1052e43cd28?utm_campaign=1051&utm_source=git)** | Alameda, CA | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
