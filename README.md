@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a09b463a203b1052e44a1e4?utm_campaign=1051&utm_source=git)** | United States | Remote | May 17 |
+| **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Sales Intern, North/East Bay, CA - Summer 2026](https://jobright.ai/jobs/info/6a09b0696186f4685988db09?utm_campaign=1051&utm_source=git)** | Napa, CA | Hybrid | May 17 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship](https://jobright.ai/jobs/info/6a09614d939a5f01db95e1c3?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 16 |
 | **[Deltek](http://www.deltek.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a0946fa403fc339507f1f2f?utm_campaign=1051&utm_source=git)** | US (Remote) | Remote | May 16 |
 | **[Gourmet Foods International](https://www.gfifoods.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a08f337403fc339507f0a18?utm_campaign=1051&utm_source=git)** | GFI Atlanta - Decatur, GA 30034 | On Site | May 16 |
@@ -105,8 +107,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Development & Private Event Ascend Internship / Part-Time / Remote](https://jobright.ai/jobs/info/6a084e97a203b1052e44318a?utm_campaign=1051&utm_source=git)** | US-Remote | Remote | May 16 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a084d106186f46859886f26?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, US | On Site | May 16 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a084d0f6186f46859886f22?utm_campaign=1051&utm_source=git)** | US-TX-Fort Worth | On Site | May 16 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a084d0ca203b1052e442ddf?utm_campaign=1051&utm_source=git)** | US-NE-Lincoln | On Site | May 16 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a084d0ca203b1052e442de1?utm_campaign=1051&utm_source=git)** | Lincoln, NE, US | On Site | May 16 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a084d0ca203b1052e442ddf?utm_campaign=1051&utm_source=git)** | US-NE-Lincoln | On Site | May 16 |
 | **[Brightroc Marketing](brightrocmarketing.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/6a020794c2ffb31f4536933b?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | May 16 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/6a083361a203b1052e4423d0?utm_campaign=1051&utm_source=git)** | Norfolk, VA | Remote | May 16 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a082287939a5f01db9566e5?utm_campaign=1051&utm_source=git)** | Cambridge, Ontario, Canada | On Site | May 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plastic Beach](http://www.plastic-beach.com)** | **[San Diego Sustainability Intern (Full-Time - 6 Month Contract)](https://jobright.ai/jobs/info/6a076304939a5f01db94ecde?utm_campaign=1051&utm_source=git)** | Vista, CA | On Site | May 15 |
 | **[Matriosh](Matriosh.com)** | **[Founder Office Intern](https://jobright.ai/jobs/info/6a0762f2a203b1052e43a036?utm_campaign=1051&utm_source=git)** | Stanford, CA | On Site | May 15 |
 | **[PSI Groups](http://psigroups.net)** | **[Intern](https://jobright.ai/jobs/info/69e1168bfd1c0456f3fac6f1?utm_campaign=1051&utm_source=git)** | New Orleans, LA | Remote | May 15 |
-| **[Smartly](http://smartly.io)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a07605b3b54ed42d74ccafe?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | May 15 |
-| ↳ | **[Customer Success Intern](https://jobright.ai/jobs/info/6a0760583b54ed42d74ccafd?utm_campaign=1051&utm_source=git)** | New York | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
