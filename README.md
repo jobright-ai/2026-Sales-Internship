@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a09b463a203b1052e44a1e4?utm_campaign=1051&utm_source=git)** | United States | Remote | May 17 |
+| **[Kemco Systems](https://www.kemcosystems.com)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/6a09c2b2a203b1052e44a4f5?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | May 17 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Sales Intern, North/East Bay, CA - Summer 2026](https://jobright.ai/jobs/info/6a09b0696186f4685988db09?utm_campaign=1051&utm_source=git)** | Napa, CA | Hybrid | May 17 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship](https://jobright.ai/jobs/info/6a09614d939a5f01db95e1c3?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 16 |
 | **[Deltek](http://www.deltek.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a0946fa403fc339507f1f2f?utm_campaign=1051&utm_source=git)** | US (Remote) | Remote | May 16 |
@@ -83,8 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a3da203b1052e444632?utm_campaign=1051&utm_source=git)** | Bellaire, TX, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a243b54ed42d74d7815?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a233b54ed42d74d7812?utm_campaign=1051&utm_source=git)** | Rehoboth Beach | On Site | May 16 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c2?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, US-TX-Austin | On Site | May 16 |
-| ↳ | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c1?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, Austin, TX, US | On Site | May 16 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c1?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, Austin, TX, US | On Site | May 16 |
+| ↳ | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c2?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, US-TX-Austin | On Site | May 16 |
 | ↳ | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f26186f468598884bd?utm_campaign=1051&utm_source=git)** | US-TX-Austin | On Site | May 16 |
 | **[SERVPRO of Saginaw /  Bay City](https://www.servprosaginawbaycity.com/)** | **[Summer Hospitality Sales and Events Intern (Unpaid)](https://jobright.ai/jobs/info/6a085f0d3b54ed42d74d72d0?utm_campaign=1051&utm_source=git)** | Johnson City, TX | On Site | May 16 |
 | **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Sales Intern](https://jobright.ai/jobs/info/69965adfe0bddb6acac4cae4?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | May 16 |
