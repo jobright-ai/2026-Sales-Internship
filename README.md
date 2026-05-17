@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a09eba9a203b1052e44b2b4?utm_campaign=1051&utm_source=git)** | United States | Remote | May 17 |
+| **[LayerZero Labs](https://layerzero.network)** | **[Crypto Business Development Intern](https://jobright.ai/jobs/info/69b396d4ae2a534885eafcfa?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 17 |
+| **[Gate US](https://www.gate.com/en-us)** | **[AI Growth / Partnerships (Contractor / Internship)](https://jobright.ai/jobs/info/6a09f28c6186f4685988ee97?utm_campaign=1051&utm_source=git)** | California, United States | Remote | May 17 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e743883aa0c479643990d7?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | May 17 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/69e559a13cfd986aa6f826ee?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | May 17 |
 | **[Tindall Corporation](https://tindallcorp.com/)** | **[Intern Sales/Estimating](https://jobright.ai/jobs/info/6a09d8f5403fc339507f4566?utm_campaign=1051&utm_source=git)** | Moss Point, MS, US | On Site | May 17 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/6a087398939a5f01db959caa?utm_campaign=1051&utm_source=git)** | Manchester, NH | On Site | May 16 |
 | **[AdTheorent](http://www.adtheorent.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040f?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040e?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 16 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444664?utm_campaign=1051&utm_source=git)** | Bellaire | On Site | May 16 |
-| ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444663?utm_campaign=1051&utm_source=git)** | Missouri City | On Site | May 16 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444663?utm_campaign=1051&utm_source=git)** | Missouri City | On Site | May 16 |
+| ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444664?utm_campaign=1051&utm_source=git)** | Bellaire | On Site | May 16 |
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a3da203b1052e444632?utm_campaign=1051&utm_source=git)** | Bellaire, TX, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a243b54ed42d74d7815?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a233b54ed42d74d7812?utm_campaign=1051&utm_source=git)** | Rehoboth Beach | On Site | May 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boys & Girls Clubs of Greater Dallas](http://www.bgcdallas.org)** | **[DEVELOPMENT & FUNDRAISING INTERN](https://jobright.ai/jobs/info/6a076c0f939a5f01db94f40a?utm_campaign=1051&utm_source=git)** | 4816 Worth St, Dallas, TX | Hybrid | May 15 |
 | **[PharPoint Research, Inc.](http://pharpoint.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a076a843b54ed42d74cd263?utm_campaign=1051&utm_source=git)** | WILMINGTON,NC,US | On Site | May 15 |
 | **[Maverick](https://www.maverickbuilders.com)** | **[Sales Operations & Business Analytics Intern](https://jobright.ai/jobs/info/6a076a48a203b1052e43a592?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL, US | On Site | May 15 |
-| **[CSpring](http://cspring.com)** | **[Catalyst Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6a076a198f3e371eb617691c?utm_campaign=1051&utm_source=git)** | INDIANAPOLIS,IN,US | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
