@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0aebf2963f7a67d95ca918?utm_campaign=1051&utm_source=git)** | United States | Remote | May 18 |
+| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/6a0ae5c6963f7a67d95ca50d?utm_campaign=1051&utm_source=git)** | Amsterdam Depot | On Site | May 18 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX Corporation Internship Program - Ad Sales](https://jobright.ai/jobs/info/6a0acd2d6186f468598928d4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 18 |
 | ↳ | **[Fall 2026 FOX Corporation Internship Program - Ad Sales - Detroit](https://jobright.ai/jobs/info/6a0acd22939a5f01db96405c?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | May 18 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0ac0308f3e371eb618a356?utm_campaign=1051&utm_source=git)** | SLC Metro Area | Hybrid | May 18 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e743883aa0c479643990d7?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | May 17 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/69e559a13cfd986aa6f826ee?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | May 17 |
 | **[Tindall Corporation](https://tindallcorp.com/)** | **[Intern Sales/Estimating](https://jobright.ai/jobs/info/6a09d8f5403fc339507f4566?utm_campaign=1051&utm_source=git)** | Moss Point, MS, US | On Site | May 17 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a09d628a203b1052e44aec6?utm_campaign=1051&utm_source=git)** | SLC Metro Area | Hybrid | May 17 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/697bedd00b88cc7d6422d6d6?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | May 17 |
 | **[Kemco Systems](https://www.kemcosystems.com)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/6a09c2b2a203b1052e44a4f5?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | May 17 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Sales Intern, North/East Bay, CA - Summer 2026](https://jobright.ai/jobs/info/6a09b0696186f4685988db09?utm_campaign=1051&utm_source=git)** | Napa, CA | Hybrid | May 17 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Account Management Intern - Chicago, IL](https://jobright.ai/jobs/info/699643d681476f6176ae02b8?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | May 16 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) / 3 Months / Canada (Remote) / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0873a2939a5f01db959cc0?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 16 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/6a087398939a5f01db959caa?utm_campaign=1051&utm_source=git)** | Manchester, NH | On Site | May 16 |
-| **[AdTheorent](http://www.adtheorent.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040f?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 16 |
-| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040e?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 16 |
+| **[AdTheorent](http://www.adtheorent.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040e?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 16 |
+| ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040f?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444663?utm_campaign=1051&utm_source=git)** | Missouri City | On Site | May 16 |
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444664?utm_campaign=1051&utm_source=git)** | Bellaire | On Site | May 16 |
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a3da203b1052e444632?utm_campaign=1051&utm_source=git)** | Bellaire, TX, US | On Site | May 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Business Development Intern Fall 2026](https://jobright.ai/jobs/info/6a07c1528f3e371eb617a518?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | May 15 |
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[Acquisitions Intern - Mission Pet Health](https://jobright.ai/jobs/info/6a07bcce3b54ed42d74d1733?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | May 15 |
 | **[SERVPRO of Saginaw /  Bay City](https://www.servprosaginawbaycity.com/)** | **[Summer Hospitality Sales and Events Intern (Unpaid)](https://jobright.ai/jobs/info/6a07bb508f3e371eb6179fc6?utm_campaign=1051&utm_source=git)** | Johnson City, TX, US | On Site | May 15 |
-| **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a07b9c68f3e371eb6179f1c?utm_campaign=1051&utm_source=git)** | SLC Metro Area | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
