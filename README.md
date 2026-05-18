@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0b3f2b963f7a67d95cd8b2?utm_campaign=1051&utm_source=git)** | United States | Remote | May 18 |
+| **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) – Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0b3c22963f7a67d95cd58e?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
+| **[Summit Events](summiteventsclt.com)** | **[Event Sales Intern (Paid Internship)](https://jobright.ai/jobs/info/6a0b3b780411d7417a1ae540?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 18 |
+| **[Amentum](https://www.amentum.com/)** | **[GSCM Intern](https://jobright.ai/jobs/info/6a0b39e4a235d749afa829c9?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 18 |
+| ↳ | **[GSCM Intern](https://jobright.ai/jobs/info/6a0b39e2a235d749afa829c7?utm_campaign=1051&utm_source=git)** | US-Remote, US | Remote | May 18 |
+| **[Leidos](https://www.leidos.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b39a2a235d749afa8291c?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | May 18 |
 | **[Beatlibrary](https://beatlibrary.io)** | **[Strategic Partnerships](https://jobright.ai/jobs/info/6a0b2d150411d7417a1ade4b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | May 18 |
 | **[Allient](https://allient.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a0b2b7122d0d34036c8921d?utm_campaign=1051&utm_source=git)** | OSHKOSH, WI, US | On Site | May 18 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2027 Global Capital Markets Summer Intern – Sales & Trading](https://jobright.ai/jobs/info/6a0b2a794d9320363686deda?utm_campaign=1051&utm_source=git)** | Charlotte, NC, US | Hybrid | May 18 |
@@ -87,16 +93,16 @@ For a complete list, click the following sortable link below:
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0a1dd6939a5f01db960f0b?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | May 17 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[TruckPaper Sales Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382910?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | May 17 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[In House Sales Data & Projects Intern](https://jobright.ai/jobs/info/697d5cfa3f57a33569673ed0?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | May 17 |
-| **[Mercer Company](https://mercer-company.com/)** | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04ba8f3e371eb6186bc7?utm_campaign=1051&utm_source=git)** | Greenville - South Pleasantbur, US | Hybrid | May 17 |
-| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04ba8f3e371eb6186bc8?utm_campaign=1051&utm_source=git)** | Raleigh - Sugar Bush, US | Hybrid | May 17 |
-| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b98f3e371eb6186bc4?utm_campaign=1051&utm_source=git)** | McLean - Pinnacle, US | Hybrid | May 17 |
-| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b98f3e371eb6186bc6?utm_campaign=1051&utm_source=git)** | Charlotte - Caldwell, US | Hybrid | May 17 |
+| **[Mercer Company](https://mercer-company.com/)** | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04ba8f3e371eb6186bc8?utm_campaign=1051&utm_source=git)** | Raleigh - Sugar Bush, US | Hybrid | May 17 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04ba8f3e371eb6186bc7?utm_campaign=1051&utm_source=git)** | Greenville - South Pleasantbur, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b98f3e371eb6186bc3?utm_campaign=1051&utm_source=git)** | Atlanta - Glenridge, US | Hybrid | May 17 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b98f3e371eb6186bc6?utm_campaign=1051&utm_source=git)** | Charlotte - Caldwell, US | Hybrid | May 17 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b98f3e371eb6186bc4?utm_campaign=1051&utm_source=git)** | McLean - Pinnacle, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b98f3e371eb6186bc5?utm_campaign=1051&utm_source=git)** | Charlotte - Carnegie Boulevard, US | Hybrid | May 17 |
-| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b88f3e371eb6186bc1?utm_campaign=1051&utm_source=git)** | Durham - Emperor, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b88f3e371eb6186bc2?utm_campaign=1051&utm_source=git)** | Hunt Valley - Wight, US | Hybrid | May 17 |
-| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b78f3e371eb6186bc0?utm_campaign=1051&utm_source=git)** | Richmond - Libbie, US | Hybrid | May 17 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b88f3e371eb6186bc1?utm_campaign=1051&utm_source=git)** | Durham - Emperor, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b78f3e371eb6186bbe?utm_campaign=1051&utm_source=git)** | Greensboro - North Elm, US | Hybrid | May 17 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b78f3e371eb6186bc0?utm_campaign=1051&utm_source=git)** | Richmond - Libbie, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b78f3e371eb6186bbf?utm_campaign=1051&utm_source=git)** | Greenville - Airpark, US | Hybrid | May 17 |
 | **[LayerZero Labs](https://layerzero.network)** | **[Crypto Business Development Intern](https://jobright.ai/jobs/info/69b396d4ae2a534885eafcfa?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 17 |
 | **[Gate US](https://www.gate.com/en-us)** | **[AI Growth / Partnerships (Contractor / Internship)](https://jobright.ai/jobs/info/6a09f28c6186f4685988ee97?utm_campaign=1051&utm_source=git)** | California, United States | Remote | May 17 |
@@ -129,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a3da203b1052e444632?utm_campaign=1051&utm_source=git)** | Bellaire, TX, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a243b54ed42d74d7815?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a233b54ed42d74d7812?utm_campaign=1051&utm_source=git)** | Rehoboth Beach | On Site | May 16 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c1?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, Austin, TX, US | On Site | May 16 |
-| ↳ | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c2?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, US-TX-Austin | On Site | May 16 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c2?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, US-TX-Austin | On Site | May 16 |
+| ↳ | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f46186f468598884c1?utm_campaign=1051&utm_source=git)** | 401 Congress Ave, Austin, TX, US | On Site | May 16 |
 | ↳ | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a0868f26186f468598884bd?utm_campaign=1051&utm_source=git)** | US-TX-Austin | On Site | May 16 |
 | **[SERVPRO of Saginaw /  Bay City](https://www.servprosaginawbaycity.com/)** | **[Summer Hospitality Sales and Events Intern (Unpaid)](https://jobright.ai/jobs/info/6a085f0d3b54ed42d74d72d0?utm_campaign=1051&utm_source=git)** | Johnson City, TX | On Site | May 16 |
 | **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Sales Intern](https://jobright.ai/jobs/info/69965adfe0bddb6acac4cae4?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | May 16 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Hyland](https://www.hyland.com/)** | **[Intern, Sales Support](https://jobright.ai/jobs/info/6a08503b939a5f01db95853b?utm_campaign=1051&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 16 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a084f878f3e371eb617f329?utm_campaign=1051&utm_source=git)** | US-CA-Irvine | On Site | May 16 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a024a77238f143e83532a2c?utm_campaign=1051&utm_source=git)** | Irvine, CA, US | On Site | May 16 |
-| **[Sharp Business USA](https://business.sharpusa.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a084f85939a5f01db958332?utm_campaign=1051&utm_source=git)** | Renton, WA, US | Hybrid | May 16 |
 | **[MSCI Private Assets](https://www.msci.com/research-and-insights)** | **[Intern, Client Coverage (Index Team)](https://jobright.ai/jobs/info/6a084eac8f3e371eb617f0e3?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | ↳ | **[Intern, Client Coverage (Index Team)](https://jobright.ai/jobs/info/6a084eab8f3e371eb617f0dd?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Content Development & Private Event Ascend Internship / Part-Time / Remote](https://jobright.ai/jobs/info/6a084e98a203b1052e44318b?utm_campaign=1051&utm_source=git)** | United States | Remote | May 16 |
 | ↳ | **[Content Development & Private Event Ascend Internship / Part-Time / Remote](https://jobright.ai/jobs/info/6a084e97a203b1052e44318a?utm_campaign=1051&utm_source=git)** | US-Remote | Remote | May 16 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a084d106186f46859886f26?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, US | On Site | May 16 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a084d0f6186f46859886f22?utm_campaign=1051&utm_source=git)** | US-TX-Fort Worth | On Site | May 16 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a084d0ca203b1052e442de1?utm_campaign=1051&utm_source=git)** | Lincoln, NE, US | On Site | May 16 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a084d0ca203b1052e442ddf?utm_campaign=1051&utm_source=git)** | US-NE-Lincoln | On Site | May 16 |
-| **[Vanillakart](https://vanillakart.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/6a083361a203b1052e4423d0?utm_campaign=1051&utm_source=git)** | Norfolk, VA | Remote | May 16 |
-| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a082287939a5f01db9566e5?utm_campaign=1051&utm_source=git)** | Cambridge, Ontario, Canada | On Site | May 16 |
-| ↳ | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/6a082122a203b1052e44169a?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
