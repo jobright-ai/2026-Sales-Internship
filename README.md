@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0ab1dea203b1052e44e8e0?utm_campaign=1051&utm_source=git)** | United States | Remote | May 17 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0ac0308f3e371eb618a356?utm_campaign=1051&utm_source=git)** | SLC Metro Area | Hybrid | May 18 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX Corporation Internship Program - Ad Sales - Detroit](https://jobright.ai/jobs/info/6a0a92c8939a5f01db962f67?utm_campaign=1051&utm_source=git)** | Detroit, Michigan, USA, US | On Site | May 17 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0a75568f3e371eb6188abb?utm_campaign=1051&utm_source=git)** | Boca Raton, Florida, United States of America | On Site | May 17 |
 | **[Cruze](https://cruzemaps.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0a72ab3b54ed42d74dff91?utm_campaign=1051&utm_source=git)** | United States | Remote | May 17 |
@@ -72,15 +72,15 @@ For a complete list, click the following sortable link below:
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[In House Sales Data & Projects Intern](https://jobright.ai/jobs/info/697d5cfa3f57a33569673ed0?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | May 17 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04ba8f3e371eb6186bc7?utm_campaign=1051&utm_source=git)** | Greenville - South Pleasantbur, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04ba8f3e371eb6186bc8?utm_campaign=1051&utm_source=git)** | Raleigh - Sugar Bush, US | Hybrid | May 17 |
-| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b98f3e371eb6186bc4?utm_campaign=1051&utm_source=git)** | McLean - Pinnacle, US | Hybrid | May 17 |
-| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b98f3e371eb6186bc6?utm_campaign=1051&utm_source=git)** | Charlotte - Caldwell, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b98f3e371eb6186bc3?utm_campaign=1051&utm_source=git)** | Atlanta - Glenridge, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b98f3e371eb6186bc5?utm_campaign=1051&utm_source=git)** | Charlotte - Carnegie Boulevard, US | Hybrid | May 17 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b98f3e371eb6186bc4?utm_campaign=1051&utm_source=git)** | McLean - Pinnacle, US | Hybrid | May 17 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b98f3e371eb6186bc6?utm_campaign=1051&utm_source=git)** | Charlotte - Caldwell, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b88f3e371eb6186bc1?utm_campaign=1051&utm_source=git)** | Durham - Emperor, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b88f3e371eb6186bc2?utm_campaign=1051&utm_source=git)** | Hunt Valley - Wight, US | Hybrid | May 17 |
-| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b78f3e371eb6186bbf?utm_campaign=1051&utm_source=git)** | Greenville - Airpark, US | Hybrid | May 17 |
-| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b78f3e371eb6186bbe?utm_campaign=1051&utm_source=git)** | Greensboro - North Elm, US | Hybrid | May 17 |
 | ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b78f3e371eb6186bc0?utm_campaign=1051&utm_source=git)** | Richmond - Libbie, US | Hybrid | May 17 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b78f3e371eb6186bbe?utm_campaign=1051&utm_source=git)** | Greensboro - North Elm, US | Hybrid | May 17 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/6a0a04b78f3e371eb6186bbf?utm_campaign=1051&utm_source=git)** | Greenville - Airpark, US | Hybrid | May 17 |
 | **[LayerZero Labs](https://layerzero.network)** | **[Crypto Business Development Intern](https://jobright.ai/jobs/info/69b396d4ae2a534885eafcfa?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 17 |
 | **[Gate US](https://www.gate.com/en-us)** | **[AI Growth / Partnerships (Contractor / Internship)](https://jobright.ai/jobs/info/6a09f28c6186f4685988ee97?utm_campaign=1051&utm_source=git)** | California, United States | Remote | May 17 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69e743883aa0c479643990d7?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | May 17 |
@@ -109,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/6a087398939a5f01db959caa?utm_campaign=1051&utm_source=git)** | Manchester, NH | On Site | May 16 |
 | **[AdTheorent](http://www.adtheorent.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040f?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | ↳ | **[Account Management Intern](https://jobright.ai/jobs/info/6a086bfe8f3e371eb618040e?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 16 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444663?utm_campaign=1051&utm_source=git)** | Missouri City | On Site | May 16 |
-| ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444664?utm_campaign=1051&utm_source=git)** | Bellaire | On Site | May 16 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444664?utm_campaign=1051&utm_source=git)** | Bellaire | On Site | May 16 |
+| ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a48a203b1052e444663?utm_campaign=1051&utm_source=git)** | Missouri City | On Site | May 16 |
 | ↳ | **[Sales Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a086a3da203b1052e444632?utm_campaign=1051&utm_source=git)** | Bellaire, TX, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a243b54ed42d74d7815?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a086a233b54ed42d74d7812?utm_campaign=1051&utm_source=git)** | Rehoboth Beach | On Site | May 16 |
