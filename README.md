@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mavenwit](https://www.mavenwit.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0c6616538d03366dc8d0d1?utm_campaign=1051&utm_source=git)** | United States | Remote | May 19 |
+| **[Influenceable](https://influenceable.io)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a0c6427963f7a67d95d76cd?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 19 |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6a0c6125963f7a67d95d6f07?utm_campaign=1051&utm_source=git)** | United States | Remote | May 19 |
+| **[RapidRatings](http://www.rapidratings.com/)** | **[Customer Engagement Intern](https://jobright.ai/jobs/info/69efe710e624fe645d534101?utm_campaign=1051&utm_source=git)** | Quincy, MA | Hybrid | May 19 |
 | **[Libre Tax Service](https://libretaxservice.com/)** | **[Sales Intern - United States](https://jobright.ai/jobs/info/6a0c524d4d93203636876f76?utm_campaign=1051&utm_source=git)** | United States | Remote | May 19 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/69f012e8d4710347188c5ec1?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | May 19 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/6a0c470b538d03366dc8b715?utm_campaign=1051&utm_source=git)** | Cromwell, CT | On Site | May 19 |
@@ -129,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0b597b963f7a67d95cec09?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | May 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0b5804538d03366dc84453?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | May 18 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) USA / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0b5663a235d749afa84191?utm_campaign=1051&utm_source=git)** | United States | Remote | May 18 |
-| **[Challenge Manufacturing](http://challenge-mfg.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b564e22d0d34036c8af5f?utm_campaign=1051&utm_source=git)** | Walker, MI - Corporate | On Site | May 18 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b564e22d0d34036c8af60?utm_campaign=1051&utm_source=git)** | 3200 Fruit Ridge Ave, Walker, MI 49544 | On Site | May 18 |
+| **[Challenge Manufacturing](http://challenge-mfg.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b564e22d0d34036c8af60?utm_campaign=1051&utm_source=git)** | 3200 Fruit Ridge Ave, Walker, MI 49544 | On Site | May 18 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b564e22d0d34036c8af5f?utm_campaign=1051&utm_source=git)** | Walker, MI - Corporate | On Site | May 18 |
 | **[Innominds](https://www.innominds.com)** | **[Demand Generation Intern / Fresher](https://jobright.ai/jobs/info/6a0b5281538d03366dc83f81?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | May 18 |
 | **[The Lane Construction Corporation](https://www.laneconstruct.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b52044d9320363686f948?utm_campaign=1051&utm_source=git)** | Herndon, VA | On Site | May 18 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Intern](https://jobright.ai/jobs/info/6a0b51cc22d0d34036c8ac1d?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | May 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OXEA](https://oxea.com)** | **[Summer Intern - Business Support](https://jobright.ai/jobs/info/6a0b27f90411d7417a1adbe9?utm_campaign=1051&utm_source=git)** | Houston | Hybrid | May 18 |
 | **[Leidos Australia](https://www.leidos.com/company/global/australia)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b277522d0d34036c8900e?utm_campaign=1051&utm_source=git)** | Reston, Virginia, United States | On Site | May 18 |
 | **[Crescendo International](https://crescendointernational.co/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a056862a88ea73abf7f0e4a?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | May 18 |
-| **[Leidos](https://www.leidos.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b1ece4d9320363686d698?utm_campaign=1051&utm_source=git)** | Reston, VA, US | On Site | May 18 |
-| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0b1e4a963f7a67d95cc236?utm_campaign=1051&utm_source=git)** | Houston, Texas, United States of America | On Site | May 18 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a0b1e40a235d749afa81af5?utm_campaign=1051&utm_source=git)** | New York, New York, United States of America | On Site | May 18 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a0b1e38538d03366dc81c2a?utm_campaign=1051&utm_source=git)** | New York, New York, United States of America | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
