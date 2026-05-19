@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NexCore Group](http://nexcoregroup.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0bb9bf22d0d34036c8f49b?utm_campaign=1051&utm_source=git)** | Denver, CO 80202, USA | On Site | May 18 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0bb6074d93203636873acf?utm_campaign=1051&utm_source=git)** | CA-MB-Winnipeg | Hybrid | May 18 |
+| ↳ | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0bb6024d93203636873acd?utm_campaign=1051&utm_source=git)** | Winnipeg, MB, CA | Hybrid | May 18 |
 | **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Sales Intern](https://jobright.ai/jobs/info/6a0badd7963f7a67d95d242e?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | May 18 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Sales and Operations Intern](https://jobright.ai/jobs/info/6a0badb3a235d749afa87d5d?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | May 18 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Marketplace Operations](https://jobright.ai/jobs/info/6a0bab070411d7417a1b32fa?utm_campaign=1051&utm_source=git)** | Paramus, NJ | Hybrid | May 18 |
@@ -97,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall Financial Representative Internship](https://jobright.ai/jobs/info/6a0b89914d93203636872051?utm_campaign=1051&utm_source=git)** | Boise Metropolitan Area | Hybrid | May 18 |
 | **[MSCI Private Assets](https://www.msci.com/research-and-insights)** | **[Intern Client Coverage Index Team](https://jobright.ai/jobs/info/6a0b6236a235d749afa84c44?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 18 |
 | ↳ | **[Intern Client Coverage Index Team](https://jobright.ai/jobs/info/6a0b6235a235d749afa84c42?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 18 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2df?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
-| ↳ | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2e0?utm_campaign=1051&utm_source=git)** | Tampa - South Tampa | On Site | May 18 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2e0?utm_campaign=1051&utm_source=git)** | Tampa - South Tampa | On Site | May 18 |
+| ↳ | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2df?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
 | ↳ | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0b62180411d7417a1b04a8?utm_campaign=1051&utm_source=git)** | Tampa - North Tampa | On Site | May 18 |
 | ↳ | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0b62170411d7417a1b04a7?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC Telemundo Connecticut Sales Intern - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a0b60ea963f7a67d95cf28a?utm_campaign=1051&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | May 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX Corporation Internship Program - Ad Sales](https://jobright.ai/jobs/info/6a0acd2d6186f468598928d4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 18 |
 | ↳ | **[Fall 2026 FOX Corporation Internship Program - Ad Sales - Detroit](https://jobright.ai/jobs/info/6a0acd22939a5f01db96405c?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | May 18 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX Corporation Internship Program - Ad Sales - Detroit](https://jobright.ai/jobs/info/6a0a92c8939a5f01db962f67?utm_campaign=1051&utm_source=git)** | Detroit, Michigan, USA, US | On Site | May 17 |
-| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0a75568f3e371eb6188abb?utm_campaign=1051&utm_source=git)** | Boca Raton, Florida, United States of America | On Site | May 17 |
-| **[Nonsense](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0a4dee3b54ed42d74df826?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | May 17 |
-| **[Sunstate Solutions](https://www.sunstate-solutions.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6a0a4daba203b1052e44cb5c?utm_campaign=1051&utm_source=git)** | Windermere, FL | On Site | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
