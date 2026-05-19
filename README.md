@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0cadc8963f7a67d95da664?utm_campaign=1051&utm_source=git)** | United States | Remote | May 19 |
+| **[MAHLE](https://www.mahle.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0cbb68538d03366dc90879?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI | On Site | May 19 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Global Sales - SEA (Fall 2026)](https://jobright.ai/jobs/info/6a0cba0822d0d34036c97ac9?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | May 19 |
+| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0cb6224d9320363687b296?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, Florida, United States of America | On Site | May 19 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a0cb61f538d03366dc903dc?utm_campaign=1051&utm_source=git)** | Virginia Beach, Virginia, United States of America | On Site | May 19 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Programs and Deal Design - Deal Success Center Americas](https://jobright.ai/jobs/info/6a0c09a64d93203636875853?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | May 19 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Twin Cities](https://jobright.ai/jobs/info/6a0cb5d80411d7417a1bb86c?utm_campaign=1051&utm_source=git)** | Burnsville, MN, United States | On Site | May 19 |
+| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Pall Medical Technical Inside Sales Intern](https://jobright.ai/jobs/info/6a0cb2e9538d03366dc901be?utm_campaign=1051&utm_source=git)** | Marlborough, Massachusetts, United States of America | Remote | May 19 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - BTM (Business Transformation Management)](https://jobright.ai/jobs/info/6a0cb1274d9320363687af52?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Strategic Sales & Analytics Intern (September to December)](https://jobright.ai/jobs/info/69d4f713891d7b11cfcfeb03?utm_campaign=1051&utm_source=git)** | Needham, MA | Hybrid | May 19 |
 | **[Danaher Corporation](https://www.danaher.com/)** | **[Pall Medical Technical Inside Sales Intern](https://jobright.ai/jobs/info/6a0caa4822d0d34036c96d95?utm_campaign=1051&utm_source=git)** | USA - Marlborough Results Way - Multiple OpCo, US | Remote | May 19 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Intern - Fire](https://jobright.ai/jobs/info/6a0ca8b9a235d749afa8ed72?utm_campaign=1051&utm_source=git)** | Horsham-Pennsylvania-United States of America, US | Hybrid | May 19 |
@@ -76,8 +83,6 @@ For a complete list, click the following sortable link below:
 | **[MAHLE](https://www.mahle.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0c968a4d93203636879e04?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI, US, 48335 | On Site | May 19 |
 | **[Convergint](http://www.convergint.com)** | **[Intern](https://jobright.ai/jobs/info/6a0c91bb538d03366dc8eb69?utm_campaign=1051&utm_source=git)** | Cincinnati, Ohio, United States | Remote | May 19 |
 | **[Caprae Capital Partners](https://www.capraecapital.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6a0c8c290411d7417a1b9a2e?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 19 |
-| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Miami, Investment Sales](https://jobright.ai/jobs/info/6a0c8c2122d0d34036c9558a?utm_campaign=1051&utm_source=git)** | Miami, Florida, United States | On Site | May 19 |
-| ↳ | **[2026 Summer Intern- Miami, Investment Sales](https://jobright.ai/jobs/info/6a0c8c2122d0d34036c95588?utm_campaign=1051&utm_source=git)** | Miami - 1111 Brickell Ave | On Site | May 19 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Institutional Sales](https://jobright.ai/jobs/info/6a0c8bff0411d7417a1b99fe?utm_campaign=1051&utm_source=git)** | Greenwich, Connecticut, United States | On Site | May 19 |
 | **[Advocate Financial Life & Health Brokerage](https://www.myadvocatefinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0c86b7538d03366dc8e2de?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | May 19 |
 | **[DuBois Chemicals, Inc.](http://www.duboischemicals.com)** | **[Channel Sales Planner Intern](https://jobright.ai/jobs/info/6a0c85daa235d749afa8d821?utm_campaign=1051&utm_source=git)** | United States | Remote | May 19 |
@@ -92,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Caprae Capital Partners](https://www.capraecapital.com)** | **[Undergrad Buyside Analyst](https://jobright.ai/jobs/info/6a0c9b024d9320363687a0db?utm_campaign=1051&utm_source=git)** | LA Metro Area | Remote | May 19 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Internship Guest Relations and Client Experience - John Lobb](https://jobright.ai/jobs/info/6a0c749b538d03366dc8d78f?utm_campaign=1051&utm_source=git)** | Manhattan, NY, Etats-Unis | On Site | May 19 |
 | **[First Internet Bank](https://www.firstib.com)** | **[Banking Apprentice](https://jobright.ai/jobs/info/69b81ff63b74eb1e2c85c3bd?utm_campaign=1051&utm_source=git)** | Fishers, IN | On Site | May 19 |
-| **[Influenceable](https://influenceable.io)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0ca3b70411d7417a1baa85?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 19 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Wilmington NC](https://jobright.ai/jobs/info/6a0c7429a235d749afa8ccf4?utm_campaign=1051&utm_source=git)** | Wilmington, NC | On Site | May 19 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0c703e22d0d34036c94288?utm_campaign=1051&utm_source=git)** | Memphis, Tennessee, United States of America | On Site | May 19 |
 | **[Dunham's Sports](http://www.dunhamssports.com/)** | **[Buyer Intern](https://jobright.ai/jobs/info/6a0c6f65538d03366dc8d31f?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | May 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall Financial Representative Internship](https://jobright.ai/jobs/info/6a0b89914d93203636872051?utm_campaign=1051&utm_source=git)** | Boise Metropolitan Area | Hybrid | May 18 |
 | **[MSCI Private Assets](https://www.msci.com/research-and-insights)** | **[Intern Client Coverage Index Team](https://jobright.ai/jobs/info/6a0b6236a235d749afa84c44?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 18 |
 | ↳ | **[Intern Client Coverage Index Team](https://jobright.ai/jobs/info/6a0b6235a235d749afa84c42?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 18 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2e0?utm_campaign=1051&utm_source=git)** | Tampa - South Tampa | On Site | May 18 |
-| ↳ | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2df?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
-| ↳ | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0b62180411d7417a1b04a8?utm_campaign=1051&utm_source=git)** | Tampa - North Tampa | On Site | May 18 |
-| ↳ | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0b62170411d7417a1b04a7?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
