@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0be361963f7a67d95d39f3?utm_campaign=1051&utm_source=git)** | New Orleans, Louisiana, United States of America | On Site | May 18 |
-| **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0bdfc6538d03366dc895d0?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
+| **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0c08a522d0d34036c91187?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
+| ↳ | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0bdfc6538d03366dc895d0?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
 | ↳ | **[Business Development & Sales Internship (Unpaid) – Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0bdfc6538d03366dc895cf?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
 | **[Metal Craft and Riverside Machine & Engineering](https://mcandrs.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0bdf710411d7417a1b4b7c?utm_campaign=1051&utm_source=git)** | Metal Craft, Elk River, MN, US | On Site | May 18 |
 | **[Altitude Promotions](https://altitudepromotions.com)** | **[B2B Intern](https://jobright.ai/jobs/info/6a0bdd39a235d749afa89028?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 18 |
@@ -133,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Exito Universal Inc.](https://exitouniversalinc.com/)** | **[Graduate Events Sales Intern](https://jobright.ai/jobs/info/6a0b4ddb0411d7417a1af5e1?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | On Site | May 18 |
 | **[Yank Technologies, Inc.](http://www.yanktechnologies.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b4c8f538d03366dc83e1e?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | May 18 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a0b4b420411d7417a1af2e0?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | May 18 |
-| ↳ | **[Leasing intern- Greeley](https://jobright.ai/jobs/info/6a0b4b12963f7a67d95ce1d6?utm_campaign=1051&utm_source=git)** | Greeley, CO | On Site | May 18 |
 | **[Allient](https://allient.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a0b4b0b963f7a67d95ce1c9?utm_campaign=1051&utm_source=git)** | Oshkosh, WI | On Site | May 18 |
 | **[AIR Asset Management](https://airassetmanagement.com/)** | **[Sales & Operations Intern](https://jobright.ai/jobs/info/6a0b4866963f7a67d95cdec2?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Development Intern](https://jobright.ai/jobs/info/6a0b46cba235d749afa8379d?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 18 |
