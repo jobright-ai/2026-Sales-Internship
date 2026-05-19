@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0b9677963f7a67d95d1869?utm_campaign=1051&utm_source=git)** | United States | Remote | May 18 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/6a0ba0784d93203636872eb3?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | May 18 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0ba078538d03366dc8777f?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | May 18 |
+| **[NexCore Group](http://nexcoregroup.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0ba06e538d03366dc8775e?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | May 18 |
+| **[Constant Contact](http://www.constantcontact.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a0b9a934d93203636872caf?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | May 18 |
 | **[Temporal Technologies](https://temporal.io)** | **[Business Development Operations & AI Automation Internship](https://jobright.ai/jobs/info/6a0b94530411d7417a1b296a?utm_campaign=1051&utm_source=git)** | United States | Hybrid | May 18 |
 | **[Lenox Advisors](http://lenoxadvisors.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0b930f22d0d34036c8e032?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 18 |
 | **[Preserve Shady Rest Country Club](preserveshadyrest.org)** | **[Donor Giving & Development Internship (Summer 2026)](https://jobright.ai/jobs/info/6a0b92f222d0d34036c8dfe2?utm_campaign=1051&utm_source=git)** | Scotch Plains, NJ | Hybrid | May 18 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Marketplace Operations](https://jobright.ai/jobs/info/6a0b80f2a235d749afa8618b?utm_campaign=1051&utm_source=git)** | New York, NY, US | Hybrid | May 18 |
 | ↳ | **[Intern - Marketplace Operations](https://jobright.ai/jobs/info/6a0b80f1a235d749afa86189?utm_campaign=1051&utm_source=git)** | Paramus, NJ, US | Hybrid | May 18 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0b80ef538d03366dc8633e?utm_campaign=1051&utm_source=git)** | Lawrenceville, New Jersey, United States of America | On Site | May 18 |
-| **[Constant Contact](http://www.constantcontact.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a0b80ef22d0d34036c8d18b?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | May 18 |
 | **[RedSail Technologies](https://redsailtechnologies.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/6a0b80c24d93203636871c8c?utm_campaign=1051&utm_source=git)** | Cranberry Township, PA | Hybrid | May 18 |
 | **[Nu Skin](http://www.nuskin.com/)** | **[Sales Leader Development Intern](https://jobright.ai/jobs/info/6a0b80ba538d03366dc862c6?utm_campaign=1051&utm_source=git)** | Provo, Utah, US | On Site | May 18 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/6a0b7c430411d7417a1b17ec?utm_campaign=1051&utm_source=git)** | US-IL-Glenview | On Site | May 18 |
@@ -92,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall Financial Representative Internship](https://jobright.ai/jobs/info/6a0b89914d93203636872051?utm_campaign=1051&utm_source=git)** | Boise Metropolitan Area | Hybrid | May 18 |
 | **[MSCI Private Assets](https://www.msci.com/research-and-insights)** | **[Intern Client Coverage Index Team](https://jobright.ai/jobs/info/6a0b6236a235d749afa84c44?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 18 |
 | ↳ | **[Intern Client Coverage Index Team](https://jobright.ai/jobs/info/6a0b6235a235d749afa84c42?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 18 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2df?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
-| ↳ | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2e0?utm_campaign=1051&utm_source=git)** | Tampa - South Tampa | On Site | May 18 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2e0?utm_campaign=1051&utm_source=git)** | Tampa - South Tampa | On Site | May 18 |
+| ↳ | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2df?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
 | ↳ | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0b62180411d7417a1b04a8?utm_campaign=1051&utm_source=git)** | Tampa - North Tampa | On Site | May 18 |
 | ↳ | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0b62170411d7417a1b04a7?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC Telemundo Connecticut Sales Intern - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a0b60ea963f7a67d95cf28a?utm_campaign=1051&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | May 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sunstate Solutions](https://www.sunstate-solutions.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6a0a4daba203b1052e44cb5c?utm_campaign=1051&utm_source=git)** | Windermere, FL | On Site | May 17 |
 | **[3xLOGIC](https://www.3xlogic.com)** | **[Intern](https://jobright.ai/jobs/info/6a0a2a246186f4685988fab0?utm_campaign=1051&utm_source=git)** | Elmsford, NY, US | On Site | May 17 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0a1de43b54ed42d74dea16?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | May 17 |
-| **[Securitas Technology](https://www.securitastechnology.com)** | **[Intern](https://jobright.ai/jobs/info/6a0a1de3a203b1052e44bc22?utm_campaign=1051&utm_source=git)** | Elmsford, NY | On Site | May 17 |
-| **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0a1dd6939a5f01db960f0b?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
