@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0bcef6963f7a67d95d326d?utm_campaign=1051&utm_source=git)** | United States | Remote | May 18 |
+| **[MODE Global](https://www.modeglobal.com)** | **[Commercial Account Executive Intern](https://jobright.ai/jobs/info/6a0bcc3022d0d34036c8fb1d?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | On Site | May 18 |
+| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a0bca41538d03366dc88b97?utm_campaign=1051&utm_source=git)** | West Virginia, United States | On Site | May 18 |
+| ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a0bc841963f7a67d95d2ee3?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | May 18 |
 | **[NexCore Group](http://nexcoregroup.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0bb9bf22d0d34036c8f49b?utm_campaign=1051&utm_source=git)** | Denver, CO 80202, USA | On Site | May 18 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0bb6074d93203636873acf?utm_campaign=1051&utm_source=git)** | CA-MB-Winnipeg | Hybrid | May 18 |
 | ↳ | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0bb6024d93203636873acd?utm_campaign=1051&utm_source=git)** | Winnipeg, MB, CA | Hybrid | May 18 |
@@ -72,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Preserve Shady Rest Country Club](preserveshadyrest.org)** | **[Donor Giving & Development Internship (Summer 2026)](https://jobright.ai/jobs/info/6a0b92f222d0d34036c8dfe2?utm_campaign=1051&utm_source=git)** | Scotch Plains, NJ | Hybrid | May 18 |
 | **[Challenge Manufacturing](http://challenge-mfg.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b92ab963f7a67d95d1599?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | May 18 |
 | **[GKIDS](http://www.gkidsfilms.com/)** | **[Distribution Operations Intern](https://jobright.ai/jobs/info/6a0b9278a235d749afa86e4e?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | May 18 |
-| **[Henry Schein](http://www.henryschein.com)** | **[Summer Intern, Business Development](https://jobright.ai/jobs/info/6a0b8f83538d03366dc86c18?utm_campaign=1051&utm_source=git)** | New York, United States - Remote, US | Remote | May 18 |
 | **[Acrisure](http://acrisure.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0b89b50411d7417a1b20ec?utm_campaign=1051&utm_source=git)** | Iselin, NJ | On Site | May 18 |
 | **[Nu Skin](http://www.nuskin.com/)** | **[Sales Leader Development Intern](https://jobright.ai/jobs/info/6a0b8977963f7a67d95d0e78?utm_campaign=1051&utm_source=git)** | Provo, UT | On Site | May 18 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Development Intern](https://jobright.ai/jobs/info/6a0b8671538d03366dc8674b?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | May 18 |
@@ -100,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall Financial Representative Internship](https://jobright.ai/jobs/info/6a0b89914d93203636872051?utm_campaign=1051&utm_source=git)** | Boise Metropolitan Area | Hybrid | May 18 |
 | **[MSCI Private Assets](https://www.msci.com/research-and-insights)** | **[Intern Client Coverage Index Team](https://jobright.ai/jobs/info/6a0b6236a235d749afa84c44?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 18 |
 | ↳ | **[Intern Client Coverage Index Team](https://jobright.ai/jobs/info/6a0b6235a235d749afa84c42?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 18 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2e0?utm_campaign=1051&utm_source=git)** | Tampa - South Tampa | On Site | May 18 |
-| ↳ | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2df?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2df?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
+| ↳ | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2e0?utm_campaign=1051&utm_source=git)** | Tampa - South Tampa | On Site | May 18 |
 | ↳ | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0b62180411d7417a1b04a8?utm_campaign=1051&utm_source=git)** | Tampa - North Tampa | On Site | May 18 |
 | ↳ | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0b62170411d7417a1b04a7?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC Telemundo Connecticut Sales Intern - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a0b60ea963f7a67d95cf28a?utm_campaign=1051&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | May 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brightroc Marketing](brightrocmarketing.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/6a0afe90963f7a67d95cb02c?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | May 18 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/6a0ae5c6963f7a67d95ca50d?utm_campaign=1051&utm_source=git)** | Amsterdam Depot | On Site | May 18 |
 | **[JOY GROUP 橘宜集团](http://www.joy-group.com/)** | **[Overseas Distribution Intern-North America](https://jobright.ai/jobs/info/6a0b0931963f7a67d95cb661?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX Corporation Internship Program - Ad Sales](https://jobright.ai/jobs/info/6a0acd2d6186f468598928d4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 18 |
-| ↳ | **[Fall 2026 FOX Corporation Internship Program - Ad Sales - Detroit](https://jobright.ai/jobs/info/6a0acd22939a5f01db96405c?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | May 18 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX Corporation Internship Program - Ad Sales - Detroit](https://jobright.ai/jobs/info/6a0a92c8939a5f01db962f67?utm_campaign=1051&utm_source=git)** | Detroit, Michigan, USA, US | On Site | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
