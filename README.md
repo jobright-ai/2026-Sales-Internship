@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0bcef6963f7a67d95d326d?utm_campaign=1051&utm_source=git)** | United States | Remote | May 18 |
 | **[MODE Global](https://www.modeglobal.com)** | **[Commercial Account Executive Intern](https://jobright.ai/jobs/info/6a0bcc3022d0d34036c8fb1d?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | On Site | May 18 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a0bca41538d03366dc88b97?utm_campaign=1051&utm_source=git)** | West Virginia, United States | On Site | May 18 |
 | ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a0bc841963f7a67d95d2ee3?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | May 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Brightroc Marketing](brightrocmarketing.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/6a0afe90963f7a67d95cb02c?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | May 18 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/6a0ae5c6963f7a67d95ca50d?utm_campaign=1051&utm_source=git)** | Amsterdam Depot | On Site | May 18 |
 | **[JOY GROUP 橘宜集团](http://www.joy-group.com/)** | **[Overseas Distribution Intern-North America](https://jobright.ai/jobs/info/6a0b0931963f7a67d95cb661?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX Corporation Internship Program - Ad Sales](https://jobright.ai/jobs/info/6a0acd2d6186f468598928d4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
