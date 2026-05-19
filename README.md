@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0c3ffa963f7a67d95d599a?utm_campaign=1051&utm_source=git)** | United States | Remote | May 19 |
+| **[barrière](https://www.mybarriere.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0c3f3c4d93203636876977?utm_campaign=1051&utm_source=git)** | United States | Remote | May 19 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0be361963f7a67d95d39f3?utm_campaign=1051&utm_source=git)** | New Orleans, Louisiana, United States of America | On Site | May 18 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0c08a522d0d34036c91187?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
 | ↳ | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0bdfc6538d03366dc895d0?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
@@ -108,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall Financial Representative Internship](https://jobright.ai/jobs/info/6a0b89914d93203636872051?utm_campaign=1051&utm_source=git)** | Boise Metropolitan Area | Hybrid | May 18 |
 | **[MSCI Private Assets](https://www.msci.com/research-and-insights)** | **[Intern Client Coverage Index Team](https://jobright.ai/jobs/info/6a0b6236a235d749afa84c44?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 18 |
 | ↳ | **[Intern Client Coverage Index Team](https://jobright.ai/jobs/info/6a0b6235a235d749afa84c42?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 18 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2df?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
-| ↳ | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2e0?utm_campaign=1051&utm_source=git)** | Tampa - South Tampa | On Site | May 18 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2e0?utm_campaign=1051&utm_source=git)** | Tampa - South Tampa | On Site | May 18 |
+| ↳ | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2df?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
 | ↳ | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0b62180411d7417a1b04a8?utm_campaign=1051&utm_source=git)** | Tampa - North Tampa | On Site | May 18 |
 | ↳ | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0b62170411d7417a1b04a7?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC Telemundo Connecticut Sales Intern - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a0b60ea963f7a67d95cf28a?utm_campaign=1051&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | May 18 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[AIR Asset Management](https://airassetmanagement.com/)** | **[Sales & Operations Intern](https://jobright.ai/jobs/info/6a0b4866963f7a67d95cdec2?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Development Intern](https://jobright.ai/jobs/info/6a0b46cba235d749afa8379d?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 18 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a0b7689538d03366dc85bd6?utm_campaign=1051&utm_source=git)** | Fort Collins, Colorado | On Site | May 18 |
-| ↳ | **[Leasing intern- Greeley](https://jobright.ai/jobs/info/6a0b76aca235d749afa85a34?utm_campaign=1051&utm_source=git)** | Greeley, Colorado | On Site | May 18 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) – Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0b3c22963f7a67d95cd58e?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
 | **[Summit Events](summiteventsclt.com)** | **[Event Sales Intern (Paid Internship)](https://jobright.ai/jobs/info/6a0b3b780411d7417a1ae540?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 18 |
 | **[Leidos](https://www.leidos.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b39a2a235d749afa8291c?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | May 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a046ef5f3d6cc51d637edaf?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 18 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Intern](https://jobright.ai/jobs/info/6a0b10cf0411d7417a1acbb3?utm_campaign=1051&utm_source=git)** | Boston, US | Hybrid | May 18 |
 | **[Rally Strategies](https://rally-strategies.com/)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a0b047b538d03366dc80f01?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | May 18 |
-| **[Level Up USA](http://leveluppromotionsinc.com/)** | **[Client Relations Intern](https://jobright.ai/jobs/info/6a0b032e0411d7417a1ac4e0?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
