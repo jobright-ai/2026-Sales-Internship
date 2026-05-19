@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Sales Intern](https://jobright.ai/jobs/info/6a0badd7963f7a67d95d242e?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | May 18 |
+| **[Herc Rentals](http://www.HercRentals.com)** | **[Sales and Operations Intern](https://jobright.ai/jobs/info/6a0badb3a235d749afa87d5d?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | May 18 |
+| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Marketplace Operations](https://jobright.ai/jobs/info/6a0bab070411d7417a1b32fa?utm_campaign=1051&utm_source=git)** | Paramus, NJ | Hybrid | May 18 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/6a0ba0784d93203636872eb3?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | May 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0ba078538d03366dc8777f?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | May 18 |
 | **[NexCore Group](http://nexcoregroup.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0ba06e538d03366dc8775e?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | May 18 |
@@ -94,12 +97,12 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall Financial Representative Internship](https://jobright.ai/jobs/info/6a0b89914d93203636872051?utm_campaign=1051&utm_source=git)** | Boise Metropolitan Area | Hybrid | May 18 |
 | **[MSCI Private Assets](https://www.msci.com/research-and-insights)** | **[Intern Client Coverage Index Team](https://jobright.ai/jobs/info/6a0b6236a235d749afa84c44?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | May 18 |
 | ↳ | **[Intern Client Coverage Index Team](https://jobright.ai/jobs/info/6a0b6235a235d749afa84c42?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | May 18 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2e0?utm_campaign=1051&utm_source=git)** | Tampa - South Tampa | On Site | May 18 |
-| ↳ | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2df?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2df?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
+| ↳ | **[Sales Management Trainee Fall Intern](https://jobright.ai/jobs/info/6a0b621f963f7a67d95cf2e0?utm_campaign=1051&utm_source=git)** | Tampa - South Tampa | On Site | May 18 |
 | ↳ | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0b62180411d7417a1b04a8?utm_campaign=1051&utm_source=git)** | Tampa - North Tampa | On Site | May 18 |
 | ↳ | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0b62170411d7417a1b04a7?utm_campaign=1051&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC Telemundo Connecticut Sales Intern - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a0b60ea963f7a67d95cf28a?utm_campaign=1051&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | May 18 |
-| **[NexCore Group](http://nexcoregroup.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b603c22d0d34036c8b976?utm_campaign=1051&utm_source=git)** | Denver, CO 80202, USA | On Site | May 18 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a0badd5963f7a67d95d241f?utm_campaign=1051&utm_source=git)** | Gadsden, AL | On Site | May 18 |
 | **[LeaderPromos Marketing Agency](https://leaderpromosagency.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6a0b5fae22d0d34036c8b947?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | May 18 |
 | **[ICO Uniforms](http://icouniforms.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b5ea0538d03366dc84b54?utm_campaign=1051&utm_source=git)** | Miami Gardens,FL,US | On Site | May 18 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut Sales Intern - Academic Year 2026-2027](https://jobright.ai/jobs/info/6a0b5e87a235d749afa84a41?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | May 18 |
@@ -117,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/69f118e362b48c6838793cb5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 18 |
 | **[OXEA](https://oxea.com)** | **[Summer Intern - Business Support](https://jobright.ai/jobs/info/6a0b515f538d03366dc83f1d?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | May 18 |
 | **[Brandlete](https://www.brandletehq.com)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/69e8581b4b0fa35a7076621c?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | May 18 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b4e0ea235d749afa83e19?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 18 |
 | **[Exito Universal Inc.](https://exitouniversalinc.com/)** | **[Graduate Events Sales Intern](https://jobright.ai/jobs/info/6a0b4ddb0411d7417a1af5e1?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | On Site | May 18 |
 | **[Yank Technologies, Inc.](http://www.yanktechnologies.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b4c8f538d03366dc83e1e?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | May 18 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a0b4b420411d7417a1af2e0?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | May 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0a75568f3e371eb6188abb?utm_campaign=1051&utm_source=git)** | Boca Raton, Florida, United States of America | On Site | May 17 |
 | **[Nonsense](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0a4dee3b54ed42d74df826?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | May 17 |
 | **[Sunstate Solutions](https://www.sunstate-solutions.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6a0a4daba203b1052e44cb5c?utm_campaign=1051&utm_source=git)** | Windermere, FL | On Site | May 17 |
-| **[3xLOGIC](https://www.3xlogic.com)** | **[Intern](https://jobright.ai/jobs/info/6a0a2a246186f4685988fab0?utm_campaign=1051&utm_source=git)** | Elmsford, NY, US | On Site | May 17 |
-| **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0a1de43b54ed42d74dea16?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
