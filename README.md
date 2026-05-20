@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0dab4983d7144289811631?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
+| **[State Street](https://www.statestreet.com/)** | **[Sales Business Analyst, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/6a0303e622395b6dc6d9014e?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 20 |
+| **[Waites](https://waites.net)** | **[BDR - Sales Intern](https://jobright.ai/jobs/info/6a02c5eff3d6cc51d6370895?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | May 20 |
+| **[WMUR-TV](http://www.wmur.com/)** | **[WMUR Sales Intern](https://jobright.ai/jobs/info/69d47058891d7b11cfcfa3ab?utm_campaign=1051&utm_source=git)** | Manchester, NH | On Site | May 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Sports Partnerships Project Intern (TikTok-Operations-Sports-Global Partnerships) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69f1867cecbc8c2f73206463?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 20 |
 | ↳ | **[Publisher Partnerships Project Intern (TikTok-Operations-News-Global Partnerships) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f186ca8d8d624381a9ca7f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 20 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship](https://jobright.ai/jobs/info/6a0d8b16beb4d73cb62297ae?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | Remote | May 20 |
@@ -91,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[Intern, Purchasing](https://jobright.ai/jobs/info/6a0cdf650411d7417a1bd3bf?utm_campaign=1051&utm_source=git)** | Coral Gables, Florida, US | On Site | May 19 |
 | **[Prox Shopping](www.joinprox.com)** | **[Strategic Partnerships Intern / Prox (Unpaid)](https://jobright.ai/jobs/info/6a0cd8c522d0d34036c99309?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Remote | May 19 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Greeley](https://jobright.ai/jobs/info/6a0d319b0411d7417a1c0065?utm_campaign=1051&utm_source=git)** | Greeley, Colorado | On Site | May 19 |
-| **[Code Clear (formerly Carbon Clear)](https://getcarbonclear.com)** | **[Sales and Marketing - Intern (Graduate)](https://jobright.ai/jobs/info/6a0cd0394d9320363687c66d?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | Hybrid | May 19 |
 | **[AxxisPay USA](axxispay.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0ccf83963f7a67d95dbd96?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | May 19 |
 | **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Development Intern](https://jobright.ai/jobs/info/6a0ccf74a235d749afa90c37?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | May 19 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Institutional Sales](https://jobright.ai/jobs/info/6a0cced9538d03366dc9170d?utm_campaign=1051&utm_source=git)** | Greenwich, CT | On Site | May 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gen](https://www.gendigital.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/69f012e8d4710347188c5ec1?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | May 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Partner Operations Intern (Monetization Product Partnerships) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bd2056b10602456282103c?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 19 |
 | **[SAIC](http://www.saic.com)** | **[Technical Intern](https://jobright.ai/jobs/info/6a0c48220411d7417a1b7165?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | May 19 |
-| **[Cloud Science Labs](https://www.cloudsciencelabs.com)** | **[Sales Intern- Cloud Solution](https://jobright.ai/jobs/info/6a0c433922d0d34036c9257f?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 19 |
-| **[5 Factor Technology](https://www.5factortech.com)** | **[Intern](https://jobright.ai/jobs/info/6a0d5f5a963f7a67d95e08ad?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 18 |
-| **[PikuJobs](https://www.pikujobs.com/)** | **[Sales & Marketing Intern (Commission Only)](https://jobright.ai/jobs/info/6a0d48efa235d749afa94cc4?utm_campaign=1051&utm_source=git)** | United States | Remote | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
