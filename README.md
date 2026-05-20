@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0dab4983d7144289811631?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f14233825a315d7ca36fa8?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | May 20 |
+| **[Sun Gro Horticulture](http://www.sungro.com)** | **[Sales Training Internship](https://jobright.ai/jobs/info/699cd34181476f6176b5604e?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | May 20 |
+| **[Life Enriching Communities](https://lec.org/)** | **[Special Projects Summer Intern](https://jobright.ai/jobs/info/6a0db6a3beb4d73cb622ad75?utm_campaign=1051&utm_source=git)** | Twin Lakes, 9840 Montgomery Rd., Montgomery, OH | On Site | May 20 |
 | **[State Street](https://www.statestreet.com/)** | **[Sales Business Analyst, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/6a0303e622395b6dc6d9014e?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 20 |
 | **[Waites](https://waites.net)** | **[BDR - Sales Intern](https://jobright.ai/jobs/info/6a02c5eff3d6cc51d6370895?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | May 20 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[WMUR Sales Intern](https://jobright.ai/jobs/info/69d47058891d7b11cfcfa3ab?utm_campaign=1051&utm_source=git)** | Manchester, NH | On Site | May 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Sports Partnerships Project Intern (TikTok-Operations-Sports-Global Partnerships) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69f1867cecbc8c2f73206463?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 20 |
 | ↳ | **[Publisher Partnerships Project Intern (TikTok-Operations-News-Global Partnerships) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f186ca8d8d624381a9ca7f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 20 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship](https://jobright.ai/jobs/info/6a0d8b16beb4d73cb62297ae?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | Remote | May 20 |
-| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f6c0ab9a63986de75820ad?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | May 20 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a06eada33c2ed3770bca102?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | May 20 |
+| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a06eada33c2ed3770bca102?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | May 20 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68f6c0ab9a63986de75820ad?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | May 20 |
 | **[Morales Beverage Group (MBG)](www.moralesbeveragegroup.com)** | **[MBG Internship Intern](https://jobright.ai/jobs/info/6a0d78cf538d03366dc96e0e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 20 |
 | **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f6e9a39a63986de758368c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | On Site | May 20 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68f6ee3376a51a4307bdf738?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | May 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Private Equity Intern](https://jobright.ai/jobs/info/6a0c7c83963f7a67d95d83e7?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 19 |
 | **[Libre Tax Service](https://libretaxservice.com/)** | **[Sales Intern - United States](https://jobright.ai/jobs/info/6a0c524d4d93203636876f76?utm_campaign=1051&utm_source=git)** | United States | Remote | May 19 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/69f012e8d4710347188c5ec1?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | May 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Partner Operations Intern (Monetization Product Partnerships) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bd2056b10602456282103c?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 19 |
-| **[SAIC](http://www.saic.com)** | **[Technical Intern](https://jobright.ai/jobs/info/6a0c48220411d7417a1b7165?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
