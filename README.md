@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0d0291963f7a67d95dde63?utm_campaign=1051&utm_source=git)** | United States | Remote | May 19 |
+| **[ADP Brazil Labs](https://tech.adp.com/careers/locations/brazil/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6a0d09d6963f7a67d95de28e?utm_campaign=1051&utm_source=git)** | Middle River, MD, 21220, United States | On Site | May 19 |
 | **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/6a0cfeb322d0d34036c9abb4?utm_campaign=1051&utm_source=git)** | Kansas City, Missouri | On Site | May 19 |
 | **[Leidos](https://www.leidos.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0cf6cb4d9320363687de26?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | May 19 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Development](https://jobright.ai/jobs/info/6a0ced320411d7417a1bdf72?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | May 19 |
@@ -108,6 +108,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0ce190963f7a67d95dc89e?utm_campaign=1051&utm_source=git)** | Louisiana, United States | Remote | May 19 |
 | **[Wegmans Food Markets](http://www.wegmans.com)** | **[Harkness Internship](https://jobright.ai/jobs/info/6a0c97d8538d03366dc8efc7?utm_campaign=1051&utm_source=git)** | Dick Road, US | On Site | May 19 |
 | **[MAHLE](https://www.mahle.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0c968a4d93203636879e04?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI, US, 48335 | On Site | May 19 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall Financial Representative- Sales Internship Greater Chicago](https://jobright.ai/jobs/info/6a0d07a4963f7a67d95de113?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | On Site | May 19 |
 | **[Convergint](http://www.convergint.com)** | **[Intern](https://jobright.ai/jobs/info/6a0c91bb538d03366dc8eb69?utm_campaign=1051&utm_source=git)** | Cincinnati, Ohio, United States | Remote | May 19 |
 | **[Caprae Capital Partners](https://www.capraecapital.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6a0c8c290411d7417a1b9a2e?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 19 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Institutional Sales](https://jobright.ai/jobs/info/6a0c8bff0411d7417a1b99fe?utm_campaign=1051&utm_source=git)** | Greenwich, Connecticut, United States | On Site | May 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Constant Contact](http://www.constantcontact.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a0b9a934d93203636872caf?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | May 18 |
 | **[Temporal Technologies](https://temporal.io)** | **[Business Development Operations & AI Automation Internship](https://jobright.ai/jobs/info/6a0b94530411d7417a1b296a?utm_campaign=1051&utm_source=git)** | United States | Hybrid | May 18 |
 | **[Preserve Shady Rest Country Club](preserveshadyrest.org)** | **[Donor Giving & Development Internship (Summer 2026)](https://jobright.ai/jobs/info/6a0b92f222d0d34036c8dfe2?utm_campaign=1051&utm_source=git)** | Scotch Plains, NJ | Hybrid | May 18 |
-| **[Challenge Manufacturing](http://challenge-mfg.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b92ab963f7a67d95d1599?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
