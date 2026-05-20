@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yieldmo](http://www.yieldmo.com)** | **[Sales Support Intern (Sports & Emerging Products)](https://jobright.ai/jobs/info/6a0e1c40c152ac7824483649?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | May 20 |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0e1bf183d7144289815ecc?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
+| **[Dayforce](https://www.dayforce.com)** | **[Value Advisory Intern 4 Months - Fall 2026](https://jobright.ai/jobs/info/6a0e1b8abeb4d73cb622f032?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 20 |
+| **[Entravision](https://entravision.com/)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6a0e189447fea1610bca6f1f?utm_campaign=1051&utm_source=git)** | Denver, CO, US | On Site | May 20 |
+| ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/6a0e187e47fea1610bca6f0e?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | May 20 |
+| **[Antela.ai](https://antela.ai)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0e178d47fea1610bca6d8e?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | May 20 |
+| **[Diconium](http://www.diconium.com)** | **[North America Commercial Sales Intern](https://jobright.ai/jobs/info/6a0e160747fea1610bca6b2d?utm_campaign=1051&utm_source=git)** | Reston, VA | Hybrid | May 20 |
+| **[Bish's RV, Inc.](https://www.bishs.com/)** | **[RV Sales Internship](https://jobright.ai/jobs/info/6a0e1470beb4d73cb622e96b?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | May 20 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Staff - Intern](https://jobright.ai/jobs/info/6a0e074cc152ac782448253b?utm_campaign=1051&utm_source=git)** | San Fernando, CA, USA | On Site | May 20 |
 | **[Rocket Software](http://www.zephyrcorp.com/)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/6a0e06e209ecfd704b3e5142?utm_campaign=1051&utm_source=git)** | United States, US | On Site | May 20 |
 | **[Hand To Hold](https://handtohold.org )** | **[Development Intern](https://jobright.ai/jobs/info/6a0e03ba09ecfd704b3e501d?utm_campaign=1051&utm_source=git)** | Austin,TX,US | Hybrid | May 20 |
@@ -130,7 +138,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68f6ee3376a51a4307bdf738?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | May 20 |
 | **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/69f118e362b48c6838793cb5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 20 |
 | **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6a0d5680a235d749afa95861?utm_campaign=1051&utm_source=git)** | Middle River, MD | Remote | May 19 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0d4d5d22d0d34036c9cffb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 19 |
 | **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0d450622d0d34036c9cc4c?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 19 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Ticket Sales Intern (56412)](https://jobright.ai/jobs/info/6a0d3d394d9320363687ff1a?utm_campaign=1051&utm_source=git)** | Moosic, PA 18507 | On Site | May 19 |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Sales Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d334122d0d34036c9c4fc?utm_campaign=1051&utm_source=git)** | Montreal, QC | Remote | May 19 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[On-Premise Summer Field Sales Representative, Vancouver](https://jobright.ai/jobs/info/6a0d23580411d7417a1bfade?utm_campaign=1051&utm_source=git)** | Greater Vancouver Metropolitan Area | On Site | May 19 |
 | **[Capital Technology Group](https://www.capitaltg.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0cdffb538d03366dc91fda?utm_campaign=1051&utm_source=git)** | Hybrid (Washington, DC - USA) | Hybrid | May 19 |
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[Intern, Purchasing](https://jobright.ai/jobs/info/6a0cdf650411d7417a1bd3bf?utm_campaign=1051&utm_source=git)** | Coral Gables, Florida, US | On Site | May 19 |
-| **[Prox Shopping](www.joinprox.com)** | **[Strategic Partnerships Intern / Prox (Unpaid)](https://jobright.ai/jobs/info/6a0cd8c522d0d34036c99309?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Remote | May 19 |
-| **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Greeley](https://jobright.ai/jobs/info/6a0d319b0411d7417a1c0065?utm_campaign=1051&utm_source=git)** | Greeley, Colorado | On Site | May 19 |
-| **[AxxisPay USA](axxispay.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0ccf83963f7a67d95dbd96?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | May 19 |
-| **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Development Intern](https://jobright.ai/jobs/info/6a0ccf74a235d749afa90c37?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | May 19 |
-| **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Institutional Sales](https://jobright.ai/jobs/info/6a0cced9538d03366dc9170d?utm_campaign=1051&utm_source=git)** | Greenwich, CT | On Site | May 19 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Corporate Sales Operations, Pre-Owned and Remarketing Intern](https://jobright.ai/jobs/info/6a0cca94538d03366dc91370?utm_campaign=1051&utm_source=git)** | 2680 Matheson Blvd East, Suite 500 | Hybrid | May 19 |
-| **[Gordon Flesch Company](http://www.gflesch.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a0cc5250411d7417a1bc415?utm_campaign=1051&utm_source=git)** | West Allis , WI | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
