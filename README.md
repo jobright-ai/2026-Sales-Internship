@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0dc70583d7144289812607?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
+| **[Pakio](https://www.pakioinc.com/)** | **[Sales Management Internship - Summer 2026](https://jobright.ai/jobs/info/6a0dd1b0beb4d73cb622bd9d?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | May 20 |
+| **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Business Development intern](https://jobright.ai/jobs/info/6a0dcff147fea1610bca40be?utm_campaign=1051&utm_source=git)** | US-KY-LOUISVILLE | On Site | May 20 |
+| ↳ | **[Business Development intern](https://jobright.ai/jobs/info/6a0dcff047fea1610bca40bd?utm_campaign=1051&utm_source=git)** | LOUISVILLE, KY, US | On Site | May 20 |
+| **[Ryder System, Inc.](http://ryder.com/en)** | **[Rental Sales and Operations Intern](https://jobright.ai/jobs/info/6a0dce7709ecfd704b3e2eaa?utm_campaign=1051&utm_source=git)** | USA - Greensboro NC 27406, US | On Site | May 20 |
+| **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a0dcc0d09ecfd704b3e2d5a?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 20 |
+| **[On Trend Group](https://weareontrendgroup.com/)** | **[Graduate Sales Intern](https://jobright.ai/jobs/info/6a0dcbbf83d7144289812930?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 20 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Sales Support Operations Intern - Fall 2026](https://jobright.ai/jobs/info/699cfbeae0bddb6acacc0d1d?utm_campaign=1051&utm_source=git)** | Green Bay, WI | Hybrid | May 20 |
 | **[Finley Living](www.finleyliving.co)** | **[Private Equity Sales Intern](https://jobright.ai/jobs/info/6a0dc34447fea1610bca37fd?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | May 20 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Greeley](https://jobright.ai/jobs/info/6a0dc29d83d7144289812292?utm_campaign=1051&utm_source=git)** | Windsor, CO | On Site | May 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a0c7e24a235d749afa8d4d3?utm_campaign=1051&utm_source=git)** | New York, New York, United States of America | On Site | May 19 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a0c7e1d4d93203636878d53?utm_campaign=1051&utm_source=git)** | Palo Alto, California, United States of America | On Site | May 19 |
 | **[Hatch](https://www.hatch.com)** | **[Client Action Team Co-op Student](https://jobright.ai/jobs/info/69efb87516b2612c2a12b1d8?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 19 |
-| **[NOV](https://www.nov.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/6a0c7cd6963f7a67d95d8485?utm_campaign=1051&utm_source=git)** | 2800 N. Frazier, Conroe, TX, 77303, US | On Site | May 19 |
-| **[Caprae Capital Partners](https://www.capraecapital.com)** | **[Undergrad Buyside Analyst](https://jobright.ai/jobs/info/6a0c9b024d9320363687a0db?utm_campaign=1051&utm_source=git)** | LA Metro Area | Remote | May 19 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Internship Guest Relations and Client Experience - John Lobb](https://jobright.ai/jobs/info/6a0c749b538d03366dc8d78f?utm_campaign=1051&utm_source=git)** | Manhattan, NY, Etats-Unis | On Site | May 19 |
-| **[First Internet Bank](https://www.firstib.com)** | **[Banking Apprentice](https://jobright.ai/jobs/info/69b81ff63b74eb1e2c85c3bd?utm_campaign=1051&utm_source=git)** | Fishers, IN | On Site | May 19 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern Wilmington NC](https://jobright.ai/jobs/info/6a0c7429a235d749afa8ccf4?utm_campaign=1051&utm_source=git)** | Wilmington, NC | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
