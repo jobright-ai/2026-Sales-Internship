@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amca](https://amca.co)** | **[Business Operations Internship](https://jobright.ai/jobs/info/6a0e2477c152ac7824483b5f?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 20 |
+| **[Brkthru](https://brkthru.com)** | **[Brkthru Internship Program Interest Form - Fall 2026](https://jobright.ai/jobs/info/6a0e1f4347fea1610bca7593?utm_campaign=1051&utm_source=git)** | USA | On Site | May 20 |
 | **[Yieldmo](http://www.yieldmo.com)** | **[Sales Support Intern (Sports & Emerging Products)](https://jobright.ai/jobs/info/6a0e1c40c152ac7824483649?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | May 20 |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0e1bf183d7144289815ecc?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
 | **[Dayforce](https://www.dayforce.com)** | **[Value Advisory Intern 4 Months - Fall 2026](https://jobright.ai/jobs/info/6a0e1b8abeb4d73cb622f032?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 20 |
 | **[Entravision](https://entravision.com/)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6a0e189447fea1610bca6f1f?utm_campaign=1051&utm_source=git)** | Denver, CO, US | On Site | May 20 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/6a0e187e47fea1610bca6f0e?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | May 20 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Yieldmo](http://www.yieldmo.com)** | **[Sales Support Intern, Sports & Emerging Products](https://jobright.ai/jobs/info/6a0dffd983d71442898149c8?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
 | **[Dayforce](https://www.dayforce.com)** | **[Application Advisor Intern 8 Months - Fall 2026](https://jobright.ai/jobs/info/6a0dff7c47fea1610bca5e78?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 20 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Business Development Intern (Hybrid)](https://jobright.ai/jobs/info/6a0dfe9883d71442898148a0?utm_campaign=1051&utm_source=git)** | Nashua New Hampshire | Hybrid | May 20 |
-| **[Rose Paving LLC](http://rosepaving.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0dfe9680bf0430c76283d1?utm_campaign=1051&utm_source=git)** | Villa Park,IL,US | On Site | May 20 |
 | **[Cadent](http://www.cadent.tv)** | **[Account Management Intern](https://jobright.ai/jobs/info/69f254d1ab4ec4779fff8939?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[Clayton Homes of Opelousas](http://claytonhomesopelousas.com)** | **[Clayton Homes Summer Intern - Raleigh, NC](https://jobright.ai/jobs/info/6a0dfc11c152ac7824481e08?utm_campaign=1051&utm_source=git)** | Raleigh, NC, US | On Site | May 20 |
 | **[Yieldmo](http://www.yieldmo.com)** | **[Sales Support Intern (Sports & Emerging Products)](https://jobright.ai/jobs/info/6a0df6eec152ac78244819c4?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
