@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0d7284528eaa34a446f4ff?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
 | **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/69f118e362b48c6838793cb5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 20 |
 | **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6a0d5680a235d749afa95861?utm_campaign=1051&utm_source=git)** | Middle River, MD | Remote | May 19 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0d4d5d22d0d34036c9cffb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0bdfc6538d03366dc895d0?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
 | **[Metal Craft and Riverside Machine & Engineering](https://mcandrs.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0bdf710411d7417a1b4b7c?utm_campaign=1051&utm_source=git)** | Metal Craft, Elk River, MN, US | On Site | May 18 |
 | **[Altitude Promotions](https://altitudepromotions.com)** | **[B2B Intern](https://jobright.ai/jobs/info/6a0bdd39a235d749afa89028?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 18 |
-| **[MODE Global](https://www.modeglobal.com)** | **[Commercial Account Executive Intern](https://jobright.ai/jobs/info/6a0bcc3022d0d34036c8fb1d?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
