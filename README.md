@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0d7284528eaa34a446f4ff?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0d8f2683d7144289810c5d?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
+| **[TikTok](https://www.tiktok.com)** | **[Publisher Partnerships Project Intern (TikTok-Operations-News-Global Partnerships) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f186ca8d8d624381a9ca7f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 20 |
+| **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship](https://jobright.ai/jobs/info/6a0d8b16beb4d73cb62297ae?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | Remote | May 20 |
+| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a06eada33c2ed3770bca102?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | May 20 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68f6c0ab9a63986de75820ad?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | May 20 |
+| **[Morales Beverage Group (MBG)](www.moralesbeveragegroup.com)** | **[MBG Internship Intern](https://jobright.ai/jobs/info/6a0d78cf538d03366dc96e0e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 20 |
+| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f6e9a39a63986de758368c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | On Site | May 20 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68f6ee3376a51a4307bdf738?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | May 20 |
 | **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/69f118e362b48c6838793cb5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 20 |
 | **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6a0d5680a235d749afa95861?utm_campaign=1051&utm_source=git)** | Middle River, MD | Remote | May 19 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0d4d5d22d0d34036c9cffb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 19 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAIC](http://www.saic.com)** | **[Technical Intern](https://jobright.ai/jobs/info/6a0c48220411d7417a1b7165?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | May 19 |
 | **[Cloud Science Labs](https://www.cloudsciencelabs.com)** | **[Sales Intern- Cloud Solution](https://jobright.ai/jobs/info/6a0c433922d0d34036c9257f?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 19 |
 | **[5 Factor Technology](https://www.5factortech.com)** | **[Intern](https://jobright.ai/jobs/info/6a0d5f5a963f7a67d95e08ad?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 18 |
-| **[PikuJobs](https://www.pikujobs.com/)** | **[Sales & Marketing Intern (Commission Only)](https://jobright.ai/jobs/info/6a0d48efa235d749afa94cc4?utm_campaign=1051&utm_source=git)** | United States | Remote | May 18 |
-| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0be361963f7a67d95d39f3?utm_campaign=1051&utm_source=git)** | New Orleans, Louisiana, United States of America | On Site | May 18 |
-| **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0c08a522d0d34036c91187?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
-| ↳ | **[Business Development & Sales Internship (Unpaid) – Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0bdfc6538d03366dc895cf?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
-| ↳ | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0bdfc6538d03366dc895d0?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
-| **[Metal Craft and Riverside Machine & Engineering](https://mcandrs.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0bdf710411d7417a1b4b7c?utm_campaign=1051&utm_source=git)** | Metal Craft, Elk River, MN, US | On Site | May 18 |
-| **[Altitude Promotions](https://altitudepromotions.com)** | **[B2B Intern](https://jobright.ai/jobs/info/6a0bdd39a235d749afa89028?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
