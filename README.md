@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0d573d963f7a67d95e0532?utm_campaign=1051&utm_source=git)** | United States | Remote | May 19 |
+| **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/69f118e362b48c6838793cb5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 20 |
 | **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6a0d5680a235d749afa95861?utm_campaign=1051&utm_source=git)** | Middle River, MD | Remote | May 19 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0d4d5d22d0d34036c9cffb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 19 |
 | **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0d450622d0d34036c9cc4c?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 19 |
@@ -148,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Partner Operations Intern (Monetization Product Partnerships) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bd2056b10602456282103c?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 19 |
 | **[SAIC](http://www.saic.com)** | **[Technical Intern](https://jobright.ai/jobs/info/6a0c48220411d7417a1b7165?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | May 19 |
 | **[Cloud Science Labs](https://www.cloudsciencelabs.com)** | **[Sales Intern- Cloud Solution](https://jobright.ai/jobs/info/6a0c433922d0d34036c9257f?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 19 |
+| **[5 Factor Technology](https://www.5factortech.com)** | **[Intern](https://jobright.ai/jobs/info/6a0d5f5a963f7a67d95e08ad?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 18 |
 | **[PikuJobs](https://www.pikujobs.com/)** | **[Sales & Marketing Intern (Commission Only)](https://jobright.ai/jobs/info/6a0d48efa235d749afa94cc4?utm_campaign=1051&utm_source=git)** | United States | Remote | May 18 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0be361963f7a67d95d39f3?utm_campaign=1051&utm_source=git)** | New Orleans, Louisiana, United States of America | On Site | May 18 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0c08a522d0d34036c91187?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metal Craft and Riverside Machine & Engineering](https://mcandrs.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0bdf710411d7417a1b4b7c?utm_campaign=1051&utm_source=git)** | Metal Craft, Elk River, MN, US | On Site | May 18 |
 | **[Altitude Promotions](https://altitudepromotions.com)** | **[B2B Intern](https://jobright.ai/jobs/info/6a0bdd39a235d749afa89028?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 18 |
 | **[MODE Global](https://www.modeglobal.com)** | **[Commercial Account Executive Intern](https://jobright.ai/jobs/info/6a0bcc3022d0d34036c8fb1d?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | On Site | May 18 |
-| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a0bca41538d03366dc88b97?utm_campaign=1051&utm_source=git)** | West Virginia, United States | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
