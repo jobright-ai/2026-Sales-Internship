@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital Technology Group](https://www.capitaltg.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0d2c22963f7a67d95df354?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | Hybrid | May 19 |
+| **[Huron](http://www.huronconsultinggroup.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6a0d1f55963f7a67d95deb99?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | May 19 |
 | **[WOW Brand](http://wowpayments.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a0d185622d0d34036c9b73e?utm_campaign=1051&utm_source=git)** | Kearny, NJ | On Site | May 19 |
 | **[Electro](electrogum.com)** | **[Affiliate Partnerships Intern](https://jobright.ai/jobs/info/6a0d13180411d7417a1bf171?utm_campaign=1051&utm_source=git)** | Syracuse, NY | Remote | May 19 |
 | **[ADP Brazil Labs](https://tech.adp.com/careers/locations/brazil/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6a0d09d6963f7a67d95de28e?utm_campaign=1051&utm_source=git)** | Middle River, MD, 21220, United States | On Site | May 19 |
 | **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/6a0cfeb322d0d34036c9abb4?utm_campaign=1051&utm_source=git)** | Kansas City, Missouri | On Site | May 19 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Twin Cities](https://jobright.ai/jobs/info/6a0d23e64d9320363687f530?utm_campaign=1051&utm_source=git)** | Burnsville, MN | On Site | May 19 |
 | **[Leidos](https://www.leidos.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0cf6cb4d9320363687de26?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | May 19 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Development](https://jobright.ai/jobs/info/6a0ced320411d7417a1bdf72?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | May 19 |
 | ↳ | **[SAP iXp Intern - Business Development](https://jobright.ai/jobs/info/6a0cea184d9320363687d817?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, US, 30009 | Hybrid | May 19 |
@@ -69,6 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Partner Management Intern](https://jobright.ai/jobs/info/6a0ce6c3538d03366dc9272e?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | May 19 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Greeley](https://jobright.ai/jobs/info/6a0ce414a235d749afa91925?utm_campaign=1051&utm_source=git)** | Windsor, CO | On Site | May 19 |
 | **[Morales Beverage Group (MBG)](www.moralesbeveragegroup.com)** | **[MBG Internship Intern](https://jobright.ai/jobs/info/6a0ce3f222d0d34036c99bb1?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 19 |
+| **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[On-Premise/Retail Summer Field Sales Representative, Moncton](https://jobright.ai/jobs/info/6a05649ba88ea73abf7f0d0a?utm_campaign=1051&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | May 19 |
+| ↳ | **[On-Premise Summer Field Sales Representative, Vancouver](https://jobright.ai/jobs/info/6a0d23580411d7417a1bfade?utm_campaign=1051&utm_source=git)** | Greater Vancouver Metropolitan Area | On Site | May 19 |
 | **[Capital Technology Group](https://www.capitaltg.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0cdffb538d03366dc91fda?utm_campaign=1051&utm_source=git)** | Hybrid (Washington, DC - USA) | Hybrid | May 19 |
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[Intern, Purchasing](https://jobright.ai/jobs/info/6a0cdf650411d7417a1bd3bf?utm_campaign=1051&utm_source=git)** | Coral Gables, Florida, US | On Site | May 19 |
 | **[Prox Shopping](www.joinprox.com)** | **[Strategic Partnerships Intern / Prox (Unpaid)](https://jobright.ai/jobs/info/6a0cd8c522d0d34036c99309?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Remote | May 19 |
@@ -139,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Cloud Science Labs](https://www.cloudsciencelabs.com)** | **[Sales Intern- Cloud Solution](https://jobright.ai/jobs/info/6a0c433922d0d34036c9257f?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 19 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0be361963f7a67d95d39f3?utm_campaign=1051&utm_source=git)** | New Orleans, Louisiana, United States of America | On Site | May 18 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0c08a522d0d34036c91187?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
-| ↳ | **[Business Development & Sales Internship (Unpaid) – Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0bdfc6538d03366dc895cf?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
 | ↳ | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0bdfc6538d03366dc895d0?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
+| ↳ | **[Business Development & Sales Internship (Unpaid) – Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0bdfc6538d03366dc895cf?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
 | **[Metal Craft and Riverside Machine & Engineering](https://mcandrs.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0bdf710411d7417a1b4b7c?utm_campaign=1051&utm_source=git)** | Metal Craft, Elk River, MN, US | On Site | May 18 |
 | **[Altitude Promotions](https://altitudepromotions.com)** | **[B2B Intern](https://jobright.ai/jobs/info/6a0bdd39a235d749afa89028?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 18 |
 | **[MODE Global](https://www.modeglobal.com)** | **[Commercial Account Executive Intern](https://jobright.ai/jobs/info/6a0bcc3022d0d34036c8fb1d?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | On Site | May 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Summer Service & Sales Intern](https://jobright.ai/jobs/info/6a0cd7d0a235d749afa910c6?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | May 18 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Marketplace Operations](https://jobright.ai/jobs/info/6a0bab070411d7417a1b32fa?utm_campaign=1051&utm_source=git)** | Paramus, NJ | Hybrid | May 18 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/6a0ba0784d93203636872eb3?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | May 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0ba078538d03366dc8777f?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | May 18 |
-| **[NexCore Group](http://nexcoregroup.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0ba06e538d03366dc8775e?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | May 18 |
-| **[Constant Contact](http://www.constantcontact.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a0b9a934d93203636872caf?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | May 18 |
-| **[Temporal Technologies](https://temporal.io)** | **[Business Development Operations & AI Automation Internship](https://jobright.ai/jobs/info/6a0b94530411d7417a1b296a?utm_campaign=1051&utm_source=git)** | United States | Hybrid | May 18 |
-| **[Preserve Shady Rest Country Club](preserveshadyrest.org)** | **[Donor Giving & Development Internship (Summer 2026)](https://jobright.ai/jobs/info/6a0b92f222d0d34036c8dfe2?utm_campaign=1051&utm_source=git)** | Scotch Plains, NJ | Hybrid | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
