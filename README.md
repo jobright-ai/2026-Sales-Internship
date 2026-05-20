@@ -57,6 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0de39dbeb4d73cb622ca47?utm_campaign=1051&utm_source=git)** | Texas, United States | On Site | May 20 |
+| **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Business Development intern](https://jobright.ai/jobs/info/6a0de35a80bf0430c7627037?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 20 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/6a0de32883d71442898137a5?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | May 20 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6a0de32609ecfd704b3e3b22?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | May 20 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a0de31247fea1610bca4cdd?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | May 20 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c2e48aec22f8310ab0dff7?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | May 20 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c2e42b94007a2195def37a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 20 |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0de26883d71442898135fe?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
+| **[Nestlé](https://www.nestle.com)** | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0dde56beb4d73cb622c374?utm_campaign=1051&utm_source=git)** | Loveland, OH, US, 45140 | On Site | May 20 |
+| **[Huron](http://www.huronconsultinggroup.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6a0dde15beb4d73cb622c28b?utm_campaign=1051&utm_source=git)** | Chicago - 550 Van Buren, US | Hybrid | May 20 |
+| **[TIH](https://www.truistinsurance.com/)** | **[Broker Assistant Intern](https://jobright.ai/jobs/info/6a0ddbc209ecfd704b3e3300?utm_campaign=1051&utm_source=git)** | Woodbury, NY, US | On Site | May 20 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4d93cfd986aa6f87051?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | May 20 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4de3cfd986aa6f87070?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 20 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4e93aa0c47964395605?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | May 20 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/68c9cc8e95f5211cd2cf4719?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | May 20 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69c2e419753c101b21564a34?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | May 20 |
+| **[TZ Medical](http://tzmedical.com)** | **[Medical Device Sales Internship Fall 2026 (Paid)](https://jobright.ai/jobs/info/6a0dd8da09ecfd704b3e317d?utm_campaign=1051&utm_source=git)** | Tualatin, OR | On Site | May 20 |
 | **[Pakio](https://www.pakioinc.com/)** | **[Sales Management Internship - Summer 2026](https://jobright.ai/jobs/info/6a0dd1b0beb4d73cb622bd9d?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | May 20 |
 | **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Business Development intern](https://jobright.ai/jobs/info/6a0dcff147fea1610bca40be?utm_campaign=1051&utm_source=git)** | US-KY-LOUISVILLE | On Site | May 20 |
 | ↳ | **[Business Development intern](https://jobright.ai/jobs/info/6a0dcff047fea1610bca40bd?utm_campaign=1051&utm_source=git)** | LOUISVILLE, KY, US | On Site | May 20 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | **[John Lobb](https://www.johnlobb.com/en_roa/)** | **[Internship Guest Relations and Client Experience - John Lobb](https://jobright.ai/jobs/info/6a0ca0b04d9320363687a365?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | May 19 |
 | **[Casella Waste Systems, Inc.](http://www.casella.com/)** | **[National Accounts Internship](https://jobright.ai/jobs/info/6a0c9a04538d03366dc8f183?utm_campaign=1051&utm_source=git)** | Rutland, VT, US | On Site | May 19 |
 | ↳ | **[National Accounts Internship](https://jobright.ai/jobs/info/6a0c9a03538d03366dc8f182?utm_campaign=1051&utm_source=git)** | US-VT-Rutland | On Site | May 19 |
-| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0ce1844d9320363687cff1?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | May 19 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0ce190963f7a67d95dc89e?utm_campaign=1051&utm_source=git)** | Louisiana, United States | Remote | May 19 |
-| **[Wegmans Food Markets](http://www.wegmans.com)** | **[Harkness Internship](https://jobright.ai/jobs/info/6a0c97d8538d03366dc8efc7?utm_campaign=1051&utm_source=git)** | Dick Road, US | On Site | May 19 |
-| **[MAHLE](https://www.mahle.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0c968a4d93203636879e04?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI, US, 48335 | On Site | May 19 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall Financial Representative- Sales Internship Greater Chicago](https://jobright.ai/jobs/info/6a0d07a4963f7a67d95de113?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | On Site | May 19 |
-| **[Convergint](http://www.convergint.com)** | **[Intern](https://jobright.ai/jobs/info/6a0c91bb538d03366dc8eb69?utm_campaign=1051&utm_source=git)** | Cincinnati, Ohio, United States | Remote | May 19 |
-| **[Caprae Capital Partners](https://www.capraecapital.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6a0c8c290411d7417a1b9a2e?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 19 |
-| **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Institutional Sales](https://jobright.ai/jobs/info/6a0c8bff0411d7417a1b99fe?utm_campaign=1051&utm_source=git)** | Greenwich, Connecticut, United States | On Site | May 19 |
-| **[Advocate Financial Life & Health Brokerage](https://www.myadvocatefinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0c86b7538d03366dc8e2de?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | May 19 |
-| **[DuBois Chemicals, Inc.](http://www.duboischemicals.com)** | **[Channel Sales Planner Intern](https://jobright.ai/jobs/info/6a0c85daa235d749afa8d821?utm_campaign=1051&utm_source=git)** | United States | Remote | May 19 |
-| **[Mainstay Digital](http://www.mainstaydigital.com)** | **[Sales & Revenue Intern (Outbound + Creator Track)](https://jobright.ai/jobs/info/6a0c857c4d9320363687903a?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | May 19 |
-| **[Continental](https://www.continental.com)** | **[Pricing Intern](https://jobright.ai/jobs/info/6a078bb2403fc339507e5e2c?utm_campaign=1051&utm_source=git)** | Fairlawn, OH | On Site | May 19 |
-| **[DuBois Chemicals, Inc.](http://www.duboischemicals.com)** | **[Channel Sales Planner Intern](https://jobright.ai/jobs/info/6a0c80514d93203636878e23?utm_campaign=1051&utm_source=git)** | Remote - US, US | Remote | May 19 |
-| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0c7e27538d03366dc8dee4?utm_campaign=1051&utm_source=git)** | Chicago, Illinois, United States of America | On Site | May 19 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a0c7e24a235d749afa8d4d3?utm_campaign=1051&utm_source=git)** | New York, New York, United States of America | On Site | May 19 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a0c7e1d4d93203636878d53?utm_campaign=1051&utm_source=git)** | Palo Alto, California, United States of America | On Site | May 19 |
-| **[Hatch](https://www.hatch.com)** | **[Client Action Team Co-op Student](https://jobright.ai/jobs/info/69efb87516b2612c2a12b1d8?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
