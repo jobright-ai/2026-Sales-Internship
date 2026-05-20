@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WOW Brand](http://wowpayments.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a0d185622d0d34036c9b73e?utm_campaign=1051&utm_source=git)** | Kearny, NJ | On Site | May 19 |
+| **[Electro](electrogum.com)** | **[Affiliate Partnerships Intern](https://jobright.ai/jobs/info/6a0d13180411d7417a1bf171?utm_campaign=1051&utm_source=git)** | Syracuse, NY | Remote | May 19 |
 | **[ADP Brazil Labs](https://tech.adp.com/careers/locations/brazil/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6a0d09d6963f7a67d95de28e?utm_campaign=1051&utm_source=git)** | Middle River, MD, 21220, United States | On Site | May 19 |
 | **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/6a0cfeb322d0d34036c9abb4?utm_campaign=1051&utm_source=git)** | Kansas City, Missouri | On Site | May 19 |
 | **[Leidos](https://www.leidos.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0cf6cb4d9320363687de26?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | May 19 |
@@ -100,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Third Coast Bank](https://www.thirdcoast.bank)** | **[Middle Market Corporate Intern](https://jobright.ai/jobs/info/6a0ca38522d0d34036c96911?utm_campaign=1051&utm_source=git)** | Galleria, Houston, TX, US | On Site | May 19 |
 | **[Ownership Works](https://ownershipworks.org/)** | **[Advancement Intern](https://jobright.ai/jobs/info/6a0ca2f622d0d34036c96902?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | May 19 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Summer 2026 - Retail Intern](https://jobright.ai/jobs/info/6a0ca0cc538d03366dc8f411?utm_campaign=1051&utm_source=git)** | Pigeon Forge, TN | On Site | May 19 |
-| **[NOV](https://www.nov.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/6a0ca0b622d0d34036c967ee?utm_campaign=1051&utm_source=git)** | Conroe, TX | On Site | May 19 |
 | **[John Lobb](https://www.johnlobb.com/en_roa/)** | **[Internship Guest Relations and Client Experience - John Lobb](https://jobright.ai/jobs/info/6a0ca0b04d9320363687a365?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | May 19 |
 | **[Casella Waste Systems, Inc.](http://www.casella.com/)** | **[National Accounts Internship](https://jobright.ai/jobs/info/6a0c9a04538d03366dc8f183?utm_campaign=1051&utm_source=git)** | Rutland, VT, US | On Site | May 19 |
 | ↳ | **[National Accounts Internship](https://jobright.ai/jobs/info/6a0c9a03538d03366dc8f182?utm_campaign=1051&utm_source=git)** | US-VT-Rutland | On Site | May 19 |
@@ -129,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0c703e22d0d34036c94288?utm_campaign=1051&utm_source=git)** | Memphis, Tennessee, United States of America | On Site | May 19 |
 | **[Dunham's Sports](http://www.dunhamssports.com/)** | **[Buyer Intern](https://jobright.ai/jobs/info/6a0c6f65538d03366dc8d31f?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | May 19 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a0c6ae74d93203636878015?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | May 19 |
-| **[Mavenwit](https://www.mavenwit.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0c6616538d03366dc8d0d1?utm_campaign=1051&utm_source=git)** | United States | Remote | May 19 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6a0c6125963f7a67d95d6f07?utm_campaign=1051&utm_source=git)** | United States | Remote | May 19 |
 | ↳ | **[Private Equity Intern](https://jobright.ai/jobs/info/6a0c7c83963f7a67d95d83e7?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 19 |
 | **[Libre Tax Service](https://libretaxservice.com/)** | **[Sales Intern - United States](https://jobright.ai/jobs/info/6a0c524d4d93203636876f76?utm_campaign=1051&utm_source=git)** | United States | Remote | May 19 |
