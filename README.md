@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0d0291963f7a67d95dde63?utm_campaign=1051&utm_source=git)** | United States | Remote | May 19 |
+| **[Mac Properties](http://macapartments.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/6a0cfeb322d0d34036c9abb4?utm_campaign=1051&utm_source=git)** | Kansas City, Missouri | On Site | May 19 |
+| **[Leidos](https://www.leidos.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0cf6cb4d9320363687de26?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | May 19 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Development](https://jobright.ai/jobs/info/6a0ced320411d7417a1bdf72?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | May 19 |
 | ↳ | **[SAP iXp Intern - Business Development](https://jobright.ai/jobs/info/6a0cea184d9320363687d817?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, US, 30009 | Hybrid | May 19 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/6a0ce72e4d9320363687d5c0?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | May 19 |
@@ -135,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Cloud Science Labs](https://www.cloudsciencelabs.com)** | **[Sales Intern- Cloud Solution](https://jobright.ai/jobs/info/6a0c433922d0d34036c9257f?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 19 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a0be361963f7a67d95d39f3?utm_campaign=1051&utm_source=git)** | New Orleans, Louisiana, United States of America | On Site | May 18 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0c08a522d0d34036c91187?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
-| ↳ | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0bdfc6538d03366dc895d0?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
 | ↳ | **[Business Development & Sales Internship (Unpaid) – Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0bdfc6538d03366dc895cf?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
+| ↳ | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0bdfc6538d03366dc895d0?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 18 |
 | **[Metal Craft and Riverside Machine & Engineering](https://mcandrs.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0bdf710411d7417a1b4b7c?utm_campaign=1051&utm_source=git)** | Metal Craft, Elk River, MN, US | On Site | May 18 |
 | **[Altitude Promotions](https://altitudepromotions.com)** | **[B2B Intern](https://jobright.ai/jobs/info/6a0bdd39a235d749afa89028?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 18 |
 | **[MODE Global](https://www.modeglobal.com)** | **[Commercial Account Executive Intern](https://jobright.ai/jobs/info/6a0bcc3022d0d34036c8fb1d?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | On Site | May 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Temporal Technologies](https://temporal.io)** | **[Business Development Operations & AI Automation Internship](https://jobright.ai/jobs/info/6a0b94530411d7417a1b296a?utm_campaign=1051&utm_source=git)** | United States | Hybrid | May 18 |
 | **[Preserve Shady Rest Country Club](preserveshadyrest.org)** | **[Donor Giving & Development Internship (Summer 2026)](https://jobright.ai/jobs/info/6a0b92f222d0d34036c8dfe2?utm_campaign=1051&utm_source=git)** | Scotch Plains, NJ | Hybrid | May 18 |
 | **[Challenge Manufacturing](http://challenge-mfg.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b92ab963f7a67d95d1599?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | May 18 |
-| **[GKIDS](http://www.gkidsfilms.com/)** | **[Distribution Operations Intern](https://jobright.ai/jobs/info/6a0b9278a235d749afa86e4e?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | May 18 |
-| **[Nu Skin](http://www.nuskin.com/)** | **[Sales Leader Development Intern](https://jobright.ai/jobs/info/6a0b8977963f7a67d95d0e78?utm_campaign=1051&utm_source=git)** | Provo, UT | On Site | May 18 |
-| **[The International Council on Clean Transportation](http://theicct.org/)** | **[Development Intern](https://jobright.ai/jobs/info/6a0b8671538d03366dc8674b?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
