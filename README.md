@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Virginia University Foundation](https://www.wvuf.org/)** | **[Corporate and Foundation Relations Intern](https://jobright.ai/jobs/info/6a0f450383d714428981e295?utm_campaign=1051&utm_source=git)** | Morgantown, WV | Hybrid | May 21 |
+| **[Mall of America](https://www.mallofamerica.com)** | **[Tourism + Partnership Sales Intern - Fall 2026](https://jobright.ai/jobs/info/6a0f428612f8b43cf397cfc6?utm_campaign=1051&utm_source=git)** | 60 E Broadway, Bloomington, MN 55425, USA | On Site | May 21 |
+| **[Fusion100](http://Fusion100co.com)** | **[Campus Partnerships Intern](https://jobright.ai/jobs/info/6a0f422c83d714428981e1ae?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | May 21 |
+| **[Accuris](https://accuristech.com)** | **[Software Sales Internship (Hybrid)](https://jobright.ai/jobs/info/69f2b6a58feca91f1492664d?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | May 21 |
+| **[Cinq à Sept](http://cinqasept.nyc)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0f420612f8b43cf397cf38?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | May 21 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Global Business Development, Energy (Fall 2026)](https://jobright.ai/jobs/info/6a0f414712f8b43cf397cef4?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0f40fd619335383fb2a5ed?utm_campaign=1051&utm_source=git)** | Celebration, FL | Remote | May 21 |
+| **[Sellmark Corporation](https://sellmark.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0f3fda9f654b3359ce3cd5?utm_campaign=1051&utm_source=git)** | Mansfield, TX | On Site | May 21 |
+| **[KRAFZEN](krafzeninc.com)** | **[Cold Calling and Lead Generation Intern (Commission-Based)](https://jobright.ai/jobs/info/6a0f3d3783d714428981df5b?utm_campaign=1051&utm_source=git)** | United States | Remote | May 21 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/6a0f39ce72b52f7225f3bdf9?utm_campaign=1051&utm_source=git)** | US-TX-Desoto | On Site | May 21 |
+| ↳ | **[Intern, Property Management](https://jobright.ai/jobs/info/6a0f39cd72b52f7225f3bdf8?utm_campaign=1051&utm_source=git)** | Desoto, TX, US | On Site | May 21 |
+| **[Distinct Vancouver](https://distinctvancouver.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0f3911619335383fb2a19c?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 21 |
+| **[FreshDirect](http://freshdirect.com)** | **[Summer Internship- Assortment Strategy Intern](https://jobright.ai/jobs/info/69f279858d8d624381aa10f8?utm_campaign=1051&utm_source=git)** | Bronx, NY | On Site | May 21 |
+| **[Pacific Office Automation](http://www.pacificoffice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0f374972b52f7225f3bc60?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 21 |
+| **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/6a0f370772b52f7225f3bc1e?utm_campaign=1051&utm_source=git)** | United States | Remote | May 21 |
+| **[Synectics](https://www.synectics.net)** | **[Marketing And Business Development Intern (Temporary, Part-time)](https://jobright.ai/jobs/info/6a0f363d80bf0430c7631a4c?utm_campaign=1051&utm_source=git)** | Greater Sacramento | On Site | May 21 |
 | **[Moby Capital](https://mobycap.com)** | **[Origination & Operations Intern](https://jobright.ai/jobs/info/6a0f332872b52f7225f3ba16?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 21 |
 | **[Maxxon Corporation](http://www.maxxon.com)** | **[E-Commerce Marketing Intern](https://jobright.ai/jobs/info/6a0f31e983d714428981d760?utm_campaign=1051&utm_source=git)** | Hamel, MN | On Site | May 21 |
 | **[Mobile Defender Inc.](https://www.mobiledefender.net/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0f2939619335383fb2982f?utm_campaign=1051&utm_source=git)** | United States | Remote | May 21 |
@@ -64,7 +80,9 @@ For a complete list, click the following sortable link below:
 | **[Amentum](https://www.amentum.com/)** | **[Intern – Buyer I/Expeditor (Summer 2026)](https://jobright.ai/jobs/info/6a0f209c619335383fb29595?utm_campaign=1051&utm_source=git)** | US-NV-Las Vegas, US | On Site | May 21 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a0f1cdb619335383fb293eb?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | May 21 |
 | **[South Post Oak Recycling Center](https://southpostoakrecycling.com)** | **[Emerging Buyer / Commercial Development Intern](https://jobright.ai/jobs/info/6a0f1afd12f8b43cf397bc92?utm_campaign=1051&utm_source=git)** | Houston,TX,US | On Site | May 21 |
+| **[Coty](https://www.coty.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f29650825a315d7ca3d65b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 21 |
 | **[RBC](https://www.rbc.com)** | **[Client advisor Intern](https://jobright.ai/jobs/info/6a0f11db9f654b3359ce26ad?utm_campaign=1051&utm_source=git)** | OAKVILLE, Ontario, Canada | On Site | May 21 |
+| **[Waterstone Mortgage Corporation](http://WaterstoneMortgage.com)** | **[Loan Originator Business Development Intern](https://jobright.ai/jobs/info/6a0f3df59f654b3359ce3c09?utm_campaign=1051&utm_source=git)** | Brookfield, WI | Hybrid | May 21 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Greeley](https://jobright.ai/jobs/info/6a0f0f35619335383fb28de1?utm_campaign=1051&utm_source=git)** | Windsor, CO | On Site | May 21 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/6a0f09f412f8b43cf397b6c6?utm_campaign=1051&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | May 21 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a0f08c4619335383fb28ce0?utm_campaign=1051&utm_source=git)** | Milton, Ontario, Canada | On Site | May 21 |
@@ -85,7 +103,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/6a0e9e7683d714428981a32d?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
 | ↳ | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a3d83d714428981a26c?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 20 |
 | **[Influur](https://www.influur.com)** | **[Sales Ninja - Internship](https://jobright.ai/jobs/info/6a0e85bf47fea1610bcaaa33?utm_campaign=1051&utm_source=git)** | Florida | Remote | May 20 |
-| **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/6a0e836912f8b43cf3977fa5?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 20 |
 | **[Vita Coco](https://www.thevitacococompany.com)** | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a0e8341c152ac782448719f?utm_campaign=1051&utm_source=git)** | Hanover, MA | On Site | May 20 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/6a0e831b09ecfd704b3e9987?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | May 20 |
 | **[Abode Money](https://www.abodemoney.com/)** | **[Operations & Business Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a0e727212f8b43cf39779b4?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | May 20 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cadent](http://www.cadent.tv)** | **[Account Management Intern](https://jobright.ai/jobs/info/69f254d1ab4ec4779fff8939?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[Clayton Homes of Opelousas](http://claytonhomesopelousas.com)** | **[Clayton Homes Summer Intern - Raleigh, NC](https://jobright.ai/jobs/info/6a0dfc11c152ac7824481e08?utm_campaign=1051&utm_source=git)** | Raleigh, NC, US | On Site | May 20 |
 | **[Nestlé](https://www.nestle.com)** | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0e320780bf0430c762a750?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | May 20 |
-| **[Yieldmo](http://www.yieldmo.com)** | **[Sales Support Intern (Sports & Emerging Products)](https://jobright.ai/jobs/info/6a0df6eec152ac78244819c4?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
-| **[Nestlé](https://www.nestle.com)** | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df66283d714428981423b?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | May 20 |
-| ↳ | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df65883d7144289814211?utm_campaign=1051&utm_source=git)** | Brentwood, TN | On Site | May 20 |
-| ↳ | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df62a09ecfd704b3e458b?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | May 20 |
-| ↳ | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df62909ecfd704b3e4588?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | May 20 |
-| ↳ | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0e3a5180bf0430c762afb1?utm_campaign=1051&utm_source=git)** | Loveland, OH | On Site | May 20 |
-| ↳ | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0e3a55beb4d73cb62307b7?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | May 20 |
-| **[Louisville City FC](https://www.loucity.com)** | **[Ticket Operations Intern](https://jobright.ai/jobs/info/6a0df3b2beb4d73cb622d5d0?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 20 |
-| **[Applied Particle Technology Inc.](http://www.appliedparticletechnology.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0df0a0beb4d73cb622d571?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | May 20 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0df077beb4d73cb622d4d2?utm_campaign=1051&utm_source=git)** | New Paltz, NY | On Site | May 20 |
-| **[Institute of Classical Architecture & Art](https://www.classicist.org)** | **[Membership & Development Internship](https://jobright.ai/jobs/info/6a0df03ac152ac782448173b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 20 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0e2a3047fea1610bca7aa1?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | May 20 |
-| **[AccessWave](https://theaccesswave.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a0de9e347fea1610bca527d?utm_campaign=1051&utm_source=git)** | Las Vegas, NV, US | On Site | May 20 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0de9e247fea1610bca527b?utm_campaign=1051&utm_source=git)** | Winnipeg, MB, CA | Hybrid | May 20 |
-| ↳ | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0de9e247fea1610bca527c?utm_campaign=1051&utm_source=git)** | CA-MB-Winnipeg | Hybrid | May 20 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e986a33aa0c479643aac97?utm_campaign=1051&utm_source=git)** | Manchester, NH | Remote | May 20 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Northwestern Mutual College Financial Representative – FALL 2026 Internship Program](https://jobright.ai/jobs/info/6a0e0da5c152ac78244829e0?utm_campaign=1051&utm_source=git)** | West Hartford, CT | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
