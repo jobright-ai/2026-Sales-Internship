@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0e53da83d7144289818342?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
+| **[Clayton](http://www.claytonhomes.com/)** | **[Clayton Homes Summer Intern - Raleigh, NC](https://jobright.ai/jobs/info/6a0e559709ecfd704b3e8463?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | May 20 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a0e5536beb4d73cb62318d4?utm_campaign=1051&utm_source=git)** | Skokie, IL | On Site | May 20 |
+| **[Razer Inc.](https://www.razer.com)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/6a0e54ec47fea1610bca97b6?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | May 20 |
 | **[Inference.ai](https://www.inference.ai/)** | **[AI Partnerships & Growth Intern](https://jobright.ai/jobs/info/6a0e530480bf0430c762beaf?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | May 20 |
 | **[Alice & Bob](https://alice-bob.com)** | **[Quantum Technical Business Development Internship- US](https://jobright.ai/jobs/info/69f0979bb27fee43e8cd3979?utm_campaign=1051&utm_source=git)** | Boston | Hybrid | May 20 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Staff - Intern](https://jobright.ai/jobs/info/6a0e4ea409ecfd704b3e7db2?utm_campaign=1051&utm_source=git)** | San Fernando, CA | On Site | May 20 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Heidelberger Druckmaschinen AG](http://www.heidelberg.com)** | **[HUS Lifecycle Intern](https://jobright.ai/jobs/info/6a0e348309ecfd704b3e6fbb?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | May 20 |
 | **[Titan Technologies](https://titantechnologies.com)** | **[Proposal Support Intern](https://jobright.ai/jobs/info/69eaac4f3aa0c479643b134f?utm_campaign=1051&utm_source=git)** | Reston, VA | Remote | May 20 |
 | **[Extreme Networks](http://www.extremenetworks.com)** | **[Intern - Channel Sales - Fluent in Spanish and English](https://jobright.ai/jobs/info/6a0e33d647fea1610bca80a9?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | May 20 |
-| **[Rose Paving LLC](http://rosepaving.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0e31dc80bf0430c762a72d?utm_campaign=1051&utm_source=git)** | Villa Park, IL | On Site | May 20 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Rental Sales and Operations Intern](https://jobright.ai/jobs/info/6a0e31c6beb4d73cb622ff50?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | May 20 |
 | **[Abode Money](https://www.abodemoney.com/)** | **[Operations & Business Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a0e2ffa47fea1610bca7cc0?utm_campaign=1051&utm_source=git)** | Austin (Office) | On Site | May 20 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69616943a112b402660feb25?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | May 20 |
@@ -142,6 +143,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4e93aa0c47964395605?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | May 20 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/68c9cc8e95f5211cd2cf4719?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69c2e419753c101b21564a34?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | May 20 |
+| **[CodeClear (formerly CarbonClear)](getcarbonclear.com)** | **[Sales and Marketing - Intern (Graduate)](https://jobright.ai/jobs/info/6a0e582c80bf0430c762c309?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | Hybrid | May 20 |
 | **[TZ Medical](http://tzmedical.com)** | **[Medical Device Sales Internship Fall 2026 (Paid)](https://jobright.ai/jobs/info/6a0dd8da09ecfd704b3e317d?utm_campaign=1051&utm_source=git)** | Tualatin, OR | On Site | May 20 |
 | **[Pakio](https://www.pakioinc.com/)** | **[Sales Management Internship - Summer 2026](https://jobright.ai/jobs/info/6a0dd1b0beb4d73cb622bd9d?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | May 20 |
 | **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Business Development intern](https://jobright.ai/jobs/info/6a0dcff147fea1610bca40be?utm_campaign=1051&utm_source=git)** | US-KY-LOUISVILLE | On Site | May 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Greeley](https://jobright.ai/jobs/info/6a0dc29d83d7144289812292?utm_campaign=1051&utm_source=git)** | Windsor, CO | On Site | May 20 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69fcacdf666f063d3d6cff38?utm_campaign=1051&utm_source=git)** | Pincher Creek, Alberta, Canada | On Site | May 20 |
 | **[Suncadia](http://www.suncadiaresort.com)** | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/69d4f85d706f771673b9fe10?utm_campaign=1051&utm_source=git)** | Cle Elum, WA | On Site | May 20 |
-| **[Cloud Science Labs](https://www.cloudsciencelabs.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0dbd2cbeb4d73cb622b07e?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 20 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f14233825a315d7ca36fa8?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
