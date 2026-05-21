@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0e53da83d7144289818342?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
+| **[Inference.ai](https://www.inference.ai/)** | **[AI Partnerships & Growth Intern](https://jobright.ai/jobs/info/6a0e530480bf0430c762beaf?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | May 20 |
+| **[Alice & Bob](https://alice-bob.com)** | **[Quantum Technical Business Development Internship- US](https://jobright.ai/jobs/info/69f0979bb27fee43e8cd3979?utm_campaign=1051&utm_source=git)** | Boston | Hybrid | May 20 |
+| **[Kidder Mathews](https://kidder.com/)** | **[Broker Staff - Intern](https://jobright.ai/jobs/info/6a0e4ea409ecfd704b3e7db2?utm_campaign=1051&utm_source=git)** | San Fernando, CA | On Site | May 20 |
+| **[WOW Brand](http://wowpayments.com)** | **[Urgent- Intern Business Development](https://jobright.ai/jobs/info/6a0e4d8b80bf0430c762b8ca?utm_campaign=1051&utm_source=git)** | NY, NY | On Site | May 20 |
+| **[Razer Inc.](https://www.razer.com)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/6a0e4cc947fea1610bca8ead?utm_campaign=1051&utm_source=git)** | Irvine, CA, US | On Site | May 20 |
+| **[Mac Papers and Packaging](http://macpapers.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0e4bafc152ac78244854b3?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | May 20 |
+| **[Round 2 NYC](r2nyc.online)** | **[Social Impact Business Development Intern](https://jobright.ai/jobs/info/6a0e4b5b80bf0430c762b6f3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/6a0e440483d71442898179b4?utm_campaign=1051&utm_source=git)** | Elmhurst, IL | On Site | May 20 |
 | ↳ | **[Intern, Property Management](https://jobright.ai/jobs/info/6a0e43ee80bf0430c762b548?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | May 20 |
 | **[Dayforce](https://www.dayforce.com)** | **[Value Advisory Intern 4 Months - Fall 2026](https://jobright.ai/jobs/info/6a0e42df09ecfd704b3e7814?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 20 |
@@ -129,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6a0dde15beb4d73cb622c28b?utm_campaign=1051&utm_source=git)** | Chicago - 550 Van Buren, US | Hybrid | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e7e222f8fa2f3ec32aa10b?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | May 20 |
 | **[TIH](https://www.truistinsurance.com/)** | **[Broker Assistant Intern](https://jobright.ai/jobs/info/6a0ddbc209ecfd704b3e3300?utm_campaign=1051&utm_source=git)** | Woodbury, NY, US | On Site | May 20 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4d93cfd986aa6f87051?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | May 20 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4de3cfd986aa6f87070?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 20 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4de3cfd986aa6f87070?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 20 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4d93cfd986aa6f87051?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | May 20 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4e93aa0c47964395605?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | May 20 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/68c9cc8e95f5211cd2cf4719?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69c2e419753c101b21564a34?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | May 20 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Suncadia](http://www.suncadiaresort.com)** | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/69d4f85d706f771673b9fe10?utm_campaign=1051&utm_source=git)** | Cle Elum, WA | On Site | May 20 |
 | **[Cloud Science Labs](https://www.cloudsciencelabs.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0dbd2cbeb4d73cb622b07e?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 20 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f14233825a315d7ca36fa8?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | May 20 |
-| **[Sun Gro Horticulture](http://www.sungro.com)** | **[Sales Training Internship](https://jobright.ai/jobs/info/699cd34181476f6176b5604e?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | May 20 |
-| **[Life Enriching Communities](https://lec.org/)** | **[Special Projects Summer Intern](https://jobright.ai/jobs/info/6a0db6a3beb4d73cb622ad75?utm_campaign=1051&utm_source=git)** | Twin Lakes, 9840 Montgomery Rd., Montgomery, OH | On Site | May 20 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales Intern](https://jobright.ai/jobs/info/69d3c408891d7b11cfcf3188?utm_campaign=1051&utm_source=git)** | Panama City, FL | On Site | May 20 |
-| **[State Street](https://www.statestreet.com/)** | **[Sales Business Analyst, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/6a0303e622395b6dc6d9014e?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 20 |
-| **[Waites](https://waites.net)** | **[BDR - Sales Intern](https://jobright.ai/jobs/info/6a02c5eff3d6cc51d6370895?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | May 20 |
-| **[WMUR-TV](http://www.wmur.com/)** | **[WMUR Sales Intern](https://jobright.ai/jobs/info/69d47058891d7b11cfcfa3ab?utm_campaign=1051&utm_source=git)** | Manchester, NH | On Site | May 20 |
-| **[TikTok](https://www.tiktok.com)** | **[Global Sports Partnerships Project Intern (TikTok-Operations-Sports-Global Partnerships) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69f1867cecbc8c2f73206463?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 20 |
-| ↳ | **[Publisher Partnerships Project Intern (TikTok-Operations-News-Global Partnerships) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f186ca8d8d624381a9ca7f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
