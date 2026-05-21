@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Abode Money](https://www.abodemoney.com/)** | **[Operations & Business Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a0e727212f8b43cf39779b4?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | May 20 |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0e714d83d71442898190a6?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
 | **[Entravision](https://entravision.com/)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6a0e6e30beb4d73cb6232412?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 20 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/6a0e6e2cc152ac78244869b3?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | May 20 |
 | **[Vita Coco](https://www.thevitacococompany.com)** | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a0e6de409ecfd704b3e8ed4?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 20 |
@@ -96,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Dayforce](https://www.dayforce.com)** | **[Value Advisory Intern 4 Months - Fall 2026](https://jobright.ai/jobs/info/6a0e1b8abeb4d73cb622f032?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 20 |
 | **[Entravision](https://entravision.com/)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6a0e189447fea1610bca6f1f?utm_campaign=1051&utm_source=git)** | Denver, CO, US | On Site | May 20 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/6a0e187e47fea1610bca6f0e?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | May 20 |
-| **[Antela.ai](https://antela.ai)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0e178d47fea1610bca6d8e?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | May 20 |
 | **[Diconium](http://www.diconium.com)** | **[North America Commercial Sales Intern](https://jobright.ai/jobs/info/6a0e160747fea1610bca6b2d?utm_campaign=1051&utm_source=git)** | Reston, VA | Hybrid | May 20 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[RV Sales Internship](https://jobright.ai/jobs/info/6a0e1470beb4d73cb622e96b?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | May 20 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern (Spanish Speaking)](https://jobright.ai/jobs/info/6a0e320880bf0430c762a771?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 20 |
@@ -144,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6a0dde15beb4d73cb622c28b?utm_campaign=1051&utm_source=git)** | Chicago - 550 Van Buren, US | Hybrid | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e7e222f8fa2f3ec32aa10b?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | May 20 |
 | **[TIH](https://www.truistinsurance.com/)** | **[Broker Assistant Intern](https://jobright.ai/jobs/info/6a0ddbc209ecfd704b3e3300?utm_campaign=1051&utm_source=git)** | Woodbury, NY, US | On Site | May 20 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4de3cfd986aa6f87070?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 20 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4d93cfd986aa6f87051?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | May 20 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4d93cfd986aa6f87051?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | May 20 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4de3cfd986aa6f87070?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 20 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4e93aa0c47964395605?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | May 20 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/68c9cc8e95f5211cd2cf4719?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69c2e419753c101b21564a34?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | May 20 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Rental Sales and Operations Intern](https://jobright.ai/jobs/info/6a0dce7709ecfd704b3e2eaa?utm_campaign=1051&utm_source=git)** | USA - Greensboro NC 27406, US | On Site | May 20 |
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a0dcc0d09ecfd704b3e2d5a?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 20 |
 | **[On Trend Group](https://weareontrendgroup.com/)** | **[Graduate Sales Intern](https://jobright.ai/jobs/info/6a0dcbbf83d7144289812930?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 20 |
+| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Sales Support Operations Intern - Fall 2026](https://jobright.ai/jobs/info/699cfbeae0bddb6acacc0d1d?utm_campaign=1051&utm_source=git)** | Green Bay, WI | Hybrid | May 20 |
+| **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Business Development Internship](https://jobright.ai/jobs/info/69fdf50a6bcf315dc8f53da2?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
