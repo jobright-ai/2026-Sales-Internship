@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a3d83d714428981a26c?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 20 |
+| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/6a0ea31e09ecfd704b3ea558?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | May 20 |
+| ↳ | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/6a0ea2b312f8b43cf3978b0b?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
+| ↳ | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/6a0e9e7f80bf0430c762de69?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | May 20 |
+| ↳ | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/6a0e9e7683d714428981a32d?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
+| ↳ | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a3d83d714428981a26c?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 20 |
 | **[Influur](https://www.influur.com)** | **[Sales Ninja - Internship](https://jobright.ai/jobs/info/6a0e85bf47fea1610bcaaa33?utm_campaign=1051&utm_source=git)** | Florida | Remote | May 20 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/6a0e836912f8b43cf3977fa5?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 20 |
 | **[Vita Coco](https://www.thevitacococompany.com)** | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a0e8341c152ac782448719f?utm_campaign=1051&utm_source=git)** | Hanover, MA | On Site | May 20 |
@@ -134,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Northwestern Mutual College Financial Representative – FALL 2026 Internship Program](https://jobright.ai/jobs/info/6a0e0da5c152ac78244829e0?utm_campaign=1051&utm_source=git)** | West Hartford, CT | On Site | May 20 |
 | **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0de74009ecfd704b3e3f10?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0de68dc152ac7824481042?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | May 20 |
-| **[Crescendo International](https://crescendointernational.co/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a056862a88ea73abf7f0e4a?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | May 20 |
 | **[Rally Strategies](https://rally-strategies.com/)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a0b047b538d03366dc80f01?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0de39dbeb4d73cb622ca47?utm_campaign=1051&utm_source=git)** | Texas, United States | On Site | May 20 |
 | **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Business Development intern](https://jobright.ai/jobs/info/6a0de35a80bf0430c7627037?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 20 |
@@ -143,6 +146,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a0de31247fea1610bca4cdd?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | May 20 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c2e48aec22f8310ab0dff7?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | May 20 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69c2e42b94007a2195def37a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 20 |
+| **[Crescendo International](https://crescendointernational.co/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a056862a88ea73abf7f0e4a?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | May 20 |
 | **[Nestlé](https://www.nestle.com)** | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0dde56beb4d73cb622c374?utm_campaign=1051&utm_source=git)** | Loveland, OH, US, 45140 | On Site | May 20 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6a0dde15beb4d73cb622c28b?utm_campaign=1051&utm_source=git)** | Chicago - 550 Van Buren, US | Hybrid | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e7e222f8fa2f3ec32aa10b?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | May 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/68c9cc8e95f5211cd2cf4719?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69c2e419753c101b21564a34?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | May 20 |
 | **[CodeClear (formerly CarbonClear)](getcarbonclear.com)** | **[Sales and Marketing - Intern (Graduate)](https://jobright.ai/jobs/info/6a0e582c80bf0430c762c309?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | Hybrid | May 20 |
-| **[TZ Medical](http://tzmedical.com)** | **[Medical Device Sales Internship Fall 2026 (Paid)](https://jobright.ai/jobs/info/6a0dd8da09ecfd704b3e317d?utm_campaign=1051&utm_source=git)** | Tualatin, OR | On Site | May 20 |
-| **[Pakio](https://www.pakioinc.com/)** | **[Sales Management Internship - Summer 2026](https://jobright.ai/jobs/info/6a0dd1b0beb4d73cb622bd9d?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | May 20 |
-| **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Business Development intern](https://jobright.ai/jobs/info/6a0dcff147fea1610bca40be?utm_campaign=1051&utm_source=git)** | US-KY-LOUISVILLE | On Site | May 20 |
-| ↳ | **[Business Development intern](https://jobright.ai/jobs/info/6a0dcff047fea1610bca40bd?utm_campaign=1051&utm_source=git)** | LOUISVILLE, KY, US | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
