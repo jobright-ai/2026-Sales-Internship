@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Brooklyn Navy Yard)](https://jobright.ai/jobs/info/69d6b1a348f0c8161d2fa4c1?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | May 21 |
+| **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Hospitality & Spa Intern (Summer 2026)](https://jobright.ai/jobs/info/69f279548d8d624381aa0ff3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0ede3c80bf0430c762f442?utm_campaign=1051&utm_source=git)** | Egypt, AR | On Site | May 21 |
 | **[Rinker Materials](http://www.rinkerpipe.com/)** | **[Sales Internship (Concrete Industry)](https://jobright.ai/jobs/info/69bacf3006c1ba00c54d1da7?utm_campaign=1051&utm_source=git)** | Henderson, CO | On Site | May 21 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) Canada/ Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0ed6a2619335383fb27a57?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 21 |
@@ -135,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Institute of Classical Architecture & Art](https://www.classicist.org)** | **[Membership & Development Internship](https://jobright.ai/jobs/info/6a0df03ac152ac782448173b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0e2a3047fea1610bca7aa1?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | May 20 |
 | **[AccessWave](https://theaccesswave.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a0de9e347fea1610bca527d?utm_campaign=1051&utm_source=git)** | Las Vegas, NV, US | On Site | May 20 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0de9e247fea1610bca527b?utm_campaign=1051&utm_source=git)** | Winnipeg, MB, CA | Hybrid | May 20 |
-| ↳ | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0de9e247fea1610bca527c?utm_campaign=1051&utm_source=git)** | CA-MB-Winnipeg | Hybrid | May 20 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0de9e247fea1610bca527c?utm_campaign=1051&utm_source=git)** | CA-MB-Winnipeg | Hybrid | May 20 |
+| ↳ | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0de9e247fea1610bca527b?utm_campaign=1051&utm_source=git)** | Winnipeg, MB, CA | Hybrid | May 20 |
 | **[Life Enriching Communities](https://lec.org/)** | **[Special Projects Summer Intern](https://jobright.ai/jobs/info/6a0de90e47fea1610bca5196?utm_campaign=1051&utm_source=git)** | Montgomery, OH | On Site | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e986a33aa0c479643aac97?utm_campaign=1051&utm_source=git)** | Manchester, NH | Remote | May 20 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Northwestern Mutual College Financial Representative – FALL 2026 Internship Program](https://jobright.ai/jobs/info/6a0e0da5c152ac78244829e0?utm_campaign=1051&utm_source=git)** | West Hartford, CT | On Site | May 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6a0dde15beb4d73cb622c28b?utm_campaign=1051&utm_source=git)** | Chicago - 550 Van Buren, US | Hybrid | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e7e222f8fa2f3ec32aa10b?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | May 20 |
 | **[TIH](https://www.truistinsurance.com/)** | **[Broker Assistant Intern](https://jobright.ai/jobs/info/6a0ddbc209ecfd704b3e3300?utm_campaign=1051&utm_source=git)** | Woodbury, NY, US | On Site | May 20 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4de3cfd986aa6f87070?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 20 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69e6a4d93cfd986aa6f87051?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
