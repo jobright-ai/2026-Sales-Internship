@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bosch](http://www.bosch.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a0f2201619335383fb29627?utm_campaign=1051&utm_source=git)** | 38000 Hills Tech Dr, Farmington Hills, MI 48331, USA | Hybrid | May 21 |
+| **[Amentum](https://www.amentum.com/)** | **[Intern – Buyer I/Expeditor (Summer 2026)](https://jobright.ai/jobs/info/6a0f209c619335383fb29595?utm_campaign=1051&utm_source=git)** | US-NV-Las Vegas, US | On Site | May 21 |
+| **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a0f1cdb619335383fb293eb?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | May 21 |
+| **[South Post Oak Recycling Center](https://southpostoakrecycling.com)** | **[Emerging Buyer / Commercial Development Intern](https://jobright.ai/jobs/info/6a0f1afd12f8b43cf397bc92?utm_campaign=1051&utm_source=git)** | Houston,TX,US | On Site | May 21 |
+| **[RBC](https://www.rbc.com)** | **[Client advisor Intern](https://jobright.ai/jobs/info/6a0f11db9f654b3359ce26ad?utm_campaign=1051&utm_source=git)** | OAKVILLE, Ontario, Canada | On Site | May 21 |
+| **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Greeley](https://jobright.ai/jobs/info/6a0f0f35619335383fb28de1?utm_campaign=1051&utm_source=git)** | Windsor, CO | On Site | May 21 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/6a0f09f412f8b43cf397b6c6?utm_campaign=1051&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | May 21 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a0f08c4619335383fb28ce0?utm_campaign=1051&utm_source=git)** | Milton, Ontario, Canada | On Site | May 21 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a0f07849f654b3359ce244f?utm_campaign=1051&utm_source=git)** | Stephenville, Newfoundland and Labrador, Canada | On Site | May 21 |
@@ -93,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[WOW Brand](http://wowpayments.com)** | **[Urgent- Intern Business Development](https://jobright.ai/jobs/info/6a0e4d8b80bf0430c762b8ca?utm_campaign=1051&utm_source=git)** | NY, NY | On Site | May 20 |
 | **[Razer Inc.](https://www.razer.com)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/6a0e4cc947fea1610bca8ead?utm_campaign=1051&utm_source=git)** | Irvine, CA, US | On Site | May 20 |
 | **[Mac Papers and Packaging](http://macpapers.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0e4bafc152ac78244854b3?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | May 20 |
-| **[Round 2 NYC](r2nyc.online)** | **[Social Impact Business Development Intern](https://jobright.ai/jobs/info/6a0e4b5b80bf0430c762b6f3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/6a0e440483d71442898179b4?utm_campaign=1051&utm_source=git)** | Elmhurst, IL | On Site | May 20 |
 | ↳ | **[Intern, Property Management](https://jobright.ai/jobs/info/6a0e43ee80bf0430c762b548?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | May 20 |
 | **[Dayforce](https://www.dayforce.com)** | **[Value Advisory Intern 4 Months - Fall 2026](https://jobright.ai/jobs/info/6a0e42df09ecfd704b3e7814?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0de74009ecfd704b3e3f10?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0de68dc152ac7824481042?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | May 20 |
 | **[Rally Strategies](https://rally-strategies.com/)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a0b047b538d03366dc80f01?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | May 20 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0de39dbeb4d73cb622ca47?utm_campaign=1051&utm_source=git)** | Texas, United States | On Site | May 20 |
-| **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Business Development intern](https://jobright.ai/jobs/info/6a0de35a80bf0430c7627037?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 20 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/6a0de32883d71442898137a5?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | May 20 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6a0de32609ecfd704b3e3b22?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | May 20 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a0de31247fea1610bca4cdd?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
