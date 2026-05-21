@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Abode Money](https://www.abodemoney.com/)** | **[Operations & Business Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a0e727212f8b43cf39779b4?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | May 20 |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0e714d83d71442898190a6?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
+| **[Entravision](https://entravision.com/)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6a0e6e30beb4d73cb6232412?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 20 |
+| ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/6a0e6e2cc152ac78244869b3?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | May 20 |
+| **[Vita Coco](https://www.thevitacococompany.com)** | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a0e6de409ecfd704b3e8ed4?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 20 |
+| ↳ | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a0e6de409ecfd704b3e8ed5?utm_campaign=1051&utm_source=git)** | Andover, MA | On Site | May 20 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Clayton Homes Summer Intern - Raleigh, NC](https://jobright.ai/jobs/info/6a0e559709ecfd704b3e8463?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | May 20 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a0e5536beb4d73cb62318d4?utm_campaign=1051&utm_source=git)** | Skokie, IL | On Site | May 20 |
 | **[Razer Inc.](https://www.razer.com)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/6a0e54ec47fea1610bca97b6?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | May 20 |
@@ -118,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Institute of Classical Architecture & Art](https://www.classicist.org)** | **[Membership & Development Internship](https://jobright.ai/jobs/info/6a0df03ac152ac782448173b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0e2a3047fea1610bca7aa1?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | May 20 |
 | **[AccessWave](https://theaccesswave.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a0de9e347fea1610bca527d?utm_campaign=1051&utm_source=git)** | Las Vegas, NV, US | On Site | May 20 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0de9e247fea1610bca527c?utm_campaign=1051&utm_source=git)** | CA-MB-Winnipeg | Hybrid | May 20 |
-| ↳ | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0de9e247fea1610bca527b?utm_campaign=1051&utm_source=git)** | Winnipeg, MB, CA | Hybrid | May 20 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0de9e247fea1610bca527b?utm_campaign=1051&utm_source=git)** | Winnipeg, MB, CA | Hybrid | May 20 |
+| ↳ | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0de9e247fea1610bca527c?utm_campaign=1051&utm_source=git)** | CA-MB-Winnipeg | Hybrid | May 20 |
 | **[Life Enriching Communities](https://lec.org/)** | **[Special Projects Summer Intern](https://jobright.ai/jobs/info/6a0de90e47fea1610bca5196?utm_campaign=1051&utm_source=git)** | Montgomery, OH | On Site | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e986a33aa0c479643aac97?utm_campaign=1051&utm_source=git)** | Manchester, NH | Remote | May 20 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Northwestern Mutual College Financial Representative – FALL 2026 Internship Program](https://jobright.ai/jobs/info/6a0e0da5c152ac78244829e0?utm_campaign=1051&utm_source=git)** | West Hartford, CT | On Site | May 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Rental Sales and Operations Intern](https://jobright.ai/jobs/info/6a0dce7709ecfd704b3e2eaa?utm_campaign=1051&utm_source=git)** | USA - Greensboro NC 27406, US | On Site | May 20 |
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a0dcc0d09ecfd704b3e2d5a?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 20 |
 | **[On Trend Group](https://weareontrendgroup.com/)** | **[Graduate Sales Intern](https://jobright.ai/jobs/info/6a0dcbbf83d7144289812930?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 20 |
-| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Sales Support Operations Intern - Fall 2026](https://jobright.ai/jobs/info/699cfbeae0bddb6acacc0d1d?utm_campaign=1051&utm_source=git)** | Green Bay, WI | Hybrid | May 20 |
-| **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Business Development Internship](https://jobright.ai/jobs/info/69fdf50a6bcf315dc8f53da2?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 20 |
-| **[Finley Living](www.finleyliving.co)** | **[Private Equity Sales Intern](https://jobright.ai/jobs/info/6a0dc34447fea1610bca37fd?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | May 20 |
-| **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Greeley](https://jobright.ai/jobs/info/6a0dc29d83d7144289812292?utm_campaign=1051&utm_source=git)** | Windsor, CO | On Site | May 20 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/69fcacdf666f063d3d6cff38?utm_campaign=1051&utm_source=git)** | Pincher Creek, Alberta, Canada | On Site | May 20 |
-| **[Suncadia](http://www.suncadiaresort.com)** | **[Seasonal - Tumble Creek PGA Golf Internship](https://jobright.ai/jobs/info/69d4f85d706f771673b9fe10?utm_campaign=1051&utm_source=git)** | Cle Elum, WA | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
