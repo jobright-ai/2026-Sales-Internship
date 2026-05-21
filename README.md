@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Influur](https://www.influur.com)** | **[Sales Ninja - Internship](https://jobright.ai/jobs/info/6a0e85bf47fea1610bcaaa33?utm_campaign=1051&utm_source=git)** | Florida | Remote | May 20 |
+| **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/6a0e836912f8b43cf3977fa5?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 20 |
+| **[Vita Coco](https://www.thevitacococompany.com)** | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a0e8341c152ac782448719f?utm_campaign=1051&utm_source=git)** | Hanover, MA | On Site | May 20 |
+| **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/6a0e831b09ecfd704b3e9987?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | May 20 |
 | **[Abode Money](https://www.abodemoney.com/)** | **[Operations & Business Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a0e727212f8b43cf39779b4?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | May 20 |
 | **[Entravision](https://entravision.com/)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6a0e6e30beb4d73cb6232412?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 20 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/6a0e6e2cc152ac78244869b3?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | May 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Business Development intern](https://jobright.ai/jobs/info/6a0dcff147fea1610bca40be?utm_campaign=1051&utm_source=git)** | US-KY-LOUISVILLE | On Site | May 20 |
 | ↳ | **[Business Development intern](https://jobright.ai/jobs/info/6a0dcff047fea1610bca40bd?utm_campaign=1051&utm_source=git)** | LOUISVILLE, KY, US | On Site | May 20 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Rental Sales and Operations Intern](https://jobright.ai/jobs/info/6a0dce7709ecfd704b3e2eaa?utm_campaign=1051&utm_source=git)** | USA - Greensboro NC 27406, US | On Site | May 20 |
-| **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a0dcc0d09ecfd704b3e2d5a?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 20 |
-| **[On Trend Group](https://weareontrendgroup.com/)** | **[Graduate Sales Intern](https://jobright.ai/jobs/info/6a0dcbbf83d7144289812930?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 20 |
-| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Sales Support Operations Intern - Fall 2026](https://jobright.ai/jobs/info/699cfbeae0bddb6acacc0d1d?utm_campaign=1051&utm_source=git)** | Green Bay, WI | Hybrid | May 20 |
-| **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Business Development Internship](https://jobright.ai/jobs/info/69fdf50a6bcf315dc8f53da2?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
