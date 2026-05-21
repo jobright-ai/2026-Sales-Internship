@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moby Capital](https://mobycap.com)** | **[Origination & Operations Intern](https://jobright.ai/jobs/info/6a0f332872b52f7225f3ba16?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 21 |
+| **[Maxxon Corporation](http://www.maxxon.com)** | **[E-Commerce Marketing Intern](https://jobright.ai/jobs/info/6a0f31e983d714428981d760?utm_campaign=1051&utm_source=git)** | Hamel, MN | On Site | May 21 |
+| **[Mobile Defender Inc.](https://www.mobiledefender.net/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0f2939619335383fb2982f?utm_campaign=1051&utm_source=git)** | United States | Remote | May 21 |
 | **[Bosch](http://www.bosch.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a0f2201619335383fb29627?utm_campaign=1051&utm_source=git)** | 38000 Hills Tech Dr, Farmington Hills, MI 48331, USA | Hybrid | May 21 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern – Buyer I/Expeditor (Summer 2026)](https://jobright.ai/jobs/info/6a0f209c619335383fb29595?utm_campaign=1051&utm_source=git)** | US-NV-Las Vegas, US | On Site | May 21 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a0f1cdb619335383fb293eb?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | May 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0de9e247fea1610bca527c?utm_campaign=1051&utm_source=git)** | CA-MB-Winnipeg | Hybrid | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e986a33aa0c479643aac97?utm_campaign=1051&utm_source=git)** | Manchester, NH | Remote | May 20 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Northwestern Mutual College Financial Representative – FALL 2026 Internship Program](https://jobright.ai/jobs/info/6a0e0da5c152ac78244829e0?utm_campaign=1051&utm_source=git)** | West Hartford, CT | On Site | May 20 |
-| **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0de74009ecfd704b3e3f10?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 20 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0de68dc152ac7824481042?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | May 20 |
-| **[Rally Strategies](https://rally-strategies.com/)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a0b047b538d03366dc80f01?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
