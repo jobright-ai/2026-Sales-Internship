@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Brooklyn Navy Yard)](https://jobright.ai/jobs/info/69d6b1a348f0c8161d2fa4c1?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | May 21 |
+| **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a0ef7419f654b3359ce1db5?utm_campaign=1051&utm_source=git)** | United States | Remote | May 21 |
+| ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a0ef6ef83d714428981c190?utm_campaign=1051&utm_source=git)** | United States | Remote | May 21 |
+| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Queens)](https://jobright.ai/jobs/info/69d6315248f0c8161d2f6eeb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 21 |
+| ↳ | **[Financial Sales Intern (Brooklyn Navy Yard)](https://jobright.ai/jobs/info/69d6b1a348f0c8161d2fa4c1?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | May 21 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Hospitality & Spa Intern (Summer 2026)](https://jobright.ai/jobs/info/69f279548d8d624381aa0ff3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0ede3c80bf0430c762f442?utm_campaign=1051&utm_source=git)** | Egypt, AR | On Site | May 21 |
 | **[Rinker Materials](http://www.rinkerpipe.com/)** | **[Sales Internship (Concrete Industry)](https://jobright.ai/jobs/info/69bacf3006c1ba00c54d1da7?utm_campaign=1051&utm_source=git)** | Henderson, CO | On Site | May 21 |
@@ -74,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Abode Money](https://www.abodemoney.com/)** | **[Operations & Business Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a0e727212f8b43cf39779b4?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | May 20 |
 | **[Entravision](https://entravision.com/)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6a0e6e30beb4d73cb6232412?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 20 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/6a0e6e2cc152ac78244869b3?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | May 20 |
-| **[Vita Coco](https://www.thevitacococompany.com)** | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a0e6de409ecfd704b3e8ed5?utm_campaign=1051&utm_source=git)** | Andover, MA | On Site | May 20 |
-| ↳ | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a0e6de409ecfd704b3e8ed4?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 20 |
+| **[Vita Coco](https://www.thevitacococompany.com)** | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a0e6de409ecfd704b3e8ed4?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 20 |
+| ↳ | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a0e6de409ecfd704b3e8ed5?utm_campaign=1051&utm_source=git)** | Andover, MA | On Site | May 20 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Clayton Homes Summer Intern - Raleigh, NC](https://jobright.ai/jobs/info/6a0e559709ecfd704b3e8463?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | May 20 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a0e5536beb4d73cb62318d4?utm_campaign=1051&utm_source=git)** | Skokie, IL | On Site | May 20 |
 | **[Razer Inc.](https://www.razer.com)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/6a0e54ec47fea1610bca97b6?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | May 20 |
@@ -137,9 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Institute of Classical Architecture & Art](https://www.classicist.org)** | **[Membership & Development Internship](https://jobright.ai/jobs/info/6a0df03ac152ac782448173b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0e2a3047fea1610bca7aa1?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | May 20 |
 | **[AccessWave](https://theaccesswave.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a0de9e347fea1610bca527d?utm_campaign=1051&utm_source=git)** | Las Vegas, NV, US | On Site | May 20 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0de9e247fea1610bca527c?utm_campaign=1051&utm_source=git)** | CA-MB-Winnipeg | Hybrid | May 20 |
-| ↳ | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0de9e247fea1610bca527b?utm_campaign=1051&utm_source=git)** | Winnipeg, MB, CA | Hybrid | May 20 |
-| **[Life Enriching Communities](https://lec.org/)** | **[Special Projects Summer Intern](https://jobright.ai/jobs/info/6a0de90e47fea1610bca5196?utm_campaign=1051&utm_source=git)** | Montgomery, OH | On Site | May 20 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0de9e247fea1610bca527b?utm_campaign=1051&utm_source=git)** | Winnipeg, MB, CA | Hybrid | May 20 |
+| ↳ | **[Fall Intern 2026 - Institutional Sales](https://jobright.ai/jobs/info/6a0de9e247fea1610bca527c?utm_campaign=1051&utm_source=git)** | CA-MB-Winnipeg | Hybrid | May 20 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e986a33aa0c479643aac97?utm_campaign=1051&utm_source=git)** | Manchester, NH | Remote | May 20 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Northwestern Mutual College Financial Representative – FALL 2026 Internship Program](https://jobright.ai/jobs/info/6a0e0da5c152ac78244829e0?utm_campaign=1051&utm_source=git)** | West Hartford, CT | On Site | May 20 |
 | **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0de74009ecfd704b3e3f10?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crescendo International](https://crescendointernational.co/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a056862a88ea73abf7f0e4a?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | May 20 |
 | **[Nestlé](https://www.nestle.com)** | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0dde56beb4d73cb622c374?utm_campaign=1051&utm_source=git)** | Loveland, OH, US, 45140 | On Site | May 20 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6a0dde15beb4d73cb622c28b?utm_campaign=1051&utm_source=git)** | Chicago - 550 Van Buren, US | Hybrid | May 20 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/69e7e222f8fa2f3ec32aa10b?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | May 20 |
-| **[TIH](https://www.truistinsurance.com/)** | **[Broker Assistant Intern](https://jobright.ai/jobs/info/6a0ddbc209ecfd704b3e3300?utm_campaign=1051&utm_source=git)** | Woodbury, NY, US | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
