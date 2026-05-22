@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0fd2e472b52f7225f409d5?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 21 |
+| **[Altamira Technologies Corporation](https://www.altamiracorp.com)** | **[Corporate HQ Intern](https://jobright.ai/jobs/info/6a0fd1bc619335383fb2f62a?utm_campaign=1051&utm_source=git)** | McLean, VA | On Site | May 21 |
+| **[Cloudflare Area 1 Security](https://www.area1security.com/)** | **[Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/6a0fcaa872b52f7225f40645?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 21 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[TEMPORARY Chronic Wasting Disease (CWD) / Customer Service Intern– Northeast Regional Office.](https://jobright.ai/jobs/info/6a0fc68c80bf0430c7636543?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | May 21 |
 | **[WOW Brand](http://wowpayments.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0fc29780bf0430c763642c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 21 |
-| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a0fc1e183d7144289822a4f?utm_campaign=1051&utm_source=git)** | United States | Remote | May 21 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a0fb48783d714428982259d?utm_campaign=1051&utm_source=git)** | Greenfield, WI | On Site | May 21 |
-| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a0fb1cd9f654b3359ce7c38?utm_campaign=1051&utm_source=git)** | Sarnia, Ontario, Canada | On Site | May 21 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369be?utm_campaign=1051&utm_source=git)** | Snow Lake, Manitoba, Canada | On Site | May 21 |
+| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a0fb1cd9f654b3359ce7c38?utm_campaign=1051&utm_source=git)** | Sarnia, Ontario, Canada | On Site | May 21 |
 | **[Altera](https://www.altera.com)** | **[AI Sales Operations - Intern](https://jobright.ai/jobs/info/6a0fb0ec83d714428982240a?utm_campaign=1051&utm_source=git)** | San Jose, California, United States, US | On Site | May 21 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f9378619335383fb2df71?utm_campaign=1051&utm_source=git)** | Hidalgo County, TX | On Site | May 21 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern - Partnerships & Donors](https://jobright.ai/jobs/info/6a0f8a3b72b52f7225f3ed60?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 21 |
@@ -83,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Delfina](https://www.delfina.com/)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/6a0f674d9f654b3359ce55ba?utm_campaign=1051&utm_source=git)** | United States | Remote | May 21 |
 | ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/6a0f674d9f654b3359ce55b9?utm_campaign=1051&utm_source=git)** | US - Remote / Hybrid | Remote | May 21 |
 | **[Springer Nature](https://group.springernature.com/)** | **[AI Growth and Partnerships Intern](https://jobright.ai/jobs/info/6a0f661a80bf0430c7633407?utm_campaign=1051&utm_source=git)** | Jersey City, US | Hybrid | May 21 |
-| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f6bcec9a65fd3458596bcb?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | May 21 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a06eae24b07a86277877c7e?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | May 21 |
+| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a06eae24b07a86277877c7e?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | May 21 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68f6bcec9a65fd3458596bcb?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | May 21 |
 | ↳ | **[Partner Management Intern](https://jobright.ai/jobs/info/69630fff25e18715077fbeda?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | May 21 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0f625e619335383fb2bbe0?utm_campaign=1051&utm_source=git)** | California, United States | Remote | May 21 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0f61fe9f654b3359ce5357?utm_campaign=1051&utm_source=git)** | Connecticut, United States | Remote | May 21 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Sales Operations (Fall 2026)](https://jobright.ai/jobs/info/6a0f808980bf0430c76348cf?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 21 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f4d0112f8b43cf397d537?utm_campaign=1051&utm_source=git)** | Fort Worth, Texas | On Site | May 21 |
 | ↳ | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f4d0012f8b43cf397d536?utm_campaign=1051&utm_source=git)** | San Antonio, Texas | On Site | May 21 |
-| ↳ | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f4cff12f8b43cf397d532?utm_campaign=1051&utm_source=git)** | Austin, Texas | On Site | May 21 |
 | ↳ | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f4cff12f8b43cf397d535?utm_campaign=1051&utm_source=git)** | WESLACO, TEXAS | On Site | May 21 |
+| ↳ | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f4cff12f8b43cf397d532?utm_campaign=1051&utm_source=git)** | Austin, Texas | On Site | May 21 |
 | ↳ | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f4cff12f8b43cf397d534?utm_campaign=1051&utm_source=git)** | Houston, Texas | On Site | May 21 |
 | ↳ | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f4cff12f8b43cf397d533?utm_campaign=1051&utm_source=git)** | El Paso, Texas | On Site | May 21 |
 | **[NAI NorCal](http://www.nainorcal.com)** | **[NAI NorCal - Commercial Real Estate - DoD Skillbridge Internship](https://jobright.ai/jobs/info/6a0f4a4083d714428981e4e8?utm_campaign=1051&utm_source=git)** | Oakland | On Site | May 21 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Synectics](https://www.synectics.net)** | **[Business Development Intern (Temporary, Part-time)](https://jobright.ai/jobs/info/6a0f363d80bf0430c7631a4c?utm_campaign=1051&utm_source=git)** | Greater Sacramento | On Site | May 21 |
 | **[Moby Capital](https://mobycap.com)** | **[Origination & Operations Intern](https://jobright.ai/jobs/info/6a0f332872b52f7225f3ba16?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 21 |
 | **[Maxxon Corporation](http://www.maxxon.com)** | **[E-Commerce Marketing Intern](https://jobright.ai/jobs/info/6a0f31e983d714428981d760?utm_campaign=1051&utm_source=git)** | Hamel, MN | On Site | May 21 |
-| **[Mobile Defender Inc.](https://www.mobiledefender.net/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a0f2939619335383fb2982f?utm_campaign=1051&utm_source=git)** | United States | Remote | May 21 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Megapack Sales, Energy (Fall 2026)](https://jobright.ai/jobs/info/6a0f4d8372b52f7225f3c9a3?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 21 |
 | **[Applied Industrial Technologies](http://www.applied.com)** | **[Intern - Customer Service & Sales](https://jobright.ai/jobs/info/689e6a8583d13d1f5b6bc26f?utm_campaign=1051&utm_source=git)** | Portage, IN | On Site | May 21 |
 | **[Bosch](http://www.bosch.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a0f2201619335383fb29627?utm_campaign=1051&utm_source=git)** | 38000 Hills Tech Dr, Farmington Hills, MI 48331, USA | Hybrid | May 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/6a0e9e7683d714428981a32d?utm_campaign=1051&utm_source=git)** | United States | Remote | May 20 |
 | ↳ | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a3d83d714428981a26c?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 20 |
 | **[Influur](https://www.influur.com)** | **[Sales Ninja - Internship](https://jobright.ai/jobs/info/6a0e85bf47fea1610bcaaa33?utm_campaign=1051&utm_source=git)** | Florida | Remote | May 20 |
-| **[Vita Coco](https://www.thevitacococompany.com)** | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a0e8341c152ac782448719f?utm_campaign=1051&utm_source=git)** | Hanover, MA | On Site | May 20 |
-| **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/6a0e831b09ecfd704b3e9987?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
