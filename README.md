@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/6a10399c9f654b3359cea33f?utm_campaign=1051&utm_source=git)** | California, US | On Site | May 22 |
+| **[GEGI LLC](https://www.gegi.co)** | **[Sales & Business Development Intern (Remote)](https://jobright.ai/jobs/info/6a1036cb9f654b3359cea2cf?utm_campaign=1051&utm_source=git)** | United States | Remote | May 22 |
+| **[Burna AI](https://www.burna.ai/)** | **[Business Development Intern at Oncology Startup](https://jobright.ai/jobs/info/69ebbc4016b2612c2a11e334?utm_campaign=1051&utm_source=git)** | United States | Remote | May 22 |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a10339d83d714428982498e?utm_campaign=1051&utm_source=git)** | United States | Remote | May 22 |
 | **[Neighbor](https://www.neighbor.com)** | **[Sales Development Representative Internship](https://jobright.ai/jobs/info/69bde4f4393a1008f743ba3c?utm_campaign=1051&utm_source=git)** | Lehi, UT | On Site | May 22 |
 | **[Altera](https://www.altera.com)** | **[AI Sales Operations - Intern](https://jobright.ai/jobs/info/6a0ffdec83d71442898239bb?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | May 21 |
-| **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a102e4283d71442898247a5?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 21 |
-| ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a102dcc12f8b43cf398354b?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 21 |
+| **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a102dcc12f8b43cf398354b?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 21 |
+| ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a102e4283d71442898247a5?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 21 |
 | **[ARTIDIS](https://www.artidis.com/)** | **[Business & Commercial Strategy Internship](https://jobright.ai/jobs/info/6a0fedaa619335383fb2fd4c?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 21 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) Australia/ Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0fd5d472b52f7225f40a93?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 21 |
 | ↳ | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0fd2e472b52f7225f409d5?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 21 |
@@ -92,11 +96,11 @@ For a complete list, click the following sortable link below:
 | **[Fahlo](https://myfahlo.com)** | **[Fulfillment Intern](https://jobright.ai/jobs/info/6a0f685683d714428981fd92?utm_campaign=1051&utm_source=git)** | United States | Remote | May 21 |
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Partnership Activation Summer Intern](https://jobright.ai/jobs/info/6a0f684380bf0430c76336ea?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | May 21 |
 | **[Cruze](https://cruzemaps.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0f67ba619335383fb2c023?utm_campaign=1051&utm_source=git)** | United States | Remote | May 21 |
-| **[Delfina](https://www.delfina.com/)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/6a0f674d9f654b3359ce55ba?utm_campaign=1051&utm_source=git)** | United States | Remote | May 21 |
-| ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/6a0f674d9f654b3359ce55b9?utm_campaign=1051&utm_source=git)** | US - Remote / Hybrid | Remote | May 21 |
+| **[Delfina](https://www.delfina.com/)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/6a0f674d9f654b3359ce55b9?utm_campaign=1051&utm_source=git)** | US - Remote / Hybrid | Remote | May 21 |
+| ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/6a0f674d9f654b3359ce55ba?utm_campaign=1051&utm_source=git)** | United States | Remote | May 21 |
 | **[Springer Nature](https://group.springernature.com/)** | **[AI Growth and Partnerships Intern](https://jobright.ai/jobs/info/6a0f661a80bf0430c7633407?utm_campaign=1051&utm_source=git)** | Jersey City, US | Hybrid | May 21 |
-| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f6bcec9a65fd3458596bcb?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | May 21 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a06eae24b07a86277877c7e?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | May 21 |
+| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a06eae24b07a86277877c7e?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | Hybrid | May 21 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68f6bcec9a65fd3458596bcb?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | May 21 |
 | ↳ | **[Partner Management Intern](https://jobright.ai/jobs/info/69630fff25e18715077fbeda?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | May 21 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0f625e619335383fb2bbe0?utm_campaign=1051&utm_source=git)** | California, United States | Remote | May 21 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a0f61fe9f654b3359ce5357?utm_campaign=1051&utm_source=git)** | Connecticut, United States | Remote | May 21 |
@@ -109,10 +113,10 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Sales Operations (Fall 2026)](https://jobright.ai/jobs/info/6a0f808980bf0430c76348cf?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 21 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f4d0112f8b43cf397d537?utm_campaign=1051&utm_source=git)** | Fort Worth, Texas | On Site | May 21 |
 | ↳ | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f4d0012f8b43cf397d536?utm_campaign=1051&utm_source=git)** | San Antonio, Texas | On Site | May 21 |
-| ↳ | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f4cff12f8b43cf397d532?utm_campaign=1051&utm_source=git)** | Austin, Texas | On Site | May 21 |
 | ↳ | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f4cff12f8b43cf397d534?utm_campaign=1051&utm_source=git)** | Houston, Texas | On Site | May 21 |
-| ↳ | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f4cff12f8b43cf397d533?utm_campaign=1051&utm_source=git)** | El Paso, Texas | On Site | May 21 |
 | ↳ | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f4cff12f8b43cf397d535?utm_campaign=1051&utm_source=git)** | WESLACO, TEXAS | On Site | May 21 |
+| ↳ | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f4cff12f8b43cf397d533?utm_campaign=1051&utm_source=git)** | El Paso, Texas | On Site | May 21 |
+| ↳ | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f4cff12f8b43cf397d532?utm_campaign=1051&utm_source=git)** | Austin, Texas | On Site | May 21 |
 | **[NAI NorCal](http://www.nainorcal.com)** | **[NAI NorCal - Commercial Real Estate - DoD Skillbridge Internship](https://jobright.ai/jobs/info/6a0f4a4083d714428981e4e8?utm_campaign=1051&utm_source=git)** | Oakland | On Site | May 21 |
 | **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/6a0f48b7619335383fb2a935?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | May 21 |
 | **[West Virginia University Foundation](https://www.wvuf.org/)** | **[Corporate and Foundation Relations Intern](https://jobright.ai/jobs/info/6a0f450383d714428981e295?utm_campaign=1051&utm_source=git)** | Morgantown, WV | Hybrid | May 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NOLA Management Group Inc](https://www.nolamanagementgroup.com/)** | **[AT&T Sales and Marketing Intern](https://jobright.ai/jobs/info/6a0f07839f654b3359ce2445?utm_campaign=1051&utm_source=git)** | NOLA Region | On Site | May 21 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Business Markets](https://jobright.ai/jobs/info/69f2b688ecbc8c2f7320c073?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 21 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a0ef7419f654b3359ce1db5?utm_campaign=1051&utm_source=git)** | United States | Remote | May 21 |
-| ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a0ef6ef83d714428981c190?utm_campaign=1051&utm_source=git)** | United States | Remote | May 21 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Queens)](https://jobright.ai/jobs/info/69d6315248f0c8161d2f6eeb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 21 |
-| ↳ | **[Financial Sales Intern (Brooklyn Navy Yard)](https://jobright.ai/jobs/info/69d6b1a348f0c8161d2fa4c1?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | May 21 |
-| **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Hospitality & Spa Intern (Summer 2026)](https://jobright.ai/jobs/info/69f279548d8d624381aa0ff3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
