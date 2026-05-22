@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Verogy](https://www.verogy.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a10a9b8619335383fb340c7?utm_campaign=1051&utm_source=git)** | West Hartford, Connecticut, United States | Hybrid | May 22 |
+| **[Sciens Building Solutions](https://sciensbuildingsolutions.com/)** | **[Sales Coordinator Intern](https://jobright.ai/jobs/info/6a10a97412f8b43cf3986a4a?utm_campaign=1051&utm_source=git)** | Piscataway, NJ, US | On Site | May 22 |
+| **[Activdate App](https://www.activdate.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a10a6bc69bd827926aefc00?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 22 |
+| **[Save the Children US](http://savethechildren.org)** | **[Corporate Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a10a6ba9fdbf21f36caff56?utm_campaign=1051&utm_source=git)** | Fairfield, Town of, Connecticut, United States | Hybrid | May 22 |
+| ↳ | **[Corporate Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b99fdbf21f36caff54?utm_campaign=1051&utm_source=git)** | United States | Remote | May 22 |
+| ↳ | **[Corporate Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b89fdbf21f36caff50?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 22 |
+| ↳ | **[Corporate Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b89fdbf21f36caff51?utm_campaign=1051&utm_source=git)** | Lexington, Kentucky, United States | Hybrid | May 22 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager, Business Markets, Intern](https://jobright.ai/jobs/info/6a109beb83d714428982766a?utm_campaign=1051&utm_source=git)** | 345 RUE DES SAGUENÉENS, FLOOR 2:SAGUENAY, CA | On Site | May 22 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[First Insurance Funding Intern](https://jobright.ai/jobs/info/6a109a55619335383fb33aaf?utm_campaign=1051&utm_source=git)** | Newport Beach, CA, US | On Site | May 22 |
 | **[Winrock International](https://www.winrock.org)** | **[Development Intern](https://jobright.ai/jobs/info/6a109a34619335383fb33aa4?utm_campaign=1051&utm_source=git)** | USA - Remote | Remote | May 22 |
@@ -79,18 +86,18 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10737712f8b43cf3985311?utm_campaign=1051&utm_source=git)** | Irving TX (Greenway), US | On Site | May 22 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10737212f8b43cf3985310?utm_campaign=1051&utm_source=git)** | Indianapolis, IN (Job Posting Location), US | On Site | May 22 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10736d12f8b43cf398530f?utm_campaign=1051&utm_source=git)** | Schaumburg IL (E Golf), US | On Site | May 22 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10736912f8b43cf398530b?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens FL (RCA), US | On Site | May 22 |
+| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10736912f8b43cf398530e?utm_campaign=1051&utm_source=git)** | Tampa FL (Boy Scout), US | On Site | May 22 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10736912f8b43cf398530c?utm_campaign=1051&utm_source=git)** | Houston TX (Sam Houston), US | On Site | May 22 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10736912f8b43cf398530d?utm_campaign=1051&utm_source=git)** | Columbia MD (Albert Einstein), US | On Site | May 22 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10736912f8b43cf398530e?utm_campaign=1051&utm_source=git)** | Tampa FL (Boy Scout), US | On Site | May 22 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10736712f8b43cf398530a?utm_campaign=1051&utm_source=git)** | Alpharetta GA (Great Oaks), US | On Site | May 22 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10736712f8b43cf3985309?utm_campaign=1051&utm_source=git)** | Wayne PA (Drummers LN), US | On Site | May 22 |
+| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10736912f8b43cf398530b?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens FL (RCA), US | On Site | May 22 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10736712f8b43cf3985308?utm_campaign=1051&utm_source=git)** | Franklin TN (Carothers), US | On Site | May 22 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10736612f8b43cf3985307?utm_campaign=1051&utm_source=git)** | Charleston, SC (Job Posting Location), US | On Site | May 22 |
+| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10736712f8b43cf3985309?utm_campaign=1051&utm_source=git)** | Wayne PA (Drummers LN), US | On Site | May 22 |
+| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10736712f8b43cf398530a?utm_campaign=1051&utm_source=git)** | Alpharetta GA (Great Oaks), US | On Site | May 22 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10736612f8b43cf3985306?utm_campaign=1051&utm_source=git)** | Charlotte NC (Community House), US | On Site | May 22 |
+| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a10736612f8b43cf3985307?utm_campaign=1051&utm_source=git)** | Charleston, SC (Job Posting Location), US | On Site | May 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69f3a0a358b23a2329da63d1?utm_campaign=1051&utm_source=git)** | Dover, DE | On Site | May 22 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a10721d9f654b3359cebde8?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 22 |
-| ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a10721d9f654b3359cebde7?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 22 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a10721d9f654b3359cebde7?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 22 |
+| ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a10721d9f654b3359cebde8?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 22 |
 | ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a10720383d7144289826409?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 22 |
 | **[Allstate](http://www.allstate.com)** | **[Agency Distribution Sales Intern](https://jobright.ai/jobs/info/6a106fa712f8b43cf39851d4?utm_campaign=1051&utm_source=git)** | USA - IL (Remote), US | Remote | May 22 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/69f3d0ee343eef4fb0a9e3ac?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | May 22 |
@@ -118,22 +125,22 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb1c9f654b3359ce8aba?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | May 21 |
 | ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb1b9f654b3359ce8ab9?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | May 21 |
 | ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb1b9f654b3359ce8ab8?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | May 21 |
+| ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb199f654b3359ce8ab3?utm_campaign=1051&utm_source=git)** | Orlando, FL | Remote | May 21 |
+| ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb199f654b3359ce8ab2?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | May 21 |
 | ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb199f654b3359ce8ab7?utm_campaign=1051&utm_source=git)** | Jackson, MS | Remote | May 21 |
 | ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb199f654b3359ce8ab5?utm_campaign=1051&utm_source=git)** | Billings, MT | Remote | May 21 |
 | ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb199f654b3359ce8ab6?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Remote | May 21 |
-| ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb199f654b3359ce8ab2?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | May 21 |
-| ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb199f654b3359ce8ab3?utm_campaign=1051&utm_source=git)** | Orlando, FL | Remote | May 21 |
 | ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb199f654b3359ce8ab4?utm_campaign=1051&utm_source=git)** | Newark, NJ | Remote | May 21 |
 | ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb189f654b3359ce8ab1?utm_campaign=1051&utm_source=git)** | Kansas City, KS | Remote | May 21 |
 | ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb189f654b3359ce8aaf?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | May 21 |
 | ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb189f654b3359ce8ab0?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | Remote | May 21 |
 | ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb179f654b3359ce8aad?utm_campaign=1051&utm_source=git)** | St. Louis, MO | Remote | May 21 |
 | ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb179f654b3359ce8aac?utm_campaign=1051&utm_source=git)** | Detroit, MI | Remote | May 21 |
-| ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb169f654b3359ce8aab?utm_campaign=1051&utm_source=git)** | Nashville, TN | Remote | May 21 |
-| ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb169f654b3359ce8aa9?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | May 21 |
 | ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb169f654b3359ce8aaa?utm_campaign=1051&utm_source=git)** | Charleston, SC | Remote | May 21 |
-| ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb159f654b3359ce8aa7?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | May 21 |
+| ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb169f654b3359ce8aa9?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | May 21 |
+| ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb169f654b3359ce8aab?utm_campaign=1051&utm_source=git)** | Nashville, TN | Remote | May 21 |
 | ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb159f654b3359ce8aa8?utm_campaign=1051&utm_source=git)** | Belleville, IL | Remote | May 21 |
+| ↳ | **[Internship - Sales Specialist](https://jobright.ai/jobs/info/6a0fdb159f654b3359ce8aa7?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | May 21 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) Australia/ Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0fd5d472b52f7225f40a93?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 21 |
 | ↳ | **[Business Development & Sales Internship (Unpaid) Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a0fd2e472b52f7225f409d5?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 21 |
 | **[Altamira Technologies Corporation](https://www.altamiracorp.com)** | **[Corporate HQ Intern](https://jobright.ai/jobs/info/6a0fd1bc619335383fb2f62a?utm_campaign=1051&utm_source=git)** | McLean, VA | On Site | May 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parsec Automation, LLC](http://parsec-corp.com/)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6a0f80b09f654b3359ce66a0?utm_campaign=1051&utm_source=git)** | Anaheim, CA | Remote | May 21 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f9378619335383fb2df71?utm_campaign=1051&utm_source=git)** | Hidalgo County, TX | On Site | May 21 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern - Partnerships & Donors](https://jobright.ai/jobs/info/6a0f8a3b72b52f7225f3ed60?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 21 |
-| **[Melton Truck Lines](https://meltontruck.com/)** | **[Sales Admin Intern](https://jobright.ai/jobs/info/6a0f86b080bf0430c7634cbb?utm_campaign=1051&utm_source=git)** | Tulsa, Oklahoma, United States | On Site | May 21 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - College Partnerships (26-27)](https://jobright.ai/jobs/info/6a0f83bf72b52f7225f3ea7a?utm_campaign=1051&utm_source=git)** | Weslaco, TX | On Site | May 21 |
-| **[Altamira Technologies Corporation](https://www.altamiracorp.com)** | **[Corporate HQ Intern](https://jobright.ai/jobs/info/6a0f839912f8b43cf397fd72?utm_campaign=1051&utm_source=git)** | McLean, VA | On Site | May 21 |
-| **[Springer Nature](https://group.springernature.com/)** | **[AI Growth and Partnerships Intern](https://jobright.ai/jobs/info/6a0f807b80bf0430c76348a1?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | Hybrid | May 21 |
-| **[Amentum](https://www.amentum.com/)** | **[Intern – Buyer I/Expeditor (Summer 2026)](https://jobright.ai/jobs/info/6a0fa1de12f8b43cf3980ad8?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | May 21 |
-| **[Central Garden & Pet](http://www.central.com)** | **[Intern - Sales & Operations](https://jobright.ai/jobs/info/6a0f72f112f8b43cf397f3b9?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | May 21 |
-| **[Safe Harbor Lauderdale Marine Center](https://www.lauderdalemarinecenter.com)** | **[Junior Broker (Intern)](https://jobright.ai/jobs/info/6a0f729680bf0430c7633c6e?utm_campaign=1051&utm_source=git)** | Beaufort, NC 28516, USA | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
