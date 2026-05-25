@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geotab](http://www.geotab.com/)** | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403ec12f8b43cf399198d?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia - Canada | Hybrid | May 25 |
+| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e812f8b43cf3991989?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 25 |
+| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e812f8b43cf3991988?utm_campaign=1051&utm_source=git)** | Toronto | Hybrid | May 25 |
+| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e712f8b43cf3991987?utm_campaign=1051&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 25 |
+| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e712f8b43cf3991986?utm_campaign=1051&utm_source=git)** | Burnaby | Hybrid | May 25 |
+| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e612f8b43cf3991985?utm_campaign=1051&utm_source=git)** | Oakville | Hybrid | May 25 |
 | **[Green Thumb Industries (GTI)](https://www.gtigrows.com/)** | **[Revenue Summer Internship - Sales Team](https://jobright.ai/jobs/info/6a135b859f654b3359cf5d37?utm_campaign=1051&utm_source=git)** | Chicago | On Site | May 24 |
 | ↳ | **[Revenue Summer Internship - Sales Team](https://jobright.ai/jobs/info/6a135b7b9f654b3359cf5d34?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 24 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a13a39583d714428983121d?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 24 |
@@ -114,12 +120,12 @@ For a complete list, click the following sortable link below:
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Assistant Tourism and Membership Intern](https://jobright.ai/jobs/info/6a1147139fdbf21f36cb3759?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | May 22 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0341?utm_campaign=1051&utm_source=git)** | Atlanta Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0340?utm_campaign=1051&utm_source=git)** | Nashville Depot | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033d?utm_campaign=1051&utm_source=git)** | San Francisco Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033f?utm_campaign=1051&utm_source=git)** | Salt Lake City Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033e?utm_campaign=1051&utm_source=git)** | Chicago Depot | On Site | May 22 |
+| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033d?utm_campaign=1051&utm_source=git)** | San Francisco Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128af9f654b3359cf033c?utm_campaign=1051&utm_source=git)** | New Orleans Depot | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf0339?utm_campaign=1051&utm_source=git)** | New York Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf033b?utm_campaign=1051&utm_source=git)** | Las Vegas, Nevada, United States | On Site | May 22 |
+| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf0339?utm_campaign=1051&utm_source=git)** | New York Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf033a?utm_campaign=1051&utm_source=git)** | Seattle Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ac9f654b3359cf0338?utm_campaign=1051&utm_source=git)** | San Diego Depot | On Site | May 22 |
 | **[Asure Software](http://www.asuresoftware.com)** | **[Intern - Sales Operations](https://jobright.ai/jobs/info/6a111dd669bd827926af2937?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | May 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bear Real Estate Group](https://bearreg.com)** | **[LEASING AGENT INTERN](https://jobright.ai/jobs/info/6a11142112f8b43cf3989271?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | May 22 |
 | **[RADcube](http://www.radcube.com/)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/6a10e95769bd827926af1036?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | May 22 |
 | **[BESTSELLER](http://shop.bestseller.com)** | **[Showroom / Sales Intern](https://jobright.ai/jobs/info/6a10e9c69fdbf21f36cb168e?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 22 |
-| **[Verogy](https://www.verogy.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a10a9b8619335383fb340c7?utm_campaign=1051&utm_source=git)** | West Hartford, Connecticut, United States | Hybrid | May 22 |
-| **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[First Insurance Funding Intern](https://jobright.ai/jobs/info/6a110c1e83d714428982a0d1?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | May 22 |
-| **[Sciens Building Solutions](https://sciensbuildingsolutions.com/)** | **[Sales Coordinator Intern](https://jobright.ai/jobs/info/6a10a97412f8b43cf3986a4a?utm_campaign=1051&utm_source=git)** | Piscataway, NJ, US | On Site | May 22 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aircraft Parts Sales Support (Fall 2026)](https://jobright.ai/jobs/info/6a11106a619335383fb366f4?utm_campaign=1051&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 22 |
-| **[Save the Children US](http://savethechildren.org)** | **[Corporate Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a10a6ba9fdbf21f36caff56?utm_campaign=1051&utm_source=git)** | Fairfield, Town of, Connecticut, United States | Hybrid | May 22 |
-| ↳ | **[Corporate Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b99fdbf21f36caff54?utm_campaign=1051&utm_source=git)** | United States | Remote | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
