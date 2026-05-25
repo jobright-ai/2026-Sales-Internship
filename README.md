@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Partnerships & Sales Internship](https://jobright.ai/jobs/info/6a1453f7c48b503aeffbea36?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 25 |
 | **[Electro](electrogum.com)** | **[NIL Partnerships Intern](https://jobright.ai/jobs/info/6a14403e738a270c8bfa7474?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | May 25 |
 | **[Specular Business Services](https://www.specularbusiness.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a143399dc845f4be5bd186b?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | May 25 |
 | **[Naboo](https://naboo.app)** | **[Business Development Intern – North America](https://jobright.ai/jobs/info/6a142b8c554b0e12c057e5a4?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 25 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Revenue Summer Internship - Sales Team](https://jobright.ai/jobs/info/6a135b7b9f654b3359cf5d34?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 24 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a13a39583d714428983121d?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 24 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a13a3d49fdbf21f36cb9544?utm_campaign=1051&utm_source=git)** | Antioch, TN | On Site | May 24 |
-| **[Mechanical Products Nevada](https://www.mpnevada.com/)** | **[Associate Project Sales Engineer Intern](https://jobright.ai/jobs/info/6a1321f1619335383fb3c498?utm_campaign=1051&utm_source=git)** | Las Vegas, Nevada | On Site | May 24 |
-| ↳ | **[Associate Project Sales Engineer Intern](https://jobright.ai/jobs/info/6a1321f1619335383fb3c497?utm_campaign=1051&utm_source=git)** | Las Vegas- Post Rd. | On Site | May 24 |
+| **[Mechanical Products Nevada](https://www.mpnevada.com/)** | **[Associate Project Sales Engineer Intern](https://jobright.ai/jobs/info/6a1321f1619335383fb3c497?utm_campaign=1051&utm_source=git)** | Las Vegas- Post Rd. | On Site | May 24 |
+| ↳ | **[Associate Project Sales Engineer Intern](https://jobright.ai/jobs/info/6a1321f1619335383fb3c498?utm_campaign=1051&utm_source=git)** | Las Vegas, Nevada | On Site | May 24 |
 | **[Bevel Financial](https://bevelfinancial.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a13082d619335383fb3bffa?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | May 24 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d0a9e9cfdc6132f943d947?utm_campaign=1051&utm_source=git)** | Newark, CA | On Site | May 24 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a05ea80836fe79d86147d2?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | May 24 |
@@ -99,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Relationship Manager, Business Markets, Intern- EN](https://jobright.ai/jobs/info/6a13cb7d9f654b3359cf73ad?utm_campaign=1051&utm_source=git)** | Saguenay, Quebec, Canada | On Site | May 23 |
 | **[Merkle Science](https://www.merklescience.com)** | **[Sales Development Representative - Intern](https://jobright.ai/jobs/info/69a1d2670da45516f16b28f0?utm_campaign=1051&utm_source=git)** | New York | Remote | May 23 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a13c92e58ee291d8052d4cd?utm_campaign=1051&utm_source=git)** | Moore, OK | On Site | May 23 |
-| **[LayerZero Labs](https://layerzero.network)** | **[Institutional Business Development Intern](https://jobright.ai/jobs/info/6a1225fd619335383fb3970c?utm_campaign=1051&utm_source=git)** | New York City | On Site | May 23 |
-| ↳ | **[Institutional Business Development Intern](https://jobright.ai/jobs/info/6a1225fd619335383fb3970b?utm_campaign=1051&utm_source=git)** | New York | On Site | May 23 |
+| **[LayerZero Labs](https://layerzero.network)** | **[Institutional Business Development Intern](https://jobright.ai/jobs/info/6a1225fd619335383fb3970b?utm_campaign=1051&utm_source=git)** | New York | On Site | May 23 |
+| ↳ | **[Institutional Business Development Intern](https://jobright.ai/jobs/info/6a1225fd619335383fb3970c?utm_campaign=1051&utm_source=git)** | New York City | On Site | May 23 |
 | **[NY Eventss](nyeventss.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/6a121a8d9f654b3359cf2701?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | May 23 |
 | **[RBC](https://www.rbc.com)** | **[Agricultural Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/6a1219e1619335383fb395eb?utm_campaign=1051&utm_source=git)** | WINNIPEG, Manitoba, Canada | On Site | May 23 |
 | **[CertiK](https://www.certik.com/)** | **[Business Development Intern / CertiK Ambassador](https://jobright.ai/jobs/info/6a120c6d69bd827926af502b?utm_campaign=1051&utm_source=git)** | United States | Remote | May 23 |
@@ -126,15 +127,15 @@ For a complete list, click the following sortable link below:
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/6a11505812f8b43cf398a0ca?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 22 |
 | ↳ | **[Intern, Property Management](https://jobright.ai/jobs/info/6a11505612f8b43cf398a0c9?utm_campaign=1051&utm_source=git)** | US-TX-El Paso | On Site | May 22 |
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Assistant Tourism and Membership Intern](https://jobright.ai/jobs/info/6a1147139fdbf21f36cb3759?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | May 22 |
-| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0340?utm_campaign=1051&utm_source=git)** | Nashville Depot | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0341?utm_campaign=1051&utm_source=git)** | Atlanta Depot | On Site | May 22 |
+| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0341?utm_campaign=1051&utm_source=git)** | Atlanta Depot | On Site | May 22 |
+| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0340?utm_campaign=1051&utm_source=git)** | Nashville Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033f?utm_campaign=1051&utm_source=git)** | Salt Lake City Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033e?utm_campaign=1051&utm_source=git)** | Chicago Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033d?utm_campaign=1051&utm_source=git)** | San Francisco Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128af9f654b3359cf033c?utm_campaign=1051&utm_source=git)** | New Orleans Depot | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf033b?utm_campaign=1051&utm_source=git)** | Las Vegas, Nevada, United States | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf0339?utm_campaign=1051&utm_source=git)** | New York Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf033a?utm_campaign=1051&utm_source=git)** | Seattle Depot | On Site | May 22 |
+| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf033b?utm_campaign=1051&utm_source=git)** | Las Vegas, Nevada, United States | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ac9f654b3359cf0338?utm_campaign=1051&utm_source=git)** | San Diego Depot | On Site | May 22 |
 | **[Asure Software](http://www.asuresoftware.com)** | **[Intern - Sales Operations](https://jobright.ai/jobs/info/6a111dd669bd827926af2937?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | May 22 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Merchandising Operations Intern, Accessories & Partnerships](https://jobright.ai/jobs/info/6a110cac9f654b3359cef8ec?utm_campaign=1051&utm_source=git)** | New York, New York | Hybrid | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CF Industries](http://www.cfindustries.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/6a10c9f39fdbf21f36cb0cc7?utm_campaign=1051&utm_source=git)** | Northbrook,Il, US | On Site | May 22 |
 | **[Asure Software](http://www.asuresoftware.com)** | **[Intern - Sales Operations](https://jobright.ai/jobs/info/6a10c85812f8b43cf39874d4?utm_campaign=1051&utm_source=git)** | Austin, Texas, United States | Remote | May 22 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Import Sales Intern](https://jobright.ai/jobs/info/6a10f45a12f8b43cf39884bc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 22 |
-| **[First Guaranty Bank](https://www.fgb.net/)** | **[Lending Intern](https://jobright.ai/jobs/info/6a10c0f19f654b3359cedbf7?utm_campaign=1051&utm_source=git)** | Hammond, Louisiana, United States | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
