@@ -57,19 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Business Development Intern](https://jobright.ai/jobs/info/6a147dca554b0e12c057f391?utm_campaign=1051&utm_source=git)** | Kansas City - Kansas City, MO 64129 | On Site | May 25 |
+| **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a0dcc0d09ecfd704b3e2d5a?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 25 |
+| **[Vanillakart](https://vanillakart.com/)** | **[Business development and sales intern](https://jobright.ai/jobs/info/6a147328554b0e12c057f1fe?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 25 |
 | **[Brightroc Marketing](brightrocmarketing.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/6a146f8cdc845f4be5bd216a?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | May 25 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a146dc0738a270c8bfa7b4f?utm_campaign=1051&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | May 25 |
 | ↳ | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a146d08dc845f4be5bd213c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 25 |
 | **[Markato](https://wearemarkato.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a146a13554b0e12c057f0d6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | May 25 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a1469dfbc9bff375af011fd?utm_campaign=1051&utm_source=git)** | Oakville, CA | Hybrid | May 25 |
-| ↳ | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a1469dfbc9bff375af011fe?utm_campaign=1051&utm_source=git)** | Toronto - Bay St, CA | Hybrid | May 25 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a1469dfbc9bff375af011fe?utm_campaign=1051&utm_source=git)** | Toronto - Bay St, CA | Hybrid | May 25 |
+| ↳ | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a1469dfbc9bff375af011fd?utm_campaign=1051&utm_source=git)** | Oakville, CA | Hybrid | May 25 |
 | **[RailPros](http://railpros.com)** | **[Intern - Real Estate](https://jobright.ai/jobs/info/6a1461e6c48b503aeffbec76?utm_campaign=1051&utm_source=git)** | Jacksonville, FL 32256 | Remote | May 25 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aae165fc862418539af8a?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | May 25 |
 | **[Encore Market Engagement](https://www.encore.market/)** | **[Customer Development Intern](https://jobright.ai/jobs/info/6a145f4dc48b503aeffbebf2?utm_campaign=1051&utm_source=git)** | QC, Montréal | Hybrid | May 25 |
 | ↳ | **[Customer Development Intern](https://jobright.ai/jobs/info/6a145f4abc9bff375af00ff6?utm_campaign=1051&utm_source=git)** | ON, Toronto | Hybrid | May 25 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Partnerships & Sales Internship](https://jobright.ai/jobs/info/6a1453f7c48b503aeffbea36?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 25 |
-| **[Electro](electrogum.com)** | **[NIL Partnerships Intern](https://jobright.ai/jobs/info/6a14403e738a270c8bfa7474?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | May 25 |
-| **[Specular Business Services](https://www.specularbusiness.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a143399dc845f4be5bd186b?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | May 25 |
 | **[Naboo](https://naboo.app)** | **[Business Development Intern – North America](https://jobright.ai/jobs/info/6a142b8c554b0e12c057e5a4?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 25 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Client Development Intern](https://jobright.ai/jobs/info/6a1045139fdbf21f36cad7d1?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | May 25 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/6a0ea78283d714428981a73b?utm_campaign=1051&utm_source=git)** | Elk Grove, CA | On Site | May 25 |
@@ -137,15 +138,15 @@ For a complete list, click the following sortable link below:
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/6a11505812f8b43cf398a0ca?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 22 |
 | ↳ | **[Intern, Property Management](https://jobright.ai/jobs/info/6a11505612f8b43cf398a0c9?utm_campaign=1051&utm_source=git)** | US-TX-El Paso | On Site | May 22 |
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Assistant Tourism and Membership Intern](https://jobright.ai/jobs/info/6a1147139fdbf21f36cb3759?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | May 22 |
-| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0341?utm_campaign=1051&utm_source=git)** | Atlanta Depot | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0340?utm_campaign=1051&utm_source=git)** | Nashville Depot | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033d?utm_campaign=1051&utm_source=git)** | San Francisco Depot | On Site | May 22 |
+| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0340?utm_campaign=1051&utm_source=git)** | Nashville Depot | On Site | May 22 |
+| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0341?utm_campaign=1051&utm_source=git)** | Atlanta Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033f?utm_campaign=1051&utm_source=git)** | Salt Lake City Depot | On Site | May 22 |
+| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033d?utm_campaign=1051&utm_source=git)** | San Francisco Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033e?utm_campaign=1051&utm_source=git)** | Chicago Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128af9f654b3359cf033c?utm_campaign=1051&utm_source=git)** | New Orleans Depot | On Site | May 22 |
+| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf033a?utm_campaign=1051&utm_source=git)** | Seattle Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf033b?utm_campaign=1051&utm_source=git)** | Las Vegas, Nevada, United States | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf0339?utm_campaign=1051&utm_source=git)** | New York Depot | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf033a?utm_campaign=1051&utm_source=git)** | Seattle Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ac9f654b3359cf0338?utm_campaign=1051&utm_source=git)** | San Diego Depot | On Site | May 22 |
 | **[Asure Software](http://www.asuresoftware.com)** | **[Intern - Sales Operations](https://jobright.ai/jobs/info/6a111dd669bd827926af2937?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | May 22 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Merchandising Operations Intern, Accessories & Partnerships](https://jobright.ai/jobs/info/6a110cac9f654b3359cef8ec?utm_campaign=1051&utm_source=git)** | New York, New York | Hybrid | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Winrock International](https://www.winrock.org)** | **[Development Intern (Paid)](https://jobright.ai/jobs/info/6a11141869bd827926af24f0?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | May 22 |
 | **[BW Papersystems](http://www.bwpapersystems.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a110c3b619335383fb3652a?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | May 22 |
 | ↳ | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a110c36619335383fb36513?utm_campaign=1051&utm_source=git)** | Phillips, WI | On Site | May 22 |
-| **[Sciens Building Solutions](https://sciensbuildingsolutions.com/)** | **[Sales Coordinator Intern](https://jobright.ai/jobs/info/6a110c1f9fdbf21f36cb268a?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
