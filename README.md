@@ -93,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Florida Sales & Marketing Group](https://www.floridasalesmarketing.com)** | **[🚀 Summer Intern! Entry-Level Sales Representative / Immediate Start 🚀](https://jobright.ai/jobs/info/6a11f53383d714428982cd45?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 23 |
 | **[Rebral1](https://directedanalytics.com)** | **[Workforce Partnership Intern](https://jobright.ai/jobs/info/6a11b87812f8b43cf398b3b0?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | May 23 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Strategic Business Development](https://jobright.ai/jobs/info/69bb205c5697383741411ef3?utm_campaign=1051&utm_source=git)** | Albany, NY | Hybrid | May 23 |
+| **[CooperSurgical](http://www.coopersurgical.com)** | **[OBP Inside Sales Intern](https://jobright.ai/jobs/info/69f4c61c0b36ff035474ec72?utm_campaign=1051&utm_source=git)** | Livingston, NJ | On Site | May 23 |
 | **[ATI](https://www.forging.com)** | **[Commercial Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69f51c420b36ff0354750934?utm_campaign=1051&utm_source=git)** | Albany, OR | On Site | May 23 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - Business Development](https://jobright.ai/jobs/info/69f50142a3d34b4f76f5314c?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | May 23 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Sales Administrative Assistant Intern – Summer 2026 (Cleveland, OH)](https://jobright.ai/jobs/info/69f591d9db88714bcdfb4106?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | May 23 |
@@ -113,13 +114,13 @@ For a complete list, click the following sortable link below:
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Assistant Tourism and Membership Intern](https://jobright.ai/jobs/info/6a1147139fdbf21f36cb3759?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | May 22 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0341?utm_campaign=1051&utm_source=git)** | Atlanta Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0340?utm_campaign=1051&utm_source=git)** | Nashville Depot | On Site | May 22 |
+| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033e?utm_campaign=1051&utm_source=git)** | Chicago Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033f?utm_campaign=1051&utm_source=git)** | Salt Lake City Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033d?utm_campaign=1051&utm_source=git)** | San Francisco Depot | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033e?utm_campaign=1051&utm_source=git)** | Chicago Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128af9f654b3359cf033c?utm_campaign=1051&utm_source=git)** | New Orleans Depot | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf033b?utm_campaign=1051&utm_source=git)** | Las Vegas, Nevada, United States | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf0339?utm_campaign=1051&utm_source=git)** | New York Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf033a?utm_campaign=1051&utm_source=git)** | Seattle Depot | On Site | May 22 |
+| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf0339?utm_campaign=1051&utm_source=git)** | New York Depot | On Site | May 22 |
+| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ad9f654b3359cf033b?utm_campaign=1051&utm_source=git)** | Las Vegas, Nevada, United States | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128ac9f654b3359cf0338?utm_campaign=1051&utm_source=git)** | San Diego Depot | On Site | May 22 |
 | **[Asure Software](http://www.asuresoftware.com)** | **[Intern - Sales Operations](https://jobright.ai/jobs/info/6a111dd669bd827926af2937?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | May 22 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Merchandising Operations Intern, Accessories & Partnerships](https://jobright.ai/jobs/info/6a110cac9f654b3359cef8ec?utm_campaign=1051&utm_source=git)** | New York, New York | Hybrid | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aircraft Parts Sales Support (Fall 2026)](https://jobright.ai/jobs/info/6a11106a619335383fb366f4?utm_campaign=1051&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[Corporate Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a10a6ba9fdbf21f36caff56?utm_campaign=1051&utm_source=git)** | Fairfield, Town of, Connecticut, United States | Hybrid | May 22 |
 | ↳ | **[Corporate Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b99fdbf21f36caff54?utm_campaign=1051&utm_source=git)** | United States | Remote | May 22 |
-| ↳ | **[Corporate Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a10a6b89fdbf21f36caff50?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
