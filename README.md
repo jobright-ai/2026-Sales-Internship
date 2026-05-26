@@ -82,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a146dc0738a270c8bfa7b4f?utm_campaign=1051&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | May 25 |
 | ↳ | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a146d08dc845f4be5bd213c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 25 |
 | **[Markato](https://wearemarkato.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a146a13554b0e12c057f0d6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | May 25 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a1469dfbc9bff375af011fe?utm_campaign=1051&utm_source=git)** | Toronto - Bay St, CA | Hybrid | May 25 |
-| ↳ | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a1469dfbc9bff375af011fd?utm_campaign=1051&utm_source=git)** | Oakville, CA | Hybrid | May 25 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a1469dfbc9bff375af011fd?utm_campaign=1051&utm_source=git)** | Oakville, CA | Hybrid | May 25 |
+| ↳ | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a1469dfbc9bff375af011fe?utm_campaign=1051&utm_source=git)** | Toronto - Bay St, CA | Hybrid | May 25 |
 | **[RailPros](http://railpros.com)** | **[Intern - Real Estate](https://jobright.ai/jobs/info/6a1461e6c48b503aeffbec76?utm_campaign=1051&utm_source=git)** | Jacksonville, FL 32256 | Remote | May 25 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aae165fc862418539af8a?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | May 25 |
 | **[Encore Market Engagement](https://www.encore.market/)** | **[Customer Development Intern](https://jobright.ai/jobs/info/6a145f4dc48b503aeffbebf2?utm_campaign=1051&utm_source=git)** | QC, Montréal | Hybrid | May 25 |
