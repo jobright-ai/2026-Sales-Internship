@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/69f118e362b48c6838793cb5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 25 |
+| **[Element](https://elementrisk.com)** | **[Direct Sales Intern](https://jobright.ai/jobs/info/6a152186c48b503aeffc0cc5?utm_campaign=1051&utm_source=git)** | West Chester, PA | On Site | May 25 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a14fee9738a270c8bfa92d2?utm_campaign=1051&utm_source=git)** | Chicago, Illinois, United States of America | On Site | May 25 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a151f95dc845f4be5bd4020?utm_campaign=1051&utm_source=git)** | Cambridge, Ontario, Canada | On Site | May 25 |
 | **[Spot Freight](https://spotinc.com)** | **[Brokerage Sales Internship](https://jobright.ai/jobs/info/6a14e3b8554b0e12c05803e4?utm_campaign=1051&utm_source=git)** | Tampa | On Site | May 25 |
 | **[Reverse Logistics Group (RLG)](https://www.rev-log.com/)** | **[Commercial Development Intern](https://jobright.ai/jobs/info/6a14d5e4738a270c8bfa8d22?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 25 |
 | **[Olympic Industries ULC](https://olympicind.com)** | **[Commodity Trader Intern/Co-op - September 2026](https://jobright.ai/jobs/info/69f3eb6fc78b9e4518958ba2?utm_campaign=1051&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | May 25 |
@@ -71,13 +74,13 @@ For a complete list, click the following sortable link below:
 | **[Marco Specialty Steel, Inc.](https://www.marcospecialtysteel.com/)** | **[Telemarketing Intern-Industrial Sales](https://jobright.ai/jobs/info/6a149f1ec48b503aeffbf69b?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 25 |
 | **[Akamai Technologies](https://www.akamai.com)** | **[Intern - Sales Enablement](https://jobright.ai/jobs/info/6a149b21bc9bff375af01a55?utm_campaign=1051&utm_source=git)** | Roble Corporate Center, San Jose, 10201, CR | Hybrid | May 25 |
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a14937cbc9bff375af018ed?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 25 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Intern](https://jobright.ai/jobs/info/6a152c45738a270c8bfa9fb7?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | May 25 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Events & Business Development Support Intern](https://jobright.ai/jobs/info/6a107fc19f654b3359cec278?utm_campaign=1051&utm_source=git)** | United States | Remote | May 25 |
 | **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6a0de74009ecfd704b3e3f10?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 25 |
 | **[Momentum Marketing](https://momentummarketingmia.com/)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/6a148a1cbc9bff375af01698?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | May 25 |
 | **[Nexreach](https://nexreachusa.com/)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/6a1489d6554b0e12c057f54a?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | May 25 |
 | **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Business Development Intern](https://jobright.ai/jobs/info/6a147dca554b0e12c057f391?utm_campaign=1051&utm_source=git)** | Kansas City - Kansas City, MO 64129 | On Site | May 25 |
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a0dcc0d09ecfd704b3e2d5a?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 25 |
-| **[Vanillakart](https://vanillakart.com/)** | **[Business development and sales intern](https://jobright.ai/jobs/info/6a147328554b0e12c057f1fe?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 25 |
 | **[Brightroc Marketing](brightrocmarketing.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/6a146f8cdc845f4be5bd216a?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | May 25 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a146dc0738a270c8bfa7b4f?utm_campaign=1051&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | May 25 |
 | ↳ | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a146d08dc845f4be5bd213c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 25 |
@@ -96,15 +99,16 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403ec12f8b43cf399198d?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia - Canada | Hybrid | May 25 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e812f8b43cf3991988?utm_campaign=1051&utm_source=git)** | Toronto | Hybrid | May 25 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e812f8b43cf3991989?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 25 |
-| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e712f8b43cf3991987?utm_campaign=1051&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 25 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e712f8b43cf3991986?utm_campaign=1051&utm_source=git)** | Burnaby | Hybrid | May 25 |
+| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e712f8b43cf3991987?utm_campaign=1051&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 25 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e612f8b43cf3991985?utm_campaign=1051&utm_source=git)** | Oakville | Hybrid | May 25 |
+| **[Eury AI](https://eury.ai/)** | **[GTM / Founder’s Associate Intern](https://jobright.ai/jobs/info/6a152bb4738a270c8bfa9f96?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | May 24 |
 | **[Green Thumb Industries (GTI)](https://www.gtigrows.com/)** | **[Revenue Summer Internship - Sales Team](https://jobright.ai/jobs/info/6a135b859f654b3359cf5d37?utm_campaign=1051&utm_source=git)** | Chicago | On Site | May 24 |
 | ↳ | **[Revenue Summer Internship - Sales Team](https://jobright.ai/jobs/info/6a135b7b9f654b3359cf5d34?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 24 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a13a39583d714428983121d?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 24 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a13a3d49fdbf21f36cb9544?utm_campaign=1051&utm_source=git)** | Antioch, TN | On Site | May 24 |
-| **[Mechanical Products Nevada](https://www.mpnevada.com/)** | **[Associate Project Sales Engineer Intern](https://jobright.ai/jobs/info/6a1321f1619335383fb3c497?utm_campaign=1051&utm_source=git)** | Las Vegas- Post Rd. | On Site | May 24 |
-| ↳ | **[Associate Project Sales Engineer Intern](https://jobright.ai/jobs/info/6a1321f1619335383fb3c498?utm_campaign=1051&utm_source=git)** | Las Vegas, Nevada | On Site | May 24 |
+| **[Mechanical Products Nevada](https://www.mpnevada.com/)** | **[Associate Project Sales Engineer Intern](https://jobright.ai/jobs/info/6a1321f1619335383fb3c498?utm_campaign=1051&utm_source=git)** | Las Vegas, Nevada | On Site | May 24 |
+| ↳ | **[Associate Project Sales Engineer Intern](https://jobright.ai/jobs/info/6a1321f1619335383fb3c497?utm_campaign=1051&utm_source=git)** | Las Vegas- Post Rd. | On Site | May 24 |
 | **[Bevel Financial](https://bevelfinancial.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a13082d619335383fb3bffa?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | May 24 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d0a9e9cfdc6132f943d947?utm_campaign=1051&utm_source=git)** | Newark, CA | On Site | May 24 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a05ea80836fe79d86147d2?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | May 24 |
@@ -127,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Relationship Manager, Business Markets, Intern- EN](https://jobright.ai/jobs/info/6a13cb7d9f654b3359cf73ad?utm_campaign=1051&utm_source=git)** | Saguenay, Quebec, Canada | On Site | May 23 |
 | **[Merkle Science](https://www.merklescience.com)** | **[Sales Development Representative - Intern](https://jobright.ai/jobs/info/69a1d2670da45516f16b28f0?utm_campaign=1051&utm_source=git)** | New York | Remote | May 23 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a13c92e58ee291d8052d4cd?utm_campaign=1051&utm_source=git)** | Moore, OK | On Site | May 23 |
-| **[LayerZero Labs](https://layerzero.network)** | **[Institutional Business Development Intern](https://jobright.ai/jobs/info/6a1225fd619335383fb3970b?utm_campaign=1051&utm_source=git)** | New York | On Site | May 23 |
-| ↳ | **[Institutional Business Development Intern](https://jobright.ai/jobs/info/6a1225fd619335383fb3970c?utm_campaign=1051&utm_source=git)** | New York City | On Site | May 23 |
+| **[LayerZero Labs](https://layerzero.network)** | **[Institutional Business Development Intern](https://jobright.ai/jobs/info/6a1225fd619335383fb3970c?utm_campaign=1051&utm_source=git)** | New York City | On Site | May 23 |
+| ↳ | **[Institutional Business Development Intern](https://jobright.ai/jobs/info/6a1225fd619335383fb3970b?utm_campaign=1051&utm_source=git)** | New York | On Site | May 23 |
 | **[NY Eventss](nyeventss.com)** | **[Business Sales Intern](https://jobright.ai/jobs/info/6a121a8d9f654b3359cf2701?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | May 23 |
 | **[RBC](https://www.rbc.com)** | **[Agricultural Relationship Manager Intern, Commercial Banking](https://jobright.ai/jobs/info/6a1219e1619335383fb395eb?utm_campaign=1051&utm_source=git)** | WINNIPEG, Manitoba, Canada | On Site | May 23 |
 | **[CertiK](https://www.certik.com/)** | **[Business Development Intern / CertiK Ambassador](https://jobright.ai/jobs/info/6a120c6d69bd827926af502b?utm_campaign=1051&utm_source=git)** | United States | Remote | May 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Super Twins Construction](https://www.supertwinsconstruction.com)** | **[Sales Development Associate](https://jobright.ai/jobs/info/6a1158629fdbf21f36cb39c7?utm_campaign=1051&utm_source=git)** | Calabasas, CA | Remote | May 23 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/6a11505812f8b43cf398a0ca?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 22 |
 | ↳ | **[Intern, Property Management](https://jobright.ai/jobs/info/6a11505612f8b43cf398a0c9?utm_campaign=1051&utm_source=git)** | US-TX-El Paso | On Site | May 22 |
-| **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Assistant Tourism and Membership Intern](https://jobright.ai/jobs/info/6a1147139fdbf21f36cb3759?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | May 22 |
-| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0340?utm_campaign=1051&utm_source=git)** | Nashville Depot | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0341?utm_campaign=1051&utm_source=git)** | Atlanta Depot | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033f?utm_campaign=1051&utm_source=git)** | Salt Lake City Depot | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
