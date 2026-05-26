@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spot Freight](https://spotinc.com)** | **[Brokerage Sales Internship](https://jobright.ai/jobs/info/6a14e3b8554b0e12c05803e4?utm_campaign=1051&utm_source=git)** | Tampa | On Site | May 25 |
+| **[Reverse Logistics Group (RLG)](https://www.rev-log.com/)** | **[Commercial Development Intern](https://jobright.ai/jobs/info/6a14d5e4738a270c8bfa8d22?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 25 |
+| **[Olympic Industries ULC](https://olympicind.com)** | **[Commodity Trader Intern/Co-op - September 2026](https://jobright.ai/jobs/info/69f3eb6fc78b9e4518958ba2?utm_campaign=1051&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | May 25 |
 | **[Tires Easy](http://tires-easy.com/)** | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a7554b0e12c057ffd0?utm_campaign=1051&utm_source=git)** | California | On Site | May 25 |
 | ↳ | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a6554b0e12c057ffcf?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 25 |
 | ↳ | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c4eebc9bff375af0219a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 25 |
@@ -92,16 +95,15 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403ec12f8b43cf399198d?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia - Canada | Hybrid | May 25 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e812f8b43cf3991988?utm_campaign=1051&utm_source=git)** | Toronto | Hybrid | May 25 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e812f8b43cf3991989?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 25 |
-| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e712f8b43cf3991986?utm_campaign=1051&utm_source=git)** | Burnaby | Hybrid | May 25 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e712f8b43cf3991987?utm_campaign=1051&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 25 |
+| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e712f8b43cf3991986?utm_campaign=1051&utm_source=git)** | Burnaby | Hybrid | May 25 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e612f8b43cf3991985?utm_campaign=1051&utm_source=git)** | Oakville | Hybrid | May 25 |
-| **[Mobile Defender Inc.](https://www.mobiledefender.net/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a14130735df33047ace1551?utm_campaign=1051&utm_source=git)** | United States | Remote | May 24 |
 | **[Green Thumb Industries (GTI)](https://www.gtigrows.com/)** | **[Revenue Summer Internship - Sales Team](https://jobright.ai/jobs/info/6a135b859f654b3359cf5d37?utm_campaign=1051&utm_source=git)** | Chicago | On Site | May 24 |
 | ↳ | **[Revenue Summer Internship - Sales Team](https://jobright.ai/jobs/info/6a135b7b9f654b3359cf5d34?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 24 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a13a39583d714428983121d?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 24 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a13a3d49fdbf21f36cb9544?utm_campaign=1051&utm_source=git)** | Antioch, TN | On Site | May 24 |
-| **[Mechanical Products Nevada](https://www.mpnevada.com/)** | **[Associate Project Sales Engineer Intern](https://jobright.ai/jobs/info/6a1321f1619335383fb3c497?utm_campaign=1051&utm_source=git)** | Las Vegas- Post Rd. | On Site | May 24 |
-| ↳ | **[Associate Project Sales Engineer Intern](https://jobright.ai/jobs/info/6a1321f1619335383fb3c498?utm_campaign=1051&utm_source=git)** | Las Vegas, Nevada | On Site | May 24 |
+| **[Mechanical Products Nevada](https://www.mpnevada.com/)** | **[Associate Project Sales Engineer Intern](https://jobright.ai/jobs/info/6a1321f1619335383fb3c498?utm_campaign=1051&utm_source=git)** | Las Vegas, Nevada | On Site | May 24 |
+| ↳ | **[Associate Project Sales Engineer Intern](https://jobright.ai/jobs/info/6a1321f1619335383fb3c497?utm_campaign=1051&utm_source=git)** | Las Vegas- Post Rd. | On Site | May 24 |
 | **[Bevel Financial](https://bevelfinancial.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a13082d619335383fb3bffa?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | May 24 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69d0a9e9cfdc6132f943d947?utm_campaign=1051&utm_source=git)** | Newark, CA | On Site | May 24 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a05ea80836fe79d86147d2?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | May 24 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/6a11505812f8b43cf398a0ca?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 22 |
 | ↳ | **[Intern, Property Management](https://jobright.ai/jobs/info/6a11505612f8b43cf398a0c9?utm_campaign=1051&utm_source=git)** | US-TX-El Paso | On Site | May 22 |
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Assistant Tourism and Membership Intern](https://jobright.ai/jobs/info/6a1147139fdbf21f36cb3759?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | May 22 |
-| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0340?utm_campaign=1051&utm_source=git)** | Nashville Depot | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0341?utm_campaign=1051&utm_source=git)** | Atlanta Depot | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033d?utm_campaign=1051&utm_source=git)** | San Francisco Depot | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033f?utm_campaign=1051&utm_source=git)** | Salt Lake City Depot | On Site | May 22 |
+| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0341?utm_campaign=1051&utm_source=git)** | Atlanta Depot | On Site | May 22 |
+| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b19f654b3359cf0340?utm_campaign=1051&utm_source=git)** | Nashville Depot | On Site | May 22 |
 | ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033e?utm_campaign=1051&utm_source=git)** | Chicago Depot | On Site | May 22 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128af9f654b3359cf033c?utm_campaign=1051&utm_source=git)** | New Orleans Depot | On Site | May 22 |
+| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a1128b09f654b3359cf033d?utm_campaign=1051&utm_source=git)** | San Francisco Depot | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
