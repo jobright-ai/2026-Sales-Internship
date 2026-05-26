@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[dm drogerie markt Italia](https://www.dm-jobs.it)** | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1555ae738a270c8bfaa6b0?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 26 |
 | **[Vetra Technologies](https://www.vetratechnologies.com)** | **[Startup Sales Development Intern — Vetra Technologies / Summer 2026](https://jobright.ai/jobs/info/6a153140738a270c8bfaa0b5?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | May 25 |
 | **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/69f118e362b48c6838793cb5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 25 |
 | **[Element](https://elementrisk.com)** | **[Direct Sales Intern](https://jobright.ai/jobs/info/6a152186c48b503aeffc0cc5?utm_campaign=1051&utm_source=git)** | West Chester, PA | On Site | May 25 |
@@ -85,22 +86,21 @@ For a complete list, click the following sortable link below:
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a146dc0738a270c8bfa7b4f?utm_campaign=1051&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | May 25 |
 | ↳ | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a146d08dc845f4be5bd213c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 25 |
 | **[Markato](https://wearemarkato.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a146a13554b0e12c057f0d6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | May 25 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a1469dfbc9bff375af011fd?utm_campaign=1051&utm_source=git)** | Oakville, CA | Hybrid | May 25 |
-| ↳ | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a1469dfbc9bff375af011fe?utm_campaign=1051&utm_source=git)** | Toronto - Bay St, CA | Hybrid | May 25 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a1469dfbc9bff375af011fe?utm_campaign=1051&utm_source=git)** | Toronto - Bay St, CA | Hybrid | May 25 |
+| ↳ | **[Co-op or Intern, Cloud Analyst (September 2026)](https://jobright.ai/jobs/info/6a1469dfbc9bff375af011fd?utm_campaign=1051&utm_source=git)** | Oakville, CA | Hybrid | May 25 |
 | **[RailPros](http://railpros.com)** | **[Intern - Real Estate](https://jobright.ai/jobs/info/6a1461e6c48b503aeffbec76?utm_campaign=1051&utm_source=git)** | Jacksonville, FL 32256 | Remote | May 25 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/696aae165fc862418539af8a?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | May 25 |
 | **[Encore Market Engagement](https://www.encore.market/)** | **[Customer Development Intern](https://jobright.ai/jobs/info/6a145f4dc48b503aeffbebf2?utm_campaign=1051&utm_source=git)** | QC, Montréal | Hybrid | May 25 |
 | ↳ | **[Customer Development Intern](https://jobright.ai/jobs/info/6a145f4abc9bff375af00ff6?utm_campaign=1051&utm_source=git)** | ON, Toronto | Hybrid | May 25 |
 | **[Naboo](https://naboo.app)** | **[Business Development Intern – North America](https://jobright.ai/jobs/info/6a142b8c554b0e12c057e5a4?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 25 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Client Development Intern](https://jobright.ai/jobs/info/6a1045139fdbf21f36cad7d1?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | May 25 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/6a0ea78283d714428981a73b?utm_campaign=1051&utm_source=git)** | Elk Grove, CA | On Site | May 25 |
 | **[dm drogerie markt Italia](https://www.dm-jobs.it)** | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a140f16c2dca06fac40429b?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 25 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2027 Global Capital Markets Summer Intern – Sales & Trading](https://jobright.ai/jobs/info/6a0b72374d93203636871012?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | May 25 |
 | **[Geotab](http://www.geotab.com/)** | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403ec12f8b43cf399198d?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia - Canada | Hybrid | May 25 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e812f8b43cf3991988?utm_campaign=1051&utm_source=git)** | Toronto | Hybrid | May 25 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e812f8b43cf3991989?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 25 |
-| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e712f8b43cf3991987?utm_campaign=1051&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 25 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e712f8b43cf3991986?utm_campaign=1051&utm_source=git)** | Burnaby | Hybrid | May 25 |
+| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e712f8b43cf3991987?utm_campaign=1051&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 25 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1403e612f8b43cf3991985?utm_campaign=1051&utm_source=git)** | Oakville | Hybrid | May 25 |
 | **[Green Thumb Industries (GTI)](https://www.gtigrows.com/)** | **[Revenue Summer Internship - Sales Team](https://jobright.ai/jobs/info/6a135b859f654b3359cf5d37?utm_campaign=1051&utm_source=git)** | Chicago | On Site | May 24 |
 | ↳ | **[Revenue Summer Internship - Sales Team](https://jobright.ai/jobs/info/6a135b7b9f654b3359cf5d34?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 24 |
