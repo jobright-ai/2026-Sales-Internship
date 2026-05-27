@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exito Universal Inc.](https://exitouniversalinc.com/)** | **[Graduate Sales Intern](https://jobright.ai/jobs/info/6a172b89d6a04f21602e3b32?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | On Site | May 27 |
+| **[Anderson Dahlen Inc.](http://andersondahlen.com)** | **[SALES INTERN](https://jobright.ai/jobs/info/6a17274a5b0a497d5210901d?utm_campaign=1051&utm_source=git)** | Ramsey,MN,US | On Site | May 27 |
 | **[BOL Partners Inc](https://bolpartnersinc.com/)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/6a17247e5b0a497d52108c91?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | May 27 |
 | **[Presidio](http://www.presidio.com)** | **[Sales Internship 2026 (King of Prussia, NJ (1) Woburn, MA (3)](https://jobright.ai/jobs/info/6a1723dfd6a04f21602e3626?utm_campaign=1051&utm_source=git)** | United States | Remote | May 27 |
 | **[Revance](http://www.revance.com)** | **[Customer Success Specialist Intern](https://jobright.ai/jobs/info/6a1723a15b0a497d52108c2b?utm_campaign=1051&utm_source=git)** | Nashville, TN | Remote | May 27 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a171822f45c6530ce9a89af?utm_campaign=1051&utm_source=git)** | Aventura, Florida, United States of America | On Site | May 27 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a171820b091c7417c4fa7f7?utm_campaign=1051&utm_source=git)** | Coral Gables, Florida, United States of America | On Site | May 27 |
 | **[Decked Out Charters](https://www.linkedin.com/company/110260898)** | **[Summer Intern](https://jobright.ai/jobs/info/6a1717655b0a497d52107f74?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | Hybrid | May 27 |
-| **[Penn Mutual](https://www.pennmutual.com/)** | **[Summer Intern - Advanced Sales](https://jobright.ai/jobs/info/6a1717221430333075cccd33?utm_campaign=1051&utm_source=git)** | Remote - United States, US | Remote | May 27 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing Intern, Fall 2026](https://jobright.ai/jobs/info/69fb45ed86d5cd46527d4404?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | On Site | May 27 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Outbound Sales Representative - 2026 Summer Intern](https://jobright.ai/jobs/info/6a1711f39005d858e94f5654?utm_campaign=1051&utm_source=git)** | Allen, TX | On Site | May 27 |
 | **[Markato](https://wearemarkato.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a146a13554b0e12c057f0d6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | May 27 |
@@ -84,9 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Würth Industry USA](http://wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a170895b091c7417c4f9fef?utm_campaign=1051&utm_source=git)** | Greenwood, Indiana, United States | On Site | May 27 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088eb091c7417c4f9feb?utm_campaign=1051&utm_source=git)** | Roanoke, Virginia, United States | On Site | May 27 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088bb091c7417c4f9fe9?utm_campaign=1051&utm_source=git)** | Sanford, Florida, United States | On Site | May 27 |
-| **[dm drogerie markt Italia](https://www.dm-jobs.it)** | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107843?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
-| ↳ | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107842?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
-| **[ICARUS AI E-Learning](https://icarus.education/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a1705e45b0a497d52107829?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 27 |
+| **[dm drogerie markt Italia](https://www.dm-jobs.it)** | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107842?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
+| ↳ | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107843?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
 | **[Building Bridges Across the River](https://bbardc.org/)** | **[Development Intern Position](https://jobright.ai/jobs/info/6a17047ef45c6530ce9a800f?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 27 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a16fe6a5b0a497d52107402?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 27 |
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a16fdad9005d858e94f4c48?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 27 |
