@@ -132,14 +132,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ee9b1935fa61b3c6ce1c?utm_campaign=1051&utm_source=git)** | Missouri, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ee99dc845f4be5bda73b?utm_campaign=1051&utm_source=git)** | Iowa, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15eea0554b0e12c058760c?utm_campaign=1051&utm_source=git)** | West Virginia, United States | Remote | May 26 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15eea0554b0e12c058760b?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ee88128680351d965e76?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | May 26 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15eea0554b0e12c058760b?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ee99dc845f4be5bda739?utm_campaign=1051&utm_source=git)** | Indiana, United States | Remote | May 26 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ee881935fa61b3c6ce12?utm_campaign=1051&utm_source=git)** | New Mexico, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ee90dc845f4be5bda731?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | Remote | May 26 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ee881935fa61b3c6ce12?utm_campaign=1051&utm_source=git)** | New Mexico, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ee831935fa61b3c6ce10?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | May 26 |
-| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/6a15c2e4128680351d963eb3?utm_campaign=1051&utm_source=git)** | Coquitlam, British Columbia, Canada | On Site | May 26 |
-| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15c064dc845f4be5bd8612?utm_campaign=1051&utm_source=git)** | Wyoming, United States | Remote | May 26 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15c064dc845f4be5bd8612?utm_campaign=1051&utm_source=git)** | Wyoming, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15c0041935fa61b3c6ac53?utm_campaign=1051&utm_source=git)** | Nebraska, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15bf831935fa61b3c6ac3b?utm_campaign=1051&utm_source=git)** | Montana, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15db3e554b0e12c05867c8?utm_campaign=1051&utm_source=git)** | Hawaii, United States | Remote | May 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AMEND Consulting](https://amendllc.com/)** | **[Sales Analyst - Co-op/Internship](https://jobright.ai/jobs/info/6a15aad61935fa61b3c69d87?utm_campaign=1051&utm_source=git)** | Cincinnati, Ohio, United States | On Site | May 26 |
 | **[Rubrik](http://rubrik.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a15a8de1935fa61b3c69a21?utm_campaign=1051&utm_source=git)** | Austin (TX) Office | On Site | May 26 |
 | ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a15a8cc1935fa61b3c69a14?utm_campaign=1051&utm_source=git)** | Austin, TX Office | On Site | May 26 |
+| **[Smartly](http://smartly.io)** | **[Sales Enablement & Competitive Intelligence Intern](https://jobright.ai/jobs/info/69dd70b1f748bc5d08a5fe61?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
