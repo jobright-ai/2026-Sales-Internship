@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sprinklr](http://www.sprinklr.com)** | **[Sales Ops Intern](https://jobright.ai/jobs/info/69de788ce34484770f1a244c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 27 |
+| **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6976dfb53778585635106341?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
+| **[CloudSEK](https://www.cloudsek.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6a16b395202ae849ed8d4d45?utm_campaign=1051&utm_source=git)** | Ontario, Canada | On Site | May 27 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a16ca6a5b0a497d52105fe7?utm_campaign=1051&utm_source=git)** | Chatham-Kent, Ontario, Canada | On Site | May 27 |
 | **[Cruze](https://cruzemaps.com/)** | **[Sales And Growth Intern](https://jobright.ai/jobs/info/6a168edc554b0e12c058d1db?utm_campaign=1051&utm_source=git)** | United States | Remote | May 26 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Sales Specialist Intern (Bilingual in Mandarin)](https://jobright.ai/jobs/info/6a168c5e202ae849ed8d3ed3?utm_campaign=1051&utm_source=git)** | United States | Remote | May 26 |
-| **[AxxisPay USA](axxispay.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a168107128680351d96b41c?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | May 26 |
+| **[.](https://www.linkedin.com/company/106577046)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a168107128680351d96b41c?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | May 26 |
 | **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a167559554b0e12c058c6d1?utm_campaign=1051&utm_source=git)** | United States | Remote | May 26 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a166a82202ae849ed8d2e61?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | May 26 |
 | ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a1669a1a429fd279da98390?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | On Site | May 26 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15bc3f128680351d963ca1?utm_campaign=1051&utm_source=git)** | Kentucky, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ba6da429fd279da91796?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15b8f7128680351d963b1d?utm_campaign=1051&utm_source=git)** | Delaware, United States | Remote | May 26 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b8e71935fa61b3c6a6ee?utm_campaign=1051&utm_source=git)** | Charlotte NC (Community House), US | On Site | May 26 |
-| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15b879dc845f4be5bd8337?utm_campaign=1051&utm_source=git)** | Idaho, United States | Remote | May 26 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15b879dc845f4be5bd8337?utm_campaign=1051&utm_source=git)** | Idaho, United States | Remote | May 26 |
 | **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/69b4d78a569738374139cfcc?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | May 26 |
 | **[AMEND Consulting](https://amendllc.com/)** | **[Sales Analyst - Co-op/Internship](https://jobright.ai/jobs/info/6a15aad61935fa61b3c69d87?utm_campaign=1051&utm_source=git)** | Cincinnati, Ohio, United States | On Site | May 26 |
 | **[Rubrik](http://rubrik.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a15a8de1935fa61b3c69a21?utm_campaign=1051&utm_source=git)** | Austin (TX) Office | On Site | May 26 |
-| ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a15a8cc1935fa61b3c69a14?utm_campaign=1051&utm_source=git)** | Austin, TX Office | On Site | May 26 |
-| **[Smartly](http://smartly.io)** | **[Sales Enablement & Competitive Intelligence Intern](https://jobright.ai/jobs/info/69dd70b1f748bc5d08a5fe61?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | May 26 |
-| **[Per Scholas](http://www.perscholas.org/)** | **[Events & Business Development Support Intern](https://jobright.ai/jobs/info/6a15a5310073182bd92ab38b?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
