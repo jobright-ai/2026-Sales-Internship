@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AxxisPay USA](axxispay.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a168107128680351d96b41c?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | May 26 |
+| **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a167559554b0e12c058c6d1?utm_campaign=1051&utm_source=git)** | United States | Remote | May 26 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a166a82202ae849ed8d2e61?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | May 26 |
 | ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a1669a1a429fd279da98390?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | On Site | May 26 |
 | **[Allstate](http://www.allstate.com)** | **[Agency Distribution Sales Intern](https://jobright.ai/jobs/info/6a1665d0202ae849ed8d2d84?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | May 26 |
@@ -89,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/6a1604720073182bd92af5b4?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 26 |
 | **[Brandlete](https://www.brandletehq.com)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/6a160460554b0e12c058879b?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | May 26 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a162d020073182bd92b0dbe?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 26 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/6a16023fa429fd279da94caf?utm_campaign=1051&utm_source=git)** | Indianapolis, Indiana | On Site | May 26 |
-| ↳ | **[Retail Sales Intern](https://jobright.ai/jobs/info/6a16023fa429fd279da94cb0?utm_campaign=1051&utm_source=git)** | Carmel, IN, USA | On Site | May 26 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/6a16023fa429fd279da94cb0?utm_campaign=1051&utm_source=git)** | Carmel, IN, USA | On Site | May 26 |
+| ↳ | **[Retail Sales Intern](https://jobright.ai/jobs/info/6a16023fa429fd279da94caf?utm_campaign=1051&utm_source=git)** | Indianapolis, Indiana | On Site | May 26 |
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a1601840073182bd92af49f?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 26 |
 | **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1600a50073182bd92af261?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 26 |
 | ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1600a3554b0e12c0588468?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 26 |
@@ -109,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Intern - Fall 2026](https://jobright.ai/jobs/info/6a15eee70073182bd92ae4b4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 26 |
 | **[Dexelance](https://dexelance.com/en/)** | **[Showroom Interior Design & Sales Intern](https://jobright.ai/jobs/info/6a15ee9b554b0e12c0587603?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 26 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Indirect Sourcing Intern](https://jobright.ai/jobs/info/6a15ed19128680351d965dcc?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 26 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Sales support, Aircraft parts (Fall 2026)](https://jobright.ai/jobs/info/6a1679d4128680351d96b2d6?utm_campaign=1051&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 26 |
 | **[gWorks](https://www.gworks.com)** | **[Business Development Representative (Intern)](https://jobright.ai/jobs/info/6a15eab70073182bd92ae218?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | May 26 |
 | **[APMEX, Inc.](http://www.apmex.com)** | **[Online Marketplaces Intern- Onsite OKC, OK](https://jobright.ai/jobs/info/6a15ea9f128680351d965c55?utm_campaign=1051&utm_source=git)** | APMEX DOWNTOWN - Oklahoma City, OK 73102 | On Site | May 26 |
 | **[Memo Paris](https://www.memoparis.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6a15e5051935fa61b3c6c7bd?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 26 |
@@ -127,8 +130,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ee9b1935fa61b3c6ce1c?utm_campaign=1051&utm_source=git)** | Missouri, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ee99dc845f4be5bda73b?utm_campaign=1051&utm_source=git)** | Iowa, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15eea0554b0e12c058760c?utm_campaign=1051&utm_source=git)** | West Virginia, United States | Remote | May 26 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ee88128680351d965e76?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15eea0554b0e12c058760b?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | May 26 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ee88128680351d965e76?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ee90dc845f4be5bda731?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ee99dc845f4be5bda739?utm_campaign=1051&utm_source=git)** | Indiana, United States | Remote | May 26 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ee881935fa61b3c6ce12?utm_campaign=1051&utm_source=git)** | New Mexico, United States | Remote | May 26 |
@@ -146,15 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15ba6da429fd279da91796?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | May 26 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b9121935fa61b3c6a6f9?utm_campaign=1051&utm_source=git)** | Irving TX (Greenway) | On Site | May 26 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a15b8f7128680351d963b1d?utm_campaign=1051&utm_source=git)** | Delaware, United States | Remote | May 26 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b8e71935fa61b3c6a6ed?utm_campaign=1051&utm_source=git)** | Alpharetta GA (Great Oaks), US | On Site | May 26 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b8e71935fa61b3c6a6ee?utm_campaign=1051&utm_source=git)** | Charlotte NC (Community House), US | On Site | May 26 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b8e71935fa61b3c6a6ee?utm_campaign=1051&utm_source=git)** | Charlotte NC (Community House), US | On Site | May 26 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b8e61935fa61b3c6a6ec?utm_campaign=1051&utm_source=git)** | Schaumburg IL (E Golf), US | On Site | May 26 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b8e41935fa61b3c6a6eb?utm_campaign=1051&utm_source=git)** | Columbia MD (Albert Einstein), US | On Site | May 26 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b8e41935fa61b3c6a6e6?utm_campaign=1051&utm_source=git)** | Indianapolis, IN (Job Posting Location), US | On Site | May 26 |
+| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b8e41935fa61b3c6a6ea?utm_campaign=1051&utm_source=git)** | Houston TX (Sam Houston), US | On Site | May 26 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b8e41935fa61b3c6a6e7?utm_campaign=1051&utm_source=git)** | Wayne PA (Drummers LN), US | On Site | May 26 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b8e41935fa61b3c6a6e8?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens FL (RCA), US | On Site | May 26 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b8e41935fa61b3c6a6ea?utm_campaign=1051&utm_source=git)** | Houston TX (Sam Houston), US | On Site | May 26 |
+| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b8e41935fa61b3c6a6e6?utm_campaign=1051&utm_source=git)** | Indianapolis, IN (Job Posting Location), US | On Site | May 26 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b8e31935fa61b3c6a6e5?utm_campaign=1051&utm_source=git)** | Tampa FL (Boy Scout), US | On Site | May 26 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b8e31935fa61b3c6a6e4?utm_campaign=1051&utm_source=git)** | Irving TX (Greenway), US | On Site | May 26 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6a15b8e31935fa61b3c6a6e3?utm_campaign=1051&utm_source=git)** | Franklin TN (Carothers), US | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
