@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Keen](https://keenapps.co/)** | **[Leasing & Activations Intern](https://jobright.ai/jobs/info/6a174db7b091c7417c4fcf4d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | May 27 |
 | **[Penn Mutual](https://www.pennmutual.com/)** | **[Summer Intern - Advanced Sales](https://jobright.ai/jobs/info/6a174b855b0a497d5210a961?utm_campaign=1051&utm_source=git)** | United States | Remote | May 27 |
 | **[DrFirst, Inc.](http://drfirst.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/6a1748ff9005d858e94f8242?utm_campaign=1051&utm_source=git)** | United States | Remote | May 27 |
-| **[Gasser Chair](http://gasserchair.com)** | **[Sales / CRM Operations Intern](https://jobright.ai/jobs/info/6a1746179005d858e94f810c?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | May 27 |
 | **[HERE Technologies](https://www.here.com)** | **[Sales & Customer Intern](https://jobright.ai/jobs/info/6a1743f7b091c7417c4fcb51?utm_campaign=1051&utm_source=git)** | US-IL-Chicago | Hybrid | May 27 |
 | ↳ | **[Sales & Customer Intern](https://jobright.ai/jobs/info/6a1743f2b091c7417c4fcb4d?utm_campaign=1051&utm_source=git)** | Chicago, IL, US | Hybrid | May 27 |
 | **[Penn Mutual](https://www.pennmutual.com/)** | **[Summer Intern - Advanced Sales](https://jobright.ai/jobs/info/6a1742261430333075ccf390?utm_campaign=1051&utm_source=git)** | Remote - United States, US | Remote | May 27 |
@@ -116,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Würth Industry USA](http://wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a170895b091c7417c4f9fef?utm_campaign=1051&utm_source=git)** | Greenwood, Indiana, United States | On Site | May 27 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088eb091c7417c4f9feb?utm_campaign=1051&utm_source=git)** | Roanoke, Virginia, United States | On Site | May 27 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088bb091c7417c4f9fe9?utm_campaign=1051&utm_source=git)** | Sanford, Florida, United States | On Site | May 27 |
-| **[dm drogerie markt Italia](https://www.dm-jobs.it)** | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107843?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
-| ↳ | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107842?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
+| **[dm drogerie markt Italia](https://www.dm-jobs.it)** | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107842?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
+| ↳ | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107843?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
 | **[Building Bridges Across the River](https://bbardc.org/)** | **[Development Intern Position](https://jobright.ai/jobs/info/6a17047ef45c6530ce9a800f?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 27 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a16fe6a5b0a497d52107402?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 27 |
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a16fdad9005d858e94f4c48?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship (Unpaid) / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a162ed5dc845f4be5bdd2ef?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 26 |
 | **[Club Car](http://www.clubcar.com)** | **[Dealer Development Intern](https://jobright.ai/jobs/info/6a1610810073182bd92afc67?utm_campaign=1051&utm_source=git)** | US | On Site | May 26 |
 | **[Edlong Corporation](https://www.edlong.com)** | **[Commercial Sales Intern-US](https://jobright.ai/jobs/info/6a160d25554b0e12c0588c0c?utm_campaign=1051&utm_source=git)** | United States,United States | On Site | May 26 |
+| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a160cf1554b0e12c0588bfb?utm_campaign=1051&utm_source=git)** | Seattle, Washington, United States of America | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
