@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f179?utm_campaign=1051&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 27 |
 | ↳ | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f178?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Megapack Business Development, Energy (Summer 2026)](https://jobright.ai/jobs/info/6a17a7ecb091c7417c500720?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
-| **[Tires Easy](http://tires-easy.com/)** | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a7554b0e12c057ffd0?utm_campaign=1051&utm_source=git)** | California | On Site | May 27 |
-| ↳ | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a6554b0e12c057ffcf?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 27 |
+| **[Tires Easy](http://tires-easy.com/)** | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a6554b0e12c057ffcf?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 27 |
+| ↳ | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a7554b0e12c057ffd0?utm_campaign=1051&utm_source=git)** | California | On Site | May 27 |
 | **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a179da95b0a497d5210de7f?utm_campaign=1051&utm_source=git)** | McAllen, TX | On Site | May 27 |
 | ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a179ca01430333075cd2a4f?utm_campaign=1051&utm_source=git)** | Colorado, United States | On Site | May 27 |
 | **[Lyten](http://www.lyten.com)** | **[Intern - Jr. Buyer](https://jobright.ai/jobs/info/6a1790465b0a497d5210dabe?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | May 27 |
