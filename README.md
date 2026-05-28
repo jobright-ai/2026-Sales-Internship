@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a179da95b0a497d5210de7f?utm_campaign=1051&utm_source=git)** | McAllen, TX | On Site | May 27 |
+| ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a179ca01430333075cd2a4f?utm_campaign=1051&utm_source=git)** | Colorado, United States | On Site | May 27 |
 | **[Lyten](http://www.lyten.com)** | **[Intern - Jr. Buyer](https://jobright.ai/jobs/info/6a1790465b0a497d5210dabe?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | May 27 |
 | **[SparkPrintz](https://www.sparkprintz.com/)** | **[High School Sale and Marketing Intern](https://jobright.ai/jobs/info/6a178c18f45c6530ce9add78?utm_campaign=1051&utm_source=git)** | United States | Remote | May 27 |
 | **[CertiK](https://www.certik.com/)** | **[Business Development Intern / CertiK Ambassador](https://jobright.ai/jobs/info/6a178c0ef45c6530ce9add74?utm_campaign=1051&utm_source=git)** | New York, New York | Hybrid | May 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a167559554b0e12c058c6d1?utm_campaign=1051&utm_source=git)** | United States | Remote | May 26 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a166a82202ae849ed8d2e61?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | May 26 |
 | ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a1669a1a429fd279da98390?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | On Site | May 26 |
-| **[Allstate](http://www.allstate.com)** | **[Agency Distribution Sales Intern](https://jobright.ai/jobs/info/6a1665d0202ae849ed8d2d84?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | May 26 |
-| **[MGT](http://www.mgtconsulting.com)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6a166445128680351d96a643?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
