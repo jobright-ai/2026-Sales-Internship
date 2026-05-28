@@ -57,17 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lyten](http://www.lyten.com)** | **[Intern - Jr. Buyer](https://jobright.ai/jobs/info/6a1789411430333075cd2118?utm_campaign=1051&utm_source=git)** | San Jose, CA, US | On Site | May 27 |
+| **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/6a17875c1430333075cd1d77?utm_campaign=1051&utm_source=git)** | United States | Remote | May 27 |
+| **[IPG Photonics](http://www.ipgphotonics.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a177f8881fe455c705a9720?utm_campaign=1051&utm_source=git)** | 377 Simarano Drive, Marlborough, MA01752 | On Site | May 27 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Sales Management Trainee Internship](https://jobright.ai/jobs/info/6a1778f781fe455c705a9520?utm_campaign=1051&utm_source=git)** | Jackson, MS, US | On Site | May 27 |
 | **[National Association of REALTORS®](https://www.nar.realtor)** | **[REALTOR® News Intern](https://jobright.ai/jobs/info/6a1776bbf45c6530ce9ad036?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | May 27 |
 | **[Constant Contact](http://www.constantcontact.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a176e63f45c6530ce9aca8f?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | May 27 |
 | **[IWI Consulting Group](https://www.iwigroup.ca)** | **[2026 Summer Intern - Business Development Representative](https://jobright.ai/jobs/info/6a176cad81fe455c705a8c98?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | May 27 |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Supplier Development Intern](https://jobright.ai/jobs/info/6a176aa35b0a497d5210bfef?utm_campaign=1051&utm_source=git)** | Montreal, QC | Hybrid | May 27 |
+| **[D&H Distributing](https://www.dandh.com/)** | **[Vendor Specialist (Co-op Summer 2026)](https://jobright.ai/jobs/info/6a1789461430333075cd2123?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 27 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Development Asset Management Intern (Boston HQ)](https://jobright.ai/jobs/info/6a175e68d6a04f21602e6366?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 27 |
 | **[Altamira Technologies Corporation](https://www.altamiracorp.com)** | **[Corporate HQ Intern](https://jobright.ai/jobs/info/6a175e52f45c6530ce9ac05c?utm_campaign=1051&utm_source=git)** | McLean, VA | On Site | May 27 |
 | **[Hood Packaging Corporation](http://hoodpkg.com)** | **[S Co-Op/Intern](https://jobright.ai/jobs/info/6a175d04b091c7417c4fdeb7?utm_campaign=1051&utm_source=git)** | Arden Hills, MN | On Site | May 27 |
 | **[Unleashed Brands](https://unleashedbrands.com/)** | **[(CRM) Customer Relationship Management Intern](https://jobright.ai/jobs/info/6a175a819005d858e94f91ac?utm_campaign=1051&utm_source=git)** | Bedford, TX | On Site | May 27 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69dec962aba61f1417317b67?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | May 27 |
-| **[BLACK COPPER](blackcopper.org)** | **[Art Sales Intern](https://jobright.ai/jobs/info/6a17549d9005d858e94f8e8f?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | May 27 |
 | **[HERE Technologies](https://www.here.com)** | **[Sales & Customer Intern](https://jobright.ai/jobs/info/6a174f015b0a497d5210ab2b?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | May 27 |
 | **[Save the Children US](http://savethechildren.org)** | **[Corporate Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a1116d2619335383fb36a76?utm_campaign=1051&utm_source=git)** | United States | Remote | May 27 |
 | ↳ | **[Corporate Partnerships Intern (M&G)](https://jobright.ai/jobs/info/6a10f7349fdbf21f36cb1ec1?utm_campaign=1051&utm_source=git)** | Fairfield, CT | Hybrid | May 27 |
@@ -125,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Würth Industry USA](http://wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a170895b091c7417c4f9fef?utm_campaign=1051&utm_source=git)** | Greenwood, Indiana, United States | On Site | May 27 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088eb091c7417c4f9feb?utm_campaign=1051&utm_source=git)** | Roanoke, Virginia, United States | On Site | May 27 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088bb091c7417c4f9fe9?utm_campaign=1051&utm_source=git)** | Sanford, Florida, United States | On Site | May 27 |
-| **[dm drogerie markt Italia](https://www.dm-jobs.it)** | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107843?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
-| ↳ | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107842?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
+| **[dm drogerie markt Italia](https://www.dm-jobs.it)** | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107842?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
+| ↳ | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107843?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
 | **[Building Bridges Across the River](https://bbardc.org/)** | **[Development Intern Position](https://jobright.ai/jobs/info/6a17047ef45c6530ce9a800f?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 27 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a16fe6a5b0a497d52107402?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 27 |
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a16fdad9005d858e94f4c48?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 27 |
@@ -140,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6976dfb53778585635106341?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
 | **[CloudSEK](https://www.cloudsek.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6a16b395202ae849ed8d4d45?utm_campaign=1051&utm_source=git)** | Ontario, Canada | On Site | May 27 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a16ca6a5b0a497d52105fe7?utm_campaign=1051&utm_source=git)** | Chatham-Kent, Ontario, Canada | On Site | May 27 |
-| **[Cruze](https://cruzemaps.com/)** | **[Sales And Growth Intern](https://jobright.ai/jobs/info/6a168edc554b0e12c058d1db?utm_campaign=1051&utm_source=git)** | United States | Remote | May 26 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Sales Specialist Intern (Bilingual in Mandarin)](https://jobright.ai/jobs/info/6a168c5e202ae849ed8d3ed3?utm_campaign=1051&utm_source=git)** | United States | Remote | May 26 |
 | **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a167559554b0e12c058c6d1?utm_campaign=1051&utm_source=git)** | United States | Remote | May 26 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a166a82202ae849ed8d2e61?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | May 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a164b2da429fd279da97515?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | May 26 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Showroom Intern](https://jobright.ai/jobs/info/6a1648ea1935fa61b3c70626?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | May 26 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a1646bb128680351d969755?utm_campaign=1051&utm_source=git)** | Hueytown, AL | On Site | May 26 |
-| **[Wildflower LTD](https://www.wildflowerltd.com)** | **[MBA Associate Intern - Acquisitions](https://jobright.ai/jobs/info/6a1643b5128680351d969638?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 26 |
-| **[BELFOR Property Restoration](http://www.belfor.com)** | **[Restoration Sales Intern](https://jobright.ai/jobs/info/6a163c29dc845f4be5bdddaa?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
