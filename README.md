@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harmonic](http://harmonicinc.com)** | **[Sales Operation Intern](https://jobright.ai/jobs/info/69e00a96aba61f141731f39f?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | May 28 |
+| **[Electro](electrogum.com)** | **[Influencer Partnerships Intern](https://jobright.ai/jobs/info/6a1839c6abc8f63abac75ee5?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | May 28 |
+| **[Smith](http://www.smithweb.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69c2fa9194007a2195df1a04?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 28 |
+| **[The Michael J. Fox Foundation for Parkinson's Research](http://www.michaeljfox.org)** | **[Research Alliances Intern](https://jobright.ai/jobs/info/6a182f6517492d3a389b301e?utm_campaign=1051&utm_source=git)** | United States | Remote | May 28 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Partnerships Intern](https://jobright.ai/jobs/info/6a182037dbc80963f9340959?utm_campaign=1051&utm_source=git)** | New York | On Site | May 28 |
 | **[Loenbro](http://loenbro.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6a18143cba12bb0249bb6819?utm_campaign=1051&utm_source=git)** | Texas | On Site | May 28 |
 | **[Gigamon](http://www.gigamon.com)** | **[Sales Operations Intern - Santa Clara, CA - Hybrid](https://jobright.ai/jobs/info/69fbeedc3160b250eb1ba43d?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | Hybrid | May 28 |
@@ -89,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Sales Intern](https://jobright.ai/jobs/info/6a17ca455b0a497d5210f5ba?utm_campaign=1051&utm_source=git)** | St. Louis, MO, US | On Site | May 27 |
 | **[HRchitect](https://www.hrchitect.com/)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a17ca14b091c7417c501864?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 27 |
 | ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a17ca11da08264614c90628?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 27 |
-| ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a17ca0db091c7417c501860?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 27 |
 | ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a17ca0dda08264614c90625?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 27 |
+| ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a17ca0db091c7417c501860?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 27 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f179?utm_campaign=1051&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 27 |
 | ↳ | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f178?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Megapack Business Development, Energy (Summer 2026)](https://jobright.ai/jobs/info/6a17a7ecb091c7417c500720?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
@@ -104,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Institutional Sales](https://jobright.ai/jobs/info/6a178a515b0a497d5210d633?utm_campaign=1051&utm_source=git)** | Greenwich, Connecticut, United States | On Site | May 27 |
 | **[Lyten](http://www.lyten.com)** | **[Intern - Jr. Buyer](https://jobright.ai/jobs/info/6a1789411430333075cd2118?utm_campaign=1051&utm_source=git)** | San Jose, CA, US | On Site | May 27 |
 | **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/6a17875c1430333075cd1d77?utm_campaign=1051&utm_source=git)** | United States | Remote | May 27 |
-| **[IPG Photonics](http://www.ipgphotonics.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a177f8881fe455c705a9720?utm_campaign=1051&utm_source=git)** | 377 Simarano Drive, Marlborough, MA01752 | On Site | May 27 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Sales Management Trainee Internship](https://jobright.ai/jobs/info/6a1778f781fe455c705a9520?utm_campaign=1051&utm_source=git)** | Jackson, MS, US | On Site | May 27 |
 | **[National Association of REALTORS®](https://www.nar.realtor)** | **[REALTOR® News Intern](https://jobright.ai/jobs/info/6a1776bbf45c6530ce9ad036?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | May 27 |
 | **[Constant Contact](http://www.constantcontact.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a176e63f45c6530ce9aca8f?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | May 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a171e81d6a04f21602e3370?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - Purchasing](https://jobright.ai/jobs/info/69df2947e34484770f1a7ab2?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | May 27 |
 | **[Metro Electric Supply](https://www.metroelectricsupply.com/)** | **[Showroom Intern](https://jobright.ai/jobs/info/69fb210b38179b6f1ae75832?utm_campaign=1051&utm_source=git)** | Brentwood, MO | On Site | May 27 |
-| **[.](https://www.linkedin.com/company/106577046)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a171da65b0a497d52108930?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | May 27 |
-| **[ACR Electronics, Inc.](http://www.acrartex.com)** | **[E-Commerce Support Summer Intern](https://jobright.ai/jobs/info/6a171bd69005d858e94f6135?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | May 27 |
-| **[BMO](http://www.bmo.com)** | **[Partnership Development Internship, Fall 2026 (4 months) Toronto, CA](https://jobright.ai/jobs/info/6a171b73b091c7417c4fae22?utm_campaign=1051&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
