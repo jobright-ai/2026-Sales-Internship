@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f179?utm_campaign=1051&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 27 |
+| ↳ | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f178?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Megapack Business Development, Energy (Summer 2026)](https://jobright.ai/jobs/info/6a17a7ecb091c7417c500720?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
-| **[Tires Easy](http://tires-easy.com/)** | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a7554b0e12c057ffd0?utm_campaign=1051&utm_source=git)** | California | On Site | May 27 |
-| ↳ | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a6554b0e12c057ffcf?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 27 |
+| **[Tires Easy](http://tires-easy.com/)** | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a6554b0e12c057ffcf?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 27 |
+| ↳ | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a7554b0e12c057ffd0?utm_campaign=1051&utm_source=git)** | California | On Site | May 27 |
 | **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a179da95b0a497d5210de7f?utm_campaign=1051&utm_source=git)** | McAllen, TX | On Site | May 27 |
 | ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a179ca01430333075cd2a4f?utm_campaign=1051&utm_source=git)** | Colorado, United States | On Site | May 27 |
 | **[Lyten](http://www.lyten.com)** | **[Intern - Jr. Buyer](https://jobright.ai/jobs/info/6a1790465b0a497d5210dabe?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | May 27 |
@@ -135,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Würth Industry USA](http://wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a170895b091c7417c4f9fef?utm_campaign=1051&utm_source=git)** | Greenwood, Indiana, United States | On Site | May 27 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088eb091c7417c4f9feb?utm_campaign=1051&utm_source=git)** | Roanoke, Virginia, United States | On Site | May 27 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088bb091c7417c4f9fe9?utm_campaign=1051&utm_source=git)** | Sanford, Florida, United States | On Site | May 27 |
-| **[dm drogerie markt Italia](https://www.dm-jobs.it)** | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107843?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
-| ↳ | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107842?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
+| **[dm drogerie markt Italia](https://www.dm-jobs.it)** | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107842?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
+| ↳ | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107843?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
 | **[Building Bridges Across the River](https://bbardc.org/)** | **[Development Intern Position](https://jobright.ai/jobs/info/6a17047ef45c6530ce9a800f?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 27 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a16fe6a5b0a497d52107402?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 27 |
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a16fdad9005d858e94f4c48?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a16ca6a5b0a497d52105fe7?utm_campaign=1051&utm_source=git)** | Chatham-Kent, Ontario, Canada | On Site | May 27 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Sales Specialist Intern (Bilingual in Mandarin)](https://jobright.ai/jobs/info/6a168c5e202ae849ed8d3ed3?utm_campaign=1051&utm_source=git)** | United States | Remote | May 26 |
 | **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Spain](https://jobright.ai/jobs/info/6a167559554b0e12c058c6d1?utm_campaign=1051&utm_source=git)** | United States | Remote | May 26 |
-| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a166a82202ae849ed8d2e61?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | May 26 |
-| ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a1669a1a429fd279da98390?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
