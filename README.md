@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbf65d76c60e7b70af1086?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | May 28 |
+| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern- Portland, ME](https://jobright.ai/jobs/info/6954d770f1f8465b79ec06d3?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | May 28 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Intern - Fire](https://jobright.ai/jobs/info/6a184e6617492d3a389b40d0?utm_campaign=1051&utm_source=git)** | Cranberry Township-Pennsylvania-United States of America, US | On Site | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Analyst, New Markets (Fall 2026)](https://jobright.ai/jobs/info/6a18478b54a441713ae81f44?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 28 |
 | **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative Intern Sales - USA](https://jobright.ai/jobs/info/69fc9f5d432a3c4da8dfde85?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 28 |
@@ -88,8 +90,6 @@ For a complete list, click the following sortable link below:
 | **[ING Americas](http://www.ingwb.com)** | **[Summer 2027 Internship - Sectors](https://jobright.ai/jobs/info/6a17cab95b0a497d5210f5f5?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | May 27 |
 | ↳ | **[Summer 2027 Internship - Transaction Services](https://jobright.ai/jobs/info/6a17caadb091c7417c5018e6?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | May 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Sales Management Trainee Internship](https://jobright.ai/jobs/info/6a17caabda08264614c90691?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | May 27 |
-| **[Renasant Bank](https://www.renasantbank.com/)** | **[Field Sales Intern](https://jobright.ai/jobs/info/6a17ca465b0a497d5210f5bb?utm_campaign=1051&utm_source=git)** | St. Louis | On Site | May 27 |
-| **[HRchitect](https://www.hrchitect.com/)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a17ca14b091c7417c501864?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 27 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f179?utm_campaign=1051&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 27 |
 | ↳ | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f178?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Megapack Business Development, Energy (Summer 2026)](https://jobright.ai/jobs/info/6a17a7ecb091c7417c500720?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
@@ -129,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Sales Development Representative Intern (Hybrid)](https://jobright.ai/jobs/info/6a173e5e5b0a497d5210a300?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Hybrid | May 27 |
 | **[Carrier Enterprise](https://www.carrierenterprise.com/)** | **[Intern](https://jobright.ai/jobs/info/69fb57ed18b94b2515be1a43?utm_campaign=1051&utm_source=git)** | Carrollton, TX | On Site | May 27 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6a1739149005d858e94f7950?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 27 |
+| **[DrFirst, Inc.](http://drfirst.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a18520554a441713ae8290f?utm_campaign=1051&utm_source=git)** | United States | Remote | May 27 |
 | **[Independent Sector](https://independentsector.org)** | **[2026 Independent Sector Internship Program - Partnership Intern](https://jobright.ai/jobs/info/6a17388b5b0a497d5210a04a?utm_campaign=1051&utm_source=git)** | 1602 L Street Northwest, Washington, DC, USA | On Site | May 27 |
 | **[HubSpot](http://www.hubspot.com)** | **[Creator Partnership Intern](https://jobright.ai/jobs/info/6a1736bfd6a04f21602e460b?utm_campaign=1051&utm_source=git)** | Remote - USA | Remote | May 27 |
 | **[Bot Auto](https://bot.auto/)** | **[MBA&Business Intern](https://jobright.ai/jobs/info/6a1736a4b091c7417c4fc1c4?utm_campaign=1051&utm_source=git)** | Houston Office | On Site | May 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BMO Rewards Program Internship, Fall 2026 (4 months)-Toronto, CA](https://jobright.ai/jobs/info/6a171b651430333075ccd5c5?utm_campaign=1051&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 27 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a171822f45c6530ce9a89af?utm_campaign=1051&utm_source=git)** | Aventura, Florida, United States of America | On Site | May 27 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a171820b091c7417c4fa7f7?utm_campaign=1051&utm_source=git)** | Coral Gables, Florida, United States of America | On Site | May 27 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing Intern, Fall 2026](https://jobright.ai/jobs/info/69fb45ed86d5cd46527d4404?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
