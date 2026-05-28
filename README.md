@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Verbal Beginnings](https://www.verbalbeginnings.com)** | **[Technical Sales Engineer Intern](https://jobright.ai/jobs/info/6a17d4551430333075cd459e?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV | On Site | May 27 |
 | **[FWI (FedWriters, Inc.)](https://www.fedwriters.com)** | **[Technical Sales Engineer Intern](https://jobright.ai/jobs/info/6a17cd34f45c6530ce9afc8b?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV | On Site | May 27 |
 | **[Curtis Lumber Co, Inc.](https://curtislumber.com)** | **[Technical Sales Engineer Intern](https://jobright.ai/jobs/info/6a17cc861430333075cd435e?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV | On Site | May 27 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Global Partnerships Intern / Full-Time / Premium Team (Austin, TX)](https://jobright.ai/jobs/info/6a17cc7f1430333075cd435d?utm_campaign=1051&utm_source=git)** | OVG Austin Office | On Site | May 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/6a1706275b0a497d52107842?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | May 27 |
 | **[Building Bridges Across the River](https://bbardc.org/)** | **[Development Intern Position](https://jobright.ai/jobs/info/6a17047ef45c6530ce9a800f?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 27 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a16fe6a5b0a497d52107402?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 27 |
-| **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a16fdad9005d858e94f4c48?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
