@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DeepChatBI](https://deepchatbi.com/)** | **[BD Intern](https://jobright.ai/jobs/info/6a18065d81f8da15dc7d51e5?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Remote | May 28 |
+| **[IMMIGRANT INVEST](https://immigrantinvest.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a1804303c1a380237ac0a48?utm_campaign=1051&utm_source=git)** | New York | Remote | May 28 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a1804303c1a380237ac0a47?utm_campaign=1051&utm_source=git)** | California | Remote | May 28 |
+| **[Dow](https://www.dowchemical.com)** | **[Diamond Campus Internship-Commercial Sales & Marketing](https://jobright.ai/jobs/info/6a17fa6eac2d34081458a88d?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | May 28 |
+| **[Alumus Healthcare](https://alumus.com/)** | **[Technical Sales Engineer Intern](https://jobright.ai/jobs/info/6a17f77481f8da15dc7d4745?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV | On Site | May 28 |
 | **[Vita Coco](https://www.thevitacococompany.com)** | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a17f691ba12bb0249bb5986?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 28 |
 | ↳ | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a17f68aba12bb0249bb597e?utm_campaign=1051&utm_source=git)** | Remote, United States | Remote | May 28 |
 | **[Alibaba Cloud](https://in.alibabacloud.com)** | **[Sales Intern - Sunnyvale](https://jobright.ai/jobs/info/6a17e70a81f8da15dc7d4213?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | May 27 |
@@ -79,10 +84,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Sales Intern](https://jobright.ai/jobs/info/6a17ca455b0a497d5210f5ba?utm_campaign=1051&utm_source=git)** | St. Louis, MO, US | On Site | May 27 |
 | **[HRchitect](https://www.hrchitect.com/)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a17ca14b091c7417c501864?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 27 |
 | ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a17ca11da08264614c90628?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 27 |
-| ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a17ca0dda08264614c90625?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 27 |
 | ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a17ca0db091c7417c501860?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 27 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f179?utm_campaign=1051&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 27 |
-| ↳ | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f178?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 27 |
+| ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a17ca0dda08264614c90625?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 27 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f178?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 27 |
+| ↳ | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f179?utm_campaign=1051&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Megapack Business Development, Energy (Summer 2026)](https://jobright.ai/jobs/info/6a17a7ecb091c7417c500720?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | **[Tires Easy](http://tires-easy.com/)** | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a6554b0e12c057ffcf?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 27 |
 | ↳ | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a7554b0e12c057ffd0?utm_campaign=1051&utm_source=git)** | California | On Site | May 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a171820b091c7417c4fa7f7?utm_campaign=1051&utm_source=git)** | Coral Gables, Florida, United States of America | On Site | May 27 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing Intern, Fall 2026](https://jobright.ai/jobs/info/69fb45ed86d5cd46527d4404?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | On Site | May 27 |
 | **[Markato](https://wearemarkato.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a146a13554b0e12c057f0d6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | May 27 |
-| **[Aflac](http://www.aflac.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a170dc45b0a497d52107bc1?utm_campaign=1051&utm_source=git)** | DC-Baltimore Area | Hybrid | May 27 |
-| **[ING Hubs Poland](https://ingtechpoland.com)** | **[Summer 2027 Internship - Sectors](https://jobright.ai/jobs/info/6a170bca9005d858e94f53f8?utm_campaign=1051&utm_source=git)** | New York, US | Hybrid | May 27 |
-| ↳ | **[Summer 2027 Internship - Transaction Services](https://jobright.ai/jobs/info/6a170bb8b091c7417c4fa187?utm_campaign=1051&utm_source=git)** | New York, US | Hybrid | May 27 |
-| **[DrFirst, Inc.](http://drfirst.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/6a170a685b0a497d52107a13?utm_campaign=1051&utm_source=git)** | US- | Remote | May 27 |
-| ↳ | **[Intern, Sales Operations](https://jobright.ai/jobs/info/6a170a655b0a497d52107a10?utm_campaign=1051&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
