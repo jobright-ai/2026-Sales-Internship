@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vita Coco](https://www.thevitacococompany.com)** | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a17f691ba12bb0249bb5986?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 28 |
+| ↳ | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a17f68aba12bb0249bb597e?utm_campaign=1051&utm_source=git)** | Remote, United States | Remote | May 28 |
 | **[Alibaba Cloud](https://in.alibabacloud.com)** | **[Sales Intern - Sunnyvale](https://jobright.ai/jobs/info/6a17e70a81f8da15dc7d4213?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | May 27 |
 | **[Kaizen Automotive Group](https://www.kaizenauto.com)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a17e66581f8da15dc7d41f2?utm_campaign=1051&utm_source=git)** | West Conshohocken, PA, US | On Site | May 27 |
 | ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a17e66081f8da15dc7d41eb?utm_campaign=1051&utm_source=git)** | US-PA-West Conshohocken | On Site | May 27 |
@@ -79,11 +81,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a17ca11da08264614c90628?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 27 |
 | ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a17ca0dda08264614c90625?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 27 |
 | ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a17ca0db091c7417c501860?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 27 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f178?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 27 |
-| ↳ | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f179?utm_campaign=1051&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 27 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f179?utm_campaign=1051&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 27 |
+| ↳ | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f178?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Megapack Business Development, Energy (Summer 2026)](https://jobright.ai/jobs/info/6a17a7ecb091c7417c500720?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
-| **[Tires Easy](http://tires-easy.com/)** | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a7554b0e12c057ffd0?utm_campaign=1051&utm_source=git)** | California | On Site | May 27 |
-| ↳ | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a6554b0e12c057ffcf?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 27 |
+| **[Tires Easy](http://tires-easy.com/)** | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a6554b0e12c057ffcf?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 27 |
+| ↳ | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a7554b0e12c057ffd0?utm_campaign=1051&utm_source=git)** | California | On Site | May 27 |
 | **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a179da95b0a497d5210de7f?utm_campaign=1051&utm_source=git)** | McAllen, TX | On Site | May 27 |
 | ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a179ca01430333075cd2a4f?utm_campaign=1051&utm_source=git)** | Colorado, United States | On Site | May 27 |
 | **[Lyten](http://www.lyten.com)** | **[Intern - Jr. Buyer](https://jobright.ai/jobs/info/6a1790465b0a497d5210dabe?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | May 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Internship - Transaction Services](https://jobright.ai/jobs/info/6a170bb8b091c7417c4fa187?utm_campaign=1051&utm_source=git)** | New York, US | Hybrid | May 27 |
 | **[DrFirst, Inc.](http://drfirst.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/6a170a685b0a497d52107a13?utm_campaign=1051&utm_source=git)** | US- | Remote | May 27 |
 | ↳ | **[Intern, Sales Operations](https://jobright.ai/jobs/info/6a170a655b0a497d52107a10?utm_campaign=1051&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 27 |
-| **[Würth Industry USA](http://wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a170895b091c7417c4f9fef?utm_campaign=1051&utm_source=git)** | Greenwood, Indiana, United States | On Site | May 27 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088eb091c7417c4f9feb?utm_campaign=1051&utm_source=git)** | Roanoke, Virginia, United States | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
