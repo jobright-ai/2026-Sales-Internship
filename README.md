@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | May 29 |
+| **[Stephen Gould](https://www.stephengould.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a1996afe24ef3652582592b?utm_campaign=1051&utm_source=git)** | Madison, NJ, US | On Site | May 29 |
+| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Chattanooga, TN](https://jobright.ai/jobs/info/6954d8b0463e8c6081333e04?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | May 29 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a198dcce24ef36525825689?utm_campaign=1051&utm_source=git)** | US-TX-Dallas | On Site | May 29 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a198dbbe24ef36525825685?utm_campaign=1051&utm_source=git)** | Dallas, TX, US | On Site | May 29 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | May 29 |
-| **[Airgas](http://airgas.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69fbefae3160b250eb1ba8b2?utm_campaign=1051&utm_source=git)** | Kansas City, KS, US | On Site | May 29 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69fbf00776c60e7b70af0e31?utm_campaign=1051&utm_source=git)** | Wichita, KS - West - Retail shop, US | Remote | May 29 |
+| **[Airgas](http://airgas.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69fbf00776c60e7b70af0e31?utm_campaign=1051&utm_source=git)** | Wichita, KS - West - Retail shop, US | Remote | May 29 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69fbefae3160b250eb1ba8b2?utm_campaign=1051&utm_source=git)** | Kansas City, KS, US | On Site | May 29 |
 | **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Sales Intern](https://jobright.ai/jobs/info/6a1970d39111f771d1a0603c?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | May 29 |
 | **[Legends Global](http://legends.net)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a196f819111f771d1a0602a?utm_campaign=1051&utm_source=git)** | Hagerstown, MD | On Site | May 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Luxury Resale Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e1ff49d612782e6114df45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
@@ -70,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Team Success Management Intern](https://jobright.ai/jobs/info/6a1955049111f771d1a05979?utm_campaign=1051&utm_source=git)** | Orlando, Florida | On Site | May 29 |
 | **[SHOPLINE](http://www.shoplineapp.com)** | **[Partnerships Intern](https://jobright.ai/jobs/info/69cc8bd8cfdc6132f940fb03?utm_campaign=1051&utm_source=git)** | Pasadena, CA | Remote | May 29 |
 | **[Amca](https://amca.co)** | **[Business Operations Internship](https://jobright.ai/jobs/info/6a194ccb35b73c4d92f32398?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 29 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | May 29 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | May 29 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | May 29 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | May 29 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | May 29 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a193865dbc80963f934ac86?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 28 |
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a194b6635b73c4d92f32209?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a185cc054a441713ae83962?utm_campaign=1051&utm_source=git)** | Boca Raton, Florida, United States of America | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c9cabc8f63abac77a8e?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States of America | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c996243320e8d1637bf?utm_campaign=1051&utm_source=git)** | Tampa, Florida, United States of America | On Site | May 28 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c9017492d3a389b5400?utm_campaign=1051&utm_source=git)** | La Plata, Maryland, United States of America | On Site | May 28 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dc?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
