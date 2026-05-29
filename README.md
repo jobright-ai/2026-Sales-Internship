@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Airgas](http://airgas.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69fbf00776c60e7b70af0e31?utm_campaign=1051&utm_source=git)** | Wichita, KS - West - Retail shop, US | Remote | May 29 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69fbefae3160b250eb1ba8b2?utm_campaign=1051&utm_source=git)** | Kansas City, KS, US | On Site | May 29 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | May 29 |
+| **[Airgas](http://airgas.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69fbefae3160b250eb1ba8b2?utm_campaign=1051&utm_source=git)** | Kansas City, KS, US | On Site | May 29 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69fbf00776c60e7b70af0e31?utm_campaign=1051&utm_source=git)** | Wichita, KS - West - Retail shop, US | Remote | May 29 |
 | **[WDIV/ClickOnDetroit/Graham Digital](http://clickondetroit.com)** | **[WDIV-TV (Local 4) Sales Intern](https://jobright.ai/jobs/info/6a1970d39111f771d1a0603c?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | May 29 |
 | **[Legends Global](http://legends.net)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a196f819111f771d1a0602a?utm_campaign=1051&utm_source=git)** | Hagerstown, MD | On Site | May 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Luxury Resale Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e1ff49d612782e6114df45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c9cabc8f63abac77a8e?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States of America | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c996243320e8d1637bf?utm_campaign=1051&utm_source=git)** | Tampa, Florida, United States of America | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c9017492d3a389b5400?utm_campaign=1051&utm_source=git)** | La Plata, Maryland, United States of America | On Site | May 28 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 28 |
-| ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dc?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 28 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dc?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 28 |
+| ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 28 |
 | ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c72dbc80963f9342f33?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 28 |
-| **[DrFirst, Inc.](http://drfirst.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379f?utm_campaign=1051&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
