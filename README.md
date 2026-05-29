@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Internship](https://jobright.ai/jobs/info/6a19b633547e292ae1393ee6?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | May 29 |
+| **[Kering Eyewear](https://www.keringeyewear.com)** | **[KERING EYEWEAR Demand Planning Intern](https://jobright.ai/jobs/info/6a19b42a6b135014dbc85428?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | On Site | May 29 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | May 29 |
 | **[Revvity](https://www.revvity.com/)** | **[Corporate Development Summer Intern](https://jobright.ai/jobs/info/6a19ac492b206f3955eaf83c?utm_campaign=1051&utm_source=git)** | Waltham, US | On Site | May 29 |
 | **[Argano](https://argano.com/)** | **[Intern - M&A](https://jobright.ai/jobs/info/6a19a450c2a87d6cd3dfa369?utm_campaign=1051&utm_source=git)** | United States | Remote | May 29 |
 | **[Cresta](https://www.cresta.com)** | **[Conversation Design Intern (Customer Success)](https://jobright.ai/jobs/info/6a0fa05272b52f7225f3f5e0?utm_campaign=1051&utm_source=git)** | United States | Remote | May 29 |
 | **[barrière](https://www.mybarriere.com/)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/6a199f80e24ef36525825e8c?utm_campaign=1051&utm_source=git)** | United States | Remote | May 29 |
 | **[Anytime Fitness](http://anytimefitness.com)** | **[Paid Internship- Anytime Fitness (Framingham)](https://jobright.ai/jobs/info/6a199ebee24ef36525825c62?utm_campaign=1051&utm_source=git)** | Framingham, MA | On Site | May 29 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | May 29 |
 | **[Stephen Gould](https://www.stephengould.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a1996afe24ef3652582592b?utm_campaign=1051&utm_source=git)** | Madison, NJ, US | On Site | May 29 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Chattanooga, TN](https://jobright.ai/jobs/info/6954d8b0463e8c6081333e04?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | May 29 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a198dcce24ef36525825689?utm_campaign=1051&utm_source=git)** | US-TX-Dallas | On Site | May 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a18608f6243320e8d163a95?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | May 28 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[50/50 Raffle Game Day Intern](https://jobright.ai/jobs/info/6a185fb0c2a87d6cd3df04b1?utm_campaign=1051&utm_source=git)** | 500 S Capitol Ave, Indianapolis, IN 46225, USA | On Site | May 28 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a185cdcc2a87d6cd3df02da?utm_campaign=1051&utm_source=git)** | Chapel Hill, North Carolina, United States of America | On Site | May 28 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a185cc054a441713ae83962?utm_campaign=1051&utm_source=git)** | Boca Raton, Florida, United States of America | On Site | May 28 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c9cabc8f63abac77a8e?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States of America | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
