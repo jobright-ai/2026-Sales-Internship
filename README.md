@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMMIGRANT INVEST](https://immigrantinvest.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a19016d6243320e8d169c25?utm_campaign=1051&utm_source=git)** | New York | Remote | May 28 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a18fa5d6243320e8d16995d?utm_campaign=1051&utm_source=git)** | California | Remote | May 28 |
 | **[HarbisonWalker International](http://www.thinkHWI.com)** | **[Commercial Excellence & Finance Intern](https://jobright.ai/jobs/info/6a18f70017492d3a389bb2e1?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | May 28 |
 | **[Nextech Systems](http://www.nextech.com)** | **[Sales  Intern ( Summer 2026 Internship) -  Remote United States](https://jobright.ai/jobs/info/6a18f6d36243320e8d169607?utm_campaign=1051&utm_source=git)** | United States | Remote | May 28 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a18f5bdabc8f63abac7d82c?utm_campaign=1051&utm_source=git)** | State College, PA | On Site | May 28 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c9cabc8f63abac77a8e?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States of America | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c996243320e8d1637bf?utm_campaign=1051&utm_source=git)** | Tampa, Florida, United States of America | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c9017492d3a389b5400?utm_campaign=1051&utm_source=git)** | La Plata, Maryland, United States of America | On Site | May 28 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dc?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 28 |
-| ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 28 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 28 |
+| ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dc?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 28 |
 | ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c72dbc80963f9342f33?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 28 |
 | **[DrFirst, Inc.](http://drfirst.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/6a185c4a54a441713ae837a0?utm_campaign=1051&utm_source=git)** | US- | Remote | May 28 |
 | ↳ | **[Intern, Sales Operations](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379f?utm_campaign=1051&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Development Representative (intern)](https://jobright.ai/jobs/info/69f529880b36ff0354750cd6?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Hybrid | May 28 |
 | ↳ | **[Sales Development Representative (intern)](https://jobright.ai/jobs/info/69f5297781706a5bd2165110?utm_campaign=1051&utm_source=git)** | New Jersey, United States | Hybrid | May 28 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[Partnership Marketing - Game Day Intern](https://jobright.ai/jobs/info/6a1840c2dbc80963f934155e?utm_campaign=1051&utm_source=git)** | 500 S Capitol Ave, Indianapolis, IN 46225, USA | On Site | May 28 |
-| **[Harmonic](http://harmonicinc.com)** | **[Sales Operation Intern](https://jobright.ai/jobs/info/69e00a96aba61f141731f39f?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | May 28 |
-| **[Electro](electrogum.com)** | **[Influencer Partnerships Intern](https://jobright.ai/jobs/info/6a1839c6abc8f63abac75ee5?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
