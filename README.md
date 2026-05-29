@@ -57,20 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a19ca7c2b206f3955eb09f7?utm_campaign=1051&utm_source=git)** | The Courtland Grand - Atlanta, GA, US | On Site | May 29 |
+| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1600a50073182bd92af261?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 29 |
+| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1600a3554b0e12c0588468?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 29 |
+| ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a15c8f3554b0e12c0585eea?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | May 29 |
+| **[Amrize](https://www.amrize.com)** | **[Geocycle Market and Sales Intern](https://jobright.ai/jobs/info/6a19c58fe24ef3652582766f?utm_campaign=1051&utm_source=git)** | Mississauga, ON, CA, L4V 1S7 | On Site | May 29 |
+| **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a19e94dc2a87d6cd3dfc569?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | May 29 |
 | **[Dyson Corporation](https://www.dysoncorp.com/)** | **[Summer Internship - Sales Department (Remote – Greater Atlanta Area)](https://jobright.ai/jobs/info/6a19d94a547e292ae1395524?utm_campaign=1051&utm_source=git)** | Remote - PAINESVILLE, OH | Remote | May 29 |
 | **[Alarm Guard Security Services](https://alarmguardsecurity.ca)** | **[Sales & Marketing Internship Opportunity](https://jobright.ai/jobs/info/6a19ce3d2b206f3955eb0af3?utm_campaign=1051&utm_source=git)** | North York, ON | On Site | May 29 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a19cb9f6b135014dbc8640f?utm_campaign=1051&utm_source=git)** | Minnesota, United States | Remote | May 29 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a19cb769111f771d1a08710?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | May 29 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a19ca7c2b206f3955eb09f7?utm_campaign=1051&utm_source=git)** | The Courtland Grand - Atlanta, GA, US | On Site | May 29 |
-| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a19c92f2b206f3955eb0999?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | May 29 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a19c92f2b206f3955eb0999?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | May 29 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a19c81a2b206f3955eb092c?utm_campaign=1051&utm_source=git)** | Nevada, United States | Remote | May 29 |
-| **[Amrize](https://www.amrize.com)** | **[Geocycle Market and Sales Intern](https://jobright.ai/jobs/info/6a19c58fe24ef3652582766f?utm_campaign=1051&utm_source=git)** | Mississauga, ON, CA, L4V 1S7 | On Site | May 29 |
+| **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Sales Coordination - August 2026](https://jobright.ai/jobs/info/6a19ee08c2a87d6cd3dfc64a?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 29 |
 | **[FAMU National Alumni Association](http://famunaa.org)** | **[SALES INTERN](https://jobright.ai/jobs/info/6a19c22bc2a87d6cd3dfb4c6?utm_campaign=1051&utm_source=git)** | Ramsey, MN | On Site | May 29 |
 | **[Spinaux, Inc](https://spinaux.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a19c0da2b206f3955eb0607?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | May 29 |
 | **[Beagle](www.beagleforpm.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/6a19bee46b135014dbc85e7f?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | May 29 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | May 29 |
 | **[Argano](https://argano.com/)** | **[Intern - M&A](https://jobright.ai/jobs/info/6a19a450c2a87d6cd3dfa369?utm_campaign=1051&utm_source=git)** | United States | Remote | May 29 |
-| **[Printemps New York](https://us.printemps.com/)** | **[Inventory & Merchandising Intern](https://jobright.ai/jobs/info/6a19b9b3c2a87d6cd3dfaaeb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 29 |
 | **[The Michael J. Fox Foundation for Parkinson's Research](http://www.michaeljfox.org)** | **[Research Alliances Intern (Corporate Sponsorships)](https://jobright.ai/jobs/info/6a19b9669111f771d1a07a3d?utm_campaign=1051&utm_source=git)** | United States | Remote | May 29 |
 | ↳ | **[Research Alliances Intern (Corporate Sponsorships)](https://jobright.ai/jobs/info/6a19b9639111f771d1a07a39?utm_campaign=1051&utm_source=git)** | United States | Remote | May 29 |
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[Business Development & Research Intern](https://jobright.ai/jobs/info/6a19b9602b206f3955eafd3e?utm_campaign=1051&utm_source=git)** | McLean, VA 22102 US (Primary) | On Site | May 29 |
@@ -93,9 +97,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Team Success Management Intern](https://jobright.ai/jobs/info/6a1955049111f771d1a05979?utm_campaign=1051&utm_source=git)** | Orlando, Florida | On Site | May 29 |
 | **[SHOPLINE](http://www.shoplineapp.com)** | **[Partnerships Intern](https://jobright.ai/jobs/info/69cc8bd8cfdc6132f940fb03?utm_campaign=1051&utm_source=git)** | Pasadena, CA | Remote | May 29 |
 | **[Amca](https://amca.co)** | **[Business Operations Internship](https://jobright.ai/jobs/info/6a194ccb35b73c4d92f32398?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 29 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | May 29 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | May 29 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | May 29 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | May 29 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | May 29 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a193865dbc80963f934ac86?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 28 |
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a194b6635b73c4d92f32209?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 28 |
 | ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a194b3d35b73c4d92f321d4?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6a188b8417492d3a389b764e?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | May 28 |
 | **[Agilent Technologies](http://www.agilent.com)** | **[Intern – Predictive Sales Prospecting](https://jobright.ai/jobs/info/6a186e8417492d3a389b6281?utm_campaign=1051&utm_source=git)** | US-DE-Wilmington, US | On Site | May 28 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/6a186c5cabc8f63abac787c5?utm_campaign=1051&utm_source=git)** | Manchester, NH | Remote | May 28 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a186b8154a441713ae844d0?utm_campaign=1051&utm_source=git)** | Salem, VA | Remote | May 28 |
-| **[NAI NorCal](http://www.nainorcal.com)** | **[NAI NorCal - Commercial Real Estate - DoD Skillbridge Internship](https://jobright.ai/jobs/info/6a186a0a6243320e8d1640be?utm_campaign=1051&utm_source=git)** | San Jose | Hybrid | May 28 |
-| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/6a1869a9c2a87d6cd3df0b2f?utm_campaign=1051&utm_source=git)** | Fargo, ND | Remote | May 28 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a18692917492d3a389b5a52?utm_campaign=1051&utm_source=git)** | Vancouver, WA | Remote | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
