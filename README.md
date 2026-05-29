@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IMMIGRANT INVEST](https://immigrantinvest.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a192b9bdbc80963f934a1f5?utm_campaign=1051&utm_source=git)** | New York | Remote | May 28 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a193865dbc80963f934ac86?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 28 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a191d0317492d3a389bc42e?utm_campaign=1051&utm_source=git)** | United States | Remote | May 28 |
 | ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a191cbf17492d3a389bc429?utm_campaign=1051&utm_source=git)** | United States | Remote | May 28 |
 | **[Independent Sector](https://independentsector.org)** | **[Partnerships  Intern  2026 Independent Sector Internship Program](https://jobright.ai/jobs/info/6a1917426243320e8d16a4a3?utm_campaign=1051&utm_source=git)** | 1602 L Street Northwest, Washington, DC, USA | On Site | May 28 |
@@ -119,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/6a1869a9c2a87d6cd3df0b2f?utm_campaign=1051&utm_source=git)** | Fargo, ND | Remote | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a18692917492d3a389b5a52?utm_campaign=1051&utm_source=git)** | Vancouver, WA | Remote | May 28 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a1868a4abc8f63abac77fe5?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | May 28 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a193b3babc8f63abac7f9c4?utm_campaign=1051&utm_source=git)** | Montgomery, AL | On Site | May 28 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a18f44454a441713ae894bd?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | May 28 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/6a186744abc8f63abac77f57?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | Remote | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a186724abc8f63abac77f44?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Remote | May 28 |
@@ -137,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c9cabc8f63abac77a8e?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States of America | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c996243320e8d1637bf?utm_campaign=1051&utm_source=git)** | Tampa, Florida, United States of America | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c9017492d3a389b5400?utm_campaign=1051&utm_source=git)** | La Plata, Maryland, United States of America | On Site | May 28 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 28 |
-| ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dc?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 28 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dc?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 28 |
+| ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 28 |
 | ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c72dbc80963f9342f33?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 28 |
 | **[DrFirst, Inc.](http://drfirst.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379f?utm_campaign=1051&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 28 |
 | ↳ | **[Intern, Sales Operations](https://jobright.ai/jobs/info/6a185c4a54a441713ae837a0?utm_campaign=1051&utm_source=git)** | US- | Remote | May 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a188048c2a87d6cd3df1b99?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | On Site | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Analyst, New Markets (Fall 2026)](https://jobright.ai/jobs/info/6a18478b54a441713ae81f44?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 28 |
 | **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative Intern Sales - USA](https://jobright.ai/jobs/info/69fc9f5d432a3c4da8dfde85?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 28 |
-| **[HotTakes](hottakes.com)** | **[Sales Development Representative (intern)](https://jobright.ai/jobs/info/69f5297881706a5bd2165111?utm_campaign=1051&utm_source=git)** | Michigan, United States | Hybrid | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
