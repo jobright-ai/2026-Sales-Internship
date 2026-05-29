@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | May 29 |
+| ↳ | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | May 29 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | May 29 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | May 29 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | May 29 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a19ca7c2b206f3955eb09f7?utm_campaign=1051&utm_source=git)** | The Courtland Grand - Atlanta, GA, US | On Site | May 29 |
 | **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1600a50073182bd92af261?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 29 |
-| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1600a3554b0e12c0588468?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 29 |
 | ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a15c8f3554b0e12c0585eea?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | May 29 |
+| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1600a3554b0e12c0588468?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 29 |
 | **[Amrize](https://www.amrize.com)** | **[Geocycle Market and Sales Intern](https://jobright.ai/jobs/info/6a19c58fe24ef3652582766f?utm_campaign=1051&utm_source=git)** | Mississauga, ON, CA, L4V 1S7 | On Site | May 29 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a19e94dc2a87d6cd3dfc569?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | May 29 |
 | **[Dyson Corporation](https://www.dysoncorp.com/)** | **[Summer Internship - Sales Department (Remote – Greater Atlanta Area)](https://jobright.ai/jobs/info/6a19d94a547e292ae1395524?utm_campaign=1051&utm_source=git)** | Remote - PAINESVILLE, OH | Remote | May 29 |
@@ -97,16 +102,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Team Success Management Intern](https://jobright.ai/jobs/info/6a1955049111f771d1a05979?utm_campaign=1051&utm_source=git)** | Orlando, Florida | On Site | May 29 |
 | **[SHOPLINE](http://www.shoplineapp.com)** | **[Partnerships Intern](https://jobright.ai/jobs/info/69cc8bd8cfdc6132f940fb03?utm_campaign=1051&utm_source=git)** | Pasadena, CA | Remote | May 29 |
 | **[Amca](https://amca.co)** | **[Business Operations Internship](https://jobright.ai/jobs/info/6a194ccb35b73c4d92f32398?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 29 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | May 29 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | May 29 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | May 29 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a193865dbc80963f934ac86?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 28 |
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a194b6635b73c4d92f32209?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 28 |
 | ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a194b3d35b73c4d92f321d4?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 28 |
 | ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a191d0317492d3a389bc42e?utm_campaign=1051&utm_source=git)** | United States | Remote | May 28 |
 | ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a191cbf17492d3a389bc429?utm_campaign=1051&utm_source=git)** | United States | Remote | May 28 |
-| **[Independent Sector](https://independentsector.org)** | **[Partnerships  Intern  2026 Independent Sector Internship Program](https://jobright.ai/jobs/info/6a1917426243320e8d16a4a3?utm_campaign=1051&utm_source=git)** | 1602 L Street Northwest, Washington, DC, USA | On Site | May 28 |
-| **[Cruze](https://cruzemaps.com/)** | **[Growth and Sales Intern](https://jobright.ai/jobs/info/6a190d506243320e8d169eee?utm_campaign=1051&utm_source=git)** | United States | Remote | May 28 |
 | **[BMO](http://www.bmo.com)** | **[Portfolio Management Internship, Fall 2026 (4 months)- Toronto, CA](https://jobright.ai/jobs/info/6a190b38abc8f63abac7e31a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 28 |
 | **[HarbisonWalker International](http://www.thinkHWI.com)** | **[Commercial Excellence & Finance Intern](https://jobright.ai/jobs/info/6a18afb0dbc80963f93469b6?utm_campaign=1051&utm_source=git)** | 2000 Park Lane Drive, Pittsburgh, PA, 15275, US | On Site | May 28 |
 | ↳ | **[Commercial Excellence & Finance Intern](https://jobright.ai/jobs/info/6a18f70017492d3a389bb2e1?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | May 28 |
