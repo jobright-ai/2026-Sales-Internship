@@ -135,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Gigamon](http://www.gigamon.com)** | **[Sales Operations Intern - Santa Clara, CA - Hybrid](https://jobright.ai/jobs/info/69fbeedc3160b250eb1ba43d?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | Hybrid | May 28 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop e-Commerce Strategic Specialist Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c3218c753c101b2156b4b4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
 | **[DeepChatBI](https://deepchatbi.com/)** | **[BD Intern](https://jobright.ai/jobs/info/6a18065d81f8da15dc7d51e5?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Remote | May 28 |
-| **[IMMIGRANT INVEST](https://immigrantinvest.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a1804303c1a380237ac0a48?utm_campaign=1051&utm_source=git)** | New York | Remote | May 28 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a1804303c1a380237ac0a47?utm_campaign=1051&utm_source=git)** | California | Remote | May 28 |
+| **[IMMIGRANT INVEST](https://immigrantinvest.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a1804303c1a380237ac0a47?utm_campaign=1051&utm_source=git)** | California | Remote | May 28 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a1804303c1a380237ac0a48?utm_campaign=1051&utm_source=git)** | New York | Remote | May 28 |
 | **[Alumus Healthcare](https://alumus.com/)** | **[Technical Sales Engineer Intern](https://jobright.ai/jobs/info/6a18813cdbc80963f9344850?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV | On Site | May 28 |
 | **[Dow](https://www.dowchemical.com)** | **[Diamond Campus Internship-Commercial Sales & Marketing](https://jobright.ai/jobs/info/6a17fa6eac2d34081458a88d?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | May 28 |
 | **[Vita Coco](https://www.thevitacococompany.com)** | **[Retail Sales Specialist (Summer Internship - North/South Shore, Mass)](https://jobright.ai/jobs/info/6a17f691ba12bb0249bb5986?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 28 |
@@ -152,8 +152,8 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f178?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 27 |
 | ↳ | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6a17c2655b0a497d5210f179?utm_campaign=1051&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Megapack Business Development, Energy (Summer 2026)](https://jobright.ai/jobs/info/6a17a7ecb091c7417c500720?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
-| **[Tires Easy](http://tires-easy.com/)** | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a7554b0e12c057ffd0?utm_campaign=1051&utm_source=git)** | California | On Site | May 27 |
-| ↳ | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a6554b0e12c057ffcf?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 27 |
+| **[Tires Easy](http://tires-easy.com/)** | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a6554b0e12c057ffcf?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 27 |
+| ↳ | **[Private Equity / Search Fund Acquisition Intern](https://jobright.ai/jobs/info/6a14c7a7554b0e12c057ffd0?utm_campaign=1051&utm_source=git)** | California | On Site | May 27 |
 | **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a179da95b0a497d5210de7f?utm_campaign=1051&utm_source=git)** | McAllen, TX | On Site | May 27 |
 | ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a179ca01430333075cd2a4f?utm_campaign=1051&utm_source=git)** | Colorado, United States | On Site | May 27 |
 | **[Lyten](http://www.lyten.com)** | **[Intern - Jr. Buyer](https://jobright.ai/jobs/info/6a1790465b0a497d5210dabe?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | May 27 |
