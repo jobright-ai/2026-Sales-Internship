@@ -148,11 +148,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c9cabc8f63abac77a8e?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States of America | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c996243320e8d1637bf?utm_campaign=1051&utm_source=git)** | Tampa, Florida, United States of America | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a185c9017492d3a389b5400?utm_campaign=1051&utm_source=git)** | La Plata, Maryland, United States of America | On Site | May 28 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dc?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 28 |
-| ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 28 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | May 28 |
+| ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01dc?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 28 |
 | ↳ | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a185c72dbc80963f9342f33?utm_campaign=1051&utm_source=git)** | US-CA-Los Angeles | On Site | May 28 |
-| **[DrFirst, Inc.](http://drfirst.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/6a185c4a54a441713ae837a0?utm_campaign=1051&utm_source=git)** | US- | Remote | May 28 |
-| ↳ | **[Intern, Sales Operations](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379f?utm_campaign=1051&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 28 |
+| **[DrFirst, Inc.](http://drfirst.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379f?utm_campaign=1051&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 28 |
+| ↳ | **[Intern, Sales Operations](https://jobright.ai/jobs/info/6a185c4a54a441713ae837a0?utm_campaign=1051&utm_source=git)** | US- | Remote | May 28 |
 | **[HERE Technologies](https://www.here.com)** | **[Sales & Customer Intern](https://jobright.ai/jobs/info/6a185c4917492d3a389b522c?utm_campaign=1051&utm_source=git)** | Chicago, IL, US | Hybrid | May 28 |
 | **[Univar Solutions](https://www.univarsolutions.com)** | **[Technical Sales Specialist (Intern)](https://jobright.ai/jobs/info/69fbfbe6a5949019c55b2482?utm_campaign=1051&utm_source=git)** | Edmonton, Alberta, Canada | On Site | May 28 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a185b5e54a441713ae8344e?utm_campaign=1051&utm_source=git)** | US-TN-Nashville | On Site | May 28 |
