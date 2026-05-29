@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dyson Corporation](https://www.dysoncorp.com/)** | **[Summer Internship - Sales Department (Remote – Greater Atlanta Area)](https://jobright.ai/jobs/info/6a19d94a547e292ae1395524?utm_campaign=1051&utm_source=git)** | Remote - PAINESVILLE, OH | Remote | May 29 |
 | **[Alarm Guard Security Services](https://alarmguardsecurity.ca)** | **[Sales & Marketing Internship Opportunity](https://jobright.ai/jobs/info/6a19ce3d2b206f3955eb0af3?utm_campaign=1051&utm_source=git)** | North York, ON | On Site | May 29 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a19cb9f6b135014dbc8640f?utm_campaign=1051&utm_source=git)** | Minnesota, United States | Remote | May 29 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a19cb769111f771d1a08710?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | May 29 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Beagle](www.beagleforpm.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/6a19bee46b135014dbc85e7f?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | May 29 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | May 29 |
 | **[Argano](https://argano.com/)** | **[Intern - M&A](https://jobright.ai/jobs/info/6a19a450c2a87d6cd3dfa369?utm_campaign=1051&utm_source=git)** | United States | Remote | May 29 |
-| **[POLITICO](http://www.politico.com)** | **[Intern](https://jobright.ai/jobs/info/6a19ba969111f771d1a07b35?utm_campaign=1051&utm_source=git)** | Arlington, VA, US | On Site | May 29 |
 | **[Printemps New York](https://us.printemps.com/)** | **[Inventory & Merchandising Intern](https://jobright.ai/jobs/info/6a19b9b3c2a87d6cd3dfaaeb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 29 |
 | **[The Michael J. Fox Foundation for Parkinson's Research](http://www.michaeljfox.org)** | **[Research Alliances Intern (Corporate Sponsorships)](https://jobright.ai/jobs/info/6a19b9669111f771d1a07a3d?utm_campaign=1051&utm_source=git)** | United States | Remote | May 29 |
 | ↳ | **[Research Alliances Intern (Corporate Sponsorships)](https://jobright.ai/jobs/info/6a19b9639111f771d1a07a39?utm_campaign=1051&utm_source=git)** | United States | Remote | May 29 |
@@ -93,9 +93,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Team Success Management Intern](https://jobright.ai/jobs/info/6a1955049111f771d1a05979?utm_campaign=1051&utm_source=git)** | Orlando, Florida | On Site | May 29 |
 | **[SHOPLINE](http://www.shoplineapp.com)** | **[Partnerships Intern](https://jobright.ai/jobs/info/69cc8bd8cfdc6132f940fb03?utm_campaign=1051&utm_source=git)** | Pasadena, CA | Remote | May 29 |
 | **[Amca](https://amca.co)** | **[Business Operations Internship](https://jobright.ai/jobs/info/6a194ccb35b73c4d92f32398?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | May 29 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | May 29 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | May 29 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | May 29 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | May 29 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | May 29 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a193865dbc80963f934ac86?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | May 28 |
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a194b6635b73c4d92f32209?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 28 |
 | ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a194b3d35b73c4d92f321d4?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 28 |
