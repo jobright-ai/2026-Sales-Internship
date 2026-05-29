@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IMMIGRANT INVEST](https://immigrantinvest.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a190f606243320e8d169f93?utm_campaign=1051&utm_source=git)** | California | Remote | May 28 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a190f606243320e8d169f92?utm_campaign=1051&utm_source=git)** | New York | Remote | May 28 |
+| **[IMMIGRANT INVEST](https://immigrantinvest.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a19246c6243320e8d16a86d?utm_campaign=1051&utm_source=git)** | California | Remote | May 28 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a19246c6243320e8d16a86e?utm_campaign=1051&utm_source=git)** | New York | Remote | May 28 |
+| **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a191d0317492d3a389bc42e?utm_campaign=1051&utm_source=git)** | United States | Remote | May 28 |
+| ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a191cbf17492d3a389bc429?utm_campaign=1051&utm_source=git)** | United States | Remote | May 28 |
+| **[Independent Sector](https://independentsector.org)** | **[Partnerships  Intern  2026 Independent Sector Internship Program](https://jobright.ai/jobs/info/6a1917426243320e8d16a4a3?utm_campaign=1051&utm_source=git)** | 1602 L Street Northwest, Washington, DC, USA | On Site | May 28 |
 | **[Cruze](https://cruzemaps.com/)** | **[Growth and Sales Intern](https://jobright.ai/jobs/info/6a190d506243320e8d169eee?utm_campaign=1051&utm_source=git)** | United States | Remote | May 28 |
 | **[BMO](http://www.bmo.com)** | **[Portfolio Management Internship, Fall 2026 (4 months)- Toronto, CA](https://jobright.ai/jobs/info/6a190b38abc8f63abac7e31a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 28 |
 | **[HarbisonWalker International](http://www.thinkHWI.com)** | **[Commercial Excellence & Finance Intern](https://jobright.ai/jobs/info/6a18f70017492d3a389bb2e1?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | May 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a188048c2a87d6cd3df1b99?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | On Site | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Analyst, New Markets (Fall 2026)](https://jobright.ai/jobs/info/6a18478b54a441713ae81f44?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 28 |
 | **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative Intern Sales - USA](https://jobright.ai/jobs/info/69fc9f5d432a3c4da8dfde85?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | May 28 |
-| **[HotTakes](hottakes.com)** | **[Sales Development Representative (intern)](https://jobright.ai/jobs/info/69f5297881706a5bd2165111?utm_campaign=1051&utm_source=git)** | Michigan, United States | Hybrid | May 28 |
-| ↳ | **[Sales Development Representative (intern)](https://jobright.ai/jobs/info/69f529880b36ff0354750cd6?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Hybrid | May 28 |
-| ↳ | **[Sales Development Representative (intern)](https://jobright.ai/jobs/info/69f5297781706a5bd2165110?utm_campaign=1051&utm_source=git)** | New Jersey, United States | Hybrid | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
