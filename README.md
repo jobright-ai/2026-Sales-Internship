@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Revenue Operations](https://jobright.ai/jobs/info/6a19ffbce24ef36525828cbe?utm_campaign=1051&utm_source=git)** | Phoenix, AZ 85004, USA | On Site | May 29 |
 | **[Revvity](https://www.revvity.com/)** | **[Corporate Development Summer Intern](https://jobright.ai/jobs/info/6a19ac492b206f3955eaf83c?utm_campaign=1051&utm_source=git)** | Waltham, US | On Site | May 29 |
 | **[Maddox Industrial Transformer](https://www.maddoxtransformer.com/)** | **[Sales Internship (6 Months)](https://jobright.ai/jobs/info/6a1a2b20e24ef3652582a14f?utm_campaign=1051&utm_source=git)** | Greer, SC | On Site | May 29 |
-| **[Cibo Vita](http://www.cibovita.com/)** | **[E-Commerce Intern](https://jobright.ai/jobs/info/6a1a2806c2a87d6cd3dfdd55?utm_campaign=1051&utm_source=git)** | Totowa, NJ | On Site | May 29 |
 | **[RBC](https://www.rbc.com)** | **[Client advisor intern](https://jobright.ai/jobs/info/6a1a1f952b206f3955eb2cdc?utm_campaign=1051&utm_source=git)** | Cambridge, Ontario, Canada | On Site | May 29 |
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[Mergers & Acquisitions Intern](https://jobright.ai/jobs/info/6a1a1e856b135014dbc886c9?utm_campaign=1051&utm_source=git)** | Irving, TX, US | Hybrid | May 29 |
 | ↳ | **[Mergers & Acquisitions Intern](https://jobright.ai/jobs/info/6a1a1e846b135014dbc886c8?utm_campaign=1051&utm_source=git)** | US-TX-Irving | Hybrid | May 29 |
@@ -71,16 +71,15 @@ For a complete list, click the following sortable link below:
 | **[Seminole Hard Rock Support Services](https://shrss-seminole.icims.com/jobs/intro?hashed=-435737845&mobile=false&width=1170&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)** | **[Intern - Business Development](https://jobright.ai/jobs/info/6a1a06139111f771d1a09d94?utm_campaign=1051&utm_source=git)** | Davie, FL | On Site | May 29 |
 | **[MOD - Power & Lighting Solutions](https://nationallighting.com)** | **[AI Sales Enablement Intern](https://jobright.ai/jobs/info/6a1a03406b135014dbc878bc?utm_campaign=1051&utm_source=git)** | Cerritos, CA | Hybrid | May 29 |
 | **[Hard Rock International](https://www.hardrockhotels.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/6a1a00fbe24ef36525828da7?utm_campaign=1051&utm_source=git)** | Support Services Headquarters Building, US | On Site | May 29 |
-| **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Revenue Operations](https://jobright.ai/jobs/info/6a19ffbce24ef36525828cbe?utm_campaign=1051&utm_source=git)** | Phoenix, AZ 85004, USA | On Site | May 29 |
 | **[Prosource](https://www.totalprosource.com/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6a19ff576b135014dbc87769?utm_campaign=1051&utm_source=git)** | Blue Ash,OH,US | On Site | May 29 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | May 29 |
 | ↳ | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | May 29 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | May 29 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | May 29 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | May 29 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | May 29 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a19ca7c2b206f3955eb09f7?utm_campaign=1051&utm_source=git)** | The Courtland Grand - Atlanta, GA, US | On Site | May 29 |
-| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1600a3554b0e12c0588468?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 29 |
-| ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a15c8f3554b0e12c0585eea?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | May 29 |
+| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a15c8f3554b0e12c0585eea?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | May 29 |
+| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1600a3554b0e12c0588468?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 29 |
 | ↳ | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1600a50073182bd92af261?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 29 |
 | **[Amrize](https://www.amrize.com)** | **[Geocycle Market and Sales Intern](https://jobright.ai/jobs/info/6a19c58fe24ef3652582766f?utm_campaign=1051&utm_source=git)** | Mississauga, ON, CA, L4V 1S7 | On Site | May 29 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a19e94dc2a87d6cd3dfc569?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | May 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Sales and Business Analyst](https://jobright.ai/jobs/info/69fc0d842f9f6b7cf6910e4f?utm_campaign=1051&utm_source=git)** | Johnston, RI | Hybrid | May 28 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/6a187e37abc8f63abac7915d?utm_campaign=1051&utm_source=git)** | Baltimore, OH | On Site | May 28 |
 | **[F&F Productions, LLC](https://www.fandfhd.tv)** | **[Summer Intern](https://jobright.ai/jobs/info/6a187cd417492d3a389b6a6a?utm_campaign=1051&utm_source=git)** | 1100 N 52nd St, Phoenix, AZ85008 | On Site | May 28 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6a187a7b54a441713ae84f5a?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
