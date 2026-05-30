@@ -74,19 +74,18 @@ For a complete list, click the following sortable link below:
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[Mergers & Acquisitions Intern](https://jobright.ai/jobs/info/6a1a1e856b135014dbc886c9?utm_campaign=1051&utm_source=git)** | Irving, TX, US | Hybrid | May 29 |
 | ↳ | **[Mergers & Acquisitions Intern](https://jobright.ai/jobs/info/6a1a1e846b135014dbc886c8?utm_campaign=1051&utm_source=git)** | US-TX-Irving | Hybrid | May 29 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a1a1cbf2b206f3955eb2c2e?utm_campaign=1051&utm_source=git)** | KITCHENER, Ontario, Canada | On Site | May 29 |
-| **[Independent Sector](https://independentsector.org)** | **[Partnerships  Intern  2026 Independent Sector Internship Program](https://jobright.ai/jobs/info/6a1a14759111f771d1a0a7ce?utm_campaign=1051&utm_source=git)** | 1602 L Street Northwest, Washington, DC, USA | On Site | May 29 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | May 29 |
 | **[MOD - Power & Lighting Solutions](https://nationallighting.com)** | **[AI Sales Enablement Intern](https://jobright.ai/jobs/info/6a1a03406b135014dbc878bc?utm_campaign=1051&utm_source=git)** | Cerritos, CA | Hybrid | May 29 |
 | **[Prosource](https://www.totalprosource.com/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6a19ff576b135014dbc87769?utm_campaign=1051&utm_source=git)** | Blue Ash,OH,US | On Site | May 29 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | May 29 |
-| ↳ | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | May 29 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | May 29 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | May 29 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | May 29 |
+| ↳ | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | May 29 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | May 29 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | May 29 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | May 29 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a19ca7c2b206f3955eb09f7?utm_campaign=1051&utm_source=git)** | The Courtland Grand - Atlanta, GA, US | On Site | May 29 |
 | **[Amrize](https://www.amrize.com)** | **[Geocycle Market and Sales Intern](https://jobright.ai/jobs/info/6a19c58fe24ef3652582766f?utm_campaign=1051&utm_source=git)** | Mississauga, ON, CA, L4V 1S7 | On Site | May 29 |
-| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1600a3554b0e12c0588468?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 29 |
-| ↳ | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1600a50073182bd92af261?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 29 |
+| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1600a50073182bd92af261?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 29 |
+| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1600a3554b0e12c0588468?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 29 |
 | ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a15c8f3554b0e12c0585eea?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | May 29 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a19e94dc2a87d6cd3dfc569?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | May 29 |
 | **[Dyson Corporation](https://www.dysoncorp.com/)** | **[Summer Internship - Sales Department (Remote – Greater Atlanta Area)](https://jobright.ai/jobs/info/6a19d94a547e292ae1395524?utm_campaign=1051&utm_source=git)** | Remote - PAINESVILLE, OH | Remote | May 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Favens](favens.ca)** | **[Sales Intern (June 2026 to August 2026)](https://jobright.ai/jobs/info/6a1890ab6243320e8d165cab?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 28 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Internship Rental Representative](https://jobright.ai/jobs/info/6a18e96054a441713ae890c6?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | May 28 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a1885d9dbc80963f9344ca5?utm_campaign=1051&utm_source=git)** | Los Angeles, California, United States of America | On Site | May 28 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Sales and Business Analyst](https://jobright.ai/jobs/info/69fc0d842f9f6b7cf6910e4f?utm_campaign=1051&utm_source=git)** | Johnston, RI | Hybrid | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
