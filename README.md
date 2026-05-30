@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Arine](https://www.arine.io)** | **[MBA Intern](https://jobright.ai/jobs/info/6a1a11c76b135014dbc88273?utm_campaign=1051&utm_source=git)** | Remote (United States of America) | Remote | May 29 |
-| ↳ | **[MBA Intern](https://jobright.ai/jobs/info/6a1a11cb6b135014dbc88279?utm_campaign=1051&utm_source=git)** | Arine - Remote | Remote | May 29 |
+| **[Arine](https://www.arine.io)** | **[MBA Intern](https://jobright.ai/jobs/info/6a1a11cb6b135014dbc88279?utm_campaign=1051&utm_source=git)** | Arine - Remote | Remote | May 29 |
+| ↳ | **[MBA Intern](https://jobright.ai/jobs/info/6a1a11c76b135014dbc88273?utm_campaign=1051&utm_source=git)** | Remote (United States of America) | Remote | May 29 |
 | **[Agilent Technologies](http://www.agilent.com)** | **[Intern – Predictive Sales Prospecting](https://jobright.ai/jobs/info/6a186e8417492d3a389b6281?utm_campaign=1051&utm_source=git)** | US-DE-Wilmington, US | On Site | May 29 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Channel Analyst Intern](https://jobright.ai/jobs/info/6a0f724b83d7144289820247?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | On Site | May 29 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Revenue Operations](https://jobright.ai/jobs/info/6a19ffbce24ef36525828cbe?utm_campaign=1051&utm_source=git)** | Phoenix, AZ 85004, USA | On Site | May 29 |
@@ -76,11 +76,11 @@ For a complete list, click the following sortable link below:
 | **[MOD - Power & Lighting Solutions](https://nationallighting.com)** | **[AI Sales Enablement Intern](https://jobright.ai/jobs/info/6a1a03406b135014dbc878bc?utm_campaign=1051&utm_source=git)** | Cerritos, CA | Hybrid | May 29 |
 | **[Hard Rock International](https://www.hardrockhotels.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/6a1a00fbe24ef36525828da7?utm_campaign=1051&utm_source=git)** | Support Services Headquarters Building, US | On Site | May 29 |
 | **[Prosource](https://www.totalprosource.com/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6a19ff576b135014dbc87769?utm_campaign=1051&utm_source=git)** | Blue Ash,OH,US | On Site | May 29 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | May 29 |
-| ↳ | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | May 29 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | May 29 |
+| ↳ | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | May 29 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | May 29 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | May 29 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | May 29 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | May 29 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a19ca7c2b206f3955eb09f7?utm_campaign=1051&utm_source=git)** | The Courtland Grand - Atlanta, GA, US | On Site | May 29 |
 | **[Amrize](https://www.amrize.com)** | **[Geocycle Market and Sales Intern](https://jobright.ai/jobs/info/6a19c58fe24ef3652582766f?utm_campaign=1051&utm_source=git)** | Mississauga, ON, CA, L4V 1S7 | On Site | May 29 |
 | **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1600a3554b0e12c0588468?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | May 29 |
