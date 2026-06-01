@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rally Strategies](https://rally-strategies.com/)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a1d4e09b524ae49285a5d89?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jun 01 |
+| **[Extia](http://extia.fr)** | **[Internship (student position) - Business Development Representative](https://jobright.ai/jobs/info/6a1d48d7b524ae49285a5d02?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 01 |
 | **[617MediaGroup](https://617mediagroup.com)** | **[Partnership Development Internship](https://jobright.ai/jobs/info/6a1d40ff9111f771d1a18122?utm_campaign=1051&utm_source=git)** | Greater Boston | On Site | Jun 01 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a1d400cb524ae49285a5a4a?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Jun 01 |
 | **[Cloud Science Labs](https://www.cloudsciencelabs.com)** | **[Busisness Development Internship](https://jobright.ai/jobs/info/6a1d3aea9111f771d1a17f38?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 01 |
@@ -90,16 +92,16 @@ For a complete list, click the following sortable link below:
 | **[Boston Red Sox](http://www.redsox.com)** | **[2026-2027 JetBlue Park Corporate Partnerships Associate](https://jobright.ai/jobs/info/6a1c4316c2a87d6cd3e075cb?utm_campaign=1051&utm_source=git)** | Fort Myers, FL, United States | On Site | May 31 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | May 31 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Sales and Communication Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69aa26c09ca4e908ec656dd8?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | May 31 |
-| **[Playfly Sports](https://www.playfly.com/)** | **[Partnership Services Intern ( Auburn Sports Properties)](https://jobright.ai/jobs/info/6a1c2592e24ef36525832e3b?utm_campaign=1051&utm_source=git)** | Auburn, Alabama, United States | On Site | May 31 |
-| ↳ | **[Partnership Services Intern ( Auburn Sports Properties)](https://jobright.ai/jobs/info/6a1c2592e24ef36525832e3c?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | May 31 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Partnership Services Intern ( Auburn Sports Properties)](https://jobright.ai/jobs/info/6a1c2592e24ef36525832e3c?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | May 31 |
+| ↳ | **[Partnership Services Intern ( Auburn Sports Properties)](https://jobright.ai/jobs/info/6a1c2592e24ef36525832e3b?utm_campaign=1051&utm_source=git)** | Auburn, Alabama, United States | On Site | May 31 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/6a17eccaba12bb0249bb5671?utm_campaign=1051&utm_source=git)** | Trumbull, CT | On Site | May 31 |
 | **[Kiva](http://kiva.org)** | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee972b206f3955ebb491?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | May 31 |
 | ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee922b206f3955ebb483?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | May 31 |
 | **[Yieldmo](http://www.yieldmo.com)** | **[Sales Support Intern (Sports & Emerging Products)](https://jobright.ai/jobs/info/6a1bead69111f771d1a130b2?utm_campaign=1051&utm_source=git)** | United States | Remote | May 31 |
 | **[STMicroelectronics](https://www.st.com)** | **[Technical Sales Engineering Intern](https://jobright.ai/jobs/info/698c992178b4502f12a31832?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | May 30 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | May 30 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | May 30 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | May 30 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | May 30 |
 | **[NiCE](http://nice.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a1b9975547e292ae139dfad?utm_campaign=1051&utm_source=git)** | USA - Sandy, UT | Hybrid | May 30 |
 | **[Influur](https://www.influur.com)** | **[Sales Ninja - Internship](https://jobright.ai/jobs/info/6a1b98f8e24ef36525830bb0?utm_campaign=1051&utm_source=git)** | Florida | Remote | May 30 |
 | **[ByteDance](http://bytedance.com)** | **[Payment Partnership Project Intern (Global Payment) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a1b79abc2a87d6cd3e043ae?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | May 30 |
@@ -147,14 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MBA Intern](https://jobright.ai/jobs/info/6a1a11cb6b135014dbc88279?utm_campaign=1051&utm_source=git)** | Arine - Remote | Remote | May 29 |
 | **[Agilent Technologies](http://www.agilent.com)** | **[Intern – Predictive Sales Prospecting](https://jobright.ai/jobs/info/6a186e8417492d3a389b6281?utm_campaign=1051&utm_source=git)** | US-DE-Wilmington, US | On Site | May 29 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Channel Analyst Intern](https://jobright.ai/jobs/info/6a0f724b83d7144289820247?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | On Site | May 29 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a1a1cbf2b206f3955eb2c2e?utm_campaign=1051&utm_source=git)** | KITCHENER, Ontario, Canada | On Site | May 29 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a176b9cb091c7417c4fe516?utm_campaign=1051&utm_source=git)** | SNOW LAKE, Manitoba, Canada | On Site | May 29 |
 | ↳ | **[Client advisor intern](https://jobright.ai/jobs/info/6a1a1f952b206f3955eb2cdc?utm_campaign=1051&utm_source=git)** | Cambridge, Ontario, Canada | On Site | May 29 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a176b9cb091c7417c4fe516?utm_campaign=1051&utm_source=git)** | SNOW LAKE, Manitoba, Canada | On Site | May 29 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a1a1cbf2b206f3955eb2c2e?utm_campaign=1051&utm_source=git)** | KITCHENER, Ontario, Canada | On Site | May 29 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Revenue Operations](https://jobright.ai/jobs/info/6a19ffbce24ef36525828cbe?utm_campaign=1051&utm_source=git)** | Phoenix, AZ 85004, USA | On Site | May 29 |
 | **[Revvity](https://www.revvity.com/)** | **[Corporate Development Summer Intern](https://jobright.ai/jobs/info/6a19ac492b206f3955eaf83c?utm_campaign=1051&utm_source=git)** | Waltham, US | On Site | May 29 |
 | **[Maddox Industrial Transformer](https://www.maddoxtransformer.com/)** | **[Sales Internship (6 Months)](https://jobright.ai/jobs/info/6a1a2b20e24ef3652582a14f?utm_campaign=1051&utm_source=git)** | Greer, SC | On Site | May 29 |
 | **[Alarm Guard Security Services](https://alarmguardsecurity.ca)** | **[Sales & Marketing Internship Opportunity](https://jobright.ai/jobs/info/6a19ce3d2b206f3955eb0af3?utm_campaign=1051&utm_source=git)** | North York, ON | On Site | May 29 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Business Development & Sales Internship Canada / Indian AI Workforce Company](https://jobright.ai/jobs/info/6a1a41f86b135014dbc89408?utm_campaign=1051&utm_source=git)** | Canada | Remote | May 29 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | May 29 |
-| ↳ | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
