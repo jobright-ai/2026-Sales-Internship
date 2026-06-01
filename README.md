@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Video Producer, Product Knowledge, North America Sales Operations (Fall 2026)](https://jobright.ai/jobs/info/6a1dc328e24ef36525839b21?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Jun 01 |
+| **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Tennessee State University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1dc18ae24ef36525839a8b?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
+| **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2026 Sales Intern](https://jobright.ai/jobs/info/6a1dc0f2c2a87d6cd3e0d70f?utm_campaign=1051&utm_source=git)** | Hyde Park, MA | On Site | Jun 01 |
+| ↳ | **[Fall 2026 Sports Licensing Intern](https://jobright.ai/jobs/info/6a1dc0ec3e538a28c204ba82?utm_campaign=1051&utm_source=git)** | Hyde Park, MA | On Site | Jun 01 |
+| **[Olympic Marketing Group](theomginc.com)** | **[Entry Level Sales Intern](https://jobright.ai/jobs/info/6a1dbf856b135014dbc98224?utm_campaign=1051&utm_source=git)** | Lacey, WA | On Site | Jun 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Davenport, IA Fall 2026](https://jobright.ai/jobs/info/6a1dbe9ae24ef365258399b0?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Jun 01 |
+| ↳ | **[Sales Management Trainee Intern- Ames, IA Fall 2026](https://jobright.ai/jobs/info/6a1dbddd9111f771d1a1aa08?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Jun 01 |
+| ↳ | **[Sales Management Trainee Intern- Omaha, NE Fall 2026](https://jobright.ai/jobs/info/6a1dbdbb9111f771d1a1a9f8?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Jun 01 |
+| ↳ | **[Sales Management Trainee Intern- Springfield, IL Fall 2026](https://jobright.ai/jobs/info/6a1dbd509111f771d1a1a933?utm_campaign=1051&utm_source=git)** | Springfield, IL | On Site | Jun 01 |
+| ↳ | **[Sales Management Trainee Intern- Sioux Falls, SD Fall 2026](https://jobright.ai/jobs/info/6a1dbc726b135014dbc9807a?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Jun 01 |
+| ↳ | **[Sales Management Trainee Intern- Dekalb, IL Fall 2026](https://jobright.ai/jobs/info/6a1dbc33b524ae49285a801a?utm_campaign=1051&utm_source=git)** | DeKalb, IL | On Site | Jun 01 |
+| ↳ | **[Sales Management Trainee Intern- Rockford, IL Fall 2026](https://jobright.ai/jobs/info/6a1dbbd89111f771d1a1a87f?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Jun 01 |
 | **[Princeton University](http://www.princeton.edu)** | **[Business and Data Intern, Membership Program - Temporary](https://jobright.ai/jobs/info/6a1dbb97b524ae49285a7fca?utm_campaign=1051&utm_source=git)** | Princeton, NJ, US | Hybrid | Jun 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Cedar Rapids, IA Fall 2026](https://jobright.ai/jobs/info/6a1dbb776b135014dbc97fea?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Jun 01 |
 | ↳ | **[Sales Management Trainee Intern- Sioux City, IA Fall 2026](https://jobright.ai/jobs/info/6a1dba619111f771d1a1a7ba?utm_campaign=1051&utm_source=git)** | Sioux City, IA | On Site | Jun 01 |
@@ -68,16 +80,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Trevecca Nazarene University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db1713e538a28c204b239?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
 | ↳ | **[Indiana University Indianapolis Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db1716b135014dbc97b23?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Marian University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16db524ae49285a7aca?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
-| ↳ | **[Belmont University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16c3e538a28c204b236?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
 | ↳ | **[University of Indianapolis Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16cc2a87d6cd3e0cf25?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
+| ↳ | **[Belmont University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16c3e538a28c204b236?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
 | ↳ | **[Butler University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16bc2a87d6cd3e0cf23?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Lipscomb University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16bb524ae49285a7ac9?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
 | ↳ | **[Middle Tennessee State University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16a3e538a28c204b235?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a1db1169111f771d1a1a2f4?utm_campaign=1051&utm_source=git)** | Louisiana, United States | Remote | Jun 01 |
 | **[Hype Events](hypevents.ca)** | **[Marketing And Business Development Intern/COOP](https://jobright.ai/jobs/info/6a1dafbe3e538a28c204b062?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | Jun 01 |
-| **[Aflac](http://www.aflac.com)** | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a1d185f7c457b279080e06e?utm_campaign=1051&utm_source=git)** | Jeff, IN | Remote | Jun 01 |
+| **[Aflac](http://www.aflac.com)** | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a1d18613e538a28c2048652?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Jun 01 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a1d185e3e538a28c2048651?utm_campaign=1051&utm_source=git)** | New Albany, IN | Remote | Jun 01 |
-| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a1d18613e538a28c2048652?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Jun 01 |
+| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a1d185f7c457b279080e06e?utm_campaign=1051&utm_source=git)** | Jeff, IN | Remote | Jun 01 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a1dae8d9111f771d1a1a0ba?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | Jun 01 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a1dae12b524ae49285a782b?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Jun 01 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a1dabbec2a87d6cd3e0cb36?utm_campaign=1051&utm_source=git)** | Kansas, United States | Remote | Jun 01 |
@@ -91,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marian University - Fall Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1da71c9111f771d1a19df4?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 01 |
 | ↳ | **[UIndy - Fall Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1da70eb524ae49285a760a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 01 |
 | ↳ | **[Franklin College Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1da0b33e538a28c204a9ff?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 01 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 01 |
-| ↳ | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 01 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 01 |
+| ↳ | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 01 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Intern- Bloomington, IL Fall 2026](https://jobright.ai/jobs/info/6a1d9f7b9111f771d1a19a88?utm_campaign=1051&utm_source=git)** | Bloomington, IL, US | On Site | Jun 01 |
 | ↳ | **[Sales Management Trainee Intern- Sioux Falls, SD Fall 2026](https://jobright.ai/jobs/info/6a1d9f76b524ae49285a731e?utm_campaign=1051&utm_source=git)** | Sioux Falls | On Site | Jun 01 |
 | ↳ | **[Sales Management Trainee Intern- Decatur, IL Fall 2026](https://jobright.ai/jobs/info/6a1d9f6d6b135014dbc972ac?utm_campaign=1051&utm_source=git)** | Decatur, IL, US | On Site | Jun 01 |
@@ -109,14 +121,12 @@ For a complete list, click the following sortable link below:
 | **[Middleburg Communities](https://middleburgcommunities.com)** | **[Investment and Capital Markets Intern](https://jobright.ai/jobs/info/6a1d9f123e538a28c204a951?utm_campaign=1051&utm_source=git)** | Vienna, VA 22182, USA | On Site | Jun 01 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Trevecca Nazarene University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1d9edbb524ae49285a72ce?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
 | ↳ | **[Lipscomb University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1d9ed43e538a28c204a938?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
-| ↳ | **[Taylor University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1d9e6bb524ae49285a7290?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 01 |
 | ↳ | **[Belmont University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1d9e693e538a28c204a8ee?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
 | ↳ | **[Indiana University Indianapolis Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1d9e65e24ef36525838981?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 01 |
-| ↳ | **[Anderson University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1d9e2f9111f771d1a199f8?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 01 |
 | ↳ | **[Butler University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1d9e233e538a28c204a8d4?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 01 |
 | **[CF Industries](http://www.cfindustries.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/6a1d967bb524ae49285a6fc3?utm_campaign=1051&utm_source=git)** | Northbrook,Il, US | On Site | Jun 01 |
-| **[Remesh](http://remesh.ai)** | **[Sales Development Internship - Spring 2025](https://jobright.ai/jobs/info/6a1d91dd6b135014dbc96c4e?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jun 01 |
-| ↳ | **[Sales Development Internship - Spring 2025](https://jobright.ai/jobs/info/6a1d91dd6b135014dbc96c4b?utm_campaign=1051&utm_source=git)** | or Remote | Remote | Jun 01 |
+| **[Remesh](http://remesh.ai)** | **[Sales Development Internship - Spring 2025](https://jobright.ai/jobs/info/6a1d91dd6b135014dbc96c4b?utm_campaign=1051&utm_source=git)** | or Remote | Remote | Jun 01 |
+| ↳ | **[Sales Development Internship - Spring 2025](https://jobright.ai/jobs/info/6a1d91dd6b135014dbc96c4e?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jun 01 |
 | **[Merkle Science](https://www.merklescience.com)** | **[Sales Development Representative - Intern](https://jobright.ai/jobs/info/6a1d90f69111f771d1a19300?utm_campaign=1051&utm_source=git)** | New York | Remote | Jun 01 |
 | **[Lamar Advertising Company](http://www.lamar.com)** | **[National Sales Intern](https://jobright.ai/jobs/info/6a10875269bd827926aeeec8?utm_campaign=1051&utm_source=git)** | BATON ROUGE, Louisiana, United States | On Site | Jun 01 |
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a16fdad9005d858e94f4c48?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jun 01 |
@@ -146,15 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Rally Strategies](https://rally-strategies.com/)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a1d4e09b524ae49285a5d89?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jun 01 |
 | **[Extia](http://extia.fr)** | **[Internship (student position) - Business Development Representative](https://jobright.ai/jobs/info/6a1d48d7b524ae49285a5d02?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 01 |
 | **[617MediaGroup](https://617mediagroup.com)** | **[Partnership Development Internship](https://jobright.ai/jobs/info/6a1d40ff9111f771d1a18122?utm_campaign=1051&utm_source=git)** | Greater Boston | On Site | Jun 01 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | Jun 01 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 01 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 01 |
-| **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a1d400cb524ae49285a5a4a?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Jun 01 |
-| **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Commodities Trading Internship Program](https://jobright.ai/jobs/info/6a1d1a089111f771d1a178c5?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | May 31 |
-| **[Chase](https://www.chase.com/)** | **[2026 Commodities Trading Internship Program](https://jobright.ai/jobs/info/6a1d13917c457b279080dfd1?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | May 31 |
-| **[Synaptix](https://synaptix.dev/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a1cf665547e292ae13a3137?utm_campaign=1051&utm_source=git)** | United States | Remote | May 31 |
-| **[HqO](https://www.hqo.com)** | **[Customer Success Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1cf0579111f771d1a16db6?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 31 |
-| **[Aflac](http://www.aflac.com)** | **[Insurance Sales - Training Provided](https://jobright.ai/jobs/info/6a1d1c2fc2a87d6cd3e0a62f?utm_campaign=1051&utm_source=git)** | Covington, KY | Remote | May 31 |
-| **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative Intern Sales - USA](https://jobright.ai/jobs/info/6a1ce9989111f771d1a16909?utm_campaign=1051&utm_source=git)** | Charlotte, North Carolina | On Site | May 31 |
-| ↳ | **[Sales Development Representative Intern Sales - USA](https://jobright.ai/jobs/info/6a1ce9969111f771d1a16908?utm_campaign=1051&utm_source=git)** | Charlotte Office | On Site | May 31 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
