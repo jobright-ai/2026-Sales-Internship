@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a16fdad9005d858e94f4c48?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jun 01 |
+| **[Sands Investment Group](https://signnn.com)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/6a1d88403e538a28c204a05e?utm_campaign=1051&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Jun 01 |
+| **[Selador International](https://seladorinternational.com/)** | **[Sales & Client Development Intern](https://jobright.ai/jobs/info/6a16fb6b5b0a497d52106ec8?utm_campaign=1051&utm_source=git)** | Beaumont-PA Area | On Site | Jun 01 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Summer Sales & Marketing Intern](https://jobright.ai/jobs/info/6a0f73f1619335383fb2c7eb?utm_campaign=1051&utm_source=git)** | Kaukauna, WI | On Site | Jun 01 |
 | **[Motion](http://www.dragosupply.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69c91b81e565c26a700340ab?utm_campaign=1051&utm_source=git)** | Lethbridge, Alberta, Canada | On Site | Jun 01 |
 | **[Nexreach](https://nexreachusa.com/)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/6a1489d6554b0e12c057f54a?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Jun 01 |
@@ -78,12 +81,11 @@ For a complete list, click the following sortable link below:
 | **[Markato](https://wearemarkato.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a146a13554b0e12c057f0d6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jun 01 |
 | **[Smartly](http://smartly.io)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a15fdc20073182bd92aebaf?utm_campaign=1051&utm_source=git)** | New York | On Site | Jun 01 |
 | ↳ | **[Customer Success Intern](https://jobright.ai/jobs/info/6a15fddc0073182bd92aebb8?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | Jun 01 |
-| **[Cloud Science Labs](https://www.cloudsciencelabs.com)** | **[Cloud Science Labs- Business Development Internship Program](https://jobright.ai/jobs/info/6a1d7bdfe24ef36525837dcf?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 01 |
 | **[Rally Strategies](https://rally-strategies.com/)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a1d4e09b524ae49285a5d89?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jun 01 |
 | **[Extia](http://extia.fr)** | **[Internship (student position) - Business Development Representative](https://jobright.ai/jobs/info/6a1d48d7b524ae49285a5d02?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 01 |
 | **[617MediaGroup](https://617mediagroup.com)** | **[Partnership Development Internship](https://jobright.ai/jobs/info/6a1d40ff9111f771d1a18122?utm_campaign=1051&utm_source=git)** | Greater Boston | On Site | Jun 01 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 01 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 01 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 01 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 01 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | Jun 01 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a1d400cb524ae49285a5a4a?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Jun 01 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Commodities Trading Internship Program](https://jobright.ai/jobs/info/6a1d1a089111f771d1a178c5?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | May 31 |
@@ -107,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a1c920d6b135014dbc92dae?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | May 31 |
 | **[Elite Breakout Marketing Inc](https://www.elitebreakoutmarketinginc.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1c8ebfe24ef36525834459?utm_campaign=1051&utm_source=git)** | Saginaw, MI | On Site | May 31 |
 | **[FCX Performance](http://fcxperformance.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/6a1c8b136b135014dbc92d4f?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | May 31 |
-| **[KRAFZEN](krafzeninc.com)** | **[(Commission-Based) Cold Calling/Lead Generation Internship](https://jobright.ai/jobs/info/6a1c6f43e24ef36525833db1?utm_campaign=1051&utm_source=git)** | United States | Remote | May 31 |
 | **[Brandlete](https://www.brandletehq.com)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/6a160460554b0e12c058879b?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | May 31 |
 | **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/6a1604720073182bd92af5b4?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 31 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Client Development Intern - Fragrance & Beauty (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fc372ebd316bece1bb82?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | May 31 |
@@ -142,19 +143,18 @@ For a complete list, click the following sortable link below:
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf4?utm_campaign=1051&utm_source=git)** | Athens, GA, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a15b76da429fd279da915bc?utm_campaign=1051&utm_source=git)** | Charlotte, NC, US | On Site | May 30 |
 | **[WOW Brand](http://wowpayments.com)** | **[B2B Intern Account Executive](https://jobright.ai/jobs/info/6a1af8cb2b206f3955eb76f5?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 30 |
-| **[Independent Sector](https://independentsector.org)** | **[Partnerships  Intern  2026 Independent Sector Internship Program](https://jobright.ai/jobs/info/6a1af4c39111f771d1a0f4a0?utm_campaign=1051&utm_source=git)** | 1602 L Street Northwest, Washington, DC, USA | On Site | May 30 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[After Sales and Client Services Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fcb91f59c56275e2d00d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 30 |
 | **[HotTakes](hottakes.com)** | **[Sales Development Representative (intern)](https://jobright.ai/jobs/info/69f5297781706a5bd2165110?utm_campaign=1051&utm_source=git)** | New Jersey, United States | Hybrid | May 30 |
 | **[Skydio](https://www.skydio.com)** | **[Sales Planning Analyst Intern](https://jobright.ai/jobs/info/69c5ab70aa3c2c1995e02e3d?utm_campaign=1051&utm_source=git)** | San Mateo, CA | Hybrid | May 30 |
 | **[The SpyGlass Group, LLC](https://www.spyglass.net/)** | **[Sales Development Internship](https://jobright.ai/jobs/info/6a17dc871430333075cd47e9?utm_campaign=1051&utm_source=git)** | Westlake, OH | On Site | May 30 |
-| **[Skydio](https://www.skydio.com)** | **[Sales Planning Analyst Intern](https://jobright.ai/jobs/info/6a13936112f8b43cf398f3ef?utm_campaign=1051&utm_source=git)** | San Mateo, California, United States | Hybrid | May 30 |
-| ↳ | **[Sales Planning Analyst Intern](https://jobright.ai/jobs/info/69c599b7aa3c2c1995e01ceb?utm_campaign=1051&utm_source=git)** | San Mateo, California, United States | Hybrid | May 30 |
+| **[Skydio](https://www.skydio.com)** | **[Sales Planning Analyst Intern](https://jobright.ai/jobs/info/69c599b7aa3c2c1995e01ceb?utm_campaign=1051&utm_source=git)** | San Mateo, California, United States | Hybrid | May 30 |
+| ↳ | **[Sales Planning Analyst Intern](https://jobright.ai/jobs/info/6a13936112f8b43cf398f3ef?utm_campaign=1051&utm_source=git)** | San Mateo, California, United States | Hybrid | May 30 |
 | **[HotTakes](hottakes.com)** | **[Sales Development Representative (intern)](https://jobright.ai/jobs/info/69f5297881706a5bd2165111?utm_campaign=1051&utm_source=git)** | Michigan, United States | Hybrid | May 30 |
 | **[STMicroelectronics](https://www.st.com)** | **[Technical Sales Engineering Intern](https://jobright.ai/jobs/info/698c3a3491fdda424d592072?utm_campaign=1051&utm_source=git)** | Santa Clara, United States | On Site | May 30 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/6a1ad56b9111f771d1a0e88b?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 30 |
 | **[LayerZero Labs](https://layerzero.network)** | **[Crypto Business Development Intern](https://jobright.ai/jobs/info/6a1ad1989111f771d1a0e4d5?utm_campaign=1051&utm_source=git)** | New York | On Site | May 30 |
 | ↳ | **[Crypto Business Development Intern](https://jobright.ai/jobs/info/6a1ad18f9111f771d1a0e4d2?utm_campaign=1051&utm_source=git)** | New York City | On Site | May 30 |
-| **[Apex Service Partners](https://apexservicepartners.com)** | **[Mergers & Acquisitions Intern](https://jobright.ai/jobs/info/6a1ac7166b135014dbc8bf88?utm_campaign=1051&utm_source=git)** | US-TX-Irving | Hybrid | May 30 |
-| ↳ | **[Mergers & Acquisitions Intern](https://jobright.ai/jobs/info/6a1ac7166b135014dbc8bf89?utm_campaign=1051&utm_source=git)** | Irving, TX, US | Hybrid | May 30 |
+| **[Apex Service Partners](https://apexservicepartners.com)** | **[Mergers & Acquisitions Intern](https://jobright.ai/jobs/info/6a1ac7166b135014dbc8bf89?utm_campaign=1051&utm_source=git)** | Irving, TX, US | Hybrid | May 30 |
+| ↳ | **[Mergers & Acquisitions Intern](https://jobright.ai/jobs/info/6a1ac7166b135014dbc8bf88?utm_campaign=1051&utm_source=git)** | US-TX-Irving | Hybrid | May 30 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Sales Management Trainee Internship](https://jobright.ai/jobs/info/6a1ac4129111f771d1a0e2a4?utm_campaign=1051&utm_source=git)** | Jackson, MS, US | On Site | May 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
