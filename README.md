@@ -100,9 +100,9 @@ For a complete list, click the following sortable link below:
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a1de3e36b135014dbc99293?utm_campaign=1051&utm_source=git)** | Ontario, Canada | On Site | Jun 01 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a1de39f6b135014dbc99271?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Jun 01 |
 | **[Inspirit Equity](https://www.inspiritequity.com)** | **[Private Equity Analyst, Business Development – Summer Internship](https://jobright.ai/jobs/info/6a1de1ad6b135014dbc9920d?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Jun 01 |
-| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 01 |
+| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1d97299111f771d1a19796?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 01 |
 | ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 01 |
-| ↳ | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1d97299111f771d1a19796?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 01 |
+| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 01 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Sales and Business Development Intern](https://jobright.ai/jobs/info/6a1db9fbb524ae49285a7ee2?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA, US | On Site | Jun 01 |
 | **[CWS Apartment Homes](http://cwsapartments.com)** | **[Leasing Intern - Marquis at Stonegate](https://jobright.ai/jobs/info/6a1ddcda9111f771d1a1b90e?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, US | On Site | Jun 01 |
 | **[Milio Milano](https://miliomilano.com)** | **[Atlanta Apparel Showroom Intern](https://jobright.ai/jobs/info/6a1ddc97b524ae49285a918c?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jun 01 |
@@ -151,8 +151,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Indiana University Indianapolis Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db1716b135014dbc97b23?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Trevecca Nazarene University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db1713e538a28c204b239?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
 | ↳ | **[Marian University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16db524ae49285a7aca?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
-| ↳ | **[University of Indianapolis Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16cc2a87d6cd3e0cf25?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Belmont University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16c3e538a28c204b236?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
+| ↳ | **[University of Indianapolis Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16cc2a87d6cd3e0cf25?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Butler University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16bc2a87d6cd3e0cf23?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Lipscomb University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16bb524ae49285a7ac9?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
 | ↳ | **[Middle Tennessee State University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16a3e538a28c204b235?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
