@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a1e6a06c5277c00c647f761?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 01 |
+| **[Cruze](https://cruzemaps.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a1e606f09442629a6853784?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 01 |
 | **[Boston Red Sox](http://www.redsox.com)** | **[2026-2027 JetBlue Park Season & Group Ticket Associate](https://jobright.ai/jobs/info/6a1e3f2db524ae49285ab6ac?utm_campaign=1051&utm_source=git)** | Fort Myers, FL, United States | On Site | Jun 01 |
 | **[TRIUMPH](https://www.triumphgroup.com/)** | **[Account Manager Intern](https://jobright.ai/jobs/info/6a1e3e309111f771d1a1df7a?utm_campaign=1051&utm_source=git)** | Redmond, WA | On Site | Jun 01 |
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Fall 2026 Development (Paid) Intern](https://jobright.ai/jobs/info/6a1e25239111f771d1a1d869?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
@@ -68,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Fall 2026 Business Technology & CRM Management Intern](https://jobright.ai/jobs/info/6a1e1372c2a87d6cd3e0fe5f?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | **[Odessa Separator Inc](https://odessaseparator.com)** | **[Applications and Sales Intern](https://jobright.ai/jobs/info/6a1e135ae24ef3652583bf31?utm_campaign=1051&utm_source=git)** | Odessa, TX, US | On Site | Jun 01 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/6a1e134c6b135014dbc9a858?utm_campaign=1051&utm_source=git)** | Flushing, New York, United States | On Site | Jun 01 |
-| **[Uber](http://www.uber.com)** | **[2026 Sales Operations Intern - US](https://jobright.ai/jobs/info/6a1e12a43e538a28c204e11b?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Jun 01 |
-| ↳ | **[2026 Sales Operations Intern - US](https://jobright.ai/jobs/info/6a1e12a43e538a28c204e11a?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Jun 01 |
+| **[Uber](http://www.uber.com)** | **[2026 Sales Operations Intern - US](https://jobright.ai/jobs/info/6a1e12a43e538a28c204e11a?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Jun 01 |
+| ↳ | **[2026 Sales Operations Intern - US](https://jobright.ai/jobs/info/6a1e12a43e538a28c204e11b?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Jun 01 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2026 Sports Licensing Intern](https://jobright.ai/jobs/info/6a1e0dc0b524ae49285aa72c?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jun 01 |
 | **[BASIC](http://www.basiconline.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/6a1e0b609111f771d1a1cf06?utm_campaign=1051&utm_source=git)** | Ruston, LA, US | On Site | Jun 01 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern - Partnerships & Donors](https://jobright.ai/jobs/info/6a1e0b1cb524ae49285aa67b?utm_campaign=1051&utm_source=git)** | Marina del Rey, CA | Remote | Jun 01 |
@@ -92,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a1de3e36b135014dbc99293?utm_campaign=1051&utm_source=git)** | Ontario, Canada | On Site | Jun 01 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a1de39f6b135014dbc99271?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Jun 01 |
 | **[Inspirit Equity](https://www.inspiritequity.com)** | **[Private Equity Analyst, Business Development – Summer Internship](https://jobright.ai/jobs/info/6a1de1ad6b135014dbc9920d?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Jun 01 |
-| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1d97299111f771d1a19796?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 01 |
-| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 01 |
+| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 01 |
+| ↳ | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1d97299111f771d1a19796?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 01 |
 | ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 01 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Sales and Business Development Intern](https://jobright.ai/jobs/info/6a1db9fbb524ae49285a7ee2?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA, US | On Site | Jun 01 |
 | **[CWS Apartment Homes](http://cwsapartments.com)** | **[Leasing Intern - Marquis at Stonegate](https://jobright.ai/jobs/info/6a1ddcda9111f771d1a1b90e?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, US | On Site | Jun 01 |
@@ -115,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1dcc8b9111f771d1a1b101?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 01 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1dcc859111f771d1a1b0fd?utm_campaign=1051&utm_source=git)** | Oakville | Hybrid | Jun 01 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1dcc849111f771d1a1b0fa?utm_campaign=1051&utm_source=git)** | Burnaby | Hybrid | Jun 01 |
-| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1dcc839111f771d1a1b0f7?utm_campaign=1051&utm_source=git)** | Toronto | Hybrid | Jun 01 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1dcc839111f771d1a1b0f8?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia - Canada | Hybrid | Jun 01 |
+| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1dcc839111f771d1a1b0f7?utm_campaign=1051&utm_source=git)** | Toronto | Hybrid | Jun 01 |
 | ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1dcc809111f771d1a1b0f4?utm_campaign=1051&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 01 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Sales Development Representative Intern (Hybrid)](https://jobright.ai/jobs/info/6a1734dcb091c7417c4fbe84?utm_campaign=1051&utm_source=git)** | Clearwater, Florida | Hybrid | Jun 01 |
 | ↳ | **[Sales Development Representative Intern (Hybrid)](https://jobright.ai/jobs/info/6a1734ddb091c7417c4fbe85?utm_campaign=1051&utm_source=git)** | Clearwater, Florida, United States | Hybrid | Jun 01 |
@@ -140,11 +142,11 @@ For a complete list, click the following sortable link below:
 | **[RD Rubber Technology Corp.](https://www.rdrubber.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a1db4d0e24ef3652583942d?utm_campaign=1051&utm_source=git)** | Santa Fe Springs, California, US | On Site | Jun 01 |
 | **[GALERIES BARTOUX](https://www.galeries-bartoux.com/)** | **[Gallery Assistant - Internship](https://jobright.ai/jobs/info/6a1db447b524ae49285a7bfe?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jun 01 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Franklin College Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db1749111f771d1a1a334?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
-| ↳ | **[Indiana University Indianapolis Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db1716b135014dbc97b23?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Trevecca Nazarene University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db1713e538a28c204b239?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
+| ↳ | **[Indiana University Indianapolis Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db1716b135014dbc97b23?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Marian University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16db524ae49285a7aca?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
-| ↳ | **[University of Indianapolis Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16cc2a87d6cd3e0cf25?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Belmont University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16c3e538a28c204b236?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
+| ↳ | **[University of Indianapolis Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16cc2a87d6cd3e0cf25?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Lipscomb University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16bb524ae49285a7ac9?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
 | ↳ | **[Butler University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16bc2a87d6cd3e0cf23?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Middle Tennessee State University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16a3e538a28c204b235?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Franklin College - Fall Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1dcb573e538a28c204be4c?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 01 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a1dae8d9111f771d1a1a0ba?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | Jun 01 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Butler University - Fall Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1e1111b524ae49285aa85e?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 01 |
-| ↳ | **[Lipscomb University - Fall Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1e10ed3e538a28c204e08c?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
 | ↳ | **[IU Indianapolis - Fall Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1e10ebe24ef3652583be32?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 01 |
-| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a1dae12b524ae49285a782b?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Jun 01 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a1dabbec2a87d6cd3e0cb36?utm_campaign=1051&utm_source=git)** | Kansas, United States | Remote | Jun 01 |
+| ↳ | **[Lipscomb University - Fall Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1e10ed3e538a28c204e08c?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
