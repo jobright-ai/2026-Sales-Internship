@@ -141,13 +141,13 @@ For a complete list, click the following sortable link below:
 | **[RD Rubber Technology Corp.](https://www.rdrubber.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a1db4d0e24ef3652583942d?utm_campaign=1051&utm_source=git)** | Santa Fe Springs, California, US | On Site | Jun 01 |
 | **[GALERIES BARTOUX](https://www.galeries-bartoux.com/)** | **[Gallery Assistant - Internship](https://jobright.ai/jobs/info/6a1db447b524ae49285a7bfe?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jun 01 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Franklin College Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db1749111f771d1a1a334?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
-| ↳ | **[Indiana University Indianapolis Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db1716b135014dbc97b23?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Trevecca Nazarene University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db1713e538a28c204b239?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
+| ↳ | **[Indiana University Indianapolis Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db1716b135014dbc97b23?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Marian University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16db524ae49285a7aca?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[University of Indianapolis Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16cc2a87d6cd3e0cf25?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Belmont University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16c3e538a28c204b236?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
-| ↳ | **[Butler University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16bc2a87d6cd3e0cf23?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Lipscomb University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16bb524ae49285a7ac9?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
+| ↳ | **[Butler University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16bc2a87d6cd3e0cf23?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | ↳ | **[Middle Tennessee State University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1db16a3e538a28c204b235?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 01 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a1db1169111f771d1a1a2f4?utm_campaign=1051&utm_source=git)** | Louisiana, United States | Remote | Jun 01 |
 | **[Hype Events](hypevents.ca)** | **[Marketing And Business Development Intern/COOP](https://jobright.ai/jobs/info/6a1dafbe3e538a28c204b062?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | Jun 01 |
