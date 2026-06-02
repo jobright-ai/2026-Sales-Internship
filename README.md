@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Megapack Business Development, Energy (Fall 2026)](https://jobright.ai/jobs/info/6a1e7a2ba507373dff6ba615?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Jun 01 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a1e768ddce5db1256d0ee3e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jun 01 |
+| **[NAI NorCal](http://www.nainorcal.com)** | **[NAI NorCal - Commercial Real Estate - DoD Skillbridge Internship](https://jobright.ai/jobs/info/6a186a0a6243320e8d1640be?utm_campaign=1051&utm_source=git)** | San Jose | Hybrid | Jun 01 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a1e6a06c5277c00c647f761?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 01 |
 | **[Cruze](https://cruzemaps.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a1e606f09442629a6853784?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 01 |
 | **[Boston Red Sox](http://www.redsox.com)** | **[2026-2027 JetBlue Park Season & Group Ticket Associate](https://jobright.ai/jobs/info/6a1e3f2db524ae49285ab6ac?utm_campaign=1051&utm_source=git)** | Fort Myers, FL, United States | On Site | Jun 01 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Development Intern Fall 2026](https://jobright.ai/jobs/info/6a1e02fb9111f771d1a1caac?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Jun 01 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Queens)](https://jobright.ai/jobs/info/69d57c1ccfdc6132f9462bbf?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jun 01 |
 | **[RPS Solar Pumps](https://www.rpssolarpumps.com)** | **[Demand Supply Planning Intern](https://jobright.ai/jobs/info/6a1dfef49111f771d1a1c8c0?utm_campaign=1051&utm_source=git)** | Davis, CA | On Site | Jun 01 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Field Sales Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6a1df9a1b524ae49285a9f3a?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Jun 01 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2026 Sales Intern](https://jobright.ai/jobs/info/6a1df94eb524ae49285a9f12?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jun 01 |
 | **[VieMed Healthcare](https://www.viemed.com/)** | **[Sleep Sales Representative Intern](https://jobright.ai/jobs/info/6a1db816b524ae49285a7dd2?utm_campaign=1051&utm_source=git)** | San Antonio, Texas, United States | On Site | Jun 01 |
 | **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[Premium Sales Development Internship](https://jobright.ai/jobs/info/6a1e09269111f771d1a1ce43?utm_campaign=1051&utm_source=git)** | El Segundo, CA | Hybrid | Jun 01 |
@@ -95,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a1de39f6b135014dbc99271?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Jun 01 |
 | **[Inspirit Equity](https://www.inspiritequity.com)** | **[Private Equity Analyst, Business Development – Summer Internship](https://jobright.ai/jobs/info/6a1de1ad6b135014dbc9920d?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Jun 01 |
 | **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 01 |
-| ↳ | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1d97299111f771d1a19796?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 01 |
 | ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 01 |
+| ↳ | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1d97299111f771d1a19796?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 01 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Sales and Business Development Intern](https://jobright.ai/jobs/info/6a1db9fbb524ae49285a7ee2?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA, US | On Site | Jun 01 |
 | **[CWS Apartment Homes](http://cwsapartments.com)** | **[Leasing Intern - Marquis at Stonegate](https://jobright.ai/jobs/info/6a1ddcda9111f771d1a1b90e?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, US | On Site | Jun 01 |
 | **[Milio Milano](https://miliomilano.com)** | **[Atlanta Apparel Showroom Intern](https://jobright.ai/jobs/info/6a1ddc97b524ae49285a918c?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jun 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Franklin College - Fall Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1dcb573e538a28c204be4c?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 01 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a1dae8d9111f771d1a1a0ba?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | Jun 01 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Butler University - Fall Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1e1111b524ae49285aa85e?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 01 |
-| ↳ | **[IU Indianapolis - Fall Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1e10ebe24ef3652583be32?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 01 |
-| ↳ | **[Lipscomb University - Fall Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1e10ed3e538a28c204e08c?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
