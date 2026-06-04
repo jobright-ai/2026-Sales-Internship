@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a084d0f6186f46859886f22?utm_campaign=1051&utm_source=git)** | US-TX-Fort Worth | On Site | Jun 03 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a084d0ca203b1052e442ddf?utm_campaign=1051&utm_source=git)** | US-NE-Lincoln | On Site | Jun 03 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a1ac2efe24ef3652582d285?utm_campaign=1051&utm_source=git)** | US-TX-Dallas | On Site | Jun 03 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a1ac2efe24ef3652582d285?utm_campaign=1051&utm_source=git)** | US-TX-Dallas | On Site | Jun 03 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a084d106186f46859886f26?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, US | On Site | Jun 03 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a1ac2efe24ef3652582d286?utm_campaign=1051&utm_source=git)** | Dallas, TX, US | On Site | Jun 03 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a084d0f6186f46859886f22?utm_campaign=1051&utm_source=git)** | US-TX-Fort Worth | On Site | Jun 03 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a084d0ca203b1052e442de1?utm_campaign=1051&utm_source=git)** | Lincoln, NE, US | On Site | Jun 03 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a084d0ca203b1052e442ddf?utm_campaign=1051&utm_source=git)** | US-NE-Lincoln | On Site | Jun 03 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a1ac2efe24ef3652582d286?utm_campaign=1051&utm_source=git)** | Dallas, TX, US | On Site | Jun 03 |
 | **[PeopleLens](https://peoplelens.ai)** | **[Sales Development Intern - AI Native (Summer 2026)](https://jobright.ai/jobs/info/6a21152b338c01230511cd49?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 03 |
 | **[Knauf North America](http://www.knaufnorthamerica.com)** | **[Sales Excellence Intern](https://jobright.ai/jobs/info/6a1f0d9fc5277c00c648278e?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, US | On Site | Jun 03 |
 | ↳ | **[Sales Excellence Intern](https://jobright.ai/jobs/info/6a1f0d99c5277c00c648278c?utm_campaign=1051&utm_source=git)** | US-IN-Indianapolis | On Site | Jun 03 |
@@ -74,9 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Rally Strategies](https://rally-strategies.com/)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a1d4e09b524ae49285a5d89?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jun 03 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - El Segundo](https://jobright.ai/jobs/info/6a20e7374bdf8a5a96bd3a7f?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Jun 03 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program ( West Hartford & New Haven, CT )( PAID)](https://jobright.ai/jobs/info/6a20e133c00e701fe836c2d6?utm_campaign=1051&utm_source=git)** | West Hartford, CT | On Site | Jun 03 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 03 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | Jun 03 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 03 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | Jun 03 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 03 |
 | **[Geotab](http://www.geotab.com/)** | **[Pilot Success Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1a648fc2a87d6cd3dff5f9?utm_campaign=1051&utm_source=git)** | Oakville | Hybrid | Jun 03 |
 | ↳ | **[Pilot Success Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1a648fc2a87d6cd3dff605?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 03 |
 | **[UThink Agency](mogulintelligence.com)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a20d757902d19201c7b4de8?utm_campaign=1051&utm_source=git)** | Greater Houston | Remote | Jun 03 |
@@ -87,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Optimum](http://www.optimum.com)** | **[Intern - Programmatic Buying](https://jobright.ai/jobs/info/6a20b0663a5f0145f4c16720?utm_campaign=1051&utm_source=git)** | Bethpage, NY, US, 11714 | On Site | Jun 03 |
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a1de7f63e538a28c204cc70?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 03 |
 | **[LexLoo](https://www.linkedin.com/company/119464117)** | **[Business Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a20f2f83a5f0145f4c17a6b?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jun 03 |
-| **[NPR](http://www.npr.org)** | **[NPM Corporate Sponsorship Internship - Fall 2026](https://jobright.ai/jobs/info/6a20a624338c01230511a9f3?utm_campaign=1051&utm_source=git)** | New York City | Hybrid | Jun 03 |
-| ↳ | **[NPM Corporate Sponsorship Internship - Fall 2026](https://jobright.ai/jobs/info/6a20a625338c01230511a9f5?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | Jun 03 |
+| **[NPR](http://www.npr.org)** | **[NPM Corporate Sponsorship Internship - Fall 2026](https://jobright.ai/jobs/info/6a20a625338c01230511a9f5?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | Jun 03 |
+| ↳ | **[NPM Corporate Sponsorship Internship - Fall 2026](https://jobright.ai/jobs/info/6a20a624338c01230511a9f3?utm_campaign=1051&utm_source=git)** | New York City | Hybrid | Jun 03 |
 | **[ANDRITZ](http://www.andritz.com)** | **[Internship in engineering - sales department](https://jobright.ai/jobs/info/6a20a9ab3a5f0145f4c1644e?utm_campaign=1051&utm_source=git)** | Chambly, Quebec, CA | On Site | Jun 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Global Banking and Markets - Sales and Trading Intern/Co-op - Summer 2027](https://jobright.ai/jobs/info/6a20a8e14bdf8a5a96bd2667?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 03 |
 | **[Four Hands](https://fourhands.com)** | **[Sales Project Management Intern](https://jobright.ai/jobs/info/6a20a7f8338c01230511ac93?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jun 03 |
@@ -121,15 +121,15 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[Global Banking and Markets - Sales and Trading Intern/Co-op - Summer 2027](https://jobright.ai/jobs/info/6a20735f902d19201c7b25bd?utm_campaign=1051&utm_source=git)** | Toronto, ON, CA | On Site | Jun 03 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Development Prospect Research Intern](https://jobright.ai/jobs/info/6a206d1cc00e701fe83693d4?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Analysis, Comms & Project Management Services Sales](https://jobright.ai/jobs/info/6a07e3543b54ed42d74d2b07?utm_campaign=1051&utm_source=git)** | Newtown Square, PA, US, 19073 | On Site | Jun 03 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a15cce7554b0e12c0586168?utm_campaign=1051&utm_source=git)** | Hermiston, Oregon, United States | On Site | Jun 03 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a19fb55e24ef36525828b4d?utm_campaign=1051&utm_source=git)** | Pasco, Washington, United States | On Site | Jun 03 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a19fb55e24ef36525828b4d?utm_campaign=1051&utm_source=git)** | Pasco, Washington, United States | On Site | Jun 03 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a04ff474373b07358a39284?utm_campaign=1051&utm_source=git)** | Moses Lake, Washington, United States | On Site | Jun 03 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a15cce7554b0e12c0586168?utm_campaign=1051&utm_source=git)** | Hermiston, Oregon, United States | On Site | Jun 03 |
 | **[Florida Sales & Marketing Group](https://www.floridasalesmarketing.com)** | **[🚀 Summer Intern! Entry-Level Sales Representative / Immediate Start 🚀](https://jobright.ai/jobs/info/6a20d7b44bdf8a5a96bd34ae?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jun 03 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jun 03 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jun 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bb61b2c65b37b18ee?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jun 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jun 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a02e8777c753c287f6e1bf3?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jun 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jun 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jun 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jun 03 |
 | **[CRH](http://crh.com)** | **[Sales Operations Analyst Intern](https://jobright.ai/jobs/info/6a205e51902d19201c7b1c73?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jun 03 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Development Prospect Research Intern](https://jobright.ai/jobs/info/6a205c894bdf8a5a96bd02d0?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jun 03 |
 | **[Valley Collective](https://www.thevalleycollective.com/)** | **[Sales & Promotions Intern](https://jobright.ai/jobs/info/6a1d72c3b524ae49285a6423?utm_campaign=1051&utm_source=git)** | Greater McAllen Area | On Site | Jun 03 |
