@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ted and Greg's](https://tedandgregs.com)** | **[Product Sales Intern](https://jobright.ai/jobs/info/6a222f11ca8f0b365d7ab28d?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jun 04 |
+| **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Wholesale Intern (Summer 2026)](https://jobright.ai/jobs/info/6a222cb4902d19201c7bc51e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 04 |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a222cb3c00e701fe8373206?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Jun 04 |
+| **[Comscore, Inc.](http://www.comscore.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21ddd64bdf8a5a96bd8cb2?utm_campaign=1051&utm_source=git)** | VA - Reston, US | Remote | Jun 04 |
+| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21de4b7c30cc2cc516bf73?utm_campaign=1051&utm_source=git)** | Remote - USA, US | Remote | Jun 04 |
+| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1d97299111f771d1a19796?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
+| ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 04 |
+| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
+| **[Levata](https://www.levata.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/6a21f956ca8f0b365d7aa442?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | On Site | Jun 04 |
 | **[Alliance Residential Company](https://allresco.com/)** | **[Development Intern](https://jobright.ai/jobs/info/6a2218f27c30cc2cc516d637?utm_campaign=1051&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Jun 04 |
 | **[Tricon Homes](http://www.triconhomes.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6a220905902d19201c7bbc37?utm_campaign=1051&utm_source=git)** | Tustin, CA | On Site | Jun 04 |
 | **[ProTec Building Services](http://goprotec.com)** | **[Business Development & Marketing Summer Internship](https://jobright.ai/jobs/info/6a2200287c30cc2cc516cfac?utm_campaign=1051&utm_source=git)** | San Diego,CA,US | On Site | Jun 04 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Wholesale Intern (Summer 2026)](https://jobright.ai/jobs/info/6a21fbd0c00e701fe83725f1?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Sales & Data Analytics Intern](https://jobright.ai/jobs/info/6a21a12c902d19201c7b86eb?utm_campaign=1051&utm_source=git)** | Troy, MI, US | On Site | Jun 04 |
-| **[Levata](https://www.levata.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/6a21f956ca8f0b365d7aa442?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | On Site | Jun 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Partner Enablement Intern (Fall/September 2026, 4 Months)](https://jobright.ai/jobs/info/6a21f766902d19201c7bb535?utm_campaign=1051&utm_source=git)** | Oakville | Hybrid | Jun 04 |
 | ↳ | **[Partner Enablement Intern (Fall/September 2026, 4 Months)](https://jobright.ai/jobs/info/6a21f764902d19201c7bb533?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 04 |
 | **[Phamily](https://phamily.com/)** | **[MBA Intern- Revenue (RPM Commercialization)](https://jobright.ai/jobs/info/6a21f758338c0123051220a9?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 04 |
@@ -99,16 +107,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6a21e012c00e701fe83717ec?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jun 04 |
 | ↳ | **[Sales Management Intern](https://jobright.ai/jobs/info/6a21dff7902d19201c7baa9d?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jun 04 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a21deb4ca8f0b365d7a97de?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jun 04 |
-| **[Comscore, Inc.](http://www.comscore.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21de4b7c30cc2cc516bf73?utm_campaign=1051&utm_source=git)** | Remote - USA, US | Remote | Jun 04 |
-| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21de467c30cc2cc516bf57?utm_campaign=1051&utm_source=git)** | VA - Reston, US | Remote | Jun 04 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative- Internship Fall 2026](https://jobright.ai/jobs/info/6a21dd644bdf8a5a96bd8c5a?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jun 04 |
-| **[Gelber Group LLC](http://www.gelbergroup.com/)** | **[Trading Internship - Boston Summer 2026](https://jobright.ai/jobs/info/6a21dbca4bdf8a5a96bd8a81?utm_campaign=1051&utm_source=git)** | Gelber Boston | Remote | Jun 04 |
-| ↳ | **[Trading Internship - Boston Summer 2026](https://jobright.ai/jobs/info/6a21dbca4bdf8a5a96bd8a88?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jun 04 |
+| **[Gelber Group LLC](http://www.gelbergroup.com/)** | **[Trading Internship - Boston Summer 2026](https://jobright.ai/jobs/info/6a21dbca4bdf8a5a96bd8a88?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jun 04 |
+| ↳ | **[Trading Internship - Boston Summer 2026](https://jobright.ai/jobs/info/6a21dbca4bdf8a5a96bd8a81?utm_campaign=1051&utm_source=git)** | Gelber Boston | Remote | Jun 04 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Sales Operations Analyst Intern](https://jobright.ai/jobs/info/6a21da3f7c30cc2cc516bb2e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jun 04 |
 | **[Acosta](https://www.acosta.com)** | **[Intern](https://jobright.ai/jobs/info/6a21d8a7902d19201c7ba46e?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jun 04 |
-| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 04 |
-| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
-| ↳ | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1d97299111f771d1a19796?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
 | **[Trajektory](https://www.trajektory.com)** | **[Customer Success Fall Internship](https://jobright.ai/jobs/info/6a21d792ca8f0b365d7a923f?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jun 04 |
 | **[A Quality Facility Services](https://www.aqualityfacilityservices.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a21931ec00e701fe836f00a?utm_campaign=1051&utm_source=git)** | Canton OH | On Site | Jun 04 |
 | **[Continental](https://www.continental.com)** | **[Pricing Intern](https://jobright.ai/jobs/info/6a21d3a5c00e701fe8371172?utm_campaign=1051&utm_source=git)** | Fairlawn, OH | Hybrid | Jun 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6a06f94724dcb03739f1b148?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jun 04 |
 | ↳ | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6a1b43de6b135014dbc8e2a2?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | Jun 04 |
 | **[Phoenix Systems](https://phoenixsystems.tv)** | **[Intern - Marketing & E-Commerce / Unpaid](https://jobright.ai/jobs/info/6a2175bc902d19201c7b780d?utm_campaign=1051&utm_source=git)** | Alpharetta,GA,US | On Site | Jun 04 |
-| **[TruGen AI](https://trugen.ai)** | **[Account Executive (Internship)](https://jobright.ai/jobs/info/6a216618902d19201c7b7403?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 04 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/695be93bf1f8465b79f1e55b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jun 04 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6a2160ea902d19201c7b7379?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
