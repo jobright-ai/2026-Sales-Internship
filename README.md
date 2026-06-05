@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nestlé](https://www.nestle.com)** | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df62909ecfd704b3e4588?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Jun 05 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Commercial Strategy](https://jobright.ai/jobs/info/69b077250b2db6275c0471bb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 05 |
 | **[Copart](http://www.copart.com)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/69cc42f9e1921223acc74e77?utm_campaign=1051&utm_source=git)** | Dallas, TX - Headquarters | On Site | Jun 05 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a22f735d46c0f7996084348?utm_campaign=1051&utm_source=git)** | Arkansas, United States | Remote | Jun 05 |
@@ -67,9 +68,9 @@ For a complete list, click the following sortable link below:
 | **[KRAFZEN](krafzeninc.com)** | **[Cold Calling and Lead Generation Intern (Commission-Based)](https://jobright.ai/jobs/info/6a22eaf3dedf78312c7ab5d2?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 05 |
 | **[SAIC](http://www.saic.com)** | **[Business Development Operations Intern](https://jobright.ai/jobs/info/6a22e993757ade085b6ad64a?utm_campaign=1051&utm_source=git)** | San Diego, CA, United States | On Site | Jun 05 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a22e8cb6624e500cad0ac68?utm_campaign=1051&utm_source=git)** | North Dakota, United States | Remote | Jun 05 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 05 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | Jun 05 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18f12f8b43cf398ad41?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 05 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a0455df7c753c287f6ee559?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | Hybrid | Jun 05 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a11a18b12f8b43cf398ad3d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 05 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | Jun 05 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #741](https://jobright.ai/jobs/info/6a22d86314de9460dc843466?utm_campaign=1051&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Jun 05 |
 | ↳ | **[Retail Management Intern #741](https://jobright.ai/jobs/info/6a22d86114de9460dc843465?utm_campaign=1051&utm_source=git)** | 215 W 20th Ave, Oshkosh, WI, 54902 | On Site | Jun 05 |
@@ -99,13 +100,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a225298d1ab07243c7f7b3c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 04 |
 | ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a2251e894d89a1392b5165c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 04 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a224130ca8f0b365d7ab870?utm_campaign=1051&utm_source=git)** | 1020 North 145th Ave East, Tulsa, OK74116 | On Site | Jun 04 |
-| **[Comscore, Inc.](http://www.comscore.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21ddd74bdf8a5a96bd8cb3?utm_campaign=1051&utm_source=git)** | Remote - USA, US | Remote | Jun 04 |
-| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21ddd64bdf8a5a96bd8cb2?utm_campaign=1051&utm_source=git)** | VA - Reston, US | Remote | Jun 04 |
+| **[Comscore, Inc.](http://www.comscore.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21ddd64bdf8a5a96bd8cb2?utm_campaign=1051&utm_source=git)** | VA - Reston, US | Remote | Jun 04 |
+| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21de4b7c30cc2cc516bf73?utm_campaign=1051&utm_source=git)** | Remote - USA, US | Remote | Jun 04 |
 | **[Ted and Greg's](https://tedandgregs.com)** | **[Product Sales Intern](https://jobright.ai/jobs/info/6a222f11ca8f0b365d7ab28d?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jun 04 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Wholesale Intern (Summer 2026)](https://jobright.ai/jobs/info/6a222cb4902d19201c7bc51e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a222cb3c00e701fe8373206?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Jun 04 |
-| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 04 |
-| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
+| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
+| ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 04 |
 | ↳ | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1d97299111f771d1a19796?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
 | **[Levata](https://www.levata.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/6a21f956ca8f0b365d7aa442?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | On Site | Jun 04 |
 | **[Alliance Residential Company](https://allresco.com/)** | **[Development Intern](https://jobright.ai/jobs/info/6a2218f27c30cc2cc516d637?utm_campaign=1051&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Jun 04 |
@@ -147,8 +148,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Intern](https://jobright.ai/jobs/info/6a21dff7902d19201c7baa9d?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jun 04 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a21deb4ca8f0b365d7a97de?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jun 04 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative- Internship Fall 2026](https://jobright.ai/jobs/info/6a21dd644bdf8a5a96bd8c5a?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jun 04 |
-| **[Gelber Group LLC](http://www.gelbergroup.com/)** | **[Trading Internship - Boston Summer 2026](https://jobright.ai/jobs/info/6a21dbca4bdf8a5a96bd8a88?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jun 04 |
-| ↳ | **[Trading Internship - Boston Summer 2026](https://jobright.ai/jobs/info/6a21dbca4bdf8a5a96bd8a81?utm_campaign=1051&utm_source=git)** | Gelber Boston | Remote | Jun 04 |
+| **[Gelber Group LLC](http://www.gelbergroup.com/)** | **[Trading Internship - Boston Summer 2026](https://jobright.ai/jobs/info/6a21dbca4bdf8a5a96bd8a81?utm_campaign=1051&utm_source=git)** | Gelber Boston | Remote | Jun 04 |
+| ↳ | **[Trading Internship - Boston Summer 2026](https://jobright.ai/jobs/info/6a21dbca4bdf8a5a96bd8a88?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jun 04 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Sales Operations Analyst Intern](https://jobright.ai/jobs/info/6a21da3f7c30cc2cc516bb2e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jun 04 |
 | **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Development Intern](https://jobright.ai/jobs/info/6a223c93ca8f0b365d7ab760?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jun 04 |
 | **[Trajektory](https://www.trajektory.com)** | **[Customer Success Fall Internship](https://jobright.ai/jobs/info/6a21d792ca8f0b365d7a923f?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jun 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Continental](https://www.continental.com)** | **[Pricing Intern](https://jobright.ai/jobs/info/6a21d3a5c00e701fe8371172?utm_campaign=1051&utm_source=git)** | Fairlawn, OH | Hybrid | Jun 04 |
 | **[SAP Taulia](https://taulia.com/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a0efffc12f8b43cf397b1fa?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 04 |
 | **[CWS Apartment Homes](http://cwsapartments.com)** | **[Leasing Intern - Regents West at 26th](https://jobright.ai/jobs/info/6a21d0d1338c012305120df5?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jun 04 |
-| **[Frost](https://www.frostbank.com/)** | **[College Intern - Credit Operations](https://jobright.ai/jobs/info/6a21d02d338c012305120db5?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
