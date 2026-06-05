@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bd1556b10602456281f6ee?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 05 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Associate Intern](https://jobright.ai/jobs/info/6a22a2b04239a4353887c53a?utm_campaign=1051&utm_source=git)** | Columbus, United States | On Site | Jun 05 |
+| **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[CRM Intern (Summer 2026)](https://jobright.ai/jobs/info/69ce9466cdb525785fb98c86?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 05 |
+| **[TikTok](https://www.tiktok.com)** | **[Entertainment Partnerships and Operations Project Intern (TikTok-Operations-Entertainment) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9afe5e0cd471b2f13e9fb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 05 |
+| ↳ | **[Seller Strategy Business Analyst Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/69bc4d944828227293fdec53?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jun 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a225c3ed1ab07243c7f7d44?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, US, 30009 | On Site | Jun 05 |
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/6a0671b66c07461fe17208e6?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jun 05 |
 | **[Cottingham & Butler](https://www.cottinghambutler.com/)** | **[2026 Sales Internship](https://jobright.ai/jobs/info/6a2285abd1ab07243c7f84be?utm_campaign=1051&utm_source=git)** | Dubuque, IA | On Site | Jun 05 |
@@ -68,14 +73,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a225298d1ab07243c7f7b3c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 04 |
 | ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a2251e894d89a1392b5165c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 04 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a224130ca8f0b365d7ab870?utm_campaign=1051&utm_source=git)** | 1020 North 145th Ave East, Tulsa, OK74116 | On Site | Jun 04 |
-| **[Comscore, Inc.](http://www.comscore.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21de467c30cc2cc516bf57?utm_campaign=1051&utm_source=git)** | VA - Reston, US | Remote | Jun 04 |
+| **[Comscore, Inc.](http://www.comscore.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21ddd64bdf8a5a96bd8cb2?utm_campaign=1051&utm_source=git)** | VA - Reston, US | Remote | Jun 04 |
 | ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21ddd74bdf8a5a96bd8cb3?utm_campaign=1051&utm_source=git)** | Remote - USA, US | Remote | Jun 04 |
 | **[Ted and Greg's](https://tedandgregs.com)** | **[Product Sales Intern](https://jobright.ai/jobs/info/6a222f11ca8f0b365d7ab28d?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jun 04 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Wholesale Intern (Summer 2026)](https://jobright.ai/jobs/info/6a222cb4902d19201c7bc51e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a222cb3c00e701fe8373206?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Jun 04 |
-| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 04 |
+| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
 | ↳ | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1d97299111f771d1a19796?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
-| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
+| ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 04 |
 | **[Levata](https://www.levata.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/6a21f956ca8f0b365d7aa442?utm_campaign=1051&utm_source=git)** | Chicago, Illinois | On Site | Jun 04 |
 | **[Alliance Residential Company](https://allresco.com/)** | **[Development Intern](https://jobright.ai/jobs/info/6a2218f27c30cc2cc516d637?utm_campaign=1051&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Jun 04 |
 | **[Tricon Homes](http://www.triconhomes.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6a220905902d19201c7bbc37?utm_campaign=1051&utm_source=git)** | Tustin, CA | On Site | Jun 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/6a1604720073182bd92af5b4?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jun 04 |
 | **[LV Collective](https://lvcollective.com)** | **[Sales and Leasing Intern](https://jobright.ai/jobs/info/6a218cf1338c01230511e9e8?utm_campaign=1051&utm_source=git)** | Austin, Texas, United States | On Site | Jun 04 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a21e0cbc00e701fe837183b?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Jun 04 |
-| **[Beagle](www.beagleforpm.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/6a218805ca8f0b365d7a696b?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Jun 04 |
-| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a218794338c01230511e77a?utm_campaign=1051&utm_source=git)** | Irvine, California, United States of America | On Site | Jun 04 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | Jun 04 |
-| **[TZ Medical Monitoring Solutions](https://www.tzmedical.com/monitoring-solutions)** | **[Medical Device Sales Internship Fall 2026 (Paid)](https://jobright.ai/jobs/info/6a2185cd902d19201c7b7b7f?utm_campaign=1051&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jun 04 |
-| **[Phoenix Systems](https://phoenixsystems.tv)** | **[Intern - Marketing & E-Commerce / Unpaid](https://jobright.ai/jobs/info/6a217ec54bdf8a5a96bd5fa7?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
