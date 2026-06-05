@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cottingham & Butler](https://www.cottinghambutler.com/)** | **[2026 Sales Internship](https://jobright.ai/jobs/info/6a2285abd1ab07243c7f84be?utm_campaign=1051&utm_source=git)** | Dubuque, IA | On Site | Jun 05 |
+| ↳ | **[2026 Sales Internship](https://jobright.ai/jobs/info/6a2285a6d1ab07243c7f84ba?utm_campaign=1051&utm_source=git)** | Dallas, Texas, United States | On Site | Jun 05 |
 | **[SparkPrintz](https://www.sparkprintz.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a2274fb94d89a1392b51ce5?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a225c3ed1ab07243c7f7d44?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, US, 30009 | On Site | Jun 04 |
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Development Internship](https://jobright.ai/jobs/info/6a2256a08e98cb42c8a8350f?utm_campaign=1051&utm_source=git)** | Chicago, IL 60614, USA | On Site | Jun 04 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a225298d1ab07243c7f7b3c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 04 |
 | ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a2251e894d89a1392b5165c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 04 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a224130ca8f0b365d7ab870?utm_campaign=1051&utm_source=git)** | 1020 North 145th Ave East, Tulsa, OK74116 | On Site | Jun 04 |
-| **[Comscore, Inc.](http://www.comscore.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21de467c30cc2cc516bf57?utm_campaign=1051&utm_source=git)** | VA - Reston, US | Remote | Jun 04 |
-| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21de4b7c30cc2cc516bf73?utm_campaign=1051&utm_source=git)** | Remote - USA, US | Remote | Jun 04 |
+| **[Comscore, Inc.](http://www.comscore.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21ddd74bdf8a5a96bd8cb3?utm_campaign=1051&utm_source=git)** | Remote - USA, US | Remote | Jun 04 |
+| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21ddd64bdf8a5a96bd8cb2?utm_campaign=1051&utm_source=git)** | VA - Reston, US | Remote | Jun 04 |
 | **[Ted and Greg's](https://tedandgregs.com)** | **[Product Sales Intern](https://jobright.ai/jobs/info/6a222f11ca8f0b365d7ab28d?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jun 04 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Wholesale Intern (Summer 2026)](https://jobright.ai/jobs/info/6a222cb4902d19201c7bc51e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a222cb3c00e701fe8373206?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Jun 04 |
@@ -112,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Intern](https://jobright.ai/jobs/info/6a21dff7902d19201c7baa9d?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jun 04 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a21deb4ca8f0b365d7a97de?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jun 04 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative- Internship Fall 2026](https://jobright.ai/jobs/info/6a21dd644bdf8a5a96bd8c5a?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jun 04 |
-| **[Gelber Group LLC](http://www.gelbergroup.com/)** | **[Trading Internship - Boston Summer 2026](https://jobright.ai/jobs/info/6a21dbca4bdf8a5a96bd8a88?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jun 04 |
-| ↳ | **[Trading Internship - Boston Summer 2026](https://jobright.ai/jobs/info/6a21dbca4bdf8a5a96bd8a81?utm_campaign=1051&utm_source=git)** | Gelber Boston | Remote | Jun 04 |
+| **[Gelber Group LLC](http://www.gelbergroup.com/)** | **[Trading Internship - Boston Summer 2026](https://jobright.ai/jobs/info/6a21dbca4bdf8a5a96bd8a81?utm_campaign=1051&utm_source=git)** | Gelber Boston | Remote | Jun 04 |
+| ↳ | **[Trading Internship - Boston Summer 2026](https://jobright.ai/jobs/info/6a21dbca4bdf8a5a96bd8a88?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jun 04 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Sales Operations Analyst Intern](https://jobright.ai/jobs/info/6a21da3f7c30cc2cc516bb2e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jun 04 |
 | **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Development Intern](https://jobright.ai/jobs/info/6a223c93ca8f0b365d7ab760?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jun 04 |
 | **[Trajektory](https://www.trajektory.com)** | **[Customer Success Fall Internship](https://jobright.ai/jobs/info/6a21d792ca8f0b365d7a923f?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jun 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a217ea1ca8f0b365d7a6655?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jun 04 |
 | **[Allstream Energy Partners](https://allstreamep.com/)** | **[Sales & Business Development Intern (Energy Marketing & Media)](https://jobright.ai/jobs/info/6a217e46902d19201c7b7a09?utm_campaign=1051&utm_source=git)** | Greater Houston | Hybrid | Jun 04 |
 | **[Zywa](https://zywa.co)** | **[GTM Engineer (Internship -> Fulltime)](https://jobright.ai/jobs/info/6a21c460902d19201c7b9bf9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Jun 04 |
-| **[Smartly](http://smartly.io)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6a1b43de6b135014dbc8e2a2?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | Jun 04 |
-| ↳ | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6a04fb0f22395b6dc6da2a89?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
