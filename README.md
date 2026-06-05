@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Parker Hannifin](http://www.parker.com)** | **[Sales / Supply Chain Intern](https://jobright.ai/jobs/info/6a0aec4d22d0d34036c872de?utm_campaign=1051&utm_source=git)** | DAYTON, OH, United States | On Site | Jun 05 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/6a1e134c6b135014dbc9a858?utm_campaign=1051&utm_source=git)** | Flushing, New York, United States | On Site | Jun 05 |
-| ↳ | **[Financial Sales Intern (Queens)](https://jobright.ai/jobs/info/69d57c1ccfdc6132f9462bbf?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jun 05 |
+| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Queens)](https://jobright.ai/jobs/info/69d57c1ccfdc6132f9462bbf?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jun 05 |
+| ↳ | **[Financial Sales Intern](https://jobright.ai/jobs/info/6a1e134c6b135014dbc9a858?utm_campaign=1051&utm_source=git)** | Flushing, New York, United States | On Site | Jun 05 |
 | ↳ | **[Financial Sales Intern (Midtown Manhattan)](https://jobright.ai/jobs/info/69c91896e565c26a70033d74?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 05 |
 | **[Legends Global](http://legends.net)** | **[Ohio State Athletics - Retail Fall Internship 2026](https://jobright.ai/jobs/info/6a06161af3d6cc51d638ed83?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Logistics Partnership Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8ad46c0f79960832ea?utm_campaign=1051&utm_source=git)** | Seattle | On Site | Jun 05 |
