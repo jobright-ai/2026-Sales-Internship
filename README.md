@@ -67,17 +67,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 05 |
 | **[Global Dream Team Collective](https://www.globaldreamteam.co/)** | **[Community Growth & Partnerships Intern](https://jobright.ai/jobs/info/6a236b3d4239a4353887e1c2?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Jun 05 |
 | **[Swiss Re](http://www.swissre.com)** | **[Customer & Distribution Intern](https://jobright.ai/jobs/info/6a2366cb6624e500cad0b923?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 05 |
-| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a04fea0f3d6cc51d63859cb?utm_campaign=1051&utm_source=git)** | Melbourne, FL, US | On Site | Jun 05 |
-| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69d58c1acdb525785fbd1cdd?utm_campaign=1051&utm_source=git)** | Holland, MI 49424 | On Site | Jun 05 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69ff4484c4b08448a0b17773?utm_campaign=1051&utm_source=git)** | Naples, FL, US | On Site | Jun 05 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a0ce6b722d0d34036c99d99?utm_campaign=1051&utm_source=git)** | Vancouver, WA, US | On Site | Jun 05 |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69d58c1acdb525785fbd1cdd?utm_campaign=1051&utm_source=git)** | Holland, MI 49424 | On Site | Jun 05 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a04fea0f3d6cc51d63859cb?utm_campaign=1051&utm_source=git)** | Melbourne, FL, US | On Site | Jun 05 |
 | ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69d58c1ccdb525785fbd1cf0?utm_campaign=1051&utm_source=git)** | Schenectady, NY 12303 | On Site | Jun 05 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a0ce6b722d0d34036c99d99?utm_campaign=1051&utm_source=git)** | Vancouver, WA, US | On Site | Jun 05 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69ff4484c4b08448a0b17773?utm_campaign=1051&utm_source=git)** | Naples, FL, US | On Site | Jun 05 |
 | **[Agilent Technologies](http://www.agilent.com)** | **[Intern – Predictive Sales Prospecting](https://jobright.ai/jobs/info/6a186e8417492d3a389b6281?utm_campaign=1051&utm_source=git)** | US-DE-Wilmington, US | On Site | Jun 05 |
 | **[Keen](https://keenapps.co/)** | **[Leasing & Activations Intern](https://jobright.ai/jobs/info/6a232d9fdedf78312c7abb41?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jun 05 |
 | **[Nestlé](https://www.nestle.com)** | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df66283d714428981423b?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Jun 05 |
 | **[Jackson](https://www.jackson.com)** | **[Intern](https://jobright.ai/jobs/info/69ebbc4716b2612c2a11e383?utm_campaign=1051&utm_source=git)** | Nashville, TN, US | On Site | Jun 05 |
-| **[Nestlé](https://www.nestle.com)** | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df65883d7144289814211?utm_campaign=1051&utm_source=git)** | Brentwood, TN | On Site | Jun 05 |
-| ↳ | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df62a09ecfd704b3e458b?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jun 05 |
+| **[Nestlé](https://www.nestle.com)** | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df62a09ecfd704b3e458b?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jun 05 |
+| ↳ | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df65883d7144289814211?utm_campaign=1051&utm_source=git)** | Brentwood, TN | On Site | Jun 05 |
 | ↳ | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0e320780bf0430c762a750?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jun 05 |
 | ↳ | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0e3a55beb4d73cb62307b7?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jun 05 |
 | ↳ | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df62909ecfd704b3e4588?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Jun 05 |
@@ -102,12 +102,12 @@ For a complete list, click the following sortable link below:
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | Jun 05 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #741](https://jobright.ai/jobs/info/6a22d86314de9460dc843466?utm_campaign=1051&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Jun 05 |
 | ↳ | **[Retail Management Intern #741](https://jobright.ai/jobs/info/6a22d86114de9460dc843465?utm_campaign=1051&utm_source=git)** | 215 W 20th Ave, Oshkosh, WI, 54902 | On Site | Jun 05 |
-| **[Corsair](http://www.corsair.com)** | **[Partnership Operations Intern](https://jobright.ai/jobs/info/69e9bd9d4b0fa35a707700dc?utm_campaign=1051&utm_source=git)** | REMOTE, Milpitas, CA, 95035, US | Remote | Jun 05 |
-| ↳ | **[Partnership Operations Intern](https://jobright.ai/jobs/info/6a18b456abc8f63abac7b72e?utm_campaign=1051&utm_source=git)** | REMOTE, Milpitas, CA, 95035, US | Remote | Jun 05 |
+| **[Corsair](http://www.corsair.com)** | **[Partnership Operations Intern](https://jobright.ai/jobs/info/6a18b456abc8f63abac7b72e?utm_campaign=1051&utm_source=git)** | REMOTE, Milpitas, CA, 95035, US | Remote | Jun 05 |
+| ↳ | **[Partnership Operations Intern](https://jobright.ai/jobs/info/69e9bd9d4b0fa35a707700dc?utm_campaign=1051&utm_source=git)** | REMOTE, Milpitas, CA, 95035, US | Remote | Jun 05 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a22d2b0d46c0f79960838c2?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Jun 05 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695dc2f5efe5dd5cbd3d9cc2?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Jun 05 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/699782d7ce78e77b4fdbd57f?utm_campaign=1051&utm_source=git)** | USA-MI-Southfield | On Site | Jun 05 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6997744081476f6176af9249?utm_campaign=1051&utm_source=git)** | MI-Southfield, UNAVAILABLE, USA | On Site | Jun 05 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6997744081476f6176af9249?utm_campaign=1051&utm_source=git)** | MI-Southfield, UNAVAILABLE, USA | On Site | Jun 05 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/699782d7ce78e77b4fdbd57f?utm_campaign=1051&utm_source=git)** | USA-MI-Southfield | On Site | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Sales / Supply Chain Intern](https://jobright.ai/jobs/info/6a06521c6c07461fe171f4bd?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Jun 05 |
 | ↳ | **[Sales / Supply Chain Intern](https://jobright.ai/jobs/info/6a0aec4d22d0d34036c872de?utm_campaign=1051&utm_source=git)** | DAYTON, OH, United States | On Site | Jun 05 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/69cc76e7891d7b11cfcac7b6?utm_campaign=1051&utm_source=git)** | Hoboken, NJ | On Site | Jun 05 |
@@ -132,14 +132,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a2251e894d89a1392b5165c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 04 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a224130ca8f0b365d7ab870?utm_campaign=1051&utm_source=git)** | 1020 North 145th Ave East, Tulsa, OK74116 | On Site | Jun 04 |
 | **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a179cb51430333075cd2a5d?utm_campaign=1051&utm_source=git)** | McAllen, TX | On Site | Jun 04 |
-| **[Comscore, Inc.](http://www.comscore.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21ddd74bdf8a5a96bd8cb3?utm_campaign=1051&utm_source=git)** | Remote - USA, US | Remote | Jun 04 |
+| **[Comscore, Inc.](http://www.comscore.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21de4b7c30cc2cc516bf73?utm_campaign=1051&utm_source=git)** | Remote - USA, US | Remote | Jun 04 |
 | ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21ddd64bdf8a5a96bd8cb2?utm_campaign=1051&utm_source=git)** | VA - Reston, US | Remote | Jun 04 |
 | **[Ted and Greg's](https://tedandgregs.com)** | **[Product Sales Intern](https://jobright.ai/jobs/info/6a222f11ca8f0b365d7ab28d?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jun 04 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Wholesale Intern (Summer 2026)](https://jobright.ai/jobs/info/6a222cb4902d19201c7bc51e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a222cb3c00e701fe8373206?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Jun 04 |
-| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 04 |
+| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
 | ↳ | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1d97299111f771d1a19796?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
-| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
+| ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 04 |
 | **[Alliance Residential Company](https://allresco.com/)** | **[Development Intern](https://jobright.ai/jobs/info/6a2218f27c30cc2cc516d637?utm_campaign=1051&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Jun 04 |
 | **[ProTec Building Services](http://goprotec.com)** | **[Business Development & Marketing Summer Internship](https://jobright.ai/jobs/info/6a2200287c30cc2cc516cfac?utm_campaign=1051&utm_source=git)** | San Diego,CA,US | On Site | Jun 04 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Wholesale Intern (Summer 2026)](https://jobright.ai/jobs/info/6a21fbd0c00e701fe83725f1?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 04 |
