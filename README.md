@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 06 |
+| ↳ | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 06 |
 | **[Puerto Rico Science, Technology & Research Trust](http://www.prsciencetrust.org/)** | **[Business Development Intern at Fase1 (Temporary Internship)](https://jobright.ai/jobs/info/6a2473f7757ade085b6b052c?utm_campaign=1051&utm_source=git)** | San Juan, TX | On Site | Jun 06 |
 | **[Margaritaville at Sea](https://margaritavilleatsea.com)** | **[Retail Intern](https://jobright.ai/jobs/info/6a0226f2c2ffb31f4536a148?utm_campaign=1051&utm_source=git)** | Orlando Office - Orlando, FL 32801 | On Site | Jun 06 |
 | **[KZ_K STUDIO](https://kzkstudionyc.com/)** | **[Sales and Operations Intern](https://jobright.ai/jobs/info/6a24684014de9460dc8469b0?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jun 06 |
@@ -67,15 +69,15 @@ For a complete list, click the following sortable link below:
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Buying Intern](https://jobright.ai/jobs/info/69cee712891d7b11cfcce32d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 06 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[TractorHouse Sales Intern](https://jobright.ai/jobs/info/664e9858f97ff61ecf83b39e?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jun 06 |
 | **[Richmark Property Management](https://www.richmarkcompanies.com)** | **[Leasing intern- Fort Collins](https://jobright.ai/jobs/info/6a2430846624e500cad0d665?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Jun 06 |
-| **[Rubrik](http://rubrik.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a15a8cc1935fa61b3c69a14?utm_campaign=1051&utm_source=git)** | Austin, TX Office | On Site | Jun 06 |
-| ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a15a8de1935fa61b3c69a21?utm_campaign=1051&utm_source=git)** | Austin (TX) Office | On Site | Jun 06 |
-| ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6977de8cfdeb8243a27ad109?utm_campaign=1051&utm_source=git)** | Austin (TX) Office | On Site | Jun 06 |
+| **[Rubrik](http://rubrik.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a15a8de1935fa61b3c69a21?utm_campaign=1051&utm_source=git)** | Austin (TX) Office | On Site | Jun 06 |
+| ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a15a8cc1935fa61b3c69a14?utm_campaign=1051&utm_source=git)** | Austin, TX Office | On Site | Jun 06 |
 | ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a06ff664a0a6a7e7d81f0cb?utm_campaign=1051&utm_source=git)** | Austin, TX Office | On Site | Jun 06 |
+| ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6977de8cfdeb8243a27ad109?utm_campaign=1051&utm_source=git)** | Austin (TX) Office | On Site | Jun 06 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | Jun 06 |
-| **[Smartly](http://smartly.io)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a07605b3b54ed42d74ccafe?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | Jun 06 |
+| **[Smartly](http://smartly.io)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a15fdc20073182bd92aebaf?utm_campaign=1051&utm_source=git)** | New York | On Site | Jun 06 |
 | ↳ | **[Customer Success Intern](https://jobright.ai/jobs/info/6a15fddc0073182bd92aebb8?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | Jun 06 |
 | ↳ | **[Customer Success Intern](https://jobright.ai/jobs/info/6a0760583b54ed42d74ccafd?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jun 06 |
-| ↳ | **[Customer Success Intern](https://jobright.ai/jobs/info/6a15fdc20073182bd92aebaf?utm_campaign=1051&utm_source=git)** | New York | On Site | Jun 06 |
+| ↳ | **[Customer Success Intern](https://jobright.ai/jobs/info/6a07605b3b54ed42d74ccafe?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | Jun 06 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Business Development Intern Fall 2026](https://jobright.ai/jobs/info/6a07b5343b54ed42d74d1146?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Jun 06 |
 | **[Linkby](https://linkby.com/)** | **[Partnerships & Growth Intern (Fall/Winter 2026 - NYC)](https://jobright.ai/jobs/info/6a2414976624e500cad0d3a3?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | Jun 06 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Business Development Internship](https://jobright.ai/jobs/info/69e14637d612782e61147c8b?utm_campaign=1051&utm_source=git)** | Aventura, FL | On Site | Jun 06 |
@@ -85,28 +87,25 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Sales Management Trainee Internship](https://jobright.ai/jobs/info/6a23fe28d46c0f79960862d8?utm_campaign=1051&utm_source=git)** | Jackson, MS, US | On Site | Jun 06 |
 | ↳ | **[Sales Management Trainee Intern - Fall 2026](https://jobright.ai/jobs/info/6a23fe1014de9460dc845dda?utm_campaign=1051&utm_source=git)** | Los Angeles - Downtown | On Site | Jun 06 |
 | ↳ | **[Sales Management Trainee Intern - Fall 2026](https://jobright.ai/jobs/info/6a23fe1014de9460dc845dd6?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 06 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 06 |
-| ↳ | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 06 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a176b9cb091c7417c4fe516?utm_campaign=1051&utm_source=git)** | SNOW LAKE, Manitoba, Canada | On Site | Jun 05 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a23acd014de9460dc845211?utm_campaign=1051&utm_source=git)** | HAMILTON, Ontario, Canada | On Site | Jun 05 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/6a237324d46c0f7996084e0a?utm_campaign=1051&utm_source=git)** | 2555 E Camelback Rd, Phoenix, AZ 85016, USA | On Site | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Logistics Partnership Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a239000dedf78312c7ac90c?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jun 05 |
 | **[CBRE](https://www.cbre.com)** | **[Bay Area Intern](https://jobright.ai/jobs/info/6a238b69757ade085b6ae6e8?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jun 05 |
 | **[SAIC](http://www.saic.com)** | **[Business Development Operations Intern](https://jobright.ai/jobs/info/6a22e993757ade085b6ad64a?utm_campaign=1051&utm_source=git)** | San Diego, CA, United States | On Site | Jun 05 |
-| **[Sahiyo](https://sahiyo.org/)** | **[Development Internship](https://jobright.ai/jobs/info/6a23883714de9460dc844ab4?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 05 |
 | **[Global Dream Team Collective](https://www.globaldreamteam.co/)** | **[Community Growth & Partnerships Intern](https://jobright.ai/jobs/info/6a236b3d4239a4353887e1c2?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Jun 05 |
 | **[Swiss Re](http://www.swissre.com)** | **[Customer & Distribution Intern](https://jobright.ai/jobs/info/6a2366cb6624e500cad0b923?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 05 |
-| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a0ce6b722d0d34036c99d99?utm_campaign=1051&utm_source=git)** | Vancouver, WA, US | On Site | Jun 05 |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a04fea0f3d6cc51d63859cb?utm_campaign=1051&utm_source=git)** | Melbourne, FL, US | On Site | Jun 05 |
+| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69d58c1ccdb525785fbd1cf0?utm_campaign=1051&utm_source=git)** | Schenectady, NY 12303 | On Site | Jun 05 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a0ce6b722d0d34036c99d99?utm_campaign=1051&utm_source=git)** | Vancouver, WA, US | On Site | Jun 05 |
 | ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69d58c1acdb525785fbd1cdd?utm_campaign=1051&utm_source=git)** | Holland, MI 49424 | On Site | Jun 05 |
 | ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69ff4484c4b08448a0b17773?utm_campaign=1051&utm_source=git)** | Naples, FL, US | On Site | Jun 05 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a04fea0f3d6cc51d63859cb?utm_campaign=1051&utm_source=git)** | Melbourne, FL, US | On Site | Jun 05 |
-| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69d58c1ccdb525785fbd1cf0?utm_campaign=1051&utm_source=git)** | Schenectady, NY 12303 | On Site | Jun 05 |
 | **[Agilent Technologies](http://www.agilent.com)** | **[Intern – Predictive Sales Prospecting](https://jobright.ai/jobs/info/6a186e8417492d3a389b6281?utm_campaign=1051&utm_source=git)** | US-DE-Wilmington, US | On Site | Jun 05 |
 | **[Keen](https://keenapps.co/)** | **[Leasing & Activations Intern](https://jobright.ai/jobs/info/6a232d9fdedf78312c7abb41?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jun 05 |
 | **[Nestlé](https://www.nestle.com)** | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df66283d714428981423b?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Jun 05 |
 | **[Jackson](https://www.jackson.com)** | **[Intern](https://jobright.ai/jobs/info/69ebbc4716b2612c2a11e383?utm_campaign=1051&utm_source=git)** | Nashville, TN, US | On Site | Jun 05 |
-| **[Nestlé](https://www.nestle.com)** | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df65883d7144289814211?utm_campaign=1051&utm_source=git)** | Brentwood, TN | On Site | Jun 05 |
-| ↳ | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df62a09ecfd704b3e458b?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jun 05 |
+| **[Nestlé](https://www.nestle.com)** | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df62a09ecfd704b3e458b?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jun 05 |
+| ↳ | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df65883d7144289814211?utm_campaign=1051&utm_source=git)** | Brentwood, TN | On Site | Jun 05 |
 | ↳ | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0e320780bf0430c762a750?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jun 05 |
 | ↳ | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0e3a55beb4d73cb62307b7?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jun 05 |
 | ↳ | **[2027 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/6a0df62909ecfd704b3e4588?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Jun 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a228dab93d61d79d1e0a7b0?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 04 |
 | ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a225298d1ab07243c7f7b3c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 04 |
 | ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a2251e894d89a1392b5165c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 04 |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a224130ca8f0b365d7ab870?utm_campaign=1051&utm_source=git)** | 1020 North 145th Ave East, Tulsa, OK74116 | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
