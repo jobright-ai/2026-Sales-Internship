@@ -113,12 +113,12 @@ For a complete list, click the following sortable link below:
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a224130ca8f0b365d7ab870?utm_campaign=1051&utm_source=git)** | 1020 North 145th Ave East, Tulsa, OK74116 | On Site | Jun 04 |
 | **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a179cb51430333075cd2a5d?utm_campaign=1051&utm_source=git)** | McAllen, TX | On Site | Jun 04 |
 | **[Comscore, Inc.](http://www.comscore.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21de4b7c30cc2cc516bf73?utm_campaign=1051&utm_source=git)** | Remote - USA, US | Remote | Jun 04 |
-| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21ddd64bdf8a5a96bd8cb2?utm_campaign=1051&utm_source=git)** | VA - Reston, US | Remote | Jun 04 |
+| ↳ | **[Sales Development Intern](https://jobright.ai/jobs/info/6a21de467c30cc2cc516bf57?utm_campaign=1051&utm_source=git)** | VA - Reston, US | Remote | Jun 04 |
 | **[Ted and Greg's](https://tedandgregs.com)** | **[Product Sales Intern](https://jobright.ai/jobs/info/6a222f11ca8f0b365d7ab28d?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jun 04 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Wholesale Intern (Summer 2026)](https://jobright.ai/jobs/info/6a222cb4902d19201c7bc51e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a222cb3c00e701fe8373206?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Jun 04 |
-| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
-| ↳ | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1d97299111f771d1a19796?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
+| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1d97299111f771d1a19796?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
+| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 04 |
 | ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 04 |
 | **[Alliance Residential Company](https://allresco.com/)** | **[Development Intern](https://jobright.ai/jobs/info/6a2218f27c30cc2cc516d637?utm_campaign=1051&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Jun 04 |
 | **[ProTec Building Services](http://goprotec.com)** | **[Business Development & Marketing Summer Internship](https://jobright.ai/jobs/info/6a2200287c30cc2cc516cfac?utm_campaign=1051&utm_source=git)** | San Diego,CA,US | On Site | Jun 04 |
