@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Challenge Manufacturing](http://challenge-mfg.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a1dceac6b135014dbc989ce?utm_campaign=1051&utm_source=git)** | 3200 Fruit Ridge Ave, Walker, MI 49544 | On Site | Jun 09 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b564e22d0d34036c8af5f?utm_campaign=1051&utm_source=git)** | Walker, MI - Corporate | On Site | Jun 09 |
+| **[TikTok](https://www.tiktok.com)** | **[Partner Operations Intern (Monetization Product Partnerships) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bd2056b10602456282103c?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jun 09 |
+| **[Geotab](http://www.geotab.com/)** | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1dcc809111f771d1a1b0f4?utm_campaign=1051&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 09 |
+| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1dcc8b9111f771d1a1b101?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 09 |
+| ↳ | **[Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1dcc839111f771d1a1b0f8?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia - Canada | Hybrid | Jun 09 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/6a27dc697061b51a3a5f2726?utm_campaign=1051&utm_source=git)** | Cromwell, CT | On Site | Jun 09 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Marketplace Operations](https://jobright.ai/jobs/info/6a0b80f2a235d749afa8618b?utm_campaign=1051&utm_source=git)** | New York, NY, US | Hybrid | Jun 09 |
 | ↳ | **[Intern - Marketplace Operations](https://jobright.ai/jobs/info/6a0b80f1a235d749afa86189?utm_campaign=1051&utm_source=git)** | Paramus, NJ, US | Hybrid | Jun 09 |
 | **[Gourmet Foods International](https://www.gfifoods.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a27d1f9add4b5278cb6024c?utm_campaign=1051&utm_source=git)** | GFI Atlanta - Decatur, GA 30034 | On Site | Jun 09 |
@@ -92,18 +99,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Agronomy Operations Fall Internship](https://jobright.ai/jobs/info/6a27295b2056260dd6e859d0?utm_campaign=1051&utm_source=git)** | Sleepy Eye,MN,US | On Site | Jun 08 |
 | **[OEC](http://www.oeconnection.com/)** | **[Associate Program Development Intern - Hybrid in the Austin, TX Market](https://jobright.ai/jobs/info/6a27287d4ec8d737d6dfe426?utm_campaign=1051&utm_source=git)** | Austin, TX, USA | Hybrid | Jun 08 |
 | ↳ | **[Associate Program Development Intern - Hybrid in the Austin, TX Market](https://jobright.ai/jobs/info/6a27287b4ec8d737d6dfe425?utm_campaign=1051&utm_source=git)** | 12600 Hill Country Blvd, Bee Cave, TX 78738, USA | Hybrid | Jun 08 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 08 |
-| ↳ | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 08 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 08 |
+| ↳ | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 08 |
 | **[OEC](http://www.oeconnection.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a27238730042e7539087576?utm_campaign=1051&utm_source=git)** | Bee Cave, TX | Hybrid | Jun 08 |
 | **[RJ Young](https://www.RJYoung.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a270b4bca77fd3096d25004?utm_campaign=1051&utm_source=git)** | Chattanooga, Tennessee, United States | On Site | Jun 08 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a271ea812f0202342262ab5?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Jun 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a271ea612f0202342262ab3?utm_campaign=1051&utm_source=git)** | Vermont, United States | Remote | Jun 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a271ea54ec8d737d6dfdeab?utm_campaign=1051&utm_source=git)** | Utah, United States | Remote | Jun 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a271ea52056260dd6e85383?utm_campaign=1051&utm_source=git)** | Rhode Island, United States | Remote | Jun 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a271ea5ca77fd3096d25748?utm_campaign=1051&utm_source=git)** | South Dakota, United States | Remote | Jun 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a271ea47d827633afff8b05?utm_campaign=1051&utm_source=git)** | Hawaii, United States | Remote | Jun 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a271ea52056260dd6e85383?utm_campaign=1051&utm_source=git)** | Rhode Island, United States | Remote | Jun 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a271ea54ec8d737d6dfdeab?utm_campaign=1051&utm_source=git)** | Utah, United States | Remote | Jun 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a271ea4ca77fd3096d25747?utm_campaign=1051&utm_source=git)** | Wisconsin, United States | Remote | Jun 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a271ea42056260dd6e85382?utm_campaign=1051&utm_source=git)** | Iowa, United States | Remote | Jun 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a271ea47d827633afff8b05?utm_campaign=1051&utm_source=git)** | Hawaii, United States | Remote | Jun 08 |
 | **[Nashville Sports Council](http://www.nashvillesports.com/)** | **[Partnerships Intern - Fall 2026](https://jobright.ai/jobs/info/6a271d9712f0202342262a7e?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jun 08 |
 | **[HotTakes](hottakes.com)** | **[Sales Development Representative (intern)](https://jobright.ai/jobs/info/69f529880b36ff0354750cd6?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Hybrid | Jun 08 |
 | ↳ | **[Sales Development Representative (intern)](https://jobright.ai/jobs/info/69f5297881706a5bd2165111?utm_campaign=1051&utm_source=git)** | Michigan, United States | Hybrid | Jun 08 |
@@ -113,9 +120,9 @@ For a complete list, click the following sortable link below:
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a270d5030042e7539086bc7?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Jun 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a270d257d827633afff8453?utm_campaign=1051&utm_source=git)** | Idaho, United States | Remote | Jun 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a270d1b7d827633afff844f?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | Jun 08 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 08 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jun 08 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 08 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 08 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jun 08 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jun 08 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a270caa4ec8d737d6dfd81f?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Jun 08 |
 | **[Promega Corporation](http://www.promega.com/es)** | **[Sales Intern - SF Region](https://jobright.ai/jobs/info/6a2706154ec8d737d6dfd56e?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jun 08 |
@@ -125,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Olympic Marketing Group](theomginc.com)** | **[Entry Level Sales Intern](https://jobright.ai/jobs/info/6a26fa71ca77fd3096d24a56?utm_campaign=1051&utm_source=git)** | Lacey, WA | On Site | Jun 08 |
 | **[Make-A-Wish® Central & South Texas](http://cstx.wish.org/)** | **[Mission Intern - Austin](https://jobright.ai/jobs/info/6a26f5c94ec8d737d6dfceda?utm_campaign=1051&utm_source=git)** | West Lake Hills,TX,US | Hybrid | Jun 08 |
 | ↳ | **[Mission Intern - San Antonio](https://jobright.ai/jobs/info/6a26f5c67d827633afff7af3?utm_campaign=1051&utm_source=git)** | San Antonio,TX,US | Hybrid | Jun 08 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a04ff474373b07358a39284?utm_campaign=1051&utm_source=git)** | Moses Lake, Washington, United States | On Site | Jun 08 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a19fb55e24ef36525828b4d?utm_campaign=1051&utm_source=git)** | Pasco, Washington, United States | On Site | Jun 08 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a19fb55e24ef36525828b4d?utm_campaign=1051&utm_source=git)** | Pasco, Washington, United States | On Site | Jun 08 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a04ff474373b07358a39284?utm_campaign=1051&utm_source=git)** | Moses Lake, Washington, United States | On Site | Jun 08 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a15cce7554b0e12c0586168?utm_campaign=1051&utm_source=git)** | Hermiston, Oregon, United States | On Site | Jun 08 |
 | **[PRG Real Estate](http://prgrealestate.com)** | **[Leasing Representative Intern](https://jobright.ai/jobs/info/6a26f0e97d827633afff789a?utm_campaign=1051&utm_source=git)** | South Falls Tower, Richmond, VA, US | On Site | Jun 08 |
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a26f1d92056260dd6e84194?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brandlete](https://www.brandletehq.com)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/6a160460554b0e12c058879b?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jun 08 |
 | **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/6a1604720073182bd92af5b4?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jun 08 |
 | **[Nexreach](https://nexreachusa.com/)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/6a200a06c00e701fe83671a6?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Jun 08 |
-| **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6a26973eb3e2012412ee4483?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jun 08 |
-| **[Kemco Systems](https://www.kemcosystems.com)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ebf0057820c036924f81be?utm_campaign=1051&utm_source=git)** | Clearwater, FL, US | On Site | Jun 08 |
-| **[Victory Branding](https://victorybranding.org/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a1d7649c2a87d6cd3e0b8cb?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Jun 08 |
-| **[WOW Brand](http://wowpayments.com)** | **[Business Development Intern - NEW YORK Office (Can Start ASAP)](https://jobright.ai/jobs/info/6a2679344239a43538883f2a?utm_campaign=1051&utm_source=git)** | New york, NY | On Site | Jun 08 |
-| **[Ascend Marketing](https://ascendmarketers.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a26776b326da737b2aa1072?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Jun 08 |
-| **[MTU Maintenance Fort Worth](https://www.mtu.de/about-us/mtu-worldwide/mtu-maintenance-fort-worth/)** | **[Fall 2026 Sales Engineering - Internship [Customer Support]](https://jobright.ai/jobs/info/6a266e326624e500cad10df2?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Jun 08 |
-| **[Blue Ripples Technologies](https://www.blueripples.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a266519757ade085b6b3512?utm_campaign=1051&utm_source=git)** | Remote job | Remote | Jun 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
