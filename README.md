@@ -57,20 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a28751940ac8e32932a1bb8?utm_campaign=1051&utm_source=git)** | Poway, CA | On Site | Jun 09 |
+| **[MSI Defense Solutions](https://www.msidefense.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a279890fd37e62bb47a519d?utm_campaign=1051&utm_source=git)** | 136 Knob Hill Road, Mooresville, NC, USA | On Site | Jun 09 |
 | **[Alarm Guard Security Services](https://alarmguardsecurity.ca)** | **[Student Internship & Career Development Program](https://jobright.ai/jobs/info/6a28627dfd37e62bb47a8bfe?utm_campaign=1051&utm_source=git)** | North York, ON | On Site | Jun 09 |
-| **[Lumen Energy](https://getlumen.com/)** | **[SDR Intern](https://jobright.ai/jobs/info/6a285a3a7061b51a3a5f527e?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Manager Intern](https://jobright.ai/jobs/info/6a2859f940ac8e32932a0e9d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jun 09 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a2859722d6c332ee52e5689?utm_campaign=1051&utm_source=git)** | Nashville, TN | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a28596d1dbd8437bebca918?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a285966883c0d3be65415f5?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a17438ff45c6530ce9aac7f?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Jun 09 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a28596040ac8e32932a0e4e?utm_campaign=1051&utm_source=git)** | Maryland, United States | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a285960fd37e62bb47a8859?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Jun 09 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a28596040ac8e32932a0e4e?utm_campaign=1051&utm_source=git)** | Maryland, United States | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a28595f1dbd8437bebca911?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a28595a883c0d3be65415f1?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Jun 09 |
 | **[Apartment Maid](http://apartmentmaid.co/)** | **[Partnerships & Growth Intern](https://jobright.ai/jobs/info/6a2852701dbd8437bebca583?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jun 09 |
 | **[Mini Melts USA](https://minimeltsusa.com/ )** | **[Intern](https://jobright.ai/jobs/info/6a2851fe2d6c332ee52e52fa?utm_campaign=1051&utm_source=git)** | Trevose, PA | On Site | Jun 09 |
 | **[Lennox](http://www.lennox.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a2845fa883c0d3be6540e63?utm_campaign=1051&utm_source=git)** | Richardson, TX, US | On Site | Jun 09 |
+| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a286fba7061b51a3a5f5c78?utm_campaign=1051&utm_source=git)** | New Mexico, United States | Remote | Jun 09 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a286fbafd37e62bb47a91d7?utm_campaign=1051&utm_source=git)** | Missouri, United States | Remote | Jun 09 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a286fb72d6c332ee52e6026?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | Remote | Jun 09 |
 | **[Hyde Aviation](https://hydeaviation.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a28453c40ac8e32932a0590?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Quin Brown Management and Consulting, LLC](https://www.qbhrconsulting.com)** | **[Sales and Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6a285f0f40ac8e32932a10ac?utm_campaign=1051&utm_source=git)** | Cincinnati Metro | Remote | Jun 09 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jun 09 |
@@ -104,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Aftersales Pricing & Operations Intern – September 2026 – 8 or 12 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/6a2822197061b51a3a5f3874?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario - Canada, CA | Hybrid | Jun 09 |
 | ↳ | **[Sales Operations Data Intern – September 2026 – 8 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/6a28220efd37e62bb47a6e1c?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario - Canada, CA | Hybrid | Jun 09 |
 | **[Rose Valley Management](https://www.rosevalleymanagement.com)** | **[Leasing Intern (Paid)](https://jobright.ai/jobs/info/6a2820da883c0d3be653facd?utm_campaign=1051&utm_source=git)** | New Haven, CT | On Site | Jun 09 |
-| **[Constant Contact](http://www.constantcontact.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a0b72c8a235d749afa8553b?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Jun 09 |
-| ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a1fe337ca8f0b365d79e69d?utm_campaign=1051&utm_source=git)** | Waltham | Hybrid | Jun 09 |
+| **[Constant Contact](http://www.constantcontact.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a1fe337ca8f0b365d79e69d?utm_campaign=1051&utm_source=git)** | Waltham | Hybrid | Jun 09 |
+| ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a0b72c8a235d749afa8553b?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Jun 09 |
 | ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a0b72cba235d749afa8553d?utm_campaign=1051&utm_source=git)** | Waltham | Hybrid | Jun 09 |
 | ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a176e63f45c6530ce9aca8f?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Jun 09 |
 | **[Surv](https://wesurv.com)** | **[Business Development Associate (Intern)](https://jobright.ai/jobs/info/6a28201b40ac8e329329f178?utm_campaign=1051&utm_source=git)** | Newport, RI | On Site | Jun 09 |
@@ -114,14 +118,14 @@ For a complete list, click the following sortable link below:
 | **[Amrize](https://www.amrize.com)** | **[Geocycle Market and Sales Intern Job Details / Amrize](https://jobright.ai/jobs/info/6a280a347061b51a3a5f2ed0?utm_campaign=1051&utm_source=git)** | Mississauga, ON, CA, L4V 1S7 | On Site | Jun 09 |
 | **[Grainger](https://www.grainger.com)** | **[Sales Support Operations Intern - Fall 2026 Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6a2809f840ac8e329329e9a3?utm_campaign=1051&utm_source=git)** | GREEN BAY, WI, US, 54301-5160 | Hybrid | Jun 09 |
 | **[The SpyGlass Group, LLC](https://www.spyglass.net/)** | **[Sales Development Internship](https://jobright.ai/jobs/info/6a17dc871430333075cd47e9?utm_campaign=1051&utm_source=git)** | Westlake, OH | On Site | Jun 09 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 09 |
-| ↳ | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 09 |
-| **[Challenge Manufacturing](http://challenge-mfg.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a1dceac6b135014dbc989ce?utm_campaign=1051&utm_source=git)** | 3200 Fruit Ridge Ave, Walker, MI 49544 | On Site | Jun 09 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b564e22d0d34036c8af5f?utm_campaign=1051&utm_source=git)** | Walker, MI - Corporate | On Site | Jun 09 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 09 |
+| ↳ | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 09 |
+| **[Challenge Manufacturing](http://challenge-mfg.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a1dcea86b135014dbc989c9?utm_campaign=1051&utm_source=git)** | Walker, MI - Corporate | On Site | Jun 09 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a0b564e22d0d34036c8af60?utm_campaign=1051&utm_source=git)** | 3200 Fruit Ridge Ave, Walker, MI 49544 | On Site | Jun 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Partner Operations Intern (Monetization Product Partnerships) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bd2056b10602456282103c?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jun 09 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/6a27dc697061b51a3a5f2726?utm_campaign=1051&utm_source=git)** | Cromwell, CT | On Site | Jun 09 |
-| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Marketplace Operations](https://jobright.ai/jobs/info/6a0b80f2a235d749afa8618b?utm_campaign=1051&utm_source=git)** | New York, NY, US | Hybrid | Jun 09 |
-| ↳ | **[Intern - Marketplace Operations](https://jobright.ai/jobs/info/6a0b80f1a235d749afa86189?utm_campaign=1051&utm_source=git)** | Paramus, NJ, US | Hybrid | Jun 09 |
+| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Marketplace Operations](https://jobright.ai/jobs/info/6a0b80f1a235d749afa86189?utm_campaign=1051&utm_source=git)** | Paramus, NJ, US | Hybrid | Jun 09 |
+| ↳ | **[Intern - Marketplace Operations](https://jobright.ai/jobs/info/6a0b80f2a235d749afa8618b?utm_campaign=1051&utm_source=git)** | New York, NY, US | Hybrid | Jun 09 |
 | **[Gourmet Foods International](https://www.gfifoods.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a27d1f9add4b5278cb6024c?utm_campaign=1051&utm_source=git)** | GFI Atlanta - Decatur, GA 30034 | On Site | Jun 09 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a2862a47061b51a3a5f55f7?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Jun 09 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a23acd014de9460dc845211?utm_campaign=1051&utm_source=git)** | HAMILTON, Ontario, Canada | On Site | Jun 09 |
@@ -136,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Intern](https://jobright.ai/jobs/info/6a2785fb2d6c332ee52e1b46?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jun 08 |
 | **[Bessemer Venture Partners](http://www.bvp.com)** | **[Summer Analyst 2027](https://jobright.ai/jobs/info/6a2776b7dd8e783ddaa0a270?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jun 08 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a2766e712f020234226457b?utm_campaign=1051&utm_source=git)** | Marina del Rey, CA | Remote | Jun 08 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 08 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 08 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 08 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 08 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 08 |
 | **[MITER Brands](https://www.miterbrands.com/)** | **[Design Studio Administrator Part Time Internship- Santa Monica, CA (Onsite)](https://jobright.ai/jobs/info/6a274c702056260dd6e86817?utm_campaign=1051&utm_source=git)** | Temecula, CA, US | On Site | Jun 08 |
 | **[OEC](http://www.oeconnection.com/)** | **[Associate Program Development Intern - Hybrid in the Austin, TX Market](https://jobright.ai/jobs/info/6a274583ca77fd3096d2682e?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Jun 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Agronomy Operations Fall Internship](https://jobright.ai/jobs/info/6a27295b2056260dd6e859d0?utm_campaign=1051&utm_source=git)** | Sleepy Eye,MN,US | On Site | Jun 08 |
 | **[OEC](http://www.oeconnection.com/)** | **[Associate Program Development Intern - Hybrid in the Austin, TX Market](https://jobright.ai/jobs/info/6a27287d4ec8d737d6dfe426?utm_campaign=1051&utm_source=git)** | Austin, TX, USA | Hybrid | Jun 08 |
 | ↳ | **[Associate Program Development Intern - Hybrid in the Austin, TX Market](https://jobright.ai/jobs/info/6a27287b4ec8d737d6dfe425?utm_campaign=1051&utm_source=git)** | 12600 Hill Country Blvd, Bee Cave, TX 78738, USA | Hybrid | Jun 08 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a27238730042e7539087576?utm_campaign=1051&utm_source=git)** | Bee Cave, TX | Hybrid | Jun 08 |
-| **[RJ Young](https://www.RJYoung.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a270b4bca77fd3096d25004?utm_campaign=1051&utm_source=git)** | Chattanooga, Tennessee, United States | On Site | Jun 08 |
-| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a271ea812f0202342262ab5?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Jun 08 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a271ea612f0202342262ab3?utm_campaign=1051&utm_source=git)** | Vermont, United States | Remote | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
