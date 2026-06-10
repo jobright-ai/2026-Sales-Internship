@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Financial Solutions Job Details / Epiroc Careers](https://jobright.ai/jobs/info/6a28c2c1fd37e62bb47aafbb?utm_campaign=1051&utm_source=git)** | Garland, TX, US, 75040 | On Site | Jun 09 |
+| **[Swiss Re](http://www.swissre.com)** | **[Customer & Distribution Intern Job Details / Swiss Re](https://jobright.ai/jobs/info/6a28be0dfd37e62bb47aae0c?utm_campaign=1051&utm_source=git)** | Toronto, ON, CA | Hybrid | Jun 09 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a28bcf92d6c332ee52e7d2b?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, US, 30009 | On Site | Jun 09 |
 | **[OBR Cooling Towers](https://www.obrcoolingtowers.com)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/6a28b02f1dbd8437bebccc2a?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jun 09 |
 | ↳ | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/6a28b02d1dbd8437bebccc26?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Jun 09 |
 | **[SAP Taulia](https://taulia.com/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a0efffc12f8b43cf397b1fa?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Inference.ai](https://www.inference.ai/)** | **[AI Partnerships & Growth Intern](https://jobright.ai/jobs/info/6a28abcc7061b51a3a5f73f8?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Jun 09 |
 | **[Irys](https://www.irysaccounting.com)** | **[Sales Operations Intern (Unpaid / Educational)](https://jobright.ai/jobs/info/6a28a71f7061b51a3a5f7238?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | **[KRAFZEN](krafzeninc.com)** | **[Cold Calling/Lead Generation Internship (Commission-Based)](https://jobright.ai/jobs/info/6a288f6440ac8e32932a25ba?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 09 |
+| **[Kiva](http://kiva.org)** | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee972b206f3955ebb491?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | Jun 09 |
+| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0704c94a0a6a7e7d820cb0?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | Jun 09 |
+| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0275a5fa1aa73213d9a520?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | Jun 09 |
+| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee922b206f3955ebb483?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | Jun 09 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | Jun 09 |
 | **[Neon Logistics](https://www.neon-logistics.com)** | **[International Sales & Distribution Intern - Fall 2026](https://jobright.ai/jobs/info/6a2885b11dbd8437bebcbc57?utm_campaign=1051&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, M&A and Capital Markets - September 2026](https://jobright.ai/jobs/info/6a28852c2d6c332ee52e6a72?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 09 |
@@ -117,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Mini Melts USA](https://minimeltsusa.com/ )** | **[Intern](https://jobright.ai/jobs/info/6a2851fe2d6c332ee52e52fa?utm_campaign=1051&utm_source=git)** | Trevose, PA | On Site | Jun 09 |
 | **[Lennox](http://www.lennox.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a2845fa883c0d3be6540e63?utm_campaign=1051&utm_source=git)** | Richardson, TX, US | On Site | Jun 09 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a286fba7061b51a3a5f5c78?utm_campaign=1051&utm_source=git)** | New Mexico, United States | Remote | Jun 09 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a286fb72d6c332ee52e6026?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a286fbafd37e62bb47a91d7?utm_campaign=1051&utm_source=git)** | Missouri, United States | Remote | Jun 09 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a286fb72d6c332ee52e6026?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | Remote | Jun 09 |
 | **[Quin Brown Management and Consulting, LLC](https://www.qbhrconsulting.com)** | **[Sales and Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6a285f0f40ac8e32932a10ac?utm_campaign=1051&utm_source=git)** | Cincinnati Metro | Remote | Jun 09 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jun 09 |
 | **[Lennox](http://www.lennox.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a284217883c0d3be6540c87?utm_campaign=1051&utm_source=git)** | Richardson, TX | On Site | Jun 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tyson Foods](http://tysonfoods.com)** | **[Sales Strategy & Planning Year-Round Intern](https://jobright.ai/jobs/info/6a2824587061b51a3a5f39f5?utm_campaign=1051&utm_source=git)** | Springdale, AR | On Site | Jun 09 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Intern](https://jobright.ai/jobs/info/6a0b10cea235d749afa81314?utm_campaign=1051&utm_source=git)** | Boston, US | Hybrid | Jun 09 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Aftersales Pricing & Operations Intern – September 2026 – 8 or 12 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/6a2822197061b51a3a5f3874?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario - Canada, CA | Hybrid | Jun 09 |
-| ↳ | **[Sales Operations Data Intern – September 2026 – 8 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/6a28220efd37e62bb47a6e1c?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario - Canada, CA | Hybrid | Jun 09 |
-| **[Rose Valley Management](https://www.rosevalleymanagement.com)** | **[Leasing Intern (Paid)](https://jobright.ai/jobs/info/6a2820da883c0d3be653facd?utm_campaign=1051&utm_source=git)** | New Haven, CT | On Site | Jun 09 |
-| **[Constant Contact](http://www.constantcontact.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a1fe337ca8f0b365d79e69d?utm_campaign=1051&utm_source=git)** | Waltham | Hybrid | Jun 09 |
-| ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a176e63f45c6530ce9aca8f?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Jun 09 |
-| ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a0b72cba235d749afa8553d?utm_campaign=1051&utm_source=git)** | Waltham | Hybrid | Jun 09 |
-| ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a0b72c8a235d749afa8553b?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Jun 09 |
-| **[Surv](https://wesurv.com)** | **[Business Development Associate (Intern)](https://jobright.ai/jobs/info/6a28201b40ac8e329329f178?utm_campaign=1051&utm_source=git)** | Newport, RI | On Site | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
