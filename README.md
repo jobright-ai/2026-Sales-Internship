@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MSI Defense Solutions](https://www.msidefense.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a279890fd37e62bb47a519d?utm_campaign=1051&utm_source=git)** | 136 Knob Hill Road, Mooresville, NC, USA | On Site | Jun 09 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Sales Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a28fe442d6c332ee52e9380?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | Jun 09 |
 | **[DMR Technologies](https://www.alsetai.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a28f3771dbd8437bebce226?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Jun 09 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a28efa31dbd8437bebce08b?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | Jun 09 |
 | ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a28ee4440ac8e32932a459b?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 09 |
@@ -75,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[KRAFZEN](krafzeninc.com)** | **[Cold Calling/Lead Generation Internship (Commission-Based)](https://jobright.ai/jobs/info/6a288f6440ac8e32932a25ba?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 09 |
 | **[Kiva](http://kiva.org)** | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a04149922395b6dc6d9a2af?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 09 |
 | ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee972b206f3955ebb491?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | Jun 09 |
-| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0704c94a0a6a7e7d820cb0?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | Jun 09 |
 | ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee922b206f3955ebb483?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | Jun 09 |
+| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0704c94a0a6a7e7d820cb0?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | Jun 09 |
 | ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0275a5fa1aa73213d9a520?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | Jun 09 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | Jun 09 |
 | **[Neon Logistics](https://www.neon-logistics.com)** | **[International Sales & Distribution Intern - Fall 2026](https://jobright.ai/jobs/info/6a2885b11dbd8437bebcbc57?utm_campaign=1051&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
@@ -102,11 +104,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d5524373b07358a3730e?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d35f7c753c287f6f3d94?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a288fc61dbd8437bebcbff0?utm_campaign=1051&utm_source=git)** | DC-Baltimore Area | Remote | Jun 09 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d35f7c753c287f6f3d95?utm_campaign=1051&utm_source=git)** | Greater Birmingham, Alabama Area | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d37922395b6dc6da11e7?utm_campaign=1051&utm_source=git)** | St. Louis City County, MO | Remote | Jun 09 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d5dd6c07461fe1711004?utm_campaign=1051&utm_source=git)** | KC Metro Area | Remote | Jun 09 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d7e7f3d6cc51d6383ae1?utm_campaign=1051&utm_source=git)** | Portland, Oregon Metropolitan Area | Remote | Jun 09 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d35f7c753c287f6f3d95?utm_campaign=1051&utm_source=git)** | Greater Birmingham, Alabama Area | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d318f3d6cc51d6383a15?utm_campaign=1051&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Remote | Jun 09 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d7e7f3d6cc51d6383ae1?utm_campaign=1051&utm_source=git)** | Portland, Oregon Metropolitan Area | Remote | Jun 09 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d5dd6c07461fe1711004?utm_campaign=1051&utm_source=git)** | KC Metro Area | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d8374373b07358a373df?utm_campaign=1051&utm_source=git)** | Triangle Area | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a288fb67061b51a3a5f69a0?utm_campaign=1051&utm_source=git)** | SLC Metro Area | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a288fb31dbd8437bebcbfd9?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | Jun 09 |
@@ -116,15 +118,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d3184373b07358a372d1?utm_campaign=1051&utm_source=git)** | Tulsa Metropolitan Area | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d7dfbc4184089f23fd84?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d318f3d6cc51d6383a16?utm_campaign=1051&utm_source=git)** | Richmond, VA | Remote | Jun 09 |
-| **[MSI Defense Solutions](https://www.msidefense.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a279890fd37e62bb47a519d?utm_campaign=1051&utm_source=git)** | 136 Knob Hill Road, Mooresville, NC, USA | On Site | Jun 09 |
 | **[Alarm Guard Security Services](https://alarmguardsecurity.ca)** | **[Student Internship & Career Development Program](https://jobright.ai/jobs/info/6a28627dfd37e62bb47a8bfe?utm_campaign=1051&utm_source=git)** | North York, ON | On Site | Jun 09 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Manager Intern](https://jobright.ai/jobs/info/6a2859f940ac8e32932a0e9d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jun 09 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a2859722d6c332ee52e5689?utm_campaign=1051&utm_source=git)** | Nashville, TN | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a28596d1dbd8437bebca918?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a285966883c0d3be65415f5?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a17438ff45c6530ce9aac7f?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Jun 09 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a285960fd37e62bb47a8859?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a28596040ac8e32932a0e4e?utm_campaign=1051&utm_source=git)** | Maryland, United States | Remote | Jun 09 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a285960fd37e62bb47a8859?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a28595f1dbd8437bebca911?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Jun 09 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a28595a883c0d3be65415f1?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Jun 09 |
 | **[Apartment Maid](http://apartmentmaid.co/)** | **[Partnerships & Growth Intern](https://jobright.ai/jobs/info/6a2852701dbd8437bebca583?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jun 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bounce](https://bounce.com)** | **[Sales Ambassador ( Summer Internship)](https://jobright.ai/jobs/info/6a283109883c0d3be654034e?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | **[Neon Postgres](https://neon.tech)** | **[International Sales & Distribution Intern - Fall 2026](https://jobright.ai/jobs/info/6a282e2240ac8e329329f977?utm_campaign=1051&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Sales Strategy & Planning Year-Round Intern](https://jobright.ai/jobs/info/6a282b0ffd37e62bb47a7308?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | Jun 09 |
-| **[NEON](https://neonrated.com)** | **[International Sales & Distribution Intern - Fall 2026](https://jobright.ai/jobs/info/6a287f4b1dbd8437bebcba0a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
