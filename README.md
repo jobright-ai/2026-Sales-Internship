@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a2ae4fc9bf7365df089af7e?utm_campaign=1051&utm_source=git)** | Irving, Texas, United States | On Site | Jun 11 |
 | **[TDOT IT Solutions](http://tdotitsolutions.ca/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6a2acad3c07d4b6ae1c47331?utm_campaign=1051&utm_source=git)** | Bolton, Ontario, Canada | On Site | Jun 11 |
 | **[BrainStorm](http://www.brainstorminc.com/)** | **[Internship / Client Success](https://jobright.ai/jobs/info/6a2ac3791de59e0682a85c6a?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | Jun 11 |
 | **[SHI International Corp.](http://www.shi.com)** | **[PubSec Sales - Intern](https://jobright.ai/jobs/info/6a2ac114d3ec8317fe144d4d?utm_campaign=1051&utm_source=git)** | Austin, TX USA, US | Remote | Jun 11 |
@@ -97,10 +98,10 @@ For a complete list, click the following sortable link below:
 | **[Cottingham & Butler](https://www.cottinghambutler.com/)** | **[2026 Sales Internship](https://jobright.ai/jobs/info/6a2285a6d1ab07243c7f84ba?utm_campaign=1051&utm_source=git)** | Dallas, Texas, United States | On Site | Jun 10 |
 | **[Globe Life American Income Division: Surace Smith & Partners Organization](https://ssbendurehartwig.com)** | **[Inside Sales Representative](https://jobright.ai/jobs/info/6a2a2a1bc07d4b6ae1c447c2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 10 |
 | **[Statera](statera-is.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a2a2b7a495d985b994277b6?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jun 10 |
+| **[CASIPA | Canada-Africa Strategic Innovation Partnership Alliance](https://casipa.ca)** | **[INNOVATION FUNDING & STRATEGIC PARTNERSHIPS INTERN](https://jobright.ai/jobs/info/6a2aebcd2cde2824469c3e79?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 10 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a29b0d50c4972328e7e52a9?utm_campaign=1051&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Jun 10 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Remote Sales and Business Development Internship](https://jobright.ai/jobs/info/6a29d9080c4972328e7e6382?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 10 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College - Customer Value Optimization](https://jobright.ai/jobs/info/6a29d86a495d985b994263c3?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jun 10 |
-| **[EnergyHub](http://www.energyhub.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6a29c5d6495d985b99425b11?utm_campaign=1051&utm_source=git)** | Remote - United States | Remote | Jun 10 |
 | **[IMS Infrastructure Management Services](https://www.imsanalysis.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a29cbc8495d985b99425eb0?utm_campaign=1051&utm_source=git)** | Largo,FL,US | On Site | Jun 10 |
 | **[Garan, Incorporated](http://www.garanimals.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/69fa2498b1fc847fc1aee769?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jun 10 |
 | **[Northwestern Mutual Kenwood](https://purcellfinancial.nm.com)** | **[Fall Semester Financial Sales Internship - JUNIORS and SENIORS](https://jobright.ai/jobs/info/6a29c3b8c07d4b6ae1c42a03?utm_campaign=1051&utm_source=git)** | Cincinnati Metro | On Site | Jun 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiva](http://kiva.org)** | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a04149922395b6dc6d9a2af?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 09 |
 | ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0704c94a0a6a7e7d820cb0?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | Jun 09 |
 | ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0275a5fa1aa73213d9a520?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | Jun 09 |
-| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee922b206f3955ebb483?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
