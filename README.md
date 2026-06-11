@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a29c9bf2cde2824469be9c4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 10 |
 | **[Republic National Distributing Company](http://www.rndc-usa.com/)** | **[College Intern, Sales Job Details / Republic National Distributing Company](https://jobright.ai/jobs/info/6a2a4124d3ec8317fe142ebb?utm_campaign=1051&utm_source=git)** | Atlanta, GA, US, 30336 | On Site | Jun 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Sales Agency Project Intern (Scaled Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2a39f82cde2824469c0f20?utm_campaign=1051&utm_source=git)** | Los Angeles | On Site | Jun 10 |
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[Account Manager Intern](https://jobright.ai/jobs/info/6a2a38252cde2824469c0ecf?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jun 10 |
@@ -78,12 +79,11 @@ For a complete list, click the following sortable link below:
 | **[EnergyHub](http://www.energyhub.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6a29c5d6495d985b99425b11?utm_campaign=1051&utm_source=git)** | Remote - United States | Remote | Jun 10 |
 | **[IMS Infrastructure Management Services](https://www.imsanalysis.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a29cbc8495d985b99425eb0?utm_campaign=1051&utm_source=git)** | Largo,FL,US | On Site | Jun 10 |
 | **[Garan, Incorporated](http://www.garanimals.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/69fa2498b1fc847fc1aee769?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jun 10 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a29c9bf2cde2824469be9c4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 10 |
 | **[Northwestern Mutual Kenwood](https://purcellfinancial.nm.com)** | **[Fall Semester Financial Sales Internship - JUNIORS and SENIORS](https://jobright.ai/jobs/info/6a29c3b8c07d4b6ae1c42a03?utm_campaign=1051&utm_source=git)** | Cincinnati Metro | On Site | Jun 10 |
 | **[Reading Royals](https://royalshockey.com)** | **[Ticket Sales + Sponsorship Intern (Full Season: September – April)](https://jobright.ai/jobs/info/6a29c0e31de59e0682a814c6?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Jun 10 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 10 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 10 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 10 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 10 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 10 |
 | **[Intellectt Inc](https://www.intellectt.com)** | **[Business Development Associate (Part-Time / Internship)](https://jobright.ai/jobs/info/6a29b58d495d985b994255dd?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jun 10 |
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a2836871dbd8437bebc98b7?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 10 |
 | **[Geotab](http://www.geotab.com/)** | **[Pilot Success Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1a648fc2a87d6cd3dff605?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 10 |
@@ -99,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a297c20d3ec8317fe13e459?utm_campaign=1051&utm_source=git)** | Mclean, Virginia, United States of America | On Site | Jun 10 |
 | **[Nexreach](https://nexreachusa.com/)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/6a297a0cd3ec8317fe13e36f?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Jun 10 |
 | **[Brit Properties](https://britproperties.com/)** | **[Real Estate Summer Internship](https://jobright.ai/jobs/info/6a297799c07d4b6ae1c408bb?utm_campaign=1051&utm_source=git)** | Rosemont, IL | On Site | Jun 10 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf4?utm_campaign=1051&utm_source=git)** | Athens, GA, US | On Site | Jun 10 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a15b76da429fd279da915bc?utm_campaign=1051&utm_source=git)** | Charlotte, NC, US | On Site | Jun 10 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a15b76da429fd279da915bc?utm_campaign=1051&utm_source=git)** | Charlotte, NC, US | On Site | Jun 10 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf4?utm_campaign=1051&utm_source=git)** | Athens, GA, US | On Site | Jun 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales Intern](https://jobright.ai/jobs/info/695fc72ea1bbea1d9a7a87a4?utm_campaign=1051&utm_source=git)** | FL, Panama City | On Site | Jun 10 |
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a297393c07d4b6ae1c40728?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jun 10 |
 | **[Olympic Marketing Group](theomginc.com)** | **[Entry Level Sales Intern](https://jobright.ai/jobs/info/6a297274c07d4b6ae1c406ba?utm_campaign=1051&utm_source=git)** | Lacey, WA | On Site | Jun 10 |
@@ -138,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[IRYS Technologies](https://www.irystechnologies.ai)** | **[Sales Operations Intern (Unpaid / Educational)](https://jobright.ai/jobs/info/6a2950979a922b1456048145?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | **[KRAFZEN](krafzeninc.com)** | **[Cold Calling/Lead Generation Internship (Commission-Based)](https://jobright.ai/jobs/info/6a299cc42cde2824469bd6f9?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 09 |
 | **[Kiva](http://kiva.org)** | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a04149922395b6dc6d9a2af?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 09 |
-| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0704c94a0a6a7e7d820cb0?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | Jun 09 |
 | ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0275a5fa1aa73213d9a520?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | Jun 09 |
+| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0704c94a0a6a7e7d820cb0?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | Jun 09 |
 | ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee972b206f3955ebb491?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | Jun 09 |
 | ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee922b206f3955ebb483?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | Jun 09 |
 | **[Neon Logistics](https://www.neon-logistics.com)** | **[International Sales & Distribution Intern - Fall 2026](https://jobright.ai/jobs/info/6a2885b11dbd8437bebcbc57?utm_campaign=1051&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
