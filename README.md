@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a2a70711de59e0682a848a7?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Jun 11 |
 | **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6a2a68182cde2824469c1a62?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jun 11 |
 | **[Ascend Marketing](https://ascendmarketers.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a2a5b8b0c4972328e7e8743?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Jun 10 |
 | **[Markato](https://wearemarkato.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a2a53f91de59e0682a840f9?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jun 10 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a297e461de59e0682a7f7f9?utm_campaign=1051&utm_source=git)** | ST. JOHN'S, Newfoundland and Labrador, Canada | On Site | Jun 10 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a297c20d3ec8317fe13e459?utm_campaign=1051&utm_source=git)** | Mclean, Virginia, United States of America | On Site | Jun 10 |
 | **[Nexreach](https://nexreachusa.com/)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/6a297a0cd3ec8317fe13e36f?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Jun 10 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a15b76da429fd279da915bc?utm_campaign=1051&utm_source=git)** | Charlotte, NC, US | On Site | Jun 10 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf4?utm_campaign=1051&utm_source=git)** | Athens, GA, US | On Site | Jun 10 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf4?utm_campaign=1051&utm_source=git)** | Athens, GA, US | On Site | Jun 10 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a15b76da429fd279da915bc?utm_campaign=1051&utm_source=git)** | Charlotte, NC, US | On Site | Jun 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales Intern](https://jobright.ai/jobs/info/695fc72ea1bbea1d9a7a87a4?utm_campaign=1051&utm_source=git)** | FL, Panama City | On Site | Jun 10 |
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a297393c07d4b6ae1c40728?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jun 10 |
 | **[Olympic Marketing Group](theomginc.com)** | **[Entry Level Sales Intern](https://jobright.ai/jobs/info/6a297274c07d4b6ae1c406ba?utm_campaign=1051&utm_source=git)** | Lacey, WA | On Site | Jun 10 |
@@ -141,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[KRAFZEN](krafzeninc.com)** | **[Cold Calling/Lead Generation Internship (Commission-Based)](https://jobright.ai/jobs/info/6a299cc42cde2824469bd6f9?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 09 |
 | **[Kiva](http://kiva.org)** | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a04149922395b6dc6d9a2af?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 09 |
 | ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0704c94a0a6a7e7d820cb0?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | Jun 09 |
-| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee972b206f3955ebb491?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | Jun 09 |
 | ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee922b206f3955ebb483?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | Jun 09 |
+| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee972b206f3955ebb491?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | Jun 09 |
 | ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0275a5fa1aa73213d9a520?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | Jun 09 |
 | **[Neon Logistics](https://www.neon-logistics.com)** | **[International Sales & Distribution Intern - Fall 2026](https://jobright.ai/jobs/info/6a2885b11dbd8437bebcbc57?utm_campaign=1051&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, M&A and Capital Markets - September 2026](https://jobright.ai/jobs/info/6a28852c2d6c332ee52e6a72?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Corporate Sales Operations, Pre-Owned and Remarketing Intern](https://jobright.ai/jobs/info/6a2879b47061b51a3a5f61dd?utm_campaign=1051&utm_source=git)** | Canada-Ontario-Mississauga | Hybrid | Jun 09 |
 | ↳ | **[Corporate Sales Operations, Pre-Owned and Remarketing Intern](https://jobright.ai/jobs/info/6a2879b37061b51a3a5f61dc?utm_campaign=1051&utm_source=git)** | 2680 Matheson Blvd East, Suite 500 | Hybrid | Jun 09 |
 | **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a2992bc0c4972328e7e43d7?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | Jun 09 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a2992bcc07d4b6ae1c4149c?utm_campaign=1051&utm_source=git)** | Utah, United States | Remote | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
