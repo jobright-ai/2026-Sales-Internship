@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic National Distributing Company](http://www.rndc-usa.com/)** | **[College Intern, Sales Job Details / Republic National Distributing Company](https://jobright.ai/jobs/info/6a2a4124d3ec8317fe142ebb?utm_campaign=1051&utm_source=git)** | Atlanta, GA, US, 30336 | On Site | Jun 10 |
+| **[TikTok](https://www.tiktok.com)** | **[Sales Agency Project Intern (Scaled Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2a39f82cde2824469c0f20?utm_campaign=1051&utm_source=git)** | Los Angeles | On Site | Jun 10 |
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[Account Manager Intern](https://jobright.ai/jobs/info/6a2a38252cde2824469c0ecf?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jun 10 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Business Development Internship - Fall 2026](https://jobright.ai/jobs/info/6a2a34cdd3ec8317fe142bcd?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Jun 10 |
 | **[ICC-IMS](https://www.internationalcybernetics.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a2a227bd3ec8317fe141d47?utm_campaign=1051&utm_source=git)** | Largo,FL,US | On Site | Jun 10 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a2a2881d3ec8317fe1422d5?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Jun 10 |
 | **[Cottingham & Butler](https://www.cottinghambutler.com/)** | **[2026 Sales Internship](https://jobright.ai/jobs/info/6a2285a6d1ab07243c7f84ba?utm_campaign=1051&utm_source=git)** | Dallas, Texas, United States | On Site | Jun 10 |
 | **[Globe Life American Income Division: Surace Smith & Partners Organization](https://ssbendurehartwig.com)** | **[Inside Sales Representative](https://jobright.ai/jobs/info/6a2a2a1bc07d4b6ae1c447c2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 10 |
-| **[Fish Window Cleaning](https://www.fishwindowcleaning.com/)** | **[Summer Sales Intern Flexible Schedule Hourly plus Commission](https://jobright.ai/jobs/info/6a2a289ad3ec8317fe14245c?utm_campaign=1051&utm_source=git)** | Bellevue, WA | Hybrid | Jun 10 |
 | **[Statera](statera-is.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a2a2b7a495d985b994277b6?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jun 10 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a29b0d50c4972328e7e52a9?utm_campaign=1051&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Jun 10 |
 | **[Vanillakart](https://vanillakart.com/)** | **[Remote Sales and Business Development Internship](https://jobright.ai/jobs/info/6a29d9080c4972328e7e6382?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 10 |
@@ -137,10 +138,10 @@ For a complete list, click the following sortable link below:
 | **[IRYS Technologies](https://www.irystechnologies.ai)** | **[Sales Operations Intern (Unpaid / Educational)](https://jobright.ai/jobs/info/6a2950979a922b1456048145?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | **[KRAFZEN](krafzeninc.com)** | **[Cold Calling/Lead Generation Internship (Commission-Based)](https://jobright.ai/jobs/info/6a299cc42cde2824469bd6f9?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 09 |
 | **[Kiva](http://kiva.org)** | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a04149922395b6dc6d9a2af?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 09 |
-| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee922b206f3955ebb483?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | Jun 09 |
-| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee972b206f3955ebb491?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | Jun 09 |
-| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0275a5fa1aa73213d9a520?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | Jun 09 |
 | ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0704c94a0a6a7e7d820cb0?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | Jun 09 |
+| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a0275a5fa1aa73213d9a520?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | Jun 09 |
+| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee972b206f3955ebb491?utm_campaign=1051&utm_source=git)** | U.S. Remote | Remote | Jun 09 |
+| ↳ | **[Managed Lending Partner Success Intern](https://jobright.ai/jobs/info/6a1bee922b206f3955ebb483?utm_campaign=1051&utm_source=git)** | U.S Remote | Remote | Jun 09 |
 | **[Neon Logistics](https://www.neon-logistics.com)** | **[International Sales & Distribution Intern - Fall 2026](https://jobright.ai/jobs/info/6a2885b11dbd8437bebcbc57?utm_campaign=1051&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, M&A and Capital Markets - September 2026](https://jobright.ai/jobs/info/6a28852c2d6c332ee52e6a72?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 09 |
 | **[Father Bill's & MainSpring](https://helpfbms.org/)** | **[Development Intern- Corporate & Foundation Relations](https://jobright.ai/jobs/info/6a2884d07061b51a3a5f6691?utm_campaign=1051&utm_source=git)** | Brockton, MA, US | On Site | Jun 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a2992bcc07d4b6ae1c4149c?utm_campaign=1051&utm_source=git)** | Utah, United States | Remote | Jun 09 |
 | **[Agilent Technologies](http://www.agilent.com)** | **[Intern – Predictive Sales Prospecting](https://jobright.ai/jobs/info/6a186e8417492d3a389b6281?utm_campaign=1051&utm_source=git)** | US-DE-Wilmington, US | On Site | Jun 09 |
 | **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a28751940ac8e32932a1bb8?utm_campaign=1051&utm_source=git)** | Poway, CA | On Site | Jun 09 |
-| **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a04d5f26c07461fe171102e?utm_campaign=1051&utm_source=git)** | Louisville Metro | Remote | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
