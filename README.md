@@ -63,8 +63,8 @@ For a complete list, click the following sortable link below:
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Queens)](https://jobright.ai/jobs/info/69d6315248f0c8161d2f6eeb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | ↳ | **[Financial Sales Intern (Brooklyn Navy Yard)](https://jobright.ai/jobs/info/6a2a54880c4972328e7e850f?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Jun 12 |
 | **[HEICO](http://www.heico.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6a2099e8ca8f0b365d7a23ee?utm_campaign=1051&utm_source=git)** | 7875 NW 64th St, Miami, FL33166 | On Site | Jun 12 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a23acd014de9460dc845211?utm_campaign=1051&utm_source=git)** | HAMILTON, Ontario, Canada | On Site | Jun 12 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a297e461de59e0682a7f7f9?utm_campaign=1051&utm_source=git)** | ST. JOHN'S, Newfoundland and Labrador, Canada | On Site | Jun 12 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a297e461de59e0682a7f7f9?utm_campaign=1051&utm_source=git)** | ST. JOHN'S, Newfoundland and Labrador, Canada | On Site | Jun 12 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a23acd014de9460dc845211?utm_campaign=1051&utm_source=git)** | HAMILTON, Ontario, Canada | On Site | Jun 12 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 11 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 11 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 11 |
@@ -82,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/69d84e97869c7e25d8594cc8?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jun 11 |
 | **[Pyramid Pharma Services](http://www.pyramidlabs.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a2b1a231de59e0682a88062?utm_campaign=1051&utm_source=git)** | US | On Site | Jun 11 |
 | **[BBR Partners](http://bbrpartners.com)** | **[2027 Summer Internship](https://jobright.ai/jobs/info/6a2b163c1de59e0682a87ed1?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jun 11 |
-| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 11 |
-| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 11 |
+| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 11 |
+| ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 11 |
 | **[Dayforce](http://www.dayforce.com)** | **[Application Advisor Intern 8 Months - Fall 2026](https://jobright.ai/jobs/info/6a0e3cbe47fea1610bca882c?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 11 |
 | ↳ | **[Value Advisory Intern 4 Months - Fall 2026](https://jobright.ai/jobs/info/6a0e42df09ecfd704b3e7814?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 11 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Sales Intern / Fall 2026](https://jobright.ai/jobs/info/6a2b0c01d3ec8317fe146cd6?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 11 |
