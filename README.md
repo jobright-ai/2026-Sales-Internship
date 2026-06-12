@@ -57,13 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 11 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 11 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 11 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 11 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 11 |
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a2ba60b2cde2824469c6ece?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 11 |
 | ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a2ba6071de59e0682a89d6e?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 11 |
-| **[Parinama Academy](https://parinama.academy)** | **[Remote Professional Learning Internship](https://jobright.ai/jobs/info/6a2bba660ad4053b108ccef4?utm_campaign=1051&utm_source=git)** | Leander, TX | Remote | Jun 11 |
-| **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a2b8b7bd3ec8317fe148f16?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 11 |
+| ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a2b8b7bd3ec8317fe148f16?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 11 |
 | ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a2b8af11de59e0682a89b5e?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 11 |
 | **[Sinisa Solutions](www.sinisasolutions.com)** | **[IT Sales and Marketing Intern](https://jobright.ai/jobs/info/6a2b5dc6c07d4b6ae1c4a780?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 11 |
 | **[New York Football Giants](https://www.giants.com/)** | **[Corporate Partnerships Intern - 2026 Season](https://jobright.ai/jobs/info/6a2b54922cde2824469c639c?utm_campaign=1051&utm_source=git)** | East Rutherford, New Jersey, United States | On Site | Jun 11 |
@@ -76,9 +75,9 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/69d84e97869c7e25d8594cc8?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jun 11 |
 | **[Pyramid Pharma Services](http://www.pyramidlabs.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a2b1a231de59e0682a88062?utm_campaign=1051&utm_source=git)** | US | On Site | Jun 11 |
 | **[BBR Partners](http://bbrpartners.com)** | **[2027 Summer Internship](https://jobright.ai/jobs/info/6a2b163c1de59e0682a87ed1?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jun 11 |
-| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 11 |
+| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 11 |
+| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a1d97259111f771d1a19792?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 11 |
 | ↳ | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a1d97299111f771d1a19796?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 11 |
-| ↳ | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a1d97269111f771d1a19794?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, US | On Site | Jun 11 |
 | **[Dayforce](http://www.dayforce.com)** | **[Application Advisor Intern 8 Months - Fall 2026](https://jobright.ai/jobs/info/6a0e3cbe47fea1610bca882c?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 11 |
 | ↳ | **[Value Advisory Intern 4 Months - Fall 2026](https://jobright.ai/jobs/info/6a0e42df09ecfd704b3e7814?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 11 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Sales Intern / Fall 2026](https://jobright.ai/jobs/info/6a2b0c01d3ec8317fe146cd6?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 11 |
@@ -86,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Valeo](http://www.valeo.com/en/)** | **[Sales Intern (Year-Round)](https://jobright.ai/jobs/info/6a2b06fad3ec8317fe146a7f?utm_campaign=1051&utm_source=git)** | San Mateo, CA, US | On Site | Jun 11 |
 | **[Faurecia](https://www.forvia.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6a2b06480ad4053b108ca466?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Jun 11 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Media & Entertainment Intern](https://jobright.ai/jobs/info/6a2b05a09bf7365df089bd85?utm_campaign=1051&utm_source=git)** | Toronto, CA | On Site | Jun 11 |
+| **[AAVIL Inc](https://aavilabs.com/)** | **[Immediate Hiring in USA / Pre-Sales & Sales Interns / Potential Full-Time Opportunity after Internship 🇺🇸](https://jobright.ai/jobs/info/6a2bc9f6f1751b183c815d6a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 11 |
 | **[Jinko U.S.](https://jinkosolar.us/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69fd5efff363bc4dc3397b6c?utm_campaign=1051&utm_source=git)** | Jacksonville, FL, US | On Site | Jun 11 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a23acd014de9460dc845211?utm_campaign=1051&utm_source=git)** | HAMILTON, Ontario, Canada | On Site | Jun 11 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a297e461de59e0682a7f7f9?utm_campaign=1051&utm_source=git)** | ST. JOHN'S, Newfoundland and Labrador, Canada | On Site | Jun 11 |
