@@ -57,16 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Allstate](http://www.allstate.com)** | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30808e43732c05812e2d19?utm_campaign=1051&utm_source=git)** | Charlotte 2568 Ngr, US | On Site | Jun 15 |
-| ↳ | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30809843732c05812e2d24?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Jun 15 |
-| ↳ | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30809843732c05812e2d22?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Jun 15 |
-| ↳ | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30809843732c05812e2d20?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jun 15 |
+| **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a30d4f9afabbe533fb8c8be?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 15 |
+| ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a30d484eace377055eb7cda?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 15 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Internship - Partnerships & Donors](https://jobright.ai/jobs/info/6a30d0d1eace377055eb7bc5?utm_campaign=1051&utm_source=git)** | Marina del Rey, CA | Remote | Jun 15 |
+| **[Allstate](http://www.allstate.com)** | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30809843732c05812e2d20?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jun 15 |
 | ↳ | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30809943732c05812e2d28?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Jun 15 |
+| ↳ | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30808e43732c05812e2d19?utm_campaign=1051&utm_source=git)** | Charlotte 2568 Ngr, US | On Site | Jun 15 |
 | ↳ | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30809843732c05812e2d25?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Jun 15 |
+| ↳ | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30809843732c05812e2d22?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Jun 15 |
+| ↳ | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30809843732c05812e2d24?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Jun 15 |
 | **[Valemont Group](Valemg.com)** | **[Private Equity Sales Internship](https://jobright.ai/jobs/info/6a30abc6eace377055eb74db?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Any Lab Test Now](https://www.anylabtestnow.com)** | **[Intern Business Development](https://jobright.ai/jobs/info/6a309dc943732c05812e33c2?utm_campaign=1051&utm_source=git)** | Houston, TX, US | Hybrid | Jun 15 |
 | **[AlphaSperm](https://alphasperm.com/)** | **[College or Recent Grad Business Development Intern](https://jobright.ai/jobs/info/6a307dad89f8f147d3735d87?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Hybrid | Jun 15 |
-| **[Powerhouse Financlial Group](https://www.powerhousefinancialgroup.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a30a11e43732c05812e3464?utm_campaign=1051&utm_source=git)** | San Diego, CA | Remote | Jun 15 |
+| **[Powerhouse Financlial Group](https://www.powerhousefinancialgroup.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a30d30d89f8f147d3736f31?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | Remote | Jun 15 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a30a11e43732c05812e3464?utm_campaign=1051&utm_source=git)** | San Diego, CA | Remote | Jun 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a30845fafabbe533fb8b999?utm_campaign=1051&utm_source=git)** | Knoxville, TN | Remote | Jun 15 |
 | **[PSI Groups](https://www.psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a3082b2eace377055eb6d65?utm_campaign=1051&utm_source=git)** | Atherton, CA | Remote | Jun 15 |
 | **[Powerhouse Financlial Group](https://www.powerhousefinancialgroup.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a308291093df201d07b1deb?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | Jun 15 |
@@ -95,11 +99,11 @@ For a complete list, click the following sortable link below:
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Healthcare & Community Partnerships Intern](https://jobright.ai/jobs/info/6a3064cd524fd5657fe10abc?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 15 |
 | **[China CITIC Bank International Limited](http://www.cncbinternational.com)** | **[Intern, Wholesale Banking](https://jobright.ai/jobs/info/6a30617789f8f147d3735244?utm_campaign=1051&utm_source=git)** | New York, US | On Site | Jun 15 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Sales Strategy & Planning Year-Round Intern](https://jobright.ai/jobs/info/6a282b0ffd37e62bb47a7308?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | Jun 15 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 15 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 15 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 15 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 15 |
-| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a2cbd96a1d15e3c552fd059?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 15 |
-| ↳ | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a2bf916a1d15e3c552f9880?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 15 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 15 |
+| **[Entravision](https://entravision.com/)** | **[Sales Assistant Intern - 2](https://jobright.ai/jobs/info/6a2bf916a1d15e3c552f9880?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 15 |
+| ↳ | **[Sales Assistant Intern - 1](https://jobright.ai/jobs/info/6a2cbd96a1d15e3c552fd059?utm_campaign=1051&utm_source=git)** | El Paso, TX, US | On Site | Jun 15 |
 | **[Generac](https://www.generac.com)** | **[Intern Sales](https://jobright.ai/jobs/info/6a305c08afabbe533fb8a9e8?utm_campaign=1051&utm_source=git)** | Toronto, Canada | On Site | Jun 15 |
 | **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/69e91fdfe0cd471b2f13a801?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Remote | Jun 15 |
 | **[Powerhouse Financlial Group](https://www.powerhousefinancialgroup.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a30558dafabbe533fb8a764?utm_campaign=1051&utm_source=git)** | Salem, VA | Remote | Jun 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Agilent Technologies](http://www.agilent.com)** | **[Intern – Predictive Sales Prospecting](https://jobright.ai/jobs/info/6a186e8417492d3a389b6281?utm_campaign=1051&utm_source=git)** | US-DE-Wilmington, US | On Site | Jun 13 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf4?utm_campaign=1051&utm_source=git)** | Athens, GA, US | On Site | Jun 13 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Inside Sales Representative](https://jobright.ai/jobs/info/69c6e5611818a24cd84c994e?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Jun 13 |
-| **[Coty](https://www.coty.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f456a6343eef4fb0aa0965?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 13 |
-| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/69a06e625218a8167671902e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jun 13 |
-| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a2a62d51de59e0682a8439a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 13 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a1776b55b0a497d5210cbd6?utm_campaign=1051&utm_source=git)** | Denver, United States - Colorado | On Site | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
