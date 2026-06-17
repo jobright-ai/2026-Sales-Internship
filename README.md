@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 17 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 17 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 17 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 17 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 17 |
 | **[Fifth Third Bank](http://53.com)** | **[Summer 2027 Intern - Sales and Trading](https://jobright.ai/jobs/info/6a32a45329c90c607e4d7482?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, US | On Site | Jun 17 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Events & Business Development Support Intern](https://jobright.ai/jobs/info/6a107fc19f654b3359cec278?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 17 |
 | **[IKONIC](https://ikonicsolution.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a328915ce501060b5ce93c0?utm_campaign=1051&utm_source=git)** | Ottawa, ON, Canada | Remote | Jun 17 |
@@ -135,12 +135,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a30d4f9afabbe533fb8c8be?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 15 |
 | ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a30d484eace377055eb7cda?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Internship - Partnerships & Donors](https://jobright.ai/jobs/info/6a30d0d1eace377055eb7bc5?utm_campaign=1051&utm_source=git)** | Marina del Rey, CA | Remote | Jun 15 |
-| **[Allstate](http://www.allstate.com)** | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30809843732c05812e2d25?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Jun 15 |
+| **[Allstate](http://www.allstate.com)** | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30808e43732c05812e2d19?utm_campaign=1051&utm_source=git)** | Charlotte 2568 Ngr, US | On Site | Jun 15 |
+| ↳ | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30809843732c05812e2d25?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Jun 15 |
+| ↳ | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30809943732c05812e2d28?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Jun 15 |
 | ↳ | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30809843732c05812e2d24?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Jun 15 |
 | ↳ | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30809843732c05812e2d22?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Jun 15 |
-| ↳ | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30808e43732c05812e2d19?utm_campaign=1051&utm_source=git)** | Charlotte 2568 Ngr, US | On Site | Jun 15 |
 | ↳ | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30809843732c05812e2d20?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jun 15 |
-| ↳ | **[Direct Auto Customer & Sales Experience Intern](https://jobright.ai/jobs/info/6a30809943732c05812e2d28?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Jun 15 |
 | **[Valemont Group](Valemg.com)** | **[Private Equity Sales Internship](https://jobright.ai/jobs/info/6a30abc6eace377055eb74db?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Powerhouse Financlial Group](https://www.powerhousefinancialgroup.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a30d30d89f8f147d3736f31?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | Remote | Jun 15 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a30a11e43732c05812e3464?utm_campaign=1051&utm_source=git)** | San Diego, CA | Remote | Jun 15 |
