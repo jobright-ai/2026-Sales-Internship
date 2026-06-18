@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 18 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 18 |
+| **[AdMedia](http://admedia.com/)** | **[Digital Advertising Sales Intern-to-Hire Program](https://jobright.ai/jobs/info/6a31a0ac35e80310003a84a2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 18 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf4?utm_campaign=1051&utm_source=git)** | Athens, GA, US | On Site | Jun 18 |
+| **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a340d0f29c90c607e4dd044?utm_campaign=1051&utm_source=git)** | Lafayette, Louisiana, United States | On Site | Jun 18 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 18 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 18 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 18 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Sales Intern (Year-Round)](https://jobright.ai/jobs/info/6a31cecf0ff23769fdb20992?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Jun 18 |
 | **[NewToMedia](https://www.newtomedia.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a33f668649fdf16292f344a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Virtual IP](https://virtualipus.com)** | **[Business Developer intern](https://jobright.ai/jobs/info/6a33ee7dce501060b5cee878?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Pakio](https://www.pakioinc.com/)** | **[Sales Management Internship - Summer 2026](https://jobright.ai/jobs/info/6a33ec1a7f3fdd180d4c7dac?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jun 18 |
-| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a2c8fd0fc0644749054a8e5?utm_campaign=1051&utm_source=git)** | Encino, CA, US | On Site | Jun 18 |
-| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a2c8fcefc0644749054a8e0?utm_campaign=1051&utm_source=git)** | US-CA-Encino | On Site | Jun 18 |
+| **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a2c8fcefc0644749054a8e0?utm_campaign=1051&utm_source=git)** | US-CA-Encino | On Site | Jun 18 |
+| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a2c8fd0fc0644749054a8e5?utm_campaign=1051&utm_source=git)** | Encino, CA, US | On Site | Jun 18 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/691840e315b4156367180813?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 18 |
 | **[Visit Indy](https://www.visitindy.com/)** | **[Convention Sales Intern - Fall 2026](https://jobright.ai/jobs/info/6a33e61ef6b55d12c7919ea5?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 18 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing Intern, Fall 2026](https://jobright.ai/jobs/info/69fb45ed86d5cd46527d4404?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | On Site | Jun 18 |
@@ -96,12 +99,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a334280ce501060b5cecd60?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | Remote | Jun 17 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a33421a29c90c607e4daded?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | Remote | Jun 17 |
 | **[Consensus Cloud Solutions](https://www.consensus.com/)** | **[Sales Strategy & Analytics Intern](https://jobright.ai/jobs/info/6a32feb47f3fdd180d4c4e2b?utm_campaign=1051&utm_source=git)** | US, Remote | Remote | Jun 17 |
-| **[Wiley](http://www.wiley.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a3305d4ce501060b5cebe1d?utm_campaign=1051&utm_source=git)** | Campbell, CA, USA | Hybrid | Jun 17 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a3305d3ce501060b5cebe1c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 17 |
+| **[Wiley](http://www.wiley.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a3305d3ce501060b5cebe1c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 17 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a3305d4ce501060b5cebe1d?utm_campaign=1051&utm_source=git)** | Campbell, CA, USA | Hybrid | Jun 17 |
 | **[Integrated Business & Technical Consultants, Inc. (IBTCI)](http://ibtci.com)** | **[Intern-International Project Support (IPS) - Business Development](https://jobright.ai/jobs/info/6a331bf7910b734910713ec1?utm_campaign=1051&utm_source=git)** | Vienna, VA | Hybrid | Jun 17 |
 | **[Canada Life](https://www.canadalife.co.uk/)** | **[Wealth Management Intern (Student/New Grad Position) (Bilingual Fr/En)](https://jobright.ai/jobs/info/6a334f91f6b55d12c79188bb?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 17 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/69d84e97869c7e25d8594cc8?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jun 17 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf4?utm_campaign=1051&utm_source=git)** | Athens, GA, US | On Site | Jun 17 |
 | **[Canada Life](https://www.canadalife.co.uk/)** | **[Wealth Management Intern (Student/New Grad Position) - Toronto](https://jobright.ai/jobs/info/6a330f5c29c90c607e4da039?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 17 |
 | **[11:11 Media](http://www.parishilton.com)** | **[11:11 Sales Operations Intern - Fall 2026](https://jobright.ai/jobs/info/6a33ebd01232144fb155d511?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Jun 17 |
 | **[Aksarben Foundation](https://www.aksarben.org)** | **[Development, Research, & Events Intern](https://jobright.ai/jobs/info/6a331ede29c90c607e4da5d1?utm_campaign=1051&utm_source=git)** | Omaha Metropolitan Area | Hybrid | Jun 17 |
@@ -111,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a32fe95649fdf16292f0286?utm_campaign=1051&utm_source=git)** | Menlo Park, California, United States of America | On Site | Jun 17 |
 | **[PSI Groups](https://www.psigroups.net)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a32fd84649fdf16292eff61?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jun 17 |
 | ↳ | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a32fd007f3fdd180d4c4aaf?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jun 17 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a34082fce501060b5ceefb8?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jun 17 |
 | **[MADE Hoops](https://www.madehoops.com/)** | **[Camp Sales Intern](https://jobright.ai/jobs/info/6a32fcb17f3fdd180d4c4a91?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 17 |
 | **[PSI Groups](https://www.psigroups.net)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a32fca3910b7349107130a1?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jun 17 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a32fc39910b734910713087?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Jun 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Summer Sales & Administrative Intern](https://jobright.ai/jobs/info/6a3238a90ff23769fdb22072?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jun 16 |
 | **[Cultural Care Au Pair](http://www.culturalcare.com)** | **[Sales Development Summer Intern](https://jobright.ai/jobs/info/6a31bb130ff23769fdb20091?utm_campaign=1051&utm_source=git)** | Two Education Circle, Cambridge, MA, 02141, US | Hybrid | Jun 16 |
 | **[NBH Bank](https://www.nbhbank.com/)** | **[Commercial Banking - Business Banking - Community Development Intern](https://jobright.ai/jobs/info/6a31f110c477a5075f48fffd?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jun 16 |
-| **[Karmen](https://www.karmenai.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a31e7400ff23769fdb20fef?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 16 |
-| **[NBH Bank](https://www.nbhbank.com/)** | **[Commercial Banking - Business Banking - Community Development Intern](https://jobright.ai/jobs/info/6a31d0b7e7b7d514a3bd5c95?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | On Site | Jun 16 |
-| **[EF](http://www.ef.com)** | **[Sales Development Summer Intern](https://jobright.ai/jobs/info/6a31c49435e80310003a945a?utm_campaign=1051&utm_source=git)** | Two Education Circle, Cambridge, MA, 02141, US | Hybrid | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
