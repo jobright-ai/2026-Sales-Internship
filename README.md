@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 18 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 18 |
+| **[Next Gen Exposure, Inc.](https://nextgenexposureinc.com/)** | **[Sales & Marketing Internship / Paid / Leadership Development Opportunities](https://jobright.ai/jobs/info/6a34a9e9f6b55d12c791da8c?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Jun 18 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 18 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 18 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 18 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a34a3d2649fdf16292f6b2f?utm_campaign=1051&utm_source=git)** | Fallon, NV | On Site | Jun 18 |
 | **[American Water](http://amwater.com)** | **[Business Development & Strategy Intern](https://jobright.ai/jobs/info/6a34a2f929c90c607e4e002a?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jun 18 |
 | **[D2L](http://www.d2l.com)** | **[Business Development Coordinator - Fall 2026 Co-op](https://jobright.ai/jobs/info/6a3483b2ce501060b5cf196c?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jun 18 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a345982649fdf16292f5833?utm_campaign=1051&utm_source=git)** | Long Beach, California, United States of America | On Site | Jun 18 |
 | **[BLN24](https://www.bln24.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a31973d35e80310003a803b?utm_campaign=1051&utm_source=git)** | McLean, VA | Hybrid | Jun 18 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Tribal Partnerships Intern](https://jobright.ai/jobs/info/6a345599649fdf16292f561e?utm_campaign=1051&utm_source=git)** | King Street Center - 201 S Jackson St, Seattle, WA | Hybrid | Jun 18 |
+| **[Savannah Ghost Pirates](http://ghostpirateshockey.com)** | **[Retail Operations Intern](https://jobright.ai/jobs/info/6a34b664649fdf16292f6e82?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Jun 18 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- Corporate Partnerships Intern (Fall 2026)](https://jobright.ai/jobs/info/6a344ceef6b55d12c791c003?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Jun 18 |
-| **[China CITIC Bank International Limited](http://www.cncbinternational.com)** | **[Intern, Wholesale Banking](https://jobright.ai/jobs/info/6a344b3ff6b55d12c791bfa3?utm_campaign=1051&utm_source=git)** | New York, US | On Site | Jun 18 |
 | **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a344aa97f3fdd180d4c9bbd?utm_campaign=1051&utm_source=git)** | Mobile, AL | Remote | Jun 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a344a4329c90c607e4de6c0?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | Jun 18 |
 | **[A Quality Facility Services](https://www.aqualityfacilityservices.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a344100649fdf16292f4e6b?utm_campaign=1051&utm_source=git)** | Canton OH | On Site | Jun 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Solution Adoption Campaign Coordinator](https://jobright.ai/jobs/info/6a333f1f29c90c607e4dad41?utm_campaign=1051&utm_source=git)** | Toronto, ON, CA, M5K 1B7 | Hybrid | Jun 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller Live Analytics Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS)](https://jobright.ai/jobs/info/6a335ff8910b734910714ef4?utm_campaign=1051&utm_source=git)** | New York | On Site | Jun 17 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Corporate Sales Operations, Pre-Owned and Remarketing Intern](https://jobright.ai/jobs/info/6a335e2fce501060b5ced3bb?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jun 17 |
-| ↳ | **[Corporate Sales Operations, Pre-Owned and Remarketing Intern](https://jobright.ai/jobs/info/6a335e28ce501060b5ced3ba?utm_campaign=1051&utm_source=git)** | 2680 Matheson Blvd East, Suite 500, Mississauga, Ontario, Canada | Hybrid | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
