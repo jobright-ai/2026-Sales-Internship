@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cooper Tacia General Contracting Company](https://coopertacia.com/)** | **[Intern](https://jobright.ai/jobs/info/6a35ad0a29c90c607e4e3383?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Jun 19 |
+| **[Fifth Wheel Freight](https://www.fwf.com/)** | **[Sales Internship - Fall 2026](https://jobright.ai/jobs/info/6a35a1307f3fdd180d4ce5a8?utm_campaign=1051&utm_source=git)** | Kentwood, Michigan, United States | On Site | Jun 19 |
 | **[LZ Management](https://www.lz-management.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a3599a91232144fb1563f92?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Jun 19 |
 | **[PalmStateGroup](palmstatehealth.com)** | **[Intern Sales](https://jobright.ai/jobs/info/6a357807ce501060b5cf4709?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 19 |
 | **[TPG](https://teallpropertiesgroup.com/)** | **[TPG - Intern, Oklahoma Secondary School Activities Association](https://jobright.ai/jobs/info/6a3576a8649fdf16292f91a0?utm_campaign=1051&utm_source=git)** | OKLAHOMA CITY,OK,US | Hybrid | Jun 19 |
+| **[Cresta](https://www.cresta.com)** | **[Conversation Design Intern (Customer Success)](https://jobright.ai/jobs/info/6a298e0b495d985b99424218?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Lyten](http://www.lyten.com)** | **[Intern - Jr. Buyer](https://jobright.ai/jobs/info/6a1789411430333075cd2118?utm_campaign=1051&utm_source=git)** | San Jose, CA, US | On Site | Jun 19 |
 | **[RBC](https://www.rbc.com)** | **[Group Advantage Relationship Manager Intern](https://jobright.ai/jobs/info/6a355cc31232144fb1562dee?utm_campaign=1051&utm_source=git)** | KENTVILLE, Nova Scotia, Canada | Hybrid | Jun 19 |
 | **[TruBlue Home Service Ally](https://www.trublueally.com)** | **[Business Development Intern (Senior Care Partnerships)](https://jobright.ai/jobs/info/6a3559b77f3fdd180d4cd266?utm_campaign=1051&utm_source=git)** | Flower Mound, TX | Hybrid | Jun 19 |
@@ -77,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Circle Health](https://www.circlehealth.in/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a3528a07f3fdd180d4cc814?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jun 19 |
 | **[David Munson Insurance & Financial Services Inc.](https://www.dcmetroinsurance.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a3524ed1232144fb1562188?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | Jun 19 |
 | **[Würth Industry USA](http://wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088bb091c7417c4f9fe9?utm_campaign=1051&utm_source=git)** | Sanford, Florida, United States | On Site | Jun 19 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a170895b091c7417c4f9fef?utm_campaign=1051&utm_source=git)** | Greenwood, Indiana, United States | On Site | Jun 19 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088eb091c7417c4f9feb?utm_campaign=1051&utm_source=git)** | Roanoke, Virginia, United States | On Site | Jun 19 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a170895b091c7417c4f9fef?utm_campaign=1051&utm_source=git)** | Greenwood, Indiana, United States | On Site | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Luxury Resale Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e1ff49d612782e6114df45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
 | **[Dream](http://www.dream.ca/)** | **[Intern, Supplier Enablement](https://jobright.ai/jobs/info/6a18a7d854a441713ae86ffc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 19 |
 | **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[BEST Sales Intern - Fire](https://jobright.ai/jobs/info/6a184e6617492d3a389b40d0?utm_campaign=1051&utm_source=git)** | Cranberry Township-Pennsylvania-United States of America, US | On Site | Jun 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Peacock Inn](http://www.peacockinn.com)** | **[For-Credit Merchandising Intern – Hospitality (Summer 2026)](https://jobright.ai/jobs/info/6a3428b41232144fb155e850?utm_campaign=1051&utm_source=git)** | Hamilton Township, NJ, USA | On Site | Jun 18 |
 | **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a34428ace501060b5cf046d?utm_campaign=1051&utm_source=git)** | Washington, United States | Remote | Jun 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a3425f47f3fdd180d4c9033?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | Jun 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a3425b61232144fb155e75a?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Jun 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a342238649fdf16292f43a8?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Jun 18 |
-| **[CALIBRE Systems, Inc.](https://calibresys.com/)** | **[Intern - Defense](https://jobright.ai/jobs/info/6a34203c29c90c607e4dd80b?utm_campaign=1051&utm_source=git)** | Alexandria, VA | Hybrid | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
