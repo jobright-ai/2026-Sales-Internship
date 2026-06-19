@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[D2L](http://www.d2l.com)** | **[Business Development Coordinator - Fall 2026 Co-op](https://jobright.ai/jobs/info/6a3483b2ce501060b5cf196c?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jun 18 |
+| **[The Peacock Inn](http://www.peacockinn.com)** | **[For-Credit Merchandising Intern – Hospitality (Summer 2026)](https://jobright.ai/jobs/info/6a348053ce501060b5cf181c?utm_campaign=1051&utm_source=git)** | Hamilton Township, NJ | On Site | Jun 18 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Merchandising & Retail Intern - Fall 2026](https://jobright.ai/jobs/info/6a346c011232144fb155ff8b?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 18 |
 | **[Invictus Home Team](https://www.invictushometeam.com/)** | **[Real Estate Agent intern - Student Athlete *Licensing class covered*](https://jobright.ai/jobs/info/6a3469e0ce501060b5cf11dc?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Jun 18 |
 | **[O'Hara's Son Roofing Company (OSR)](https://www.oharasson.com/)** | **[Sales Operations and Marketing Intern](https://jobright.ai/jobs/info/6a3468631232144fb155fe9c?utm_campaign=1051&utm_source=git)** | OSR Main, Chicago, IL, US | On Site | Jun 18 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a340d0f29c90c607e4dd044?utm_campaign=1051&utm_source=git)** | Lafayette, Louisiana, United States | On Site | Jun 18 |
 | **[Extreme Networks](http://www.extremenetworks.com)** | **[Intern - Channel Sales - Fluent in Spanish and English](https://jobright.ai/jobs/info/6a0e33d647fea1610bca80a9?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | Jun 18 |
 | ↳ | **[Intern - Channel Sales - Fluent in Spanish and English](https://jobright.ai/jobs/info/69fbab12d21cf86d1e3d4c34?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | Jun 18 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 18 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 18 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 18 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 18 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 18 |
 | **[Mapu Industries](www.mapuindustries.com)** | **[Entry Level Sales Intern](https://jobright.ai/jobs/info/6a31568d0ff23769fdb1d671?utm_campaign=1051&utm_source=git)** | Okemos, MI | On Site | Jun 18 |
 | **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative Intern Sales - USA](https://jobright.ai/jobs/info/6a2a3bd92cde2824469c0fab?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jun 18 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Seller Live Analytics Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS)](https://jobright.ai/jobs/info/6a335ff8910b734910714ef4?utm_campaign=1051&utm_source=git)** | New York | On Site | Jun 17 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Corporate Sales Operations, Pre-Owned and Remarketing Intern](https://jobright.ai/jobs/info/6a335e2fce501060b5ced3bb?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jun 17 |
 | ↳ | **[Corporate Sales Operations, Pre-Owned and Remarketing Intern](https://jobright.ai/jobs/info/6a335e28ce501060b5ced3ba?utm_campaign=1051&utm_source=git)** | 2680 Matheson Blvd East, Suite 500, Mississauga, Ontario, Canada | Hybrid | Jun 17 |
-| **[IKONIC](https://ikonicdev.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a32890a910b7349107108fd?utm_campaign=1051&utm_source=git)** | Austin, Texas, United States | Remote | Jun 17 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a328915ce501060b5ce93c0?utm_campaign=1051&utm_source=git)** | Ottawa, ON, Canada | Remote | Jun 17 |
-| **[Kevin's Natural Foods](https://www.kevinsnaturalfoods.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a33526ece501060b5ced107?utm_campaign=1051&utm_source=git)** | Stockton, CA | On Site | Jun 17 |
-| **[PSI Groups](https://www.psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a338531649fdf16292f2467?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Jun 17 |
+| **[IKONIC](https://ikonicdev.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a328915ce501060b5ce93c0?utm_campaign=1051&utm_source=git)** | Ottawa, ON, Canada | Remote | Jun 17 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a32890a910b7349107108fd?utm_campaign=1051&utm_source=git)** | Austin, Texas, United States | Remote | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
