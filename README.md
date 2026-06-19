@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Würth Industry USA](http://wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a170895b091c7417c4f9fef?utm_campaign=1051&utm_source=git)** | Greenwood, Indiana, United States | On Site | Jun 19 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088bb091c7417c4f9fe9?utm_campaign=1051&utm_source=git)** | Sanford, Florida, United States | On Site | Jun 19 |
+| **[Circle Health](https://www.circlehealth.in/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a3528a07f3fdd180d4cc814?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jun 19 |
+| **[David Munson Insurance & Financial Services Inc.](https://www.dcmetroinsurance.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a3524ed1232144fb1562188?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | Jun 19 |
+| **[Würth Industry USA](http://wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088bb091c7417c4f9fe9?utm_campaign=1051&utm_source=git)** | Sanford, Florida, United States | On Site | Jun 19 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088eb091c7417c4f9feb?utm_campaign=1051&utm_source=git)** | Roanoke, Virginia, United States | On Site | Jun 19 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a170895b091c7417c4f9fef?utm_campaign=1051&utm_source=git)** | Greenwood, Indiana, United States | On Site | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Luxury Resale Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e1ff49d612782e6114df45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
+| **[Dream](http://www.dream.ca/)** | **[Intern, Supplier Enablement](https://jobright.ai/jobs/info/6a18a7d854a441713ae86ffc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 19 |
 | **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[BEST Sales Intern - Fire](https://jobright.ai/jobs/info/6a184e6617492d3a389b40d0?utm_campaign=1051&utm_source=git)** | Cranberry Township-Pennsylvania-United States of America, US | On Site | Jun 19 |
 | **[CrelioHealth](https://creliohealth.com)** | **[Junior Account Manager](https://jobright.ai/jobs/info/6a34eb8b29c90c607e4e0d7c?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Jun 19 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a34d5d8f6b55d12c791e328?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 18 |
@@ -70,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a34c0e17f3fdd180d4cb987?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 18 |
 | **[Next Gen Exposure, Inc.](https://nextgenexposureinc.com/)** | **[Sales & Marketing Internship / Paid / Leadership Development Opportunities](https://jobright.ai/jobs/info/6a34a9e9f6b55d12c791da8c?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Jun 18 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 18 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 18 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 18 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 18 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a34a3d2649fdf16292f6b2f?utm_campaign=1051&utm_source=git)** | Fallon, NV | On Site | Jun 18 |
 | **[American Water](http://amwater.com)** | **[Business Development & Strategy Intern](https://jobright.ai/jobs/info/6a34a2f929c90c607e4e002a?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jun 18 |
 | **[D2L](http://www.d2l.com)** | **[Business Development Coordinator - Fall 2026 Co-op](https://jobright.ai/jobs/info/6a3483b2ce501060b5cf196c?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jun 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a2a1bfc2cde2824469bfbb1?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jun 18 |
 | ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a2c8fd0fc0644749054a8e5?utm_campaign=1051&utm_source=git)** | Encino, CA, US | On Site | Jun 18 |
 | ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a2c8fcefc0644749054a8e0?utm_campaign=1051&utm_source=git)** | US-CA-Encino | On Site | Jun 18 |
-| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/691840e315b4156367180813?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 18 |
-| **[Evolv](https://introducingevolv.com/)** | **[Business Sales Intern](https://jobright.ai/jobs/info/6a343b2b649fdf16292f4c68?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jun 18 |
-| **[Visit Indy](https://www.visitindy.com/)** | **[Convention Sales Intern - Fall 2026](https://jobright.ai/jobs/info/6a33e61ef6b55d12c7919ea5?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
