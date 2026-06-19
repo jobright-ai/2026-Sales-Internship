@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a34cdfd29c90c607e4e094c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 18 |
+| **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a34d5d8f6b55d12c791e328?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 18 |
+| ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a34d5c11232144fb15617d3?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 18 |
+| ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a34cdfd29c90c607e4e094c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 18 |
 | ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a34cdfa649fdf16292f743f?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a34c0e17f3fdd180d4cb987?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 18 |
 | **[Next Gen Exposure, Inc.](https://nextgenexposureinc.com/)** | **[Sales & Marketing Internship / Paid / Leadership Development Opportunities](https://jobright.ai/jobs/info/6a34a9e9f6b55d12c791da8c?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Jun 18 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 18 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 18 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 18 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 18 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a34a3d2649fdf16292f6b2f?utm_campaign=1051&utm_source=git)** | Fallon, NV | On Site | Jun 18 |
 | **[American Water](http://amwater.com)** | **[Business Development & Strategy Intern](https://jobright.ai/jobs/info/6a34a2f929c90c607e4e002a?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jun 18 |
 | **[D2L](http://www.d2l.com)** | **[Business Development Coordinator - Fall 2026 Co-op](https://jobright.ai/jobs/info/6a3483b2ce501060b5cf196c?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jun 18 |
@@ -141,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[NewToMedia](https://www.newtomedia.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a33f668649fdf16292f344a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Pakio](https://www.pakioinc.com/)** | **[Sales Management Internship - Summer 2026](https://jobright.ai/jobs/info/6a33ec1a7f3fdd180d4c7dac?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jun 18 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a2a1bfc2cde2824469bfbb1?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jun 18 |
-| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a2c8fd0fc0644749054a8e5?utm_campaign=1051&utm_source=git)** | Encino, CA, US | On Site | Jun 18 |
 | ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a2c8fcefc0644749054a8e0?utm_campaign=1051&utm_source=git)** | US-CA-Encino | On Site | Jun 18 |
+| ↳ | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a2c8fd0fc0644749054a8e5?utm_campaign=1051&utm_source=git)** | Encino, CA, US | On Site | Jun 18 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/691840e315b4156367180813?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 18 |
 | **[Evolv](https://introducingevolv.com/)** | **[Business Sales Intern](https://jobright.ai/jobs/info/6a343b2b649fdf16292f4c68?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jun 18 |
 | **[Visit Indy](https://www.visitindy.com/)** | **[Convention Sales Intern - Fall 2026](https://jobright.ai/jobs/info/6a33e61ef6b55d12c7919ea5?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[pladis Global](http://www.pladisglobal.com)** | **[Sales intern](https://jobright.ai/jobs/info/6a344e0af6b55d12c791c050?utm_campaign=1051&utm_source=git)** | Egypt, AR | On Site | Jun 18 |
 | **[LivingQ](https://livingq.city)** | **[Internship - Commercial Real Estate Brokerage](https://jobright.ai/jobs/info/6a337f0429c90c607e4db982?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 17 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Inside Sales Intern Job Details / Giesecke+Devrient](https://jobright.ai/jobs/info/6a337966649fdf16292f22ac?utm_campaign=1051&utm_source=git)** | San Jose, CA, US | On Site | Jun 17 |
-| **[Faherty Brand](http://fahertybrand.com)** | **[Intern, Hospitality Operations & Growth](https://jobright.ai/jobs/info/6a33365ef6b55d12c7918301?utm_campaign=1051&utm_source=git)** | Spring Lake, New Jersey, United States | On Site | Jun 17 |
-| **[Iowa State University Research Park](http://www.isupark.org)** | **[Strategic Student Program: Digital Sales & Marketing Intelligence Intern (GSCS, Fall 26)](https://jobright.ai/jobs/info/6a339dac910b7349107159c3?utm_campaign=1051&utm_source=git)** | Siemens, MI | Hybrid | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
