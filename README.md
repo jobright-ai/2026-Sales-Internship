@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[North Star Investment Group](https://www.linkedin.com/company/108065442)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a360efcce501060b5cf6395?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | Jun 19 |
+| **[Aflac](http://www.aflac.com)** | **[Licensed Insurance Agent (Active License Required to Apply)](https://jobright.ai/jobs/info/6a3631e9a0f3e56e86d6ab4d?utm_campaign=1051&utm_source=git)** | Salem, OR | On Site | Jun 19 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Client Relationships Intern](https://jobright.ai/jobs/info/6a35e1fcf6b55d12c7921af0?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | **[Footgear](https://footgear.co.za)** | **[PLANNING & MERCHANDISE N6 INTERNSHIP:(TVET ) - TYGERVALLEY, CPT](https://jobright.ai/jobs/info/6a35e0fd1232144fb1564eec?utm_campaign=1051&utm_source=git)** | Valley, AR | On Site | Jun 19 |
 | **[Cooper Tacia General Contracting Company](https://coopertacia.com/)** | **[Intern](https://jobright.ai/jobs/info/6a35e0c3f6b55d12c792189d?utm_campaign=1051&utm_source=git)** | Raleigh, NC, US | On Site | Jun 19 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Los Angeles Branch - Business Development Department Intern](https://jobright.ai/jobs/info/6a34c0e17f3fdd180d4cb987?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 18 |
 | **[Next Gen Exposure, Inc.](https://nextgenexposureinc.com/)** | **[Sales & Marketing Internship / Paid / Leadership Development Opportunities](https://jobright.ai/jobs/info/6a34a9e9f6b55d12c791da8c?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Jun 18 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 18 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 18 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 18 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 18 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a34a3d2649fdf16292f6b2f?utm_campaign=1051&utm_source=git)** | Fallon, NV | On Site | Jun 18 |
 | **[American Water](http://amwater.com)** | **[Business Development & Strategy Intern](https://jobright.ai/jobs/info/6a34a2f929c90c607e4e002a?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jun 18 |
 | **[D2L](http://www.d2l.com)** | **[Business Development Coordinator - Fall 2026 Co-op](https://jobright.ai/jobs/info/6a3483b2ce501060b5cf196c?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jun 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a34317ace501060b5cefe0a?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | Remote | Jun 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a343168649fdf16292f48c9?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | Jun 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a343008ce501060b5cefdbc?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Remote | Jun 18 |
-| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a342f2ff6b55d12c791b6cb?utm_campaign=1051&utm_source=git)** | Irvine, California, United States of America | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
