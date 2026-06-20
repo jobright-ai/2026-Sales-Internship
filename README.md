@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship - Merchandise (Supply Chain)](https://jobright.ai/jobs/info/6a369c58ce501060b5cf748d?utm_campaign=1051&utm_source=git)** | Headquarters International, NL | Hybrid | Jun 20 |
+| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Chattanooga, TN](https://jobright.ai/jobs/info/6a297987495d985b994239e9?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Jun 20 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Intern- Davenport, IA Fall 2026](https://jobright.ai/jobs/info/6a36846c29c90c607e4e5283?utm_campaign=1051&utm_source=git)** | Davenport/Quad Cities | On Site | Jun 20 |
 | ↳ | **[Sales Management Trainee Intern- Davenport, IA Fall 2026](https://jobright.ai/jobs/info/6a36846a29c90c607e4e5282?utm_campaign=1051&utm_source=git)** | Davenport, IA, US | On Site | Jun 20 |
 | **[Legends Global](http://legends.net)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a196f819111f771d1a0602a?utm_campaign=1051&utm_source=git)** | Hagerstown, MD | On Site | Jun 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Sales Agency Project Intern (Scaled Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a195892c2a87d6cd3df8ac8?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jun 20 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 20 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 20 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 20 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 20 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 20 |
 | **[RBC](https://www.rbc.com)** | **[Group Advantage Relationship Manager Intern](https://jobright.ai/jobs/info/6a355cc31232144fb1562dee?utm_campaign=1051&utm_source=git)** | KENTVILLE, Nova Scotia, Canada | Hybrid | Jun 20 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Client Relationships Intern](https://jobright.ai/jobs/info/6a35e1fcf6b55d12c7921af0?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | **[Footgear](https://footgear.co.za)** | **[PLANNING & MERCHANDISE N6 INTERNSHIP:(TVET ) - TYGERVALLEY, CPT](https://jobright.ai/jobs/info/6a35e0fd1232144fb1564eec?utm_campaign=1051&utm_source=git)** | Valley, AR | On Site | Jun 19 |
@@ -81,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Icon Train Smarter](http://icontraining.app)** | **[Fundraising Intern](https://jobright.ai/jobs/info/6a35da977f3fdd180d4cebb2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 19 |
 | **[WOW Brand](http://wowpayments.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a0d185622d0d34036c9b73e?utm_campaign=1051&utm_source=git)** | Kearny, NJ | On Site | Jun 19 |
 | **[Cresta](https://www.cresta.com)** | **[Conversation Design Intern (Customer Success)](https://jobright.ai/jobs/info/6a298e0b495d985b99424218?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 19 |
+| **[Mapu Industries](www.mapuindustries.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a3695f31232144fb15663d0?utm_campaign=1051&utm_source=git)** | East Lansing, MI | On Site | Jun 19 |
 | **[Lyten](http://www.lyten.com)** | **[Intern - Jr. Buyer](https://jobright.ai/jobs/info/6a1789411430333075cd2118?utm_campaign=1051&utm_source=git)** | San Jose, CA, US | On Site | Jun 19 |
 | **[TruBlue Home Service Ally](https://www.trublueally.com)** | **[Business Development Intern (Senior Care Partnerships)](https://jobright.ai/jobs/info/6a3559b77f3fdd180d4cd266?utm_campaign=1051&utm_source=git)** | Flower Mound, TX | Hybrid | Jun 19 |
 | **[New England Heritage Properties](http://heritageprop.net)** | **[Part Time Leasing Specialist Internship](https://jobright.ai/jobs/info/6a3559a9ce501060b5cf3e86?utm_campaign=1051&utm_source=git)** | Lowell, MA | On Site | Jun 19 |
@@ -97,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Operations Intern](https://jobright.ai/jobs/info/6a1da5cb9111f771d1a19d8e?utm_campaign=1051&utm_source=git)** | USA - MA - Chelmsford, US | On Site | Jun 19 |
 | **[Circle Health](https://www.circlehealth.in/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a3528a07f3fdd180d4cc814?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jun 19 |
 | **[David Munson Insurance & Financial Services Inc.](https://www.dcmetroinsurance.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a3524ed1232144fb1562188?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | Jun 19 |
-| **[Würth Industry USA](http://wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088bb091c7417c4f9fe9?utm_campaign=1051&utm_source=git)** | Sanford, Florida, United States | On Site | Jun 19 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088eb091c7417c4f9feb?utm_campaign=1051&utm_source=git)** | Roanoke, Virginia, United States | On Site | Jun 19 |
+| **[Würth Industry USA](http://wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088eb091c7417c4f9feb?utm_campaign=1051&utm_source=git)** | Roanoke, Virginia, United States | On Site | Jun 19 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088bb091c7417c4f9fe9?utm_campaign=1051&utm_source=git)** | Sanford, Florida, United States | On Site | Jun 19 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a170895b091c7417c4f9fef?utm_campaign=1051&utm_source=git)** | Greenwood, Indiana, United States | On Site | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Luxury Resale Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e1ff49d612782e6114df45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
 | **[Dream](http://www.dream.ca/)** | **[Intern, Supplier Enablement](https://jobright.ai/jobs/info/6a18a7d854a441713ae86ffc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Purdue University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a34356f7f3fdd180d4c94c7?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 18 |
 | **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a34352c29c90c607e4ddfb3?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Jun 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a3434db1232144fb155ec06?utm_campaign=1051&utm_source=git)** | Wasilla, AK | Remote | Jun 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a3432891232144fb155eac6?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Jun 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a3431c5649fdf16292f48ec?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jun 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a3431b2ce501060b5cefe2b?utm_campaign=1051&utm_source=git)** | Montgomery, AL | Remote | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
