@@ -57,17 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Payment Partnership Project Intern (Global Payment) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a37bce51232144fb1567df4?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Jun 21 |
 | **[Robylon AI](https://www.robylon.ai/)** | **[SDR Internship - AI Agent Platform for CX](https://jobright.ai/jobs/info/6a3798c329c90c607e4e6952?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 21 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop e-Commerce Strategic Specialist Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a37519af6b55d12c79240e9?utm_campaign=1051&utm_source=git)** | Los Angeles, California | On Site | Jun 20 |
 | **[YFK Office Lease](https://www.yfkofficelease.com/)** | **[Summer Internship - Commercial Real Estate](https://jobright.ai/jobs/info/6a3762911232144fb15675f2?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | Jun 20 |
 | **[Teleflex](http://www.teleflex.com)** | **[Urology Sales Intern Job Details / Teleflex](https://jobright.ai/jobs/info/6a37357d29c90c607e4e620e?utm_campaign=1051&utm_source=git)** | Morrisville, NC, US | On Site | Jun 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Logistics Partnership Management Project Intern (TikTok Shop - US Operation) - 2026 Start（BS/MS）](https://jobright.ai/jobs/info/6a36fae8ce501060b5cf7db2?utm_campaign=1051&utm_source=git)** | Seattle | On Site | Jun 20 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 20 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 20 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 20 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 20 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 20 |
 | **[KinKeeper AI](https://kinkeeperai.com)** | **[B2B Sales & Outreach Intern](https://jobright.ai/jobs/info/6a36f33d649fdf16292fc7ca?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 20 |
 | **[Ted and Greg's](https://tedandgregs.com)** | **[Retail and Influencer Strategy Internship](https://jobright.ai/jobs/info/6a36e579f6b55d12c792371a?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jun 20 |
-| **[Sidekick (YC P26)](https://textsidekick.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6a36e57929c90c607e4e5b3f?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 20 |
+| **[Sidekick (YC P26)](https://textsidekick.com/)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6a36e57929c90c607e4e5b3f?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 20 |
 | **[National Life Group](https://www.nationallife.com)** | **[Internal Wholesaler - Distribution (Mandarin Speaking)](https://jobright.ai/jobs/info/6971a03a587dfa0bb55f4e4a?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Jun 20 |
 | **[Acceldata](http://acceldata.io)** | **[Sales Engineering Co-Op](https://jobright.ai/jobs/info/69fed429d0dc596b8d11a37a?utm_campaign=1051&utm_source=git)** | Kitchener | On Site | Jun 20 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Sales Coordination - Fall 2026](https://jobright.ai/jobs/info/6a02350b3053db70a11758ea?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a343ffa7f3fdd180d4c98a7?utm_campaign=1051&utm_source=git)** | Juneau, AK | Remote | Jun 18 |
 | **[GG&G](https://www.gggaz.com)** | **[For-Credit Merchandising Intern – Hospitality (Summer 2026)](https://jobright.ai/jobs/info/6a343ef61232144fb155efe8?utm_campaign=1051&utm_source=git)** | Hamilton Township, NJ, USA | On Site | Jun 18 |
 | **[Univar Solutions](https://www.univarsolutions.com)** | **[Technical Sales Specialist (Intern)](https://jobright.ai/jobs/info/69fbfbe6a5949019c55b2482?utm_campaign=1051&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jun 18 |
-| **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a343b047f3fdd180d4c96ae?utm_campaign=1051&utm_source=git)** | Sitka, AK | Remote | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
