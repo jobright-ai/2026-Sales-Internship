@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6a3849c2f6b55d12c79253d6?utm_campaign=1051&utm_source=git)** | Monticello, MN | On Site | Jun 21 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6a3848a5649fdf16292fe27b?utm_campaign=1051&utm_source=git)** | Vineland, NJ | On Site | Jun 21 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6a3847a5ce501060b5cf95fd?utm_campaign=1051&utm_source=git)** | Owatonna, MN | On Site | Jun 21 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6a3847581232144fb156869d?utm_campaign=1051&utm_source=git)** | Kirksville, MO | On Site | Jun 21 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf4?utm_campaign=1051&utm_source=git)** | Athens, GA, US | On Site | Jun 21 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6a37f37ace501060b5cf9055?utm_campaign=1051&utm_source=git)** | Thomas, MI | On Site | Jun 21 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6a37efc6649fdf16292fdcbf?utm_campaign=1051&utm_source=git)** | Brooklyn, New York | On Site | Jun 21 |
@@ -67,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop e-Commerce Strategic Specialist Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a37519af6b55d12c79240e9?utm_campaign=1051&utm_source=git)** | Los Angeles, California | On Site | Jun 20 |
 | **[Teleflex](http://www.teleflex.com)** | **[Urology Sales Intern Job Details / Teleflex](https://jobright.ai/jobs/info/6a37357d29c90c607e4e620e?utm_campaign=1051&utm_source=git)** | Morrisville, NC, US | On Site | Jun 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Logistics Partnership Management Project Intern (TikTok Shop - US Operation) - 2026 Start（BS/MS）](https://jobright.ai/jobs/info/6a36fae8ce501060b5cf7db2?utm_campaign=1051&utm_source=git)** | Seattle | On Site | Jun 20 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 20 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 20 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 20 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 20 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 20 |
 | **[KinKeeper AI](https://kinkeeperai.com)** | **[B2B Sales & Outreach Intern](https://jobright.ai/jobs/info/6a36f33d649fdf16292fc7ca?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 20 |
 | **[Ted and Greg's](https://tedandgregs.com)** | **[Retail and Influencer Strategy Internship](https://jobright.ai/jobs/info/6a36e579f6b55d12c792371a?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jun 20 |
 | **[Sidekick (YC P26)](https://textsidekick.com/)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6a36e57929c90c607e4e5b3f?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 20 |
@@ -123,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Luxury Resale Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e1ff49d612782e6114df45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
 | **[Dream](http://www.dream.ca/)** | **[Intern, Supplier Enablement](https://jobright.ai/jobs/info/6a18a7d854a441713ae86ffc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 19 |
 | **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[BEST Sales Intern - Fire](https://jobright.ai/jobs/info/6a184e6617492d3a389b40d0?utm_campaign=1051&utm_source=git)** | Cranberry Township-Pennsylvania-United States of America, US | On Site | Jun 19 |
-| **[CrelioHealth](https://creliohealth.com)** | **[Junior Account Manager](https://jobright.ai/jobs/info/6a34eb8b29c90c607e4e0d7c?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Jun 19 |
 | **[REVELxp](https://revelxp.com)** | **[TPG - Intern, Oklahoma Secondary School Activities Association](https://jobright.ai/jobs/info/6a378cd81232144fb1567964?utm_campaign=1051&utm_source=git)** | OKLAHOMA CITY,OK,US | Hybrid | Jun 19 |
 | **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a34d5d8f6b55d12c791e328?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 18 |
 | ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a34d5c11232144fb15617d3?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a344a11ce501060b5cf06c6?utm_campaign=1051&utm_source=git)** | Boulder, CO | Remote | Jun 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a344a04649fdf16292f51f1?utm_campaign=1051&utm_source=git)** | Jonesboro, AR | Remote | Jun 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a3449f2ce501060b5cf06ba?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | Remote | Jun 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a3449eb1232144fb155f34e?utm_campaign=1051&utm_source=git)** | Huntsville, AL | Remote | Jun 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a3446b61232144fb155f261?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | Jun 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a344369f6b55d12c791bd87?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | Remote | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
