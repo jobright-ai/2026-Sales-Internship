@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 21 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 21 |
+| **[PRIME TIME Agency](primetimehere.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a38d6a629c90c607e4e835f?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jun 21 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 21 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 21 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 21 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Sales and Reservations Support Intern](https://jobright.ai/jobs/info/6a387b9929c90c607e4e79f5?utm_campaign=1051&utm_source=git)** | NL-Hub | On Site | Jun 21 |
 | **[txted.ai](https://www.txted.ai)** | **[Service SMB AI Sales Intern](https://jobright.ai/jobs/info/6a3855871232144fb15687b1?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sir Home Improvements](https://sirhome.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a34bef87f3fdd180d4cb904?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Jun 18 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- Corporate Partnerships Intern (Fall 2026)](https://jobright.ai/jobs/info/6a344ceef6b55d12c791c003?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Jun 18 |
 | **[Rivercity Insurance & Financial Services](https://www.facebook.com/rivercityinsuranceandfinancialservices)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a344aa97f3fdd180d4c9bbd?utm_campaign=1051&utm_source=git)** | Mobile, AL | Remote | Jun 18 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a344a4329c90c607e4de6c0?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
