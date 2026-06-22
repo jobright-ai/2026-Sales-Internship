@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 21 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 21 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 21 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 21 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 21 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Sales and Reservations Support Intern](https://jobright.ai/jobs/info/6a387b9929c90c607e4e79f5?utm_campaign=1051&utm_source=git)** | NL-Hub | On Site | Jun 21 |
 | **[txted.ai](https://www.txted.ai)** | **[Service SMB AI Sales Intern](https://jobright.ai/jobs/info/6a3855871232144fb15687b1?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 21 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6a3849c2f6b55d12c79253d6?utm_campaign=1051&utm_source=git)** | Monticello, MN | On Site | Jun 21 |
