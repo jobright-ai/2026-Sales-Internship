@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern (Summer 2027)](https://jobright.ai/jobs/info/6a393fb51232144fb156a171?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 22 |
+| **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/6a299ff3495d985b99424cbd?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jun 22 |
+| **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39431b06a4fd4b1fab8fd0?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Jun 22 |
+| ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39431a06a4fd4b1fab8fce?utm_campaign=1051&utm_source=git)** | New York, NY, USA | On Site | Jun 22 |
+| ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39431a1232144fb156a256?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | On Site | Jun 22 |
+| ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39431a06a4fd4b1fab8fcf?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | On Site | Jun 22 |
+| ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3943181232144fb156a254?utm_campaign=1051&utm_source=git)** | New York, NY, USA | On Site | Jun 22 |
+| ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39431506a4fd4b1fab8fcb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 22 |
+| ↳ | **[Corporate Development Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3942f206a4fd4b1fab8fc6?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | On Site | Jun 22 |
+| ↳ | **[Corporate Development Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3942f106a4fd4b1fab8fc5?utm_campaign=1051&utm_source=git)** | New York, NY, USA | On Site | Jun 22 |
+| ↳ | **[Corporate Development Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3942e7f6b55d12c7926e10?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
+| ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3942e4649fdf16292ffdb7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
+| ↳ | **[Corporate Development Intern (Summer 2027)](https://jobright.ai/jobs/info/6a393fb51232144fb156a171?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 22 |
 | ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a393f9ef6b55d12c7926d00?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 22 |
 | **[Victory Branding](https://victorybranding.org/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a393c05214ae004c7a1d6d8?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Jun 22 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Client Development Intern - Fragrance & Beauty (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/6a298a262cde2824469bcc21?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Jun 22 |
@@ -74,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Circle Logistics, Inc](http://circledelivers.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a391ecca0f3e56e86d6ee61?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Jun 22 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Development/Fundraising Internship](https://jobright.ai/jobs/info/6a3914181232144fb15699ff?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jun 22 |
 | ↳ | **[Strategic Philanthropy & Social Impact Internship](https://jobright.ai/jobs/info/6a391394a0f3e56e86d6ecfd?utm_campaign=1051&utm_source=git)** | Berkeley, CA | Hybrid | Jun 22 |
+| **[AdMedia](http://admedia.com/)** | **[Digital Advertising Sales Intern-to-Hire Program](https://jobright.ai/jobs/info/6a31a0ac35e80310003a84a2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 22 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Corporate Sales Operations, Pre-Owned and Remarketing Intern](https://jobright.ai/jobs/info/6a390e53a0f3e56e86d6ec31?utm_campaign=1051&utm_source=git)** | 2680 Matheson Blvd East, Suite 500 | Hybrid | Jun 22 |
 | ↳ | **[Corporate Sales Operations, Pre-Owned and Remarketing Intern](https://jobright.ai/jobs/info/6a390e53a0f3e56e86d6ec30?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jun 22 |
 | ↳ | **[Dealer Network Development and Customer Experience Intern - MYMI 2026](https://jobright.ai/jobs/info/6a390e4e1232144fb1569925?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jun 22 |
@@ -127,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Fifth Wheel Freight](https://www.fwf.com/)** | **[Sales Internship - Fall 2026](https://jobright.ai/jobs/info/6a35a1307f3fdd180d4ce5a8?utm_campaign=1051&utm_source=git)** | Kentwood, Michigan, United States | On Site | Jun 19 |
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a30349feace377055eb50cd?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 19 |
 | **[LZ Management](https://www.lz-management.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a3599a91232144fb1563f92?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Jun 19 |
-| **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/6a299ff3495d985b99424cbd?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jun 19 |
 | **[TPG](https://teallpropertiesgroup.com/)** | **[TPG - Intern, Oklahoma Secondary School Activities Association](https://jobright.ai/jobs/info/6a3576a8649fdf16292f91a0?utm_campaign=1051&utm_source=git)** | OKLAHOMA CITY,OK,US | Hybrid | Jun 19 |
 | **[Lyten](http://www.lyten.com)** | **[Intern - Jr. Buyer](https://jobright.ai/jobs/info/6a1790465b0a497d5210dabe?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
 | **[WOW Brand](http://wowpayments.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a0d185622d0d34036c9b73e?utm_campaign=1051&utm_source=git)** | Kearny, NJ | On Site | Jun 19 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Axis Communications](http://www.axis.com/)** | **[Sales and Operations Intern](https://jobright.ai/jobs/info/6a18744317492d3a389b6555?utm_campaign=1051&utm_source=git)** | Chelmsford, MA | On Site | Jun 19 |
 | ↳ | **[Sales and Operations Intern](https://jobright.ai/jobs/info/6a1da5cb9111f771d1a19d8e?utm_campaign=1051&utm_source=git)** | USA - MA - Chelmsford, US | On Site | Jun 19 |
 | **[Circle Health](https://www.circlehealth.in/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a3528a07f3fdd180d4cc814?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jun 19 |
-| **[David Munson Insurance & Financial Services Inc.](https://www.dcmetroinsurance.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a3524ed1232144fb1562188?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | Jun 19 |
-| **[Würth Industry USA](http://wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a170895b091c7417c4f9fef?utm_campaign=1051&utm_source=git)** | Greenwood, Indiana, United States | On Site | Jun 19 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088bb091c7417c4f9fe9?utm_campaign=1051&utm_source=git)** | Sanford, Florida, United States | On Site | Jun 19 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088eb091c7417c4f9feb?utm_campaign=1051&utm_source=git)** | Roanoke, Virginia, United States | On Site | Jun 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Luxury Resale Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e1ff49d612782e6114df45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
-| **[Dream](http://www.dream.ca/)** | **[Intern, Supplier Enablement](https://jobright.ai/jobs/info/6a18a7d854a441713ae86ffc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 19 |
-| **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[BEST Sales Intern - Fire](https://jobright.ai/jobs/info/6a184e6617492d3a389b40d0?utm_campaign=1051&utm_source=git)** | Cranberry Township-Pennsylvania-United States of America, US | On Site | Jun 19 |
-| **[REVELxp](https://revelxp.com)** | **[TPG - Intern, Oklahoma Secondary School Activities Association](https://jobright.ai/jobs/info/6a378cd81232144fb1567964?utm_campaign=1051&utm_source=git)** | OKLAHOMA CITY,OK,US | Hybrid | Jun 19 |
-| **[Influx](https://www.influxonline.co)** | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a34d5d8f6b55d12c791e328?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 18 |
-| ↳ | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a34d5c11232144fb15617d3?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 18 |
-| ↳ | **[Student Business Development Intern (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a34cdfd29c90c607e4e094c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
