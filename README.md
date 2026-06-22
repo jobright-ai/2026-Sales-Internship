@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crescendo International](https://crescendointernational.co/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a32eee3649fdf16292ef918?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jun 22 |
+| **[Nexreach](https://nexreachusa.com/)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/6a3958a106a4fd4b1fab9702?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Jun 22 |
+| **[Selador International](https://seladorinternational.com/)** | **[Sales & Client Development Intern](https://jobright.ai/jobs/info/6a395471649fdf1629300464?utm_campaign=1051&utm_source=git)** | Beaumont-PA Area | On Site | Jun 22 |
 | **[The ZAP Agency](https://thezapagency.com/)** | **[Business & Sales Intern](https://jobright.ai/jobs/info/6a299ff3495d985b99424cbd?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jun 22 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39431b06a4fd4b1fab8fd0?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Jun 22 |
+| ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39431a06a4fd4b1fab8fcf?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | On Site | Jun 22 |
 | ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39431a06a4fd4b1fab8fce?utm_campaign=1051&utm_source=git)** | New York, NY, USA | On Site | Jun 22 |
 | ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39431a1232144fb156a256?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | On Site | Jun 22 |
-| ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39431a06a4fd4b1fab8fcf?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | On Site | Jun 22 |
 | ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3943181232144fb156a254?utm_campaign=1051&utm_source=git)** | New York, NY, USA | On Site | Jun 22 |
 | ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39431506a4fd4b1fab8fcb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 22 |
 | ↳ | **[Corporate Development Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3942f206a4fd4b1fab8fc6?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | On Site | Jun 22 |
@@ -70,6 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3942e4649fdf16292ffdb7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | ↳ | **[Corporate Development Intern (Summer 2027)](https://jobright.ai/jobs/info/6a393fb51232144fb156a171?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 22 |
 | ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a393f9ef6b55d12c7926d00?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 22 |
+| **[Bucks Bama Blitz](https://www.linkedin.com/company/112624749)** | **[Sales Intern](https://jobright.ai/jobs/info/6a3333f1649fdf16292f1308?utm_campaign=1051&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Jun 22 |
 | **[Victory Branding](https://victorybranding.org/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a393c05214ae004c7a1d6d8?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Jun 22 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Client Development Intern - Fragrance & Beauty (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/6a298a262cde2824469bcc21?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Jun 22 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Summer Sales & Marketing Intern](https://jobright.ai/jobs/info/6a0f73f1619335383fb2c7eb?utm_campaign=1051&utm_source=git)** | Kaukauna, WI | On Site | Jun 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Synchrony](https://www.synchrony.com/)** | **[BLP Intern – Sales](https://jobright.ai/jobs/info/6a315590e7b7d514a3bd2e45?utm_campaign=1051&utm_source=git)** | Stamford Hub, US | Hybrid | Jun 19 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern- Portland, ME](https://jobright.ai/jobs/info/6954d770f1f8465b79ec06d3?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | Jun 19 |
 | **[Hand To Hold](http://www.handtohold.org)** | **[Development Intern 2026-2027](https://jobright.ai/jobs/info/6a354a37649fdf16292f854d?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Jun 19 |
-| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Financial Solutions (Fall 2026) Job Details / Epiroc Careers](https://jobright.ai/jobs/info/6a353c5c7f3fdd180d4ccbb8?utm_campaign=1051&utm_source=git)** | Garland, TX, US, 75040 | On Site | Jun 19 |
-| **[Axis Communications](http://www.axis.com/)** | **[Sales and Operations Intern](https://jobright.ai/jobs/info/6a18744317492d3a389b6555?utm_campaign=1051&utm_source=git)** | Chelmsford, MA | On Site | Jun 19 |
-| ↳ | **[Sales and Operations Intern](https://jobright.ai/jobs/info/6a1da5cb9111f771d1a19d8e?utm_campaign=1051&utm_source=git)** | USA - MA - Chelmsford, US | On Site | Jun 19 |
-| **[Circle Health](https://www.circlehealth.in/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a3528a07f3fdd180d4cc814?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jun 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
