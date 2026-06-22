@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Development/Fundraising Internship](https://jobright.ai/jobs/info/6a3914181232144fb15699ff?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jun 22 |
+| ↳ | **[Strategic Philanthropy & Social Impact Internship](https://jobright.ai/jobs/info/6a391394a0f3e56e86d6ecfd?utm_campaign=1051&utm_source=git)** | Berkeley, CA | Hybrid | Jun 22 |
+| **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Corporate Sales Operations, Pre-Owned and Remarketing Intern](https://jobright.ai/jobs/info/6a390e53a0f3e56e86d6ec31?utm_campaign=1051&utm_source=git)** | 2680 Matheson Blvd East, Suite 500 | Hybrid | Jun 22 |
+| ↳ | **[Corporate Sales Operations, Pre-Owned and Remarketing Intern](https://jobright.ai/jobs/info/6a390e53a0f3e56e86d6ec30?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jun 22 |
+| ↳ | **[Dealer Network Development and Customer Experience Intern - MYMI 2026](https://jobright.ai/jobs/info/6a390e4e1232144fb1569925?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jun 22 |
+| ↳ | **[Dealer Network Development and Customer Experience Intern - MYMI 2026](https://jobright.ai/jobs/info/6a390e4d1232144fb1569923?utm_campaign=1051&utm_source=git)** | 2680 Matheson Blvd East, Suite 500, Mississauga, Ontario, Canada | On Site | Jun 22 |
+| **[Wolverine Advanced Materials](http://www.wamglobal.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a390e2206a4fd4b1fab86ae?utm_campaign=1051&utm_source=git)** | Dearborn, MI | On Site | Jun 22 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/6a1f49808049156781168a84?utm_campaign=1051&utm_source=git)** | Trumbull, CT | On Site | Jun 22 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 22 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 22 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 22 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 22 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 22 |
 | **[Great Lakes Outreach Wisconsin](https://www.glowisconsin.com/)** | **[Business Sales Internship](https://jobright.ai/jobs/info/6a3433177f3fdd180d4c93b4?utm_campaign=1051&utm_source=git)** | Pewaukee, WI | On Site | Jun 21 |
-| **[PRIME TIME Agency](primetimehere.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a38d6a629c90c607e4e835f?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jun 21 |
+| **[PRIME TIME Solutions](primetimehere.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a38d6a629c90c607e4e835f?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jun 21 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Sales and Reservations Support Intern](https://jobright.ai/jobs/info/6a387b9929c90c607e4e79f5?utm_campaign=1051&utm_source=git)** | NL-Hub | On Site | Jun 21 |
 | **[txted.ai](https://www.txted.ai)** | **[Service SMB AI Sales Intern](https://jobright.ai/jobs/info/6a3855871232144fb15687b1?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 21 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6a3849c2f6b55d12c79253d6?utm_campaign=1051&utm_source=git)** | Monticello, MN | On Site | Jun 21 |
@@ -127,9 +134,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Operations Intern](https://jobright.ai/jobs/info/6a1da5cb9111f771d1a19d8e?utm_campaign=1051&utm_source=git)** | USA - MA - Chelmsford, US | On Site | Jun 19 |
 | **[Circle Health](https://www.circlehealth.in/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a3528a07f3fdd180d4cc814?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jun 19 |
 | **[David Munson Insurance & Financial Services Inc.](https://www.dcmetroinsurance.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a3524ed1232144fb1562188?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | Jun 19 |
-| **[Würth Industry USA](http://wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088eb091c7417c4f9feb?utm_campaign=1051&utm_source=git)** | Roanoke, Virginia, United States | On Site | Jun 19 |
+| **[Würth Industry USA](http://wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088bb091c7417c4f9fe9?utm_campaign=1051&utm_source=git)** | Sanford, Florida, United States | On Site | Jun 19 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088eb091c7417c4f9feb?utm_campaign=1051&utm_source=git)** | Roanoke, Virginia, United States | On Site | Jun 19 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a170895b091c7417c4f9fef?utm_campaign=1051&utm_source=git)** | Greenwood, Indiana, United States | On Site | Jun 19 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a17088bb091c7417c4f9fe9?utm_campaign=1051&utm_source=git)** | Sanford, Florida, United States | On Site | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Luxury Resale Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e1ff49d612782e6114df45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
 | **[Dream](http://www.dream.ca/)** | **[Intern, Supplier Enablement](https://jobright.ai/jobs/info/6a18a7d854a441713ae86ffc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 19 |
 | **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[BEST Sales Intern - Fire](https://jobright.ai/jobs/info/6a184e6617492d3a389b40d0?utm_campaign=1051&utm_source=git)** | Cranberry Township-Pennsylvania-United States of America, US | On Site | Jun 19 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arc70 Capital LLC](https://arc70.com/)** | **[Real Estate Private Equity Intern](https://jobright.ai/jobs/info/6a3465bd649fdf16292f5c53?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
 | **[Ottawa Sports and Entertainment Group (OSEG)](http://www.tdplace.ca)** | **[Intern, Corporate Partnerships](https://jobright.ai/jobs/info/6a345e697f3fdd180d4ca3ae?utm_campaign=1051&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 18 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a34598a7f3fdd180d4ca1ab?utm_campaign=1051&utm_source=git)** | Atlanta, Georgia, United States of America | On Site | Jun 18 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a345982649fdf16292f5833?utm_campaign=1051&utm_source=git)** | Long Beach, California, United States of America | On Site | Jun 18 |
-| **[BLN24](https://www.bln24.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a31973d35e80310003a803b?utm_campaign=1051&utm_source=git)** | McLean, VA | Hybrid | Jun 18 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Tribal Partnerships Intern](https://jobright.ai/jobs/info/6a345599649fdf16292f561e?utm_campaign=1051&utm_source=git)** | King Street Center - 201 S Jackson St, Seattle, WA | Hybrid | Jun 18 |
-| **[Savannah Ghost Pirates](http://ghostpirateshockey.com)** | **[Retail Operations Intern](https://jobright.ai/jobs/info/6a34b664649fdf16292f6e82?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Jun 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Sales Management Trainee Internship](https://jobright.ai/jobs/info/6a17caabda08264614c90691?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Jun 18 |
-| **[Sir Home Improvements](https://sirhome.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a34bef87f3fdd180d4cb904?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Jun 18 |
-| **[D.C. United](http://dcunited.com)** | **[Intern- Corporate Partnerships Intern (Fall 2026)](https://jobright.ai/jobs/info/6a344ceef6b55d12c791c003?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
