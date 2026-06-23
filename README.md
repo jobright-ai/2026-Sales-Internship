@@ -57,24 +57,29 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Melotech](https://www.melotech.ai/)** | **[Entrepreneur in Residence (Intern)](https://jobright.ai/jobs/info/6a0ae5dea235d749afa80164?utm_campaign=1051&utm_source=git)** | Los Angeles | Remote | Jun 22 |
+| ↳ | **[Entrepreneur in Residence (Intern)](https://jobright.ai/jobs/info/6a0ae5dfa235d749afa80168?utm_campaign=1051&utm_source=git)** | New York | Remote | Jun 22 |
+| ↳ | **[Entrepreneur in Residence (Intern)](https://jobright.ai/jobs/info/6a0ae5dfa235d749afa80165?utm_campaign=1051&utm_source=git)** | San Francisco | Remote | Jun 22 |
+| **[K2 Medical Research](https://k2med.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a39dab9f6b55d12c792a6be?utm_campaign=1051&utm_source=git)** | Clermont, FL, US | On Site | Jun 22 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a39dab8f6b55d12c792a6bb?utm_campaign=1051&utm_source=git)** | East Providence, RI, US | On Site | Jun 22 |
 | **[Vantage West Credit Union](https://vantagewest.org/)** | **[Intern, Consumer Lending](https://jobright.ai/jobs/info/6a39d759f6b55d12c792a622?utm_campaign=1051&utm_source=git)** | Tucson, Arizona, United States | On Site | Jun 22 |
 | **[The Plumtree Group Global](https://www.plumtreegroup.net/)** | **[Sales Closer Intern (US Market)](https://jobright.ai/jobs/info/6a39d0d4214ae004c7a20a41?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 22 |
 | **[Rose Valley Management](https://www.rosevalleymanagement.com)** | **[Leasing Intern (Paid)](https://jobright.ai/jobs/info/6a39ad9906a4fd4b1fabb96f?utm_campaign=1051&utm_source=git)** | New Haven, CT | On Site | Jun 22 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp - SAP Business Suite CSM & CRE Strategy & Operations iXp Intern](https://jobright.ai/jobs/info/6a399e7306a4fd4b1fabb307?utm_campaign=1051&utm_source=git)** | New York, NY, US, 10001 | Hybrid | Jun 22 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp - SAP Business Suite CSM & CRE Strategy & Operations iXp Intern](https://jobright.ai/jobs/info/6a399e87f6b55d12c7929493?utm_campaign=1051&utm_source=git)** | New York, NY, US, 10001 | Hybrid | Jun 22 |
 | **[PalmStateGroup](palmstatehealth.com)** | **[Business & Sales Internship for Student Athletes](https://jobright.ai/jobs/info/6a399e4c649fdf1629301fe1?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 22 |
 | **[ContinuServe Talent Acquisition & Organizational Development Services](http://www.apparatussolutionsinc.com/index.html)** | **[Business Development Internship](https://jobright.ai/jobs/info/6a399ca71232144fb156c5a7?utm_campaign=1051&utm_source=git)** | Marietta, GA | Remote | Jun 22 |
-| **[WOW Brand](http://wowpayments.com)** | **[Business Development Intern - NY Office - CAN START ASAP](https://jobright.ai/jobs/info/690bd6cf221b890c277f8f1a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
-| ↳ | **[Business Development Intern - NEW YORK Office (Can Start ASAP)](https://jobright.ai/jobs/info/6a2679344239a43538883f2a?utm_campaign=1051&utm_source=git)** | New york, NY | On Site | Jun 22 |
+| **[WOW Brand](http://wowpayments.com)** | **[Business Development Intern - NEW YORK Office (CAN START ASAP)](https://jobright.ai/jobs/info/6a1733eab091c7417c4fbc0c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
+| ↳ | **[Business Development Intern - NY Office - CAN START ASAP](https://jobright.ai/jobs/info/690bd6cf221b890c277f8f1a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a036d84bc4184089f2321dc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
-| ↳ | **[Business Development Intern - NEW YORK Office (CAN START ASAP)](https://jobright.ai/jobs/info/6a1733eab091c7417c4fbc0c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
+| ↳ | **[Business Development Intern - NEW YORK Office (Can Start ASAP)](https://jobright.ai/jobs/info/6a2679344239a43538883f2a?utm_campaign=1051&utm_source=git)** | New york, NY | On Site | Jun 22 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Store Ops Internship](https://jobright.ai/jobs/info/6a399c4f06a4fd4b1fabb1fa?utm_campaign=1051&utm_source=git)** | Knoxville, TN, US | On Site | Jun 22 |
-| **[WOW Brand](http://wowpayments.com)** | **[B2B Sales Representative Intern](https://jobright.ai/jobs/info/69e8480f4b0fa35a70761d4a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
-| ↳ | **[Business Development Intern - NY Office - CAN START ASAP](https://jobright.ai/jobs/info/6a39c69d06a4fd4b1fabc057?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
+| **[WOW Brand](http://wowpayments.com)** | **[Business Development Intern - NY Office - CAN START ASAP](https://jobright.ai/jobs/info/6a39c69d06a4fd4b1fabc057?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
+| ↳ | **[B2B Sales Representative Intern](https://jobright.ai/jobs/info/69e8480f4b0fa35a70761d4a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[New England Heritage Properties](http://heritageprop.net)** | **[Part Time Leasing Specialist Internship](https://jobright.ai/jobs/info/6a39c407f6b55d12c792a163?utm_campaign=1051&utm_source=git)** | Lowell, MA | On Site | Jun 22 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Store Ops Internship](https://jobright.ai/jobs/info/6a3998e6f6b55d12c7929165?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Jun 22 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 22 |
-| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 22 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24f6e414de9460dc8477ba?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, USA | Hybrid | Jun 22 |
 | ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb35757ade085b6b12ae?utm_campaign=1051&utm_source=git)** | Dallas, TX, USA | Hybrid | Jun 22 |
+| ↳ | **[General Interest - Internship](https://jobright.ai/jobs/info/6a24fb37757ade085b6b12b4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 22 |
 | **[WOW Brand](http://wowpayments.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a0d185622d0d34036c9b73e?utm_campaign=1051&utm_source=git)** | Kearny, NJ | On Site | Jun 22 |
 | **[Stream](https://stream.co)** | **[Retail Engagement Intern](https://jobright.ai/jobs/info/6a3990216484fb75f2b32652?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 22 |
 | **[Nonsense](https://nonsense-hub.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a398f00649fdf1629301935?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jun 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EnergyHub](http://www.energyhub.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6a37efc6649fdf16292fdcbf?utm_campaign=1051&utm_source=git)** | Brooklyn, New York | On Site | Jun 21 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Sales and Communication Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69aa26c09ca4e908ec656dd8?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Jun 21 |
 | ↳ | **[After Sales and Client Services Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fcb91f59c56275e2d00d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 21 |
-| **[Robylon AI](https://www.robylon.ai/)** | **[SDR Internship - AI Agent Platform for CX](https://jobright.ai/jobs/info/6a3798c329c90c607e4e6952?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 21 |
-| **[TikTok](https://www.tiktok.com)** | **[TikTok Shop e-Commerce Strategic Specialist Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a37519af6b55d12c79240e9?utm_campaign=1051&utm_source=git)** | Los Angeles, California | On Site | Jun 20 |
-| **[Teleflex](http://www.teleflex.com)** | **[Urology Sales Intern Job Details / Teleflex](https://jobright.ai/jobs/info/6a37357d29c90c607e4e620e?utm_campaign=1051&utm_source=git)** | Morrisville, NC, US | On Site | Jun 20 |
-| **[TikTok](https://www.tiktok.com)** | **[Logistics Partnership Management Project Intern (TikTok Shop - US Operation) - 2026 Start（BS/MS）](https://jobright.ai/jobs/info/6a36fae8ce501060b5cf7db2?utm_campaign=1051&utm_source=git)** | Seattle | On Site | Jun 20 |
-| **[Ted and Greg's](https://tedandgregs.com)** | **[Retail and Influencer Strategy Internship](https://jobright.ai/jobs/info/6a36e579f6b55d12c792371a?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jun 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
