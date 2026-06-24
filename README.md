@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/6a3b4d66649fdf1629307ce9?utm_campaign=1051&utm_source=git)** | Carlsbad, CA | On Site | Jun 23 |
 | **[NIL Academy](https://www.linkedin.com/company/109192007)** | **[Athlete Partnerships Intern](https://jobright.ai/jobs/info/6a3b166806a4fd4b1fac0571?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 23 |
 | **[WWF Mesoamérica](https://wwfca.org/)** | **[Prospect Research Intern](https://jobright.ai/jobs/info/6a3b0cfcdbedbf5680c728f4?utm_campaign=1051&utm_source=git)** | Washington D.C. | Hybrid | Jun 23 |
 | **[Aflac](http://www.aflac.com)** | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a3b27931232144fb1571cd6?utm_campaign=1051&utm_source=git)** | Frisco, TX | On Site | Jun 23 |
@@ -86,7 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Bosch](http://www.bosch.com)** | **[Commercial Vehicle Sales Intern](https://jobright.ai/jobs/info/6a3abfdcdd879c60912b0326?utm_campaign=1051&utm_source=git)** | 38000 Hills Tech Dr, Farmington Hills, MI 48331, USA | Hybrid | Jun 23 |
 | ↳ | **[Commercial Vehicle Sales Intern](https://jobright.ai/jobs/info/6a3abfd91232144fb156fd55?utm_campaign=1051&utm_source=git)** | 38000 Hills Tech Dr, Farmington Hills, MI 48331, USA | Hybrid | Jun 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Springfield, IL Fall 2026](https://jobright.ai/jobs/info/6a3abe55797099171917b658?utm_campaign=1051&utm_source=git)** | Springfield, IL | On Site | Jun 23 |
-| ↳ | **[Sales Management Trainee Intern- Dekalb, IL Fall 2026](https://jobright.ai/jobs/info/6a1dbc33b524ae49285a801a?utm_campaign=1051&utm_source=git)** | DeKalb, IL | On Site | Jun 23 |
+| **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Tennessee State University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1dc18ae24ef36525839a8b?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jun 23 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Dekalb, IL Fall 2026](https://jobright.ai/jobs/info/6a1dbc33b524ae49285a801a?utm_campaign=1051&utm_source=git)** | DeKalb, IL | On Site | Jun 23 |
 | ↳ | **[Sales Management Trainee Intern- Des Moines, IA Fall 2026](https://jobright.ai/jobs/info/6a3abc3edbedbf5680c70d8e?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Jun 23 |
 | **[LZ Management](https://www.lz-management.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a3aba891232144fb156fbb5?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Jun 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Pella, IA Fall 2026](https://jobright.ai/jobs/info/6a3ab9f51232144fb156fb9a?utm_campaign=1051&utm_source=git)** | Pella, IA | On Site | Jun 23 |
@@ -114,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a3a484b649fdf1629303ea4?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 22 |
 | **[Vantage West Credit Union](https://vantagewest.org/)** | **[Intern, Consumer Lending](https://jobright.ai/jobs/info/6a39d759f6b55d12c792a622?utm_campaign=1051&utm_source=git)** | Tucson, Arizona, United States | On Site | Jun 22 |
 | **[Pittsburgh Symphony Orchestra](https://pittsburghsymphony.org/)** | **[Development Intern - Fall 2026](https://jobright.ai/jobs/info/6a39edb16484fb75f2b341ee?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Jun 22 |
-| **[Melotech](https://www.melotech.ai/)** | **[Entrepreneur in Residence (Intern)](https://jobright.ai/jobs/info/6a0ae5dea235d749afa80164?utm_campaign=1051&utm_source=git)** | Los Angeles | Remote | Jun 22 |
-| ↳ | **[Entrepreneur in Residence (Intern)](https://jobright.ai/jobs/info/6a0ae5dfa235d749afa80168?utm_campaign=1051&utm_source=git)** | New York | Remote | Jun 22 |
+| **[Melotech](https://www.melotech.ai/)** | **[Entrepreneur in Residence (Intern)](https://jobright.ai/jobs/info/6a0ae5dfa235d749afa80168?utm_campaign=1051&utm_source=git)** | New York | Remote | Jun 22 |
+| ↳ | **[Entrepreneur in Residence (Intern)](https://jobright.ai/jobs/info/6a0ae5dea235d749afa80164?utm_campaign=1051&utm_source=git)** | Los Angeles | Remote | Jun 22 |
 | ↳ | **[Entrepreneur in Residence (Intern)](https://jobright.ai/jobs/info/6a0ae5dfa235d749afa80165?utm_campaign=1051&utm_source=git)** | San Francisco | Remote | Jun 22 |
 | **[Carolina Core FC](https://www.carolinacorefc.com)** | **[Sales Academy Internship Program](https://jobright.ai/jobs/info/6a3ad07e797099171917bcab?utm_campaign=1051&utm_source=git)** | High Point, NC | On Site | Jun 22 |
 | **[The Plumtree Group Global](https://www.plumtreegroup.net/)** | **[Sales Closer Intern (US Market)](https://jobright.ai/jobs/info/6a39d0d4214ae004c7a20a41?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Heritage Holding](https://www.heritage-holding.com/)** | **[Private Equity Sourcing Intern - Engineering](https://jobright.ai/jobs/info/6a395ce0214ae004c7a1e05a?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jun 22 |
 | **[Crescendo International](https://crescendointernational.co/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a32eee3649fdf16292ef918?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jun 22 |
 | **[Nexreach](https://nexreachusa.com/)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/6a3958a106a4fd4b1fab9702?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Jun 22 |
-| **[Selador International](https://seladorinternational.com/)** | **[Sales & Client Development Intern](https://jobright.ai/jobs/info/6a395471649fdf1629300464?utm_campaign=1051&utm_source=git)** | Beaumont-PA Area | On Site | Jun 22 |
-| **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a396dd6649fdf1629300d67?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
