@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LOFT](https://www.loft.com/)** | **[2026 Fall Retail Management Internship- Mall in Columbia](https://jobright.ai/jobs/info/6a3bef49d261407de97fba83?utm_campaign=1051&utm_source=git)** | Columbia, MD | On Site | Jun 24 |
+| **[TAKSHILA Inc](https://takshila.co)** | **[Business Development Summer Program - Intern](https://jobright.ai/jobs/info/6a3be87cd261407de97fb7e1?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Sliq360](https://sliq360.com/)** | **[Account Management & Onboarding – High-Performance Internship (Remote - US)](https://jobright.ai/jobs/info/6a3bbe7e882f121f56a3228c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 24 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a3b8ade882f121f56a31cd2?utm_campaign=1051&utm_source=git)** | Miami, Florida, United States of America | On Site | Jun 24 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a3365ea649fdf16292f1eef?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Jun 23 |
@@ -126,12 +128,12 @@ For a complete list, click the following sortable link below:
 | **[PalmStateGroup](palmstatehealth.com)** | **[Business & Sales Internship for Student Athletes](https://jobright.ai/jobs/info/6a399e4c649fdf1629301fe1?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 22 |
 | **[ContinuServe Talent Acquisition & Organizational Development Services](http://www.apparatussolutionsinc.com/index.html)** | **[Business Development Internship](https://jobright.ai/jobs/info/6a399ca71232144fb156c5a7?utm_campaign=1051&utm_source=git)** | Marietta, GA | Remote | Jun 22 |
 | **[WOW Brand](http://wowpayments.com)** | **[Business Development Intern - NEW YORK Office (CAN START ASAP)](https://jobright.ai/jobs/info/6a1733eab091c7417c4fbc0c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a036d84bc4184089f2321dc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
-| ↳ | **[Business Development Intern - NY Office - CAN START ASAP](https://jobright.ai/jobs/info/690bd6cf221b890c277f8f1a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | ↳ | **[Business Development Intern - NEW YORK Office (Can Start ASAP)](https://jobright.ai/jobs/info/6a2679344239a43538883f2a?utm_campaign=1051&utm_source=git)** | New york, NY | On Site | Jun 22 |
+| ↳ | **[Business Development Intern - NY Office - CAN START ASAP](https://jobright.ai/jobs/info/690bd6cf221b890c277f8f1a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a036d84bc4184089f2321dc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Store Ops Internship](https://jobright.ai/jobs/info/6a399c4f06a4fd4b1fabb1fa?utm_campaign=1051&utm_source=git)** | Knoxville, TN, US | On Site | Jun 22 |
-| **[WOW Brand](http://wowpayments.com)** | **[B2B Sales Representative Intern](https://jobright.ai/jobs/info/69e8480f4b0fa35a70761d4a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
-| ↳ | **[Business Development Intern - NY Office - CAN START ASAP](https://jobright.ai/jobs/info/6a39c69d06a4fd4b1fabc057?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
+| **[WOW Brand](http://wowpayments.com)** | **[Business Development Intern - NY Office - CAN START ASAP](https://jobright.ai/jobs/info/6a39c69d06a4fd4b1fabc057?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
+| ↳ | **[B2B Sales Representative Intern](https://jobright.ai/jobs/info/69e8480f4b0fa35a70761d4a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[New England Heritage Properties](http://heritageprop.net)** | **[Part Time Leasing Specialist Internship](https://jobright.ai/jobs/info/6a39c407f6b55d12c792a163?utm_campaign=1051&utm_source=git)** | Lowell, MA | On Site | Jun 22 |
 | **[WOW Brand](http://wowpayments.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a0d185622d0d34036c9b73e?utm_campaign=1051&utm_source=git)** | Kearny, NJ | On Site | Jun 22 |
 | **[Stream](https://stream.co)** | **[Retail Engagement Intern](https://jobright.ai/jobs/info/6a3990216484fb75f2b32652?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[One More Child](https://onemorechild.org)** | **[Development Intern](https://jobright.ai/jobs/info/6a3962621232144fb156adab?utm_campaign=1051&utm_source=git)** | Lakeland HQ, Lakeland, FL, US | On Site | Jun 22 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[MTSU Sales and Marketing Intern](https://jobright.ai/jobs/info/6a395f7a06a4fd4b1fab9919?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jun 22 |
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a32c0d8649fdf16292ee6f9?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jun 22 |
-| **[Heritage Holding](https://www.heritage-holding.com/)** | **[Private Equity Sourcing Intern - Engineering](https://jobright.ai/jobs/info/6a395ce0214ae004c7a1e05a?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jun 22 |
-| **[Crescendo International](https://crescendointernational.co/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a32eee3649fdf16292ef918?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
