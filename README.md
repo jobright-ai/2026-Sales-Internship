@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Sales Coordination - Spring 2026](https://jobright.ai/jobs/info/6a3d50df78237a036d5e0937?utm_campaign=1051&utm_source=git)** | Brossard, Quebec, Canada | On Site | Jun 25 |
+| **[moopFi](http://moopfi.com)** | **[Business Intern](https://jobright.ai/jobs/info/6a3d5c8d122f340d29cf0331?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 25 |
+| **[Jefferson Lab](https://www.jlab.org)** | **[Technology Transfer and Partnerships Intern](https://jobright.ai/jobs/info/6a3d5b5a8bfad862bc99cad6?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Jun 25 |
+| **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Sales Coordination - Spring 2026](https://jobright.ai/jobs/info/6a3d57834d047136e09330d6?utm_campaign=1051&utm_source=git)** | Brossard, Quebec, Canada | On Site | Jun 25 |
+| **[LAZ Parking](https://www.lazparking.com)** | **[Hospitality Business Development Internship, Remote](https://jobright.ai/jobs/info/6a3d5548882f121f56a36ed7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA 90012, USA | Remote | Jun 25 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf4?utm_campaign=1051&utm_source=git)** | Athens, GA, US | On Site | Jun 25 |
 | **[Texas Tech University](http://www.depts.ttu.edu/icfie/)** | **[Post-Graduate Athletic Intern, Red Raider Club](https://jobright.ai/jobs/info/6a3d3ec44d047136e0932a5e?utm_campaign=1051&utm_source=git)** | Lubbock | On Site | Jun 25 |
 | **[Kinexcs](http://www.kinexcs.com)** | **[Business Development Intern (Los Angeles)](https://jobright.ai/jobs/info/6a3d3c484d047136e09329aa?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 25 |
 | **[Dream](http://www.dream.ca/)** | **[Intern, Supplier Enablement](https://jobright.ai/jobs/info/6a18a7d854a441713ae86ffc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 25 |
@@ -124,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[United Nations](http://comtrade.un.org/)** | **[RBA Strategic Partnerships Intern](https://jobright.ai/jobs/info/6a3acd2edbedbf5680c712b7?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jun 23 |
 | **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Sales Operations (f/m/d)](https://jobright.ai/jobs/info/6a3aca88dbedbf5680c71167?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jun 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Davenport, IA Fall 2026](https://jobright.ai/jobs/info/6a1dbe9ae24ef365258399b0?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Jun 23 |
-| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a3ac141dbedbf5680c70eb5?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 23 |
-| ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a3ac141dbedbf5680c70eb4?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | Jun 23 |
+| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a3ac141dbedbf5680c70eb4?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | Jun 23 |
+| ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a3ac141dbedbf5680c70eb5?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 23 |
 | **[Bosch](http://www.bosch.com)** | **[Commercial Vehicle Sales Intern](https://jobright.ai/jobs/info/6a3abfdcdd879c60912b0326?utm_campaign=1051&utm_source=git)** | 38000 Hills Tech Dr, Farmington Hills, MI 48331, USA | Hybrid | Jun 23 |
 | ↳ | **[Commercial Vehicle Sales Intern](https://jobright.ai/jobs/info/6a3abfd91232144fb156fd55?utm_campaign=1051&utm_source=git)** | 38000 Hills Tech Dr, Farmington Hills, MI 48331, USA | Hybrid | Jun 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Rockford, IL Fall 2026](https://jobright.ai/jobs/info/6a1dbbd89111f771d1a1a87f?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Jun 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allstream Insiders - “Insider” News for Industry](https://AllstreamInsiders.com/)** | **[1 Additional Intern: Sales & Business Development Intern (Energy Digital Marketing & Media) - $2500+ Incentives](https://jobright.ai/jobs/info/6a3a880fdd879c60912af414?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | Jun 23 |
 | **[PSI Groups](https://www.psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a297567d3ec8317fe13e150?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Jun 23 |
 | **[Circle Logistics, Inc](http://circledelivers.com)** | **[Fall 2026 Part-Time Internship](https://jobright.ai/jobs/info/6a3934ea214ae004c7a1d5bc?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN, USA | On Site | Jun 23 |
-| **[reafco](https://reafcorealestate.com)** | **[Real Estate Investment Intern Hands On Training With Investors](https://jobright.ai/jobs/info/6902731298707b2b0fe6f6bc?utm_campaign=1051&utm_source=git)** | Columbus, OH 43206 | On Site | Jun 23 |
-| **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Lipscomb University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1d9ed43e538a28c204a938?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jun 23 |
-| **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Commodities Trading Internship Program](https://jobright.ai/jobs/info/6a1e9c2ddce5db1256d0f3ba?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jun 23 |
-| **[Vantage West Credit Union](https://vantagewest.org/)** | **[Intern, Consumer Lending](https://jobright.ai/jobs/info/6a39d759f6b55d12c792a622?utm_campaign=1051&utm_source=git)** | Tucson, Arizona, United States | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
