@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[iCharts](http://www.icharts.net)** | **[Sales Intern- Sunnyvale](https://jobright.ai/jobs/info/6a3d1dae4d047136e093235e?utm_campaign=1051&utm_source=git)** | Sunnyvale, California, United States | On Site | Jun 25 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Development Prospect Research Intern](https://jobright.ai/jobs/info/6a206d1cc00e701fe83693d4?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 25 |
 | **[Blue Ripples Technologies](https://www.blueripples.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a3d0706122f340d29cef124?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 25 |
 | **[Sanhua International USA](https://www.sanhuausa.com)** | **[Sales Service Intern](https://jobright.ai/jobs/info/6a3c8db7122f340d29cee287?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Jun 25 |
@@ -86,9 +87,9 @@ For a complete list, click the following sortable link below:
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a396dd6649fdf1629300d67?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[LOFT](https://www.loft.com/)** | **[2026 Fall Retail Management Internship- Mall in Columbia](https://jobright.ai/jobs/info/6a3bef49d261407de97fba83?utm_campaign=1051&utm_source=git)** | Columbia, MD | On Site | Jun 24 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Sales Performance Analyst Intern (Fall 2026, 8 or 12 months)](https://jobright.ai/jobs/info/6a1f34f609442629a68585cc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 24 |
-| **[Nacre Capital](https://nacrecapital.com/)** | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2ffe882f121f56a33bcc?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jun 24 |
-| ↳ | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2fff982bb239f812eafd?utm_campaign=1051&utm_source=git)** | Davis, CA | On Site | Jun 24 |
+| **[Nacre Capital](https://nacrecapital.com/)** | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2fff982bb239f812eafd?utm_campaign=1051&utm_source=git)** | Davis, CA | On Site | Jun 24 |
 | ↳ | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2ffe122f340d29cece3a?utm_campaign=1051&utm_source=git)** | Salinas, CA | On Site | Jun 24 |
+| ↳ | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2ffe882f121f56a33bcc?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jun 24 |
 | **[AdMedia](http://admedia.com/)** | **[Advertising Sales Intern-to-Hire Program](https://jobright.ai/jobs/info/6a31a0ac35e80310003a84a2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/6a3b5673dd879c60912b291d?utm_campaign=1051&utm_source=git)** | Middlebury, CT | On Site | Jun 24 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Business Development Intern-Corporate](https://jobright.ai/jobs/info/6a301386eace377055eb44ce?utm_campaign=1051&utm_source=git)** | Keller, TX | On Site | Jun 24 |
@@ -138,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a3adfe4649fdf16293062a1?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | Jun 23 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Trevecca Nazarene University Sales and Marketing Intern](https://jobright.ai/jobs/info/6a1d9edbb524ae49285a72ce?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jun 23 |
 | **[Skyepack Inc.](http://www.skyepack.com)** | **[Part-Time SDR Internship](https://jobright.ai/jobs/info/6a3a99181232144fb156f12a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 23 |
-| **[Uplane](https://uplane.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a3a985ddd879c60912af7f5?utm_campaign=1051&utm_source=git)** | Remote, US | Remote | Jun 23 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a3a985ddd879c60912af7f4?utm_campaign=1051&utm_source=git)** | Remote, DE | Remote | Jun 23 |
+| **[Uplane](https://uplane.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a3a985ddd879c60912af7f4?utm_campaign=1051&utm_source=git)** | Remote, DE | Remote | Jun 23 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a3a985ddd879c60912af7f5?utm_campaign=1051&utm_source=git)** | Remote, US | Remote | Jun 23 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a3a9856dd879c60912af7f3?utm_campaign=1051&utm_source=git)** | San Francisco, CA, US | Hybrid | Jun 23 |
 | **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[LMSA x Vot-ER Partnerships Intern](https://jobright.ai/jobs/info/6a3a91f6dbedbf5680c6ffd4?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 23 |
 | ↳ | **[APAMSA x Vot-ER Partnerships Intern](https://jobright.ai/jobs/info/6a3a91f306a4fd4b1fabdca2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 23 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Commodities Trading Internship Program](https://jobright.ai/jobs/info/6a1e9c2ddce5db1256d0f3ba?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jun 23 |
 | **[Vantage West Credit Union](https://vantagewest.org/)** | **[Intern, Consumer Lending](https://jobright.ai/jobs/info/6a39d759f6b55d12c792a622?utm_campaign=1051&utm_source=git)** | Tucson, Arizona, United States | On Site | Jun 22 |
 | **[Pittsburgh Symphony Orchestra](https://pittsburghsymphony.org/)** | **[Development Intern - Fall 2026](https://jobright.ai/jobs/info/6a39edb16484fb75f2b341ee?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Jun 22 |
-| **[Melotech](https://www.melotech.ai/)** | **[Entrepreneur in Residence (Intern)](https://jobright.ai/jobs/info/6a0ae5dfa235d749afa80165?utm_campaign=1051&utm_source=git)** | San Francisco | Remote | Jun 22 |
+| **[Melotech](https://www.melotech.ai/)** | **[Entrepreneur in Residence (Intern)](https://jobright.ai/jobs/info/6a0ae5dea235d749afa80164?utm_campaign=1051&utm_source=git)** | Los Angeles | Remote | Jun 22 |
+| ↳ | **[Entrepreneur in Residence (Intern)](https://jobright.ai/jobs/info/6a0ae5dfa235d749afa80165?utm_campaign=1051&utm_source=git)** | San Francisco | Remote | Jun 22 |
 | ↳ | **[Entrepreneur in Residence (Intern)](https://jobright.ai/jobs/info/6a0ae5dfa235d749afa80168?utm_campaign=1051&utm_source=git)** | New York | Remote | Jun 22 |
-| ↳ | **[Entrepreneur in Residence (Intern)](https://jobright.ai/jobs/info/6a0ae5dea235d749afa80164?utm_campaign=1051&utm_source=git)** | Los Angeles | Remote | Jun 22 |
 | **[The Plumtree Group Global](https://www.plumtreegroup.net/)** | **[Sales Closer Intern (US Market)](https://jobright.ai/jobs/info/6a39d0d4214ae004c7a20a41?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 22 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp - SAP Business Suite CSM & CRE Strategy & Operations iXp Intern](https://jobright.ai/jobs/info/6a399e87f6b55d12c7929493?utm_campaign=1051&utm_source=git)** | New York, NY, US, 10001 | Hybrid | Jun 22 |
-| **[PalmStateGroup](palmstatehealth.com)** | **[Business & Sales Internship for Student Athletes](https://jobright.ai/jobs/info/6a399e4c649fdf1629301fe1?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
