@@ -57,15 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 26 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 26 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jun 26 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 26 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jun 26 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jun 26 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 26 |
 | **[Brit Properties](https://britproperties.com/)** | **[Industrial Real Estate - Internship Opportunity](https://jobright.ai/jobs/info/6a3eaee94d047136e09373f6?utm_campaign=1051&utm_source=git)** | Rosemont, IL | On Site | Jun 26 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Sales Volunteer/Internship](https://jobright.ai/jobs/info/6a3eab1a882f121f56a3ad65?utm_campaign=1051&utm_source=git)** | PO BOX A3938, Chicago, IL | On Site | Jun 26 |
 | **[Unreal Media Group](https://www.unrealmediagrp.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a3ea950d261407de9803ec8?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 26 |
 | **[ANDRITZ Schuler North America](https://www.schulergroup.com/major/us/index.html)** | **[Sales Intern](https://jobright.ai/jobs/info/6a3ea8f5d261407de9803e9b?utm_campaign=1051&utm_source=git)** | Canton, MI | On Site | Jun 26 |
-| **[BMO](http://www.bmo.com)** | **[Middle Market M&A Business Development Internship - Seattle, WA (Summer 2026)](https://jobright.ai/jobs/info/6a3ea82478237a036d5e4bee?utm_campaign=1051&utm_source=git)** | Seattle, WA, USA | On Site | Jun 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a28bcf92d6c332ee52e7d2b?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, US, 30009 | On Site | Jun 26 |
 | **[NM Group](www.nmgroupnow.com)** | **[Marketing and Sales Internship](https://jobright.ai/jobs/info/6a3ebaa7882f121f56a3b16e?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Jun 26 |
 | **[Matriosh](Matriosh.com)** | **[Founder’s Office Intern](https://jobright.ai/jobs/info/6a3e8cbd78237a036d5e4510?utm_campaign=1051&utm_source=git)** | Stanford, CA | Remote | Jun 26 |
@@ -144,9 +143,9 @@ For a complete list, click the following sortable link below:
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a396dd6649fdf1629300d67?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[LOFT](https://www.loft.com/)** | **[2026 Fall Retail Management Internship- Mall in Columbia](https://jobright.ai/jobs/info/6a3bef49d261407de97fba83?utm_campaign=1051&utm_source=git)** | Columbia, MD | On Site | Jun 24 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Sales Performance Analyst Intern (Fall 2026, 8 or 12 months)](https://jobright.ai/jobs/info/6a1f34f609442629a68585cc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 24 |
-| **[Nacre Capital](https://nacrecapital.com/)** | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2ffe122f340d29cece3a?utm_campaign=1051&utm_source=git)** | Salinas, CA | On Site | Jun 24 |
+| **[Nacre Capital](https://nacrecapital.com/)** | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2ffe882f121f56a33bcc?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jun 24 |
+| ↳ | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2ffe122f340d29cece3a?utm_campaign=1051&utm_source=git)** | Salinas, CA | On Site | Jun 24 |
 | ↳ | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2fff982bb239f812eafd?utm_campaign=1051&utm_source=git)** | Davis, CA | On Site | Jun 24 |
-| ↳ | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2ffe882f121f56a33bcc?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jun 24 |
 | **[Therma-Tru Doors](http://www.thermatru.com/)** | **[Intern - Inside Sales](https://jobright.ai/jobs/info/6a1f3b32c5277c00c64846be?utm_campaign=1051&utm_source=git)** | Deerfield, IL | Hybrid | Jun 24 |
 | **[Indiana Biosciences Research Institute (IBRI)](https://www.indianabiosciences.org)** | **[Internship, Philanthropy & Communications](https://jobright.ai/jobs/info/6a3549ca29c90c607e4e199d?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 24 |
 | **[AdMedia](http://admedia.com/)** | **[Advertising Sales Intern-to-Hire Program](https://jobright.ai/jobs/info/6a31a0ac35e80310003a84a2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Venture Home](https://venturesolar.com/)** | **[Business Development Associate (Paid Internship)](https://jobright.ai/jobs/info/6a3ae92e1232144fb1570b3f?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Jun 23 |
 | **[WWF Mesoamérica](https://wwfca.org/)** | **[Prospect Research Intern](https://jobright.ai/jobs/info/6a3b0cfcdbedbf5680c728f4?utm_campaign=1051&utm_source=git)** | Washington D.C. | Hybrid | Jun 23 |
 | **[L'Oréal](https://www.loreal.com/en/malaysia/)** | **[Direct Sourcing Intern](https://jobright.ai/jobs/info/6a3b026006a4fd4b1fabff8a?utm_campaign=1051&utm_source=git)** | Clark, NJ | On Site | Jun 23 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Sales](https://jobright.ai/jobs/info/6a3ae70a797099171917c3d5?utm_campaign=1051&utm_source=git)** | Toronto | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
