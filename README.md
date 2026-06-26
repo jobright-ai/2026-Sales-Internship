@@ -68,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Ark Renewable Energy](https://www.arkrenewable.ca/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a3d778178237a036d5e17df?utm_campaign=1051&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jun 25 |
 | **[Gourmet Foods International](https://www.gfifoods.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a3d76a2122f340d29cf0b11?utm_campaign=1051&utm_source=git)** | GFI Atlanta - Decatur, GA 30034 | On Site | Jun 25 |
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a3d7425882f121f56a378b8?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 25 |
-| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a21750f902d19201c7b77ec?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, US | On Site | Jun 25 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a21750f902d19201c7b77eb?utm_campaign=1051&utm_source=git)** | US-PA-Pittsburgh | On Site | Jun 25 |
+| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a21750f902d19201c7b77eb?utm_campaign=1051&utm_source=git)** | US-PA-Pittsburgh | On Site | Jun 25 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a21750f902d19201c7b77ec?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, US | On Site | Jun 25 |
 | **[Olympic Marketing Group](theomginc.com)** | **[Entry Level Sales Intern](https://jobright.ai/jobs/info/6a397ed7649fdf1629301371?utm_campaign=1051&utm_source=git)** | Tumwater, WA | On Site | Jun 25 |
 | **[Jefferson Lab](https://www.jlab.org)** | **[Technology Transfer and Partnerships Intern](https://jobright.ai/jobs/info/6a3d5b5a8bfad862bc99cad6?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Jun 25 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Sales Coordination - Spring 2026](https://jobright.ai/jobs/info/6a3d57834d047136e09330d6?utm_campaign=1051&utm_source=git)** | Brossard, Quebec, Canada | On Site | Jun 25 |
@@ -99,8 +99,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jun 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 24 |
 | **[LMCU](https://www.lmcu.org/)** | **[Small Business Lending Intern](https://jobright.ai/jobs/info/6a3c7bac882f121f56a34d2d?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Jun 24 |
-| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Ticketing Sales Intern](https://jobright.ai/jobs/info/6a3d85548bfad862bc99d84c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[VIP & Courtside Intern](https://jobright.ai/jobs/info/6a3d8557882f121f56a37dce?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[VIP & Courtside Intern](https://jobright.ai/jobs/info/6a3d8557882f121f56a37dce?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[Ticketing Sales Intern](https://jobright.ai/jobs/info/6a3d85548bfad862bc99d84c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[Global Partnerships Partnership Development Intern](https://jobright.ai/jobs/info/6a3d855c882f121f56a37ddd?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[Premium Services (Ticketing) Intern](https://jobright.ai/jobs/info/6a3dbc9f122f340d29cf1e7b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[United Imaging - North America](https://www.linkedin.com/company/35672836)** | **[Customer Success Operations Intern](https://jobright.ai/jobs/info/6a3c400a4d047136e0930389?utm_campaign=1051&utm_source=git)** | Houston,TX,US | On Site | Jun 24 |
@@ -128,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a396dd6649fdf1629300d67?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[LOFT](https://www.loft.com/)** | **[2026 Fall Retail Management Internship- Mall in Columbia](https://jobright.ai/jobs/info/6a3bef49d261407de97fba83?utm_campaign=1051&utm_source=git)** | Columbia, MD | On Site | Jun 24 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Sales Performance Analyst Intern (Fall 2026, 8 or 12 months)](https://jobright.ai/jobs/info/6a1f34f609442629a68585cc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 24 |
-| **[Nacre Capital](https://nacrecapital.com/)** | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2ffe122f340d29cece3a?utm_campaign=1051&utm_source=git)** | Salinas, CA | On Site | Jun 24 |
-| ↳ | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2fff982bb239f812eafd?utm_campaign=1051&utm_source=git)** | Davis, CA | On Site | Jun 24 |
+| **[Nacre Capital](https://nacrecapital.com/)** | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2fff982bb239f812eafd?utm_campaign=1051&utm_source=git)** | Davis, CA | On Site | Jun 24 |
+| ↳ | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2ffe122f340d29cece3a?utm_campaign=1051&utm_source=git)** | Salinas, CA | On Site | Jun 24 |
 | ↳ | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2ffe882f121f56a33bcc?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jun 24 |
 | **[Therma-Tru Doors](http://www.thermatru.com/)** | **[Intern - Inside Sales](https://jobright.ai/jobs/info/6a1f3b32c5277c00c64846be?utm_campaign=1051&utm_source=git)** | Deerfield, IL | Hybrid | Jun 24 |
 | **[Indiana Biosciences Research Institute (IBRI)](https://www.indianabiosciences.org)** | **[Internship, Philanthropy & Communications](https://jobright.ai/jobs/info/6a3549ca29c90c607e4e199d?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 24 |
