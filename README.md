@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geotab](http://www.geotab.com/)** | **[Partner Enablement Intern (Fall/September 2026, 4 Months)](https://jobright.ai/jobs/info/6a3dfa914d047136e0935608?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 25 |
+| **[Employmint](https://www.employmint.ai)** | **[Founders Associate (Intern)](https://jobright.ai/jobs/info/6a3de82e4d047136e0935416?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 25 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Financial Capabilities Intern (Unpaid)](https://jobright.ai/jobs/info/6a3ddce38bfad862bc99eac4?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Jun 25 |
 | **[Jefferson Lab](https://www.jlab.org)** | **[Technology Transfer and Partnerships Intern](https://jobright.ai/jobs/info/6a3dcecb122f340d29cf219b?utm_campaign=1051&utm_source=git)** | Newport News, Virginia, US, 23606 | On Site | Jun 25 |
 | **[Point C](https://www.pointchealth.com)** | **[Account Management AI Intern](https://jobright.ai/jobs/info/6a3da5a9d261407de98016bf?utm_campaign=1051&utm_source=git)** | United States - Remote | Remote | Jun 25 |
@@ -95,9 +97,9 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern - Partnerships & Donors](https://jobright.ai/jobs/info/6a3cff9a122f340d29cef00a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jun 24 |
 | **[Continental](http://www.benecke-kaliko.com)** | **[Summer Sales Analyst Intern](https://jobright.ai/jobs/info/6a3c3ff9d261407de97fd156?utm_campaign=1051&utm_source=git)** | 1944 Valley Avenue, Winchester, Virginia, United States | On Site | Jun 24 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 24 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jun 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jun 24 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 24 |
 | **[LMCU](https://www.lmcu.org/)** | **[Small Business Lending Intern](https://jobright.ai/jobs/info/6a3c7bac882f121f56a34d2d?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Jun 24 |
 | **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[VIP & Courtside Intern](https://jobright.ai/jobs/info/6a3d8557882f121f56a37dce?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[Ticketing Sales Intern](https://jobright.ai/jobs/info/6a3d85548bfad862bc99d84c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
@@ -128,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a396dd6649fdf1629300d67?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[LOFT](https://www.loft.com/)** | **[2026 Fall Retail Management Internship- Mall in Columbia](https://jobright.ai/jobs/info/6a3bef49d261407de97fba83?utm_campaign=1051&utm_source=git)** | Columbia, MD | On Site | Jun 24 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Sales Performance Analyst Intern (Fall 2026, 8 or 12 months)](https://jobright.ai/jobs/info/6a1f34f609442629a68585cc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 24 |
-| **[Nacre Capital](https://nacrecapital.com/)** | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2fff982bb239f812eafd?utm_campaign=1051&utm_source=git)** | Davis, CA | On Site | Jun 24 |
-| ↳ | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2ffe122f340d29cece3a?utm_campaign=1051&utm_source=git)** | Salinas, CA | On Site | Jun 24 |
+| **[Nacre Capital](https://nacrecapital.com/)** | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2ffe122f340d29cece3a?utm_campaign=1051&utm_source=git)** | Salinas, CA | On Site | Jun 24 |
+| ↳ | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2fff982bb239f812eafd?utm_campaign=1051&utm_source=git)** | Davis, CA | On Site | Jun 24 |
 | ↳ | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a3c2ffe882f121f56a33bcc?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jun 24 |
 | **[Therma-Tru Doors](http://www.thermatru.com/)** | **[Intern - Inside Sales](https://jobright.ai/jobs/info/6a1f3b32c5277c00c64846be?utm_campaign=1051&utm_source=git)** | Deerfield, IL | Hybrid | Jun 24 |
 | **[Indiana Biosciences Research Institute (IBRI)](https://www.indianabiosciences.org)** | **[Internship, Philanthropy & Communications](https://jobright.ai/jobs/info/6a3549ca29c90c607e4e199d?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jun 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UNDP](http://www.undp.org)** | **[RBA Strategic Partnerships Intern](https://jobright.ai/jobs/info/6a3ad81406a4fd4b1fabf2a1?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jun 23 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a3ad675649fdf1629306007?utm_campaign=1051&utm_source=git)** | Portland, Oregon, United States of America | On Site | Jun 23 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[RBA Strategic Partnerships Intern](https://jobright.ai/jobs/info/6a3ad3ee06a4fd4b1fabf103?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jun 23 |
-| **[CJ 4DPLEX](https://www.cj4dx.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a3b25d1dd879c60912b221b?utm_campaign=1051&utm_source=git)** | Burbank, CA | Remote | Jun 23 |
-| **[United Nations](http://comtrade.un.org/)** | **[RBA Strategic Partnerships Intern](https://jobright.ai/jobs/info/6a3acd2edbedbf5680c712b7?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
