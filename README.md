@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a3e16168bfad862bc99f0d7?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | Jun 25 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Advancement Intern](https://jobright.ai/jobs/info/6a3e01aad261407de9802647?utm_campaign=1051&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | ↳ | **[Charles Lindbergh House Partnership Intern](https://jobright.ai/jobs/info/6a3e01aad261407de9802648?utm_campaign=1051&utm_source=git)** | Little Falls, MN, US | On Site | Jun 25 |
 | **[Geotab](http://www.geotab.com/)** | **[Partner Enablement Intern (Fall/September 2026, 4 Months)](https://jobright.ai/jobs/info/6a3dfa914d047136e0935608?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 25 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Ark Renewable Energy](https://www.arkrenewable.ca/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a3d778178237a036d5e17df?utm_campaign=1051&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jun 25 |
 | **[Gourmet Foods International](https://www.gfifoods.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a3d76a2122f340d29cf0b11?utm_campaign=1051&utm_source=git)** | GFI Atlanta - Decatur, GA 30034 | On Site | Jun 25 |
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a3d7425882f121f56a378b8?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 25 |
-| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a21750f902d19201c7b77eb?utm_campaign=1051&utm_source=git)** | US-PA-Pittsburgh | On Site | Jun 25 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a21750f902d19201c7b77ec?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, US | On Site | Jun 25 |
+| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a21750f902d19201c7b77ec?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, US | On Site | Jun 25 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a21750f902d19201c7b77eb?utm_campaign=1051&utm_source=git)** | US-PA-Pittsburgh | On Site | Jun 25 |
 | **[Olympic Marketing Group](theomginc.com)** | **[Entry Level Sales Intern](https://jobright.ai/jobs/info/6a397ed7649fdf1629301371?utm_campaign=1051&utm_source=git)** | Tumwater, WA | On Site | Jun 25 |
 | **[Jefferson Lab](https://www.jlab.org)** | **[Technology Transfer and Partnerships Intern](https://jobright.ai/jobs/info/6a3d5b5a8bfad862bc99cad6?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Jun 25 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Sales Coordination - Spring 2026](https://jobright.ai/jobs/info/6a3d57834d047136e09330d6?utm_campaign=1051&utm_source=git)** | Brossard, Quebec, Canada | On Site | Jun 25 |
@@ -81,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Rally Strategies](https://rally-strategies.com/)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a39324506a4fd4b1fab8c8d?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jun 25 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf4?utm_campaign=1051&utm_source=git)** | Athens, GA, US | On Site | Jun 25 |
 | **[Texas Tech University](http://www.depts.ttu.edu/icfie/)** | **[Post-Graduate Athletic Intern, Red Raider Club](https://jobright.ai/jobs/info/6a3d3ec44d047136e0932a5e?utm_campaign=1051&utm_source=git)** | Lubbock | On Site | Jun 25 |
+| **[Scotiabank](https://www.scotiabank.com.mx)** | **[Global Banking and Markets - Sales and Trading Intern/Co-op - Summer 2027](https://jobright.ai/jobs/info/6a284033fd37e62bb47a7d93?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 25 |
 | **[Kinexcs](http://www.kinexcs.com)** | **[Business Development Intern (Los Angeles)](https://jobright.ai/jobs/info/6a3d3c484d047136e09329aa?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 25 |
 | **[Reunitus](https://www.reunitus.com )** | **[Sales Operations and Development Intern](https://jobright.ai/jobs/info/6a165b051935fa61b3c7113f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Dream](http://www.dream.ca/)** | **[Intern, Supplier Enablement](https://jobright.ai/jobs/info/6a18a7d854a441713ae86ffc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 25 |
@@ -97,13 +99,13 @@ For a complete list, click the following sortable link below:
 | **[Green Hub Private Limited](https://www.green-hub.net)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a3d66f84d047136e093352c?utm_campaign=1051&utm_source=git)** | Oregon, United States | On Site | Jun 24 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern - Partnerships & Donors](https://jobright.ai/jobs/info/6a3cff9a122f340d29cef00a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jun 24 |
 | **[Continental](http://www.benecke-kaliko.com)** | **[Summer Sales Analyst Intern](https://jobright.ai/jobs/info/6a3c3ff9d261407de97fd156?utm_campaign=1051&utm_source=git)** | 1944 Valley Avenue, Winchester, Virginia, United States | On Site | Jun 24 |
-| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 24 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 24 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jun 24 |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jun 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jun 24 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 24 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 24 |
 | **[LMCU](https://www.lmcu.org/)** | **[Small Business Lending Intern](https://jobright.ai/jobs/info/6a3c7bac882f121f56a34d2d?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Jun 24 |
-| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Ticketing Sales Intern](https://jobright.ai/jobs/info/6a3d85548bfad862bc99d84c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[VIP & Courtside Intern](https://jobright.ai/jobs/info/6a3d8557882f121f56a37dce?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[VIP & Courtside Intern](https://jobright.ai/jobs/info/6a3d8557882f121f56a37dce?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[Ticketing Sales Intern](https://jobright.ai/jobs/info/6a3d85548bfad862bc99d84c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[Global Partnerships Partnership Development Intern](https://jobright.ai/jobs/info/6a3d855c882f121f56a37ddd?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[Premium Services (Ticketing) Intern](https://jobright.ai/jobs/info/6a3dbc9f122f340d29cf1e7b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[United Imaging - North America](https://www.linkedin.com/company/35672836)** | **[Customer Success Operations Intern](https://jobright.ai/jobs/info/6a3c400a4d047136e0930389?utm_campaign=1051&utm_source=git)** | Houston,TX,US | On Site | Jun 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gamma Technologies](https://www.gtisoft.com)** | **[Intern  Sales Enablement Team](https://jobright.ai/jobs/info/6a3ae78cdd879c60912b0f43?utm_campaign=1051&utm_source=git)** | Westmont, IL | On Site | Jun 23 |
 | **[BMO](http://www.bmo.com)** | **[Administrative Assistant Intern (Co-op/Internship), Fall 2026, Brossard - 4 months](https://jobright.ai/jobs/info/6a3ae1f2797099171917c262?utm_campaign=1051&utm_source=git)** | Brossard, QC, Canada | On Site | Jun 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller Live Project Intern (TikTok Shop Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69706c8351f726477182c19d?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jun 23 |
-| **[UNDP](http://www.undp.org)** | **[RBA Strategic Partnerships Intern](https://jobright.ai/jobs/info/6a3ad81406a4fd4b1fabf2a1?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jun 23 |
-| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern](https://jobright.ai/jobs/info/6a3ad675649fdf1629306007?utm_campaign=1051&utm_source=git)** | Portland, Oregon, United States of America | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
