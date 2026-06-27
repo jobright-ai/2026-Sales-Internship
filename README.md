@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk Management Marketing/Sales Intern](https://jobright.ai/jobs/info/6a3f119b122f340d29cf5a8a?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 26 |
 | **[RREAF Holdings](https://rreaf.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6a3f00bcd261407de9805694?utm_campaign=1051&utm_source=git)** | RREAF Holdings - Dallas, TX 75201 | On Site | Jun 26 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/69d84e97869c7e25d8594cc8?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jun 26 |
 | **[BUYMARG](https://www.buymarg.com)** | **[Internship](https://jobright.ai/jobs/info/6a3eeced4d047136e09384ce?utm_campaign=1051&utm_source=git)** | Home, KS | Remote | Jun 26 |
@@ -67,15 +68,16 @@ For a complete list, click the following sortable link below:
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Sales Intern / Tuscon](https://jobright.ai/jobs/info/6a3ee068ce7cce40b3422365?utm_campaign=1051&utm_source=git)** | Tucson, AZ, US | On Site | Jun 26 |
 | ↳ | **[Sales Intern / Ann Arbor](https://jobright.ai/jobs/info/6a3ee058882f121f56a3bc06?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI, US | On Site | Jun 26 |
 | ↳ | **[Sales Intern / Eugene](https://jobright.ai/jobs/info/6a3ee0574d047136e0938035?utm_campaign=1051&utm_source=git)** | Eugene, OR, US | On Site | Jun 26 |
-| ↳ | **[Sales Intern / Tuscon](https://jobright.ai/jobs/info/6a3ed19ece7cce40b3421f56?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Jun 26 |
+| **[American Cutting Edge, Inc.](http://www.americancuttingedge.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a21a220902d19201c7b87a8?utm_campaign=1051&utm_source=git)** | Miamisburg, OH | On Site | Jun 26 |
+| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Sales Intern / Tuscon](https://jobright.ai/jobs/info/6a3ed19ece7cce40b3421f56?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Jun 26 |
 | **[PRIME TIME Solutions](primetimehere.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a38d6a629c90c607e4e835f?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jun 26 |
 | **[Great Lakes Outreach Wisconsin](https://www.glowisconsin.com/)** | **[Business Sales Internship](https://jobright.ai/jobs/info/6a3433177f3fdd180d4c93b4?utm_campaign=1051&utm_source=git)** | Pewaukee, WI | On Site | Jun 26 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Purchasing](https://jobright.ai/jobs/info/69af68dbdfaeda6ff5977c01?utm_campaign=1051&utm_source=git)** | Lost Hills, CA | On Site | Jun 26 |
 | **[Fifth Wheel Freight](https://www.fwf.com/)** | **[Sales Internship - Fall 2026](https://jobright.ai/jobs/info/6a35a1307f3fdd180d4ce5a8?utm_campaign=1051&utm_source=git)** | Kentwood, Michigan, United States | On Site | Jun 26 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jun 26 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 26 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 26 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jun 26 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 26 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 26 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jun 26 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a3edb0678237a036d5e59fe?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jun 26 |
 | **[Brit Properties](https://britproperties.com/)** | **[Industrial Real Estate - Internship Opportunity](https://jobright.ai/jobs/info/6a3eaee94d047136e09373f6?utm_campaign=1051&utm_source=git)** | Rosemont, IL | On Site | Jun 26 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Sales Volunteer/Internship](https://jobright.ai/jobs/info/6a3eab1a882f121f56a3ad65?utm_campaign=1051&utm_source=git)** | PO BOX A3938, Chicago, IL | On Site | Jun 26 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Corporate Activations Intern - 2026-27 Season](https://jobright.ai/jobs/info/6a3e848478237a036d5e4238?utm_campaign=1051&utm_source=git)** | Worcester, MA | On Site | Jun 26 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Midtown Manhattan)](https://jobright.ai/jobs/info/69c91896e565c26a70033d74?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 26 |
 | **[Legends Global](http://legends.net)** | **[Ohio State Athletics - Retail Fall Internship 2026](https://jobright.ai/jobs/info/6a06161af3d6cc51d638ed83?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jun 26 |
-| **[American Cutting Edge, Inc.](http://www.americancuttingedge.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a21b021338c01230511fae3?utm_campaign=1051&utm_source=git)** | Miamisburg, OH | On Site | Jun 26 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/6a3ced92982bb239f8130b62?utm_campaign=1051&utm_source=git)** | Miami, Florida, United States | On Site | Jun 26 |
+| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/695be93bf1f8465b79f1e55b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jun 26 |
+| ↳ | **[Financial Sales Intern](https://jobright.ai/jobs/info/6a3ced92982bb239f8130b62?utm_campaign=1051&utm_source=git)** | Miami, Florida, United States | On Site | Jun 26 |
 | ↳ | **[Financial Sales Intern (Queens)](https://jobright.ai/jobs/info/69d57c1ccfdc6132f9462bbf?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jun 26 |
 | **[L'OCCITANE Group (B Corp)](http://www.loccitane.com)** | **[Wholesale Intern (Summer 2026)](https://jobright.ai/jobs/info/6a222cb4902d19201c7bc51e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Logistics Partnership Management Project Intern (TikTok Shop - US Operation) - 2026 Start（BS/MS）](https://jobright.ai/jobs/info/6a26390ed46c0f7996089880?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jun 26 |
@@ -97,11 +99,12 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[ETF Sales Internship: Summer 2027](https://jobright.ai/jobs/info/6a2f2d417cd40a338faeb147?utm_campaign=1051&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jun 26 |
 | **[MPOWER FINANCIAL SOLUTIONS](https://www.mpower-fs.com/)** | **[Sales Associate Co-op/Intern – Financial Services](https://jobright.ai/jobs/info/6a3e37cf78237a036d5e391c?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Remote | Jun 25 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a3e16168bfad862bc99f0d7?utm_campaign=1051&utm_source=git)** | State College, Pennsylvania, United States | On Site | Jun 25 |
-| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Charles Lindbergh House Partnership Intern](https://jobright.ai/jobs/info/6a3e01aad261407de9802648?utm_campaign=1051&utm_source=git)** | Little Falls, MN, US | On Site | Jun 25 |
-| ↳ | **[Advancement Intern](https://jobright.ai/jobs/info/6a3e01aad261407de9802647?utm_campaign=1051&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
+| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Advancement Intern](https://jobright.ai/jobs/info/6a3e01aad261407de9802647?utm_campaign=1051&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
+| ↳ | **[Charles Lindbergh House Partnership Intern](https://jobright.ai/jobs/info/6a3e01aad261407de9802648?utm_campaign=1051&utm_source=git)** | Little Falls, MN, US | On Site | Jun 25 |
 | **[Geotab](http://www.geotab.com/)** | **[Partner Enablement Intern (Fall/September 2026, 4 Months)](https://jobright.ai/jobs/info/6a3dfa914d047136e0935608?utm_campaign=1051&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 25 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Financial Capabilities Intern (Unpaid)](https://jobright.ai/jobs/info/6a3ddce38bfad862bc99eac4?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Jun 25 |
 | **[Jefferson Lab](https://www.jlab.org)** | **[Technology Transfer and Partnerships Intern](https://jobright.ai/jobs/info/6a3dcecb122f340d29cf219b?utm_campaign=1051&utm_source=git)** | Newport News, Virginia, US, 23606 | On Site | Jun 25 |
+| **[UNDP Careers](https://www.undp.org/careers)** | **[RBA Strategic Partnerships Intern](https://jobright.ai/jobs/info/6a3b177406a4fd4b1fac05a7?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jun 25 |
 | **[Point C](https://www.pointchealth.com)** | **[Account Management AI Intern](https://jobright.ai/jobs/info/6a3da5a9d261407de98016bf?utm_campaign=1051&utm_source=git)** | United States - Remote | Remote | Jun 25 |
 | **[LZ Management](https://www.lz-management.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a3da2ce8bfad862bc99e088?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Jun 25 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a3d919c8bfad862bc99dc36?utm_campaign=1051&utm_source=git)** | Amarillo, Bell Street Location - Amarillo, Texas | On Site | Jun 25 |
@@ -134,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Jinny's Music Studio](https://jinnysmusicstudio.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a3ca996982bb239f81303ce?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jun 24 |
 | **[Continental](http://www.continentaltire.com)** | **[Summer Sales Analyst Intern](https://jobright.ai/jobs/info/6a3c3ff9d261407de97fd156?utm_campaign=1051&utm_source=git)** | 1944 Valley Avenue, Winchester, Virginia, United States | On Site | Jun 24 |
 | **[LMCU](https://www.lmcu.org/)** | **[Small Business Lending Intern](https://jobright.ai/jobs/info/6a3c7bac882f121f56a34d2d?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Jun 24 |
-| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Ticketing Sales Intern](https://jobright.ai/jobs/info/6a3d85548bfad862bc99d84c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[VIP & Courtside Intern](https://jobright.ai/jobs/info/6a3d8557882f121f56a37dce?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[VIP & Courtside Intern](https://jobright.ai/jobs/info/6a3d8557882f121f56a37dce?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[Ticketing Sales Intern](https://jobright.ai/jobs/info/6a3d85548bfad862bc99d84c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[Global Partnerships Partnership Development Intern](https://jobright.ai/jobs/info/6a3d855c882f121f56a37ddd?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[Premium Services (Ticketing) Intern](https://jobright.ai/jobs/info/6a3dbc9f122f340d29cf1e7b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[United Imaging - North America](https://www.linkedin.com/company/35672836)** | **[Customer Success Operations Intern](https://jobright.ai/jobs/info/6a3c400a4d047136e0930389?utm_campaign=1051&utm_source=git)** | Houston,TX,US | On Site | Jun 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Next Target](https://wearenexttarget.com/)** | **[Events Sales Intern](https://jobright.ai/jobs/info/6a32c0d8649fdf16292ee6f9?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jun 24 |
 | **[Fort Lauderdale United FC](www.ftlutd.com)** | **[Partnerships Intern](https://jobright.ai/jobs/info/6a3cc9b4982bb239f813080a?utm_campaign=1051&utm_source=git)** | Davie, FL | On Site | Jun 24 |
 | **[WWF Mesoamérica](https://wwfca.org/)** | **[Prospect Research Internship](https://jobright.ai/jobs/info/6a3c0a2e8bfad862bc998c64?utm_campaign=1051&utm_source=git)** | Washington D.C. | Hybrid | Jun 24 |
-| **[Parks Auction & Realty](https://www.parksauction.com/)** | **[Real Estate & Auction Intern](https://jobright.ai/jobs/info/6a3c06c44d047136e092f219?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Jun 24 |
-| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a3c04f9882f121f56a32fa1?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | Jun 24 |
-| **[Nexreach](https://nexreachusa.com/)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/6a3958a106a4fd4b1fab9702?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
