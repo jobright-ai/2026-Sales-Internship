@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waresport](https://www.waresport.com/)** | **[Sales Management Intern](https://jobright.ai/jobs/info/6a440292b156014e414bb145?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Commercial & Business Development Intern](https://jobright.ai/jobs/info/6a43ef2f105260150b72033f?utm_campaign=1051&utm_source=git)** | 400 Charles Zahn, Jr. Drive, Corpus Christi, TX | On Site | Jun 30 |
 | **[WOW Brand](http://wowpayments.com)** | **[B2B Account Executive Intern](https://jobright.ai/jobs/info/6a43e9d3105260150b72020d?utm_campaign=1051&utm_source=git)** | NY, NY | On Site | Jun 30 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Purchasing Intern – September 2026 – 12 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/6a43d2980153061b8b3dcab3?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jun 30 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Bosch](http://www.bosch.com)** | **[Commercial Vehicle Sales Intern](https://jobright.ai/jobs/info/6a3abfdcdd879c60912b0326?utm_campaign=1051&utm_source=git)** | 38000 Hills Tech Dr, Farmington Hills, MI 48331, USA | Hybrid | Jun 30 |
 | **[White Cube](http://whitecube.com/)** | **[New York Internship: Sales and Secondary Market](https://jobright.ai/jobs/info/6a43a1d614eb9f55686c60ca?utm_campaign=1051&utm_source=git)** | New York,United States | On Site | Jun 30 |
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a43a0ad0ad88b0a1a99923f?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 30 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/6a27dc697061b51a3a5f2726?utm_campaign=1051&utm_source=git)** | Cromwell, CT | On Site | Jun 30 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Commodities Trading Internship Program](https://jobright.ai/jobs/info/6a1e9c2ddce5db1256d0f3ba?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jun 30 |
 | **[CloudSEK](https://www.cloudsek.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a43a138d820f8296e35cc9e?utm_campaign=1051&utm_source=git)** | Ontario, Canada | Hybrid | Jun 30 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a4389590ad88b0a1a998d9e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
@@ -149,10 +149,10 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Charles Lindbergh House Partnership Intern](https://jobright.ai/jobs/info/6a3e002078237a036d5e33cc?utm_campaign=1051&utm_source=git)** | Little Falls, MN, US | On Site | Jun 26 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Ticket Sales Internship](https://jobright.ai/jobs/info/6a3f2007d261407de9805b7d?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Jun 26 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695dc2f5efe5dd5cbd3d9cc2?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Jun 26 |
-| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 26 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 26 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jun 26 |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 26 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jun 26 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jun 26 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 26 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk Management Marketing/Sales Intern](https://jobright.ai/jobs/info/6a3f119b122f340d29cf5a8a?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 26 |
 | **[RREAF Holdings](https://rreaf.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6a3f00bcd261407de9805694?utm_campaign=1051&utm_source=git)** | RREAF Holdings - Dallas, TX 75201 | On Site | Jun 26 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/69d84e97869c7e25d8594cc8?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jun 26 |
