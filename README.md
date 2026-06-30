@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Safe Harbor](https://www.safeharborsc.org)** | **[Development Intern-Fall 2026 (Unpaid)](https://jobright.ai/jobs/info/6a442959105260150b721218?utm_campaign=1051&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jun 30 |
+| **[Bell Bank](https://bell.bank/)** | **[Insurance Intern - Commercial Lines](https://jobright.ai/jobs/info/6a44288c105260150b7211d1?utm_campaign=1051&utm_source=git)** | 15 Broadway, Fargo, ND,58102 | On Site | Jun 30 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hershey Bears Sales Support Intern](https://jobright.ai/jobs/info/6a44247b105260150b721006?utm_campaign=1051&utm_source=git)** | Hershey, PA 17033, USA | On Site | Jun 30 |
 | **[Regent AI Security Solutions](https://regentaisecurity.com)** | **[Sales Development Intern (Commission-Based)](https://jobright.ai/jobs/info/6a441838ef17a815538a2eaf?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 30 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[Financial Representative Intern](https://jobright.ai/jobs/info/6a44114def17a815538a2d17?utm_campaign=1051&utm_source=git)** | Greater Tampa Bay Area | On Site | Jun 30 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Charles Lindbergh House Partnership Intern](https://jobright.ai/jobs/info/6a3e01aad261407de9802648?utm_campaign=1051&utm_source=git)** | Little Falls, MN, US | On Site | Jun 26 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Ticket Sales Internship](https://jobright.ai/jobs/info/6a3f2007d261407de9805b7d?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Jun 26 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695dc2f5efe5dd5cbd3d9cc2?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Jun 26 |
-| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 26 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jun 26 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jun 26 |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
