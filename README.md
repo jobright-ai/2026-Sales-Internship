@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brooklyn Sports & Entertainment](https://www.bseglobal.net)** | **[Ticket Strategy & Analytics Summer Intern 2026](https://jobright.ai/jobs/info/6a443eb7ef17a815538a3806?utm_campaign=1051&utm_source=git)** | Brooklyn, NY 11232 | Hybrid | Jun 30 |
+| **[Cribl](https://www.cribl.io)** | **[Revenue Enablement Intern](https://jobright.ai/jobs/info/6a443e7c65e80d3c99f2c1e9?utm_campaign=1051&utm_source=git)** | Remote - United States | Remote | Jun 30 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Partnership Services Intern (University of Maryland)](https://jobright.ai/jobs/info/6a443d4757ffc22029406c6c?utm_campaign=1051&utm_source=git)** | College Park, Maryland, United States | On Site | Jun 30 |
+| ↳ | **[Partnership Services Intern (University of Maryland)](https://jobright.ai/jobs/info/6a44316a57ffc22029406abe?utm_campaign=1051&utm_source=git)** | College Park, MD | On Site | Jun 30 |
+| **[Heli America](https://www.heliforkliftamerica.com)** | **[Paid Summer Intern - Multiple Roles](https://jobright.ai/jobs/info/6a44310965e80d3c99f2bfad?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jun 30 |
 | **[Safe Harbor](https://www.safeharborsc.org)** | **[Development Intern-Fall 2026 (Unpaid)](https://jobright.ai/jobs/info/6a442959105260150b721218?utm_campaign=1051&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jun 30 |
 | **[Bell Bank](https://bell.bank/)** | **[Insurance Intern - Commercial Lines](https://jobright.ai/jobs/info/6a44288c105260150b7211d1?utm_campaign=1051&utm_source=git)** | 15 Broadway, Fargo, ND,58102 | On Site | Jun 30 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hershey Bears Sales Support Intern](https://jobright.ai/jobs/info/6a44247b105260150b721006?utm_campaign=1051&utm_source=git)** | Hershey, PA 17033, USA | On Site | Jun 30 |
@@ -140,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[2026 Cincinnati Open Merchandise Assistant Internship](https://jobright.ai/jobs/info/69ebf5067820c036924f83cd?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Jun 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller Live Analytics Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS)](https://jobright.ai/jobs/info/6a302c2043732c05812e0e76?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jun 28 |
 | **[Economical Insurance](https://www.economical.com/)** | **[National Strategic Placements - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a2408f0dedf78312c7adc7a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 28 |
-| **[CECO Environmental Corporation](https://www.cecoenviro.com/)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ec0ab00a6e09555304c394?utm_campaign=1051&utm_source=git)** | Clearwater, FL, US | On Site | Jun 28 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Intern](https://jobright.ai/jobs/info/6a40e575b526a24fc313140a?utm_campaign=1051&utm_source=git)** | GARDEN CITY, KS, US | On Site | Jun 28 |
 | **[NiCE](http://nice.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a40b913d528ac2915f96e36?utm_campaign=1051&utm_source=git)** | USA - Sandy, UT | Hybrid | Jun 27 |
 | **[North Jersey Pro Soccer](https://www.northjerseyprosoccer.com/)** | **[2026 Merchandise Operations & E-Commerce Fall Intern](https://jobright.ai/jobs/info/6a407e6f16b14939532835b0?utm_campaign=1051&utm_source=git)** | Paterson, NJ | Hybrid | Jun 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Commercial Strategy](https://jobright.ai/jobs/info/6a28fa1a2d6c332ee52e925f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Entertainment Partnerships and Operations Project Intern (TikTok-Operations-Entertainment) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9afe5e0cd471b2f13e9fb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 27 |
 | ↳ | **[Logistics Partnership Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a239000dedf78312c7ac90c?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jun 27 |
-| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Charles Lindbergh House Partnership Intern](https://jobright.ai/jobs/info/6a3e01aad261407de9802648?utm_campaign=1051&utm_source=git)** | Little Falls, MN, US | On Site | Jun 26 |
-| **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Ticket Sales Internship](https://jobright.ai/jobs/info/6a3f2007d261407de9805b7d?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Jun 26 |
-| **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695dc2f5efe5dd5cbd3d9cc2?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Jun 26 |
-| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
