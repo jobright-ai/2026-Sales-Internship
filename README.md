@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[Fall 2026 College Financial Representative Internship (Orange County, CA)](https://jobright.ai/jobs/info/6a430e45a5e15b106837b12f?utm_campaign=1051&utm_source=git)** | Orange County, CA | On Site | Jun 29 |
 | **[DNV](https://www.dnv.com/)** | **[Customer Account Success Intern](https://jobright.ai/jobs/info/6a42c4571cc9cc2b12fecc41?utm_campaign=1051&utm_source=git)** | Portland, OR, United States | Hybrid | Jun 29 |
 | **[Collective Measures | Media & Analytics](https://www.collectivemeasures.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a42d8aa1cc9cc2b12fed134?utm_campaign=1051&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Jun 29 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern - Partnerships & Donors](https://jobright.ai/jobs/info/6a42f3736faf756060968a92?utm_campaign=1051&utm_source=git)** | Marina del Rey, CA | Remote | Jun 29 |
@@ -131,13 +132,13 @@ For a complete list, click the following sortable link below:
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Commercial Strategy](https://jobright.ai/jobs/info/6a28fa1a2d6c332ee52e925f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Entertainment Partnerships and Operations Project Intern (TikTok-Operations-Entertainment) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9afe5e0cd471b2f13e9fb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 27 |
 | ↳ | **[Logistics Partnership Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a239000dedf78312c7ac90c?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jun 27 |
-| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Charles Lindbergh House Partnership Intern](https://jobright.ai/jobs/info/6a3e002078237a036d5e33cc?utm_campaign=1051&utm_source=git)** | Little Falls, MN, US | On Site | Jun 26 |
+| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Charles Lindbergh House Partnership Intern](https://jobright.ai/jobs/info/6a3e001e882f121f56a394cc?utm_campaign=1051&utm_source=git)** | Little Falls, MN, US | On Site | Jun 26 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Ticket Sales Internship](https://jobright.ai/jobs/info/6a3f2007d261407de9805b7d?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Jun 26 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695dc2f5efe5dd5cbd3d9cc2?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Jun 26 |
-| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jun 26 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 26 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 26 |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 26 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jun 26 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jun 26 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 26 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk Management Marketing/Sales Intern](https://jobright.ai/jobs/info/6a3f119b122f340d29cf5a8a?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 26 |
 | **[RREAF Holdings](https://rreaf.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6a3f00bcd261407de9805694?utm_campaign=1051&utm_source=git)** | RREAF Holdings - Dallas, TX 75201 | On Site | Jun 26 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/69d84e97869c7e25d8594cc8?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jun 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fifth Wheel Freight](https://www.fwf.com/)** | **[Sales Internship - Fall 2026](https://jobright.ai/jobs/info/6a35a1307f3fdd180d4ce5a8?utm_campaign=1051&utm_source=git)** | Kentwood, Michigan, United States | On Site | Jun 26 |
 | **[Hammond Power Solutions](https://www.hammondpowersolutions.com)** | **[CRM Intern](https://jobright.ai/jobs/info/6a04b01cf811a0436960da6f?utm_campaign=1051&utm_source=git)** | Baraboo, WI | Hybrid | Jun 26 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a3edb0678237a036d5e59fe?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jun 26 |
-| **[Brit Properties](https://britproperties.com/)** | **[Industrial Real Estate - Internship Opportunity](https://jobright.ai/jobs/info/6a3eaee94d047136e09373f6?utm_campaign=1051&utm_source=git)** | Rosemont, IL | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
