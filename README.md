@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/6a27dc697061b51a3a5f2726?utm_campaign=1051&utm_source=git)** | Cromwell, CT | On Site | Jun 30 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a4389590ad88b0a1a998d9e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
 | **[Summit Electric Supply](https://summit.com/)** | **[Summer Internship Program - Sales](https://jobright.ai/jobs/info/6a4333cdb0f2553559ecf220?utm_campaign=1051&utm_source=git)** | 2900 Stanford Dr. NE, Albuquerque, NM | On Site | Jun 29 |
 | ↳ | **[Summer Intern - Sales](https://jobright.ai/jobs/info/6a4333c6cbf92c7bcd36ef87?utm_campaign=1051&utm_source=git)** | 8718 W Little York Rd, Houston, TX 77040, USA | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a432fbbc8bca56ab22460b6?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
@@ -139,12 +141,12 @@ For a complete list, click the following sortable link below:
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Commercial Strategy](https://jobright.ai/jobs/info/6a28fa1a2d6c332ee52e925f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Entertainment Partnerships and Operations Project Intern (TikTok-Operations-Entertainment) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9afe5e0cd471b2f13e9fb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 27 |
 | ↳ | **[Logistics Partnership Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a239000dedf78312c7ac90c?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jun 27 |
-| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Charles Lindbergh House Partnership Intern](https://jobright.ai/jobs/info/6a3e01aad261407de9802648?utm_campaign=1051&utm_source=git)** | Little Falls, MN, US | On Site | Jun 26 |
+| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Charles Lindbergh House Partnership Intern](https://jobright.ai/jobs/info/6a3e002078237a036d5e33cc?utm_campaign=1051&utm_source=git)** | Little Falls, MN, US | On Site | Jun 26 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Ticket Sales Internship](https://jobright.ai/jobs/info/6a3f2007d261407de9805b7d?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Jun 26 |
 | **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695dc2f5efe5dd5cbd3d9cc2?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Jun 26 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jun 26 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 26 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jun 26 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jun 26 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jun 26 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk Management Marketing/Sales Intern](https://jobright.ai/jobs/info/6a3f119b122f340d29cf5a8a?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 26 |
 | **[RREAF Holdings](https://rreaf.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6a3f00bcd261407de9805694?utm_campaign=1051&utm_source=git)** | RREAF Holdings - Dallas, TX 75201 | On Site | Jun 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genesis Global Group](https://www.genesisglobalgrp.com/)** | **[For-Credit Merchandising Intern – Hospitality (Fall 2026)](https://jobright.ai/jobs/info/6a3ee25d122f340d29cf5076?utm_campaign=1051&utm_source=git)** | Hamilton Township, NJ, USA | On Site | Jun 26 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Sales Intern / Tuscon](https://jobright.ai/jobs/info/6a3ee068ce7cce40b3422365?utm_campaign=1051&utm_source=git)** | Tucson, AZ, US | On Site | Jun 26 |
 | ↳ | **[Sales Intern / Ann Arbor](https://jobright.ai/jobs/info/6a3ee058882f121f56a3bc06?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI, US | On Site | Jun 26 |
-| ↳ | **[Sales Intern / Eugene](https://jobright.ai/jobs/info/6a3ee0574d047136e0938035?utm_campaign=1051&utm_source=git)** | Eugene, OR, US | On Site | Jun 26 |
-| **[American Cutting Edge, Inc.](http://www.americancuttingedge.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a21a220902d19201c7b87a8?utm_campaign=1051&utm_source=git)** | Miamisburg, OH | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
