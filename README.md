@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[White Cube](http://whitecube.com/)** | **[New York Internship: Sales and Secondary Market](https://jobright.ai/jobs/info/6a43a1d614eb9f55686c60ca?utm_campaign=1051&utm_source=git)** | New York,United States | On Site | Jun 30 |
+| **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a43a0ad0ad88b0a1a99923f?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 30 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/6a27dc697061b51a3a5f2726?utm_campaign=1051&utm_source=git)** | Cromwell, CT | On Site | Jun 30 |
+| **[CloudSEK](https://www.cloudsek.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a43a138d820f8296e35cc9e?utm_campaign=1051&utm_source=git)** | Ontario, Canada | Hybrid | Jun 30 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a4389590ad88b0a1a998d9e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
 | **[Summit Electric Supply](https://summit.com/)** | **[Summer Internship Program - Sales](https://jobright.ai/jobs/info/6a4333cdb0f2553559ecf220?utm_campaign=1051&utm_source=git)** | 2900 Stanford Dr. NE, Albuquerque, NM | On Site | Jun 29 |
 | ↳ | **[Summer Intern - Sales](https://jobright.ai/jobs/info/6a4333c6cbf92c7bcd36ef87?utm_campaign=1051&utm_source=git)** | 8718 W Little York Rd, Houston, TX 77040, USA | On Site | Jun 29 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Florida Everblades Professional Hockey Club](http://floridaeverblades.com)** | **[Sales Internship - 2026/2027 Season](https://jobright.ai/jobs/info/6a42d07aa5e15b106837a41d?utm_campaign=1051&utm_source=git)** | Estero, FL | On Site | Jun 29 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Account Management Intern - Spring 2027](https://jobright.ai/jobs/info/6a42cfceff87fd527f985979?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[Continental](http://www.benecke-kaliko.com)** | **[Summer Sales Analyst Intern](https://jobright.ai/jobs/info/6a3c3ff9d261407de97fd156?utm_campaign=1051&utm_source=git)** | 1944 Valley Avenue, Winchester, Virginia, United States | On Site | Jun 29 |
-| **[Agentnomics](https://agentnomics.ai)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a42cc166faf756060967ffd?utm_campaign=1051&utm_source=git)** | Redmond, WA | On Site | Jun 29 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Sales Intern / Lawrence](https://jobright.ai/jobs/info/6a42c8731cc9cc2b12fecd0a?utm_campaign=1051&utm_source=git)** | Lawrence, KS | On Site | Jun 29 |
 | **[Globe Life American Income Division: Surace Smith & Partners Organization](https://ssbendurehartwig.com)** | **[Inside Sales Representative](https://jobright.ai/jobs/info/6a2a2ee50c4972328e7e7782?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 29 |
 | ↳ | **[Remote Closer](https://jobright.ai/jobs/info/6a2818be7061b51a3a5f3336?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 29 |
@@ -126,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[2026 Cincinnati Open Merchandise Assistant Internship](https://jobright.ai/jobs/info/69ebf5067820c036924f83cd?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Jun 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller Live Analytics Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS)](https://jobright.ai/jobs/info/6a302c2043732c05812e0e76?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jun 28 |
 | **[Economical Insurance](https://www.economical.com/)** | **[National Strategic Placements - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a2408f0dedf78312c7adc7a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 28 |
-| **[CECO Environmental Corporation](https://www.cecoenviro.com/)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ec0ab00a6e09555304c394?utm_campaign=1051&utm_source=git)** | Clearwater, FL, US | On Site | Jun 28 |
-| ↳ | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ec0aac58811370cb13e5e1?utm_campaign=1051&utm_source=git)** | US-FL-Clearwater | On Site | Jun 28 |
+| **[CECO Environmental Corporation](https://www.cecoenviro.com/)** | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ec0aac58811370cb13e5e1?utm_campaign=1051&utm_source=git)** | US-FL-Clearwater | On Site | Jun 28 |
+| ↳ | **[Intern, Aftermarket Sales](https://jobright.ai/jobs/info/69ec0ab00a6e09555304c394?utm_campaign=1051&utm_source=git)** | Clearwater, FL, US | On Site | Jun 28 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Intern](https://jobright.ai/jobs/info/6a40e575b526a24fc313140a?utm_campaign=1051&utm_source=git)** | GARDEN CITY, KS, US | On Site | Jun 28 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Business Markets - Intern](https://jobright.ai/jobs/info/6a324b092ee3ac1b4bef2e5e?utm_campaign=1051&utm_source=git)** | CAPE BRETON, Nova Scotia, Canada | On Site | Jun 27 |
 | **[NiCE](http://nice.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a40b913d528ac2915f96e36?utm_campaign=1051&utm_source=git)** | USA - Sandy, UT | Hybrid | Jun 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Peacock Inn](http://www.peacockinn.com)** | **[For-Credit Merchandising Intern – Hospitality (Fall 2026)](https://jobright.ai/jobs/info/6a3ee614d261407de980501a?utm_campaign=1051&utm_source=git)** | Hamilton Township, NJ, USA | On Site | Jun 26 |
 | **[GG&G](https://www.gggaz.com)** | **[For-Credit Merchandising Intern – Hospitality (Fall 2026)](https://jobright.ai/jobs/info/6a3cb198882f121f56a35532?utm_campaign=1051&utm_source=git)** | Hamilton Township, NJ, USA | On Site | Jun 26 |
 | **[Genesis Global Group](https://www.genesisglobalgrp.com/)** | **[For-Credit Merchandising Intern – Hospitality (Fall 2026)](https://jobright.ai/jobs/info/6a3ee25d122f340d29cf5076?utm_campaign=1051&utm_source=git)** | Hamilton Township, NJ, USA | On Site | Jun 26 |
-| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Sales Intern / Tuscon](https://jobright.ai/jobs/info/6a3ee068ce7cce40b3422365?utm_campaign=1051&utm_source=git)** | Tucson, AZ, US | On Site | Jun 26 |
-| ↳ | **[Sales Intern / Ann Arbor](https://jobright.ai/jobs/info/6a3ee058882f121f56a3bc06?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI, US | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
