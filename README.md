@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tencent](https://www.tencent.com/)** | **[Global Business Development Intern (Palo Alto)](https://jobright.ai/jobs/info/6a28fb21fd37e62bb47ac3ca?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Jun 30 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a447dc2ef17a815538a422a?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jun 30 |
 | **[Artisan Interiors](https://artisaninteriorsca.com/)** | **[CUSTOM FURNISHINGS SHOWROOM RECEPTIONIST & STUDENT INTERN](https://jobright.ai/jobs/info/6a4470c757ffc2202940756e?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jun 30 |
 | **[Suger](https://www.suger.io)** | **[GTM Intern](https://jobright.ai/jobs/info/6a42eca2a5e15b106837ab3f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jun 30 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[FALL 2026 Financial Sales & Advising Internship](https://jobright.ai/jobs/info/6a444f6d0153061b8b3e015f?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jun 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eightball AI](https://www.eightball.ai)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a404f483bfa967791ec01d1?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a4034da16b14939532831e0?utm_campaign=1051&utm_source=git)** | Los Angeles | On Site | Jun 27 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[TractorHouse Sales Intern](https://jobright.ai/jobs/info/664e9858f97ff61ecf83b39e?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jun 27 |
-| **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a30d542093df201d07b2d45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 27 |
-| **[Red Tail Acquisitions](https://www.rtacq.com)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/6a31410659588169700137c6?utm_campaign=1051&utm_source=git)** | Brooklyn Park, MN | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
