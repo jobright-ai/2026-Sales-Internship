@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Suger](https://www.suger.io)** | **[GTM Intern](https://jobright.ai/jobs/info/6a42eca2a5e15b106837ab3f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jun 30 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[FALL 2026 Financial Sales & Advising Internship](https://jobright.ai/jobs/info/6a444f6d0153061b8b3e015f?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jun 30 |
 | **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Fulfillment & Client Experience Operations Intern (Showroom)](https://jobright.ai/jobs/info/6a444b21ef17a815538a3b1e?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Jun 30 |
 | **[Brooklyn Sports & Entertainment](https://www.bseglobal.net)** | **[Ticket Strategy & Analytics Summer Intern 2026](https://jobright.ai/jobs/info/6a443eb7ef17a815538a3806?utm_campaign=1051&utm_source=git)** | Brooklyn, NY 11232 | Hybrid | Jun 30 |
 | **[Gourmet Foods International](https://www.gfifoods.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a4446c757ffc22029406f3d?utm_campaign=1051&utm_source=git)** | GFI Atlanta - Decatur, GA 30034 | On Site | Jun 30 |
 | **[Cribl](https://www.cribl.io)** | **[Revenue Enablement Intern](https://jobright.ai/jobs/info/6a443e7c65e80d3c99f2c1e9?utm_campaign=1051&utm_source=git)** | Remote - United States | Remote | Jun 30 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Partnership Services Intern (University of Maryland)](https://jobright.ai/jobs/info/6a443d4757ffc22029406c6c?utm_campaign=1051&utm_source=git)** | College Park, Maryland, United States | On Site | Jun 30 |
-| ↳ | **[Partnership Services Intern (University of Maryland)](https://jobright.ai/jobs/info/6a44316a57ffc22029406abe?utm_campaign=1051&utm_source=git)** | College Park, MD | On Site | Jun 30 |
+| **[BUYMARG](https://www.buymarg.com)** | **[Internship](https://jobright.ai/jobs/info/6a445fba57ffc220294072eb?utm_campaign=1051&utm_source=git)** | Home, KS | Remote | Jun 30 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Partnership Services Intern (University of Maryland)](https://jobright.ai/jobs/info/6a44316a57ffc22029406abe?utm_campaign=1051&utm_source=git)** | College Park, MD | On Site | Jun 30 |
 | **[Heli America](https://www.heliforkliftamerica.com)** | **[Paid Summer Intern - Multiple Roles](https://jobright.ai/jobs/info/6a44310965e80d3c99f2bfad?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jun 30 |
 | **[Safe Harbor](https://www.safeharborsc.org)** | **[Development Intern-Fall 2026 (Unpaid)](https://jobright.ai/jobs/info/6a442959105260150b721218?utm_campaign=1051&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jun 30 |
 | **[Bell Bank](https://bell.bank/)** | **[Insurance Intern - Commercial Lines](https://jobright.ai/jobs/info/6a44288c105260150b7211d1?utm_campaign=1051&utm_source=git)** | 15 Broadway, Fargo, ND,58102 | On Site | Jun 30 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a43a0ad0ad88b0a1a99923f?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 30 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Commodities Trading Internship Program](https://jobright.ai/jobs/info/6a1e9c2ddce5db1256d0f3ba?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jun 30 |
 | **[CloudSEK](https://www.cloudsek.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a43a138d820f8296e35cc9e?utm_campaign=1051&utm_source=git)** | Ontario, Canada | Hybrid | Jun 30 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a4389590ad88b0a1a998d9e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jun 29 |
 | **[Summit Electric Supply](https://summit.com/)** | **[Summer Internship Program - Sales](https://jobright.ai/jobs/info/6a4333cdb0f2553559ecf220?utm_campaign=1051&utm_source=git)** | 2900 Stanford Dr. NE, Albuquerque, NM | On Site | Jun 29 |
 | ↳ | **[Summer Intern - Sales](https://jobright.ai/jobs/info/6a4333c6cbf92c7bcd36ef87?utm_campaign=1051&utm_source=git)** | 8718 W Little York Rd, Houston, TX 77040, USA | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a432fbbc8bca56ab22460b6?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Collective Measures | Media & Analytics](https://www.collectivemeasures.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a42d8aa1cc9cc2b12fed134?utm_campaign=1051&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Jun 29 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern - Partnerships & Donors](https://jobright.ai/jobs/info/6a42f3736faf756060968a92?utm_campaign=1051&utm_source=git)** | Marina del Rey, CA | Remote | Jun 29 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[MTSU Sales and Marketing Intern](https://jobright.ai/jobs/info/6a42ee3dff87fd527f986190?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 29 |
-| **[Suger](https://www.suger.io)** | **[GTM Intern](https://jobright.ai/jobs/info/6a42eca2a5e15b106837ab3f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jun 29 |
 | **[Point C](https://www.pointchealth.com)** | **[Account Management AI Intern](https://jobright.ai/jobs/info/6a3da5a9d261407de98016bf?utm_campaign=1051&utm_source=git)** | United States - Remote | Remote | Jun 29 |
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Sales Operations Intern - Northeast](https://jobright.ai/jobs/info/6a42ec0b1cc9cc2b12fed59f?utm_campaign=1051&utm_source=git)** | Remote, United States | Remote | Jun 29 |
 | **[American Food & Vending](https://www.afvusa.com/)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/6a42e6c8ff87fd527f985f77?utm_campaign=1051&utm_source=git)** | Syracuse, NY | On Site | Jun 29 |
