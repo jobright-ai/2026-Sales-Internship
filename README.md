@@ -60,9 +60,9 @@ For a complete list, click the following sortable link below:
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a44b8f7b156014e414bcfef?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | Jun 30 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Business Development Intern (Palo Alto)](https://jobright.ai/jobs/info/6a28fb21fd37e62bb47ac3ca?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Jun 30 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a447dc2ef17a815538a422a?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jun 30 |
-| **[Aflac](http://www.aflac.com)** | **[Insurance Sales Agent - Training Provided](https://jobright.ai/jobs/info/6a449a7f65e80d3c99f2cf0a?utm_campaign=1051&utm_source=git)** | Lexington, KY | Remote | Jun 30 |
+| **[Aflac](http://www.aflac.com)** | **[Insurance Sales - Training Provided](https://jobright.ai/jobs/info/6a449320ef17a815538a44c6?utm_campaign=1051&utm_source=git)** | Frankfort, KY | On Site | Jun 30 |
+| ↳ | **[Insurance Sales Agent - Training Provided](https://jobright.ai/jobs/info/6a449a7f65e80d3c99f2cf0a?utm_campaign=1051&utm_source=git)** | Lexington, KY | Remote | Jun 30 |
 | ↳ | **[Insurance Sales - Training Provided](https://jobright.ai/jobs/info/6a44931f105260150b722335?utm_campaign=1051&utm_source=git)** | Ashland, KY | On Site | Jun 30 |
-| ↳ | **[Insurance Sales - Training Provided](https://jobright.ai/jobs/info/6a449320ef17a815538a44c6?utm_campaign=1051&utm_source=git)** | Frankfort, KY | On Site | Jun 30 |
 | **[Artisan Interiors](https://artisaninteriorsca.com/)** | **[CUSTOM FURNISHINGS SHOWROOM RECEPTIONIST & STUDENT INTERN](https://jobright.ai/jobs/info/6a4470c757ffc2202940756e?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jun 30 |
 | **[Suger](https://www.suger.io)** | **[GTM Intern](https://jobright.ai/jobs/info/6a42eca2a5e15b106837ab3f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jun 30 |
 | **[Brooklyn Sports & Entertainment](https://www.bseglobal.net)** | **[Ticket Strategy & Analytics Summer Intern 2026](https://jobright.ai/jobs/info/6a443eb7ef17a815538a3806?utm_campaign=1051&utm_source=git)** | Brooklyn, NY 11232 | Hybrid | Jun 30 |
