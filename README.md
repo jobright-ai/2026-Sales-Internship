@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[FALL 2026 Financial Sales & Advising Internship](https://jobright.ai/jobs/info/6a444f6d0153061b8b3e015f?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jun 30 |
+| **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Fulfillment & Client Experience Operations Intern (Showroom)](https://jobright.ai/jobs/info/6a444b21ef17a815538a3b1e?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Jun 30 |
+| **[Gourmet Foods International](https://www.gfifoods.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a4446c757ffc22029406f3d?utm_campaign=1051&utm_source=git)** | GFI Atlanta - Decatur, GA 30034 | On Site | Jun 30 |
 | **[Brooklyn Sports & Entertainment](https://www.bseglobal.net)** | **[Ticket Strategy & Analytics Summer Intern 2026](https://jobright.ai/jobs/info/6a443eb7ef17a815538a3806?utm_campaign=1051&utm_source=git)** | Brooklyn, NY 11232 | Hybrid | Jun 30 |
 | **[Cribl](https://www.cribl.io)** | **[Revenue Enablement Intern](https://jobright.ai/jobs/info/6a443e7c65e80d3c99f2c1e9?utm_campaign=1051&utm_source=git)** | Remote - United States | Remote | Jun 30 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Partnership Services Intern (University of Maryland)](https://jobright.ai/jobs/info/6a443d4757ffc22029406c6c?utm_campaign=1051&utm_source=git)** | College Park, Maryland, United States | On Site | Jun 30 |
@@ -137,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Volunteer/Internship](https://jobright.ai/jobs/info/6a424b6dadab21425e9fd448?utm_campaign=1051&utm_source=git)** | PO BOX A3938, Chicago, IL | On Site | Jun 29 |
 | **[Staffviser Careers](https://careers.staffviser.com)** | **[Sales Development Representative / Internship - Remote](https://jobright.ai/jobs/info/6a4249681cc9cc2b12feb56a?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Jun 29 |
 | **[Victory Branding](https://victorybranding.org/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a393c05214ae004c7a1d6d8?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Jun 29 |
-| **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a423da6adab21425e9fcf85?utm_campaign=1051&utm_source=git)** | Egypt, AR | On Site | Jun 29 |
 | **[NextUp Talent](https://wearenextuptalent.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a4235666b8f051d296d6c56?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jun 29 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern - Bilingual English/Spanish](https://jobright.ai/jobs/info/6a3d5f0778237a036d5e0f01?utm_campaign=1051&utm_source=git)** | Pasadena, CA | On Site | Jun 29 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Development Intern (Unpaid)](https://jobright.ai/jobs/info/6a4228aa1afc66714d3cbbd8?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jun 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red Tail Acquisitions](https://www.rtacq.com)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/6a31410659588169700137c6?utm_campaign=1051&utm_source=git)** | Brooklyn Park, MN | On Site | Jun 27 |
 | **[Texas Tech University](http://www.depts.ttu.edu/icfie/)** | **[Post-Graduate Athletic Intern, Red Raider Club](https://jobright.ai/jobs/info/6a3fe35316b1493953282aef?utm_campaign=1051&utm_source=git)** | Lubbock | On Site | Jun 27 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Commercial Strategy](https://jobright.ai/jobs/info/6a28fa1a2d6c332ee52e925f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 27 |
-| **[TikTok](https://www.tiktok.com)** | **[Entertainment Partnerships and Operations Project Intern (TikTok-Operations-Entertainment) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9afe5e0cd471b2f13e9fb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 27 |
-| ↳ | **[Logistics Partnership Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a239000dedf78312c7ac90c?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
