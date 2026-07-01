@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Aflac](http://www.aflac.com)** | **[Insurance Sales - Training Provided](https://jobright.ai/jobs/info/6a449320ef17a815538a44c6?utm_campaign=1051&utm_source=git)** | Frankfort, KY | On Site | Jun 30 |
-| ↳ | **[Insurance Sales - Training Provided](https://jobright.ai/jobs/info/6a44931f105260150b722335?utm_campaign=1051&utm_source=git)** | Ashland, KY | On Site | Jun 30 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a44b8f7b156014e414bcfef?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | Jun 30 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Business Development Intern (Palo Alto)](https://jobright.ai/jobs/info/6a28fb21fd37e62bb47ac3ca?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Jun 30 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a447dc2ef17a815538a422a?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jun 30 |
-| **[Aflac](http://www.aflac.com)** | **[Insurance Sales Agent - Training Provided](https://jobright.ai/jobs/info/6a449a7f65e80d3c99f2cf0a?utm_campaign=1051&utm_source=git)** | Lexington, KY | Remote | Jun 30 |
+| **[Aflac](http://www.aflac.com)** | **[Insurance Sales - Training Provided](https://jobright.ai/jobs/info/6a449320ef17a815538a44c6?utm_campaign=1051&utm_source=git)** | Frankfort, KY | On Site | Jun 30 |
+| ↳ | **[Insurance Sales - Training Provided](https://jobright.ai/jobs/info/6a44931f105260150b722335?utm_campaign=1051&utm_source=git)** | Ashland, KY | On Site | Jun 30 |
+| ↳ | **[Insurance Sales Agent - Training Provided](https://jobright.ai/jobs/info/6a449a7f65e80d3c99f2cf0a?utm_campaign=1051&utm_source=git)** | Lexington, KY | Remote | Jun 30 |
 | **[Artisan Interiors](https://artisaninteriorsca.com/)** | **[CUSTOM FURNISHINGS SHOWROOM RECEPTIONIST & STUDENT INTERN](https://jobright.ai/jobs/info/6a4470c757ffc2202940756e?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jun 30 |
 | **[Suger](https://www.suger.io)** | **[GTM Intern](https://jobright.ai/jobs/info/6a42eca2a5e15b106837ab3f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jun 30 |
 | **[Brooklyn Sports & Entertainment](https://www.bseglobal.net)** | **[Ticket Strategy & Analytics Summer Intern 2026](https://jobright.ai/jobs/info/6a443eb7ef17a815538a3806?utm_campaign=1051&utm_source=git)** | Brooklyn, NY 11232 | Hybrid | Jun 30 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[NextUp Talent](https://wearenextuptalent.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a4235666b8f051d296d6c56?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jun 29 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern - Bilingual English/Spanish](https://jobright.ai/jobs/info/6a3d5f0778237a036d5e0f01?utm_campaign=1051&utm_source=git)** | Pasadena, CA | On Site | Jun 29 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Development Intern (Unpaid)](https://jobright.ai/jobs/info/6a4228aa1afc66714d3cbbd8?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jun 29 |
+| **[Legends Global](http://legends.net)** | **[2026 Cincinnati Open Merchandise Assistant Internship](https://jobright.ai/jobs/info/69ebfb8816b2612c2a1201c9?utm_campaign=1051&utm_source=git)** | Greater Indianapolis | On Site | Jun 28 |
 | **[REVOHA LLC](https://revoha.com/)** | **[Summer Sales Development Representative (SDR) Intern](https://jobright.ai/jobs/info/6a41068d3bfa967791ec0b09?utm_campaign=1051&utm_source=git)** | Dayton Metropolitan Area | Remote | Jun 28 |
 | **[Legends Global](http://legends.net)** | **[2026 Cincinnati Open Merchandise Assistant Internship](https://jobright.ai/jobs/info/69ebf5067820c036924f83cd?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Jun 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller Live Analytics Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS)](https://jobright.ai/jobs/info/6a302c2043732c05812e0e76?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jun 28 |
 | **[Economical Insurance](https://www.economical.com/)** | **[National Strategic Placements - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a2408f0dedf78312c7adc7a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 28 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Intern](https://jobright.ai/jobs/info/6a40e575b526a24fc313140a?utm_campaign=1051&utm_source=git)** | GARDEN CITY, KS, US | On Site | Jun 28 |
 | **[NiCE](http://nice.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a40b913d528ac2915f96e36?utm_campaign=1051&utm_source=git)** | USA - Sandy, UT | Hybrid | Jun 27 |
-| **[North Jersey Pro Soccer](https://www.northjerseyprosoccer.com/)** | **[2026 Merchandise Operations & E-Commerce Fall Intern](https://jobright.ai/jobs/info/6a407e6f16b14939532835b0?utm_campaign=1051&utm_source=git)** | Paterson, NJ | Hybrid | Jun 27 |
-| **[Eightball AI](https://www.eightball.ai)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6a404f483bfa967791ec01d1?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
