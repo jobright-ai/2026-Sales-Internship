@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Artisan Interiors](https://artisaninteriorsca.com/)** | **[CUSTOM FURNISHINGS SHOWROOM RECEPTIONIST & STUDENT INTERN](https://jobright.ai/jobs/info/6a4470c757ffc2202940756e?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jun 30 |
 | **[Suger](https://www.suger.io)** | **[GTM Intern](https://jobright.ai/jobs/info/6a42eca2a5e15b106837ab3f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jun 30 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[FALL 2026 Financial Sales & Advising Internship](https://jobright.ai/jobs/info/6a444f6d0153061b8b3e015f?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jun 30 |
 | **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Fulfillment & Client Experience Operations Intern (Showroom)](https://jobright.ai/jobs/info/6a444b21ef17a815538a3b1e?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Jun 30 |
@@ -88,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a43a0ad0ad88b0a1a99923f?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jun 30 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Commodities Trading Internship Program](https://jobright.ai/jobs/info/6a1e9c2ddce5db1256d0f3ba?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jun 30 |
 | **[CloudSEK](https://www.cloudsek.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a43a138d820f8296e35cc9e?utm_campaign=1051&utm_source=git)** | Ontario, Canada | Hybrid | Jun 30 |
+| **[digest.pro](https://www.digest.pro)** | **[Intern Sales Manager](https://jobright.ai/jobs/info/6a43435d501d340b4a82ef0a?utm_campaign=1051&utm_source=git)** | Enterprise, NV | On Site | Jun 29 |
 | **[Summit Electric Supply](https://summit.com/)** | **[Summer Internship Program - Sales](https://jobright.ai/jobs/info/6a4333cdb0f2553559ecf220?utm_campaign=1051&utm_source=git)** | 2900 Stanford Dr. NE, Albuquerque, NM | On Site | Jun 29 |
 | ↳ | **[Summer Intern - Sales](https://jobright.ai/jobs/info/6a4333c6cbf92c7bcd36ef87?utm_campaign=1051&utm_source=git)** | 8718 W Little York Rd, Houston, TX 77040, USA | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a432fbbc8bca56ab22460b6?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[TractorHouse Sales Intern](https://jobright.ai/jobs/info/664e9858f97ff61ecf83b39e?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a30d542093df201d07b2d45?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 27 |
 | **[Red Tail Acquisitions](https://www.rtacq.com)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/6a31410659588169700137c6?utm_campaign=1051&utm_source=git)** | Brooklyn Park, MN | On Site | Jun 27 |
-| **[Texas Tech University](http://www.depts.ttu.edu/icfie/)** | **[Post-Graduate Athletic Intern, Red Raider Club](https://jobright.ai/jobs/info/6a3fe35316b1493953282aef?utm_campaign=1051&utm_source=git)** | Lubbock | On Site | Jun 27 |
-| **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Commercial Strategy](https://jobright.ai/jobs/info/6a28fa1a2d6c332ee52e925f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
