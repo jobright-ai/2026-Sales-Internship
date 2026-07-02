@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a45b715c2d11a6a46669f3d?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX | Hybrid | Jul 01 |
 | **[Integrated Business & Technical Consultants, Inc. (IBTCI)](http://ibtci.com)** | **[Intern-International Project Support (IPS) - Business Development](https://jobright.ai/jobs/info/6a331bf7910b734910713ec1?utm_campaign=1051&utm_source=git)** | Vienna, VA | Hybrid | Jul 01 |
 | **[Scotlynn](http://scotlynn.com)** | **[Sales Account Manager Associate - Internship Fall 2026](https://jobright.ai/jobs/info/6a4581ae3dbab558e29a181b?utm_campaign=1051&utm_source=git)** | Fort Myers, FL 33912-4552, USA | On Site | Jul 01 |
 | **[Kao EMEA & Americas](http://www.kao.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a458f1a4f64ba41dcb4dbf6?utm_campaign=1051&utm_source=git)** | Toronto | Hybrid | Jul 01 |
@@ -69,18 +70,18 @@ For a complete list, click the following sortable link below:
 | **[Shedd Aquarium](http://www.sheddaquarium.org/)** | **[Fall 2026 Internship - Institutional Giving & Development](https://jobright.ai/jobs/info/6a4561dbc2d11a6a4666904e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 01 |
 | **[ByteDance](http://bytedance.com)** | **[Payment Partnership Project Intern (Global Payment) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a455a9848d2f00f2a86d4f0?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Jul 01 |
 | **[GOSVEA Inc](http://gosvea.com/)** | **[Regional Business Development Specialist](https://jobright.ai/jobs/info/6a45809dc2d11a6a466696a1?utm_campaign=1051&utm_source=git)** | South Plainfield, NJ | Hybrid | Jul 01 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 01 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jul 01 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bb61b2c65b37b18ee?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 01 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 01 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 01 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0ba078538d03366dc8777f?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jul 01 |
 | **[New England Heritage Properties](http://heritageprop.net)** | **[Part Time Leasing Specialist Internship](https://jobright.ai/jobs/info/6a453c3248d2f00f2a86cd59?utm_campaign=1051&utm_source=git)** | Lowell, MA | On Site | Jul 01 |
-| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jul 01 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jul 01 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jul 01 |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jul 01 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jul 01 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jul 01 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jul 01 |
 | **[Hidden Harbor Capital Partners](http://www.hh-cp.com/)** | **[Business Development - 2026 Fall Intern](https://jobright.ai/jobs/info/6a4535114f64ba41dcb4c954?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Jul 01 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative - Sales Internship](https://jobright.ai/jobs/info/6a4530783dbab558e29a06b5?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | On Site | Jul 01 |
 | ↳ | **[College Financial Representative Internship (FALL)](https://jobright.ai/jobs/info/6a454799971cd25b06f88508?utm_campaign=1051&utm_source=git)** | Kansas City, MO | Remote | Jul 01 |
@@ -135,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[SUGARED + BRONZED](http://SUGAREDandBRONZED.com/)** | **[E-Commerce Fulfillment Internship](https://jobright.ai/jobs/info/6a432f13501d340b4a82dbe3?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Hybrid | Jun 29 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Sales Intern / Fall 2026](https://jobright.ai/jobs/info/6a432caecbf92c7bcd36e1e3?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 29 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[Fall 2026 College Financial Representative Internship (Orange County, CA)](https://jobright.ai/jobs/info/6a430e45a5e15b106837b12f?utm_campaign=1051&utm_source=git)** | Orange County, CA | On Site | Jun 29 |
-| **[DNV](https://www.dnv.com/)** | **[Customer Account Success Intern](https://jobright.ai/jobs/info/6a42c4571cc9cc2b12fecc41?utm_campaign=1051&utm_source=git)** | Portland, OR, United States | Hybrid | Jun 29 |
 | **[Collective Measures | Media & Analytics](https://www.collectivemeasures.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a42d8aa1cc9cc2b12fed134?utm_campaign=1051&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Jun 29 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[MTSU Sales and Marketing Intern](https://jobright.ai/jobs/info/6a42ee3dff87fd527f986190?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jun 29 |
 | **[Point C](https://www.pointchealth.com)** | **[Account Management AI Intern](https://jobright.ai/jobs/info/6a3da5a9d261407de98016bf?utm_campaign=1051&utm_source=git)** | United States - Remote | Remote | Jun 29 |
