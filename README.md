@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Fall](https://jobright.ai/jobs/info/6a47bee14f64ba41dcb575a4?utm_campaign=1051&utm_source=git)** | Snellville, GA | On Site | Jul 03 |
 | **[Benco Dental](https://www.benco.com/)** | **[Dental Coaching and Education Sales Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4299daff87fd527f984d16?utm_campaign=1051&utm_source=git)** | Pittston, PA | On Site | Jul 03 |
 | **[Telesat](https://www.telesat.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a2afb031de59e0682a872d2?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Jul 03 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a3d83d714428981a26c?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jul 03 |
@@ -78,12 +79,12 @@ For a complete list, click the following sortable link below:
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Research Intern](https://jobright.ai/jobs/info/6a473b238204a812e98cb5ba?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 02 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Donor Liaison Intern](https://jobright.ai/jobs/info/6a3ee635ce7cce40b342259a?utm_campaign=1051&utm_source=git)** | Philadelphia, Pennsylvania, United States | Hybrid | Jul 02 |
 | **[Mason](https://www.thisismason.com)** | **[Sales Engineer Internship](https://jobright.ai/jobs/info/6a47015d0dd56c76cc2fbbd4?utm_campaign=1051&utm_source=git)** | New York City, NY | On Site | Jul 02 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bb61b2c65b37b18ee?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 02 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jul 02 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bb61b2c65b37b18ee?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 02 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jul 02 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 02 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 02 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Client Engagement Intern (Unpaid)](https://jobright.ai/jobs/info/6a4279466c326942b4e82f32?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Jul 02 |
 | **[Jefferson Lab](https://www.jlab.org)** | **[Technology Transfer and Partnerships Intern Job Details / JLABHCM20](https://jobright.ai/jobs/info/6a46d10f0dd56c76cc2fb08e?utm_campaign=1051&utm_source=git)** | Newport News, Virginia, US, 23606 | On Site | Jul 02 |
 | **[Franklin Templeton](http://www.franklinresources.com)** | **[Post-grad intern - OSAM Canvas Sales and Client Service](https://jobright.ai/jobs/info/6a46d0f70dd56c76cc2fb086?utm_campaign=1051&utm_source=git)** | Stamford, Connecticut, United States of America | On Site | Jul 02 |
@@ -94,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Andaz](http://andaz.hyatt.com)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6a46c8bcc2d11a6a4667079e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Nicole Cockerham State Farm](https://www.nicolecockerham.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a46dc303dbab558e29a8f5d?utm_campaign=1051&utm_source=git)** | Burlington, NC | On Site | Jul 02 |
 | **[BowerGroupAsia](https://bowergroupasia.com/)** | **[Intern (Business Development Team) - Washington, DC](https://jobright.ai/jobs/info/6a46bc43971cd25b06f8ff8e?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jul 02 |
+| **[LMCU](https://www.lmcu.org/)** | **[Small Business Lending Intern](https://jobright.ai/jobs/info/6a3c7bac882f121f56a34d2d?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Jul 02 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/6a46b3573dbab558e29a84b6?utm_campaign=1051&utm_source=git)** | Athens, Georgia, United States of America | On Site | Jul 02 |
 | **[LMCU](https://www.lmcu.org/)** | **[Small Business Lending Intern](https://jobright.ai/jobs/info/6a4625814f64ba41dcb50ba0?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, US | On Site | Jul 02 |
 | **[L&M Corrugated Container Corporation](https://lmcontainer.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a46aea4971cd25b06f8fbc5?utm_campaign=1051&utm_source=git)** | Pleasant Prairie, WI | On Site | Jul 02 |
@@ -127,10 +129,10 @@ For a complete list, click the following sortable link below:
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a461ddec2d11a6a4666bd3c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 01 |
 | **[Faherty Brand](http://fahertybrand.com)** | **[Intern, Hospitality Operations & Growth](https://jobright.ai/jobs/info/6a33365ef6b55d12c7918301?utm_campaign=1051&utm_source=git)** | Spring Lake, New Jersey, United States | On Site | Jul 01 |
 | **[State Farm Agent](https://www.pamaccardo.com)** | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69d58c1ccdb525785fbd1cf0?utm_campaign=1051&utm_source=git)** | Schenectady, NY 12303 | On Site | Jul 01 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a2a8ce89bf7365df08999d0?utm_campaign=1051&utm_source=git)** | Schenectady, NY, US | On Site | Jul 01 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69ff4484c4b08448a0b17773?utm_campaign=1051&utm_source=git)** | Naples, FL, US | On Site | Jul 01 |
 | ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69d58c1acdb525785fbd1cdd?utm_campaign=1051&utm_source=git)** | Holland, MI 49424 | On Site | Jul 01 |
 | ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a04fea0f3d6cc51d63859cb?utm_campaign=1051&utm_source=git)** | Melbourne, FL, US | On Site | Jul 01 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/69ff4484c4b08448a0b17773?utm_campaign=1051&utm_source=git)** | Naples, FL, US | On Site | Jul 01 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a2a8ce89bf7365df08999d0?utm_campaign=1051&utm_source=git)** | Schenectady, NY, US | On Site | Jul 01 |
 | ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a0ce6b722d0d34036c99d99?utm_campaign=1051&utm_source=git)** | Vancouver, WA, US | On Site | Jul 01 |
 | **[Integrated Business & Technical Consultants, Inc. (IBTCI)](http://ibtci.com)** | **[Intern-International Project Support (IPS) - Business Development](https://jobright.ai/jobs/info/6a331bf7910b734910713ec1?utm_campaign=1051&utm_source=git)** | Vienna, VA | Hybrid | Jul 01 |
 | **[Scotlynn](http://scotlynn.com)** | **[Sales Account Manager Associate - Internship Fall 2026](https://jobright.ai/jobs/info/6a4581ae3dbab558e29a181b?utm_campaign=1051&utm_source=git)** | Fort Myers, FL 33912-4552, USA | On Site | Jul 01 |
@@ -144,9 +146,9 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0ba078538d03366dc8777f?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jul 01 |
 | **[New England Heritage Properties](http://heritageprop.net)** | **[Part Time Leasing Specialist Internship](https://jobright.ai/jobs/info/6a453c3248d2f00f2a86cd59?utm_campaign=1051&utm_source=git)** | Lowell, MA | On Site | Jul 01 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683dd6d665572632dfa9b?utm_campaign=1051&utm_source=git)** | Winston Salem, NC, US | On Site | Jul 01 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jul 01 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jul 01 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d96?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jul 01 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jul 01 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jul 01 |
 | ↳ | **[College Financial Representative - Sales Internship](https://jobright.ai/jobs/info/6a4530783dbab558e29a06b5?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | On Site | Jul 01 |
 | ↳ | **[College Financial Representative Internship (FALL)](https://jobright.ai/jobs/info/6a454799971cd25b06f88508?utm_campaign=1051&utm_source=git)** | Kansas City, MO | Remote | Jul 01 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Financial Capabilities Intern (Unpaid)](https://jobright.ai/jobs/info/6a3ddce38bfad862bc99eac4?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Jul 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kingdom Homes](www.thekingdomhomes.com)** | **[Intern](https://jobright.ai/jobs/info/6a451b5e9d27b95f0cf626cf?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 01 |
 | **[IKONIC](https://ikonicsolution.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a32890a910b7349107108fd?utm_campaign=1051&utm_source=git)** | Austin, Texas, United States | Remote | Jul 01 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Demand Planning Year-Round Intern](https://jobright.ai/jobs/info/6a287f441dbd8437bebcba03?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | Jul 01 |
-| **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Strategy&Operation Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS)](https://jobright.ai/jobs/info/6a327cc0910b734910710594?utm_campaign=1051&utm_source=git)** | New York | On Site | Jul 01 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Sales Strategy & Planning Year-Round Intern](https://jobright.ai/jobs/info/6a282b0ffd37e62bb47a7308?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
