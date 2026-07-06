@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Versiti Blood Center of Wisconsin](https://www.bcw.edu/bcw/index.htm)** | **[Student Intern - Field Sales and Marketing- 19 hrs weekly](https://jobright.ai/jobs/info/6a4c284c4eb370649b27c7b7?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jul 06 |
 | **[CIBC](https://www.cibc.com)** | **[Financial Service Representative - Coaticook -  Internship](https://jobright.ai/jobs/info/6a4c17164f64ba41dcb5e79e?utm_campaign=1051&utm_source=git)** | Coaticook, QC, Canada | On Site | Jul 06 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Ticket Sales & Service Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c15c85d7b097d2df3f6d1?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jul 06 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Bilingual Sales Intern](https://jobright.ai/jobs/info/6a4bd431971cd25b06f9877c?utm_campaign=1051&utm_source=git)** | Kennesaw, GA, US | On Site | Jul 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e4f3dbab558e29aaa54?utm_campaign=1051&utm_source=git)** | West Hartford, CT, US | On Site | Jul 03 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e4a0dd56c76cc2fce79?utm_campaign=1051&utm_source=git)** | Conway, AR, US | On Site | Jul 03 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e46971cd25b06f922a3?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, US | On Site | Jul 03 |
-| **[Hamilton Zanze Real Estate Investments](https://hamiltonzanze.com)** | **[Hamilton Zanze Wheel Intern](https://jobright.ai/jobs/info/6a46b4278204a812e98c99b8?utm_campaign=1051&utm_source=git)** | San Francisco,CA,US | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
