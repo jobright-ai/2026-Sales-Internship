@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scimplify](https://www.scimplify.com/en-us)** | **[International Business - Internship](https://jobright.ai/jobs/info/6a4ba5264f64ba41dcb5cac5?utm_campaign=1051&utm_source=git)** | New Jersey | On Site | Jul 06 |
+| **[TopBuild](http://www.topbuild.com)** | **[Merger & Acquisition Intern](https://jobright.ai/jobs/info/6a4ba4c66189f64e437ef508?utm_campaign=1051&utm_source=git)** | Daytona Beach, FL | On Site | Jul 06 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/69d84e97869c7e25d8594cc8?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jul 06 |
+| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/69d8e81d9f97a42dc9c1e9d1?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | Jul 06 |
+| **[Evolv](https://introducingevolv.com/)** | **[Business Sales Intern](https://jobright.ai/jobs/info/6a4ba64e971cd25b06f97d8c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 06 |
 | **[On Trend Group](https://weareontrendgroup.com/)** | **[Customer Acquisition Intern](https://jobright.ai/jobs/info/6a4b7bf15d7b097d2df3d702?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jul 06 |
 | **[Influx](https://www.influxonline.co)** | **[Summer Internship - Student Business Development (100% Remote + Flexible Hours)](https://jobright.ai/jobs/info/6a4b79934f64ba41dcb5c688?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jul 06 |
 | **[Mortgage Assurance Inc](www.mortgageassurance.ca)** | **[Internship Trainee](https://jobright.ai/jobs/info/6a4b2b6fc2d11a6a4667751a?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jul 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f14233825a315d7ca36fa8?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Jul 02 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf4?utm_campaign=1051&utm_source=git)** | Athens, GA, US | On Site | Jul 02 |
 | **[Hidden Harbor Capital Partners](http://www.hh-cp.com/)** | **[Business Development - 2026 Fall Intern](https://jobright.ai/jobs/info/6a4668e44f64ba41dcb5340e?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Jul 02 |
-| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Sales Support Operations Intern - Fall 2026](https://jobright.ai/jobs/info/699cfbeae0bddb6acacc0d1d?utm_campaign=1051&utm_source=git)** | Green Bay, WI | Hybrid | Jul 02 |
-| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Commercial Partnerships](https://jobright.ai/jobs/info/6a43ccb7105260150b71e2ec?utm_campaign=1051&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jul 02 |
-| **[1Huddle](http://www.1huddle.co)** | **[Associate, Internship Team](https://jobright.ai/jobs/info/6a465ca78204a812e98c7565?utm_campaign=1051&utm_source=git)** | 550 Broad St, Newark, NJ 07102, USA | On Site | Jul 02 |
-| **[Sefer](https://www.usesefer.com/)** | **[Sales Intern - Cold Calling](https://jobright.ai/jobs/info/6a468a483dbab558e29a77da?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
