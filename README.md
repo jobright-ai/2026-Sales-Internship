@@ -59,7 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Scimplify](https://www.scimplify.com/en-us)** | **[International Business - Internship](https://jobright.ai/jobs/info/6a4ba5264f64ba41dcb5cac5?utm_campaign=1051&utm_source=git)** | New Jersey | On Site | Jul 06 |
 | **[TopBuild](http://www.topbuild.com)** | **[Merger & Acquisition Intern](https://jobright.ai/jobs/info/6a4ba4c66189f64e437ef508?utm_campaign=1051&utm_source=git)** | Daytona Beach, FL | On Site | Jul 06 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/69d84e97869c7e25d8594cc8?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jul 06 |
+| **[Scimplify USA](https://www.scimplify.com/en-us)** | **[International Business - Internship](https://jobright.ai/jobs/info/6a4bb4f0971cd25b06f97f54?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 06 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern](https://jobright.ai/jobs/info/69d8e81d9f97a42dc9c1e9d1?utm_campaign=1051&utm_source=git)** | Southfield, MI | On Site | Jul 06 |
 | **[Evolv](https://introducingevolv.com/)** | **[Business Sales Intern](https://jobright.ai/jobs/info/6a4ba64e971cd25b06f97d8c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 06 |
 | **[On Trend Group](https://weareontrendgroup.com/)** | **[Customer Acquisition Intern](https://jobright.ai/jobs/info/6a4b7bf15d7b097d2df3d702?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jul 06 |
@@ -103,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Sales Intern / Fall 2026](https://jobright.ai/jobs/info/6a2b0c01d3ec8317fe146cd6?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 03 |
 | **[Franklin Energy](http://www.franklinenergy.com/)** | **[Sales - Sales and Outreach Intern](https://jobright.ai/jobs/info/6a3b2624649fdf1629307726?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Fall](https://jobright.ai/jobs/info/6a47bee14f64ba41dcb575a4?utm_campaign=1051&utm_source=git)** | Snellville, GA | On Site | Jul 03 |
-| **[PalmStateGroup](palmstatehealth.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a48482b4f64ba41dcb58c17?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 03 |
 | **[Benco Dental](https://www.benco.com/)** | **[Dental Coaching and Education Sales Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4299daff87fd527f984d16?utm_campaign=1051&utm_source=git)** | Pittston, PA | On Site | Jul 03 |
 | **[Telesat](https://www.telesat.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a2afb031de59e0682a872d2?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Jul 03 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a3d83d714428981a26c?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jul 03 |
@@ -112,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual - The South Florida Group](http://southfloridagroup.nm.com/ )** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e623dbab558e29aaa57?utm_campaign=1051&utm_source=git)** | Lakeland, FL, US | On Site | Jul 03 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e613dbab558e29aaa56?utm_campaign=1051&utm_source=git)** | US-MN-Minneapolis | On Site | Jul 03 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e5c971cd25b06f922a7?utm_campaign=1051&utm_source=git)** | Houston, TX, US | On Site | Jul 03 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e5bc2d11a6a466727cc?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Jul 03 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e5b0dd56c76cc2fce7d?utm_campaign=1051&utm_source=git)** | Mequon, WI, US | On Site | Jul 03 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e5bc2d11a6a466727cc?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Jul 03 |
 | **[Northwestern Mutual - West Denver](https://www.northwesternmutual.com/office/co/lakewood/32740015/?cmpid=loc3)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e5ac2d11a6a466727cb?utm_campaign=1051&utm_source=git)** | Irvine, CA, US | On Site | Jul 03 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e4f3dbab558e29aaa54?utm_campaign=1051&utm_source=git)** | West Hartford, CT, US | On Site | Jul 03 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e4a0dd56c76cc2fce79?utm_campaign=1051&utm_source=git)** | Conway, AR, US | On Site | Jul 03 |
@@ -124,11 +123,11 @@ For a complete list, click the following sortable link below:
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Research Intern](https://jobright.ai/jobs/info/6a473b238204a812e98cb5ba?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 02 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Donor Liaison Intern](https://jobright.ai/jobs/info/6a3ee635ce7cce40b342259a?utm_campaign=1051&utm_source=git)** | Philadelphia, Pennsylvania, United States | Hybrid | Jul 02 |
 | **[Mason](https://www.thisismason.com)** | **[Sales Engineer Internship](https://jobright.ai/jobs/info/6a47015d0dd56c76cc2fbbd4?utm_campaign=1051&utm_source=git)** | New York City, NY | On Site | Jul 02 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bb61b2c65b37b18ee?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 02 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 02 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 02 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 02 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jul 02 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a02e8777c753c287f6e1bf3?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 02 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 02 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Client Engagement Intern (Unpaid)](https://jobright.ai/jobs/info/6a4279466c326942b4e82f32?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Jul 02 |
 | **[Jefferson Lab](https://www.jlab.org)** | **[Technology Transfer and Partnerships Intern Job Details / JLABHCM20](https://jobright.ai/jobs/info/6a46d10f0dd56c76cc2fb08e?utm_campaign=1051&utm_source=git)** | Newport News, Virginia, US, 23606 | On Site | Jul 02 |
@@ -150,11 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/68c9cc8e95f5211cd2cf4719?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 02 |
 | **[PalmStateGroup](palmstatehealth.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/6a468c398204a812e98c8d22?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 02 |
 | **[ITS Logistics](http://its4logistics.com)** | **[Student Intern- Logistics Sales- South Center](https://jobright.ai/jobs/info/6a468c0c3dbab558e29a7851?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Jul 02 |
-| **[PalmStateGroup](palmstatehealth.com)** | **[Entry-Level Sales Representative Internship / Ideal for Students](https://jobright.ai/jobs/info/6a4684ab0dd56c76cc2f9b43?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 02 |
 | **[NextUp Talent](https://wearenextuptalent.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a4235666b8f051d296d6c56?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jul 02 |
 | **[A Quality Facility Services](https://www.aqualityfacilityservices.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a467d0f971cd25b06f8ee8d?utm_campaign=1051&utm_source=git)** | Canton OH | On Site | Jul 02 |
 | **[IBEX IT Business Experts](https://ibexexperts.com/)** | **[Business Development Fellow](https://jobright.ai/jobs/info/6a4679ff4f64ba41dcb537f2?utm_campaign=1051&utm_source=git)** | Brunswick, GA 31520 | Hybrid | Jul 02 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f14233825a315d7ca36fa8?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Jul 02 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf4?utm_campaign=1051&utm_source=git)** | Athens, GA, US | On Site | Jul 02 |
+| **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3942f206a4fd4b1fab8fc6?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | On Site | Jul 02 |
+| ↳ | **[Corporate Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39431a1232144fb156a256?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | On Site | Jul 02 |
 | **[Hidden Harbor Capital Partners](http://www.hh-cp.com/)** | **[Business Development - 2026 Fall Intern](https://jobright.ai/jobs/info/6a4668e44f64ba41dcb5340e?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
