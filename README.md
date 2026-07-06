@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Marketing Partnerships - Remote Fall Internship!](https://jobright.ai/jobs/info/6a4bf8f35d7b097d2df3ef23?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jul 06 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Store Ops Internship](https://jobright.ai/jobs/info/6a3998e6f6b55d12c7929165?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Jul 06 |
+| **[Standard Chartered](https://www.sc.com)** | **[Client Coverage Internship Programme US 2027](https://jobright.ai/jobs/info/6a4bf4a24f64ba41dcb5de31?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jul 06 |
+| **[Nwestco LLC](https://nwestco.com/)** | **[Summer Internship-  Inside Sales Representative / Lead Generation Specialist](https://jobright.ai/jobs/info/6a4bf3af5d7b097d2df3eddc?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Remote | Jul 06 |
+| **[Versiti Inc.](https://www.versiti.org/)** | **[Student Intern - Field Sales and Marketing- 19 hrs weekly](https://jobright.ai/jobs/info/6a439664592109606e5a818f?utm_campaign=1051&utm_source=git)** | Milwaukee,Wisconsin,United States | On Site | Jul 06 |
+| **[ICAP](http://www.icapinformation.com)** | **[Intern](https://jobright.ai/jobs/info/6a4bed40c2d11a6a4667940d?utm_campaign=1051&utm_source=git)** | New Jersey, United States of America | On Site | Jul 06 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a4bea17971cd25b06f98d77?utm_campaign=1051&utm_source=git)** | Plano, TX, USA | Hybrid | Jul 06 |
 | **[Versiti Blood Center of Illinois](http://www.versiti.org/illinois)** | **[Student Intern - Field Sales and Marketing- 19 hrs weekly](https://jobright.ai/jobs/info/6a4be7d1971cd25b06f98d0f?utm_campaign=1051&utm_source=git)** | Milwaukee, WI, US | On Site | Jul 06 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a4be6b96189f64e437f04b9?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jul 06 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/6a4be6724eb370649b27b789?utm_campaign=1051&utm_source=git)** | Pasadena, California, United States of America | On Site | Jul 06 |
 | **[Healthee](https://healthee.com)** | **[New Ventures Manager - Summer MBA Intern/Grad](https://jobright.ai/jobs/info/69e7cdac3aa0c4796439be21?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jul 06 |
+| **[Kelly Tutors](www.kellytutors.com)** | **[Sales Internship (2-3hrs/week)](https://jobright.ai/jobs/info/6a4bfa6b6189f64e437f09dc?utm_campaign=1051&utm_source=git)** | Seattle metropolitan area, WA | Remote | Jul 06 |
 | **[NOROHY](https://www.norohy.com/?utm_source=linkedin)** | **[INTERN SALES ADMINISTRATIVE OFFICER](https://jobright.ai/jobs/info/6a4bc9de5d7b097d2df3e20f?utm_campaign=1051&utm_source=git)** | 1018 Madison Ave., NEW YORK, 10075, US | On Site | Jul 06 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Bilingual Sales Intern](https://jobright.ai/jobs/info/6a4bd431971cd25b06f9877c?utm_campaign=1051&utm_source=git)** | Kennesaw, GA, US | On Site | Jul 06 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Georgia Southern University](https://jobright.ai/jobs/info/6a4bd24cc2d11a6a46678cc2?utm_campaign=1051&utm_source=git)** | Statesboro, GA | Hybrid | Jul 06 |
@@ -68,16 +76,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Semester Sales Internship - Arizona State University](https://jobright.ai/jobs/info/6a4bd2475d7b097d2df3e49c?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - University of South Carolina](https://jobright.ai/jobs/info/6a4bd246971cd25b06f986b5?utm_campaign=1051&utm_source=git)** | Columbia, SC | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Clemson](https://jobright.ai/jobs/info/6a4bd2454eb370649b27b178?utm_campaign=1051&utm_source=git)** | Clemson, SC | Hybrid | Jul 06 |
-| ↳ | **[Semester Sales Internship - Florida State University](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e484?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - University of Tampa](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e483?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - University of Cincinnati](https://jobright.ai/jobs/info/6a4bd2434eb370649b27b166?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 06 |
+| ↳ | **[Semester Sales Internship - Florida State University](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e484?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - James Madison University](https://jobright.ai/jobs/info/6a4bd2426189f64e437efe77?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | Hybrid | Jul 06 |
-| ↳ | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/6a4bd2414f64ba41dcb5d4c2?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Michigan State University](https://jobright.ai/jobs/info/6a4bd2414f64ba41dcb5d4c6?utm_campaign=1051&utm_source=git)** | East Lansing, MI | Hybrid | Jul 06 |
+| ↳ | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/6a4bd2414f64ba41dcb5d4c2?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Appalachian State University](https://jobright.ai/jobs/info/6a4bd23e4f64ba41dcb5d4b7?utm_campaign=1051&utm_source=git)** | Boone, NC | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Clemson](https://jobright.ai/jobs/info/6a4bcf5e971cd25b06f985aa?utm_campaign=1051&utm_source=git)** | Clemson, SC | Hybrid | Jul 06 |
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a4bcead4eb370649b27b084?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 06 |
 | **[Burna AI](https://www.burna.ai/)** | **[Business Development Intern at Oncology Startup](https://jobright.ai/jobs/info/6a4bcc72971cd25b06f984f8?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 06 |
+| **[Waresport](https://www.waresport.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a4bf235971cd25b06f98f96?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 06 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Asset Management](https://jobright.ai/jobs/info/6a4a871c4f64ba41dcb5b301?utm_campaign=1051&utm_source=git)** | 1005 Douglas Pike, Smithfield, RI, United States | On Site | Jul 06 |
 | **[Plymouth Tube Company](http://plymouth.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a46f2570dd56c76cc2fb95e?utm_campaign=1051&utm_source=git)** | Warrenville, IL, USA | On Site | Jul 06 |
 | **[PalmStateGroup](palmstatehealth.com)** | **[Internship Sales](https://jobright.ai/jobs/info/6a4bc168c2d11a6a4667884c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 06 |
@@ -119,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a4aa467c2d11a6a46676da0?utm_campaign=1051&utm_source=git)** | LANGLEY, British Columbia, Canada | On Site | Jul 03 |
 | **[Texana Bank](https://texanabank.com/)** | **[Intern - Unpaid; BR 21; 7.1.26](https://jobright.ai/jobs/info/6a45788e0dd56c76cc2f3864?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jul 03 |
 | **[Black Diamond Networks](http://blackdiamondnet.com)** | **[Sales Internship (RI)](https://jobright.ai/jobs/info/694b1b0f4b53a1551f94d9d5?utm_campaign=1051&utm_source=git)** | Lincoln, RI | On Site | Jul 03 |
-| **[Digital Alpha Platforms](https://www.digital-alpha.com/)** | **[Sales & Customer Success Intern](https://jobright.ai/jobs/info/6a480c284f64ba41dcb58198?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 03 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a2ae4fc9bf7365df089af7e?utm_campaign=1051&utm_source=git)** | Irving, Texas, United States | On Site | Jul 03 |
 | **[Intesa Sanpaolo](https://www.intesasanpaolo.com/)** | **[Corporate Desk internship](https://jobright.ai/jobs/info/6a47e93af9cbb100d1ab12aa?utm_campaign=1051&utm_source=git)** | New York, US | On Site | Jul 03 |
 | **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/6a0f48b7619335383fb2a935?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | Jul 03 |
@@ -147,14 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Research Intern](https://jobright.ai/jobs/info/6a473b238204a812e98cb5ba?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 02 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Donor Liaison Intern](https://jobright.ai/jobs/info/6a3ee635ce7cce40b342259a?utm_campaign=1051&utm_source=git)** | Philadelphia, Pennsylvania, United States | Hybrid | Jul 02 |
 | **[Mason](https://www.thisismason.com)** | **[Sales Engineer Internship](https://jobright.ai/jobs/info/6a47015d0dd56c76cc2fbbd4?utm_campaign=1051&utm_source=git)** | New York City, NY | On Site | Jul 02 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jul 02 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bb61b2c65b37b18ee?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 02 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 02 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 02 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 02 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 02 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 02 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Client Engagement Intern (Unpaid)](https://jobright.ai/jobs/info/6a4279466c326942b4e82f32?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Jul 02 |
-| **[Jefferson Lab](https://www.jlab.org)** | **[Technology Transfer and Partnerships Intern Job Details / JLABHCM20](https://jobright.ai/jobs/info/6a46d10f0dd56c76cc2fb08e?utm_campaign=1051&utm_source=git)** | Newport News, Virginia, US, 23606 | On Site | Jul 02 |
-| **[Franklin Templeton](https://www.franklinresources.com)** | **[Post-grad intern - OSAM Canvas Sales and Client Service](https://jobright.ai/jobs/info/6a46d0f70dd56c76cc2fb086?utm_campaign=1051&utm_source=git)** | Stamford, Connecticut, United States of America | On Site | Jul 02 |
-| **[Brkthru](https://brkthru.com)** | **[Sales Development Intern - Fall 2026](https://jobright.ai/jobs/info/6a46d0ba971cd25b06f904c4?utm_campaign=1051&utm_source=git)** | Fully Remote | Remote | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
