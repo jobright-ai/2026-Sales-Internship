@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinisa Solutions](www.sinisasolutions.com)** | **[IT Sales and Marketing Intern](https://jobright.ai/jobs/info/6a4d1e6b35e45603c4bb2a12?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 07 |
+| **[Air Charter Service](http://www.aircharterservice.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a4d1ca1d27b2c4dda9b62f7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
+| **[GE Vernova](https://www.gevernova.com)** | **[Sourcing Specialist intern](https://jobright.ai/jobs/info/6a4d172ed27b2c4dda9b6191?utm_campaign=1051&utm_source=git)** | Shanghai, VA, United States | On Site | Jul 07 |
 | **[BioNTech SE](https://biontech.de/)** | **[Intern, Business Development and Alliance Management](https://jobright.ai/jobs/info/6a3065b1093df201d07b1417?utm_campaign=1051&utm_source=git)** | Cambridge Erie Street | On Site | Jul 07 |
-| **[Teleflex](http://www.teleflex.com)** | **[Urology Sales Intern Job Details / Teleflex](https://jobright.ai/jobs/info/6a37357d29c90c607e4e620e?utm_campaign=1051&utm_source=git)** | Morrisville, NC, US | On Site | Jul 07 |
-| ↳ | **[Urology Sales Intern](https://jobright.ai/jobs/info/6a44d3d907db2d13da75c07d?utm_campaign=1051&utm_source=git)** | Morrisville NC USA | On Site | Jul 07 |
+| **[Teleflex](http://www.teleflex.com)** | **[Urology Sales Intern](https://jobright.ai/jobs/info/6a44d3d907db2d13da75c07d?utm_campaign=1051&utm_source=git)** | Morrisville NC USA | On Site | Jul 07 |
+| ↳ | **[Urology Sales Intern Job Details / Teleflex](https://jobright.ai/jobs/info/6a37357d29c90c607e4e620e?utm_campaign=1051&utm_source=git)** | Morrisville, NC, US | On Site | Jul 07 |
+| **[Dream](http://www.dream.ca/)** | **[Intern, Supplier Enablement](https://jobright.ai/jobs/info/6a18a7d854a441713ae86ffc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller Strategy Business Analyst Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6a3cccde8bfad862bc99b4b4?utm_campaign=1051&utm_source=git)** | Seattle, WA, United States | On Site | Jul 07 |
 | **[Nacre Capital](https://nacrecapital.com/)** | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a4622b1971cd25b06f8bd64?utm_campaign=1051&utm_source=git)** | Davis, California, United States | On Site | Jul 07 |
 | **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/686e601cf04554825b9ed965?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Remote | Jul 07 |
@@ -70,12 +74,12 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a4cbb7ec643fd23fed3ad8b?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Jul 07 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
 | ↳ | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bb61b2c65b37b18ee?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 06 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 06 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 06 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bb61b2c65b37b18ee?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jul 06 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Sales Performance Analyst Intern (Fall 2026, 8 or 12 months)](https://jobright.ai/jobs/info/6a4c85e899523700cbff33da?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Internship - (Partnerships & Donors)](https://jobright.ai/jobs/info/6a4d02d50209ea6fd685075f?utm_campaign=1051&utm_source=git)** | Marina del Rey, CA, United States | Remote | Jul 06 |
 | **[Pittsburgh Symphony Orchestra](https://pittsburghsymphony.org/)** | **[Development Intern - Fall 2026](https://jobright.ai/jobs/info/6a39edb16484fb75f2b341ee?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Jul 06 |
@@ -108,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[KinKeeper AI](https://kinkeeperai.com)** | **[B2B Sales & Outreach Intern](https://jobright.ai/jobs/info/6a4c06426189f64e437f0bf9?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 06 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Sales Internship (2-3hrs/week)](https://jobright.ai/jobs/info/6a4bfa6b6189f64e437f09dc?utm_campaign=1051&utm_source=git)** | Seattle metropolitan area, WA, United States | Remote | Jul 06 |
 | **[Versiti Blood Center of Illinois](http://www.versiti.org/illinois)** | **[Student Intern - Field Sales and Marketing- 19 hrs weekly](https://jobright.ai/jobs/info/6a4be7d1971cd25b06f98d0f?utm_campaign=1051&utm_source=git)** | Milwaukee, WI, US | On Site | Jul 06 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a4be6b96189f64e437f04b9?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jul 06 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/6a4be6724eb370649b27b789?utm_campaign=1051&utm_source=git)** | Pasadena, California, United States of America | On Site | Jul 06 |
 | **[Healthee](https://healthee.com)** | **[New Ventures Manager - Summer MBA Intern/Grad](https://jobright.ai/jobs/info/69e7cdac3aa0c4796439be21?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jul 06 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Georgia Southern University](https://jobright.ai/jobs/info/6a4bd24cc2d11a6a46678cc2?utm_campaign=1051&utm_source=git)** | Statesboro, GA | Hybrid | Jul 06 |
@@ -117,11 +120,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Semester Sales Internship - University of South Carolina](https://jobright.ai/jobs/info/6a4bd246971cd25b06f986b5?utm_campaign=1051&utm_source=git)** | Columbia, SC | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Clemson](https://jobright.ai/jobs/info/6a4bd2454eb370649b27b178?utm_campaign=1051&utm_source=git)** | Clemson, SC | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - University of Tampa](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e483?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Jul 06 |
-| ↳ | **[Semester Sales Internship - University of Cincinnati](https://jobright.ai/jobs/info/6a4bd2434eb370649b27b166?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Florida State University](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e484?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Hybrid | Jul 06 |
+| ↳ | **[Semester Sales Internship - University of Cincinnati](https://jobright.ai/jobs/info/6a4bd2434eb370649b27b166?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - James Madison University](https://jobright.ai/jobs/info/6a4bd2426189f64e437efe77?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | Hybrid | Jul 06 |
-| ↳ | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/6a4bd2414f64ba41dcb5d4c2?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Michigan State University](https://jobright.ai/jobs/info/6a4bd2414f64ba41dcb5d4c6?utm_campaign=1051&utm_source=git)** | East Lansing, MI | Hybrid | Jul 06 |
+| ↳ | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/6a4bd2414f64ba41dcb5d4c2?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Appalachian State University](https://jobright.ai/jobs/info/6a4bd23e4f64ba41dcb5d4b7?utm_campaign=1051&utm_source=git)** | Boone, NC | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Clemson](https://jobright.ai/jobs/info/6a4bcf5e971cd25b06f985aa?utm_campaign=1051&utm_source=git)** | Clemson, SC | Hybrid | Jul 06 |
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a4bcead4eb370649b27b084?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Internship (MA)](https://jobright.ai/jobs/info/694b09861224705e90021d4e?utm_campaign=1051&utm_source=git)** | Andover, MA | On Site | Jul 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Lincoln, NE Fall 2026](https://jobright.ai/jobs/info/6a4933225d7b097d2df3adb9?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jul 04 |
 | **[Black Diamond Networks](http://blackdiamondnet.com)** | **[Sales Internship (AZ)](https://jobright.ai/jobs/info/6a3225cf0ff23769fdb21d64?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jul 04 |
-| **[Coty](https://www.coty.com/)** | **[Field Sales Education Intern](https://jobright.ai/jobs/info/6a454d483dbab558e29a0d4a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 04 |
-| **[KnowBe4](http://www.KnowBe4.com)** | **[Sales Development Representative Intern (Hybrid)](https://jobright.ai/jobs/info/6a3c5477882f121f56a345e5?utm_campaign=1051&utm_source=git)** | Washington, DC Metro Area | Hybrid | Jul 04 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Queens)](https://jobright.ai/jobs/info/69d6315248f0c8161d2f6eeb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
