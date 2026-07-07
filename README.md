@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Unishippers - Tri-Ark Group](https://www.linkedin.com/company/108035607)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a4d4d5c35e45603c4bb354a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 07 |
+| **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Member Engagement Intern](https://jobright.ai/jobs/info/6a4d4b7c3122a76a8fd54f56?utm_campaign=1051&utm_source=git)** | Lexington, KY, United States | Remote | Jul 07 |
+| **[LOFT](https://www.loft.com/)** | **[Retail Management Intern, LOFT King of Prussia](https://jobright.ai/jobs/info/6a4d49e9c643fd23fed3c6b1?utm_campaign=1051&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 07 |
+| **[PalmStateGroup](palmstatehealth.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a4d3e22c643fd23fed3c37e?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Brand Acumen](https://brandacumen.co/)** | **[Business Development Extern/Intern: Brand Name & Launch Strategy](https://jobright.ai/jobs/info/6a4d35a0d27b2c4dda9b6aed?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 07 |
-| **[Harris Computer](http://www.harriscomputer.com)** | **[Sales & Marketing AI Intern](https://jobright.ai/jobs/info/6a4d33b03122a76a8fd54a0f?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Jul 07 |
 | **[Truvo](https://www.gettruvo.com)** | **[Growth & Business Development Intern](https://jobright.ai/jobs/info/6a4d302a99523700cbff4bc2?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | Jul 07 |
 | **[Make-A-Wish Canada](https://makeawish.ca)** | **[Community Partnerships Intern](https://jobright.ai/jobs/info/6a432c9cb0f2553559ece360?utm_campaign=1051&utm_source=git)** | St. John's, NL, Canada | Hybrid | Jul 07 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Retail Management Intern, LOFT King of Prussia](https://jobright.ai/jobs/info/6a4d215ad27b2c4dda9b6431?utm_campaign=1051&utm_source=git)** | Store 1300-The Plaza King Of Prussia-ANN-King Of Prussia, PA 19406, United States of America | On Site | Jul 07 |
@@ -79,14 +82,14 @@ For a complete list, click the following sortable link below:
 | **[Tyson Foods](http://tysonfoods.com)** | **[Sales Strategy & Planning Year-Round Intern](https://jobright.ai/jobs/info/6a282b0ffd37e62bb47a7308?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | Jul 07 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e4f3dbab558e29aaa54?utm_campaign=1051&utm_source=git)** | West Hartford, CT, United States | On Site | Jul 07 |
 | **[BBR Partners](http://bbrpartners.com)** | **[2027 Summer Internship](https://jobright.ai/jobs/info/6a2b163c1de59e0682a87ed1?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Jul 07 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
-| ↳ | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bb61b2c65b37b18ee?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jul 06 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
+| ↳ | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 06 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a02e8777c753c287f6e1bf3?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 06 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 06 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jul 06 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Sales Performance Analyst Intern (Fall 2026, 8 or 12 months)](https://jobright.ai/jobs/info/6a4c85e899523700cbff33da?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Internship - (Partnerships & Donors)](https://jobright.ai/jobs/info/6a4d02d50209ea6fd685075f?utm_campaign=1051&utm_source=git)** | Marina del Rey, CA, United States | Remote | Jul 06 |
 | **[Pittsburgh Symphony Orchestra](https://pittsburghsymphony.org/)** | **[Development Intern - Fall 2026](https://jobright.ai/jobs/info/6a39edb16484fb75f2b341ee?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Jul 06 |
@@ -124,9 +127,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Semester Sales Internship - Arizona State University](https://jobright.ai/jobs/info/6a4bd2475d7b097d2df3e49c?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - University of South Carolina](https://jobright.ai/jobs/info/6a4bd246971cd25b06f986b5?utm_campaign=1051&utm_source=git)** | Columbia, SC | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Clemson](https://jobright.ai/jobs/info/6a4bd2454eb370649b27b178?utm_campaign=1051&utm_source=git)** | Clemson, SC | Hybrid | Jul 06 |
-| ↳ | **[Semester Sales Internship - Florida State University](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e484?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Hybrid | Jul 06 |
-| ↳ | **[Semester Sales Internship - University of Cincinnati](https://jobright.ai/jobs/info/6a4bd2434eb370649b27b166?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - University of Tampa](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e483?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Jul 06 |
+| ↳ | **[Semester Sales Internship - University of Cincinnati](https://jobright.ai/jobs/info/6a4bd2434eb370649b27b166?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 06 |
+| ↳ | **[Semester Sales Internship - Florida State University](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e484?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - James Madison University](https://jobright.ai/jobs/info/6a4bd2426189f64e437efe77?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/6a4bd2414f64ba41dcb5d4c2?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Michigan State University](https://jobright.ai/jobs/info/6a4bd2414f64ba41dcb5d4c6?utm_campaign=1051&utm_source=git)** | East Lansing, MI | Hybrid | Jul 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Imaging - North America](https://www.linkedin.com/company/35672836)** | **[Customer Success Operations Intern](https://jobright.ai/jobs/info/6a3c400a4d047136e0930389?utm_campaign=1051&utm_source=git)** | Houston,TX,US | On Site | Jul 05 |
 | **[Coty](https://www.coty.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f456a6343eef4fb0aa0965?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator&Partner Strategy Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30c66eafabbe533fb8c561?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 05 |
-| ↳ | **[Seller LIVE Strategy&Operation Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS)](https://jobright.ai/jobs/info/6a30c7e789f8f147d3736c98?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jul 05 |
-| **[Playfly Sports](https://www.playfly.com/)** | **[Partnership Services Intern (University of Maryland)](https://jobright.ai/jobs/info/6a443d4757ffc22029406c6c?utm_campaign=1051&utm_source=git)** | College Park, Maryland, United States | On Site | Jul 04 |
-| **[Hanscom Federal Credit Union](https://www.hfcu.org)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a31468ce7b7d514a3bd2b05?utm_campaign=1051&utm_source=git)** | Chestertown, Maryland, United States | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
