@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Showroom Sales, Events & Client Experience Intern](https://jobright.ai/jobs/info/6a4c639ac2d11a6a4667ab99?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Jul 06 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Business Development Intern - Summer 2022](https://jobright.ai/jobs/info/6a4c6a16c643fd23fed3a51d?utm_campaign=1051&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 06 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a358cd329c90c607e4e2aa3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 06 |
+| **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Showroom Sales, Events & Client Experience Intern](https://jobright.ai/jobs/info/6a4c65675d7b097d2df404a0?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Jul 06 |
+| ↳ | **[Showroom Sales, Events & Client Experience Intern](https://jobright.ai/jobs/info/6a4c639ac2d11a6a4667ab99?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Jul 06 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern Role](https://jobright.ai/jobs/info/6a4c36834f64ba41dcb5eedb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jul 06 |
 | **[LUG Sports Group](https://www.lugsports.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a4c2b98c2d11a6a4667a3ff?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jul 06 |
 | **[Versiti Blood Center of Wisconsin](https://www.bcw.edu/bcw/index.htm)** | **[Student Intern - Field Sales and Marketing- 19 hrs weekly](https://jobright.ai/jobs/info/6a4c284c4eb370649b27c7b7?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jul 06 |
@@ -89,9 +92,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Semester Sales Internship - Arizona State University](https://jobright.ai/jobs/info/6a4bd2475d7b097d2df3e49c?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - University of South Carolina](https://jobright.ai/jobs/info/6a4bd246971cd25b06f986b5?utm_campaign=1051&utm_source=git)** | Columbia, SC | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Clemson](https://jobright.ai/jobs/info/6a4bd2454eb370649b27b178?utm_campaign=1051&utm_source=git)** | Clemson, SC | Hybrid | Jul 06 |
-| ↳ | **[Semester Sales Internship - Florida State University](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e484?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Hybrid | Jul 06 |
-| ↳ | **[Semester Sales Internship - University of Cincinnati](https://jobright.ai/jobs/info/6a4bd2434eb370649b27b166?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - University of Tampa](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e483?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Jul 06 |
+| ↳ | **[Semester Sales Internship - University of Cincinnati](https://jobright.ai/jobs/info/6a4bd2434eb370649b27b166?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 06 |
+| ↳ | **[Semester Sales Internship - Florida State University](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e484?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - James Madison University](https://jobright.ai/jobs/info/6a4bd2426189f64e437efe77?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Michigan State University](https://jobright.ai/jobs/info/6a4bd2414f64ba41dcb5d4c6?utm_campaign=1051&utm_source=git)** | East Lansing, MI | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/6a4bd2414f64ba41dcb5d4c2?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Jul 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/6a0e9e7f80bf0430c762de69?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jul 03 |
 | **[Northwestern Mutual - The South Florida Group](http://southfloridagroup.nm.com/ )** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e623dbab558e29aaa57?utm_campaign=1051&utm_source=git)** | Lakeland, FL, US | On Site | Jul 03 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e613dbab558e29aaa56?utm_campaign=1051&utm_source=git)** | US-MN-Minneapolis | On Site | Jul 03 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e5c971cd25b06f922a7?utm_campaign=1051&utm_source=git)** | Houston, TX, US | On Site | Jul 03 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e5bc2d11a6a466727cc?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Jul 03 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e5b0dd56c76cc2fce7d?utm_campaign=1051&utm_source=git)** | Mequon, WI, US | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
