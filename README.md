@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LUG Sports Group](https://www.lugsports.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a4c2b98c2d11a6a4667a3ff?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jul 06 |
+| **[dataing](https://www.dataing.io/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a4c295f4eb370649b27c811?utm_campaign=1051&utm_source=git)** | LA Metro Area | Remote | Jul 06 |
 | **[Versiti Blood Center of Wisconsin](https://www.bcw.edu/bcw/index.htm)** | **[Student Intern - Field Sales and Marketing- 19 hrs weekly](https://jobright.ai/jobs/info/6a4c284c4eb370649b27c7b7?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jul 06 |
 | **[CIBC](https://www.cibc.com)** | **[Financial Service Representative - Coaticook -  Internship](https://jobright.ai/jobs/info/6a4c17164f64ba41dcb5e79e?utm_campaign=1051&utm_source=git)** | Coaticook, QC, Canada | On Site | Jul 06 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Ticket Sales & Service Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c15c85d7b097d2df3f6d1?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jul 06 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Bilingual Sales Intern](https://jobright.ai/jobs/info/6a4bd431971cd25b06f9877c?utm_campaign=1051&utm_source=git)** | Kennesaw, GA, US | On Site | Jul 06 |
 | **[NPX ONE](http://www.npxone.com)** | **[Buyer Intern (Part-Time) - Indiana](https://jobright.ai/jobs/info/6a4c11a7c2d11a6a46679d5b?utm_campaign=1051&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Jul 06 |
+| **[One Knoxville SC](https://oneknoxsc.com/)** | **[Partnership Activations Intern](https://jobright.ai/jobs/info/6a4c2a3b4f64ba41dcb5ec2b?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Jul 06 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Corporate Partnerships Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c0a3d4f64ba41dcb5e33d?utm_campaign=1051&utm_source=git)** | 300 Wyandotte, Kansas City, MO 64105, United States of America | On Site | Jul 06 |
 | **[TP ICAP](https://www.tpicap.com)** | **[Intern](https://jobright.ai/jobs/info/6a4c03174f64ba41dcb5e1c8?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | Jul 06 |
 | **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Intern - Midtown, NY](https://jobright.ai/jobs/info/6a4c0239971cd25b06f99386?utm_campaign=1051&utm_source=git)** | Janney Montgomery Scott LLC, 1166 Avenue of the Americas, New York, New York, United States of America | On Site | Jul 06 |
@@ -85,17 +88,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Semester Sales Internship - University of South Carolina](https://jobright.ai/jobs/info/6a4bd246971cd25b06f986b5?utm_campaign=1051&utm_source=git)** | Columbia, SC | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Clemson](https://jobright.ai/jobs/info/6a4bd2454eb370649b27b178?utm_campaign=1051&utm_source=git)** | Clemson, SC | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Florida State University](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e484?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Hybrid | Jul 06 |
-| ↳ | **[Semester Sales Internship - University of Tampa](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e483?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - University of Cincinnati](https://jobright.ai/jobs/info/6a4bd2434eb370649b27b166?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 06 |
+| ↳ | **[Semester Sales Internship - University of Tampa](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e483?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - James Madison University](https://jobright.ai/jobs/info/6a4bd2426189f64e437efe77?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | Hybrid | Jul 06 |
-| ↳ | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/6a4bd2414f64ba41dcb5d4c2?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Michigan State University](https://jobright.ai/jobs/info/6a4bd2414f64ba41dcb5d4c6?utm_campaign=1051&utm_source=git)** | East Lansing, MI | Hybrid | Jul 06 |
+| ↳ | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/6a4bd2414f64ba41dcb5d4c2?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Appalachian State University](https://jobright.ai/jobs/info/6a4bd23e4f64ba41dcb5d4b7?utm_campaign=1051&utm_source=git)** | Boone, NC | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Clemson](https://jobright.ai/jobs/info/6a4bcf5e971cd25b06f985aa?utm_campaign=1051&utm_source=git)** | Clemson, SC | Hybrid | Jul 06 |
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a4bcead4eb370649b27b084?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 06 |
 | **[Burna AI](https://www.burna.ai/)** | **[Business Development Intern at Oncology Startup](https://jobright.ai/jobs/info/6a4bcc72971cd25b06f984f8?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 06 |
 | **[Waresport](https://www.waresport.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a4bf235971cd25b06f98f96?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 06 |
-| **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Asset Management](https://jobright.ai/jobs/info/6a4a871c4f64ba41dcb5b301?utm_campaign=1051&utm_source=git)** | 1005 Douglas Pike, Smithfield, RI, United States | On Site | Jul 06 |
 | **[Plymouth Tube Company](http://plymouth.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a46f2570dd56c76cc2fb95e?utm_campaign=1051&utm_source=git)** | Warrenville, IL, USA | On Site | Jul 06 |
 | **[PalmStateGroup](palmstatehealth.com)** | **[Internship Sales](https://jobright.ai/jobs/info/6a4bc168c2d11a6a4667884c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 06 |
 | **[Scimplify](https://www.scimplify.com/en-us)** | **[International Business - Internship](https://jobright.ai/jobs/info/6a4ba5264f64ba41dcb5cac5?utm_campaign=1051&utm_source=git)** | New Jersey | On Site | Jul 06 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual - The South Florida Group](http://southfloridagroup.nm.com/ )** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e623dbab558e29aaa57?utm_campaign=1051&utm_source=git)** | Lakeland, FL, US | On Site | Jul 03 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e613dbab558e29aaa56?utm_campaign=1051&utm_source=git)** | US-MN-Minneapolis | On Site | Jul 03 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e5c971cd25b06f922a7?utm_campaign=1051&utm_source=git)** | Houston, TX, US | On Site | Jul 03 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e5b0dd56c76cc2fce7d?utm_campaign=1051&utm_source=git)** | Mequon, WI, US | On Site | Jul 03 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e5bc2d11a6a466727cc?utm_campaign=1051&utm_source=git)** | New York, NY, US | On Site | Jul 03 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e5b0dd56c76cc2fce7d?utm_campaign=1051&utm_source=git)** | Mequon, WI, US | On Site | Jul 03 |
 | **[Northwestern Mutual - West Denver](https://www.northwesternmutual.com/office/co/lakewood/32740015/?cmpid=loc3)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e5ac2d11a6a466727cb?utm_campaign=1051&utm_source=git)** | Irvine, CA, US | On Site | Jul 03 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e4f3dbab558e29aaa54?utm_campaign=1051&utm_source=git)** | West Hartford, CT, US | On Site | Jul 03 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e4a0dd56c76cc2fce79?utm_campaign=1051&utm_source=git)** | Conway, AR, US | On Site | Jul 03 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e46971cd25b06f922a3?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, US | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
