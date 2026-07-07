@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fifth Wheel Freight](https://www.fwf.com/)** | **[Sales Internship - Fall 2026](https://jobright.ai/jobs/info/6a35a1307f3fdd180d4ce5a8?utm_campaign=1051&utm_source=git)** | Kentwood, Michigan, United States | On Site | Jul 07 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Sales](https://jobright.ai/jobs/info/6a3ae70a797099171917c3d5?utm_campaign=1051&utm_source=git)** | Toronto, Canada | On Site | Jul 07 |
+| **[MyEmployment](www.myemployment.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a4d6b1bd27b2c4dda9b79d0?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Sales Performance Analyst Intern (Fall 2026, 8 or 12 months)](https://jobright.ai/jobs/info/6a4d67d635e45603c4bb3d62?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 07 |
 | **[Fusion Inc](http://www.fusioninc.com)** | **[Technical Sales Engineer Intern](https://jobright.ai/jobs/info/6a4d61283122a76a8fd5544c?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA, USA | On Site | Jul 07 |
 | **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Member Engagement Intern](https://jobright.ai/jobs/info/6a4d4b7c3122a76a8fd54f56?utm_campaign=1051&utm_source=git)** | Lexington, KY, United States | Remote | Jul 07 |
-| **[Unishippers - Tri-Ark Group](https://www.linkedin.com/company/108035607)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a4d4d5c35e45603c4bb354a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 07 |
 | **[LOFT](https://www.loft.com/)** | **[Retail Management Intern, LOFT King of Prussia](https://jobright.ai/jobs/info/6a4d49e9c643fd23fed3c6b1?utm_campaign=1051&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 07 |
 | **[PalmStateGroup](palmstatehealth.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a4d3e22c643fd23fed3c37e?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 07 |
-| **[Truvo](https://www.gettruvo.com)** | **[Growth & Business Development Intern](https://jobright.ai/jobs/info/6a4d302a99523700cbff4bc2?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | Jul 07 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Retail Management Intern, LOFT King of Prussia](https://jobright.ai/jobs/info/6a4d215ad27b2c4dda9b6431?utm_campaign=1051&utm_source=git)** | Store 1300-The Plaza King Of Prussia-ANN-King Of Prussia, PA 19406, United States of America | On Site | Jul 07 |
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a4d1ca1d27b2c4dda9b62f7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Sourcing Specialist intern](https://jobright.ai/jobs/info/6a4d172ed27b2c4dda9b6191?utm_campaign=1051&utm_source=git)** | Shanghai, VA, United States | On Site | Jul 07 |
@@ -77,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/69e91fdfe0cd471b2f13a801?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Remote | Jul 07 |
 | ↳ | **[Business Development Internship](https://jobright.ai/jobs/info/686e601cf04554825b9ed965?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Remote | Jul 07 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a4cbb7ec643fd23fed3ad8b?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Jul 07 |
-| **[PSI Groups](https://www.psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a297567d3ec8317fe13e150?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Jul 07 |
+| **[PSI Groups](https://www.psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a297567d3ec8317fe13e150?utm_campaign=1051&utm_source=git)** | Iowa City, IA, United States | Remote | Jul 07 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a4cf6f835e45603c4bb2119?utm_campaign=1051&utm_source=git)** | Chadds Ford, PA, United States | Hybrid | Jul 07 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Sales Strategy & Planning Year-Round Intern](https://jobright.ai/jobs/info/6a282b0ffd37e62bb47a7308?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | Jul 07 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e4f3dbab558e29aaa54?utm_campaign=1051&utm_source=git)** | West Hartford, CT, United States | On Site | Jul 07 |
@@ -85,11 +86,11 @@ For a complete list, click the following sortable link below:
 | **[reafco](https://reafcorealestate.com)** | **[Real Estate Sales Intern](https://jobright.ai/jobs/info/69c9f5551818a24cd84df59e?utm_campaign=1051&utm_source=git)** | Columbus, OH, US | On Site | Jul 07 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
 | ↳ | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bb61b2c65b37b18ee?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 06 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a02e8777c753c287f6e1bf3?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 06 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 06 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jul 06 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 06 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Sales Performance Analyst Intern (Fall 2026, 8 or 12 months)](https://jobright.ai/jobs/info/6a4c85e899523700cbff33da?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Internship - (Partnerships & Donors)](https://jobright.ai/jobs/info/6a4d02d50209ea6fd685075f?utm_campaign=1051&utm_source=git)** | Marina del Rey, CA, United States | Remote | Jul 06 |
@@ -128,9 +129,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Semester Sales Internship - Arizona State University](https://jobright.ai/jobs/info/6a4bd2475d7b097d2df3e49c?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - University of South Carolina](https://jobright.ai/jobs/info/6a4bd246971cd25b06f986b5?utm_campaign=1051&utm_source=git)** | Columbia, SC | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Clemson](https://jobright.ai/jobs/info/6a4bd2454eb370649b27b178?utm_campaign=1051&utm_source=git)** | Clemson, SC | Hybrid | Jul 06 |
-| ↳ | **[Semester Sales Internship - Florida State University](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e484?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Hybrid | Jul 06 |
-| ↳ | **[Semester Sales Internship - University of Tampa](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e483?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - University of Cincinnati](https://jobright.ai/jobs/info/6a4bd2434eb370649b27b166?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 06 |
+| ↳ | **[Semester Sales Internship - University of Tampa](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e483?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Jul 06 |
+| ↳ | **[Semester Sales Internship - Florida State University](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e484?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - James Madison University](https://jobright.ai/jobs/info/6a4bd2426189f64e437efe77?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - Michigan State University](https://jobright.ai/jobs/info/6a4bd2414f64ba41dcb5d4c6?utm_campaign=1051&utm_source=git)** | East Lansing, MI | Hybrid | Jul 06 |
 | ↳ | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/6a4bd2414f64ba41dcb5d4c2?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Jul 06 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Varonis](http://www.varonis.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a4ab9204f64ba41dcb5b624?utm_campaign=1051&utm_source=git)** | Morrisville, North Carolina | On Site | Jul 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Solution Advisory [Finance & Accounting]](https://jobright.ai/jobs/info/6a434ca9cbf92c7bcd36f984?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, US, 30009 | Hybrid | Jul 05 |
 | **[AvePoint](http://www.avepoint.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a2e8582f1751b183c81c5cc?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 05 |
-| **[NM Group](www.nmgroupnow.com)** | **[Sales and Marketing Internship](https://jobright.ai/jobs/info/6a4ae1caf9cbb100d1ab50c3?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Jul 05 |
 | **[United Imaging - North America](https://www.linkedin.com/company/35672836)** | **[Customer Success Operations Intern](https://jobright.ai/jobs/info/6a3c400a4d047136e0930389?utm_campaign=1051&utm_source=git)** | Houston,TX,US | On Site | Jul 05 |
 | **[Coty](https://www.coty.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69f456a6343eef4fb0aa0965?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
