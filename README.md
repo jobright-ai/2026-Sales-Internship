@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioNTech SE](https://biontech.de/)** | **[Intern, Business Development and Alliance Management](https://jobright.ai/jobs/info/6a3065b1093df201d07b1417?utm_campaign=1051&utm_source=git)** | Cambridge Erie Street | On Site | Jul 07 |
+| **[Teleflex](http://www.teleflex.com)** | **[Urology Sales Intern Job Details / Teleflex](https://jobright.ai/jobs/info/6a37357d29c90c607e4e620e?utm_campaign=1051&utm_source=git)** | Morrisville, NC, US | On Site | Jul 07 |
+| ↳ | **[Urology Sales Intern](https://jobright.ai/jobs/info/6a44d3d907db2d13da75c07d?utm_campaign=1051&utm_source=git)** | Morrisville NC USA | On Site | Jul 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Seller Strategy Business Analyst Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6a3cccde8bfad862bc99b4b4?utm_campaign=1051&utm_source=git)** | Seattle, WA, United States | On Site | Jul 07 |
+| **[Nacre Capital](https://nacrecapital.com/)** | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a4622b1971cd25b06f8bd64?utm_campaign=1051&utm_source=git)** | Davis, California, United States | On Site | Jul 07 |
 | **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/686e601cf04554825b9ed965?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Remote | Jul 07 |
-| **[Axis Communications](http://www.axis.com/)** | **[Professional Services Intern](https://jobright.ai/jobs/info/6a4cff33d27b2c4dda9b5b1c?utm_campaign=1051&utm_source=git)** | Mississauga, ON, Canada | On Site | Jul 07 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a4cf6f835e45603c4bb2119?utm_campaign=1051&utm_source=git)** | Chadds Ford, PA, United States | Hybrid | Jul 07 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Sales Strategy & Planning Year-Round Intern](https://jobright.ai/jobs/info/6a282b0ffd37e62bb47a7308?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | Jul 07 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e4f3dbab558e29aaa54?utm_campaign=1051&utm_source=git)** | West Hartford, CT, United States | On Site | Jul 07 |
@@ -66,12 +70,12 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a4cbb7ec643fd23fed3ad8b?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Jul 07 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
 | ↳ | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a02e8777c753c287f6e1bf3?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 06 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bb61b2c65b37b18ee?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 06 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 06 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jul 06 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 06 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Sales Performance Analyst Intern (Fall 2026, 8 or 12 months)](https://jobright.ai/jobs/info/6a4c85e899523700cbff33da?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Internship - (Partnerships & Donors)](https://jobright.ai/jobs/info/6a4d02d50209ea6fd685075f?utm_campaign=1051&utm_source=git)** | Marina del Rey, CA, United States | Remote | Jul 06 |
 | **[Pittsburgh Symphony Orchestra](https://pittsburghsymphony.org/)** | **[Development Intern - Fall 2026](https://jobright.ai/jobs/info/6a39edb16484fb75f2b341ee?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Jul 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coty](https://www.coty.com/)** | **[Field Sales Education Intern](https://jobright.ai/jobs/info/6a454d483dbab558e29a0d4a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 04 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Sales Development Representative Intern (Hybrid)](https://jobright.ai/jobs/info/6a3c5477882f121f56a345e5?utm_campaign=1051&utm_source=git)** | Washington, DC Metro Area | Hybrid | Jul 04 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Financial Sales Intern (Queens)](https://jobright.ai/jobs/info/69d6315248f0c8161d2f6eeb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 04 |
-| **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Dealer Network Development and Customer Experience Intern - MYMI 2026](https://jobright.ai/jobs/info/6a486fadc2d11a6a46674845?utm_campaign=1051&utm_source=git)** | Canada-Ontario-Mississauga | On Site | Jul 03 |
-| **[PICTON Investments](https://www.pictoninvestments.com/en)** | **[Intern, Business Development (Fall 2026)](https://jobright.ai/jobs/info/6a4821b65d7b097d2df395b5?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 03 |
-| **[Dream](http://www.dream.ca/)** | **[Intern, Supplier Enablement](https://jobright.ai/jobs/info/6a18a7d854a441713ae86ffc?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 03 |
-| **[EnergyHub](http://www.energyhub.com)** | **[Partner Solutions Intern](https://jobright.ai/jobs/info/6a2afa012cde2824469c4390?utm_campaign=1051&utm_source=git)** | Brooklyn, New York | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
