@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Payment Partnership Project Intern (Global Payment) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a4eb6159469c0662034c6d4?utm_campaign=1051&utm_source=git)** | San Jose, California, United States of America | Hybrid | Jul 08 |
+| **[Rutgers University](https://rutgers.edu)** | **[Brand Partnership Activation Intern](https://jobright.ai/jobs/info/6a4eacb3fc327f422fef3b36?utm_campaign=1051&utm_source=git)** | Piscataway, NJ, United States | On Site | Jul 08 |
+| **[The Theofilis Group (TTG)](theofilisgroup.com)** | **[Mergers and Acquisitions Intern](https://jobright.ai/jobs/info/6a4eaae69469c0662034c394?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 08 |
+| **[Hanscom Federal Credit Union](https://www.hfcu.org)** | **[Account Management Intern](https://jobright.ai/jobs/info/6a31468ce7b7d514a3bd2b05?utm_campaign=1051&utm_source=git)** | Chestertown, Maryland, United States | On Site | Jul 08 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Sales Intern / Bloomington](https://jobright.ai/jobs/info/6a4e99de0ea38951a6ff3cef?utm_campaign=1051&utm_source=git)** | Bloomington, IN, United States | On Site | Jul 08 |
 | ↳ | **[Sales Intern / Tuscaloosa](https://jobright.ai/jobs/info/6a4e9a099469c0662034c02c?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Jul 08 |
 | ↳ | **[Sales Intern / Champaign-Urbana](https://jobright.ai/jobs/info/6a4e9a441544d7246c0d37e3?utm_campaign=1051&utm_source=git)** | Champaign-Urbana, IL, United States | On Site | Jul 08 |
@@ -105,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a4d1ca1d27b2c4dda9b62f7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Sourcing Specialist intern](https://jobright.ai/jobs/info/6a4d172ed27b2c4dda9b6191?utm_campaign=1051&utm_source=git)** | Shanghai, VA, United States | On Site | Jul 07 |
 | **[BioNTech SE](https://biontech.de/)** | **[Intern, Business Development and Alliance Management](https://jobright.ai/jobs/info/6a3065b1093df201d07b1417?utm_campaign=1051&utm_source=git)** | Cambridge Erie Street | On Site | Jul 07 |
-| **[Teleflex](http://www.teleflex.com)** | **[Urology Sales Intern](https://jobright.ai/jobs/info/6a44d3d907db2d13da75c07d?utm_campaign=1051&utm_source=git)** | Morrisville NC USA | On Site | Jul 07 |
-| ↳ | **[Urology Sales Intern Job Details / Teleflex](https://jobright.ai/jobs/info/6a37357d29c90c607e4e620e?utm_campaign=1051&utm_source=git)** | Morrisville, NC, US | On Site | Jul 07 |
+| **[Teleflex](http://www.teleflex.com)** | **[Urology Sales Intern Job Details / Teleflex](https://jobright.ai/jobs/info/6a37357d29c90c607e4e620e?utm_campaign=1051&utm_source=git)** | Morrisville, NC, US | On Site | Jul 07 |
+| ↳ | **[Urology Sales Intern](https://jobright.ai/jobs/info/6a44d3d907db2d13da75c07d?utm_campaign=1051&utm_source=git)** | Morrisville NC USA | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller Strategy Business Analyst Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6a3cccde8bfad862bc99b4b4?utm_campaign=1051&utm_source=git)** | Seattle, WA, United States | On Site | Jul 07 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Grad Intern, Corporate Business Development - Fall 2026](https://jobright.ai/jobs/info/6a4c6d0d99523700cbff3095?utm_campaign=1051&utm_source=git)** | Burbank,CA,US | On Site | Jul 07 |
 | **[Nacre Capital](https://nacrecapital.com/)** | **[Operations and Sales Intern](https://jobright.ai/jobs/info/6a4622b1971cd25b06f8bd64?utm_campaign=1051&utm_source=git)** | Davis, California, United States | On Site | Jul 07 |
@@ -119,9 +123,9 @@ For a complete list, click the following sortable link below:
 | **[reafco](https://reafcorealestate.com)** | **[Real Estate Sales Intern](https://jobright.ai/jobs/info/69c9f5551818a24cd84df59e?utm_campaign=1051&utm_source=git)** | Columbus, OH, US | On Site | Jul 07 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
 | ↳ | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 06 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 06 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 06 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bb61b2c65b37b18ee?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 06 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 06 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Sales Performance Analyst Intern (Fall 2026, 8 or 12 months)](https://jobright.ai/jobs/info/6a4c85e899523700cbff33da?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Versiti Blood Center of Illinois](http://www.versiti.org/illinois)** | **[Student Intern - Field Sales and Marketing- 19 hrs weekly](https://jobright.ai/jobs/info/6a4be7d1971cd25b06f98d0f?utm_campaign=1051&utm_source=git)** | Milwaukee, WI, US | On Site | Jul 06 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/6a4be6724eb370649b27b789?utm_campaign=1051&utm_source=git)** | Pasadena, California, United States of America | On Site | Jul 06 |
 | **[NOROHY](https://www.norohy.com/?utm_source=linkedin)** | **[INTERN SALES ADMINISTRATIVE OFFICER](https://jobright.ai/jobs/info/6a4bc9de5d7b097d2df3e20f?utm_campaign=1051&utm_source=git)** | 1018 Madison Ave., NEW YORK, 10075, US | On Site | Jul 06 |
-| **[Healthee](https://healthee.com)** | **[New Ventures Manager - Summer MBA Intern/Grad](https://jobright.ai/jobs/info/69e7cdac3aa0c4796439be21?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jul 06 |
-| **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Georgia Southern University](https://jobright.ai/jobs/info/6a4bd24cc2d11a6a46678cc2?utm_campaign=1051&utm_source=git)** | Statesboro, GA | Hybrid | Jul 06 |
-| ↳ | **[Semester Sales Internship - Bloomsburg](https://jobright.ai/jobs/info/6a4bd24a5d7b097d2df3e4a9?utm_campaign=1051&utm_source=git)** | Bloomsburg, PA | Hybrid | Jul 06 |
-| ↳ | **[Semester Sales Internship - Arizona State University](https://jobright.ai/jobs/info/6a4bd2475d7b097d2df3e49c?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
