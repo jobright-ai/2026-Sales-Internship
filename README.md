@@ -58,9 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6a4f40cd397d8d353c28b622?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
-| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jul 08 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jul 08 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e4f3dbab558e29aaa54?utm_campaign=1051&utm_source=git)** | West Hartford, CT, United States | On Site | Jul 08 |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e4f3dbab558e29aaa54?utm_campaign=1051&utm_source=git)** | West Hartford, CT, United States | On Site | Jul 08 |
 | **[ING Americas](http://www.ingwb.com)** | **[Summer 2027 Internship - Sectors](https://jobright.ai/jobs/info/6a4f2a749469c0662034d900?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Jul 08 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Ticket Sales & Service - Fall](https://jobright.ai/jobs/info/6a4f0adb15b4965afd5853eb?utm_campaign=1051&utm_source=git)** | 577 West Nationwide Boulevard, Columbus, OH, USA | On Site | Jul 08 |
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Membership & Industry Relations (New York Chapter)](https://jobright.ai/jobs/info/6a4f05189469c0662034d31a?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
@@ -139,11 +137,11 @@ For a complete list, click the following sortable link below:
 | **[reafco](https://reafcorealestate.com)** | **[Real Estate Sales Intern](https://jobright.ai/jobs/info/69c9f5551818a24cd84df59e?utm_campaign=1051&utm_source=git)** | Columbus, OH, US | On Site | Jul 07 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
 | ↳ | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a02e8777c753c287f6e1bf3?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 06 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bb61b2c65b37b18ee?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 06 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 06 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Sales Performance Analyst Intern (Fall 2026, 8 or 12 months)](https://jobright.ai/jobs/info/6a4c85e899523700cbff33da?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
 | **[Pittsburgh Symphony Orchestra](https://pittsburghsymphony.org/)** | **[Development Intern - Fall 2026](https://jobright.ai/jobs/info/6a39edb16484fb75f2b341ee?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Jul 06 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Business Development Intern - Summer 2022](https://jobright.ai/jobs/info/6a4c6a16c643fd23fed3a51d?utm_campaign=1051&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 06 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[CIBC](https://www.cibc.com)** | **[Financial Service Representative - Coaticook -  Internship](https://jobright.ai/jobs/info/6a4c17164f64ba41dcb5e79e?utm_campaign=1051&utm_source=git)** | Coaticook, QC, Canada | On Site | Jul 06 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Ticket Sales & Service Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c15c85d7b097d2df3f6d1?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jul 06 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Bilingual Sales Intern](https://jobright.ai/jobs/info/6a4bd431971cd25b06f9877c?utm_campaign=1051&utm_source=git)** | Kennesaw, GA, US | On Site | Jul 06 |
+| **[NPX ONE](http://www.npxone.com)** | **[Buyer Intern (Part-Time) - Indiana](https://jobright.ai/jobs/info/6a4c11a7c2d11a6a46679d5b?utm_campaign=1051&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Jul 06 |
+| **[One Knoxville SC](https://oneknoxsc.com/)** | **[Partnership Activations Intern](https://jobright.ai/jobs/info/6a4c2a3b4f64ba41dcb5ec2b?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
