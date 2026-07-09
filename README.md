@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Family Benefits Center](http://www.familybenefitscenter.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a4ff97b4649561ec08afb7d?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | Remote | Jul 09 |
 | **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a4fef274649561ec08af9ee?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 09 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 09 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Global Customer Insights Intern](https://jobright.ai/jobs/info/6a4fba4d9469c0662034e9c5?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA, United States | Remote | Jul 09 |
 | **[Sofueled](http://www.sofueled.com)** | **[Lead Generation Intern](https://jobright.ai/jobs/info/6a4fe928fc327f422fef701a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 09 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e4f3dbab558e29aaa54?utm_campaign=1051&utm_source=git)** | West Hartford, CT, United States | On Site | Jul 09 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern - Sanford Store](https://jobright.ai/jobs/info/6a4fe455fc327f422fef6ef5?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD, United States | On Site | Jul 09 |
 | **[AUM Advisors](https://www.aummedia.org/)** | **[Capital Markets / Conference Intern - Europe](https://jobright.ai/jobs/info/6a4fe6c2397d8d353c28d0e2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 09 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e4f3dbab558e29aaa54?utm_campaign=1051&utm_source=git)** | West Hartford, CT, United States | On Site | Jul 09 |
 | **[Victory Branding](https://victorybranding.org/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a4fd7661544d7246c0d6b72?utm_campaign=1051&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 09 |
 | **[iCharts](http://www.icharts.net)** | **[Sales Intern- Sunnyvale](https://jobright.ai/jobs/info/6a3d1dae4d047136e093235e?utm_campaign=1051&utm_source=git)** | Sunnyvale, California, United States | On Site | Jul 09 |
 | **[Phoenix Systems](https://phoenixsystems.tv)** | **[Intern - Marketing & E-Commerce / Unpaid](https://jobright.ai/jobs/info/6a4fd32e4649561ec08af2da?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | On Site | Jul 09 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[reafco](https://reafcorealestate.com)** | **[Real Estate Sales Intern](https://jobright.ai/jobs/info/69c9f5551818a24cd84df59e?utm_campaign=1051&utm_source=git)** | Columbus, OH, US | On Site | Jul 07 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
 | ↳ | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bb61b2c65b37b18ee?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 06 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 06 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a02e8777c753c287f6e1bf3?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 06 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
