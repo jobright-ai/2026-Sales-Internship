@@ -58,9 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6a4f40cd397d8d353c28b622?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
-| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jul 08 |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jul 08 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2667f36624e500cad10d97?utm_campaign=1051&utm_source=git)** | US-IA-Bettendorf | On Site | Jul 08 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e4f3dbab558e29aaa54?utm_campaign=1051&utm_source=git)** | West Hartford, CT, United States | On Site | Jul 08 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a2683e06d665572632dfa9c?utm_campaign=1051&utm_source=git)** | US-NC-Winston Salem | On Site | Jul 08 |
 | **[ING Americas](http://www.ingwb.com)** | **[Summer 2027 Internship - Sectors](https://jobright.ai/jobs/info/6a4f2a749469c0662034d900?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Jul 08 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Ticket Sales & Service - Fall](https://jobright.ai/jobs/info/6a4f0adb15b4965afd5853eb?utm_campaign=1051&utm_source=git)** | 577 West Nationwide Boulevard, Columbus, OH, USA | On Site | Jul 08 |
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Membership & Industry Relations (New York Chapter)](https://jobright.ai/jobs/info/6a4f05189469c0662034d31a?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
@@ -139,10 +139,10 @@ For a complete list, click the following sortable link below:
 | **[reafco](https://reafcorealestate.com)** | **[Real Estate Sales Intern](https://jobright.ai/jobs/info/69c9f5551818a24cd84df59e?utm_campaign=1051&utm_source=git)** | Columbus, OH, US | On Site | Jul 07 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
 | ↳ | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 07 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 06 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a02e8777c753c287f6e1bf3?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 06 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 06 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a02e8777c753c287f6e1bf3?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 06 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787bb61b2c65b37b2cc5?utm_campaign=1051&utm_source=git)** | Bakersfield, California, United States | On Site | Jul 06 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 06 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Sales Performance Analyst Intern (Fall 2026, 8 or 12 months)](https://jobright.ai/jobs/info/6a4c85e899523700cbff33da?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
 | **[Pittsburgh Symphony Orchestra](https://pittsburghsymphony.org/)** | **[Development Intern - Fall 2026](https://jobright.ai/jobs/info/6a39edb16484fb75f2b341ee?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Jul 06 |
