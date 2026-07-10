@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Account Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a3175c42ee3ac1b4beeeec5?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Fall Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/6a5053b0397d8d353c28e83d?utm_campaign=1051&utm_source=git)** | Little Rock, AR, United States | On Site | Jul 09 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a504492397d8d353c28e6ef?utm_campaign=1051&utm_source=git)** | Lake Dallas, TX, United States | Hybrid | Jul 09 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Skillbridge Intern - Nationwide](https://jobright.ai/jobs/info/6a5040d1397d8d353c28e687?utm_campaign=1051&utm_source=git)** | Greenwood, LA, United States | On Site | Jul 09 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Redstone Residential, Inc.](https://redstoneresidential.com/)** | **[Business Development Analyst Intern](https://jobright.ai/jobs/info/6a5034f21544d7246c0d80ab?utm_campaign=1051&utm_source=git)** | Provo, UT, United States | On Site | Jul 09 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Global Customer Insights Intern](https://jobright.ai/jobs/info/6a4fba4d9469c0662034e9c5?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA, United States | Remote | Jul 09 |
 | **[Phoenix Systems](https://phoenixsystems.tv)** | **[Intern - Marketing & E-Commerce / Unpaid](https://jobright.ai/jobs/info/6a4fd32e4649561ec08af2da?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | On Site | Jul 09 |
-| **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a4fef274649561ec08af9ee?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 09 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e4f3dbab558e29aaa54?utm_campaign=1051&utm_source=git)** | West Hartford, CT, United States | On Site | Jul 09 |
+| **[Lionsgate Acquisitions](https://lionsgateacquisitions.net)** | **[Event Sales Intern](https://jobright.ai/jobs/info/6a4fef274649561ec08af9ee?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 09 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Solution Adoption Campaign Coordinator](https://jobright.ai/jobs/info/6a333f1f29c90c607e4dad41?utm_campaign=1051&utm_source=git)** | Toronto, ON, CA, M5K 1B7 | Hybrid | Jul 09 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 09 |
 | **[Sofueled](http://www.sofueled.com)** | **[Lead Generation Intern](https://jobright.ai/jobs/info/6a4fe928fc327f422fef701a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Retail Management Intern, LOFT King of Prussia](https://jobright.ai/jobs/info/6a4d215ad27b2c4dda9b6431?utm_campaign=1051&utm_source=git)** | Store 1300-The Plaza King Of Prussia-ANN-King Of Prussia, PA 19406, United States of America | On Site | Jul 07 |
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a4d1ca1d27b2c4dda9b62f7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Sourcing Specialist intern](https://jobright.ai/jobs/info/6a4d172ed27b2c4dda9b6191?utm_campaign=1051&utm_source=git)** | Shanghai, VA, United States | On Site | Jul 07 |
-| **[BioNTech SE](https://biontech.de/)** | **[Intern, Business Development and Alliance Management](https://jobright.ai/jobs/info/6a3065b1093df201d07b1417?utm_campaign=1051&utm_source=git)** | Cambridge Erie Street | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
