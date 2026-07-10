@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a509679f08ee83207669dc4?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Jul 09 |
+| **[Kao EMEA & Americas](http://www.kao.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a458f1a4f64ba41dcb4dbf6?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 09 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a2c8fcefc0644749054a8e0?utm_campaign=1051&utm_source=git)** | US-CA-Encino | On Site | Jul 09 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Account Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a3175c42ee3ac1b4beeeec5?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Fall Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/6a5053b0397d8d353c28e83d?utm_campaign=1051&utm_source=git)** | Little Rock, AR, United States | On Site | Jul 09 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 09 |
 | **[Sofueled](http://www.sofueled.com)** | **[Lead Generation Intern](https://jobright.ai/jobs/info/6a4fe928fc327f422fef701a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 09 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern - Sanford Store](https://jobright.ai/jobs/info/6a4fe455fc327f422fef6ef5?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD, United States | On Site | Jul 09 |
-| **[PalmStateGroup](palmstatehealth.com)** | **[Entrepreneurship Intern](https://jobright.ai/jobs/info/6a500f154649561ec08b0248?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 09 |
 | **[McKesson](https://mms.mckesson.com/)** | **[Sales Enablement & AI Intern - Fall 2026](https://jobright.ai/jobs/info/6a4ea138397d8d353c289be2?utm_campaign=1051&utm_source=git)** | CAN, ON, Mississauga, Canada | Hybrid | Jul 09 |
 | **[FFF Enterprises](https://www.fffenterprises.com/)** | **[Intern, Portfolio & Commercial Operations](https://jobright.ai/jobs/info/6a502ec59469c066203506fd?utm_campaign=1051&utm_source=git)** | Temecula, CA, United States | Remote | Jul 09 |
 | **[Victory Branding](https://victorybranding.org/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6a4fd7661544d7246c0d6b72?utm_campaign=1051&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Association of State Procurement Officials](https://www.naspo.org/)** | **[Member Engagement Intern](https://jobright.ai/jobs/info/6a4d4b7c3122a76a8fd54f56?utm_campaign=1051&utm_source=git)** | Lexington, KY, United States | Remote | Jul 07 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Retail Management Intern, LOFT King of Prussia](https://jobright.ai/jobs/info/6a4d215ad27b2c4dda9b6431?utm_campaign=1051&utm_source=git)** | Store 1300-The Plaza King Of Prussia-ANN-King Of Prussia, PA 19406, United States of America | On Site | Jul 07 |
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a4d1ca1d27b2c4dda9b62f7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
-| **[GE Vernova](https://www.gevernova.com)** | **[Sourcing Specialist intern](https://jobright.ai/jobs/info/6a4d172ed27b2c4dda9b6191?utm_campaign=1051&utm_source=git)** | Shanghai, VA, United States | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
