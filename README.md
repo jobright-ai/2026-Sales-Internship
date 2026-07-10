@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e46971cd25b06f922a3?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 10 |
+| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - MCS](https://jobright.ai/jobs/info/6a341b46ce501060b5cef65c?utm_campaign=1051&utm_source=git)** | Paramus, NJ, US | On Site | Jul 10 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Gameday Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a3e16168bfad862bc99f0d7?utm_campaign=1051&utm_source=git)** | State College, PA, United States | On Site | Jul 10 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a477e5bc2d11a6a466727cc?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Summer 2026 - Retail Intern](https://jobright.ai/jobs/info/6a509f9c42c6dc326e8ea71c?utm_campaign=1051&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Jul 10 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a509679f08ee83207669dc4?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Jul 09 |
 | **[Kao EMEA & Americas](http://www.kao.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a458f1a4f64ba41dcb4dbf6?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 09 |
 | **[Matthews™](https://www.matthews.com/)** | **[Internship - Real Estate Brokerage](https://jobright.ai/jobs/info/6a2c8fcefc0644749054a8e0?utm_campaign=1051&utm_source=git)** | US-CA-Encino | On Site | Jul 09 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Account Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a3175c42ee3ac1b4beeeec5?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
@@ -98,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2026 Sales Management Trainee Internship](https://jobright.ai/jobs/info/6a17caabda08264614c90691?utm_campaign=1051&utm_source=git)** | Jackson, MS, United States | On Site | Jul 09 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing Intern, Fall 2026](https://jobright.ai/jobs/info/69fb45ed86d5cd46527d4404?utm_campaign=1051&utm_source=git)** | Portsmouth, VA, United States | On Site | Jul 09 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[Intern,Sales](https://jobright.ai/jobs/info/6a4fba061544d7246c0d6356?utm_campaign=1051&utm_source=git)** | CAN - Ontario - Brantford, Canada | On Site | Jul 09 |
-| **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Ticket Sales & Service - Fall](https://jobright.ai/jobs/info/6a4fb3b94649561ec08ae9df?utm_campaign=1051&utm_source=git)** | 577 West Nationwide Boulevard, Columbus, OH, USA | On Site | Jul 09 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf4?utm_campaign=1051&utm_source=git)** | Athens, GA, US | On Site | Jul 09 |
 | **[AFRICAN PARKS FOUNDATION OF AMERICA](http://www.africanparks.org)** | **[Development Intern](https://jobright.ai/jobs/info/6a4fa80b397d8d353c28c07f?utm_campaign=1051&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 09 |
 | **[Faherty Brand](http://fahertybrand.com)** | **[Intern, Hospitality Operations & Growth](https://jobright.ai/jobs/info/6a33365ef6b55d12c7918301?utm_campaign=1051&utm_source=git)** | Spring Lake, New Jersey, United States | On Site | Jul 09 |
