@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Asian Americans for Equality](https://www.aafe.org/)** | **[Business Advisor Support Intern (Mandarin Chinese Speaker)](https://jobright.ai/jobs/info/6a55be94ec54dd532d81304c?utm_campaign=1051&utm_source=git)** | Flushing, NY, United States | On Site | Jul 13 |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55bc9814f1040fa611b3b3?utm_campaign=1051&utm_source=git)** | Leawood, KS, United States | On Site | Jul 13 |
+| **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Sales Intern / Fall 2026](https://jobright.ai/jobs/info/6a432caecbf92c7bcd36e1e3?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 13 |
+| **[Central States Industrial (CSI)](http://csidesigns.com)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/6a55ba0bef22935f2e3f6365?utm_campaign=1051&utm_source=git)** | Springfield, MO, United States | On Site | Jul 13 |
+| **[Ensemble](https://ensembletravel.ca/)** | **[Intern - Partner Relations](https://jobright.ai/jobs/info/6a5128be78e364789ca596b1?utm_campaign=1051&utm_source=git)** | Toronto, Canada | On Site | Jul 13 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a554e4b268af95237beac33?utm_campaign=1051&utm_source=git)** | Fairview Heights, IL, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55b28bec54dd532d81242c?utm_campaign=1051&utm_source=git)** | Barrington, IL, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55b26e2ce8bf79a139f8e3?utm_campaign=1051&utm_source=git)** | Rogers, AR, United States | On Site | Jul 13 |
@@ -125,8 +130,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556cc72084cd792b478a49?utm_campaign=1051&utm_source=git)** | Bridgeport, WV, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556c5e377f983ce8a9a395?utm_campaign=1051&utm_source=git)** | Wausau, WI, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556c5c2084cd792b478a3d?utm_campaign=1051&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a527f209fbdab22fe13bce5?utm_campaign=1051&utm_source=git)** | Aventura, FL, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556c5a2084cd792b478a3c?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 13 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a527f209fbdab22fe13bce5?utm_campaign=1051&utm_source=git)** | Aventura, FL, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556c55f2c46727285f24be?utm_campaign=1051&utm_source=git)** | Albany, NY, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556c4bae07d60a8d01169c?utm_campaign=1051&utm_source=git)** | Poughkeepsie, NY, US | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556b612084cd792b47895e?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
@@ -135,8 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51bbbb57513b72e0c66dc0?utm_campaign=1051&utm_source=git)** | Columbia, SC, US | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5565d6f2c46727285f1f4b?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5565d02084cd792b4784ae?utm_campaign=1051&utm_source=git)** | Garden City, NY, United States | On Site | Jul 13 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556488f2c46727285f1f09?utm_campaign=1051&utm_source=git)** | Shreveport, LA, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556487268af95237beb6f6?utm_campaign=1051&utm_source=git)** | Calabasas, CA, United States | On Site | Jul 13 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556488f2c46727285f1f09?utm_campaign=1051&utm_source=git)** | Shreveport, LA, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556471377f983ce8a99e36?utm_campaign=1051&utm_source=git)** | Farmingdale, NY, United States | On Site | Jul 13 |
 | **[LAZ Parking](https://www.lazparking.com)** | **[Hospitality Business Development Internship, Remote](https://jobright.ai/jobs/info/6a3d5548882f121f56a36ed7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA 90012, USA | Remote | Jul 13 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Ticket Sales Intern - Fall 2026](https://jobright.ai/jobs/info/6a55485cf2c46727285f1114?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 13 |
@@ -146,15 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a555ed42084cd792b4781ab?utm_campaign=1051&utm_source=git)** | Sacramento, CA, United States | On Site | Jul 13 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Sales Management Trainee Internship](https://jobright.ai/jobs/info/6a555ed4268af95237beb3fc?utm_campaign=1051&utm_source=git)** | Starkville, MS, United States | On Site | Jul 13 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a555ed32084cd792b4781a6?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 13 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a555ed22084cd792b4781a2?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a555ed2377f983ce8a99b47?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 13 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a555ed22084cd792b4781a2?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a555ecbae07d60a8d010e29?utm_campaign=1051&utm_source=git)** | Beachwood, OH, United States | On Site | Jul 13 |
 | **[Agentnomics](https://agentnomics.ai)** | **[Sales Intern](https://jobright.ai/jobs/info/6a555be9ae07d60a8d010d0f?utm_campaign=1051&utm_source=git)** | Redmond, WA, United States | Remote | Jul 13 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a555aa2ae07d60a8d010c71?utm_campaign=1051&utm_source=git)** | San Diego, CA, US | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a54efd9f2c46727285eeb3d?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, US | On Site | Jul 13 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55574c377f983ce8a997ea?utm_campaign=1051&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 13 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a555747268af95237beb08b?utm_campaign=1051&utm_source=git)** | Washington, DC, United States | On Site | Jul 13 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2027 Technical Sales Intern - Equipment (Remote)](https://jobright.ai/jobs/info/6a54f29ff2c46727285eed12?utm_campaign=1051&utm_source=git)** | Davidson, NC, United States | Remote | Jul 13 |
-| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55557f4119652ff3865095?utm_campaign=1051&utm_source=git)** | Salem, OR, United States | On Site | Jul 13 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a555573377f983ce8a9972c?utm_campaign=1051&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
