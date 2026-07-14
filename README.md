@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55d48bfdf4fa71202b6094?utm_campaign=1051&utm_source=git)** | Boulder, CO, United States | On Site | Jul 13 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a55db2014f1040fa611d04b?utm_campaign=1051&utm_source=git)** | Summerside, Prince Edward Island, Canada | On Site | Jul 13 |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55d91cec54dd532d8149f9?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 13 |
+| **[Summit Electric Supply](https://summit.com/)** | **[Summer Internship Program - Sales](https://jobright.ai/jobs/info/6a4333cdb0f2553559ecf220?utm_campaign=1051&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 13 |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55d6d614f1040fa611ce75?utm_campaign=1051&utm_source=git)** | Denver, CO, United States | On Site | Jul 13 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55d65fef22935f2e3f8127?utm_campaign=1051&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 13 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55d48bfdf4fa71202b6094?utm_campaign=1051&utm_source=git)** | Boulder, CO, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55d466ec54dd532d81469f?utm_campaign=1051&utm_source=git)** | Leawood, KS, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55d41505c65f7c8f4c87f4?utm_campaign=1051&utm_source=git)** | Birmingham, AL, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55d38d05c65f7c8f4c878a?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, US | On Site | Jul 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5574f5ae07d60a8d01187c?utm_campaign=1051&utm_source=git)** | Leawood, KS, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a557450268af95237bebea8?utm_campaign=1051&utm_source=git)** | Memphis, TN, United States | On Site | Jul 13 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55744df2c46727285f2642?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 13 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Sales Intern - Fall 2026](https://jobright.ai/jobs/info/6a554760f2c46727285f10e3?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 13 |
-| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556d182084cd792b478a55?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 13 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556cc72084cd792b478a49?utm_campaign=1051&utm_source=git)** | Bridgeport, WV, United States | On Site | Jul 13 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556c5e377f983ce8a9a395?utm_campaign=1051&utm_source=git)** | Wausau, WI, United States | On Site | Jul 13 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556c5c2084cd792b478a3d?utm_campaign=1051&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
