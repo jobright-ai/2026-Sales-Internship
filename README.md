@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a52422fe726ec56126a24b7?utm_campaign=1051&utm_source=git)** | Leawood, KS, United States | On Site | Jul 15 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a574acfe9b77f668bd67652?utm_campaign=1051&utm_source=git)** | Coralville, IA, United States | On Site | Jul 15 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a574ac7efb06a45240d9dbc?utm_campaign=1051&utm_source=git)** | Olathe, KS, United States | On Site | Jul 15 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57479a21f64463ad35896e?utm_campaign=1051&utm_source=git)** | Campbell, CA, United States | On Site | Jul 15 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57477eefb06a45240d9d5b?utm_campaign=1051&utm_source=git)** | Leawood, KS, United States | On Site | Jul 15 |
+| **[Akola](https://akola.co)** | **[Fall Internship: Sales](https://jobright.ai/jobs/info/6a57475af7517b519ad59bae?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | On Site | Jul 15 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51039c8d7d3e6cf1cbe213?utm_campaign=1051&utm_source=git)** | Manchester, NH, United States | On Site | Jul 15 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a573fcfe9b77f668bd672d8?utm_campaign=1051&utm_source=git)** | Chesterfield, MO, United States | On Site | Jul 15 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a573fcc21f64463ad35865d?utm_campaign=1051&utm_source=git)** | Johnson City, TN, United States | On Site | Jul 15 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a573fc9367e61670f5aeab2?utm_campaign=1051&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a56ac76f7517b519ad5761c?utm_campaign=1051&utm_source=git)** | Richmond, VA, United States | On Site | Jul 14 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - MCS](https://jobright.ai/jobs/info/6a341b46ce501060b5cef65c?utm_campaign=1051&utm_source=git)** | Paramus, NJ, United States | On Site | Jul 14 |
 | **[Gregory Poole Equipment Company](http://www.gregorypoole.com)** | **[Construction Technology Sales Intern](https://jobright.ai/jobs/info/6a55c99214f1040fa611bd47?utm_campaign=1051&utm_source=git)** | 4807 Beryl Rd, Raleigh, NC 27606, USA | On Site | Jul 14 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a56a35221f64463ad35605a?utm_campaign=1051&utm_source=git)** | Grand Forks, ND, United States | On Site | Jul 14 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a56a34710c4d945d864b084?utm_campaign=1051&utm_source=git)** | Springfield, MO, United States | On Site | Jul 14 |
-| **[Swank Motion Pictures, Inc.](https://www.swank.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a56a267e9b77f668bd64cc4?utm_campaign=1051&utm_source=git)** | Saint Louis, MO, United States | On Site | Jul 14 |
-| **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Sales Representative — East Coast / Central Region (US) / Full-Time or Internship](https://jobright.ai/jobs/info/6a569f9a21f64463ad355e01?utm_campaign=1051&utm_source=git)** | Clearwater, FL, United States | Remote | Jul 14 |
-| **[Jefferson Lab](https://www.jlab.org)** | **[Technology Transfer and Partnerships Intern Job Details / JLABHCM20](https://jobright.ai/jobs/info/6a46d10f0dd56c76cc2fb08e?utm_campaign=1051&utm_source=git)** | Newport News, Virginia, US, 23606 | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
