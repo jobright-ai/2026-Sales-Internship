@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5833023330ca6f993c3b30?utm_campaign=1051&utm_source=git)** | Manchester, IA, United States | On Site | Jul 15 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/6a5832bf9f1f56462cf690a9?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 15 |
+| **[Mulbah](https://mulbahmedia.com/)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6a582f2b3330ca6f993c3a68?utm_campaign=1051&utm_source=git)** | Bellingham Metropolitan Area | On Site | Jul 15 |
 | **[PABCO Building Products, LLC.](https://www.pabcobuildingproducts.com/)** | **[PBP- Sales Intern](https://jobright.ai/jobs/info/6a582c968f51964c0404738d?utm_campaign=1051&utm_source=git)** | Tacoma, WA, United States | On Site | Jul 15 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[PBP- Sales Intern](https://jobright.ai/jobs/info/6a582b773330ca6f993c395d?utm_campaign=1051&utm_source=git)** | Tacoma, WA, United States | On Site | Jul 15 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a582a093330ca6f993c38e0?utm_campaign=1051&utm_source=git)** | Austin, TX, United States | On Site | Jul 15 |
@@ -113,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57e4d772fe7a7b98dcb896?utm_campaign=1051&utm_source=git)** | Clayton, MO, United States | On Site | Jul 15 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57e4d668d16a30e2410436?utm_campaign=1051&utm_source=git)** | Ft Lauderdale, FL, United States | On Site | Jul 15 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57e4ce9f1f56462cf672a6?utm_campaign=1051&utm_source=git)** | Irvine, CA, United States | On Site | Jul 15 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51cd4bbf63b66c7997cec4?utm_campaign=1051&utm_source=git)** | Center Valley, PA, United States | On Site | Jul 15 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57e4ca9f1f56462cf6729c?utm_campaign=1051&utm_source=git)** | Elm Grove, WI, United States | On Site | Jul 15 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51cd4bbf63b66c7997cec4?utm_campaign=1051&utm_source=git)** | Center Valley, PA, United States | On Site | Jul 15 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57e3539f1f56462cf67249?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 15 |
 | **[Mely.ai - Agentic Intelligent Document Processing 🇨🇦](http://www.mely.ai)** | **[Business Development Intern (Cold Calling)](https://jobright.ai/jobs/info/6a57df233330ca6f993c1b4a?utm_campaign=1051&utm_source=git)** | Canada | Remote | Jul 15 |
 | **[Burjline Builders](https://www.burjlinebuilders.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a58099e3330ca6f993c2d88?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Jul 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a50ddeefd78601961763ee4?utm_campaign=1051&utm_source=git)** | Minnetonka, MN, United States | On Site | Jul 15 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57c3caa791c6211bf00e59?utm_campaign=1051&utm_source=git)** | The Woodlands, TX, United States | On Site | Jul 15 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51fff257513b72e0c6a147?utm_campaign=1051&utm_source=git)** | Houston, TX, US | On Site | Jul 15 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57c3b6f7517b519ad5cfab?utm_campaign=1051&utm_source=git)** | Lexington, KY, United States | On Site | Jul 15 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57c3b5e9b77f668bd6aa7a?utm_campaign=1051&utm_source=git)** | Naples, FL, United States | On Site | Jul 15 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57c3b2f7517b519ad5cfaa?utm_campaign=1051&utm_source=git)** | Middleton, WI, United States | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
