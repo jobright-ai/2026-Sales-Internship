@@ -57,6 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a598495856af468ab0044a1?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | On Site | Jul 16 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a59847a63a8f619507c2b94?utm_campaign=1051&utm_source=git)** | Fairview Hts, IL, United States | On Site | Jul 16 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a59846663a8f619507c2b8f?utm_campaign=1051&utm_source=git)** | W Des Moines, IA, US | On Site | Jul 16 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a538f898ef95364ead9292f?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, US | On Site | Jul 16 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a598346856af468ab004458?utm_campaign=1051&utm_source=git)** | Denver, CO, United States | On Site | Jul 16 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a59833a63a8f619507c2b66?utm_campaign=1051&utm_source=git)** | Huntingtn Bch, CA, US | On Site | Jul 16 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57cc88f7517b519ad5d243?utm_campaign=1051&utm_source=git)** | Downers Grove, IL, US | On Site | Jul 16 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a597fb6c8e3a473cb8a757f?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Strategy & Operation Project Intern (TikTok Shop Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a53dce8d007ee02d95fcd6b?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a597ea54da96a42cfd9163d?utm_campaign=1051&utm_source=git)** | Miami, FL, United States | On Site | Jul 16 |
+| **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Donor Relations and Data Entry Intern](https://jobright.ai/jobs/info/6a597e5cc8e3a473cb8a740c?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 16 |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57c3d8f7517b519ad5cfb6?utm_campaign=1051&utm_source=git)** | Clayton, MO, US | On Site | Jul 16 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a597de0686b4755d1e10aca?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Jul 16 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a53bc1cc8eb0843027ad7e2?utm_campaign=1051&utm_source=git)** | Mishawaka, IN, US | On Site | Jul 16 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a52baffe726ec56126a4395?utm_campaign=1051&utm_source=git)** | Lincoln, NE, US | On Site | Jul 16 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a597bf93ac7627fe9fff79c?utm_campaign=1051&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 16 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a597bf5856af468ab003fcb?utm_campaign=1051&utm_source=git)** | Charleston, WV, United States | On Site | Jul 16 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a597abb686b4755d1e108f9?utm_campaign=1051&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 16 |
 | **[Capex Funds](https://www.capexfunds.co)** | **[Sales Intern](https://jobright.ai/jobs/info/6a596c33c8e3a473cb8a6fed?utm_campaign=1051&utm_source=git)** | Chantilly, VA, United States | Remote | Jul 16 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a596c0c856af468ab003d4e?utm_campaign=1051&utm_source=git)** | Chantilly, VA, United States | Hybrid | Jul 16 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a596bf0856af468ab003d49?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Jul 16 |
@@ -113,48 +131,30 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a59130d63a8f619507c0253?utm_campaign=1051&utm_source=git)** | Irving, TX, US | On Site | Jul 16 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5206c4e726ec56126a13b8?utm_campaign=1051&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 16 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a52676b8576ec69c014bc0e?utm_campaign=1051&utm_source=git)** | Leawood, KS, US | On Site | Jul 16 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a5468e5d007ee02d95feac6?utm_campaign=1051&utm_source=git)** | THE WOODLANDS, Texas, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a51da0857513b72e0c68f19?utm_campaign=1051&utm_source=git)** | Casper, WY, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a55bc1afdf4fa71202b454b?utm_campaign=1051&utm_source=git)** | TULSA, Oklahoma, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a57ecd172fe7a7b98dcbc34?utm_campaign=1051&utm_source=git)** | JOHNSON CITY, Tennessee, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 16 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a55bcc9ef22935f2e3f66c0?utm_campaign=1051&utm_source=git)** | BUFORD, Georgia, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a02e8777c753c287f6e1bf3?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a5905d73ac7627fe9ffcc6f?utm_campaign=1051&utm_source=git)** | Asheville, North Carolina, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a513c138d7d3e6cf1cc01ed?utm_campaign=1051&utm_source=git)** | FRESNO, CA, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a5432cce726ec56126a9730?utm_campaign=1051&utm_source=git)** | Liberty Township, OH, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a55bcbb05c65f7c8f4c6e57?utm_campaign=1051&utm_source=git)** | Albuquerque, New Mexico, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a55c1cbef22935f2e3f6b37?utm_campaign=1051&utm_source=git)** | OVERLAND PARK, Kansas, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a54305ad007ee02d95fdf73?utm_campaign=1051&utm_source=git)** | Cedar Rapids, Iowa, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a564711f7517b519ad54913?utm_campaign=1051&utm_source=git)** | MOUNT PLEASANT, SC, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a554a26f2c46727285f11c6?utm_campaign=1051&utm_source=git)** | PITTSBURG, Kansas, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a4cd448d27b2c4dda9b5685?utm_campaign=1051&utm_source=git)** | Waco, TX, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a5432a7c8eb0843027af190?utm_campaign=1051&utm_source=git)** | ROME, Georgia, United States | On Site | Jul 16 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a57ecd172fe7a7b98dcbc34?utm_campaign=1051&utm_source=git)** | JOHNSON CITY, Tennessee, United States | On Site | Jul 16 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a536d7e8ef95364ead92109?utm_campaign=1051&utm_source=git)** | Midland, MI, United States | On Site | Jul 16 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a53fa528a74e077472fa394?utm_campaign=1051&utm_source=git)** | Wichita Falls, Texas, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a57463021f64463ad3588ba?utm_campaign=1051&utm_source=git)** | THE WOODLANDS, Texas, United States | On Site | Jul 16 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a58b18d3ac7627fe9ffa38f?utm_campaign=1051&utm_source=git)** | JACKSONVILLE, Florida, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f787f804915678116a732?utm_campaign=1051&utm_source=git)** | Saint Clairsville, Ohio, United States | On Site | Jul 16 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a5430608a74e077472faf1f?utm_campaign=1051&utm_source=git)** | Grandville, MI, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a56659210c4d945d86494c9?utm_campaign=1051&utm_source=git)** | BLOOMINGTON, Minnesota, United States | On Site | Jul 16 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a57d33be9b77f668bd6b10d?utm_campaign=1051&utm_source=git)** | Grandville, Michigan, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a51035b02522b5b722e6a42?utm_campaign=1051&utm_source=git)** | OKLAHOMA CITY, Oklahoma, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a55c16605c65f7c8f4c72fc?utm_campaign=1051&utm_source=git)** | Lone Tree, Colorado, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a538a1d9fbdab22fe13fb9d?utm_campaign=1051&utm_source=git)** | Fort Smith, AR, United States | On Site | Jul 16 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a57b79421f64463ad35b774?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a54bf9182ab8a43579ce6ea?utm_campaign=1051&utm_source=git)** | Portage, MI, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a51d940bf63b66c7997dd95?utm_campaign=1051&utm_source=git)** | Joplin, Missouri, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a560bacefb06a45240d35db?utm_campaign=1051&utm_source=git)** | MURFREESBORO, TN, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a58ec7363a8f619507bf28c?utm_campaign=1051&utm_source=git)** | Asheville, North Carolina, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a513c138d7d3e6cf1cc01ed?utm_campaign=1051&utm_source=git)** | FRESNO, CA, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a51da0857513b72e0c68f19?utm_campaign=1051&utm_source=git)** | Casper, WY, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bb61b2c65b37b18ee?utm_campaign=1051&utm_source=git)** | MEMPHIS, Tennessee, United States | On Site | Jul 16 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a55c057ef22935f2e3f69f0?utm_campaign=1051&utm_source=git)** | Cape Girardeau, MO, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a5335c0e726ec56126a6119?utm_campaign=1051&utm_source=git)** | FARMINGTON, New Mexico, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a52389be726ec56126a2144?utm_campaign=1051&utm_source=git)** | Greenwood, IN, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a55c139ec54dd532d813247?utm_campaign=1051&utm_source=git)** | Hattiesburg, Mississippi, United States | On Site | Jul 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a55be43ec54dd532d812fcb?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 16 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a57b79421f64463ad35b774?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 16 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a4522eec2d11a6a46668277?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a4cd448d27b2c4dda9b5685?utm_campaign=1051&utm_source=git)** | Waco, TX, United States | On Site | Jul 16 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a56823021f64463ad35502d?utm_campaign=1051&utm_source=git)** | Vestavia, AL, United States | On Site | Jul 16 |
-| **[PAWS Chicago](https://www.pawschicago.org)** | **[Development Internship](https://jobright.ai/jobs/info/6a590c8ec8e3a473cb8a4b9b?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Jul 16 |
-| **[The Plug Drink](https://theplugdrink.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a590bf6686b4755d1e0e14b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 16 |
-| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a590a32686b4755d1e0e015?utm_campaign=1051&utm_source=git)** | Decatur, IL, United States | On Site | Jul 16 |
-| **[Konexial](http://www.konexial.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a59099063a8f619507bfde3?utm_campaign=1051&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 16 |
-| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a59085d856af468ab00156a?utm_campaign=1051&utm_source=git)** | Princeton, NJ, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a55be43ec54dd532d812fcb?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a51035b02522b5b722e6a42?utm_campaign=1051&utm_source=git)** | OKLAHOMA CITY, Oklahoma, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a55bcbb05c65f7c8f4c6e57?utm_campaign=1051&utm_source=git)** | Albuquerque, New Mexico, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a55c139ec54dd532d813247?utm_campaign=1051&utm_source=git)** | Hattiesburg, Mississippi, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a5432a7c8eb0843027af190?utm_campaign=1051&utm_source=git)** | ROME, Georgia, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a54bf9182ab8a43579ce6ea?utm_campaign=1051&utm_source=git)** | Portage, MI, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1df1c76b135014dbc999e8?utm_campaign=1051&utm_source=git)** | Morgantown, West Virginia, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a5432cce726ec56126a9730?utm_campaign=1051&utm_source=git)** | Liberty Township, OH, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a560bacefb06a45240d35db?utm_campaign=1051&utm_source=git)** | MURFREESBORO, TN, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a55bc1afdf4fa71202b454b?utm_campaign=1051&utm_source=git)** | TULSA, Oklahoma, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a564711f7517b519ad54913?utm_campaign=1051&utm_source=git)** | MOUNT PLEASANT, SC, United States | On Site | Jul 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a54305ad007ee02d95fdf73?utm_campaign=1051&utm_source=git)** | Cedar Rapids, Iowa, United States | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
