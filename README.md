@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5cf617c8e3a473cb8b347b?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD, United States | On Site | Jul 19 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a555aa2ae07d60a8d010c71?utm_campaign=1051&utm_source=git)** | San Diego, CA, United States | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5cf617c8e3a473cb8b347b?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD, United States | On Site | Jul 19 |
 | **[Fifth Wheel Freight](https://www.fwf.com/)** | **[Sales Internship - Fall 2026](https://jobright.ai/jobs/info/6a35a1307f3fdd180d4ce5a8?utm_campaign=1051&utm_source=git)** | Kentwood, Michigan, United States | On Site | Jul 19 |
 | **[Ensemble](https://ensembletravel.ca/)** | **[Intern - Partner Relations](https://jobright.ai/jobs/info/6a5128be78e364789ca596b1?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 19 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5cef37686b4755d1e1cbc1?utm_campaign=1051&utm_source=git)** | Naperville, IL, US | On Site | Jul 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5be022c8e3a473cb8b1036?utm_campaign=1051&utm_source=git)** | Crown Point, IN, United States | On Site | Jul 18 |
 | **[Soccer Purpose](https://soccerpurpose.com)** | **[Build the Future of Youth Soccer Founding Partners / Strategic Investors / Co-Founders / Growth Leaders](https://jobright.ai/jobs/info/6a5be01e3ac7627fe900940a?utm_campaign=1051&utm_source=git)** | Sacramento, CA | Hybrid | Jul 18 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5bd8d463a8f619507cc15a?utm_campaign=1051&utm_source=git)** | Bloomington, IL, United States | On Site | Jul 18 |
-| **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a5505a12084cd792b47589a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
