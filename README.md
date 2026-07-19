@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d3de9686b4755d1e1d41a?utm_campaign=1051&utm_source=git)** | Leawood, KS, United States | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d3db1856af468ab010874?utm_campaign=1051&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a557548268af95237bebed3?utm_campaign=1051&utm_source=git)** | W Des Moines, IA, United States | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5a1823686b4755d1e13594?utm_campaign=1051&utm_source=git)** | Downers Grove, IL, United States | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a54b945065af01f337cab00?utm_campaign=1051&utm_source=git)** | US-CA-Campbell | On Site | Jul 19 |
+| **[Besty AI](https://getbesty.ai)** | **[Sales Development Representative Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5d3664686b4755d1e1d315?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 19 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d278d686b4755d1e1d13c?utm_campaign=1051&utm_source=git)** | Williamsburg, VA, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d2725c8e3a473cb8b39aa?utm_campaign=1051&utm_source=git)** | Denver, CO, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d2674686b4755d1e1d11c?utm_campaign=1051&utm_source=git)** | Red Bank, NJ, United States | On Site | Jul 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Puff Media](https://www.puffmedia.co/)** | **[E-Commerce and Media Intern](https://jobright.ai/jobs/info/6a5c9671686b4755d1e1c133?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Jul 18 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a53bd7ed007ee02d95fc5a5?utm_campaign=1051&utm_source=git)** | Charlotte, NC, US | On Site | Jul 18 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c1f75c8e3a473cb8b18c1?utm_campaign=1051&utm_source=git)** | Rosemont, IL, US | On Site | Jul 18 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c1f723ac7627fe9009c3d?utm_campaign=1051&utm_source=git)** | Portage, MI, United States | On Site | Jul 18 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c1f72686b4755d1e1b0be?utm_campaign=1051&utm_source=git)** | Mendota Hts, MN, United States | On Site | Jul 18 |
-| **[Stone Graphic and Web Design](https://stonegraphicandwebdesign.ca/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a5c1c10856af468ab00e48b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 18 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51bbbb57513b72e0c66dc0?utm_campaign=1051&utm_source=git)** | Columbia, SC, United States | On Site | Jul 18 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c082a63a8f619507cc79c?utm_campaign=1051&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 18 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c0757686b4755d1e1ada8?utm_campaign=1051&utm_source=git)** | La Jolla, CA, United States | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
