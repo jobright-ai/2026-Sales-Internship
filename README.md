@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d3de9686b4755d1e1d41a?utm_campaign=1051&utm_source=git)** | Leawood, KS, United States | On Site | Jul 19 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d45ae63a8f619507ceea5?utm_campaign=1051&utm_source=git)** | Tampa, FL, United States | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d3de9686b4755d1e1d41a?utm_campaign=1051&utm_source=git)** | Leawood, KS, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d3db1856af468ab010874?utm_campaign=1051&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a557548268af95237bebed3?utm_campaign=1051&utm_source=git)** | W Des Moines, IA, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5a1823686b4755d1e13594?utm_campaign=1051&utm_source=git)** | Downers Grove, IL, United States | On Site | Jul 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c272a3ac7627fe9009cff?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 18 |
 | **[Puff Media](https://www.puffmedia.co/)** | **[E-Commerce and Media Intern](https://jobright.ai/jobs/info/6a5c9671686b4755d1e1c133?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Jul 18 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a53bd7ed007ee02d95fc5a5?utm_campaign=1051&utm_source=git)** | Charlotte, NC, US | On Site | Jul 18 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c1f75c8e3a473cb8b18c1?utm_campaign=1051&utm_source=git)** | Rosemont, IL, US | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
