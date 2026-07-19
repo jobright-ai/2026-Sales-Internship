@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5cc19b3ac7627fe900b12b?utm_campaign=1051&utm_source=git)** | Virginia Bch, VA, United States | On Site | Jul 19 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5cd00863a8f619507ce283?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5ccfff63a8f619507ce27e?utm_campaign=1051&utm_source=git)** | Wichita, KS, United States | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5cced2686b4755d1e1c81c?utm_campaign=1051&utm_source=git)** | Clearwater, FL, US | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5ccaaf856af468ab00fc5d?utm_campaign=1051&utm_source=git)** | Clayton, MO, United States | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5cc8d84da96a42cfd9d451?utm_campaign=1051&utm_source=git)** | Downers Grove, IL, United States | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5cc8cb4da96a42cfd9d44d?utm_campaign=1051&utm_source=git)** | Olathe, KS, United States | On Site | Jul 19 |
+| **[KWS Group](http://www.kws.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a5cc699686b4755d1e1c703?utm_campaign=1051&utm_source=git)** | Moorhead, MN, United States | On Site | Jul 19 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5cc7be856af468ab00fc06?utm_campaign=1051&utm_source=git)** | Troy, MI, United States | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5cc19b3ac7627fe900b12b?utm_campaign=1051&utm_source=git)** | Virginia Bch, VA, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5cc15663a8f619507cdfd2?utm_campaign=1051&utm_source=git)** | Akron, OH, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5cc07463a8f619507cdfab?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5cb9ca63a8f619507cdf10?utm_campaign=1051&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 19 |
@@ -84,7 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c784e686b4755d1e1be09?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a555ee5f2c46727285f1c8d?utm_campaign=1051&utm_source=git)** | W Des Moines, IA, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c7824c8e3a473cb8b25e9?utm_campaign=1051&utm_source=git)** | Irvine, CA, United States | On Site | Jul 19 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c7800856af468ab00f28a?utm_campaign=1051&utm_source=git)** | Troy, MI, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c7800c8e3a473cb8b25e4?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Jul 19 |
 | **[ZenTrades.AI](https://zentrades.pro/zenfire)** | **[Summer Intern - 2025](https://jobright.ai/jobs/info/6a5c74e563a8f619507cd76f?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 18 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Intern- Peoria, IL Fall 2026](https://jobright.ai/jobs/info/6a5c709b856af468ab00f156?utm_campaign=1051&utm_source=git)** | Peoria, IL, United States | On Site | Jul 18 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57b44310c4d945d8650590?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 18 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a572935f7517b519ad594c6?utm_campaign=1051&utm_source=git)** | Chicago, IL, US | On Site | Jul 18 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5bb351856af468ab00d794?utm_campaign=1051&utm_source=git)** | New Haven, CT, United States | On Site | Jul 18 |
-| **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Purchasing](https://jobright.ai/jobs/info/69af68dbdfaeda6ff5977c01?utm_campaign=1051&utm_source=git)** | Lost Hills, CA | On Site | Jul 18 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5bad1d4da96a42cfd9ae3d?utm_campaign=1051&utm_source=git)** | Camp Hill, PA, United States | On Site | Jul 18 |
-| **[Elixir MultiNational](https://elixirmultinational.us/)** | **[Strategy & Business Development Intern](https://jobright.ai/jobs/info/6a5bad0ac8e3a473cb8b09c9?utm_campaign=1051&utm_source=git)** | Dallas, Dallas, TX, United States | Hybrid | Jul 18 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5bacf84da96a42cfd9ae35?utm_campaign=1051&utm_source=git)** | Leawood, KS, United States | On Site | Jul 18 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a562467efb06a45240d3f6a?utm_campaign=1051&utm_source=git)** | Westlake Village, CA, United States | On Site | Jul 18 |
-| **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Commercial Strategy](https://jobright.ai/jobs/info/6a28fa1a2d6c332ee52e925f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 18 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5ba66363a8f619507cbab6?utm_campaign=1051&utm_source=git)** | Irvine, CA, US | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
