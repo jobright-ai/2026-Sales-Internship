@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d9c163ac7627fe900ccb6?utm_campaign=1051&utm_source=git)** | Beachwood, OH, United States | On Site | Jul 19 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5dac80856af468ab011ffd?utm_campaign=1051&utm_source=git)** | Appleton, WI, United States | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a551ea3f2c46727285efeb5?utm_campaign=1051&utm_source=git)** | Germantown, WI, US | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5dac3c79547a520df5ec7b?utm_campaign=1051&utm_source=git)** | Germantown, WI, United States | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d9c163ac7627fe900ccb6?utm_campaign=1051&utm_source=git)** | Beachwood, OH, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d9ab53ac7627fe900ccb1?utm_campaign=1051&utm_source=git)** | Campbell, CA, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d93fdc8e3a473cb8b4941?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d93d3856af468ab011520?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | On Site | Jul 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c8d153ac7627fe900ab8b?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN, US | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a50f4ff57513b72e0c6293c?utm_campaign=1051&utm_source=git)** | Macon, GA, US | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51d1f6bf63b66c7997d6f9?utm_campaign=1051&utm_source=git)** | Oswego, NY, United States | On Site | Jul 19 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a52b9c5d007ee02d95f8beb?utm_campaign=1051&utm_source=git)** | Middleton, WI, US | On Site | Jul 19 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c7f603ac7627fe900a9c3?utm_campaign=1051&utm_source=git)** | Jersey City, NJ, United States | On Site | Jul 19 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c784e686b4755d1e1be09?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, United States | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
