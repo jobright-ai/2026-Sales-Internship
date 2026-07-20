@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5df35ef3674a0545d265cb?utm_campaign=1051&utm_source=git)** | Canton, OH, United States | On Site | Jul 20 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5df35627bf767ea68f4123?utm_campaign=1051&utm_source=git)** | La Jolla, CA, United States | On Site | Jul 20 |
+| **[BUYMARG](https://www.buymarg.com)** | **[Internship](https://jobright.ai/jobs/info/6a5df017270e3033b045b253?utm_campaign=1051&utm_source=git)** | Home, KS, United States | On Site | Jul 20 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Development Intern (Unpaid)](https://jobright.ai/jobs/info/6a461c780dd56c76cc2f6033?utm_campaign=1051&utm_source=git)** | New York, NY RAI USA, United States of America | Hybrid | Jul 20 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a53a62dd007ee02d95fc130?utm_campaign=1051&utm_source=git)** | Germantown, WI, United States | On Site | Jul 20 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Business Development Intern-Corporate](https://jobright.ai/jobs/info/6a5dead8f3674a0545d264a3?utm_campaign=1051&utm_source=git)** | Portsmouth, NH, United States | On Site | Jul 20 |
+| **[Premier Transformer](https://premier-transformer.com)** | **[Sales Internship (6 Months)](https://jobright.ai/jobs/info/6a5de44095356634d79e27e5?utm_campaign=1051&utm_source=git)** | Princeton, NJ, United States | On Site | Jul 20 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5a67f0856af468ab0085c9?utm_campaign=1051&utm_source=git)** | Farmington, UT, United States | On Site | Jul 20 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5dc98a856af468ab0124f5?utm_campaign=1051&utm_source=git)** | Beachwood, OH, United States | On Site | Jul 20 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5dc868686b4755d1e1f176?utm_campaign=1051&utm_source=git)** | Kng Of Prussia, PA, United States | On Site | Jul 20 |
@@ -64,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5db40b63a8f619507d070f?utm_campaign=1051&utm_source=git)** | Cranberry Twp, PA, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5dac80856af468ab011ffd?utm_campaign=1051&utm_source=git)** | Appleton, WI, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a551ea3f2c46727285efeb5?utm_campaign=1051&utm_source=git)** | Germantown, WI, US | On Site | Jul 19 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5dac3c79547a520df5ec7b?utm_campaign=1051&utm_source=git)** | Germantown, WI, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d9c163ac7627fe900ccb6?utm_campaign=1051&utm_source=git)** | Beachwood, OH, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d9ab53ac7627fe900ccb1?utm_campaign=1051&utm_source=git)** | Campbell, CA, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d93fdc8e3a473cb8b4941?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | On Site | Jul 19 |
@@ -93,8 +99,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d554b4da96a42cfd9e50b?utm_campaign=1051&utm_source=git)** | Saint Louis, MO, United States | On Site | Jul 19 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Sales Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a8698856af468ab008ff2?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 19 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d543fc8e3a473cb8b40c9?utm_campaign=1051&utm_source=git)** | San Marcos, TX, US | On Site | Jul 19 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d4d96856af468ab0109ab?utm_campaign=1051&utm_source=git)** | Atlanta, GA, US | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a535d26e726ec56126a6997?utm_campaign=1051&utm_source=git)** | Carlsbad, CA, United States | On Site | Jul 19 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d4d96856af468ab0109ab?utm_campaign=1051&utm_source=git)** | Atlanta, GA, US | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d4c624da96a42cfd9e1c1?utm_campaign=1051&utm_source=git)** | Lexington, KY, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d45ae63a8f619507ceea5?utm_campaign=1051&utm_source=git)** | Tampa, FL, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d3de9686b4755d1e1d41a?utm_campaign=1051&utm_source=git)** | Leawood, KS, United States | On Site | Jul 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5251bbd007ee02d95f707d?utm_campaign=1051&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5429e5d007ee02d95fddd2?utm_campaign=1051&utm_source=git)** | Mishawaka, IN, United States | On Site | Jul 19 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5ca89a686b4755d1e1c341?utm_campaign=1051&utm_source=git)** | Greenville, SC, United States | On Site | Jul 19 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5ca33a856af468ab00f6c4?utm_campaign=1051&utm_source=git)** | Westlake Vlg, CA, United States | On Site | Jul 19 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a539ec78a74e077472f8fe3?utm_campaign=1051&utm_source=git)** | Farmington, UT, US | On Site | Jul 19 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5ca2413ac7627fe900ad9a?utm_campaign=1051&utm_source=git)** | Memphis, TN, United States | On Site | Jul 19 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5ca20663a8f619507cdc29?utm_campaign=1051&utm_source=git)** | Dayton, OH, United States | On Site | Jul 19 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a512494ae4052672fe975b0?utm_campaign=1051&utm_source=git)** | Chesterfield, MO, United States | On Site | Jul 19 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c9b4a4da96a42cfd9ce29?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
