@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a557506377f983ce8a9a5f0?utm_campaign=1051&utm_source=git)** | La Jolla, CA, United States | On Site | Jul 22 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a548b508a74e077472fc2c3?utm_campaign=1051&utm_source=git)** | Barrington, IL, United States | On Site | Jul 22 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51d3f2bf63b66c7997d8bb?utm_campaign=1051&utm_source=git)** | Aberdeen, SD, United States | On Site | Jul 22 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51cfd302522b5b722ebe93?utm_campaign=1051&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 22 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57eb923330ca6f993c1fdb?utm_campaign=1051&utm_source=git)** | Princeton, NJ, United States | On Site | Jul 22 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a58cc98c8e3a473cb8a2f43?utm_campaign=1051&utm_source=git)** | West Hartford, CT, United States | On Site | Jul 22 |
+| **[Red Bull](https://www.redbull.com/br-pt/amz-tipiti)** | **[2026 Internship, Summer - Corporate Partnerships](https://jobright.ai/jobs/info/6a615167d51f6101c8fbb23e?utm_campaign=1051&utm_source=git)** | Harrison, NJ, United States | On Site | Jul 22 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51c25857513b72e0c67693?utm_campaign=1051&utm_source=git)** | Memphis, TN, United States | On Site | Jul 22 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a556c55f2c46727285f24be?utm_campaign=1051&utm_source=git)** | Albany, NY, United States | On Site | Jul 22 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a54750de726ec56126aa554?utm_campaign=1051&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 22 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a559bfeab67470e148e3475?utm_campaign=1051&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 22 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51ad5dae4052672fe98e00?utm_campaign=1051&utm_source=git)** | Hartford, CT, United States | On Site | Jul 22 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a53a62d8ef95364ead92dd0?utm_campaign=1051&utm_source=git)** | Saint Louis, MO, United States | On Site | Jul 22 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a54050cd007ee02d95fd645?utm_campaign=1051&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 22 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a538151e726ec56126a703c?utm_campaign=1051&utm_source=git)** | Fairfax, VA, United States | On Site | Jul 22 |
 | **[WHYY](http://whyy.org/)** | **[Major Gifts & Donor Relations Intern](https://jobright.ai/jobs/info/6a45283f3dbab558e29a057d?utm_campaign=1051&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 22 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a522ae88576ec69c014abab?utm_campaign=1051&utm_source=git)** | Germantown, WI, United States | On Site | Jul 22 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5266368a74e077472f45ef?utm_campaign=1051&utm_source=git)** | White Plains, NY, United States | On Site | Jul 22 |
@@ -83,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Internship](https://jobright.ai/jobs/info/6a61360f7196365a6f009784?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 22 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a52cb058ef95364ead8fed7?utm_campaign=1051&utm_source=git)** | Wauwatosa, WI, United States | On Site | Jul 22 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51bac057513b72e0c66cc2?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 22 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d1b85856af468ab01030d?utm_campaign=1051&utm_source=git)** | Spokane Valley, WA, United States | On Site | Jul 22 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57dd218f51964c040453fd?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d1b85856af468ab01030d?utm_campaign=1051&utm_source=git)** | Spokane Valley, WA, United States | On Site | Jul 22 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51052178e364789ca58153?utm_campaign=1051&utm_source=git)** | Florham Park, NJ, United States | On Site | Jul 22 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5a17cc63a8f619507c5283?utm_campaign=1051&utm_source=git)** | Naperville, IL, United States | On Site | Jul 22 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a56162d53b3962b910ae37b?utm_campaign=1051&utm_source=git)** | Austin, TX, United States | On Site | Jul 22 |
@@ -112,23 +127,23 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a54c04df7e23d26a08fea40?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 22 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5565d6f2c46727285f1f4b?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 22 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a523a59e726ec56126a2233?utm_campaign=1051&utm_source=git)** | Addison, TX, United States | On Site | Jul 22 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5d1e2bc8e3a473cb8b381e?utm_campaign=1051&utm_source=git)** | Camrose, Alberta, Canada | On Site | Jul 22 |
-| ↳ | **[Cient Advisor](https://jobright.ai/jobs/info/6a60f28bd51f6101c8fb99c7?utm_campaign=1051&utm_source=git)** | Surrey, BC, Canada | On Site | Jul 22 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5e87bbf3674a0545d29a6e?utm_campaign=1051&utm_source=git)** | POWERVIEW-PINE FALLS, Manitoba, Canada | On Site | Jul 22 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5ea3c4270e3033b045f292?utm_campaign=1051&utm_source=git)** | Lethbridge, Alberta, Canada | On Site | Jul 22 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ac410c4d945d864d30f?utm_campaign=1051&utm_source=git)** | Bouctouche, New Brunswick, Canada | On Site | Jul 22 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5f544d193b511309677e03?utm_campaign=1051&utm_source=git)** | Saint John, NB, Canada | On Site | Jul 22 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5e6b95270e3033b045dc3a?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jul 22 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ac221f64463ad35826a?utm_campaign=1051&utm_source=git)** | MIDDLETON, Nova Scotia, Canada | On Site | Jul 22 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a587c9c68d16a30e24136f7?utm_campaign=1051&utm_source=git)** | CHATHAM-KENT, Ontario, Canada | On Site | Jul 22 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a51e4c4ae4052672fe9c8fa?utm_campaign=1051&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jul 22 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ad0f7517b519ad5952d?utm_campaign=1051&utm_source=git)** | Quispamsis, New Brunswick, Canada | On Site | Jul 22 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ac410c4d945d864d30f?utm_campaign=1051&utm_source=git)** | Bouctouche, New Brunswick, Canada | On Site | Jul 22 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a587c9768d16a30e24136f1?utm_campaign=1051&utm_source=git)** | SAINT JOHN, New Brunswick, Canada | On Site | Jul 22 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ae7efb06a45240d969f?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jul 22 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ac221f64463ad35826a?utm_campaign=1051&utm_source=git)** | MIDDLETON, Nova Scotia, Canada | On Site | Jul 22 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5ea3c4270e3033b045f292?utm_campaign=1051&utm_source=git)** | Lethbridge, Alberta, Canada | On Site | Jul 22 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ad121f64463ad358275?utm_campaign=1051&utm_source=git)** | Camrose, Alberta, Canada | On Site | Jul 22 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a587c9c68d16a30e24136f7?utm_campaign=1051&utm_source=git)** | CHATHAM-KENT, Ontario, Canada | On Site | Jul 22 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5fd9418c7fd835513bb75e?utm_campaign=1051&utm_source=git)** | Baddeck, NS, Canada | On Site | Jul 22 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5cc98e856af468ab00fc44?utm_campaign=1051&utm_source=git)** | Burlington, ON, Canada | On Site | Jul 22 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5f84df193b511309678f87?utm_campaign=1051&utm_source=git)** | St. John's, NL, Canada | On Site | Jul 22 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5e6b95270e3033b045dc3a?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jul 22 |
+| ↳ | **[Cient Advisor](https://jobright.ai/jobs/info/6a60f28bd51f6101c8fb99c7?utm_campaign=1051&utm_source=git)** | Surrey, BC, Canada | On Site | Jul 22 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ae7efb06a45240d969f?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jul 22 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a610e99ab9bd467632498f4?utm_campaign=1051&utm_source=git)** | Oakville, ON, Canada | On Site | Jul 22 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5f84df193b511309678f87?utm_campaign=1051&utm_source=git)** | St. John's, NL, Canada | On Site | Jul 22 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5e87bbf3674a0545d29a6e?utm_campaign=1051&utm_source=git)** | POWERVIEW-PINE FALLS, Manitoba, Canada | On Site | Jul 22 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5f544d193b511309677e03?utm_campaign=1051&utm_source=git)** | Saint John, NB, Canada | On Site | Jul 22 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ad0f7517b519ad5952d?utm_campaign=1051&utm_source=git)** | Quispamsis, New Brunswick, Canada | On Site | Jul 22 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a51e4c4ae4052672fe9c8fa?utm_campaign=1051&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jul 22 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5cc98e856af468ab00fc44?utm_campaign=1051&utm_source=git)** | Burlington, ON, Canada | On Site | Jul 22 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5e6b7f270e3033b045dc2e?utm_campaign=1051&utm_source=git)** | CAPE BRETON, Nova Scotia, Canada | On Site | Jul 22 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a53149d9fbdab22fe13e2da?utm_campaign=1051&utm_source=git)** | Tacoma, WA, United States | On Site | Jul 22 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51dbcdae4052672fe9c0ed?utm_campaign=1051&utm_source=git)** | Ontario, CA, United States | On Site | Jul 22 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a562c1ff7517b519ad53fe5?utm_campaign=1051&utm_source=git)** | Middleton, WI, United States | On Site | Jul 22 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a610bb6d51f6101c8fb9d82?utm_campaign=1051&utm_source=git)** | Carlsbad, CA, United States | On Site | Jul 22 |
 | **[Kellie Taylor State Farm Agency](http://www.WeInsureIndy.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a61084fab14335fc0f16638?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 22 |
-| **[rag & bone](http://www.rag-bone.com)** | **[Fall 2026 Internship - Wholesale](https://jobright.ai/jobs/info/6a613225ab9bd46763249dc9?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a529d458576ec69c014cb0b?utm_campaign=1051&utm_source=git)** | Leawood, KS, United States | On Site | Jul 22 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c272a3ac7627fe9009cff?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 22 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5ad1213ac7627fe90052c5?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 22 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a522bdb8a74e077472f363e?utm_campaign=1051&utm_source=git)** | Ormond Beach, FL, United States | On Site | Jul 22 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a50fbd28d7d3e6cf1cbdce8?utm_campaign=1051&utm_source=git)** | Poughkeepsie, NY, United States | On Site | Jul 22 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a58d6bc686b4755d1e0c9cc?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 22 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51ba4302522b5b722ea5a2?utm_campaign=1051&utm_source=git)** | Englewood, CO, United States | On Site | Jul 22 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a5432cce726ec56126a9730?utm_campaign=1051&utm_source=git)** | Liberty Township, OH, United States | On Site | Jul 22 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a55bc1afdf4fa71202b454b?utm_campaign=1051&utm_source=git)** | TULSA, Oklahoma, United States | On Site | Jul 22 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a564711f7517b519ad54913?utm_campaign=1051&utm_source=git)** | MOUNT PLEASANT, SC, United States | On Site | Jul 22 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a609a26129b652e9cd294e7?utm_campaign=1051&utm_source=git)** | Midland, MI, United States | On Site | Jul 22 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a55c139ec54dd532d813247?utm_campaign=1051&utm_source=git)** | Hattiesburg, Mississippi, United States | On Site | Jul 22 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a55c16605c65f7c8f4c72fc?utm_campaign=1051&utm_source=git)** | Lone Tree, Colorado, United States | On Site | Jul 22 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a5905d73ac7627fe9ffcc6f?utm_campaign=1051&utm_source=git)** | Asheville, North Carolina, United States | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
