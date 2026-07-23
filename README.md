@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Sales Intern / Athens](https://jobright.ai/jobs/info/6a628444846162391c936629?utm_campaign=1051&utm_source=git)** | Athens, GA, United States | On Site | Jul 23 |
-| ↳ | **[Sales Intern / Los Angeles](https://jobright.ai/jobs/info/6a628444f805ef6ff4233629?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 23 |
+| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Sales Intern / Los Angeles](https://jobright.ai/jobs/info/6a628444f805ef6ff4233629?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 23 |
+| ↳ | **[Sales Intern / Athens](https://jobright.ai/jobs/info/6a628444846162391c936629?utm_campaign=1051&utm_source=git)** | Athens, GA, United States | On Site | Jul 23 |
 | ↳ | **[Sales Intern / Oklahoma](https://jobright.ai/jobs/info/6a6284411e089c0cc884d08c?utm_campaign=1051&utm_source=git)** | Stillwater, OK, United States | On Site | Jul 23 |
 | ↳ | **[Sales Intern / Lubbock](https://jobright.ai/jobs/info/6a62843f846162391c936628?utm_campaign=1051&utm_source=git)** | Lubbock, TX, United States | On Site | Jul 23 |
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Technical Sales Intern- Tampa](https://jobright.ai/jobs/info/6a6258ea07e15f1ab0e45aa8?utm_campaign=1051&utm_source=git)** | Tampa, FL, United States | On Site | Jul 23 |
@@ -96,25 +96,25 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a626748846162391c935b23?utm_campaign=1051&utm_source=git)** | Flushing, NY, United States | On Site | Jul 23 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a510371bf63b66c799781b8?utm_campaign=1051&utm_source=git)** | Hoover, AL, United States | On Site | Jul 23 |
 | **[Sage V Foods](http://sagevfoods.com/)** | **[Storeroom and Inventory Intern](https://jobright.ai/jobs/info/6a62617a846162391c93583f?utm_campaign=1051&utm_source=git)** | Little Rock, AR, United States | On Site | Jul 23 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ac410c4d945d864d30f?utm_campaign=1051&utm_source=git)** | Bouctouche, New Brunswick, Canada | On Site | Jul 23 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ae7efb06a45240d969f?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jul 23 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5f84df193b511309678f87?utm_campaign=1051&utm_source=git)** | St. John's, NL, Canada | On Site | Jul 23 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ad121f64463ad358275?utm_campaign=1051&utm_source=git)** | Camrose, Alberta, Canada | On Site | Jul 23 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ac221f64463ad35826a?utm_campaign=1051&utm_source=git)** | MIDDLETON, Nova Scotia, Canada | On Site | Jul 23 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a614afbab9bd4676324abfe?utm_campaign=1051&utm_source=git)** | Chatham-Kent, Ontario, Canada | On Site | Jul 23 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5d1e2bc8e3a473cb8b381e?utm_campaign=1051&utm_source=git)** | Camrose, Alberta, Canada | On Site | Jul 23 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5e87bbf3674a0545d29a6e?utm_campaign=1051&utm_source=git)** | POWERVIEW-PINE FALLS, Manitoba, Canada | On Site | Jul 23 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a587c9768d16a30e24136f1?utm_campaign=1051&utm_source=git)** | SAINT JOHN, New Brunswick, Canada | On Site | Jul 23 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a610e99ab9bd467632498f4?utm_campaign=1051&utm_source=git)** | Oakville, ON, Canada | On Site | Jul 23 |
 | ↳ | **[client advisor intern](https://jobright.ai/jobs/info/6a624f36d5caab4af8bad27b?utm_campaign=1051&utm_source=git)** | Fairview, Alberta, Canada | On Site | Jul 23 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a587c9c68d16a30e24136f7?utm_campaign=1051&utm_source=git)** | CHATHAM-KENT, Ontario, Canada | On Site | Jul 23 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a614afbab9bd4676324abfe?utm_campaign=1051&utm_source=git)** | Chatham-Kent, Ontario, Canada | On Site | Jul 23 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5e6b95270e3033b045dc3a?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jul 23 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a60d689a0dbef49469b93ca?utm_campaign=1051&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jul 23 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5e6b95270e3033b045dc3a?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jul 23 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a6162c411edf44d7916090d?utm_campaign=1051&utm_source=git)** | Langley, BC, Canada | On Site | Jul 23 |
 | ↳ | **[Cient Advisor](https://jobright.ai/jobs/info/6a60f28bd51f6101c8fb99c7?utm_campaign=1051&utm_source=git)** | Surrey, BC, Canada | On Site | Jul 23 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5f544d193b511309677e03?utm_campaign=1051&utm_source=git)** | Saint John, NB, Canada | On Site | Jul 23 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5ea3c4270e3033b045f292?utm_campaign=1051&utm_source=git)** | Lethbridge, Alberta, Canada | On Site | Jul 23 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5f544d193b511309677e03?utm_campaign=1051&utm_source=git)** | Saint John, NB, Canada | On Site | Jul 23 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a587c9c68d16a30e24136f7?utm_campaign=1051&utm_source=git)** | CHATHAM-KENT, Ontario, Canada | On Site | Jul 23 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ac221f64463ad35826a?utm_campaign=1051&utm_source=git)** | MIDDLETON, Nova Scotia, Canada | On Site | Jul 23 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ac410c4d945d864d30f?utm_campaign=1051&utm_source=git)** | Bouctouche, New Brunswick, Canada | On Site | Jul 23 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5cc98e856af468ab00fc44?utm_campaign=1051&utm_source=git)** | Burlington, ON, Canada | On Site | Jul 23 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ae7efb06a45240d969f?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jul 23 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5f84df193b511309678f87?utm_campaign=1051&utm_source=git)** | St. John's, NL, Canada | On Site | Jul 23 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a610e99ab9bd467632498f4?utm_campaign=1051&utm_source=git)** | Oakville, ON, Canada | On Site | Jul 23 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a572ad0f7517b519ad5952d?utm_campaign=1051&utm_source=git)** | Quispamsis, New Brunswick, Canada | On Site | Jul 23 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a587c9768d16a30e24136f1?utm_campaign=1051&utm_source=git)** | SAINT JOHN, New Brunswick, Canada | On Site | Jul 23 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5fd9418c7fd835513bb75e?utm_campaign=1051&utm_source=git)** | Baddeck, NS, Canada | On Site | Jul 23 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Development Intern, Fall Internship](https://jobright.ai/jobs/info/6a625ead07e15f1ab0e45cf2?utm_campaign=1051&utm_source=git)** | Washington, DC, United States | On Site | Jul 23 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c01223ac7627fe900989e?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 23 |
