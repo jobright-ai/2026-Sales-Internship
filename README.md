@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5206c68576ec69c014a195?utm_campaign=1051&utm_source=git)** | Memphis, TN, United States | On Site | Jul 26 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5381568a74e077472f8985?utm_campaign=1051&utm_source=git)** | Washington, DC, United States | On Site | Jul 25 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a58dfde4da96a42cfd8dab8?utm_campaign=1051&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 25 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55e209fb802d4ff5017bd3?utm_campaign=1051&utm_source=git)** | Omaha, NE, United States | On Site | Jul 25 |
@@ -86,9 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5223cfe726ec56126a1c43?utm_campaign=1051&utm_source=git)** | Manchester, IA, United States | On Site | Jul 25 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5cee65c8e3a473cb8b340f?utm_campaign=1051&utm_source=git)** | Westport, CT, United States | On Site | Jul 25 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5440228a74e077472fb262?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
-| **[Triumphant Financial Group](https://triumphantfinancialgroup.com/)** | **[College Intern](https://jobright.ai/jobs/info/6a65b4770c8e2b4f36dd41ed?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 25 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/6a65b4635c7e2d715ebb2555?utm_campaign=1051&utm_source=git)** | Wichita Falls, TX, United States | Remote | Jul 25 |
-| **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a59cd14856af468ab0053d0?utm_campaign=1051&utm_source=git)** | Hunt Valley, MD, United States | On Site | Jul 25 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a59cd14856af468ab0053d0?utm_campaign=1051&utm_source=git)** | Hunt Valley, MD, United States | On Site | Jul 25 |
 | **[Swank Motion Pictures, Inc.](https://www.swank.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a5a0c6f686b4755d1e132eb?utm_campaign=1051&utm_source=git)** | Saint Louis, MO, United States | On Site | Jul 25 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55f800efb06a45240d2706?utm_campaign=1051&utm_source=git)** | Charleston, WV, United States | On Site | Jul 25 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a53bd72d007ee02d95fc59f?utm_campaign=1051&utm_source=git)** | Frederick, MD, United States | On Site | Jul 25 |
@@ -141,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5d11ca4da96a42cfd9da70?utm_campaign=1051&utm_source=git)** | Elm Grove, WI, United States | On Site | Jul 25 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51051557513b72e0c63265?utm_campaign=1051&utm_source=git)** | Bethesda, MD, United States | On Site | Jul 25 |
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[2026-27 Merchandise Intern](https://jobright.ai/jobs/info/6a650d365c7e2d715ebb1370?utm_campaign=1051&utm_source=git)** | Duluth, GA, United States | On Site | Jul 25 |
-| **[Triumphant Financial Group](https://triumphantfinancialgroup.com/)** | **[College Intern](https://jobright.ai/jobs/info/6a65b4635c7e2d715ebb2554?utm_campaign=1051&utm_source=git)** | Rockville, MD, United States | Remote | Jul 25 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a528d23d007ee02d95f8138?utm_campaign=1051&utm_source=git)** | Bakersfield, CA, United States | On Site | Jul 25 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a528d368576ec69c014c763?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | On Site | Jul 25 |
 | **[Million Dollar Baby Co. (Babyletto, Namesake, daVinci & Nursery Works)](https://www.milliondollarbabyco.com)** | **[Internship - General](https://jobright.ai/jobs/info/6a650aed0c8e2b4f36dd2fe7?utm_campaign=1051&utm_source=git)** | Pico Rivera, CA, United States | On Site | Jul 25 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Business Development Intern - Fall 2026](https://jobright.ai/jobs/info/6a2c152f7cd40a338fae48d7?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States of America | Hybrid | Jul 25 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Fall Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/6a5053b0397d8d353c28e83d?utm_campaign=1051&utm_source=git)** | Little Rock, AR, United States | On Site | Jul 25 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51e88657513b72e0c69acf?utm_campaign=1051&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 25 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5329f99fbdab22fe13e794?utm_campaign=1051&utm_source=git)** | Middleton, WI, United States | On Site | Jul 25 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a2ae4fc9bf7365df089af7e?utm_campaign=1051&utm_source=git)** | Irving, Texas, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
