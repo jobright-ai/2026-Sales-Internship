@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern/Volunteer Sales Assistant](https://jobright.ai/jobs/info/6a546c728ef95364ead95885?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5927ee63a8f619507c0a52?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC, United States | On Site | Jul 26 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5b0174856af468ab00b443?utm_campaign=1051&utm_source=git)** | Irvine, CA, United States | On Site | Jul 26 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5a2e233ac7627fe9002994?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5381688576ec69c014ff0b?utm_campaign=1051&utm_source=git)** | Duluth, MN, United States | On Site | Jul 26 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a55b258ef22935f2e3f5caa?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD, United States | On Site | Jul 26 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51b90b02522b5b722ea465?utm_campaign=1051&utm_source=git)** | Austin, TX, United States | On Site | Jul 26 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a424b811cc9cc2b12feb5d0?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
