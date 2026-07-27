@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Merchandising & Retail Intern - Fall 2026](https://jobright.ai/jobs/info/6a341fc4f6b55d12c791b1b9?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 27 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a52b2389fbdab22fe13ca32?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI, United States | On Site | Jul 27 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a54c0727aaba06019d04fb0?utm_campaign=1051&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 27 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a54c84a71848b00204334e0?utm_campaign=1051&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 27 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5768b510c4d945d864e1b9?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 27 |
 | **[ANDRITZ Schuler North America](https://www.schulergroup.com/major/us/index.html)** | **[Sales Intern](https://jobright.ai/jobs/info/6a67371f3b5e6b116a54e06c?utm_campaign=1051&utm_source=git)** | Canton, MI, United States | On Site | Jul 27 |
 | **[Linkby](https://linkby.com/)** | **[Partnerships & Growth Intern (Fall/Winter 2026 - NYC)](https://jobright.ai/jobs/info/6a55c9d3ec54dd532d813827?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5710fd53b3962b910b378e?utm_campaign=1051&utm_source=git)** | Austin, TX, United States | On Site | Jul 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5224c18576ec69c014aa5e?utm_campaign=1051&utm_source=git)** | Duluth, MN, United States | On Site | Jul 26 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5a27754da96a42cfd94611?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Jul 26 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51bb7e8d7d3e6cf1cc1edc?utm_campaign=1051&utm_source=git)** | Barrington, IL, United States | On Site | Jul 26 |
-| **[Cornell Global Inc.](www.cornellglobalinc.com)** | **[Entry Level Sales Internship](https://jobright.ai/jobs/info/6a5e5b58f29acc1a11747019?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Jul 26 |
-| **[Y.N. Marketing Solutions Inc](https://ynmarketingsolutionsinc.com)** | **[Entry Level Sales Internship](https://jobright.ai/jobs/info/6a5e8180f29acc1a11747e7c?utm_campaign=1051&utm_source=git)** | Sugar Land, TX, United States | On Site | Jul 26 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5493668a74e077472fc3f8?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 26 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c38b6686b4755d1e1b4ee?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5933f83ac7627fe9ffde89?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
