@@ -57,6 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FRC](https://www.fedresources.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6a5ae7a53ac7627fe90063ec?utm_campaign=1051&utm_source=git)** | Erie, PA, United States | On Site | Aug 01 |
+| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a6da658cd3bac13d3705c9a?utm_campaign=1051&utm_source=git)** | The Colony, TX, United States | Hybrid | Aug 01 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a566e1f10c4d945d864999e?utm_campaign=1051&utm_source=git)** | Dayton, OH, United States | On Site | Aug 01 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c8d5163a8f619507cda12?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 01 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a50f4ec78e364789ca5781d?utm_campaign=1051&utm_source=git)** | Middleton, WI, United States | On Site | Aug 01 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5454e28a74e077472fb735?utm_campaign=1051&utm_source=git)** | Columbia, SC, United States | On Site | Aug 01 |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern - Bilingual Eglish/Mandarin](https://jobright.ai/jobs/info/6a4f13a40ea38951a6ff52af?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 01 |
+| ↳ | **[Intern - Bilingual Eglish/Mandarin](https://jobright.ai/jobs/info/6a45d8e9971cd25b06f89dde?utm_campaign=1051&utm_source=git)** | Pasadena, California, United States of America | On Site | Aug 01 |
+| ↳ | **[Intern - Bilingual English/Spanish](https://jobright.ai/jobs/info/6a45d8e10dd56c76cc2f46cc?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 01 |
+| ↳ | **[Intern - Bilingual English/Spanish](https://jobright.ai/jobs/info/6a46241f07627158752a05f2?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 01 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a2052dcc00e701fe83688ba?utm_campaign=1051&utm_source=git)** | Hagerstown, Maryland, United States of America | On Site | Aug 01 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69cb74de8fc6090c5d457de8?utm_campaign=1051&utm_source=git)** | Hagerstown, Maryland, United States of America | On Site | Aug 01 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a397c3606a4fd4b1faba55f?utm_campaign=1051&utm_source=git)** | Lafayette, Indiana, United States of America | On Site | Aug 01 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a2bba431de59e0682a8a2dd?utm_campaign=1051&utm_source=git)** | Boulder, CO, United States | On Site | Aug 01 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a45d8e50dd56c76cc2f46cd?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 01 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a04bea3f811a0436960e016?utm_campaign=1051&utm_source=git)** | Kingsport, Tennessee, United States of America | On Site | Aug 01 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a32fe95649fdf16292f0286?utm_campaign=1051&utm_source=git)** | Menlo Park, California, United States of America | On Site | Aug 01 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a4624380dd56c76cc2f69e9?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 01 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57eb773330ca6f993c1fd4?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 01 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a549361c8eb0843027b059c?utm_campaign=1051&utm_source=git)** | Elm Grove, WI, United States | On Site | Aug 01 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5f5606f68dd368023e6285?utm_campaign=1051&utm_source=git)** | Carmel, IN, United States | On Site | Aug 01 |
@@ -66,7 +84,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a53ee488a74e077472fa0f3?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL, United States | On Site | Aug 01 |
 | **[UTSA Sports Properties](https://playfly.com/properties/)** | **[Gameday Intern (University of Central Florida)](https://jobright.ai/jobs/info/6a6e9a7aad0fe2053db9e38f?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | On Site | Aug 01 |
 | **[Black Diamond Networks](http://blackdiamondnet.com)** | **[Sales Internship (RI)](https://jobright.ai/jobs/info/6a551a722084cd792b476304?utm_campaign=1051&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 01 |
-| **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a6da658cd3bac13d3705c9a?utm_campaign=1051&utm_source=git)** | The Colony, TX, United States | Hybrid | Aug 01 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a58a27c72fe7a7b98dcfa44?utm_campaign=1051&utm_source=git)** | Logan, UT, United States | On Site | Aug 01 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5950f54da96a42cfd9081c?utm_campaign=1051&utm_source=git)** | Richmond, VA, United States | On Site | Aug 01 |
 | **[Zora Ecosystems](https://zuluforest.com)** | **[Commercial Delivery Intern](https://jobright.ai/jobs/info/6a5760c410c4d945d864de6c?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 01 |
@@ -94,7 +111,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5b9f35856af468ab00d42e?utm_campaign=1051&utm_source=git)** | Jersey City, NJ, United States | On Site | Aug 01 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a53d8e6d007ee02d95fcc5a?utm_campaign=1051&utm_source=git)** | Decatur, IL, United States | On Site | Aug 01 |
 | **[Aflac](http://www.aflac.com)** | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6ed4b641b41d325296c189?utm_campaign=1051&utm_source=git)** | Redlands, CA, United States | Remote | Aug 01 |
-| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e1cb941b41d325296ae1e?utm_campaign=1051&utm_source=git)** | Round Rock, TX, United States | Remote | Aug 01 |
+| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6ee769f5953013637f5833?utm_campaign=1051&utm_source=git)** | Victorville, CA, United States | On Site | Aug 01 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e1cb4160eda5948e8a595?utm_campaign=1051&utm_source=git)** | Taylor, TX, United States | Remote | Aug 01 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e1c20cd3bac13d37069df?utm_campaign=1051&utm_source=git)** | Vacaville, CA, United States | On Site | Aug 01 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e1bc6ad0fe2053db9d52f?utm_campaign=1051&utm_source=git)** | Austin, TX, United States | On Site | Aug 01 |
@@ -105,12 +122,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e18e2cd3bac13d3706984?utm_campaign=1051&utm_source=git)** | Schertz, TX, United States | On Site | Aug 01 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e18e2cd3bac13d3706985?utm_campaign=1051&utm_source=git)** | Benicia, CA, United States | Remote | Aug 01 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e18be160eda5948e8a516?utm_campaign=1051&utm_source=git)** | West Sacramento, CA, United States | Remote | Aug 01 |
-| ↳ | **[Sales Representative - Training Provided!](https://jobright.ai/jobs/info/6a6e18a8c56c0956e8adaaf0?utm_campaign=1051&utm_source=git)** | Diamond Bar, CA, United States | On Site | Aug 01 |
 | ↳ | **[Insurance Sales Representative](https://jobright.ai/jobs/info/6a6e18a641b41d325296ad9a?utm_campaign=1051&utm_source=git)** | Carlsbad, CA, United States | Remote | Aug 01 |
 | ↳ | **[Sales Representative - Training Provided!](https://jobright.ai/jobs/info/6a6e18a2160eda5948e8a511?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | Remote | Aug 01 |
-| ↳ | **[Sales Representative - Training Provided!](https://jobright.ai/jobs/info/6a6e18a1f5953013637f4314?utm_campaign=1051&utm_source=git)** | Glendora, CA, United States | Remote | Aug 01 |
-| ↳ | **[Insurance Sales Representative](https://jobright.ai/jobs/info/6a6e18a0c56c0956e8adaaee?utm_campaign=1051&utm_source=git)** | Escondido, CA, United States | On Site | Aug 01 |
-| ↳ | **[Sales Representative - Full Training!](https://jobright.ai/jobs/info/6a6e189bc56c0956e8adaaed?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 01 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5b96d54da96a42cfd9ab6c?utm_campaign=1051&utm_source=git)** | Woodland Hills, CA, United States | On Site | Aug 01 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Business Development Internship (Fall 2026)](https://jobright.ai/jobs/info/6a6e088f41b41d325296ac2a?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Remote | Aug 01 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5b8f264da96a42cfd9a9b4?utm_campaign=1051&utm_source=git)** | Naperville, IL, United States | On Site | Aug 01 |
@@ -120,41 +133,28 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5b873b3ac7627fe90087db?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 01 |
 | **[PSVirtualSales](https://www.linkedin.com/company/106884819)** | **[Entrepreneurship Internship](https://jobright.ai/jobs/info/6a6e0550cd3bac13d370679c?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 01 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6a6e0540c56c0956e8ada90c?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 01 |
-| **[Aflac](http://www.aflac.com)** | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6ed374f5953013637f568e?utm_campaign=1051&utm_source=git)** | Sonora, CA, United States | Remote | Aug 01 |
-| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e1c20cd3bac13d37069de?utm_campaign=1051&utm_source=git)** | Kahului, HI, United States | Remote | Aug 01 |
-| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e2027ad0fe2053db9d5ce?utm_campaign=1051&utm_source=git)** | Pearl City, HI, United States | Remote | Aug 01 |
+| **[Aflac](http://www.aflac.com)** | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e2027ad0fe2053db9d5ce?utm_campaign=1051&utm_source=git)** | Pearl City, HI, United States | Remote | Aug 01 |
+| ↳ | **[Sales Representative - Full Training!](https://jobright.ai/jobs/info/6a6e189bc56c0956e8adaaed?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 01 |
+| ↳ | **[Sales Representative - Training Provided!](https://jobright.ai/jobs/info/6a6e18a1f5953013637f4314?utm_campaign=1051&utm_source=git)** | Glendora, CA, United States | Remote | Aug 01 |
+| ↳ | **[Sales Representative - Training Provided!](https://jobright.ai/jobs/info/6a6ee7b1c56c0956e8adbff2?utm_campaign=1051&utm_source=git)** | West Covina, CA, United States | Remote | Aug 01 |
+| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e1cb941b41d325296ae1e?utm_campaign=1051&utm_source=git)** | Round Rock, TX, United States | Remote | Aug 01 |
+| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6ed374f5953013637f568e?utm_campaign=1051&utm_source=git)** | Sonora, CA, United States | Remote | Aug 01 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e202741b41d325296ae9e?utm_campaign=1051&utm_source=git)** | Kapaa, HI, United States | Remote | Aug 01 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6ed15ecd3bac13d3707cb8?utm_campaign=1051&utm_source=git)** | Merced, CA, United States | On Site | Aug 01 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e1c00ad0fe2053db9d53b?utm_campaign=1051&utm_source=git)** | Edmond, OK, United States | On Site | Aug 01 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6ed160c56c0956e8adbe41?utm_campaign=1051&utm_source=git)** | Chico, CA, United States | On Site | Aug 01 |
+| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e1c20cd3bac13d37069de?utm_campaign=1051&utm_source=git)** | Kahului, HI, United States | Remote | Aug 01 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e1bccf5953013637f4368?utm_campaign=1051&utm_source=git)** | Norman, OK, United States | Remote | Aug 01 |
+| ↳ | **[Insurance Sales Representative](https://jobright.ai/jobs/info/6a6e18a5c56c0956e8adaaef?utm_campaign=1051&utm_source=git)** | Oceanside, CA, United States | Remote | Aug 01 |
+| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6ed17041b41d325296c148?utm_campaign=1051&utm_source=git)** | Tracy, CA, United States | Remote | Aug 01 |
+| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6ee896f5953013637f585a?utm_campaign=1051&utm_source=git)** | Richmond, CA, United States | Remote | Aug 01 |
+| ↳ | **[Sales Representative - Training Provided!](https://jobright.ai/jobs/info/6a6e18a8c56c0956e8adaaf0?utm_campaign=1051&utm_source=git)** | Diamond Bar, CA, United States | On Site | Aug 01 |
+| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e268841b41d325296b029?utm_campaign=1051&utm_source=git)** | McPherson, KS, United States | Remote | Aug 01 |
+| ↳ | **[Insurance Sales Representative](https://jobright.ai/jobs/info/6a6e18a0c56c0956e8adaaee?utm_campaign=1051&utm_source=git)** | Escondido, CA, United States | On Site | Aug 01 |
+| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6ee0f7cd3bac13d3707df6?utm_campaign=1051&utm_source=git)** | Reno, NV, United States | On Site | Aug 01 |
+| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6ed9b5f5953013637f56ef?utm_campaign=1051&utm_source=git)** | Vallejo, CA, United States | Remote | Aug 01 |
+| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e18fbad0fe2053db9d4dc?utm_campaign=1051&utm_source=git)** | Decatur, TX, United States | On Site | Aug 01 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6ed3dac56c0956e8adbe69?utm_campaign=1051&utm_source=git)** | Stockton, CA, United States | Remote | Aug 01 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e463dcd3bac13d3706f33?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, United States | Remote | Aug 01 |
-| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e18fbad0fe2053db9d4dc?utm_campaign=1051&utm_source=git)** | Decatur, TX, United States | On Site | Aug 01 |
-| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e268841b41d325296b029?utm_campaign=1051&utm_source=git)** | McPherson, KS, United States | Remote | Aug 01 |
-| ↳ | **[Insurance Sales Representative](https://jobright.ai/jobs/info/6a6e18a5c56c0956e8adaaef?utm_campaign=1051&utm_source=git)** | Oceanside, CA, United States | Remote | Aug 01 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e1c1bf5953013637f437b?utm_campaign=1051&utm_source=git)** | Hilo, HI, United States | Remote | Aug 01 |
-| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6ed17041b41d325296c148?utm_campaign=1051&utm_source=git)** | Tracy, CA, United States | Remote | Aug 01 |
-| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e1bc9160eda5948e8a570?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK, United States | Remote | Aug 01 |
-| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e18e2cd3bac13d3706986?utm_campaign=1051&utm_source=git)** | Weatherford, TX, United States | Remote | Aug 01 |
-| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e1c19cd3bac13d37069dc?utm_campaign=1051&utm_source=git)** | Honolulu, HI, United States | On Site | Aug 01 |
-| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6ed5cc41b41d325296c194?utm_campaign=1051&utm_source=git)** | Eureka, CA, United States | On Site | Aug 01 |
-| ↳ | **[Sales Representative - Training Provided!](https://jobright.ai/jobs/info/6a6ed4f9c56c0956e8adbe8f?utm_campaign=1051&utm_source=git)** | Downey, CA, United States | On Site | Aug 01 |
-| ↳ | **[Insurance Sales Representative](https://jobright.ai/jobs/info/6a6e18a3160eda5948e8a512?utm_campaign=1051&utm_source=git)** | San Diego, CA, United States | Remote | Aug 01 |
-| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e22a1ad0fe2053db9d630?utm_campaign=1051&utm_source=git)** | Hutchinson, KS, United States | On Site | Aug 01 |
-| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e203441b41d325296aea1?utm_campaign=1051&utm_source=git)** | Waipahu, HI, United States | Remote | Aug 01 |
-| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a6e1c05160eda5948e8a57e?utm_campaign=1051&utm_source=git)** | Wichita, KS, United States | Remote | Aug 01 |
-| **[Bank of China USA](https://www.bocusa.com)** | **[QNB Business Development Intern](https://jobright.ai/jobs/info/6a5287e3e726ec56126a3768?utm_campaign=1051&utm_source=git)** | Flushing, NY, United States | On Site | Aug 01 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5e8b2867b2850e77df1ec5?utm_campaign=1051&utm_source=git)** | Irvine, CA, United States | On Site | Aug 01 |
-| **[KHAITE](https://khaite.com/)** | **[Wholesale Intern, Fall 2026](https://jobright.ai/jobs/info/6a51c6d057513b72e0c67aef?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
-| **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Wholesale](https://jobright.ai/jobs/info/6a513cea8d7d3e6cf1cc0268?utm_campaign=1051&utm_source=git)** | Stamford, CT, United States | On Site | Aug 01 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5249ea8576ec69c014b471?utm_campaign=1051&utm_source=git)** | Honolulu, HI, United States | On Site | Aug 01 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5b714f856af468ab00cd6f?utm_campaign=1051&utm_source=git)** | Coralville, IA, United States | On Site | Aug 01 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Commercial Strategy (Summer 2027)](https://jobright.ai/jobs/info/6a2f71ddafabbe533fb87572?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 01 |
-| **[The D. E. Shaw Group](https://www.deshaw.com)** | **[Strategy and Business Development Intern (New York) - Summer 2027](https://jobright.ai/jobs/info/6a6de57341b41d325296a741?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5421f28ef95364ead94938?utm_campaign=1051&utm_source=git)** | Birmingham, AL, United States | On Site | Aug 01 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5b6a694da96a42cfd9a3c3?utm_campaign=1051&utm_source=git)** | Delafield, WI, United States | On Site | Aug 01 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a529bb3e726ec56126a3c4b?utm_campaign=1051&utm_source=git)** | Middleton, WI, United States | On Site | Aug 01 |
-| **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Retail Operations](https://jobright.ai/jobs/info/6a513cf178e364789ca5a0b5?utm_campaign=1051&utm_source=git)** | Stamford, CT, United States | On Site | Aug 01 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a522be08576ec69c014abde?utm_campaign=1051&utm_source=git)** | Sunset Hills, MO, United States | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
