@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern](https://jobright.ai/jobs/info/6a7a726e9ee17f276dbf3212?utm_campaign=1051&utm_source=git)** | Mansfield, LA, United States | On Site | Aug 10 |
+| **[Jacobs](http://www.jacobs.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a7a70449ee17f276dbf3100?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Aug 10 |
+| ↳ | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a7a7033a26ccc369f83e546?utm_campaign=1051&utm_source=git)** | Denver, CO, United States | Hybrid | Aug 10 |
+| ↳ | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a7a702567a1ad0bc53d3620?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 10 |
+| **[Love's Travel Stops](http://www.loves.com)** | **[Fleet Sales Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7a6fbab17cba5690367233?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 10 |
+| **[Digital Alpha Platforms](https://www.digital-alpha.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a7a6efdb17cba56903671fb?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 10 |
+| **[Keen](https://keenapps.co/)** | **[Leasing & Activations Intern](https://jobright.ai/jobs/info/6a7a6ea2bb6ca93ae561bace?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 10 |
 | **[Pettibone](https://www.gopettibone.com)** | **[Aftermarket Buyer Intern - PTL](https://jobright.ai/jobs/info/6a7a2674b17cba5690365a88?utm_campaign=1051&utm_source=git)** | Baraga, MI, United States | On Site | Aug 10 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a7a6804b17cba569036707c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 10 |
 | **[Propra](https://propra.tech)** | **[Business Development Internship](https://jobright.ai/jobs/info/6a7a1ecf67a1ad0bc53d1b04?utm_campaign=1051&utm_source=git)** | Calgary, AB, Canada | On Site | Aug 10 |
@@ -104,9 +111,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/6a7a1b6cbb6ca93ae5619f0c?utm_campaign=1051&utm_source=git)** | Van, TX, United States | On Site | Aug 10 |
 | **[EduLink Global Education](https://www.linkedin.com/company/107906826)** | **[Growth & Partnerships Intern / Mandarin Required / CPT/OPT Welcome](https://jobright.ai/jobs/info/6a7a35e167a1ad0bc53d2278?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Remote | Aug 10 |
 | **[PEAK6](https://www.peak6.com)** | **[Trading Internship for Women+](https://jobright.ai/jobs/info/6a79f953b17cba56903649c4?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Aug 10 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a79ce449ee17f276dbef982?utm_campaign=1051&utm_source=git)** | Buda, TX, United States | On Site | Aug 10 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a2ae4fc9bf7365df089af7e?utm_campaign=1051&utm_source=git)** | Irving, Texas, United States | On Site | Aug 10 |
 | ↳ | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a511f4fae4052672fe971a0?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Aug 10 |
-| ↳ | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a2ae4fc9bf7365df089af7e?utm_campaign=1051&utm_source=git)** | Irving, Texas, United States | On Site | Aug 10 |
+| ↳ | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a79ce449ee17f276dbef982?utm_campaign=1051&utm_source=git)** | Buda, TX, United States | On Site | Aug 10 |
 | **[Midwest Groundcovers](https://www.midwestgroundcovers.com/)** | **[Wholesale & U-Pick Operations Intern](https://jobright.ai/jobs/info/6a7a5ecdab1385611f8fee44?utm_campaign=1051&utm_source=git)** | Saint Charles, IL, United States | On Site | Aug 10 |
 | **[Bosch](http://www.bosch.com)** | **[AM/SCC-Sales Controlling and Coordination Intern](https://jobright.ai/jobs/info/6a7a0f04b17cba56903652e2?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI, United States | Hybrid | Aug 10 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern (Volunteer)](https://jobright.ai/jobs/info/6a7a0bb0ab1385611f8fd0e5?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 10 |
@@ -140,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Corporate Partnership Internship](https://jobright.ai/jobs/info/6a78db967b3417772adec14d?utm_campaign=1051&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 09 |
 | **[TD](https://www.td.com)** | **[Intern/ Co-op Fall 2026](https://jobright.ai/jobs/info/6a7801927b3417772adeb2a4?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 09 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[TractorHouse Sales Intern](https://jobright.ai/jobs/info/664e9858f97ff61ecf83b39e?utm_campaign=1051&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 09 |
-| **[IIRR](http://www.iirr.org)** | **[Fundraising Officer - Intern](https://jobright.ai/jobs/info/698a36360f6f7e7a2ce547e9?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 09 |
+| **[IIRR](http://www.iirr.org)** | **[Fundraising Officer - Intern](https://jobright.ai/jobs/info/6a6b256e5c54bc4752ce74f8?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 09 |
 | **[Toro Marketing Group](https://www.torogrouptx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a787b9e4817aa430704bc3b?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | On Site | Aug 09 |
 | **[MARKHAM](https://www.markham.co/)** | **[New Business Development Intern](https://jobright.ai/jobs/info/6a7207a2cb96192a3684b866?utm_campaign=1051&utm_source=git)** | Washington, DC, United States | On Site | Aug 09 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[FY27 Intern - Business Development/Sales intern - Colombia Remote](https://jobright.ai/jobs/info/6a51d9d6ae4052672fe9bec8?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 09 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Hammond Power Solutions](https://www.hammondpowersolutions.com)** | **[CRM Intern](https://jobright.ai/jobs/info/6a04b01cf811a0436960da6f?utm_campaign=1051&utm_source=git)** | Baraboo, WI | Hybrid | Aug 08 |
 | **[Liberated People](http://www.weareliberated.com)** | **[Retail e-commerce Business Management Internship](https://jobright.ai/jobs/info/6a53c3b5e726ec56126a7e69?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Aug 08 |
 | **[Harbour Capital Corporation](http://harbourcapital.com)** | **[2025 SUMMER SALES INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/6a77fba467a1ad0bc53cd31e?utm_campaign=1051&utm_source=git)** | Newington, NH, United States | On Site | Aug 08 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a5f86cd193b5113096790c4?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | On Site | Aug 08 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a574b0821f64463ad358a1f?utm_campaign=1051&utm_source=git)** | Evergreen Park, IL, United States | On Site | Aug 08 |
-| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Aug 08 |
-| **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695dc2f5efe5dd5cbd3d9cc2?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Aug 08 |
-| **[GigFinesse](https://www.gigfinesse.com/)** | **[Sales Market Research Intern (Fall 2026)](https://jobright.ai/jobs/info/6a613226eaa37f43e75872b3?utm_campaign=1051&utm_source=git)** | Austin, TX, United States | Remote | Aug 08 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a5555a5377f983ce8a9976d?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Aug 08 |
-| ↳ | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a760c4c4817aa4307046658?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Aug 08 |
-| ↳ | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a560da410c4d945d864751d?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Aug 08 |
+| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
