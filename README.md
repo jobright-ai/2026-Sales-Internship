@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-CINCINNATI](https://jobright.ai/jobs/info/6946bc6e7d506e3808f21c10?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Aug 10 |
+| ↳ | **[PHARMACY/PHARMCST-INTERN Store 315](https://jobright.ai/jobs/info/6a695ff13b549b0b531d52b9?utm_campaign=1051&utm_source=git)** | Las Vegas, NV, United States | On Site | Aug 10 |
+| ↳ | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/69743f39206da320f49e6467?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Aug 10 |
+| **[Credo Beauty](https://credobeauty.com/)** | **[Qualified Partnership Intern](https://jobright.ai/jobs/info/6a63ab930c8e2b4f36dcf1b0?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 10 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Intern - Fall](https://jobright.ai/jobs/info/6a55a592fdf4fa71202b37f5?utm_campaign=1051&utm_source=git)** | Athens, GA, United States | On Site | Aug 10 |
+| **[Ferguson](http://www.ferguson.com)** | **[Sales Internship Program](https://jobright.ai/jobs/info/6a7a46cba26ccc369f83d9be?utm_campaign=1051&utm_source=git)** | West Chicago, IL, United States | On Site | Aug 10 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern](https://jobright.ai/jobs/info/6a7a726e9ee17f276dbf3212?utm_campaign=1051&utm_source=git)** | Mansfield, LA, United States | On Site | Aug 10 |
 | **[Jacobs](http://www.jacobs.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a7a70449ee17f276dbf3100?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Aug 10 |
 | ↳ | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a7a7033a26ccc369f83e546?utm_campaign=1051&utm_source=git)** | Denver, CO, United States | Hybrid | Aug 10 |
@@ -106,14 +112,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/6a7a1b77bb6ca93ae5619f15?utm_campaign=1051&utm_source=git)** | Hudson, CO, United States | On Site | Aug 10 |
 | ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/6a7a1b729ee17f276dbf1474?utm_campaign=1051&utm_source=git)** | Hillsboro, TN, United States | On Site | Aug 10 |
 | ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/6a7a1b70a26ccc369f83c940?utm_campaign=1051&utm_source=git)** | Albany, OR, United States | On Site | Aug 10 |
-| ↳ | **[Retail Management Intern (Von Ormy, TX - Summer 2027)](https://jobright.ai/jobs/info/6a7a1b6db17cba5690365715?utm_campaign=1051&utm_source=git)** | Von Ormy, TX, United States | On Site | Aug 10 |
 | ↳ | **[Retail Management Intern ( Hutchins, TX  - Summer 2027)](https://jobright.ai/jobs/info/6a7a1b6d9ee17f276dbf1470?utm_campaign=1051&utm_source=git)** | Hutchins, TX, United States | On Site | Aug 10 |
+| ↳ | **[Retail Management Intern (Von Ormy, TX - Summer 2027)](https://jobright.ai/jobs/info/6a7a1b6db17cba5690365715?utm_campaign=1051&utm_source=git)** | Von Ormy, TX, United States | On Site | Aug 10 |
 | ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/6a7a1b6cbb6ca93ae5619f0c?utm_campaign=1051&utm_source=git)** | Van, TX, United States | On Site | Aug 10 |
 | **[EduLink Global Education](https://www.linkedin.com/company/107906826)** | **[Growth & Partnerships Intern / Mandarin Required / CPT/OPT Welcome](https://jobright.ai/jobs/info/6a7a35e167a1ad0bc53d2278?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Remote | Aug 10 |
 | **[PEAK6](https://www.peak6.com)** | **[Trading Internship for Women+](https://jobright.ai/jobs/info/6a79f953b17cba56903649c4?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Aug 10 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a2ae4fc9bf7365df089af7e?utm_campaign=1051&utm_source=git)** | Irving, Texas, United States | On Site | Aug 10 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a79ce449ee17f276dbef982?utm_campaign=1051&utm_source=git)** | Buda, TX, United States | On Site | Aug 10 |
+| ↳ | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a2ae4fc9bf7365df089af7e?utm_campaign=1051&utm_source=git)** | Irving, Texas, United States | On Site | Aug 10 |
 | ↳ | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a511f4fae4052672fe971a0?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Aug 10 |
-| ↳ | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a79ce449ee17f276dbef982?utm_campaign=1051&utm_source=git)** | Buda, TX, United States | On Site | Aug 10 |
 | **[Midwest Groundcovers](https://www.midwestgroundcovers.com/)** | **[Wholesale & U-Pick Operations Intern](https://jobright.ai/jobs/info/6a7a5ecdab1385611f8fee44?utm_campaign=1051&utm_source=git)** | Saint Charles, IL, United States | On Site | Aug 10 |
 | **[Bosch](http://www.bosch.com)** | **[AM/SCC-Sales Controlling and Coordination Intern](https://jobright.ai/jobs/info/6a7a0f04b17cba56903652e2?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI, United States | Hybrid | Aug 10 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern (Volunteer)](https://jobright.ai/jobs/info/6a7a0bb0ab1385611f8fd0e5?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 10 |
@@ -142,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[ARKINPOINT](https://arkinpoint.com/)** | **[Real Estate Acquisitions Intern](https://jobright.ai/jobs/info/6a792813bb6ca93ae5616cfa?utm_campaign=1051&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Aug 09 |
 | **[AA Metals, Inc](https://aametals.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a63729987cef057612c8a87?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | On Site | Aug 09 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7a3733bb6ca93ae561a897?utm_campaign=1051&utm_source=git)** | Camrose, AB, Canada | On Site | Aug 09 |
-| **[Ferguson](http://www.ferguson.com)** | **[Sales Internship Program](https://jobright.ai/jobs/info/6a7a46cba26ccc369f83d9be?utm_campaign=1051&utm_source=git)** | West Chicago, IL, United States | On Site | Aug 09 |
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Sales Intern Summer 2027 - Northeast Region](https://jobright.ai/jobs/info/6a7a3b969ee17f276dbf20f0?utm_campaign=1051&utm_source=git)** | Dayton, OH, United States | On Site | Aug 09 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Corporate Partnership Internship](https://jobright.ai/jobs/info/6a78db967b3417772adec14d?utm_campaign=1051&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 09 |
 | **[TD](https://www.td.com)** | **[Intern/ Co-op Fall 2026](https://jobright.ai/jobs/info/6a7801927b3417772adeb2a4?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MARKHAM](https://www.markham.co/)** | **[New Business Development Intern](https://jobright.ai/jobs/info/6a7207a2cb96192a3684b866?utm_campaign=1051&utm_source=git)** | Washington, DC, United States | On Site | Aug 09 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[FY27 Intern - Business Development/Sales intern - Colombia Remote](https://jobright.ai/jobs/info/6a51d9d6ae4052672fe9bec8?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 09 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2026/27](https://jobright.ai/jobs/info/6a7227f902d93145bf892dfb?utm_campaign=1051&utm_source=git)** | Glastonbury, CT, United States | On Site | Aug 09 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Ticket Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a83064da96a42cfd965be?utm_campaign=1051&utm_source=git)** | Washington, DC, United States | On Site | Aug 09 |
-| **[Hammond Power Solutions](https://www.hammondpowersolutions.com)** | **[CRM Intern](https://jobright.ai/jobs/info/6a04b01cf811a0436960da6f?utm_campaign=1051&utm_source=git)** | Baraboo, WI | Hybrid | Aug 08 |
-| **[Liberated People](http://www.weareliberated.com)** | **[Retail e-commerce Business Management Internship](https://jobright.ai/jobs/info/6a53c3b5e726ec56126a7e69?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Aug 08 |
-| **[Harbour Capital Corporation](http://harbourcapital.com)** | **[2025 SUMMER SALES INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/6a77fba467a1ad0bc53cd31e?utm_campaign=1051&utm_source=git)** | Newington, NH, United States | On Site | Aug 08 |
-| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
