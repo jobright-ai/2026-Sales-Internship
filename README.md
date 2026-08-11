@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pettibone](https://www.gopettibone.com)** | **[Aftermarket Buyer Intern - PTL](https://jobright.ai/jobs/info/6a7a2674b17cba5690365a88?utm_campaign=1051&utm_source=git)** | Baraga, MI, United States | On Site | Aug 10 |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a7a6804b17cba569036707c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 10 |
+| **[Propra](https://propra.tech)** | **[Business Development Internship](https://jobright.ai/jobs/info/6a7a1ecf67a1ad0bc53d1b04?utm_campaign=1051&utm_source=git)** | Calgary, AB, Canada | On Site | Aug 10 |
 | **[Jacobs](http://www.jacobs.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6a7a5d4ea26ccc369f83e103?utm_campaign=1051&utm_source=git)** | Arlington, VA, United States | Hybrid | Aug 10 |
+| **[OH.io](https://oh.io)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a7a1110ab1385611f8fd294?utm_campaign=1051&utm_source=git)** | Columbus, OH, United States | On Site | Aug 10 |
 | **[Adaptive Security](https://www.adaptivesecurity.com)** | **[GTM Intern (Fall)](https://jobright.ai/jobs/info/6a7a379c9ee17f276dbf1e90?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA, United States | On Site | Aug 10 |
 | **[9Rooftops](https://9rooftops.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6a7a4d43a26ccc369f83dba2?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 10 |
 | **[BUYMARG](https://www.buymarg.com)** | **[Internship](https://jobright.ai/jobs/info/6a7a486ebb6ca93ae561b010?utm_campaign=1051&utm_source=git)** | Kansas, United States | On Site | Aug 10 |
@@ -71,8 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ADIP Sales Engineer Intern-Summer 2027](https://jobright.ai/jobs/info/6a7a2f93bb6ca93ae561a4df?utm_campaign=1051&utm_source=git)** | Birmingham, AL, United States | On Site | Aug 10 |
 | **[Axia Growth](https://www.axiagrowth.com/)** | **[M&A Accelerator Intern](https://jobright.ai/jobs/info/6a7a2eaa67a1ad0bc53d1f4d?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 10 |
 | **[Suburban Inns](http://suburbaninns.com)** | **[Guest Service Representative - Hilton Garden Inn GR](https://jobright.ai/jobs/info/6a7a2e32a26ccc369f83ce89?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | On Site | Aug 10 |
-| **[Pettibone](https://www.gopettibone.com)** | **[Aftermarket Buyer Intern - PTL](https://jobright.ai/jobs/info/6a7a2674b17cba5690365a88?utm_campaign=1051&utm_source=git)** | Baraga, MI, United States | On Site | Aug 10 |
-| **[Propra](https://propra.tech)** | **[Business Development Internship](https://jobright.ai/jobs/info/6a7a1ecf67a1ad0bc53d1b04?utm_campaign=1051&utm_source=git)** | Calgary, AB, Canada | On Site | Aug 10 |
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a7a1d1867a1ad0bc53d1a4c?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 10 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Lufkin, TX - Summer 2027)](https://jobright.ai/jobs/info/6a7a39029ee17f276dbf1f44?utm_campaign=1051&utm_source=git)** | Lufkin, TX, United States | On Site | Aug 10 |
 | ↳ | **[Retail Management Intern (Valley, NE - Summer 2027)](https://jobright.ai/jobs/info/6a7a3908bb6ca93ae561a9ae?utm_campaign=1051&utm_source=git)** | Valley, NE, United States | On Site | Aug 10 |
@@ -87,8 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Intern (Menomonie, WI - Summer 2027)](https://jobright.ai/jobs/info/6a7a1b9cbb6ca93ae5619f27?utm_campaign=1051&utm_source=git)** | Menomonie, WI, United States | On Site | Aug 10 |
 | ↳ | **[Retail Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7a1b9aab1385611f8fd640?utm_campaign=1051&utm_source=git)** | Berthoud, CO, United States | On Site | Aug 10 |
 | ↳ | **[Retail Management Intern (Bates City, MO - Summer 2027)](https://jobright.ai/jobs/info/6a7a1b99b17cba5690365727?utm_campaign=1051&utm_source=git)** | Bates City, MO, United States | On Site | Aug 10 |
-| ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/6a7a1b96bb6ca93ae5619f25?utm_campaign=1051&utm_source=git)** | Roseburg, OR, United States | On Site | Aug 10 |
 | ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/6a7a1b96b17cba5690365721?utm_campaign=1051&utm_source=git)** | Bridgeton, MO, United States | On Site | Aug 10 |
+| ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/6a7a1b96bb6ca93ae5619f25?utm_campaign=1051&utm_source=git)** | Roseburg, OR, United States | On Site | Aug 10 |
 | ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/6a7a1b8c9ee17f276dbf147d?utm_campaign=1051&utm_source=git)** | Idaho Falls, ID, United States | On Site | Aug 10 |
 | ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/6a7a1b8abb6ca93ae5619f21?utm_campaign=1051&utm_source=git)** | Brighton, Colorado, United States | On Site | Aug 10 |
 | ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/6a7a1b8067a1ad0bc53d19ba?utm_campaign=1051&utm_source=git)** | Springville, UT, United States | On Site | Aug 10 |
@@ -103,9 +105,8 @@ For a complete list, click the following sortable link below:
 | **[EduLink Global Education](https://www.linkedin.com/company/107906826)** | **[Growth & Partnerships Intern / Mandarin Required / CPT/OPT Welcome](https://jobright.ai/jobs/info/6a7a35e167a1ad0bc53d2278?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Remote | Aug 10 |
 | **[PEAK6](https://www.peak6.com)** | **[Trading Internship for Women+](https://jobright.ai/jobs/info/6a79f953b17cba56903649c4?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Aug 10 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a79ce449ee17f276dbef982?utm_campaign=1051&utm_source=git)** | Buda, TX, United States | On Site | Aug 10 |
-| ↳ | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a2ae4fc9bf7365df089af7e?utm_campaign=1051&utm_source=git)** | Irving, Texas, United States | On Site | Aug 10 |
 | ↳ | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a511f4fae4052672fe971a0?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Aug 10 |
-| **[OH.io](https://oh.io)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6a7a1110ab1385611f8fd294?utm_campaign=1051&utm_source=git)** | Columbus, OH, United States | On Site | Aug 10 |
+| ↳ | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a2ae4fc9bf7365df089af7e?utm_campaign=1051&utm_source=git)** | Irving, Texas, United States | On Site | Aug 10 |
 | **[Midwest Groundcovers](https://www.midwestgroundcovers.com/)** | **[Wholesale & U-Pick Operations Intern](https://jobright.ai/jobs/info/6a7a5ecdab1385611f8fee44?utm_campaign=1051&utm_source=git)** | Saint Charles, IL, United States | On Site | Aug 10 |
 | **[Bosch](http://www.bosch.com)** | **[AM/SCC-Sales Controlling and Coordination Intern](https://jobright.ai/jobs/info/6a7a0f04b17cba56903652e2?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI, United States | Hybrid | Aug 10 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern (Volunteer)](https://jobright.ai/jobs/info/6a7a0bb0ab1385611f8fd0e5?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 10 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Hammond Power Solutions](https://www.hammondpowersolutions.com)** | **[CRM Intern](https://jobright.ai/jobs/info/6a04b01cf811a0436960da6f?utm_campaign=1051&utm_source=git)** | Baraboo, WI | Hybrid | Aug 08 |
 | **[Liberated People](http://www.weareliberated.com)** | **[Retail e-commerce Business Management Internship](https://jobright.ai/jobs/info/6a53c3b5e726ec56126a7e69?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Aug 08 |
 | **[Harbour Capital Corporation](http://harbourcapital.com)** | **[2025 SUMMER SALES INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/6a77fba467a1ad0bc53cd31e?utm_campaign=1051&utm_source=git)** | Newington, NH, United States | On Site | Aug 08 |
-| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Aug 08 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a5f86cd193b5113096790c4?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | On Site | Aug 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a574b0821f64463ad358a1f?utm_campaign=1051&utm_source=git)** | Evergreen Park, IL, United States | On Site | Aug 08 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5f86cd193b5113096790c4?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | On Site | Aug 08 |
+| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Aug 08 |
+| **[Graco](http://graco.com/in/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/695dc2f5efe5dd5cbd3d9cc2?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Aug 08 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Sales Market Research Intern (Fall 2026)](https://jobright.ai/jobs/info/6a613226eaa37f43e75872b3?utm_campaign=1051&utm_source=git)** | Austin, TX, United States | Remote | Aug 08 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a5555a5377f983ce8a9976d?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Aug 08 |
-| ↳ | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a6d095c57120971bf3aea01?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Aug 08 |
 | ↳ | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a760c4c4817aa4307046658?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Aug 08 |
 | ↳ | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a560da410c4d945d864751d?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Aug 08 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual International Sales Intern (Mexico)](https://jobright.ai/jobs/info/65086fe6b1e91ec1ac9bcf1c?utm_campaign=1051&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
