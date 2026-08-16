@@ -91,29 +91,30 @@ For a complete list, click the following sortable link below:
 | **[PRAB, Inc.](https://www.prab.org/)** | **[Development & Fundraising Intern](https://jobright.ai/jobs/info/6a55cd98fdf4fa71202b556e?utm_campaign=1051&utm_source=git)** | East Brunswick, NJ, United States | On Site | Aug 14 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Analyst Intern](https://jobright.ai/jobs/info/6a7f6ac5ad9ff00c26bae117?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 14 |
 | **[IBM](http://www.ibm.com)** | **[Solution Architect Intern - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a7fcd41b56bea5779c0f581?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Aug 14 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a5f86cd193b5113096790c4?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | On Site | Aug 14 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a574b0821f64463ad358a1f?utm_campaign=1051&utm_source=git)** | Evergreen Park, IL, United States | On Site | Aug 14 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a574b0821f64463ad358a1f?utm_campaign=1051&utm_source=git)** | Evergreen Park, IL, United States | On Site | Aug 14 |
 | ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Aug 14 |
-| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a7f1ff7ad9ff00c26bacb14?utm_campaign=1051&utm_source=git)** | Hamilton, ON, Canada | On Site | Aug 14 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7b01ac15b96f54d63cb535?utm_campaign=1051&utm_source=git)** | Bonnyville, AB, Canada | On Site | Aug 14 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7e2c33e51a1e18a240c7b5?utm_campaign=1051&utm_source=git)** | Burnaby, BC, Canada | On Site | Aug 14 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7a3733bb6ca93ae561a897?utm_campaign=1051&utm_source=git)** | Camrose, AB, Canada | On Site | Aug 14 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7c1549dc3dff2d1c0c616e?utm_campaign=1051&utm_source=git)** | Hamilton, ON, Canada | On Site | Aug 14 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7ca288d77e8156a8e33202?utm_campaign=1051&utm_source=git)** | Halton Hills, Ontario, Canada | On Site | Aug 14 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7e326fe51a1e18a240cb2e?utm_campaign=1051&utm_source=git)** | Baddeck, NS, Canada | On Site | Aug 14 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7cbebddc3dff2d1c0c8dc7?utm_campaign=1051&utm_source=git)** | North Vancouver, BC, Canada | On Site | Aug 14 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7f9fbbe2030208f277019f?utm_campaign=1051&utm_source=git)** | Nelson, BC, Canada | On Site | Aug 14 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7e2c24b56bea5779c04297?utm_campaign=1051&utm_source=git)** | Abbotsford, BC, Canada | On Site | Aug 14 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5f86cd193b5113096790c4?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | On Site | Aug 14 |
+| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a7cd399a346cb6c8d5f0463?utm_campaign=1051&utm_source=git)** | Hamilton, ON, Canada | On Site | Aug 14 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a5e6b95270e3033b045dc3a?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Aug 14 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a717218e2b7476e7b20e1db?utm_campaign=1051&utm_source=git)** | Heart's Content, Newfoundland and Labrador, Canada | On Site | Aug 14 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7e326fe51a1e18a240cb2e?utm_campaign=1051&utm_source=git)** | Baddeck, NS, Canada | On Site | Aug 14 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7e2c24b56bea5779c04297?utm_campaign=1051&utm_source=git)** | Abbotsford, BC, Canada | On Site | Aug 14 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7074f5419cf50d04e41ab7?utm_campaign=1051&utm_source=git)** | Hamilton, ON, Canada | On Site | Aug 14 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a757d8f972ac843c699a105?utm_campaign=1051&utm_source=git)** | Bonnyville, AB, Canada | On Site | Aug 14 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7e4843b56bea5779c04eb2?utm_campaign=1051&utm_source=git)** | Edmonton, AB, Canada | On Site | Aug 14 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7f9fbbe2030208f277019f?utm_campaign=1051&utm_source=git)** | Nelson, BC, Canada | On Site | Aug 14 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7ca288d77e8156a8e33202?utm_campaign=1051&utm_source=git)** | Halton Hills, Ontario, Canada | On Site | Aug 14 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7cbebddc3dff2d1c0c8dc7?utm_campaign=1051&utm_source=git)** | North Vancouver, BC, Canada | On Site | Aug 14 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7a3733bb6ca93ae561a897?utm_campaign=1051&utm_source=git)** | Camrose, AB, Canada | On Site | Aug 14 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7e2c33e51a1e18a240c7b5?utm_campaign=1051&utm_source=git)** | Burnaby, BC, Canada | On Site | Aug 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Brand Partnerships Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7f8972e2030208f276f315?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 14 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern](https://jobright.ai/jobs/info/6a7fb610927c79391ad0c290?utm_campaign=1051&utm_source=git)** | Fargo, ND, United States | On Site | Aug 14 |
 | **[Aflac](http://www.aflac.com)** | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a7ffc5bad9ff00c26bb129d?utm_campaign=1051&utm_source=git)** | Henderson, KY, United States | Remote | Aug 14 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Sales Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a7faf94ad9ff00c26bafcce?utm_campaign=1051&utm_source=git)** | Washington, DC, United States | On Site | Aug 14 |
 | **[Aflac](http://www.aflac.com)** | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a7fe184e51a1e18a241695a?utm_campaign=1051&utm_source=git)** | Portland, ME, United States | Remote | Aug 14 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a7fa7eb927c79391ad0ba11?utm_campaign=1051&utm_source=git)** | Cottage Grove, OR, United States | On Site | Aug 14 |
-| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a7fa802b56bea5779c0de7a?utm_campaign=1051&utm_source=git)** | Tulsa, OK, United States | Remote | Aug 14 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a7fa7ffb56bea5779c0de70?utm_campaign=1051&utm_source=git)** | Eugene, OR, United States | Remote | Aug 14 |
+| ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a7fa802b56bea5779c0de7a?utm_campaign=1051&utm_source=git)** | Tulsa, OK, United States | Remote | Aug 14 |
 | ↳ | **[Insurance Agent - Full Training Provided!](https://jobright.ai/jobs/info/6a7fa7eae51a1e18a2414d47?utm_campaign=1051&utm_source=git)** | Springfield, OR, United States | Remote | Aug 14 |
 | **[The Good Food Institute](http://www.gfi.org)** | **[Corporate Engagement Intern](https://jobright.ai/jobs/info/6a7f9189b56bea5779c0ce49?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 14 |
 | ↳ | **[Corporate Engagement Intern](https://jobright.ai/jobs/info/6a7f907c19ce4e6e9d9393e5?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 14 |
@@ -144,17 +145,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GTM Intern](https://jobright.ai/jobs/info/6a56188c21f64463ad35290a?utm_campaign=1051&utm_source=git)** | San Jose, CA, United States | On Site | Aug 14 |
 | **[Twelve](https://twelvenyc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a6297ce1e089c0cc884d810?utm_campaign=1051&utm_source=git)** | Brooklyn, NY, United States | On Site | Aug 14 |
 | **[CDW](http://cdw.com)** | **[On Campus Internship - University of California, Los Angeles (UCLA)](https://jobright.ai/jobs/info/6a613bdfd51f6101c8fba74b?utm_campaign=1051&utm_source=git)** | California, United States | Hybrid | Aug 14 |
-| **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f5c927c79391ad0757d?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | Hybrid | Aug 14 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f5ce2030208f276cae8?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | Remote | Aug 14 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f6819ce4e6e9d9367cc?utm_campaign=1051&utm_source=git)** | Brookings, SD, United States | Hybrid | Aug 14 |
+| **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f5ce2030208f276cae8?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | Remote | Aug 14 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f56927c79391ad07574?utm_campaign=1051&utm_source=git)** | Madison, WI, United States | Remote | Aug 14 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f5c927c79391ad0757d?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | Hybrid | Aug 14 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f45927c79391ad0755b?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | Remote | Aug 14 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f6819ce4e6e9d9367cc?utm_campaign=1051&utm_source=git)** | Brookings, SD, United States | Hybrid | Aug 14 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Wilmington + Jacksonville + New Bern + Greenville, NC (Starting Summer 2027)](https://jobright.ai/jobs/info/6a7f3f41927c79391ad07556?utm_campaign=1051&utm_source=git)** | Greenville, NC, United States | On Site | Aug 14 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Columbia + Greenville + Seneca, SC (Starting Summer 2027)](https://jobright.ai/jobs/info/6a7f3f15ad9ff00c26bad3c0?utm_campaign=1051&utm_source=git)** | Columbia, SC, United States | On Site | Aug 14 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Greensboro + Winston Salem + Durham, NC (Starting Summer 2027)](https://jobright.ai/jobs/info/6a7f3ef1b56bea5779c09a42?utm_campaign=1051&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 14 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Vancouver, WA (Starting Summer 2027)](https://jobright.ai/jobs/info/6a7d0270dc3dff2d1c0ca59c?utm_campaign=1051&utm_source=git)** | Vancouver, WA, United States | On Site | Aug 14 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) – Greater Pasadena, CA (Starting Summer 2027)](https://jobright.ai/jobs/info/6a7e41730cd4a0703257ee3a?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 14 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Central Coast, CA (Starting Summer 2027)](https://jobright.ai/jobs/info/6a7d0285d77e8156a8e3580d?utm_campaign=1051&utm_source=git)** | San Luis Obispo, CA, United States | On Site | Aug 14 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – St Louis, MO (Starting Summer 2027)](https://jobright.ai/jobs/info/6a7e262eb56bea5779c04010?utm_campaign=1051&utm_source=git)** | Kirkwood, MO, United States | On Site | Aug 14 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) – Greater Pasadena, CA (Starting Summer 2027)](https://jobright.ai/jobs/info/6a7e41730cd4a0703257ee3a?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 14 |
-| **[FIRST](https://firstagency.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/6a62896e1e089c0cc884d331?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
