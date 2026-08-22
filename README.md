@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Adobe Sales Academy BDR](https://jobright.ai/jobs/info/6a6d5a63ca1f9338466035e8?utm_campaign=1051&utm_source=git)** | San Jose, CA, United States | Hybrid | Aug 22 |
 | **[Markondo](https://www.markondo.com)** | **[Business Development & Growth Intern](https://jobright.ai/jobs/info/6a8947b94afae74a0834e769?utm_campaign=1051&utm_source=git)** | Surfside, FL, United States | Remote | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Luxury Resale Category Management Project Intern (TikTok Shop - Operation) - 2026 Start](https://jobright.ai/jobs/info/6a523d638576ec69c014b124?utm_campaign=1051&utm_source=git)** | Los Angeles, United States | On Site | Aug 21 |
 | **[Zipline](https://www.zipline.com/)** | **[Sales Operations Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6a88b1c9d34f700f87fc9fae?utm_campaign=1051&utm_source=git)** | South San Francisco, CA, United States | On Site | Aug 21 |
@@ -66,15 +67,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89352a25fc4e7ae3db328c?utm_campaign=1051&utm_source=git)** | Columbus, OH, United States | Hybrid | Aug 21 |
 | ↳ | **[Mining Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a893527e8b6601d12909763?utm_campaign=1051&utm_source=git)** | Tucson, AZ, United States | Hybrid | Aug 21 |
 | **[Propra](https://propra.tech)** | **[Business Development Internship](https://jobright.ai/jobs/info/6a8934684afae74a0834e571?utm_campaign=1051&utm_source=git)** | Calgary, AB, Canada | On Site | Aug 21 |
+| **[American Threads](http://shopamericanthreads.com)** | **[Buying & Merchandising Intern](https://jobright.ai/jobs/info/6a8926094afae74a0834e3a4?utm_campaign=1051&utm_source=git)** | Orange, CA, United States | On Site | Aug 21 |
 | **[TEASPRESSA](https://teaspressa.com)** | **[Supply Chain Operations Intern: Fulfillment, Inventory & Logistics](https://jobright.ai/jobs/info/6a8927db680f314a29d3e983?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 21 |
-| **[American Threads](http://shopamericanthreads.com)** | **[Buying Assistant Intern](https://jobright.ai/jobs/info/6a8926094afae74a0834e3a4?utm_campaign=1051&utm_source=git)** | Orange, CA, United States | On Site | Aug 21 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) – Northern Seattle, WA (Starting Summer 2027)](https://jobright.ai/jobs/info/6a88aeb2680f314a29d3d459?utm_campaign=1051&utm_source=git)** | Woodinville, WA, United States | On Site | Aug 21 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Moreno Valley / Inland Empire, CA, CA (Starting Summer 2027)](https://jobright.ai/jobs/info/6a88c0144afae74a0834d6f4?utm_campaign=1051&utm_source=git)** | Moreno Valley, CA, United States | On Site | Aug 21 |
 | **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a894746e8b6601d12909969?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8961814afae74a0834ea04?utm_campaign=1051&utm_source=git)** | Beaumont, TX, United States | Hybrid | Aug 21 |
 | ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a89572a680f314a29d3edea?utm_campaign=1051&utm_source=git)** | Longview, WA, United States | Hybrid | Aug 21 |
-| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a895724680f314a29d3ede9?utm_campaign=1051&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 21 |
 | ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a8955fcd34f700f87fcb742?utm_campaign=1051&utm_source=git)** | Naperville, IL, United States | Remote | Aug 21 |
+| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a895724680f314a29d3ede9?utm_campaign=1051&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 21 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89577b4afae74a0834e8b9?utm_campaign=1051&utm_source=git)** | Muskegon, MI, United States | Hybrid | Aug 21 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89571c680f314a29d3ede8?utm_campaign=1051&utm_source=git)** | Lincoln, NE, United States | Hybrid | Aug 21 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) – Tucson, AZ (Starting Summer 2027)](https://jobright.ai/jobs/info/6a88ae9b680f314a29d3d451?utm_campaign=1051&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 21 |
@@ -84,30 +85,30 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Bay Area, CA (Starting Summer 2027)](https://jobright.ai/jobs/info/6a73c82d32ebbc14ffb50fe6?utm_campaign=1051&utm_source=git)** | Dublin, CA, United States | On Site | Aug 21 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a88a9d3cde3717f9e9b66a4?utm_campaign=1051&utm_source=git)** | Columbia City, IN, United States | On Site | Aug 21 |
 | **[Solenis](http://solenis.com/)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/6a88bdbd25fc4e7ae3db2272?utm_campaign=1051&utm_source=git)** | Delaware, United States | On Site | Aug 21 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a5f86cd193b5113096790c4?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | On Site | Aug 21 |
-| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Aug 21 |
+| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Aug 21 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5f86cd193b5113096790c4?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | On Site | Aug 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a574b0821f64463ad358a1f?utm_campaign=1051&utm_source=git)** | Evergreen Park, IL, United States | On Site | Aug 21 |
 | **[Medpace](http://www.medpace.com)** | **[Vendor Management Internship - Summer 2027](https://jobright.ai/jobs/info/6a8893ab680f314a29d3cb36?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 21 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a88b7f9e8b6601d12908477?utm_campaign=1051&utm_source=git)** | Burlington, ON, Canada | On Site | Aug 21 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7f2faa927c79391ad06df4?utm_campaign=1051&utm_source=git)** | Hamilton, ON, Canada | On Site | Aug 21 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7a3733bb6ca93ae561a897?utm_campaign=1051&utm_source=git)** | Camrose, AB, Canada | On Site | Aug 21 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7e2c33e51a1e18a240c7b5?utm_campaign=1051&utm_source=git)** | Burnaby, BC, Canada | On Site | Aug 21 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a84a7c52f4f0014cae21fa8?utm_campaign=1051&utm_source=git)** | Ingersoll, ON, Canada | On Site | Aug 21 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a84c3b1d34f700f87fbacce?utm_campaign=1051&utm_source=git)** | Summerside, PE, Canada | On Site | Aug 21 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a84e5a658ded76ad8fe9f05?utm_campaign=1051&utm_source=git)** | Oakville, ON, Canada | On Site | Aug 21 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a8863a84afae74a0834b61c?utm_campaign=1051&utm_source=git)** | Oshawa, ON, Canada | On Site | Aug 21 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a84fbc9e12474455273d4db?utm_campaign=1051&utm_source=git)** | West Kelowna, BC, Canada | On Site | Aug 21 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a85aa4274e02153f1457b3b?utm_campaign=1051&utm_source=git)** | Hamilton, ON, Canada | On Site | Aug 21 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a88b7f9e8b6601d12908477?utm_campaign=1051&utm_source=git)** | Burlington, ON, Canada | On Site | Aug 21 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7cbebddc3dff2d1c0c8dc7?utm_campaign=1051&utm_source=git)** | North Vancouver, BC, Canada | On Site | Aug 21 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a8631274afae74a083440c0?utm_campaign=1051&utm_source=git)** | Pickering, ON, Canada | On Site | Aug 21 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7a3733bb6ca93ae561a897?utm_campaign=1051&utm_source=git)** | Camrose, AB, Canada | On Site | Aug 21 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a84e5a658ded76ad8fe9f05?utm_campaign=1051&utm_source=git)** | Oakville, ON, Canada | On Site | Aug 21 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a85f976cc81eb647e9f0924?utm_campaign=1051&utm_source=git)** | Kawartha Lakes, Ontario, Canada | On Site | Aug 21 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a8782a74afae74a08348fb6?utm_campaign=1051&utm_source=git)** | Stratford, ON, Canada | On Site | Aug 21 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a8631274afae74a083440c0?utm_campaign=1051&utm_source=git)** | Pickering, ON, Canada | On Site | Aug 21 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7f9fbbe2030208f277019f?utm_campaign=1051&utm_source=git)** | Nelson, BC, Canada | On Site | Aug 21 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a84fbc9e12474455273d4db?utm_campaign=1051&utm_source=git)** | West Kelowna, BC, Canada | On Site | Aug 21 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a7b8ca2bc05d77f2bddfeb9?utm_campaign=1051&utm_source=git)** | Hamilton, ON, Canada | On Site | Aug 21 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a83520b3eeac101cfa9efca?utm_campaign=1051&utm_source=git)** | Saint John, Canada | On Site | Aug 21 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a88aa09d34f700f87fc9d14?utm_campaign=1051&utm_source=git)** | Fredericton, New Brunswick, Canada | On Site | Aug 21 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a85cdbdd34f700f87fbe412?utm_campaign=1051&utm_source=git)** | Happy Valley–Goose Bay, Newfoundland and Labrador, Canada | On Site | Aug 21 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a84a7c52f4f0014cae21fa8?utm_campaign=1051&utm_source=git)** | Ingersoll, ON, Canada | On Site | Aug 21 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a7e2c33e51a1e18a240c7b5?utm_campaign=1051&utm_source=git)** | Burnaby, BC, Canada | On Site | Aug 21 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a84c3b1d34f700f87fbacce?utm_campaign=1051&utm_source=git)** | Summerside, PE, Canada | On Site | Aug 21 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a8782a74afae74a08348fb6?utm_campaign=1051&utm_source=git)** | Stratford, ON, Canada | On Site | Aug 21 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a8863a84afae74a0834b61c?utm_campaign=1051&utm_source=git)** | Oshawa, ON, Canada | On Site | Aug 21 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a877dddd34f700f87fc5b77?utm_campaign=1051&utm_source=git)** | Nelson, BC, Canada | On Site | Aug 21 |
+| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a83520b3eeac101cfa9efca?utm_campaign=1051&utm_source=git)** | Saint John, Canada | On Site | Aug 21 |
+| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a7cd399a346cb6c8d5f0463?utm_campaign=1051&utm_source=git)** | Hamilton, ON, Canada | On Site | Aug 21 |
+| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a85cdbdd34f700f87fbe412?utm_campaign=1051&utm_source=git)** | Happy Valley–Goose Bay, Newfoundland and Labrador, Canada | On Site | Aug 21 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a8372499b859b227766ee29?utm_campaign=1051&utm_source=git)** | Haldimand County, Ontario, Canada | On Site | Aug 21 |
+| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6a88aa09d34f700f87fc9d14?utm_campaign=1051&utm_source=git)** | Fredericton, New Brunswick, Canada | On Site | Aug 21 |
 | **[Xpansiv](https://www.xpansiv.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a888999e8b6601d12907491?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Aug 21 |
 | **[Too Lost](https://www.toolost.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a886721cde3717f9e9b502c?utm_campaign=1051&utm_source=git)** | Los Angeles, United States | On Site | Aug 21 |
 | **[Tricon Living](https://www.triconliving.com)** | **[Intern- Real Estate](https://jobright.ai/jobs/info/6a88a52325fc4e7ae3db182b?utm_campaign=1051&utm_source=git)** | Tustin, CA, United States | On Site | Aug 21 |
@@ -130,10 +131,10 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Intern - Fall 2026](https://jobright.ai/jobs/info/6a23fe1014de9460dc845dda?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 21 |
 | **[Ferguson](http://www.ferguson.com)** | **[Sales Internship Program](https://jobright.ai/jobs/info/6a7a46cba26ccc369f83d9be?utm_campaign=1051&utm_source=git)** | West Chicago, IL, United States | On Site | Aug 21 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/6a8895e5e8b6601d129078af?utm_campaign=1051&utm_source=git)** | Berkeley, California, United States | On Site | Aug 21 |
-| **[A-LIGN](http://www.a-lign.com/)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6a885ade680f314a29d3b7e1?utm_campaign=1051&utm_source=git)** | Tampa, FL, United States | On Site | Aug 21 |
+| **[A-LIGN](http://www.a-lign.com/)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6a885d40e8b6601d12906511?utm_campaign=1051&utm_source=git)** | Tampa, FL, United States | On Site | Aug 21 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Business Development Summer 2027 Internship (Bettendorf, IA)](https://jobright.ai/jobs/info/6a8884df4afae74a0834c25e?utm_campaign=1051&utm_source=git)** | Bettendorf, IA, United States | On Site | Aug 21 |
-| **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a363787649fdf16292fb138?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL, US | On Site | Aug 21 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a54af77a79e4e4bbb37296d?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL, United States of America | On Site | Aug 21 |
+| **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a54af77a79e4e4bbb37296d?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL, United States of America | On Site | Aug 21 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a363787649fdf16292fb138?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL, US | On Site | Aug 21 |
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Development Intern](https://jobright.ai/jobs/info/6a888313cde3717f9e9b5a15?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Aug 21 |
 | **[SUNMI](http://www.sunmi.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6a887bfb25fc4e7ae3db09f4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 21 |
 | **[Farm Sanctuary](https://farmsanctuary.org)** | **[Intern, Hospitality and Retail](https://jobright.ai/jobs/info/6a887ad1d34f700f87fc8c14?utm_campaign=1051&utm_source=git)** | Watkins Glen, NY, United States | On Site | Aug 21 |
@@ -142,19 +143,18 @@ For a complete list, click the following sortable link below:
 | **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Summer 2027 Transactions Intern](https://jobright.ai/jobs/info/6a6b9e9057120971bf3a7ee8?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Aug 21 |
 | **[de Anda Capital](https://www.deanda.capital/)** | **[Sales Analyst Intern / Remote](https://jobright.ai/jobs/info/6a887185e8b6601d12906b81?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 21 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Analyst Intern](https://jobright.ai/jobs/info/6a7f6ac5ad9ff00c26bae117?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 21 |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Field Sales Management (Northlake, IL)](https://jobright.ai/jobs/info/6a87873e25fc4e7ae3dadbbf?utm_campaign=1051&utm_source=git)** | Northlake, Illinois, United States | On Site | Aug 21 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Field Sales Management (Northlake, IL)](https://jobright.ai/jobs/info/6a877de1cde3717f9e9b25ef?utm_campaign=1051&utm_source=git)** | Northlake, Illinois, United States | On Site | Aug 21 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Financial Planning Sales Program, Internship](https://jobright.ai/jobs/info/6a886a8f25fc4e7ae3db04bb?utm_campaign=1051&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 21 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Field Sales Management (Indianapolis, IN)](https://jobright.ai/jobs/info/6a87872fd34f700f87fc5f06?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 21 |
-| ↳ | **[Summer 2027 Intern - Field Sales Management (Houston, TX)](https://jobright.ai/jobs/info/6a877dd925fc4e7ae3dad854?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Aug 21 |
 | ↳ | **[Summer 2027 Intern - Field Sales Management (Houston, TX)](https://jobright.ai/jobs/info/6a878722e8b6601d1290413e?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Aug 21 |
+| ↳ | **[Summer 2027 Intern - Field Sales Management (Houston, TX)](https://jobright.ai/jobs/info/6a877dd925fc4e7ae3dad854?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Aug 21 |
 | ↳ | **[Summer 2027 Intern - Field Sales Management (Avenel, NJ)](https://jobright.ai/jobs/info/6a87873bcde3717f9e9b2952?utm_campaign=1051&utm_source=git)** | Avenel, NJ, United States | On Site | Aug 21 |
-| ↳ | **[Summer 2027 Intern - Field Sales Management (St. Paul, MN)](https://jobright.ai/jobs/info/6a877def4afae74a08348dad?utm_campaign=1051&utm_source=git)** | St. Paul, MN, United States | On Site | Aug 21 |
 | ↳ | **[Summer 2027 Intern - Field Sales Management (Irving, TX)](https://jobright.ai/jobs/info/6a877dd3cde3717f9e9b25ea?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Aug 21 |
-| ↳ | **[Summer 2027 Intern - Field Sales Management (St. Paul, MN)](https://jobright.ai/jobs/info/6a878729e8b6601d12904141?utm_campaign=1051&utm_source=git)** | St. Paul, MN, United States | On Site | Aug 21 |
 | ↳ | **[Summer 2027 Intern - Field Sales Management (Irving, TX)](https://jobright.ai/jobs/info/6a87872a25fc4e7ae3dadbb5?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Aug 21 |
 | ↳ | **[Summer 2027 Intern - Field Sales Management (Avenel, NJ)](https://jobright.ai/jobs/info/6a877debd34f700f87fc5b7e?utm_campaign=1051&utm_source=git)** | Avenel, NJ, United States | On Site | Aug 21 |
+| ↳ | **[Summer 2027 Intern - Field Sales Management (St. Paul, MN)](https://jobright.ai/jobs/info/6a877def4afae74a08348dad?utm_campaign=1051&utm_source=git)** | St. Paul, MN, United States | On Site | Aug 21 |
+| ↳ | **[Summer 2027 Intern - Field Sales Management (St. Paul, MN)](https://jobright.ai/jobs/info/6a878729e8b6601d12904141?utm_campaign=1051&utm_source=git)** | St. Paul, MN, United States | On Site | Aug 21 |
 | **[Prysmian](https://www.prysmian.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6a6b54d3acb0a61f9dbc03a8?utm_campaign=1051&utm_source=git)** | Highland Heights, KY, United States | On Site | Aug 21 |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Field Sales Management (Frisco, TX)](https://jobright.ai/jobs/info/6a877dd8d34f700f87fc5b72?utm_campaign=1051&utm_source=git)** | Frisco, TX, United States | On Site | Aug 21 |
-| ↳ | **[Summer 2027 Intern - Field Sales Management (Frisco, TX)](https://jobright.ai/jobs/info/6a87873e4afae74a08349126?utm_campaign=1051&utm_source=git)** | Frisco, TX, United States | On Site | Aug 21 |
-| ↳ | **[Summer 2027 Intern - Field Sales Management (Los Angeles, CA)](https://jobright.ai/jobs/info/6a87873de8b6601d1290414a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 21 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Field Sales Management (Frisco, TX)](https://jobright.ai/jobs/info/6a87873e4afae74a08349126?utm_campaign=1051&utm_source=git)** | Frisco, TX, United States | On Site | Aug 21 |
+| ↳ | **[Summer 2027 Intern - Field Sales Management (Frisco, TX)](https://jobright.ai/jobs/info/6a877dd8d34f700f87fc5b72?utm_campaign=1051&utm_source=git)** | Frisco, TX, United States | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
