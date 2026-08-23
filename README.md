@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Wholesale](https://jobright.ai/jobs/info/6a513cea8d7d3e6cf1cc0268?utm_campaign=1051&utm_source=git)** | Stamford, CT, United States | On Site | Aug 23 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2026/27](https://jobright.ai/jobs/info/6a7227f902d93145bf892dfb?utm_campaign=1051&utm_source=git)** | Glastonbury, CT, United States | On Site | Aug 23 |
 | **[BUYMARG](https://www.buymarg.com)** | **[Internship](https://jobright.ai/jobs/info/6a8acb45e8b6601d1290b5c8?utm_campaign=1051&utm_source=git)** | Kansas, United States | On Site | Aug 23 |
 | **[TINGE](https://tingebeauty.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6a8aca354afae74a083503a1?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 23 |
@@ -123,38 +124,37 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89c63e4afae74a0834f1fa?utm_campaign=1051&utm_source=git)** | Louisville, KY, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8961814afae74a0834ea04?utm_campaign=1051&utm_source=git)** | Beaumont, TX, United States | Hybrid | Aug 21 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a8a059de8b6601d1290a7b0?utm_campaign=1051&utm_source=git)** | Richmond, VA, United States | Remote | Aug 21 |
-| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a8a3338d34f700f87fcc9c5?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Aug 21 |
-| ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a89fabecde3717f9e9b8de3?utm_campaign=1051&utm_source=git)** | Cleveland, OH, United States | Hybrid | Aug 21 |
 | ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a89572a680f314a29d3edea?utm_campaign=1051&utm_source=git)** | Longview, WA, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a6ee7680f314a29d40273?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | Hybrid | Aug 21 |
+| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a8a3338d34f700f87fcc9c5?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Aug 21 |
+| ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a89fabecde3717f9e9b8de3?utm_campaign=1051&utm_source=git)** | Cleveland, OH, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a895724680f314a29d3ede9?utm_campaign=1051&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 21 |
-| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89577b4afae74a0834e8b9?utm_campaign=1051&utm_source=git)** | Muskegon, MI, United States | Hybrid | Aug 21 |
-| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89fb7be8b6601d1290a72e?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | Remote | Aug 21 |
-| ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a8955fcd34f700f87fcb742?utm_campaign=1051&utm_source=git)** | Naperville, IL, United States | Remote | Aug 21 |
-| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89571c680f314a29d3ede8?utm_campaign=1051&utm_source=git)** | Lincoln, NE, United States | Hybrid | Aug 21 |
-| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a267de8b6601d1290ac4d?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA, United States | Hybrid | Aug 21 |
-| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a6b63680f314a29d40221?utm_campaign=1051&utm_source=git)** | Tucson, AZ, United States | Remote | Aug 21 |
-| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a5bf3cde3717f9e9b96f2?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Aug 21 |
-| ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a89ee7ee8b6601d1290a5f4?utm_campaign=1051&utm_source=git)** | Kingsport, TN, United States | Hybrid | Aug 21 |
-| ↳ | **[Mining Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a3fafe8b6601d1290ada4?utm_campaign=1051&utm_source=git)** | Blacksburg, VA, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a64644afae74a0834fd8a?utm_campaign=1051&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 21 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89ee82680f314a29d3f830?utm_campaign=1051&utm_source=git)** | Saint Paul, MN, United States | Remote | Aug 21 |
+| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89577b4afae74a0834e8b9?utm_campaign=1051&utm_source=git)** | Muskegon, MI, United States | Hybrid | Aug 21 |
+| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a6b63680f314a29d40221?utm_campaign=1051&utm_source=git)** | Tucson, AZ, United States | Remote | Aug 21 |
+| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a5bf3cde3717f9e9b96f2?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Aug 21 |
+| ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a8a3f9ae8b6601d1290ada1?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI, United States | Hybrid | Aug 21 |
+| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89fb7be8b6601d1290a72e?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | Remote | Aug 21 |
+| ↳ | **[Mining Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a3fafe8b6601d1290ada4?utm_campaign=1051&utm_source=git)** | Blacksburg, VA, United States | Hybrid | Aug 21 |
+| ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a8955fcd34f700f87fcb742?utm_campaign=1051&utm_source=git)** | Naperville, IL, United States | Remote | Aug 21 |
+| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a267de8b6601d1290ac4d?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89fc32680f314a29d3fa1d?utm_campaign=1051&utm_source=git)** | Goodyear, AZ, United States | Hybrid | Aug 21 |
 | ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a89fc2b680f314a29d3fa1b?utm_campaign=1051&utm_source=git)** | Charlotte, NC, United States | Hybrid | Aug 21 |
-| ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a8a3f9ae8b6601d1290ada1?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89fb17680f314a29d3f9f4?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 21 |
+| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89571c680f314a29d3ede8?utm_campaign=1051&utm_source=git)** | Lincoln, NE, United States | Hybrid | Aug 21 |
+| ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a89ee7ee8b6601d1290a5f4?utm_campaign=1051&utm_source=git)** | Kingsport, TN, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89cade680f314a29d3f5bf?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, United States | Remote | Aug 21 |
-| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89c64b4afae74a0834f1fb?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 21 |
-| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89fc244afae74a0834f56d?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | Remote | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a7267680f314a29d40316?utm_campaign=1051&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89caf6d34f700f87fcbfbf?utm_campaign=1051&utm_source=git)** | St. Louis, MO, United States | Remote | Aug 21 |
-| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a8a333a680f314a29d3ff52?utm_campaign=1051&utm_source=git)** | Milwaukee, WI, United States | Remote | Aug 21 |
 | ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a8a646d4afae74a0834fd8d?utm_campaign=1051&utm_source=git)** | Skowhegan, ME, United States | Hybrid | Aug 21 |
+| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89c64b4afae74a0834f1fb?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 21 |
+| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89fc244afae74a0834f56d?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | Remote | Aug 21 |
+| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a8a333a680f314a29d3ff52?utm_campaign=1051&utm_source=git)** | Milwaukee, WI, United States | Remote | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89fac9cde3717f9e9b8de4?utm_campaign=1051&utm_source=git)** | Las Vegas, NV, United States | Hybrid | Aug 21 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a897e4525fc4e7ae3db38ac?utm_campaign=1051&utm_source=git)** | Moses Lake, WA, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a3f3ee8b6601d1290ad96?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 21 |
 | ↳ | **[Animal Health, Dairy Farm, Agriculture Industry - Technical Sales Intern](https://jobright.ai/jobs/info/6a8a640a4afae74a0834fd7a?utm_campaign=1051&utm_source=git)** | Columbus, OH, United States | Hybrid | Aug 21 |
 | ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a89fa72cde3717f9e9b8ddc?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 21 |
 | ↳ | **[Mining Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a5545cde3717f9e9b95f6?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 21 |
-| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89fbf24afae74a0834f568?utm_campaign=1051&utm_source=git)** | Kansas City, KS, United States | Remote | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
