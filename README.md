@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schneider Electric](https://www.se.com)** | **[2027 Summer Sales Intern- South Region](https://jobright.ai/jobs/info/6a8b3f8c25fc4e7ae3db564d?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | On Site | Aug 23 |
 | **[Vot-ER](https://er.org)** | **[Student National Medical Association x Vot-ER Partnerships Intern](https://jobright.ai/jobs/info/6a8b6f99cde3717f9e9ba659?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 23 |
 | **[BUYMARG](https://www.buymarg.com)** | **[Internship](https://jobright.ai/jobs/info/6a8b6bd8680f314a29d411f3?utm_campaign=1051&utm_source=git)** | Kansas, United States | On Site | Aug 23 |
 | **[IBEX IT Business Experts](https://ibexexperts.com/)** | **[Business Development Fellow](https://jobright.ai/jobs/info/6a66fe0287cef057612d0e41?utm_campaign=1051&utm_source=git)** | Brunswick, GA, United States | Hybrid | Aug 23 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Research Intern - Hip-Hop & R&B](https://jobright.ai/jobs/info/6a473b238204a812e98cb5ba?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 23 |
-| **[Schneider Electric](https://www.se.com)** | **[2027 Summer Sales Intern- South Region](https://jobright.ai/jobs/info/6a8b3f8c25fc4e7ae3db564d?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | On Site | Aug 23 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a8b26e8e8b6601d1290ba7b?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Aug 23 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a8b1a95d34f700f87fcd733?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 23 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a8b1804e8b6601d1290b9b4?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Remote | Aug 23 |
@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Keller Williams NYC](http://kwnyc.com)** | **[Real Estate Intern - Pan Asia Luxury Sales Team](https://jobright.ai/jobs/info/6a8a3ce94afae74a0834fac7?utm_campaign=1051&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 22 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Solution Advisory [Finance & Accounting]](https://jobright.ai/jobs/info/6a6d1245ca1f9338466025d9?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Aug 22 |
 | **[Cargill](https://www.cargill.com/home)** | **[Food Sales Intern - Wichita, KS & Wayzata, MN](https://jobright.ai/jobs/info/6a88b7cccde3717f9e9b6b84?utm_campaign=1051&utm_source=git)** | Wichita, KS, United States | On Site | Aug 22 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a760c4c4817aa4307046658?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Aug 22 |
-| ↳ | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a560da410c4d945d864751d?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Aug 22 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a560da410c4d945d864751d?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Aug 22 |
+| ↳ | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a760c4c4817aa4307046658?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Aug 22 |
 | ↳ | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a6d095c57120971bf3aea01?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Aug 22 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Winter 2027 Titleist Golf Ball Fitting Internship](https://jobright.ai/jobs/info/6a7f03c7b56bea5779c08292?utm_campaign=1051&utm_source=git)** | Fairhaven, MA, United States | On Site | Aug 22 |
 | ↳ | **[Winter 2027 Titleist Golf Ball Fitting Internship](https://jobright.ai/jobs/info/6a6cd3cc32f9300c3a3e573e?utm_campaign=1051&utm_source=git)** | Fairhaven, MA, United States | On Site | Aug 22 |
@@ -109,41 +109,40 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89352a25fc4e7ae3db328c?utm_campaign=1051&utm_source=git)** | Columbus, OH, United States | Hybrid | Aug 21 |
 | ↳ | **[Mining Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a893527e8b6601d12909763?utm_campaign=1051&utm_source=git)** | Tucson, AZ, United States | Hybrid | Aug 21 |
 | **[Propra](https://propra.tech)** | **[Business Development Internship](https://jobright.ai/jobs/info/6a8934684afae74a0834e571?utm_campaign=1051&utm_source=git)** | Calgary, AB, Canada | On Site | Aug 21 |
-| **[American Threads](http://shopamericanthreads.com)** | **[Buying & Merchandising Intern](https://jobright.ai/jobs/info/6a8926094afae74a0834e3a4?utm_campaign=1051&utm_source=git)** | Orange, CA, United States | On Site | Aug 21 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) – Northern Seattle, WA (Starting Summer 2027)](https://jobright.ai/jobs/info/6a88aeb2680f314a29d3d459?utm_campaign=1051&utm_source=git)** | Woodinville, WA, United States | On Site | Aug 21 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Moreno Valley / Inland Empire, CA, CA (Starting Summer 2027)](https://jobright.ai/jobs/info/6a88c0144afae74a0834d6f4?utm_campaign=1051&utm_source=git)** | Moreno Valley, CA, United States | On Site | Aug 21 |
 | **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a894746e8b6601d12909969?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | Hybrid | Aug 21 |
-| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a20da4afae74a0834f84e?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 21 |
+| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a8a059de8b6601d1290a7b0?utm_campaign=1051&utm_source=git)** | Richmond, VA, United States | Remote | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8961814afae74a0834ea04?utm_campaign=1051&utm_source=git)** | Beaumont, TX, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89c63e4afae74a0834f1fa?utm_campaign=1051&utm_source=git)** | Louisville, KY, United States | Hybrid | Aug 21 |
-| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a8a059de8b6601d1290a7b0?utm_campaign=1051&utm_source=git)** | Richmond, VA, United States | Remote | Aug 21 |
+| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a20da4afae74a0834f84e?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 21 |
 | ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a89fabecde3717f9e9b8de3?utm_campaign=1051&utm_source=git)** | Cleveland, OH, United States | Hybrid | Aug 21 |
-| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a8a3338d34f700f87fcc9c5?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Aug 21 |
 | ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a89572a680f314a29d3edea?utm_campaign=1051&utm_source=git)** | Longview, WA, United States | Hybrid | Aug 21 |
+| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a8a3338d34f700f87fcc9c5?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a6ee7680f314a29d40273?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | Hybrid | Aug 21 |
+| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a6b63680f314a29d40221?utm_campaign=1051&utm_source=git)** | Tucson, AZ, United States | Remote | Aug 21 |
+| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89fb17680f314a29d3f9f4?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 21 |
+| ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a89fc2b680f314a29d3fa1b?utm_campaign=1051&utm_source=git)** | Charlotte, NC, United States | Hybrid | Aug 21 |
+| ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a8a3f9ae8b6601d1290ada1?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI, United States | Hybrid | Aug 21 |
+| ↳ | **[Mining Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a3fafe8b6601d1290ada4?utm_campaign=1051&utm_source=git)** | Blacksburg, VA, United States | Hybrid | Aug 21 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89571c680f314a29d3ede8?utm_campaign=1051&utm_source=git)** | Lincoln, NE, United States | Hybrid | Aug 21 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89fb7be8b6601d1290a72e?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | Remote | Aug 21 |
-| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a895724680f314a29d3ede9?utm_campaign=1051&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 21 |
-| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a64644afae74a0834fd8a?utm_campaign=1051&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 21 |
-| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89cade680f314a29d3f5bf?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, United States | Remote | Aug 21 |
+| ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a8955fcd34f700f87fcb742?utm_campaign=1051&utm_source=git)** | Naperville, IL, United States | Remote | Aug 21 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89577b4afae74a0834e8b9?utm_campaign=1051&utm_source=git)** | Muskegon, MI, United States | Hybrid | Aug 21 |
+| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a64644afae74a0834fd8a?utm_campaign=1051&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 21 |
+| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89fc32680f314a29d3fa1d?utm_campaign=1051&utm_source=git)** | Goodyear, AZ, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a5bf3cde3717f9e9b96f2?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Aug 21 |
 | ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a89ee7ee8b6601d1290a5f4?utm_campaign=1051&utm_source=git)** | Kingsport, TN, United States | Hybrid | Aug 21 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89ee82680f314a29d3f830?utm_campaign=1051&utm_source=git)** | Saint Paul, MN, United States | Remote | Aug 21 |
-| ↳ | **[Mining Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a3fafe8b6601d1290ada4?utm_campaign=1051&utm_source=git)** | Blacksburg, VA, United States | Hybrid | Aug 21 |
-| ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a89fc2b680f314a29d3fa1b?utm_campaign=1051&utm_source=git)** | Charlotte, NC, United States | Hybrid | Aug 21 |
-| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89fc32680f314a29d3fa1d?utm_campaign=1051&utm_source=git)** | Goodyear, AZ, United States | Hybrid | Aug 21 |
-| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89fb17680f314a29d3f9f4?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 21 |
+| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a895724680f314a29d3ede9?utm_campaign=1051&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 21 |
+| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89cade680f314a29d3f5bf?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, United States | Remote | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a267de8b6601d1290ac4d?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA, United States | Hybrid | Aug 21 |
-| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a6b63680f314a29d40221?utm_campaign=1051&utm_source=git)** | Tucson, AZ, United States | Remote | Aug 21 |
-| ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a8955fcd34f700f87fcb742?utm_campaign=1051&utm_source=git)** | Naperville, IL, United States | Remote | Aug 21 |
-| ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a8a3f9ae8b6601d1290ada1?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI, United States | Hybrid | Aug 21 |
-| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89fc244afae74a0834f56d?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | Remote | Aug 21 |
 | ↳ | **[Paper & Pulp Engineering Technical Sales  Intern](https://jobright.ai/jobs/info/6a8a646d4afae74a0834fd8d?utm_campaign=1051&utm_source=git)** | Skowhegan, ME, United States | Hybrid | Aug 21 |
-| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a7267680f314a29d40316?utm_campaign=1051&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Aug 21 |
-| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89c64b4afae74a0834f1fb?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 21 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a8a333a680f314a29d3ff52?utm_campaign=1051&utm_source=git)** | Milwaukee, WI, United States | Remote | Aug 21 |
+| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a7267680f314a29d40316?utm_campaign=1051&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89caf6d34f700f87fcbfbf?utm_campaign=1051&utm_source=git)** | St. Louis, MO, United States | Remote | Aug 21 |
+| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a89fc244afae74a0834f56d?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | Remote | Aug 21 |
+| ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89c64b4afae74a0834f1fb?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a89fac9cde3717f9e9b8de4?utm_campaign=1051&utm_source=git)** | Las Vegas, NV, United States | Hybrid | Aug 21 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a897e4525fc4e7ae3db38ac?utm_campaign=1051&utm_source=git)** | Moses Lake, WA, United States | Hybrid | Aug 21 |
 | ↳ | **[Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8a3f3ee8b6601d1290ad96?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Orange County, CA (Starting Summer 2027)](https://jobright.ai/jobs/info/6a88c014d34f700f87fca632?utm_campaign=1051&utm_source=git)** | Fullerton, CA, United States | On Site | Aug 21 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a88a9d3cde3717f9e9b66a4?utm_campaign=1051&utm_source=git)** | Columbia City, IN, United States | On Site | Aug 21 |
 | **[Solenis](http://solenis.com/)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/6a88bdbd25fc4e7ae3db2272?utm_campaign=1051&utm_source=git)** | Delaware, United States | On Site | Aug 21 |
+| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
