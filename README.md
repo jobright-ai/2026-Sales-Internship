@@ -64,8 +64,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a924470d18f75674827baf5?utm_campaign=1051&utm_source=git)** | The Woodlands, TX, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9244659864261ccd2a0877?utm_campaign=1051&utm_source=git)** | Midland, MI, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923fb88e5968545337946c?utm_campaign=1051&utm_source=git)** | Portage, MI, United States | On Site | Aug 28 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923fa7a27a2d3c9848b8e8?utm_campaign=1051&utm_source=git)** | Asheville, NC, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923fa736036300991960e7?utm_campaign=1051&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 28 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923fa7a27a2d3c9848b8e8?utm_campaign=1051&utm_source=git)** | Asheville, NC, United States | On Site | Aug 28 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a923c3ac12c90443efc9b3b?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923c36a27a2d3c9848b8b3?utm_campaign=1051&utm_source=git)** | Springfield, MO, United States | On Site | Aug 28 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a923c36c12c90443efc9b39?utm_campaign=1051&utm_source=git)** | Estero, FL, United States | On Site | Aug 28 |
@@ -84,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a922be53603630099195f45?utm_campaign=1051&utm_source=git)** | Florence, KY, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a922bdd9864261ccd2a0681?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9227198e59685453379209?utm_campaign=1051&utm_source=git)** | Grapevine, TX, United States | On Site | Aug 28 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a922716d18f75674827b84b?utm_campaign=1051&utm_source=git)** | Evansville, IN, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a922716c12c90443efc991d?utm_campaign=1051&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 28 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a922716d18f75674827b84b?utm_campaign=1051&utm_source=git)** | Evansville, IN, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9223fb8e596854533791c6?utm_campaign=1051&utm_source=git)** | Cape Girardeau, MO, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9223d3a27a2d3c9848b638?utm_campaign=1051&utm_source=git)** | Greenwood, IN, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9223819864261ccd2a056c?utm_campaign=1051&utm_source=git)** | Tulsa, OK, United States | On Site | Aug 28 |
@@ -148,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Sales and Marketing Intern - Butler University](https://jobright.ai/jobs/info/6a91c726d18f75674827a33c?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 28 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f6819ce4e6e9d9367cc?utm_campaign=1051&utm_source=git)** | Brookings, SD, United States | Hybrid | Aug 28 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Store Administration Intern / Summer 2027](https://jobright.ai/jobs/info/6a91bed2c12c90443efc7fab?utm_campaign=1051&utm_source=git)** | Brentwood, TN, United States | Hybrid | Aug 28 |
-| **[Sacramento Kings](http://www.Kings.com)** | **[Ticket Sales & Service Intern](https://jobright.ai/jobs/info/6a91bb788e5968545337749a?utm_campaign=1051&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 28 |
 | **[City of Bowie, Maryland](http://www.cityofbowie.org)** | **[INTERN– ECONOMIC DEVELOPMENT](https://jobright.ai/jobs/info/6a91bb4ba27a2d3c98489912?utm_campaign=1051&utm_source=git)** | Bowie, MD, United States | On Site | Aug 28 |
 | **[Indiana Biosciences Research Institute (IBRI)](https://www.indianabiosciences.org)** | **[Business Development Intern (2027)](https://jobright.ai/jobs/info/6a91b5e33603630099193dfb?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 28 |
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Technical Sales Intern- Mississauga](https://jobright.ai/jobs/info/6a876e13cde3717f9e9b2172?utm_campaign=1051&utm_source=git)** | Mississauga, ON, Canada | On Site | Aug 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Nucor Corporation](http://www.nucor.com)** | **[Sales and Business Development Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8f44cbd7c91d0cf446e68c?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 28 |
 | **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Georgia-Pacific Sales/Marketing Internship (JumpStart) – Summer 2027](https://jobright.ai/jobs/info/6a91aecba27a2d3c984893e4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 28 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[Sales Development Intern (Summer 2027)](https://jobright.ai/jobs/info/6a91ac903603630099193b33?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 28 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a91ab093603630099193aa2?utm_campaign=1051&utm_source=git)** | Ormond Beach, FL, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
