@@ -64,8 +64,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a924470d18f75674827baf5?utm_campaign=1051&utm_source=git)** | The Woodlands, TX, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9244659864261ccd2a0877?utm_campaign=1051&utm_source=git)** | Midland, MI, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923fb88e5968545337946c?utm_campaign=1051&utm_source=git)** | Portage, MI, United States | On Site | Aug 28 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923fa736036300991960e7?utm_campaign=1051&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923fa7a27a2d3c9848b8e8?utm_campaign=1051&utm_source=git)** | Asheville, NC, United States | On Site | Aug 28 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923fa736036300991960e7?utm_campaign=1051&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 28 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a923c3ac12c90443efc9b3b?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923c36a27a2d3c9848b8b3?utm_campaign=1051&utm_source=git)** | Springfield, MO, United States | On Site | Aug 28 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a923c36c12c90443efc9b39?utm_campaign=1051&utm_source=git)** | Estero, FL, United States | On Site | Aug 28 |
@@ -84,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a922be53603630099195f45?utm_campaign=1051&utm_source=git)** | Florence, KY, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a922bdd9864261ccd2a0681?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9227198e59685453379209?utm_campaign=1051&utm_source=git)** | Grapevine, TX, United States | On Site | Aug 28 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a922716c12c90443efc991d?utm_campaign=1051&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 28 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a922716d18f75674827b84b?utm_campaign=1051&utm_source=git)** | Evansville, IN, United States | On Site | Aug 28 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a922716c12c90443efc991d?utm_campaign=1051&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9223fb8e596854533791c6?utm_campaign=1051&utm_source=git)** | Cape Girardeau, MO, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9223d3a27a2d3c9848b638?utm_campaign=1051&utm_source=git)** | Greenwood, IN, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9223819864261ccd2a056c?utm_campaign=1051&utm_source=git)** | Tulsa, OK, United States | On Site | Aug 28 |
