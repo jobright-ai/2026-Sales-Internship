@@ -57,17 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923c63d18f75674827ba88?utm_campaign=1051&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 28 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923c5dc12c90443efc9b3e?utm_campaign=1051&utm_source=git)** | Asheville, NC, United States | On Site | Aug 28 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923c4e8e59685453379430?utm_campaign=1051&utm_source=git)** | Portage, MI, United States | On Site | Aug 28 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a924ca49864261ccd2a08ea?utm_campaign=1051&utm_source=git)** | Fort Smith, AR, United States | On Site | Aug 28 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a924857a27a2d3c9848b937?utm_campaign=1051&utm_source=git)** | Lone Tree, CO, United States | On Site | Aug 28 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9247ddd18f75674827bb1b?utm_campaign=1051&utm_source=git)** | Vestavia Hills, AL, United States | On Site | Aug 28 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9244758e596854533794a0?utm_campaign=1051&utm_source=git)** | Duluth, MN, United States | On Site | Aug 28 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a924470d18f75674827baf5?utm_campaign=1051&utm_source=git)** | The Woodlands, TX, United States | On Site | Aug 28 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9244659864261ccd2a0877?utm_campaign=1051&utm_source=git)** | Midland, MI, United States | On Site | Aug 28 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923fb88e5968545337946c?utm_campaign=1051&utm_source=git)** | Portage, MI, United States | On Site | Aug 28 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923fa736036300991960e7?utm_campaign=1051&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 28 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923fa7a27a2d3c9848b8e8?utm_campaign=1051&utm_source=git)** | Asheville, NC, United States | On Site | Aug 28 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a923c3ac12c90443efc9b3b?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI, United States | On Site | Aug 28 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a923c36c12c90443efc9b39?utm_campaign=1051&utm_source=git)** | Estero, FL, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923c36a27a2d3c9848b8b3?utm_campaign=1051&utm_source=git)** | Springfield, MO, United States | On Site | Aug 28 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a923c36c12c90443efc9b39?utm_campaign=1051&utm_source=git)** | Estero, FL, United States | On Site | Aug 28 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a923c3436036300991960ab?utm_campaign=1051&utm_source=git)** | Taylor, MI, United States | On Site | Aug 28 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a923778a27a2d3c9848b87c?utm_campaign=1051&utm_source=git)** | Augusta, GA, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9237759864261ccd2a07cc?utm_campaign=1051&utm_source=git)** | Wichita Falls, TX, United States | On Site | Aug 28 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9237749864261ccd2a07ca?utm_campaign=1051&utm_source=git)** | Savannah, GA, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923774a27a2d3c9848b87a?utm_campaign=1051&utm_source=git)** | Findlay, OH, United States | On Site | Aug 28 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9237749864261ccd2a07ca?utm_campaign=1051&utm_source=git)** | Savannah, GA, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923424a27a2d3c9848b828?utm_campaign=1051&utm_source=git)** | Saint Clairsville, OH, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a92341b8e59685453379395?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS, United States | On Site | Aug 28 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a923419c12c90443efc9ab4?utm_campaign=1051&utm_source=git)** | Dawsonville, GA, United States | On Site | Aug 28 |
@@ -78,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a922be53603630099195f45?utm_campaign=1051&utm_source=git)** | Florence, KY, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a922bdd9864261ccd2a0681?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9227198e59685453379209?utm_campaign=1051&utm_source=git)** | Grapevine, TX, United States | On Site | Aug 28 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a922716d18f75674827b84b?utm_campaign=1051&utm_source=git)** | Evansville, IN, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a922716c12c90443efc991d?utm_campaign=1051&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 28 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a922716d18f75674827b84b?utm_campaign=1051&utm_source=git)** | Evansville, IN, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9223fb8e596854533791c6?utm_campaign=1051&utm_source=git)** | Cape Girardeau, MO, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9223d3a27a2d3c9848b638?utm_campaign=1051&utm_source=git)** | Greenwood, IN, United States | On Site | Aug 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9223819864261ccd2a056c?utm_campaign=1051&utm_source=git)** | Tulsa, OK, United States | On Site | Aug 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nucor Corporation](http://www.nucor.com)** | **[Sales and Business Development Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8f44cbd7c91d0cf446e68c?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 28 |
 | **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Georgia-Pacific Sales/Marketing Internship (JumpStart) – Summer 2027](https://jobright.ai/jobs/info/6a91aecba27a2d3c984893e4?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 28 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[Sales Development Intern (Summer 2027)](https://jobright.ai/jobs/info/6a91ac903603630099193b33?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 28 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a91ab093603630099193aa2?utm_campaign=1051&utm_source=git)** | Ormond Beach, FL, United States | On Site | Aug 28 |
-| **[Gray Media](https://graymedia.com)** | **[GRAY MEDIA SALES TRAINING PROGRAM (FALL '26) - WVLT](https://jobright.ai/jobs/info/6a91a9ef8e59685453376d58?utm_campaign=1051&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 28 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Central Michigan](https://jobright.ai/jobs/info/6a90a8de7c32860d14cfacc1?utm_campaign=1051&utm_source=git)** | Webberville, MI, United States | On Site | Aug 28 |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Field Sales Management (Avenel, NJ)](https://jobright.ai/jobs/info/6a877debd34f700f87fc5b7e?utm_campaign=1051&utm_source=git)** | Avenel, NJ, United States | On Site | Aug 28 |
-| ↳ | **[Summer 2027 Intern - Field Sales Management (Avenel, NJ)](https://jobright.ai/jobs/info/6a87873bcde3717f9e9b2952?utm_campaign=1051&utm_source=git)** | Avenel, NJ, United States | On Site | Aug 28 |
-| ↳ | **[Summer 2027 Intern - Field Sales Management (Houston, TX)](https://jobright.ai/jobs/info/6a878722e8b6601d1290413e?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
