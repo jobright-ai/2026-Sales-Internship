@@ -57,13 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Triumphant Financial Group](https://triumphantfinancialgroup.com/)** | **[College Intern](https://jobright.ai/jobs/info/6a9803c5c8ed473c5c761e79?utm_campaign=1051&utm_source=git)** | El Paso, TX, United States | Remote | Sep 02 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/6a980338af954907d657136a?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | Remote | Sep 02 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/6a98017383fc63335762f60b?utm_campaign=1051&utm_source=git)** | Clearwater, FL, United States | Remote | Sep 02 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/6a9801485ed1b8370dc1a789?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | Remote | Sep 02 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/6a98006d5ed1b8370dc1a778?utm_campaign=1051&utm_source=git)** | Seattle, WA, United States | Remote | Sep 02 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/6a98006cc8ed473c5c761de7?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | Remote | Sep 02 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/6a97ffffc8ed473c5c761ddf?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI, United States | Remote | Sep 02 |
+| **[BIGO](https://www.bigo.sg)** | **[Bigo Live - Partnerships Intern](https://jobright.ai/jobs/info/6a9804aaaf954907d6571384?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 02 |
 | **[Alea Industries](https://myceleste.xyz)** | **[Sales Intern](https://jobright.ai/jobs/info/6a97fe0ac8ed473c5c761d85?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 02 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[CRM Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7b2b77b933773d16be5993?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Sep 02 |
 | **[Textron Aviation](http://txtav.com)** | **[2027 Inventory Operations Intern](https://jobright.ai/jobs/info/6a97ec7f69d7730385d6ce76?utm_campaign=1051&utm_source=git)** | Augusta, GA, United States | On Site | Sep 02 |
@@ -108,25 +102,25 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Building Automation Solutions Sales Intern](https://jobright.ai/jobs/info/6a97a7fb72b96b1c436f109c?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 01 |
 | ↳ | **[Building Automation Service Sales Intern](https://jobright.ai/jobs/info/6a97a7f372b96b1c436f1095?utm_campaign=1051&utm_source=git)** | Shoreview, MN, United States | On Site | Sep 01 |
 | ↳ | **[Building Automation Solutions Sales Intern](https://jobright.ai/jobs/info/6a97a7e9408304609c16de02?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 01 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a95907dcabc9f6703e186c5?utm_campaign=1051&utm_source=git)** | Chesapeake, VA, United States | On Site | Sep 01 |
-| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a959077c8763a3a87ffa9e6?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL, United States | On Site | Sep 01 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a95906c4c22023a079345a6?utm_campaign=1051&utm_source=git)** | Las Vegas, NV, United States | On Site | Sep 01 |
+| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a95907dcabc9f6703e186c5?utm_campaign=1051&utm_source=git)** | Chesapeake, VA, United States | On Site | Sep 01 |
 | ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a95905dcabc9f6703e186ac?utm_campaign=1051&utm_source=git)** | Latham, NY, United States | On Site | Sep 01 |
-| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a95905e4c22023a0793459d?utm_campaign=1051&utm_source=git)** | Fenton, MO, United States | On Site | Sep 01 |
-| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a959059cabc9f6703e186a9?utm_campaign=1051&utm_source=git)** | North Charleston, SC, United States | On Site | Sep 01 |
-| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a95907d4c22023a079345b5?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 01 |
 | ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a95905ec8763a3a87ffa9d1?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 01 |
-| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a959060f28891320e85c6de?utm_campaign=1051&utm_source=git)** | Ridgeland, MS, United States | On Site | Sep 01 |
-| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a959066c8763a3a87ffa9db?utm_campaign=1051&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 01 |
-| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a9590633843db0159905bc3?utm_campaign=1051&utm_source=git)** | King of Prussia, PA, United States | On Site | Sep 01 |
 | ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a9590584c22023a0793458f?utm_campaign=1051&utm_source=git)** | Portland, OR, United States | On Site | Sep 01 |
-| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a95906c4c22023a079345a6?utm_campaign=1051&utm_source=git)** | Las Vegas, NV, United States | On Site | Sep 01 |
+| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a959066c8763a3a87ffa9db?utm_campaign=1051&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 01 |
+| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a959060f28891320e85c6de?utm_campaign=1051&utm_source=git)** | Ridgeland, MS, United States | On Site | Sep 01 |
+| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a959059cabc9f6703e186a9?utm_campaign=1051&utm_source=git)** | North Charleston, SC, United States | On Site | Sep 01 |
+| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a95905e4c22023a0793459d?utm_campaign=1051&utm_source=git)** | Fenton, MO, United States | On Site | Sep 01 |
+| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a959077c8763a3a87ffa9e6?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL, United States | On Site | Sep 01 |
+| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a9590633843db0159905bc3?utm_campaign=1051&utm_source=git)** | King of Prussia, PA, United States | On Site | Sep 01 |
+| ↳ | **[2027 Technical Sales Intern - Services](https://jobright.ai/jobs/info/6a95907d4c22023a079345b5?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 01 |
 | **[Michelin](http://www.michelin.com)** | **[Summer 2027 Internship: Sales (Greenville, SC)](https://jobright.ai/jobs/info/6a979c32f9a3053e6a30912b?utm_campaign=1051&utm_source=git)** | Greenville, SC, United States | On Site | Sep 01 |
 | **[Barclays](https://home.barclays)** | **[Banking Associate Summer Internship Program 2027 San Francisco](https://jobright.ai/jobs/info/6a9798b8931cbe61b8ef856f?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 01 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Tampa + St. Pete + Sarasota, FL (Starting Summer 2027)](https://jobright.ai/jobs/info/6a9796eca702dd5c73151a25?utm_campaign=1051&utm_source=git)** | Tampa, FL, United States | On Site | Sep 01 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Charleston, SC + Savannah, GA (Starting Summer 2027)](https://jobright.ai/jobs/info/6a9796ccf9a3053e6a3090a3?utm_campaign=1051&utm_source=git)** | Summerville, SC, United States | On Site | Sep 01 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - South FL (Miami to West Palm)- Starting Summer 2027)](https://jobright.ai/jobs/info/6a9796863a70902ca9145288?utm_campaign=1051&utm_source=git)** | Miami, FL, United States | On Site | Sep 01 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Raleigh, NC (Starting Summer 2027)](https://jobright.ai/jobs/info/6a96f4c3246d697dcee02300?utm_campaign=1051&utm_source=git)** | Cary, NC, United States | On Site | Sep 01 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - NE Dallas, TX (Starting Summer 2027)](https://jobright.ai/jobs/info/6a96f48a455eaf6a08c197d6?utm_campaign=1051&utm_source=git)** | Wylie, TX, United States | On Site | Sep 01 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Raleigh, NC (Starting Summer 2027)](https://jobright.ai/jobs/info/6a96f4c3246d697dcee02300?utm_campaign=1051&utm_source=git)** | Cary, NC, United States | On Site | Sep 01 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Central Dallas, TX (Starting Summer 2027)](https://jobright.ai/jobs/info/6a96f4abb22f636c81414b1f?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | On Site | Sep 01 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - W Dallas, TX (Starting Summer 2027)](https://jobright.ai/jobs/info/6a96f488455eaf6a08c197d2?utm_campaign=1051&utm_source=git)** | Denton, TX, United States | On Site | Sep 01 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Orlando, FL (Starting Summer 2027)](https://jobright.ai/jobs/info/6a96e1fcb22f636c81414464?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | On Site | Sep 01 |
@@ -140,7 +134,7 @@ For a complete list, click the following sortable link below:
 | **[BBI Logistics](https://www.bbilogistics.com/)** | **[Carrier Sales Intern](https://jobright.ai/jobs/info/6a96fd9fe4e60e4b8da5b2b1?utm_campaign=1051&utm_source=git)** | Columbus, OH, United States | On Site | Sep 01 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a96fdc1d13b4819f39de2e0?utm_campaign=1051&utm_source=git)** | Columbus, OH, United States | On Site | Sep 01 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a6da658cd3bac13d3705c9a?utm_campaign=1051&utm_source=git)** | The Colony, TX, United States | Hybrid | Sep 01 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Wealth Management Investments Intern](https://jobright.ai/jobs/info/6a974c83e4e60e4b8da5d72e?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
+| **[Northern Trust](http://www.northerntrust.com)** | **[Wealth Management Investments Intern](https://jobright.ai/jobs/info/6a9749f8b22f636c814172d0?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
 | ↳ | **[Asset Management Intern - Client](https://jobright.ai/jobs/info/6a974c6ad13b4819f39e06c5?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
 | ↳ | **[Wealth Management Intern - Chicago](https://jobright.ai/jobs/info/6a974a0ef5337b2cf732158a?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
 | **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Sep 01 |
@@ -148,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a574b0821f64463ad358a1f?utm_campaign=1051&utm_source=git)** | Evergreen Park, IL, United States | On Site | Sep 01 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2027 Retail Banking Intern](https://jobright.ai/jobs/info/6a96ca4a455eaf6a08c1896b?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 01 |
 | ↳ | **[Summer 2027 Retail Banking Intern](https://jobright.ai/jobs/info/6a96ca40246d697dcee0145b?utm_campaign=1051&utm_source=git)** | Hermitage, PA, United States | On Site | Sep 01 |
+| ↳ | **[Summer 2027 Retail Banking Intern](https://jobright.ai/jobs/info/6a96ca49f5337b2cf731df48?utm_campaign=1051&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 01 |
 | ↳ | **[Summer 2027 Retail Banking Intern](https://jobright.ai/jobs/info/6a96ca44d13b4819f39dd032?utm_campaign=1051&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 01 |
-| ↳ | **[Summer 2027 Retail Banking Intern](https://jobright.ai/jobs/info/6a96ca3eb22f636c81413c4b?utm_campaign=1051&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 01 |
 | ↳ | **[Summer 2027 Retail Banking Intern](https://jobright.ai/jobs/info/6a970e2d455eaf6a08c1a636?utm_campaign=1051&utm_source=git)** | State College, PA, United States | On Site | Sep 01 |
 | ↳ | **[Summer 2027 Retail Banking Intern](https://jobright.ai/jobs/info/6a96ca3d455eaf6a08c18968?utm_campaign=1051&utm_source=git)** | Burlington, NC, United States | On Site | Sep 01 |
 | ↳ | **[Summer 2027 FNB Advisory Businesses: Wealth Management, Private Banking & Insurance Intern](https://jobright.ai/jobs/info/6a96ed66246d697dcee020bb?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 01 |
@@ -157,4 +151,10 @@ For a complete list, click the following sortable link below:
 | **[BELFOR Property Restoration](http://www.belfor.com)** | **[Restoration Sales Intern](https://jobright.ai/jobs/info/6a973b66246d697dcee043d0?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA, United States | On Site | Sep 01 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Sales Intern - Fall 2026](https://jobright.ai/jobs/info/6a554760f2c46727285f10e3?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 01 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2027 Corporate Development Intern - Graduate](https://jobright.ai/jobs/info/6a971910455eaf6a08c1aa36?utm_campaign=1051&utm_source=git)** | Greater Seattle Area, United States | On Site | Sep 01 |
+| **[Corning Incorporated](https://www.corning.com/)** | **[Intern, Sales Development - Summer 2027](https://jobright.ai/jobs/info/6a973f7c455eaf6a08c1bb73?utm_campaign=1051&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 01 |
+| **[Magna International](http://www.magna.com/)** | **[Intern - Sales](https://jobright.ai/jobs/info/6a97169a455eaf6a08c1a928?utm_campaign=1051&utm_source=git)** | Southfield, MI, United States | On Site | Sep 01 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a5fa7f9f68dd368023e7c84?utm_campaign=1051&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 01 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a73a5996a034212ea028e63?utm_campaign=1051&utm_source=git)** | Woodstock, GA, United States | On Site | Sep 01 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a921129d18f75674827b5d4?utm_campaign=1051&utm_source=git)** | Franklin, TN, United States | On Site | Sep 01 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a5fe05933ef5c58b4000bd3?utm_campaign=1051&utm_source=git)** | Findlay, OH, United States | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
