@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nemacolin](http://www.nemacolin.com)** | **[Revenue Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a9f13b8352f093fc756d804?utm_campaign=1051&utm_source=git)** | Farmington, PA, United States | On Site | Sep 07 |
+| ↳ | **[Reservations Intern (Summer 2027)](https://jobright.ai/jobs/info/6a9f13b4dacf777321a9407f?utm_campaign=1051&utm_source=git)** | Farmington, PA, United States | On Site | Sep 07 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a9f06b5dacf777321a93f49?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 07 |
 | **[Wright's Resumes and Connections](https://www.wrightsresumes.com)** | **[Business Development & Partnerships Lead Internship (Remote) - Unpaid](https://jobright.ai/jobs/info/6a9eff8c352f093fc756d5d4?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Summer 2027 Transactions Intern](https://jobright.ai/jobs/info/6a6b9e9057120971bf3a7ee8?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Sep 07 |
@@ -142,19 +144,17 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Logistics Partnership Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a53188ae726ec56126a5a69?utm_campaign=1051&utm_source=git)** | Seattle, WA, United States | On Site | Sep 05 |
 | **[Liberated People](http://www.weareliberated.com)** | **[Retail e-commerce Business Management Internship](https://jobright.ai/jobs/info/6a53c3b5e726ec56126a7e69?utm_campaign=1051&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Sep 05 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a574b0821f64463ad358a1f?utm_campaign=1051&utm_source=git)** | Evergreen Park, IL, United States | On Site | Sep 05 |
-| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Sep 05 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5f86cd193b5113096790c4?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | On Site | Sep 05 |
+| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Sep 05 |
 | **[Wellnest Fertility](https://www.wellnestfertility.com)** | **[Wellnest Business Development Intern](https://jobright.ai/jobs/info/6a5200db8d7d3e6cf1cc5068?utm_campaign=1051&utm_source=git)** | Ogden, UT, United States | On Site | Sep 05 |
 | **[Course Couture](coursecouture.shop)** | **[Sales & Events Intern — Course Couture](https://jobright.ai/jobs/info/6a9cbb782c964816f65e9d1b?utm_campaign=1051&utm_source=git)** | Denver, Colorado, United States | Hybrid | Sep 05 |
 | **[Continental](https://www.continental.com)** | **[Intern - Sales, Summer 2027 - Truck Tire](https://jobright.ai/jobs/info/6a7b71e13b399d106e4d672c?utm_campaign=1051&utm_source=git)** | Fort Mill, SC, United States | On Site | Sep 05 |
 | ↳ | **[Intern - Sales, Summer 2027 - PLT](https://jobright.ai/jobs/info/6a7b71dcecfd297707538f23?utm_campaign=1051&utm_source=git)** | Fort Mill, SC, United States | On Site | Sep 05 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/68c9cc8e95f5211cd2cf4719?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 05 |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Field Sales Management (Frisco, TX)](https://jobright.ai/jobs/info/6a877dd8d34f700f87fc5b72?utm_campaign=1051&utm_source=git)** | Frisco, TX, United States | On Site | Sep 05 |
-| ↳ | **[Summer 2027 Intern - Field Sales Management (Frisco, TX)](https://jobright.ai/jobs/info/6a87873e4afae74a08349126?utm_campaign=1051&utm_source=git)** | Frisco, TX, United States | On Site | Sep 05 |
-| ↳ | **[Summer 2027 Intern - Sales Analyst](https://jobright.ai/jobs/info/6a877de4cde3717f9e9b25f3?utm_campaign=1051&utm_source=git)** | Frisco, TX, United States | Hybrid | Sep 05 |
-| ↳ | **[Summer 2027 Intern - Field Sales Management (Houston, TX)](https://jobright.ai/jobs/info/6a877dd925fc4e7ae3dad854?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Sep 05 |
-| ↳ | **[Summer 2027 Intern - Sales and Data Analytics](https://jobright.ai/jobs/info/6a972345d13b4819f39df500?utm_campaign=1051&utm_source=git)** | Rogers, AR, United States | On Site | Sep 05 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Field Sales Management (Frisco, TX)](https://jobright.ai/jobs/info/6a87873e4afae74a08349126?utm_campaign=1051&utm_source=git)** | Frisco, TX, United States | On Site | Sep 05 |
+| ↳ | **[Summer 2027 Intern - Field Sales Management (Frisco, TX)](https://jobright.ai/jobs/info/6a877dd8d34f700f87fc5b72?utm_campaign=1051&utm_source=git)** | Frisco, TX, United States | On Site | Sep 05 |
 | ↳ | **[Summer 2027 Intern - Field Sales Management (Northlake, IL)](https://jobright.ai/jobs/info/6a87873e25fc4e7ae3dadbbf?utm_campaign=1051&utm_source=git)** | Northlake, Illinois, United States | On Site | Sep 05 |
-| ↳ | **[Summer 2027 Intern - Field Sales Management (Houston, TX)](https://jobright.ai/jobs/info/6a878722e8b6601d1290413e?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Sep 05 |
-| ↳ | **[Summer 2027 Intern - Field Sales Management (Indianapolis, IN)](https://jobright.ai/jobs/info/6a877de5680f314a29d3921a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 05 |
+| ↳ | **[Summer 2027 Intern - Field Sales Management (Houston, TX)](https://jobright.ai/jobs/info/6a877dd925fc4e7ae3dad854?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Sep 05 |
+| ↳ | **[Summer 2027 Intern - Sales and Data Analytics](https://jobright.ai/jobs/info/6a972933e4e60e4b8da5c67a?utm_campaign=1051&utm_source=git)** | Rogers, AR, United States | On Site | Sep 05 |
+| ↳ | **[Summer 2027 Intern - Sales Analyst](https://jobright.ai/jobs/info/6a87872acde3717f9e9b2948?utm_campaign=1051&utm_source=git)** | Frisco, TX, United States | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
