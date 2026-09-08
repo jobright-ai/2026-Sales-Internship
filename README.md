@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morningstar](http://www.morningstar.com)** | **[Morningstar Internship Program – Sales Intern 2027 (Campus)](https://jobright.ai/jobs/info/6a950a819864261ccd2a4d9e?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 07 |
+| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Buyer (Summer 2027)](https://jobright.ai/jobs/info/6a973ff6246d697dcee04743?utm_campaign=1051&utm_source=git)** | Neenah, WI, United States | On Site | Sep 07 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program – Business Development Execution – Intern](https://jobright.ai/jobs/info/6a9f5b9a68f82b403673ce00?utm_campaign=1051&utm_source=git)** | North Wales, PA, United States | Hybrid | Sep 07 |
 | ↳ | **[2027 Future Talent Program - Global Market Access: Private Market Access Intern](https://jobright.ai/jobs/info/6a9f5b062c964816f65efe5e?utm_campaign=1051&utm_source=git)** | Rahway, NJ, United States | Hybrid | Sep 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Field Sales & Services Intern](https://jobright.ai/jobs/info/6a9f5adbdacf777321a94b6c?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | On Site | Sep 07 |
@@ -136,8 +138,10 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/6a5529fd377f983ce8a9832c?utm_campaign=1051&utm_source=git)** | Austin, TX, United States | On Site | Sep 07 |
 | ↳ | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/6a0e58dd47fea1610bca9a31?utm_campaign=1051&utm_source=git)** | Nashville, TN, United States | On Site | Sep 07 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5258bad007ee02d95f72f1?utm_campaign=1051&utm_source=git)** | Red Bank, NJ, United States | On Site | Sep 07 |
+| **[Initio Capital](https://initiostudios.io)** | **[Business Development & Deal Flow Analyst](https://jobright.ai/jobs/info/6a9f6023352f093fc756e366?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Sep 07 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Demand Planning Intern - Summer 2027](https://jobright.ai/jobs/info/6a9e4e6c27c94c3d5a1cc2ec?utm_campaign=1051&utm_source=git)** | Austin, TX, United States | On Site | Sep 07 |
-| **[Initio Capital](https://initiostudios.io)** | **[Head of Deal Sourcing](https://jobright.ai/jobs/info/6a9f2c6968f82b403673c6a6?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Sep 07 |
+| **[Initio Capital](https://initiostudios.io)** | **[Investment Partnerships Analyst](https://jobright.ai/jobs/info/6a9f6011a7ba386c5d674f28?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Sep 07 |
+| ↳ | **[Head of Deal Sourcing](https://jobright.ai/jobs/info/6a9f2c6968f82b403673c6a6?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Sep 07 |
 | **[EY](http://www.ey.com)** | **[USA - EY-Parthenon - Deals - Transaction Analytics - Summer Associate 2027](https://jobright.ai/jobs/info/6a9efd83dacf777321a93e08?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Sep 06 |
 | **[IBM](http://www.ibm.com)** | **[Technology Seller - Spring Co-op Sales Program 2027](https://jobright.ai/jobs/info/6a9e3cec68f82b403673922d?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 06 |
 | ↳ | **[Technology Seller Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e3cb5a7ba386c5d67141b?utm_campaign=1051&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Portfolio Development Intern 2027](https://jobright.ai/jobs/info/6a9e308b75edfa11b47107b4?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Sep 06 |
 | ↳ | **[Global Sales Incentives – Sales Plan Design, Segmentation & Analytics Intern 2027](https://jobright.ai/jobs/info/6a9e2b26dacf777321a90a81?utm_campaign=1051&utm_source=git)** | Armonk, NY, United States | Hybrid | Sep 06 |
 | ↳ | **[Expert Labs Sales Specialist Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e2aa575edfa11b47106d5?utm_campaign=1051&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 06 |
-| ↳ | **[Brand Sales Specialist - Spring Co-op Sales Program 2027](https://jobright.ai/jobs/info/6a9e255275edfa11b4710664?utm_campaign=1051&utm_source=git)** | Atlanta, Georgia, United States | On Site | Sep 06 |
-| ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e24faa7ba386c5d670e1c?utm_campaign=1051&utm_source=git)** | Durham, NC, United States | Hybrid | Sep 06 |
-| ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e246468f82b4036738bf7?utm_campaign=1051&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 06 |
-| **[Amgen](https://www.amgen.com.sg)** | **[Undergrad Intern - Business Development – Thousand Oaks, CA (Summer 2027)](https://jobright.ai/jobs/info/6a9ebc27a7ba386c5d673676?utm_campaign=1051&utm_source=git)** | Thousand Oaks, CA, United States | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
