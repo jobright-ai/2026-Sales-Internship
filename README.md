@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merck](http://www.merck.com)** | **[2027 Future Talent Program – Business Development Execution – Intern](https://jobright.ai/jobs/info/6a9f5b9a68f82b403673ce00?utm_campaign=1051&utm_source=git)** | North Wales, PA, United States | Hybrid | Sep 07 |
+| ↳ | **[2027 Future Talent Program - Global Market Access: Private Market Access Intern](https://jobright.ai/jobs/info/6a9f5b062c964816f65efe5e?utm_campaign=1051&utm_source=git)** | Rahway, NJ, United States | Hybrid | Sep 07 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Field Sales & Services Intern](https://jobright.ai/jobs/info/6a9f5adbdacf777321a94b6c?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | On Site | Sep 07 |
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a9f45ea352f093fc756dde4?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 07 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f42d7f6ea002358297ad3?utm_campaign=1051&utm_source=git)** | Exton, PA, United States | On Site | Sep 07 |
 | ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f42b5a7ba386c5d67492e?utm_campaign=1051&utm_source=git)** | Springfield, PA, United States | On Site | Sep 07 |
@@ -75,13 +78,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Sales Management Trainee Intern - South Jersey (Philly Metro)](https://jobright.ai/jobs/info/6a9f407e352f093fc756dd11?utm_campaign=1051&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Sep 07 |
 | ↳ | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f404a352f093fc756dd0d?utm_campaign=1051&utm_source=git)** | Paoli, PA, United States | On Site | Sep 07 |
 | ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4049dacf777321a945c7?utm_campaign=1051&utm_source=git)** | Springfield, PA, United States | On Site | Sep 07 |
-| ↳ | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4048352f093fc756dd0b?utm_campaign=1051&utm_source=git)** | Lansdale, PA, United States | On Site | Sep 07 |
 | ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4048a7ba386c5d6748eb?utm_campaign=1051&utm_source=git)** | Exton, PA, United States | On Site | Sep 07 |
+| ↳ | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4048352f093fc756dd0b?utm_campaign=1051&utm_source=git)** | Lansdale, PA, United States | On Site | Sep 07 |
 | ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4046a7ba386c5d6748e9?utm_campaign=1051&utm_source=git)** | Conshohocken, PA, United States | On Site | Sep 07 |
 | ↳ | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f3fd268f82b403673c839?utm_campaign=1051&utm_source=git)** | Springfield, PA, United States | On Site | Sep 07 |
 | ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f3f50a7ba386c5d6748da?utm_campaign=1051&utm_source=git)** | Bensalem, PA, United States | On Site | Sep 07 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f3f39352f093fc756dcfc?utm_campaign=1051&utm_source=git)** | Bensalem, PA, United States | On Site | Sep 07 |
 | ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f3efaa7ba386c5d6748cf?utm_campaign=1051&utm_source=git)** | Bensalem, PA, United States | On Site | Sep 07 |
+| **[Sunoco LP](https://www.sunocolp.com)** | **[Intern- Sales / Customer Acct Mgmt](https://jobright.ai/jobs/info/6a9b2ae19c24314c35f980d8?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | On Site | Sep 07 |
 | **[BUYMARG](https://www.buymarg.com)** | **[Internship](https://jobright.ai/jobs/info/6a9f32a268f82b403673c71c?utm_campaign=1051&utm_source=git)** | Kansas, United States | On Site | Sep 07 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Sales Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a60cf7bc752926c22682388?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a9f2d1268f82b403673c6c4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e24faa7ba386c5d670e1c?utm_campaign=1051&utm_source=git)** | Durham, NC, United States | Hybrid | Sep 06 |
 | ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e246468f82b4036738bf7?utm_campaign=1051&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 06 |
 | **[Amgen](https://www.amgen.com.sg)** | **[Undergrad Intern - Business Development – Thousand Oaks, CA (Summer 2027)](https://jobright.ai/jobs/info/6a9ebc27a7ba386c5d673676?utm_campaign=1051&utm_source=git)** | Thousand Oaks, CA, United States | On Site | Sep 06 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Financial Coaching and Economic Mobility Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f3a8c7fd835513b9372?utm_campaign=1051&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 06 |
-| ↳ | **[Client Data & Outreach  Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f4a6e0c3c7c7d3d729d?utm_campaign=1051&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 06 |
-| **[StepStone Group](https://www.stepstonegroup.com)** | **[2027 Venture Capital & Growth Equity – Investor Relations Summer Analyst](https://jobright.ai/jobs/info/6a70efda02d93145bf88d3c8?utm_campaign=1051&utm_source=git)** | Baltimore, MD, United States | Hybrid | Sep 06 |
-| **[ThredUp](http://www.thredup.com)** | **[Live Selling/Social Commerce Intern](https://jobright.ai/jobs/info/6a9e8c4c68f82b403673a630?utm_campaign=1051&utm_source=git)** | Suwanee, GA, United States | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
