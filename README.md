@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amgen](https://www.amgen.com.sg)** | **[Undergrad Intern - Business Development – Thousand Oaks, CA (Summer 2027)](https://jobright.ai/jobs/info/6a9ebc27a7ba386c5d673676?utm_campaign=1051&utm_source=git)** | Thousand Oaks, CA, United States | On Site | Sep 07 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51d72abf63b66c7997db0f?utm_campaign=1051&utm_source=git)** | Oswego, NY, United States | On Site | Sep 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Client Solutions Intern (GBS-NA) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2d1cde3717f9e9bf987?utm_campaign=1051&utm_source=git)** | Los Angeles, United States | On Site | Sep 07 |
+| ↳ | **[Client Solutions Intern (GBS-NA) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2d3d34f700f87fd30a4?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Sep 07 |
+| ↳ | **[Client Solutions Intern (GBS-NA) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2d01d96e6541c8c3611?utm_campaign=1051&utm_source=git)** | San Jose, CA, United States | On Site | Sep 07 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5e833b27bf767ea68f729d?utm_campaign=1051&utm_source=git)** | Mandeville, LA, United States | On Site | Sep 07 |
+| **[Matriosh](Matriosh.com)** | **[Founder Office Intern- Menlo Park, CA](https://jobright.ai/jobs/info/6a9f6a6b68f82b403673cf57?utm_campaign=1051&utm_source=git)** | Menlo Park, CA, United States | On Site | Sep 07 |
+| **[AI Trusted Advisors](https://aitrustedadvisors.com)** | **[Enterprise Account Intern](https://jobright.ai/jobs/info/6a9f6a6bf6ea0023582981ac?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Morningstar](http://www.morningstar.com)** | **[Morningstar Internship Program – Sales Intern 2027 (Campus)](https://jobright.ai/jobs/info/6a950a819864261ccd2a4d9e?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 07 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Buyer (Summer 2027)](https://jobright.ai/jobs/info/6a973ff6246d697dcee04743?utm_campaign=1051&utm_source=git)** | Neenah, WI, United States | On Site | Sep 07 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program – Business Development Execution – Intern](https://jobright.ai/jobs/info/6a9f5b9a68f82b403673ce00?utm_campaign=1051&utm_source=git)** | North Wales, PA, United States | Hybrid | Sep 07 |
@@ -80,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Sales Management Trainee Intern - South Jersey (Philly Metro)](https://jobright.ai/jobs/info/6a9f407e352f093fc756dd11?utm_campaign=1051&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Sep 07 |
 | ↳ | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f404a352f093fc756dd0d?utm_campaign=1051&utm_source=git)** | Paoli, PA, United States | On Site | Sep 07 |
 | ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4049dacf777321a945c7?utm_campaign=1051&utm_source=git)** | Springfield, PA, United States | On Site | Sep 07 |
-| ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4048a7ba386c5d6748eb?utm_campaign=1051&utm_source=git)** | Exton, PA, United States | On Site | Sep 07 |
 | ↳ | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4048352f093fc756dd0b?utm_campaign=1051&utm_source=git)** | Lansdale, PA, United States | On Site | Sep 07 |
+| ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4048a7ba386c5d6748eb?utm_campaign=1051&utm_source=git)** | Exton, PA, United States | On Site | Sep 07 |
 | ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4046a7ba386c5d6748e9?utm_campaign=1051&utm_source=git)** | Conshohocken, PA, United States | On Site | Sep 07 |
 | ↳ | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f3fd268f82b403673c839?utm_campaign=1051&utm_source=git)** | Springfield, PA, United States | On Site | Sep 07 |
 | ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f3f50a7ba386c5d6748da?utm_campaign=1051&utm_source=git)** | Bensalem, PA, United States | On Site | Sep 07 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Sales Engineer - Spring Co-op Sales Program 2027](https://jobright.ai/jobs/info/6a9e3cada7ba386c5d671414?utm_campaign=1051&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Sep 06 |
 | ↳ | **[Technology Lifecycle Services Renewals Sales Specialist Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e3c8e2c964816f65ec2b2?utm_campaign=1051&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 06 |
 | ↳ | **[Technical Engineering Seller Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e3c7ddacf777321a90f8a?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Sep 06 |
-| ↳ | **[Technical Sales Engineer Intern - Entry-Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e3c7c68f82b40367391c6?utm_campaign=1051&utm_source=git)** | Research Triangle Park, Durham, United States | Hybrid | Sep 06 |
-| ↳ | **[Subscription and Annuity Representative Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e3af3a7ba386c5d671277?utm_campaign=1051&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 06 |
-| ↳ | **[Technical Engineering Seller Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e39b227c94c3d5a1cb91a?utm_campaign=1051&utm_source=git)** | Montreal, QC, Canada | Hybrid | Sep 06 |
-| ↳ | **[Solution Architect Intern - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e39a327c94c3d5a1cb919?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Sep 06 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a57632821f64463ad358eec?utm_campaign=1051&utm_source=git)** | Jamison, PA, United States | On Site | Sep 06 |
-| **[IBM](http://www.ibm.com)** | **[Portfolio Development Intern 2027](https://jobright.ai/jobs/info/6a9e308b75edfa11b47107b4?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Sep 06 |
-| ↳ | **[Global Sales Incentives – Sales Plan Design, Segmentation & Analytics Intern 2027](https://jobright.ai/jobs/info/6a9e2b26dacf777321a90a81?utm_campaign=1051&utm_source=git)** | Armonk, NY, United States | Hybrid | Sep 06 |
-| ↳ | **[Expert Labs Sales Specialist Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e2aa575edfa11b47106d5?utm_campaign=1051&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
