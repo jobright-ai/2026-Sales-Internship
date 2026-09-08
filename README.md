@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f408fdacf777321a945cf?utm_campaign=1051&utm_source=git)** | Conshohocken, PA, United States | On Site | Sep 07 |
+| ↳ | **[Summer 2027 Sales Management Trainee Intern - South Jersey (Philly Metro)](https://jobright.ai/jobs/info/6a9f407e352f093fc756dd11?utm_campaign=1051&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Sep 07 |
+| ↳ | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f404a352f093fc756dd0d?utm_campaign=1051&utm_source=git)** | Paoli, PA, United States | On Site | Sep 07 |
+| ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4049dacf777321a945c7?utm_campaign=1051&utm_source=git)** | Springfield, PA, United States | On Site | Sep 07 |
+| ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4048a7ba386c5d6748eb?utm_campaign=1051&utm_source=git)** | Exton, PA, United States | On Site | Sep 07 |
+| ↳ | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4048352f093fc756dd0b?utm_campaign=1051&utm_source=git)** | Lansdale, PA, United States | On Site | Sep 07 |
+| ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4046a7ba386c5d6748e9?utm_campaign=1051&utm_source=git)** | Conshohocken, PA, United States | On Site | Sep 07 |
+| ↳ | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f3fd268f82b403673c839?utm_campaign=1051&utm_source=git)** | Springfield, PA, United States | On Site | Sep 07 |
+| ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f3f50a7ba386c5d6748da?utm_campaign=1051&utm_source=git)** | Bensalem, PA, United States | On Site | Sep 07 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f3f39352f093fc756dcfc?utm_campaign=1051&utm_source=git)** | Bensalem, PA, United States | On Site | Sep 07 |
+| ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f3efaa7ba386c5d6748cf?utm_campaign=1051&utm_source=git)** | Bensalem, PA, United States | On Site | Sep 07 |
 | **[BUYMARG](https://www.buymarg.com)** | **[Internship](https://jobright.ai/jobs/info/6a9f32a268f82b403673c71c?utm_campaign=1051&utm_source=git)** | Kansas, United States | On Site | Sep 07 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Sales Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a60cf7bc752926c22682388?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a9f2d1268f82b403673c6c4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 07 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Southern California and Phoenix](https://jobright.ai/jobs/info/6a91d898c12c90443efc8844?utm_campaign=1051&utm_source=git)** | Moreno Valley, CA, United States | On Site | Sep 06 |
 | ↳ | **[District Manager Intern - Central Michigan](https://jobright.ai/jobs/info/6a90a8de7c32860d14cfacc1?utm_campaign=1051&utm_source=git)** | Webberville, MI, United States | On Site | Sep 06 |
 | ↳ | **[District Manager Intern - New England & Capital District](https://jobright.ai/jobs/info/6a7b69a477e6b569c61c0486?utm_campaign=1051&utm_source=git)** | South Windsor, CT, United States | On Site | Sep 06 |
-| **[NetJets](https://www.netjets.com/)** | **[Sales Intern (NJUS)](https://jobright.ai/jobs/info/6a9d0bf5dacf777321a8f274?utm_campaign=1051&utm_source=git)** | Columbus, OH, United States | On Site | Sep 05 |
-| **[TikTok](https://www.tiktok.com)** | **[Logistics Partnership Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a53188ae726ec56126a5a69?utm_campaign=1051&utm_source=git)** | Seattle, WA, United States | On Site | Sep 05 |
-| **[Liberated People](http://www.weareliberated.com)** | **[Retail e-commerce Business Management Internship](https://jobright.ai/jobs/info/6a53c3b5e726ec56126a7e69?utm_campaign=1051&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Sep 05 |
-| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Sep 05 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a574b0821f64463ad358a1f?utm_campaign=1051&utm_source=git)** | Evergreen Park, IL, United States | On Site | Sep 05 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5f86cd193b5113096790c4?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | On Site | Sep 05 |
-| **[Wellnest Fertility](https://www.wellnestfertility.com)** | **[Wellnest Business Development Intern](https://jobright.ai/jobs/info/6a5200db8d7d3e6cf1cc5068?utm_campaign=1051&utm_source=git)** | Ogden, UT, United States | On Site | Sep 05 |
-| **[Course Couture](coursecouture.shop)** | **[Sales & Events Intern — Course Couture](https://jobright.ai/jobs/info/6a9cbb782c964816f65e9d1b?utm_campaign=1051&utm_source=git)** | Denver, Colorado, United States | Hybrid | Sep 05 |
-| **[Continental](https://www.continental.com)** | **[Intern - Sales, Summer 2027 - Truck Tire](https://jobright.ai/jobs/info/6a7b71e13b399d106e4d672c?utm_campaign=1051&utm_source=git)** | Fort Mill, SC, United States | On Site | Sep 05 |
-| ↳ | **[Intern - Sales, Summer 2027 - PLT](https://jobright.ai/jobs/info/6a7b71dcecfd297707538f23?utm_campaign=1051&utm_source=git)** | Fort Mill, SC, United States | On Site | Sep 05 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/68c9cc8e95f5211cd2cf4719?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
