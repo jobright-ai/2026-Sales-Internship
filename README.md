@@ -90,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Sales Management Trainee Intern - South Jersey (Philly Metro)](https://jobright.ai/jobs/info/6a9f407e352f093fc756dd11?utm_campaign=1051&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Sep 07 |
 | ↳ | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f404a352f093fc756dd0d?utm_campaign=1051&utm_source=git)** | Paoli, PA, United States | On Site | Sep 07 |
 | ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4049dacf777321a945c7?utm_campaign=1051&utm_source=git)** | Springfield, PA, United States | On Site | Sep 07 |
-| ↳ | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4048352f093fc756dd0b?utm_campaign=1051&utm_source=git)** | Lansdale, PA, United States | On Site | Sep 07 |
 | ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4048a7ba386c5d6748eb?utm_campaign=1051&utm_source=git)** | Exton, PA, United States | On Site | Sep 07 |
+| ↳ | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4048352f093fc756dd0b?utm_campaign=1051&utm_source=git)** | Lansdale, PA, United States | On Site | Sep 07 |
 | ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f4046a7ba386c5d6748e9?utm_campaign=1051&utm_source=git)** | Conshohocken, PA, United States | On Site | Sep 07 |
 | ↳ | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f3fd268f82b403673c839?utm_campaign=1051&utm_source=git)** | Springfield, PA, United States | On Site | Sep 07 |
 | ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f3f50a7ba386c5d6748da?utm_campaign=1051&utm_source=git)** | Bensalem, PA, United States | On Site | Sep 07 |
