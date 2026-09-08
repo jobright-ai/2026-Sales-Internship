@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5c1f72686b4755d1e1b0be?utm_campaign=1051&utm_source=git)** | Bloomington, MN, United States | On Site | Sep 07 |
+| **[Selective Insurance](https://www.selective.com/)** | **[Underwriting Summer Internship – Allentown, PA (Hybrid)](https://jobright.ai/jobs/info/6a9f9422dacf777321a953e8?utm_campaign=1051&utm_source=git)** | Allentown, PA, United States | Hybrid | Sep 07 |
+| **[Merck](http://www.merck.com)** | **[2027 Future Talent Program – Business Development Execution – Intern](https://jobright.ai/jobs/info/6a9f5b9a68f82b403673ce00?utm_campaign=1051&utm_source=git)** | North Wales, PA, United States | Hybrid | Sep 07 |
+| ↳ | **[2027 Future Talent Program - Global Market Access: Private Market Access Intern](https://jobright.ai/jobs/info/6a9f5b062c964816f65efe5e?utm_campaign=1051&utm_source=git)** | Rahway, NJ, United States | Hybrid | Sep 07 |
 | **[Amgen](https://www.amgen.com.sg)** | **[Undergrad Intern - Business Development – Thousand Oaks, CA (Summer 2027)](https://jobright.ai/jobs/info/6a9ebc27a7ba386c5d673676?utm_campaign=1051&utm_source=git)** | Thousand Oaks, CA, United States | On Site | Sep 07 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51d72abf63b66c7997db0f?utm_campaign=1051&utm_source=git)** | Oswego, NY, United States | On Site | Sep 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Client Solutions Intern (GBS-NA) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2d1cde3717f9e9bf987?utm_campaign=1051&utm_source=git)** | Los Angeles, United States | On Site | Sep 07 |
@@ -67,8 +71,6 @@ For a complete list, click the following sortable link below:
 | **[AI Trusted Advisors](https://aitrustedadvisors.com)** | **[Enterprise Account Intern](https://jobright.ai/jobs/info/6a9f6a6bf6ea0023582981ac?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Morningstar](http://www.morningstar.com)** | **[Morningstar Internship Program – Sales Intern 2027 (Campus)](https://jobright.ai/jobs/info/6a950a819864261ccd2a4d9e?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 07 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Buyer (Summer 2027)](https://jobright.ai/jobs/info/6a973ff6246d697dcee04743?utm_campaign=1051&utm_source=git)** | Neenah, WI, United States | On Site | Sep 07 |
-| **[Merck](http://www.merck.com)** | **[2027 Future Talent Program – Business Development Execution – Intern](https://jobright.ai/jobs/info/6a9f5b9a68f82b403673ce00?utm_campaign=1051&utm_source=git)** | North Wales, PA, United States | Hybrid | Sep 07 |
-| ↳ | **[2027 Future Talent Program - Global Market Access: Private Market Access Intern](https://jobright.ai/jobs/info/6a9f5b062c964816f65efe5e?utm_campaign=1051&utm_source=git)** | Rahway, NJ, United States | Hybrid | Sep 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Field Sales & Services Intern](https://jobright.ai/jobs/info/6a9f5adbdacf777321a94b6c?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | On Site | Sep 07 |
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6a9f45ea352f093fc756dde4?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 07 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f42d7f6ea002358297ad3?utm_campaign=1051&utm_source=git)** | Exton, PA, United States | On Site | Sep 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology Seller Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e3cb5a7ba386c5d67141b?utm_campaign=1051&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 06 |
 | ↳ | **[Technology Seller Intern - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e3cb2a7ba386c5d671417?utm_campaign=1051&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Sep 06 |
 | ↳ | **[Technical Sales Engineer - Spring Co-op Sales Program 2027](https://jobright.ai/jobs/info/6a9e3cada7ba386c5d671414?utm_campaign=1051&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Sep 06 |
-| ↳ | **[Technology Lifecycle Services Renewals Sales Specialist Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e3c8e2c964816f65ec2b2?utm_campaign=1051&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 06 |
-| ↳ | **[Technical Engineering Seller Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e3c7ddacf777321a90f8a?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
