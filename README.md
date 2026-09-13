@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Motorola Mobility (a Lenovo Company)](http://www.motorola.com/)** | **[Lenovo Accelerated Sales Rotational Program Intern [LASR] CA - Summer 2027](https://jobright.ai/jobs/info/6aa62cb8654b2a9424cf7804?utm_campaign=1051&utm_source=git)** | Markham, ON, Canada | On Site | Sep 12 |
+| **[W. R. Grace](http://grace.com)** | **[2027 Grace Summer Internship (Commercial Leadership Program Track) Job Details / W. R. Grace & Co.](https://jobright.ai/jobs/info/6aa62b8942411952ff9abc7c?utm_campaign=1051&utm_source=git)** | Columbia, MD, United States | On Site | Sep 12 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a52aa3ad007ee02d95f8888?utm_campaign=1051&utm_source=git)** | Campbell, CA, United States | On Site | Sep 12 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6aa5f7e5654b2a9424cf6789?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN, United States | On Site | Sep 12 |
 | **[Vaahanity](https://vaahanity.com/)** | **[Business Development & Client Acquisition Intern](https://jobright.ai/jobs/info/6aa5ce672ed333b4ea5c7e02?utm_campaign=1051&utm_source=git)** | Indiana, United States | On Site | Sep 12 |
@@ -72,24 +74,24 @@ For a complete list, click the following sortable link below:
 | **[Ecolab](https://ecolab.com)** | **[Mining Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8beaf6d34f700f87fcec02?utm_campaign=1051&utm_source=git)** | Blacksburg, VA, United States | Hybrid | Sep 12 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Winter 2027 Titleist Golf Ball Fitting Internship](https://jobright.ai/jobs/info/6a7f03c7b56bea5779c08292?utm_campaign=1051&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 12 |
 | ↳ | **[Winter 2027 Titleist Golf Ball Fitting Internship](https://jobright.ai/jobs/info/6a6cd3cc32f9300c3a3e573e?utm_campaign=1051&utm_source=git)** | Fairhaven, MA, United States | On Site | Sep 12 |
-| **[CHS Inc.](https://chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa42f4ff7baf881567cda86?utm_campaign=1051&utm_source=git)** | Dixon, Nebraska, United States | On Site | Sep 12 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3ce3b959a10d7230d4352?utm_campaign=1051&utm_source=git)** | Colton, South Dakota, United States | On Site | Sep 12 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3c0ca626f9945308b2ea3?utm_campaign=1051&utm_source=git)** | Colton, SD, United States | On Site | Sep 12 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa37d3d83233ca167c8af43?utm_campaign=1051&utm_source=git)** | Mitchell, SD, United States | On Site | Sep 12 |
+| **[CHS Inc.](https://chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa37d3d83233ca167c8af43?utm_campaign=1051&utm_source=git)** | Mitchell, SD, United States | On Site | Sep 12 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa37f1b5c11cce3603643da?utm_campaign=1051&utm_source=git)** | Wausa, NE, United States | On Site | Sep 12 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3a9d4959a10d7230d313e?utm_campaign=1051&utm_source=git)** | Lynden, WA, United States | On Site | Sep 12 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3c0ca626f9945308b2ea3?utm_campaign=1051&utm_source=git)** | Colton, SD, United States | On Site | Sep 12 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3ce3b959a10d7230d4352?utm_campaign=1051&utm_source=git)** | Colton, South Dakota, United States | On Site | Sep 12 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa42f4ff7baf881567cda86?utm_campaign=1051&utm_source=git)** | Dixon, Nebraska, United States | On Site | Sep 12 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3aa1ac5a856ac7e33ac93?utm_campaign=1051&utm_source=git)** | Bridgewater, SD, United States | On Site | Sep 12 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3c0a65c11cce3603661fa?utm_campaign=1051&utm_source=git)** | Ruthton, MN, United States | On Site | Sep 12 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa37914b47caa3aec72c2ca?utm_campaign=1051&utm_source=git)** | Worthing, South Dakota, United States | On Site | Sep 12 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3e809f3aa936e2cdae95c?utm_campaign=1051&utm_source=git)** | Yuma, CO, United States | On Site | Sep 12 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3d811f3aa936e2cdae2a2?utm_campaign=1051&utm_source=git)** | Ethan, SD, United States | On Site | Sep 12 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa37914b47caa3aec72c2ca?utm_campaign=1051&utm_source=git)** | Worthing, South Dakota, United States | On Site | Sep 12 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa37f1b5c11cce3603643da?utm_campaign=1051&utm_source=git)** | Wausa, NE, United States | On Site | Sep 12 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3b87bc5a856ac7e33b320?utm_campaign=1051&utm_source=git)** | Ruthton, MN, United States | On Site | Sep 12 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3efadf3aa936e2cdaecb2?utm_campaign=1051&utm_source=git)** | Yuma, Colorado, United States | On Site | Sep 12 |
 | ↳ | **[Energy Sales Intern](https://jobright.ai/jobs/info/6aa42c528275e3a21175f404?utm_campaign=1051&utm_source=git)** | Dorchester, NE, United States | On Site | Sep 12 |
 | ↳ | **[Energy Sales Intern](https://jobright.ai/jobs/info/6aa443e68275e3a21175faf5?utm_campaign=1051&utm_source=git)** | Inver Grove Heights, MN, United States | On Site | Sep 12 |
 | ↳ | **[Energy Sales Intern](https://jobright.ai/jobs/info/6aa3f5e0422289703bd645f5?utm_campaign=1051&utm_source=git)** | Mitchell, SD, United States | On Site | Sep 12 |
 | ↳ | **[Outside Sales Specialist Intern](https://jobright.ai/jobs/info/6aa4d11f654b2a9424cf16ce?utm_campaign=1051&utm_source=git)** | Inver Grove Heights, MN, United States | On Site | Sep 12 |
 | ↳ | **[Outside Sales Specialist Intern](https://jobright.ai/jobs/info/6aa4a1c9422289703bd675f4?utm_campaign=1051&utm_source=git)** | Saint Paul, MN, United States | On Site | Sep 12 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6aa3c409959a10d7230d3db9?utm_campaign=1051&utm_source=git)** | Selby, SD, United States | On Site | Sep 12 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6aa3e6faf3aa936e2cdae8f0?utm_campaign=1051&utm_source=git)** | Selby, SD, United States | On Site | Sep 12 |
 | ↳ | **[Grain Originator Intern](https://jobright.ai/jobs/info/6aa37f875c11cce360364441?utm_campaign=1051&utm_source=git)** | Ruthton, Minnesota, United States | On Site | Sep 12 |
 | ↳ | **[Grain Originator Intern](https://jobright.ai/jobs/info/6aa3cb9a3a768473c9369611?utm_campaign=1051&utm_source=git)** | Ruthton, MN, United States | On Site | Sep 12 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Sales Intern (Year-Round)](https://jobright.ai/jobs/info/6a2b06fad3ec8317fe146a7f?utm_campaign=1051&utm_source=git)** | San Mateo, CA, United States | On Site | Sep 12 |
@@ -100,14 +102,14 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Sales Operations Analyst Intern (Spring 2027)](https://jobright.ai/jobs/info/6a888597e8b6601d12907386?utm_campaign=1051&utm_source=git)** | South San Francisco, CA, United States | On Site | Sep 12 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a927f05d18f75674827beab?utm_campaign=1051&utm_source=git)** | Middleton, Nova Scotia, Canada | On Site | Sep 12 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6aa07375500b01124c77920b?utm_campaign=1051&utm_source=git)** | Smiths Falls, ON, Canada | On Site | Sep 12 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a927f059864261ccd2a0c26?utm_campaign=1051&utm_source=git)** | Moncton, NB, Canada | On Site | Sep 12 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6aa477e7422289703bd66b6e?utm_campaign=1051&utm_source=git)** | Winnipeg, MB, Canada | On Site | Sep 12 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a927f059864261ccd2a0c26?utm_campaign=1051&utm_source=git)** | Moncton, NB, Canada | On Site | Sep 12 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a9e245bdacf777321a90a0f?utm_campaign=1051&utm_source=git)** | Cape Breton, Nova Scotia, Canada | On Site | Sep 12 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6aa4cdef654b2a9424cf15af?utm_campaign=1051&utm_source=git)** | Pickering, ON, Canada | On Site | Sep 12 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6aa420b5c1928370a285ca7b?utm_campaign=1051&utm_source=git)** | Baddeck, NS, Canada | On Site | Sep 12 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6a9e24602c964816f65ebcc7?utm_campaign=1051&utm_source=git)** | Ingersoll, ON, Canada | On Site | Sep 12 |
 | **[Whirlpool Corporation](https://www.whirlpoolcorp.com/)** | **[Real Whirled Sales Development Program Intern, May 2027](https://jobright.ai/jobs/info/6a886e03680f314a29d3be59?utm_campaign=1051&utm_source=git)** | Benton Harbor, MI, United States | On Site | Sep 12 |
-| **[A-LIGN](http://www.a-lign.com/)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6a885ade680f314a29d3b7e1?utm_campaign=1051&utm_source=git)** | Tampa, FL, United States | On Site | Sep 12 |
+| **[A-LIGN](http://www.a-lign.com/)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6a885d40e8b6601d12906511?utm_campaign=1051&utm_source=git)** | Tampa, FL, United States | On Site | Sep 12 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Group Benefit Solutions (GBS) Sales Summer Internship Program (New York, NY)](https://jobright.ai/jobs/info/6a6dcd0ecd3bac13d370616f?utm_campaign=1051&utm_source=git)** | Farmington, CT, United States | Hybrid | Sep 12 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Winter Intern 2027 - Institutional Sales](https://jobright.ai/jobs/info/6a88b57d680f314a29d3d633?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Hybrid | Sep 12 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Sales](https://jobright.ai/jobs/info/6a88bc4f4afae74a0834d568?utm_campaign=1051&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 12 |
@@ -144,17 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Brilliant Agency](https://brilliantbabyproducts.com)** | **[Business Development Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a6b268aca1f9338465f8d4a?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 11 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Business Development  (NGL)- PA](https://jobright.ai/jobs/info/6aa518642ed333b4ea5c574f?utm_campaign=1051&utm_source=git)** | Newtown Square, PA, United States | On Site | Sep 11 |
 | ↳ | **[Intern  - NGL Supply & Trading](https://jobright.ai/jobs/info/6aa502c142411952ff9a6780?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Sep 11 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a574b0821f64463ad358a1f?utm_campaign=1051&utm_source=git)** | Evergreen Park, IL, United States | On Site | Sep 11 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5f86cd193b5113096790c4?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | On Site | Sep 11 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a5f86cd193b5113096790c4?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | On Site | Sep 11 |
 | ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Sep 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a574b0821f64463ad358a1f?utm_campaign=1051&utm_source=git)** | Evergreen Park, IL, United States | On Site | Sep 11 |
 | **[Simular](https://simular.ai)** | **[GTM Intern](https://jobright.ai/jobs/info/68f5f37076a51a4307bd79ee?utm_campaign=1051&utm_source=git)** | Palo Alto | On Site | Sep 11 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship Summer 2027 - Jacksonville, FL](https://jobright.ai/jobs/info/6aa1fb900ffb3d4fea6b8133?utm_campaign=1051&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 11 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Data Analytics and Insights - Intern](https://jobright.ai/jobs/info/6aa45989422289703bd66458?utm_campaign=1051&utm_source=git)** | Rahway, NJ, United States | Hybrid | Sep 11 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2027 Summer C&I Gas Sales Intern (Remote in Minneapolis, MN)](https://jobright.ai/jobs/info/6aa45e6ef3aa936e2cdb1010?utm_campaign=1051&utm_source=git)** | Minneapolis, MN, United States | Remote | Sep 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Logistics Partnership Management Project Intern (TikTok Shop - US Operation) - 2026 Start（BS/MS）](https://jobright.ai/jobs/info/6a36fae8ce501060b5cf7db2?utm_campaign=1051&utm_source=git)** | Seattle, WA, United States | On Site | Sep 11 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6aa3a186626f9945308b205d?utm_campaign=1051&utm_source=git)** | New Braunfels, TX, United States | On Site | Sep 11 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6aa383ea5c11cce3603646f1?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 11 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6aa37ad4b47caa3aec72c43d?utm_campaign=1051&utm_source=git)** | McKinney, TX, United States | On Site | Sep 11 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a04ff474373b07358a39284?utm_campaign=1051&utm_source=git)** | Moses Lake, Washington, United States | On Site | Sep 11 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6aa383ea5c11cce3603646f1?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 11 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6aa37fc2626f9945308b1092?utm_campaign=1051&utm_source=git)** | Pflugerville, TX, United States | On Site | Sep 11 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a19fb55e24ef36525828b4d?utm_campaign=1051&utm_source=git)** | Pasco, Washington, United States | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
