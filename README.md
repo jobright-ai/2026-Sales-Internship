@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[Services Sales Undergraduate Intern](https://jobright.ai/jobs/info/6aa94b1609ae03adcacdc973?utm_campaign=1051&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 15 |
+| ↳ | **[NextGen Sales Academy Intern](https://jobright.ai/jobs/info/6aa94b006d0edc2d91b08e0e?utm_campaign=1051&utm_source=git)** | Hopkinton, MA, United States | On Site | Sep 15 |
+| **[apexanalytix](https://www.apexanalytix.com)** | **[Customer Success Internship (Summer 2027)](https://jobright.ai/jobs/info/6aa948a73387a3d9b67d4411?utm_campaign=1051&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 15 |
+| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Sep 15 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5f86cd193b5113096790c4?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | On Site | Sep 15 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a574b0821f64463ad358a1f?utm_campaign=1051&utm_source=git)** | Evergreen Park, IL, United States | On Site | Sep 15 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6aa9457f09ae03adcacdc826?utm_campaign=1051&utm_source=git)** | Fresno, CA, United States | On Site | Sep 15 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/6aa942753387a3d9b67d41fd?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 15 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a544edbd007ee02d95fe580?utm_campaign=1051&utm_source=git)** | Bloomington, MN, United States | On Site | Sep 15 |
 | **[Salvagnini](https://www.salvagninigroup.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6aa93ddd28e24cb3851395a1?utm_campaign=1051&utm_source=git)** | Hamilton, OH, United States | On Site | Sep 15 |
@@ -65,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Feed Sales Intern - Southwest Region](https://jobright.ai/jobs/info/6aa8bf623387a3d9b67d2f42?utm_campaign=1051&utm_source=git)** | Arden Hills, MN, United States | On Site | Sep 15 |
 | ↳ | **[Feed Sales Intern - East Region](https://jobright.ai/jobs/info/6aa8c03feff87f571fc97a2b?utm_campaign=1051&utm_source=git)** | Arden Hills, MN, United States | On Site | Sep 15 |
 | ↳ | **[Feed Sales Intern - Great Lakes Region](https://jobright.ai/jobs/info/6aa8bf8c10b1cd4f41603de5?utm_campaign=1051&utm_source=git)** | Arden Hills, MN, United States | On Site | Sep 15 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Services Sales Undergraduate Intern](https://jobright.ai/jobs/info/6aa9373209ae03adcacdc371?utm_campaign=1051&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 15 |
 | **[UNOX S.p.A.](https://www.unox.com/)** | **[Company visits & events (intern)](https://jobright.ai/jobs/info/6aa9346d09ae03adcacdc317?utm_campaign=1051&utm_source=git)** | Indiana, United States | On Site | Sep 15 |
 | **[APCO](http://www.apcoworldwide.com)** | **[New Business (Business Development) Internship - Winter/Spring '27](https://jobright.ai/jobs/info/6aa9341a6d0edc2d91b087e9?utm_campaign=1051&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 15 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Markets Sales & Trading Summer Associate Program - 2027](https://jobright.ai/jobs/info/6aa933e5eff87f571fc988c0?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Sep 15 |
@@ -108,14 +114,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Store Operations Management (San Antonio)](https://jobright.ai/jobs/info/6aa8eeef83a6750b1adfa7e1?utm_campaign=1051&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Entertainment Partnerships and Operations Project Intern (TikTok-Operations-Entertainment) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a59cc203ac7627fe9000b26?utm_campaign=1051&utm_source=git)** | Los Angeles, United States | On Site | Sep 14 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6a358cd329c90c607e4e2aa3?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Sep 14 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance - Saskatoon (January 2027)](https://jobright.ai/jobs/info/6aa55b2c42411952ff9a85a5?utm_campaign=1051&utm_source=git)** | Saskatoon, SK, Canada | Hybrid | Sep 14 |
-| ↳ | **[Co-op or Intern, Assurance - Saskatoon (Summer 2027)](https://jobright.ai/jobs/info/6aa51bb7930bff471a29d297?utm_campaign=1051&utm_source=git)** | Saskatoon, SK, Canada | Hybrid | Sep 14 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance - Saskatoon (Summer 2027)](https://jobright.ai/jobs/info/6aa51bb7930bff471a29d297?utm_campaign=1051&utm_source=git)** | Saskatoon, SK, Canada | Hybrid | Sep 14 |
+| ↳ | **[Co-op or Intern, Assurance - Saskatoon (January 2027)](https://jobright.ai/jobs/info/6aa55b2c42411952ff9a85a5?utm_campaign=1051&utm_source=git)** | Saskatoon, SK, Canada | Hybrid | Sep 14 |
 | **[Dallas Cowboys](https://www.dallascowboys.com)** | **[Ticket Sales - Intern, Ticket Sales and Service](https://jobright.ai/jobs/info/6aa8d4883387a3d9b67d336d?utm_campaign=1051&utm_source=git)** | Arlington, TX, United States | On Site | Sep 14 |
 | **[Tesla](https://tesla.com)** | **[Internship, Program Manager, Pre Owned Sales Operations (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aa8d2a410b1cd4f41604215?utm_campaign=1051&utm_source=git)** | Fremont, CA, United States | On Site | Sep 14 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/6a45d8e50dd56c76cc2f46cd?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Sep 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69cb74de8fc6090c5d457de8?utm_campaign=1051&utm_source=git)** | Hagerstown, Maryland, United States of America | On Site | Sep 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a4624380dd56c76cc2f69e9?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Sep 14 |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/6a4624380dd56c76cc2f69e9?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Sep 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a2052dcc00e701fe83688ba?utm_campaign=1051&utm_source=git)** | Hagerstown, Maryland, United States of America | On Site | Sep 14 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a45d8e50dd56c76cc2f46cd?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Sep 14 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69cb74de8fc6090c5d457de8?utm_campaign=1051&utm_source=git)** | Hagerstown, Maryland, United States of America | On Site | Sep 14 |
 | **[Siemens](https://sw.siemens.com/en-us)** | **[Sales Development Program Internship](https://jobright.ai/jobs/info/6aa8ca3317ddad6a8a47d3f2?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA, United States | On Site | Sep 14 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6aa8c69b83a6750b1adfa294?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 14 |
 | **[BASF](https://www.basf.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6aa8bf766d0edc2d91b077d6?utm_campaign=1051&utm_source=git)** | Calgary, AB, Canada | On Site | Sep 14 |
@@ -150,11 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Joe V's Smart Shop](https://www.joevsmartshop.com)** | **[Internship - Store Operations Management (Border)](https://jobright.ai/jobs/info/6aa8b7fbeff87f571fc9763d?utm_campaign=1051&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 14 |
 | **[Mulbah](https://mulbahmedia.com/)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6aa8b78eeff87f571fc97616?utm_campaign=1051&utm_source=git)** | Baltimore, MD, United States | On Site | Sep 14 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[2027 Customer Engagement Internship - Rogers](https://jobright.ai/jobs/info/6aa897bea77a53f5a157a210?utm_campaign=1051&utm_source=git)** | Rogers, AR, United States | Hybrid | Sep 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Client Solutions Intern (GBS-NA) - 2027 Summer](https://jobright.ai/jobs/info/6aa89254930bff471a2a7e82?utm_campaign=1051&utm_source=git)** | Austin, TX, United States | On Site | Sep 14 |
-| ↳ | **[Client Solutions Intern (GBS-NA) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2d1cde3717f9e9bf987?utm_campaign=1051&utm_source=git)** | Los Angeles, United States | On Site | Sep 14 |
-| **[Clarios](https://www.clarios.com/)** | **[Demand Planning Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa862ff930bff471a2a70d0?utm_campaign=1051&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 14 |
-| **[Avery Dennison](http://www.averydennison.com)** | **[Sales Intern - Summer 2027](https://jobright.ai/jobs/info/6aa8aa9910b1cd4f416032c3?utm_campaign=1051&utm_source=git)** | Mentor, OH, United States | On Site | Sep 14 |
-| **[Venture Home](https://venturesolar.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a7bd79becfd29770753b034?utm_campaign=1051&utm_source=git)** | Stamford, CT, United States | On Site | Sep 14 |
-| **[PaxeraHealth](http://www.paxerahealth.com)** | **[Sales Internship - Remote](https://jobright.ai/jobs/info/6a834d3b3eeac101cfa9ed7c?utm_campaign=1051&utm_source=git)** | Newton, MA, United States | On Site | Sep 14 |
-| **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Resorts Revenue Management Intern, Spring 2027](https://jobright.ai/jobs/info/6aa88425930bff471a2a7b9b?utm_campaign=1051&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Sep 14 |
+| **[TikTok](https://www.tiktok.com)** | **[Client Solutions Intern (GBS-NA) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2d1cde3717f9e9bf987?utm_campaign=1051&utm_source=git)** | Los Angeles, United States | On Site | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
