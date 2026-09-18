@@ -57,13 +57,35 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CHS Inc.](https://chsinc.com)** | **[Grain Originator Intern](https://jobright.ai/jobs/info/6aa3cb9a3a768473c9369611?utm_campaign=1051&utm_source=git)** | Ruthton, MN, United States | On Site | Sep 18 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Support Sales Intern - (Summer 2027)](https://jobright.ai/jobs/info/6a90674bd96ad228f1260ff1?utm_campaign=1051&utm_source=git)** | Westerville, OH, United States | On Site | Sep 18 |
+| **[CHS Inc.](https://chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6aa3c409959a10d7230d3db9?utm_campaign=1051&utm_source=git)** | Selby, SD, United States | On Site | Sep 18 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3e809f3aa936e2cdae95c?utm_campaign=1051&utm_source=git)** | Yuma, CO, United States | On Site | Sep 18 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa37d3d83233ca167c8af43?utm_campaign=1051&utm_source=git)** | Mitchell, SD, United States | On Site | Sep 18 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3ce3b959a10d7230d4352?utm_campaign=1051&utm_source=git)** | Colton, South Dakota, United States | On Site | Sep 18 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3c0a65c11cce3603661fa?utm_campaign=1051&utm_source=git)** | Ruthton, MN, United States | On Site | Sep 18 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3a9d4959a10d7230d313e?utm_campaign=1051&utm_source=git)** | Lynden, WA, United States | On Site | Sep 18 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa39dff959a10d7230d2c37?utm_campaign=1051&utm_source=git)** | Ethan, SD, United States | On Site | Sep 18 |
+| ↳ | **[Sales Intern Job Details / CHS, Inc.](https://jobright.ai/jobs/info/6aab37ee76707040fb084bbe?utm_campaign=1051&utm_source=git)** | Miles City, MT, United States | On Site | Sep 18 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa37914b47caa3aec72c2ca?utm_campaign=1051&utm_source=git)** | Worthing, South Dakota, United States | On Site | Sep 18 |
+| ↳ | **[Sales Intern Job Details / CHS, Inc.](https://jobright.ai/jobs/info/6aab385076707040fb084bdb?utm_campaign=1051&utm_source=git)** | Sycamore, IL, United States | On Site | Sep 18 |
+| ↳ | **[Sales Intern Job Details / CHS, Inc.](https://jobright.ai/jobs/info/6aab37c3f6bd9d2d17c1c037?utm_campaign=1051&utm_source=git)** | Saint Hilaire, MN, United States | On Site | Sep 18 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa42f4ff7baf881567cda86?utm_campaign=1051&utm_source=git)** | Dixon, Nebraska, United States | On Site | Sep 18 |
+| ↳ | **[Sales Intern Job Details / CHS, Inc.](https://jobright.ai/jobs/info/6aab382d4be87a72913a3dae?utm_campaign=1051&utm_source=git)** | Dickinson, ND, United States | On Site | Sep 18 |
+| ↳ | **[Sales Intern Job Details / CHS, Inc.](https://jobright.ai/jobs/info/6aab380440807b73bd39471d?utm_campaign=1051&utm_source=git)** | Kalispell, MT, United States | On Site | Sep 18 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3aa1ac5a856ac7e33ac93?utm_campaign=1051&utm_source=git)** | Bridgewater, SD, United States | On Site | Sep 18 |
+| ↳ | **[Sales Intern Job Details / CHS, Inc.](https://jobright.ai/jobs/info/6aab3808f6bd9d2d17c1c058?utm_campaign=1051&utm_source=git)** | Minot, ND, United States | On Site | Sep 18 |
+| ↳ | **[Sales Intern Job Details / CHS, Inc.](https://jobright.ai/jobs/info/6aab380440807b73bd39471c?utm_campaign=1051&utm_source=git)** | Lemmon, SD, United States | On Site | Sep 18 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3c0ca626f9945308b2ea3?utm_campaign=1051&utm_source=git)** | Colton, SD, United States | On Site | Sep 18 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa3efadf3aa936e2cdaecb2?utm_campaign=1051&utm_source=git)** | Yuma, Colorado, United States | On Site | Sep 18 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/6aa37f1b5c11cce3603643da?utm_campaign=1051&utm_source=git)** | Wausa, NE, United States | On Site | Sep 18 |
+| ↳ | **[Grain Originator Intern](https://jobright.ai/jobs/info/6aa3cb9a3a768473c9369611?utm_campaign=1051&utm_source=git)** | Ruthton, MN, United States | On Site | Sep 18 |
 | ↳ | **[Grain Originator Intern](https://jobright.ai/jobs/info/6aa37f875c11cce360364441?utm_campaign=1051&utm_source=git)** | Ruthton, Minnesota, United States | On Site | Sep 18 |
+| **[HNI Corporation](http://www.hnicorp.com)** | **[Intern - Sales - Summer 2027](https://jobright.ai/jobs/info/6a904507a19886486676017e?utm_campaign=1051&utm_source=git)** | Muscatine, IA, United States | On Site | Sep 18 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[3rd Party Partnership Intern](https://jobright.ai/jobs/info/6aac8368636cddf7396f4572?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 18 |
 | **[Paul, Weiss, Rifkind, Wharton & Garrison LLP](http://www.paulweiss.com/)** | **[Business Development Analysis Intern](https://jobright.ai/jobs/info/6aad00c62e757fcb5c8b6b16?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Sep 18 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2027 Intern - Americas Division [UG/Masters]](https://jobright.ai/jobs/info/6aa50fc942411952ff9a6d13?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 18 |
-| ↳ | **[Summer 2027 Intern - Healthcare & Life Sciences Division - US/LATAM [UG/Masters]](https://jobright.ai/jobs/info/6aa47d6c8275e3a2117608db?utm_campaign=1051&utm_source=git)** | Boston, MA, United States | On Site | Sep 18 |
 | ↳ | **[Summer 2027 Intern - Healthcare & Life Sciences Division [UG/Masters]](https://jobright.ai/jobs/info/6aa49de21d92e2d05d115813?utm_campaign=1051&utm_source=git)** | Boston, MA, United States | On Site | Sep 18 |
+| ↳ | **[Summer 2027 Intern - Healthcare & Life Sciences Division - US/LATAM [UG/Masters]](https://jobright.ai/jobs/info/6aa47d6c8275e3a2117608db?utm_campaign=1051&utm_source=git)** | Boston, MA, United States | On Site | Sep 18 |
 | **[Netsmart](https://www.ntst.com)** | **[Sales Operations Intern(Summer 2027 Internship)](https://jobright.ai/jobs/info/6aacdc0e0a4ce9becc77a972?utm_campaign=1051&utm_source=git)** | Overland Park, KS, United States | On Site | Sep 18 |
 | ↳ | **[Business Development Representative Intern  (Summer 2027 Internship)](https://jobright.ai/jobs/info/6aacdc0b636cddf7396f5010?utm_campaign=1051&utm_source=git)** | Overland Park, KS, United States | On Site | Sep 18 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2027 Intern - Sales Development, Public Sector](https://jobright.ai/jobs/info/6aacc90695c707f49dff23ee?utm_campaign=1051&utm_source=git)** | McLean, VA, United States | Hybrid | Sep 18 |
@@ -135,26 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Heartland Co-op](http://heartlandcoop.com)** | **[Feed Sales/Operations Intern](https://jobright.ai/jobs/info/6aac51a93dbb1f8967cea1a4?utm_campaign=1051&utm_source=git)** | Clive, IA, United States | On Site | Sep 17 |
 | ↳ | **[Energy Sales & Marketing Intern](https://jobright.ai/jobs/info/6aac51a795c707f49dff0d10?utm_campaign=1051&utm_source=git)** | Clive, IA, United States | On Site | Sep 17 |
 | ↳ | **[Grain Origination Intern](https://jobright.ai/jobs/info/6aac519d3dbb1f8967cea1a2?utm_campaign=1051&utm_source=git)** | Clive, IA, United States | On Site | Sep 17 |
-| **[IBM](http://www.ibm.com)** | **[Solution Architect Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6aac38253dbb1f8967ce98a6?utm_campaign=1051&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 17 |
-| **[CBRE](https://www.cbre.com)** | **[2027 Sales & Brokerage Intern - Summer (Atlanta, GA)](https://jobright.ai/jobs/info/6aac50ab3d96632d741aa696?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 17 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6aac50373dbb1f8967cea0d1?utm_campaign=1051&utm_source=git)** | Bloomingdale, FL, United States | On Site | Sep 17 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[In Stock - Beverage Intern](https://jobright.ai/jobs/info/6aaaf9b34be87a72913a273c?utm_campaign=1051&utm_source=git)** | Salisbury, NC, United States | Hybrid | Sep 17 |
-| ↳ | **[In Stock - Beverage Intern](https://jobright.ai/jobs/info/6aaaf9fa4be87a72913a2751?utm_campaign=1051&utm_source=git)** | Scarborough, ME, United States | Hybrid | Sep 17 |
-| **[Synchrony](https://www.synchrony.com/)** | **[BLP Intern – Sales](https://jobright.ai/jobs/info/6a315590e7b7d514a3bd2e45?utm_campaign=1051&utm_source=git)** | Stamford Hub, US | Hybrid | Sep 17 |
-| ↳ | **[BLP Intern – Sales](https://jobright.ai/jobs/info/6a54e28a3cd1632418bec1a4?utm_campaign=1051&utm_source=git)** | Stamford Hub, United States of America | Hybrid | Sep 17 |
-| **[Alkhai](www.alkhai.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6aac656e636cddf7396f3ea6?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 17 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Brokerage Internship, Annual, Fall 2026](https://jobright.ai/jobs/info/6aac369c95c707f49dff031a?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
-| **[Federal Home Loan Bank of Chicago](http://www.fhlbc.com)** | **[Summer Internship - Sales](https://jobright.ai/jobs/info/6aac2c4b3e3ce93970c7c153?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/6aac446b2e757fcb5c8b4ab6?utm_campaign=1051&utm_source=git)** | Columbia, MO, United States | On Site | Sep 17 |
-| **[DV8 Communication](https://www.dv8communication.com/)** | **[Intern Business Development & Account Executive](https://jobright.ai/jobs/info/6aac438e636cddf7396f32df?utm_campaign=1051&utm_source=git)** | Richmond Hill, ON, Canada | On Site | Sep 17 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Sales Operations](https://jobright.ai/jobs/info/6aac3f693d96632d741aa05a?utm_campaign=1051&utm_source=git)** | Ottawa, ON, Canada | On Site | Sep 17 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Strategic Sales and Credit](https://jobright.ai/jobs/info/6aac123b636cddf7396f2087?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 17 |
-| **[Venture Home](https://venturesolar.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6a7bd79becfd29770753b034?utm_campaign=1051&utm_source=git)** | Stamford, CT, United States | On Site | Sep 17 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6aac0f5e3e3ce93970c7b6a6?utm_campaign=1051&utm_source=git)** | Stamford, CT, United States | On Site | Sep 17 |
-| **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6aac54b93d96632d741aa885?utm_campaign=1051&utm_source=git)** | Tacoma, WA, United States | On Site | Sep 17 |
-| **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Store Optimization – Undergrad Internship – Summer 2027](https://jobright.ai/jobs/info/6aac0466636cddf7396f1b30?utm_campaign=1051&utm_source=git)** | Mooresville, NC, United States | On Site | Sep 17 |
-| **[Motive](https://gomotive.com)** | **[Sales Development Intern - Fall 2026](https://jobright.ai/jobs/info/6a873bd84afae74a083476a1?utm_campaign=1051&utm_source=git)** | Austin, Texas, United States | On Site | Sep 17 |
-| **[RBC](https://www.rbc.com)** | **[Commercial Banking Advisor Intern](https://jobright.ai/jobs/info/6aac347a2e757fcb5c8b456e?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Sep 17 |
-| **[Ori-Lane](www.ori-lane.com)** | **[Brand Partnership & Business Development intern](https://jobright.ai/jobs/info/6aac308e636cddf7396f2c08?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 17 |
-| **[Benco Dental](https://www.benco.com/)** | **[Sales Operations Intern (Spring 2027)](https://jobright.ai/jobs/info/6aac308b2e757fcb5c8b43e8?utm_campaign=1051&utm_source=git)** | Flower Mound, TX, United States | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
