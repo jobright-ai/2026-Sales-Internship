@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SparkPrintz](https://www.sparkprintz.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6ab22df0191d8c340dbdddd4?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 22 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2027 Venture Capital Business Development Summer Associate](https://jobright.ai/jobs/info/6a70b2ce71acd469eed9f0c2?utm_campaign=1051&utm_source=git)** | Baltimore | Hybrid | Sep 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Travel Agency Sales Intern, Spring 2027](https://jobright.ai/jobs/info/6ab1e1ded2a93d5a97ebd1e6?utm_campaign=1051&utm_source=git)** | Celebration, FL, United States | On Site | Sep 21 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Compute Sales Enablement Intern](https://jobright.ai/jobs/info/6ab1e3e532552369083e492b?utm_campaign=1051&utm_source=git)** | Spring, TX, United States | Hybrid | Sep 21 |
@@ -76,12 +77,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6a9f42d7f6ea002358297ad3?utm_campaign=1051&utm_source=git)** | Exton, PA, United States | On Site | Sep 21 |
 | **[Waste Resource Management](https://www.wrmco.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6ab1ebe9d2a93d5a97ebd355?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Sep 21 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5e833b27bf767ea68f729d?utm_campaign=1051&utm_source=git)** | Mandeville, LA, United States | On Site | Sep 21 |
-| **[Synchrony](https://www.synchrony.com/)** | **[BLP Intern – Sales](https://jobright.ai/jobs/info/6a54e28a3cd1632418bec1a4?utm_campaign=1051&utm_source=git)** | Stamford Hub, United States of America | Hybrid | Sep 21 |
-| ↳ | **[BLP Intern – Sales](https://jobright.ai/jobs/info/6a315590e7b7d514a3bd2e45?utm_campaign=1051&utm_source=git)** | Stamford Hub, US | Hybrid | Sep 21 |
+| **[Synchrony](https://www.synchrony.com/)** | **[BLP Intern – Sales](https://jobright.ai/jobs/info/6a315590e7b7d514a3bd2e45?utm_campaign=1051&utm_source=git)** | Stamford Hub, US | Hybrid | Sep 21 |
+| ↳ | **[BLP Intern – Sales](https://jobright.ai/jobs/info/6a54e28a3cd1632418bec1a4?utm_campaign=1051&utm_source=git)** | Stamford Hub, United States of America | Hybrid | Sep 21 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Seal Beach, CA](https://jobright.ai/jobs/info/6ab1974323005eee3545b615?utm_campaign=1051&utm_source=git)** | Seal Beach, CA, United States | On Site | Sep 21 |
 | **[Novaux](https://novaux.io/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6ab1deaa23005eee3545cd48?utm_campaign=1051&utm_source=git)** | Southampton, New York, United States | Remote | Sep 21 |
-| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Sep 21 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a574b0821f64463ad358a1f?utm_campaign=1051&utm_source=git)** | Evergreen Park, IL, United States | On Site | Sep 21 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a574b0821f64463ad358a1f?utm_campaign=1051&utm_source=git)** | Evergreen Park, IL, United States | On Site | Sep 21 |
+| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Sep 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5f86cd193b5113096790c4?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA, United States | On Site | Sep 21 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Plano, TX](https://jobright.ai/jobs/info/6ab1b361191d8c340dbdc879?utm_campaign=1051&utm_source=git)** | Plano, TX, United States | On Site | Sep 21 |
 | ↳ | **[Intern, Investor Center - Fort Worth, TX](https://jobright.ai/jobs/info/6ab19755191d8c340dbdba96?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 21 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Irvine, CA](https://jobright.ai/jobs/info/6ab1973ef9692ca98b04a8d5?utm_campaign=1051&utm_source=git)** | Irvine, CA, United States | On Site | Sep 21 |
 | ↳ | **[Intern, Investor Center - Irving, TX](https://jobright.ai/jobs/info/6ab1974a191d8c340dbdba91?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Sep 21 |
 | ↳ | **[Intern, Investor Center - Knoxville, TN](https://jobright.ai/jobs/info/6ab19733f9692ca98b04a8cc?utm_campaign=1051&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 21 |
-| ↳ | **[Intern, Investor Center - Franklin, TN](https://jobright.ai/jobs/info/6ab1972f191d8c340dbdba7f?utm_campaign=1051&utm_source=git)** | Franklin, TN, United States | On Site | Sep 21 |
 | ↳ | **[Intern, Investor Center - Hilton Head, SC](https://jobright.ai/jobs/info/6ab1b35bd43eb922ca0c0c0b?utm_campaign=1051&utm_source=git)** | Hilton Head Island, SC, United States | On Site | Sep 21 |
+| ↳ | **[Intern, Investor Center - Franklin, TN](https://jobright.ai/jobs/info/6ab1972f191d8c340dbdba7f?utm_campaign=1051&utm_source=git)** | Franklin, TN, United States | On Site | Sep 21 |
 | ↳ | **[Intern, Investor Center - Sugar Land, TX](https://jobright.ai/jobs/info/6ab1b37723005eee3545c424?utm_campaign=1051&utm_source=git)** | Sugar Land, TX, United States | On Site | Sep 21 |
 | ↳ | **[Intern, Investor Center - Albuquerque, NM](https://jobright.ai/jobs/info/6ab1b376f9692ca98b04b719?utm_campaign=1051&utm_source=git)** | Albuquerque, NM, United States | On Site | Sep 21 |
 | ↳ | **[Intern, Investor Center - Birmingham, AL](https://jobright.ai/jobs/info/6ab1972bd2a93d5a97ebbad1?utm_campaign=1051&utm_source=git)** | Birmingham, AL, United States | On Site | Sep 21 |
@@ -136,25 +137,24 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Insurance Officer - Intern Job Details / Farm Credit Services of America](https://jobright.ai/jobs/info/6ab19ae9191d8c340dbdbcbf?utm_campaign=1051&utm_source=git)** | Perry, IA, United States | On Site | Sep 21 |
 | ↳ | **[Insurance Officer - Intern Job Details / Farm Credit Services of America](https://jobright.ai/jobs/info/6ab19ae7191d8c340dbdbcbd?utm_campaign=1051&utm_source=git)** | Fargo, ND, United States | On Site | Sep 21 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Summer 2027 Undergraduate Internship - Client Relations, Albuquerque](https://jobright.ai/jobs/info/6ab142ded2a93d5a97eb9885?utm_campaign=1051&utm_source=git)** | Albuquerque, NM, United States | On Site | Sep 21 |
-| **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aada8d56956574eac8b7056?utm_campaign=1051&utm_source=git)** | Vernon Hills, IL, United States | On Site | Sep 21 |
-| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aaefb823dbb1f8967cf14fd?utm_campaign=1051&utm_source=git)** | Waukesha, WI, United States | On Site | Sep 21 |
+| **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aadf9cc6956574eac8b802e?utm_campaign=1051&utm_source=git)** | Schaumburg, IL, United States | On Site | Sep 21 |
 | ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aada8e4de327d3e210d3c81?utm_campaign=1051&utm_source=git)** | Kenosha, WI, United States | On Site | Sep 21 |
-| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aada8dd6956574eac8b705a?utm_campaign=1051&utm_source=git)** | Merrillville, IN, United States | On Site | Sep 21 |
-| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aada8d82e757fcb5c8b9c37?utm_campaign=1051&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 21 |
-| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aada8dbde327d3e210d3c7b?utm_campaign=1051&utm_source=git)** | Harwood Heights, IL, United States | On Site | Sep 21 |
-| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aada8d80ebc8fb2313eade8?utm_campaign=1051&utm_source=git)** | Greenfield, WI, United States | On Site | Sep 21 |
-| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6ab15713d43eb922ca0be252?utm_campaign=1051&utm_source=git)** | Madison, WI, United States | On Site | Sep 21 |
-| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aadf9cc6956574eac8b802e?utm_campaign=1051&utm_source=git)** | Schaumburg, IL, United States | On Site | Sep 21 |
+| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aaefb823dbb1f8967cf14fd?utm_campaign=1051&utm_source=git)** | Waukesha, WI, United States | On Site | Sep 21 |
 | ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aaefb803dbb1f8967cf14fb?utm_campaign=1051&utm_source=git)** | Crystal Lake, IL, United States | On Site | Sep 21 |
 | ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aaefb813d96632d741b19fe?utm_campaign=1051&utm_source=git)** | Appleton, WI, United States | On Site | Sep 21 |
-| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aadf9c7de327d3e210d4bee?utm_campaign=1051&utm_source=git)** | Downers Grove, IL, United States | On Site | Sep 21 |
+| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aada8dbde327d3e210d3c7b?utm_campaign=1051&utm_source=git)** | Harwood Heights, IL, United States | On Site | Sep 21 |
+| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aada8d56956574eac8b7056?utm_campaign=1051&utm_source=git)** | Vernon Hills, IL, United States | On Site | Sep 21 |
+| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aada8dd6956574eac8b705a?utm_campaign=1051&utm_source=git)** | Merrillville, IN, United States | On Site | Sep 21 |
+| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aada8d80ebc8fb2313eade8?utm_campaign=1051&utm_source=git)** | Greenfield, WI, United States | On Site | Sep 21 |
 | ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aada8f03d96632d741af38c?utm_campaign=1051&utm_source=git)** | Oak Creek, WI, United States | On Site | Sep 21 |
+| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aadf9c7de327d3e210d4bee?utm_campaign=1051&utm_source=git)** | Downers Grove, IL, United States | On Site | Sep 21 |
+| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aada8d82e757fcb5c8b9c37?utm_campaign=1051&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 21 |
+| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/6aada8e46956574eac8b705c?utm_campaign=1051&utm_source=git)** | Madison, WI, United States | On Site | Sep 21 |
 | **[IQT](https://www.iqt.org)** | **[Mission Partnerships Intern](https://jobright.ai/jobs/info/6ab16898d43eb922ca0beaa1?utm_campaign=1051&utm_source=git)** | McLean, VA, United States | On Site | Sep 21 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Sales Enablement (Summer 2027)](https://jobright.ai/jobs/info/6ab16809f9692ca98b049628?utm_campaign=1051&utm_source=git)** | Kansas City, MO, United States | Hybrid | Sep 21 |
-| ↳ | **[Intern - Commercial Banking, Tulsa (Summer 2027)](https://jobright.ai/jobs/info/6ab19e70191d8c340dbdbe7c?utm_campaign=1051&utm_source=git)** | Tulsa, OK, United States | On Site | Sep 21 |
 | ↳ | **[Intern - Commercial Banking, Indianapolis (Summer 2027)](https://jobright.ai/jobs/info/6ab182f823005eee3545add2?utm_campaign=1051&utm_source=git)** | Carmel, IN, United States | On Site | Sep 21 |
+| ↳ | **[Intern - Commercial Banking, Tulsa (Summer 2027)](https://jobright.ai/jobs/info/6ab19e70191d8c340dbdbe7c?utm_campaign=1051&utm_source=git)** | Tulsa, OK, United States | On Site | Sep 21 |
 | **[Macy's Retail Holdings, Inc.](https://www.macysinc.com/)** | **[Macy's 2027 Summer Internship, Store Management - Sacramento, CA](https://jobright.ai/jobs/info/6ab197c723005eee3545b675?utm_campaign=1051&utm_source=git)** | Sacramento, CA, United States | Remote | Sep 21 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2027 Guardian Summer Intern, Client Solutions and Wealth Management](https://jobright.ai/jobs/info/6ab1612f32552369083e1bee?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
 | **[Macy's Retail Holdings, Inc.](https://www.macysinc.com/)** | **[Macy's 2027 Summer Internship, Store Management - San Francisco, CA](https://jobright.ai/jobs/info/6ab197a5191d8c340dbdbad1?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | Remote | Sep 21 |
-| ↳ | **[Macy's 2027 Summer Internship, Store Management - Walnut Creek, CA](https://jobright.ai/jobs/info/6ab1979b32552369083e32cf?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA, United States | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
