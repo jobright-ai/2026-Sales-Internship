@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vaccine Vets](https://vaccinevets.com/)** | **[Business Development Intern- Community Partnerships](https://jobright.ai/jobs/info/6ab9ccb362bb1fbd451e0cec?utm_campaign=1051&utm_source=git)** | Southern California, United States | Remote | Sep 27 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a548b5f8a74e077472fc2c5?utm_campaign=1051&utm_source=git)** | Jamison, Pennsylvania, United States | On Site | Sep 27 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51c719ae4052672fe9ab77?utm_campaign=1051&utm_source=git)** | Woodland Hills, CA, United States | On Site | Sep 27 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/6ab9bc983a2ec87116e28c06?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Sep 27 |
@@ -104,16 +105,16 @@ For a complete list, click the following sortable link below:
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Strategic Sourcing Summer Intern (Fort Worth, TX) 2027](https://jobright.ai/jobs/info/6ab7e3bd81e327c4bf203ae7?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Sep 26 |
 | **[Alcon](http://www.alcon.com)** | **[Commercial Leadership Development Program (CLDP) MBA 2027 Intern](https://jobright.ai/jobs/info/6a9b3434d5ff1f3f1c39e21c?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 26 |
 | **[Perry Homes](https://www.perryhomes.com)** | **[2027 Summer Internship - Purchasing](https://jobright.ai/jobs/info/6a9ad6e8138838706059452c?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Sep 26 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2027 Purchasing Intern](https://jobright.ai/jobs/info/6a9b0b2c2cdc5958f53ea935?utm_campaign=1051&utm_source=git)** | St. Johns, FL, United States | On Site | Sep 26 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2027 Purchasing Intern](https://jobright.ai/jobs/info/6aa0893b500b01124c779aac?utm_campaign=1051&utm_source=git)** | Coconut Creek, FL, United States | On Site | Sep 26 |
 | ↳ | **[Summer 2027 Purchasing Intern](https://jobright.ai/jobs/info/6aa45201f7baf881567ce48f?utm_campaign=1051&utm_source=git)** | Chattanooga, TN, United States | On Site | Sep 26 |
+| ↳ | **[Summer 2027 Purchasing Intern](https://jobright.ai/jobs/info/6a9b0b2c2cdc5958f53ea935?utm_campaign=1051&utm_source=git)** | St. Johns, FL, United States | On Site | Sep 26 |
 | ↳ | **[Summer 2027 Purchasing Intern](https://jobright.ai/jobs/info/6aa1865e3272060a8e3f02b3?utm_campaign=1051&utm_source=git)** | Sarasota, FL, United States | On Site | Sep 26 |
-| ↳ | **[Summer 2027 Purchasing Intern](https://jobright.ai/jobs/info/6aa0893b500b01124c779aac?utm_campaign=1051&utm_source=git)** | Coconut Creek, FL, United States | On Site | Sep 26 |
-| ↳ | **[Summer 2027 Sales Intern](https://jobright.ai/jobs/info/6ab2b8d31508734c1530b8ec?utm_campaign=1051&utm_source=git)** | Mason, OH, United States | On Site | Sep 26 |
+| ↳ | **[Summer 2027 Sales Intern](https://jobright.ai/jobs/info/6ab2b0f030340229a322f24d?utm_campaign=1051&utm_source=git)** | Mason, OH, United States | On Site | Sep 26 |
 | ↳ | **[Summer 2027 Sales Intern](https://jobright.ai/jobs/info/6aa9cc6ceff87f571fc9ba1e?utm_campaign=1051&utm_source=git)** | IN-Indianapolis | On Site | Sep 26 |
-| ↳ | **[Summer 2027 Sales and Marketing Intern](https://jobright.ai/jobs/info/6aa186da500b01124c77d11e?utm_campaign=1051&utm_source=git)** | Edmond, OK, United States | On Site | Sep 26 |
+| ↳ | **[Summer 2027 Sales Intern](https://jobright.ai/jobs/info/6aa096323b5aa83237b0a134?utm_campaign=1051&utm_source=git)** | Huntsville, AL, United States | On Site | Sep 26 |
 | ↳ | **[Summer 2027 Sales & Marketing Intern](https://jobright.ai/jobs/info/6a9b0b07d5ff1f3f1c39d58e?utm_campaign=1051&utm_source=git)** | Sewickley, PA, United States | On Site | Sep 26 |
+| ↳ | **[Summer 2027 Sales and Marketing Intern](https://jobright.ai/jobs/info/6aa186da500b01124c77d11e?utm_campaign=1051&utm_source=git)** | Edmond, OK, United States | On Site | Sep 26 |
 | ↳ | **[Summer 2027 Sales Intern](https://jobright.ai/jobs/info/6aa9b325eff87f571fc9ac75?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 26 |
-| ↳ | **[Summer 2027 Sales Intern](https://jobright.ai/jobs/info/6aa08f5d500b01124c779c74?utm_campaign=1051&utm_source=git)** | Huntsville, AL, United States | On Site | Sep 26 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/6a9aeb401388387060594a3b?utm_campaign=1051&utm_source=git)** | Saint Paul, MN, United States | On Site | Sep 26 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Commercial Operations Internship Job Details / Mitsubishi Heavy Industries, Ltd.](https://jobright.ai/jobs/info/6ab7be0e39fd8792cb73e726?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | On Site | Sep 26 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Technical Sales Engineering Intern - IT Channel (Summer 2027)](https://jobright.ai/jobs/info/6a7e0ff80cd4a0703257d90a?utm_campaign=1051&utm_source=git)** | Columbus, OH, United States | On Site | Sep 26 |
@@ -133,10 +134,10 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Account Manager Summer 2027](https://jobright.ai/jobs/info/6aa05dd8500b01124c77885e?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH, United States | On Site | Sep 26 |
 | **[Venture Home](https://venturesolar.com/)** | **[Business Development Internship (Paid) - Stamford, CT](https://jobright.ai/jobs/info/6ab7204239fd8792cb73d7d2?utm_campaign=1051&utm_source=git)** | Stamford, CT, United States | On Site | Sep 26 |
 | **[Safe Harbor](https://www.safeharborsc.org)** | **[Development Intern (Unpaid/Spring 2027)](https://jobright.ai/jobs/info/6ab768d23a2ec87116e26090?utm_campaign=1051&utm_source=git)** | Greenville, SC, United States | On Site | Sep 25 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/6a45d8e50dd56c76cc2f46cd?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Sep 25 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69cb74de8fc6090c5d457de8?utm_campaign=1051&utm_source=git)** | Hagerstown, Maryland, United States of America | On Site | Sep 25 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a4624380dd56c76cc2f69e9?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Sep 25 |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/6a4624380dd56c76cc2f69e9?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Sep 25 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a45d8e50dd56c76cc2f46cd?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Sep 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a2052dcc00e701fe83688ba?utm_campaign=1051&utm_source=git)** | Hagerstown, Maryland, United States of America | On Site | Sep 25 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69cb74de8fc6090c5d457de8?utm_campaign=1051&utm_source=git)** | Hagerstown, Maryland, United States of America | On Site | Sep 25 |
 | **[Siemens](https://www.siemens.com)** | **[Smart Buildings Technical Sales Intern](https://jobright.ai/jobs/info/6ab89cc8ba1c25652c613e55?utm_campaign=1051&utm_source=git)** | Rolling Meadows, IL, United States | Hybrid | Sep 25 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6ab47284d2f5fbd604be37f0?utm_campaign=1051&utm_source=git)** | Midland, MI, United States | On Site | Sep 25 |
 | **[Cedar Rapids Bank & Trust](https://crbt.com)** | **[Retail Intern](https://jobright.ai/jobs/info/6ab85e4f3a2ec87116e2717f?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Sep 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Internship / Sales / Houston, TX Job Details / Southern Glazer’s Wine and Spirits, LLC](https://jobright.ai/jobs/info/6ab718afd7fde2c08ec8ab58?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
 | ↳ | **[2027 Summer Internship / Sales - Cerritos, Ca Job Details / Southern Glazer’s Wine and Spirits, LLC](https://jobright.ai/jobs/info/6ab7189e39fd8792cb73d51d?utm_campaign=1051&utm_source=git)** | Cerritos, CA, United States | On Site | Sep 25 |
 | ↳ | **[2027 Summer Internship / Sales - Union City, CA Job Details / Southern Glazer’s Wine and Spirits, LLC](https://jobright.ai/jobs/info/6ab71899d7fde2c08ec8ab34?utm_campaign=1051&utm_source=git)** | Union City, CA, United States | On Site | Sep 25 |
-| **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services, Agriculture and Agri-Food Sector](https://jobright.ai/jobs/info/6ab71469d7fde2c08ec8a9e3?utm_campaign=1051&utm_source=git)** | Abbotsford, BC, Canada | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
