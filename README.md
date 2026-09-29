@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6ab40d487bd08137133156fd?utm_campaign=1051&utm_source=git)** | Franklin, TN, United States | On Site | Sep 28 |
+| **[SPX Technologies](http://www.spx.com)** | **[Sales & Marketing Intern Job Details / our team](https://jobright.ai/jobs/info/6abb0a177220f52e62ae956c?utm_campaign=1051&utm_source=git)** | Elk Grove Village, IL, United States | On Site | Sep 28 |
+| ↳ | **[Inside Sales Intern 1 Job Details / our team](https://jobright.ai/jobs/info/6abb0a037220f52e62ae9565?utm_campaign=1051&utm_source=git)** | Brentwood, MO, United States | Hybrid | Sep 28 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6ab59728634ec6aa7c0d04e6?utm_campaign=1051&utm_source=git)** | Jupiter, FL, United States | On Site | Sep 28 |
 | ↳ | **[Sales Internship](https://jobright.ai/jobs/info/6ab582d1c6fe0dec811a16f2?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ, United States | On Site | Sep 28 |
-| ↳ | **[Sales Internship](https://jobright.ai/jobs/info/6ab59728634ec6aa7c0d04e6?utm_campaign=1051&utm_source=git)** | Jupiter, FL, United States | On Site | Sep 28 |
+| ↳ | **[Sales Internship](https://jobright.ai/jobs/info/6ab40d487bd08137133156fd?utm_campaign=1051&utm_source=git)** | Franklin, TN, United States | On Site | Sep 28 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2027 Sales Enablement Intern](https://jobright.ai/jobs/info/6abada6fbe5f1e9325117ca4?utm_campaign=1051&utm_source=git)** | Shakopee, MN, United States | On Site | Sep 28 |
+| **[Berkshire Hathaway Specialty Insurance](http://www.bhspecialty.com)** | **[Internship](https://jobright.ai/jobs/info/6abaceb5be5f1e9325117702?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 28 |
 | **[Werner](http://wernerelectric.com)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/6abac2d77220f52e62ae8197?utm_campaign=1051&utm_source=git)** | Appleton, WI, United States | On Site | Sep 28 |
 | **[Luxury Miami Estate Management](https://miamiestatemanager.com/)** | **[Outreach Intern Luxury Real Estate](https://jobright.ai/jobs/info/6abaeec6be5f1e9325118365?utm_campaign=1051&utm_source=git)** | Florida, United States | On Site | Sep 28 |
 | **[Bertelsmann SE & Co. KGaA](http://www.bertelsmann.com)** | **[Summer 2027, Remote Internship, Sales & Marketing Job Details / Apply now!](https://jobright.ai/jobs/info/6abad1fed2914e9273eed789?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 28 |
@@ -92,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern (Summer 2027)](https://jobright.ai/jobs/info/6abae398be5f1e9325117f6b?utm_campaign=1051&utm_source=git)** | Plano, TX, United States | On Site | Sep 28 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Financial Services Sales Program, Internship](https://jobright.ai/jobs/info/6a95c763cabc9f6703e19c64?utm_campaign=1051&utm_source=git)** | Campbell, CA, United States | On Site | Sep 28 |
 | **[General Motors](https://www.gm.com)** | **[2027 Winter Co-op Vehicle Sales, Service and Marketing](https://jobright.ai/jobs/info/6abaa028be5f1e93251167ae?utm_campaign=1051&utm_source=git)** | Oshawa, ON, Canada | Hybrid | Sep 28 |
-| **[CBRE](https://www.cbre.com)** | **[2027 Sales/Brokerage Intern - Summer (San Antonio, TX)](https://jobright.ai/jobs/info/6abadc0c1acb8fc6f09c1f8a?utm_campaign=1051&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 28 |
 | **[Unishippers - Hudson Group](https://www.unishippers.com/creativecontrol/)** | **[Sales Intern (Student-Athletes Wanted)](https://jobright.ai/jobs/info/6abad933ee0b348be729bdf9?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Electro](electrogum.com)** | **[NIL Partnerships Intern](https://jobright.ai/jobs/info/6abad810be5f1e9325117bb7?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area, United States | Remote | Sep 28 |
 | **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Fall 2026 Business Development Intern](https://jobright.ai/jobs/info/6a560ee1efb06a45240d3a15?utm_campaign=1051&utm_source=git)** | East Nashville, Nashville, TN, United States | Remote | Sep 28 |
@@ -141,11 +143,11 @@ For a complete list, click the following sortable link below:
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern (Summer 2027)](https://jobright.ai/jobs/info/6aba812f1acb8fc6f09bfe82?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 28 |
 | **[ByteDance](http://bytedance.com)** | **[Payment Partnership Project Intern (Global Payment) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a8f1751d7c91d0cf446d881?utm_campaign=1051&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 28 |
 | ↳ | **[Payment Partnership Project Intern (Global Payment) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a9835a311f73b6462c8d2e1?utm_campaign=1051&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 28 |
-| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Sales Intern - Summer 2027](https://jobright.ai/jobs/info/6a90a908a19886486676284c?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 28 |
-| ↳ | **[Sales Intern - Summer 2027](https://jobright.ai/jobs/info/6aba965cad8589219ef7e077?utm_campaign=1051&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 28 |
+| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Sales Intern - Summer 2027](https://jobright.ai/jobs/info/6a90954a2e254e06fb9f1b19?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | On Site | Sep 28 |
 | ↳ | **[Sales Intern - Summer 2027](https://jobright.ai/jobs/info/6a90828c8ffa38557e6cd4f5?utm_campaign=1051&utm_source=git)** | St. Louis Park, MN, United States | On Site | Sep 28 |
-| ↳ | **[Sales Intern - Summer 2027](https://jobright.ai/jobs/info/6a90954a2e254e06fb9f1b19?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | On Site | Sep 28 |
 | ↳ | **[Sales Intern - Summer 2027](https://jobright.ai/jobs/info/6a9082847c32860d14cf9c86?utm_campaign=1051&utm_source=git)** | Waukee, IA, United States | On Site | Sep 28 |
+| ↳ | **[Sales Intern - Summer 2027](https://jobright.ai/jobs/info/6aba965cad8589219ef7e077?utm_campaign=1051&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 28 |
+| ↳ | **[Sales Intern - Summer 2027](https://jobright.ai/jobs/info/6a90a908a19886486676284c?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 28 |
 | ↳ | **[Sales Intern - Summer 2027](https://jobright.ai/jobs/info/6a90a90e0bd89e205d24bb10?utm_campaign=1051&utm_source=git)** | Omaha, NE, United States | On Site | Sep 28 |
 | **[Beast Elite](https://beast-elite.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/6abaa5c6ad8589219ef7e766?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 28 |
 | **[McLane Company, Inc.](https://www.mclaneco.com/)** | **[Sales Internship (Summer 2027)](https://jobright.ai/jobs/info/6aa82c2ca77a53f5a1577c45?utm_campaign=1051&utm_source=git)** | Temple, TX, United States | On Site | Sep 28 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CED](http://www.cedcareers.com)** | **[Sales Intern - Topeka, KS](https://jobright.ai/jobs/info/6abaa10dad8589219ef7e590?utm_campaign=1051&utm_source=git)** | Topeka, KS, United States | On Site | Sep 28 |
 | **[Spraytec](https://spraytecusa.com/)** | **[Sales & Agronomy Intern](https://jobright.ai/jobs/info/6abaa0501acb8fc6f09c0a3a?utm_campaign=1051&utm_source=git)** | Urbandale, IA, United States | On Site | Sep 28 |
 | **[Western National Insurance](https://wnins.com)** | **[Commercial Lines Underwriting Intern](https://jobright.ai/jobs/info/6abae979ee0b348be729c289?utm_campaign=1051&utm_source=git)** | Edina, MN, United States | On Site | Sep 28 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9837c811f73b6462c8d3d2?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | On Site | Sep 28 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9837d5af954907d6571f95?utm_campaign=1051&utm_source=git)** | Mason City, IA, United States | On Site | Sep 28 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a98351883fc6333576300bc?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Sep 28 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a922718a27a2d3c9848b685?utm_campaign=1051&utm_source=git)** | Florence, KY, United States | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
