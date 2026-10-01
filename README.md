@@ -57,9 +57,49 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cornell Fitness Centers](https://scl.cornell.edu/recreation/cornell-fitness-centers)** | **[Sales Intern at Nugent Sand](https://jobright.ai/jobs/info/6abd9d3b372c01f6cd7217fb?utm_campaign=1051&utm_source=git)** | Cooper, MO, United States | On Site | Sep 30 |
+| **[Curi Capital](https://curicapital.com/)** | **[Wealth Builder Intern](https://jobright.ai/jobs/info/6aab01eac85610f4a4842fd3?utm_campaign=1051&utm_source=git)** | Denver, CO, United States | On Site | Sep 30 |
+| ↳ | **[Wealth Builder Intern](https://jobright.ai/jobs/info/6aab023a76707040fb083995?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Sep 30 |
+| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Sales Retail Account Mangagement](https://jobright.ai/jobs/info/6abd7af10e027c0f3b395f7a?utm_campaign=1051&utm_source=git)** | Tempe, AZ, United States | On Site | Sep 30 |
+| ↳ | **[Intern, Revenue Growth Management](https://jobright.ai/jobs/info/6abd80b0372c01f6cd720f1a?utm_campaign=1051&utm_source=git)** | Draper, UT, United States | On Site | Sep 30 |
+| **[Premier Roofing Company](http://premier-roofing.com)** | **[2027 Paid Summer Internship – Sales Representative at Premier Roofing](https://jobright.ai/jobs/info/6a9874caaf954907d657379d?utm_campaign=1051&utm_source=git)** | Denver, CO, United States | On Site | Sep 30 |
+| ↳ | **[2027 Paid Summer Internship – Sales Representative at Premier Roofing](https://jobright.ai/jobs/info/6a9874d2af954907d65737a0?utm_campaign=1051&utm_source=git)** | Wichita, KS, United States | On Site | Sep 30 |
+| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Outside sales Intern](https://jobright.ai/jobs/info/6abd93b2d9621c5b2838d192?utm_campaign=1051&utm_source=git)** | Green Bay, WI, United States | Hybrid | Sep 30 |
 | **[Procter & Gamble](https://us.pg.com)** | **[Purchases Internship](https://jobright.ai/jobs/info/6a9eb4dbf6ea002358296619?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 30 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/6abd8714372c01f6cd72109f?utm_campaign=1051&utm_source=git)** | College Station, TX, United States | On Site | Sep 30 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[1300 - #865 Retail Management Intern](https://jobright.ai/jobs/info/6abd86c3372c01f6cd721080?utm_campaign=1051&utm_source=git)** | Perry, OK, United States | On Site | Sep 30 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6a959076f28891320e85c6f9?utm_campaign=1051&utm_source=git)** | Holland, OH, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5a9be5f1e9325116ee4?utm_campaign=1051&utm_source=git)** | Willowbrook, IL, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6a959051c8763a3a87ffa9ba?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6a959078f28891320e85c6fd?utm_campaign=1051&utm_source=git)** | Maitland, FL, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5961acb8fc6f09c117a?utm_campaign=1051&utm_source=git)** | Tempe, AZ, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abd3c988ff3fb9b3bc6f380?utm_campaign=1051&utm_source=git)** | Victoria, BC, Canada | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5adee0b348be729b08f?utm_campaign=1051&utm_source=git)** | Metairie, LA, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5b07220f52e62ae7cca?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6a95906e3843db0159905bcc?utm_campaign=1051&utm_source=git)** | Moon Township, Pennsylvania, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5b1ee0b348be729b090?utm_campaign=1051&utm_source=git)** | Markham, ON, Canada | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5a7ad8589219ef7ece1?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5f87220f52e62ae7cf5?utm_campaign=1051&utm_source=git)** | Maitland, FL, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6a959056c8763a3a87ffa9c9?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6a95906a4c22023a079345a4?utm_campaign=1051&utm_source=git)** | Latham, NY, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5af7220f52e62ae7cc9?utm_campaign=1051&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5ec7220f52e62ae7ce0?utm_campaign=1051&utm_source=git)** | Miramar, FL, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6a95a09b9fcec5442372e052?utm_campaign=1051&utm_source=git)** | Markham, ON, Canada | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6a95904fcabc9f6703e18698?utm_campaign=1051&utm_source=git)** | Fenton, MO, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5bcee0b348be729b097?utm_campaign=1051&utm_source=git)** | Ashland, VA, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6a959046cabc9f6703e1868f?utm_campaign=1051&utm_source=git)** | Greenville, SC, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5b91acb8fc6f09c1190?utm_campaign=1051&utm_source=git)** | Williston, VT, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5fad2914e9273eecdae?utm_campaign=1051&utm_source=git)** | Moon Township, PA, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5b91acb8fc6f09c1191?utm_campaign=1051&utm_source=git)** | Chesapeake, VA, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6a959065c8763a3a87ffa9da?utm_campaign=1051&utm_source=git)** | Arden Hills, MN, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6a9590774c22023a079345af?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6a9590594c22023a07934592?utm_campaign=1051&utm_source=git)** | Birmingham, AL, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6a9590809fcec5442372da74?utm_campaign=1051&utm_source=git)** | Chesapeake, VA, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6a95907b4c22023a079345b2?utm_campaign=1051&utm_source=git)** | Willowbrook, IL, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6a959057c8763a3a87ffa9cb?utm_campaign=1051&utm_source=git)** | Little Rock, AR, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5a4ee0b348be729b089?utm_campaign=1051&utm_source=git)** | Birmingham, AL, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5c81acb8fc6f09c1199?utm_campaign=1051&utm_source=git)** | West Columbia, SC, United States | On Site | Sep 30 |
+| ↳ | **[2027 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6abab5917220f52e62ae7cae?utm_campaign=1051&utm_source=git)** | Little Rock, AR, United States | On Site | Sep 30 |
 | **[Cheeca Lodge & Spa](http://cheeca.com)** | **[Sales and Marketing Intern - J1](https://jobright.ai/jobs/info/6abd80b88ff3fb9b3bc7116b?utm_campaign=1051&utm_source=git)** | Islamorada, FL, United States | On Site | Sep 30 |
 | **[BBVA](https://bbva.csod.com)** | **[2027 Institutional Client Coverage Summer Internship](https://jobright.ai/jobs/info/6abd7fa40e027c0f3b3961ba?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Sep 30 |
 | ↳ | **[2027 Corporate Client Coverage Summer Internship](https://jobright.ai/jobs/info/6abd7fa1d9621c5b2838ca6b?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Sep 30 |
@@ -76,9 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate, M&A, 2027](https://jobright.ai/jobs/info/6a9855a183fc633357630dd7?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 30 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a51ffe557513b72e0c6a140?utm_campaign=1051&utm_source=git)** | Mandeville, LA, United States | On Site | Sep 30 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Intern, Digital Retail & Performance Management - Spring 2027 - Summer 2027](https://jobright.ai/jobs/info/6abd74520e027c0f3b395bec?utm_campaign=1051&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Sep 30 |
-| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Sales, Strategy & Planning Intern](https://jobright.ai/jobs/info/6aba8967ad8589219ef7dc16?utm_campaign=1051&utm_source=git)** | Reading, PA 19610, United States | On Site | Sep 30 |
+| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Sales, Strategy, & Planning Internship](https://jobright.ai/jobs/info/6aba896a1acb8fc6f09c0137?utm_campaign=1051&utm_source=git)** | New Castle, DE, United States | On Site | Sep 30 |
 | ↳ | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/6ab16ab4d2a93d5a97eba877?utm_campaign=1051&utm_source=git)** | Bensalem, PA, United States | On Site | Sep 30 |
-| ↳ | **[Sales, Strategy, & Planning Internship](https://jobright.ai/jobs/info/6aba896a1acb8fc6f09c0137?utm_campaign=1051&utm_source=git)** | New Castle, DE, United States | On Site | Sep 30 |
 | ↳ | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/6ab16a1823005eee3545a3ee?utm_campaign=1051&utm_source=git)** | Norristown, PA, United States | On Site | Sep 30 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2027 - Inside Sales - Calgary Office](https://jobright.ai/jobs/info/6abd6f294ac55253f5d5d60c?utm_campaign=1051&utm_source=git)** | Calgary, AB, Canada | Hybrid | Sep 30 |
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Insurance Services](https://jobright.ai/jobs/info/6abd555d064da25272dfd07b?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 30 |
@@ -91,8 +130,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6aaabbf04be87a72913a0f59?utm_campaign=1051&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 30 |
 | **[SERHANT.](https://www.serhant.com)** | **[Real Estate Assistant Intern](https://jobright.ai/jobs/info/6abd6642d9621c5b2838c05f?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA, United States | On Site | Sep 30 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - SDR](https://jobright.ai/jobs/info/6abd65cd372c01f6cd720475?utm_campaign=1051&utm_source=git)** | Boise, ID, United States | On Site | Sep 30 |
-| **[The Kendall Group](https://kendallgroup.com/home/index)** | **[Sales Intern](https://jobright.ai/jobs/info/6ab567e19d4843569fe497f5?utm_campaign=1051&utm_source=git)** | Wyoming, MI, United States | On Site | Sep 30 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6ab567dcc6fe0dec811a0d4f?utm_campaign=1051&utm_source=git)** | Clinton Township, MI, United States | On Site | Sep 30 |
+| **[BASF](https://www.basf.com/)** | **[Bilingual Summer Sales Intern](https://jobright.ai/jobs/info/6aab0891f6bd9d2d17c1b0de?utm_campaign=1051&utm_source=git)** | London, ON, Canada | On Site | Sep 30 |
+| ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/6aab084940807b73bd39379b?utm_campaign=1051&utm_source=git)** | London, ON, Canada | On Site | Sep 30 |
+| **[The Kendall Group](https://kendallgroup.com/home/index)** | **[Sales Intern](https://jobright.ai/jobs/info/6ab567dcc6fe0dec811a0d4f?utm_campaign=1051&utm_source=git)** | Clinton Township, MI, United States | On Site | Sep 30 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6ab567e19d4843569fe497f5?utm_campaign=1051&utm_source=git)** | Wyoming, MI, United States | On Site | Sep 30 |
 | **[Amrize](https://www.amrize.com)** | **[Technical Sales and Strategy Intern (Summer 2027)](https://jobright.ai/jobs/info/6abd3de6372c01f6cd71f200?utm_campaign=1051&utm_source=git)** | Franklin, TN, United States | On Site | Sep 30 |
 | **[Boomerang HFX](https://boomeranghfx.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6abd60de0e027c0f3b395513?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 30 |
 | **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Sales & Account Management Intern](https://jobright.ai/jobs/info/6aaad2db4be87a72913a194a?utm_campaign=1051&utm_source=git)** | Madison, WI, United States | On Site | Sep 30 |
@@ -115,46 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://www.psu.edu/)** | **[Nittany Angels Gottscho Internship: Venture Capital Analyst & Scout](https://jobright.ai/jobs/info/6abd1c10d9621c5b2838a000?utm_campaign=1051&utm_source=git)** | University Park, Pennsylvania, United States | Hybrid | Sep 30 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Specialist - Jared Vault - Palm Beach Outlets - West Palm Beach, FL](https://jobright.ai/jobs/info/6a555d8f377f983ce8a99af8?utm_campaign=1051&utm_source=git)** | Jared Jewelers - Palm Beach Outlets - West Palm Beach, FL, United States of America | On Site | Sep 30 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Store Administration Intern / Summer 2027 Job Details / Tractor Supply Company](https://jobright.ai/jobs/info/6abd41f94ac55253f5d5c391?utm_campaign=1051&utm_source=git)** | Brentwood, TN, United States | Hybrid | Sep 30 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a9237928e596854533793f8?utm_campaign=1051&utm_source=git)** | Taylor, MI, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a970c36f5337b2cf731fbc3?utm_campaign=1051&utm_source=git)** | Mobile, Alabama, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a98776011f73b6462c8ecf4?utm_campaign=1051&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923774a27a2d3c9848b87a?utm_campaign=1051&utm_source=git)** | Findlay, OH, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a987775c8ed473c5c7643ba?utm_campaign=1051&utm_source=git)** | West Des Moines, IA, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9837dbaf954907d6571f9c?utm_campaign=1051&utm_source=git)** | Greeley, CO, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9873aedd171c7285792586?utm_campaign=1051&utm_source=git)** | Kokomo, IN, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a972f4e455eaf6a08c1b19f?utm_campaign=1051&utm_source=git)** | Fargo, ND, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a983ce1dd171c7285790f5e?utm_campaign=1051&utm_source=git)** | Carroll, IA, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a96048f9fcec54423730e4c?utm_campaign=1051&utm_source=git)** | Kennewick, WA, United States | On Site | Sep 30 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a922716d18f75674827b84b?utm_campaign=1051&utm_source=git)** | Evansville, IN, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9837bedd171c7285790d4a?utm_campaign=1051&utm_source=git)** | Albuquerque, NM, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a972cc9f5337b2cf7320696?utm_campaign=1051&utm_source=git)** | Roseville, MN, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a982fdddd171c7285790a5e?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 30 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a74cbc537da8525e8cda98e?utm_campaign=1051&utm_source=git)** | Birmingham, AL, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9223819864261ccd2a056c?utm_campaign=1051&utm_source=git)** | Tulsa, OK, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a95fdcff28891320e85f82f?utm_campaign=1051&utm_source=git)** | Des Peres, MO, United States | On Site | Sep 30 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a971a0fe4e60e4b8da5c128?utm_campaign=1051&utm_source=git)** | Montgomery, AL, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a972831d13b4819f39df665?utm_campaign=1051&utm_source=git)** | San Marcos, TX, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a923ffc9864261ccd2a084c?utm_campaign=1051&utm_source=git)** | The Woodlands, TX, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9725cab22f636c8141622e?utm_campaign=1051&utm_source=git)** | Sedalia, MO, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a96f719f5337b2cf731eea3?utm_campaign=1051&utm_source=git)** | Bristol, TN, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a98775dc8ed473c5c7643b3?utm_campaign=1051&utm_source=git)** | Tallahassee, FL, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a96f48be4e60e4b8da5ae51?utm_campaign=1051&utm_source=git)** | Johnson City, TN, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9237759864261ccd2a07cc?utm_campaign=1051&utm_source=git)** | Wichita Falls, TX, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9244659864261ccd2a0877?utm_campaign=1051&utm_source=git)** | Midland, MI, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a924ca49864261ccd2a08ea?utm_campaign=1051&utm_source=git)** | Fort Smith, AR, United States | On Site | Sep 30 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a922be53603630099195f45?utm_campaign=1051&utm_source=git)** | Florence, KY, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a92242dd18f75674827b7fe?utm_campaign=1051&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a924857a27a2d3c9848b937?utm_campaign=1051&utm_source=git)** | Lone Tree, CO, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a972f45b22f636c814164bd?utm_campaign=1051&utm_source=git)** | Ardmore, OK, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a974b79d13b4819f39e0687?utm_campaign=1051&utm_source=git)** | Cypress, TX, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a606fdda4b66100689cb3c8?utm_campaign=1051&utm_source=git)** | Casper, WY, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a96f721f5337b2cf731eea5?utm_campaign=1051&utm_source=git)** | Branson, MO, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a972831246d697dcee03ace?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a98350f83fc6333576300b6?utm_campaign=1051&utm_source=git)** | Roseville, CA, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a1f591bdce5db1256d147c2?utm_campaign=1051&utm_source=git)** | VANCOUVER, Washington, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a960546c8763a3a87ffde82?utm_campaign=1051&utm_source=git)** | Pensacola, FL, United States | On Site | Sep 30 |
-| ↳ | **[Sales & Management Intern (Elmwood Shopping Center)](https://jobright.ai/jobs/info/6aa7fae1930bff471a2a4861?utm_campaign=1051&utm_source=git)** | New Orleans, LA, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a921130d18f75674827b5d5?utm_campaign=1051&utm_source=git)** | Bloomington, MN, United States | On Site | Sep 30 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9837dbdd171c7285790d61?utm_campaign=1051&utm_source=git)** | Lafayette, LA, United States | On Site | Sep 30 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6a91c7d2c12c90443efc8405?utm_campaign=1051&utm_source=git)** | Estero, FL, United States | On Site | Sep 30 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6a9834fbaf954907d6571e2a?utm_campaign=1051&utm_source=git)** | Albuquerque, NM, United States | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
