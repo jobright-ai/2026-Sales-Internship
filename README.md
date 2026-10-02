@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HexArmor](http://hexarmor.com)** | **[Strategic Accounts Internship - Summer 2027](https://jobright.ai/jobs/info/6abf0e9c0e027c0f3b39c55f?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 01 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a50ebd70524e919f4a9ade0?utm_campaign=1051&utm_source=git)** | Woodland Hills, CA, United States | On Site | Oct 01 |
+| **[Genworth](https://www.genworth.com)** | **[CareScout Sales & Operations Intern – Summer 2027](https://jobright.ai/jobs/info/6abf02ef0e027c0f3b39c446?utm_campaign=1051&utm_source=git)** | Richmond, VA, United States | Hybrid | Oct 01 |
+| **[Premier Roofing Company](http://premier-roofing.com)** | **[2027 Paid Summer Internship – Sales Representative at Premier Roofing](https://jobright.ai/jobs/info/6abf02510e027c0f3b39c138?utm_campaign=1051&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 01 |
+| ↳ | **[2027 Paid Summer Internship – Sales Representative at Premier Roofing](https://jobright.ai/jobs/info/6abf02208ff3fb9b3bc76f8c?utm_campaign=1051&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 01 |
+| ↳ | **[2027 Paid Summer Internship – Sales Representative at Premier Roofing](https://jobright.ai/jobs/info/6abf021f8ff3fb9b3bc76f8b?utm_campaign=1051&utm_source=git)** | Omaha, NE, United States | On Site | Oct 01 |
+| ↳ | **[2027 Paid Summer Internship – Sales Representative at Premier Roofing](https://jobright.ai/jobs/info/6abf021fd9621c5b283928fd?utm_campaign=1051&utm_source=git)** | Fort Collins, CO, United States | On Site | Oct 01 |
+| **[Moxie Pest Control](https://www.moxieservices.com)** | **[Summer Sales paid internship](https://jobright.ai/jobs/info/6abefeb9372c01f6cd726cb0?utm_campaign=1051&utm_source=git)** | Denver, CO, United States | On Site | Oct 01 |
 | **[Blue Water Shipping](https://bws.dk)** | **[Business Development Intern](https://jobright.ai/jobs/info/6abefbc68ff3fb9b3bc76ddf?utm_campaign=1051&utm_source=git)** | Miami, FL, United States | On Site | Oct 01 |
 | **[TRACTIAN](https://tractian.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6abed9e74ac55253f5d632ed?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 01 |
 | **[Keen](https://keenapps.co/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6abeede7372c01f6cd7269e1?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 01 |
 | **[Himalayan Blends](https://www.himalayanblends.com/)** | **[Sales and Outreach Intern](https://jobright.ai/jobs/info/6abee59e064da25272e03b65?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 01 |
-| **[HOLLY HUNT](https://www.hollyhunt.com/)** | **[Showroom Intern](https://jobright.ai/jobs/info/6abee3648ff3fb9b3bc76a22?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Oct 01 |
 | **[Auldbrass Partners](http://www.auldbrasspartners.com)** | **[Business Development Intern - Fall/Winter 2026 - Spring 2027](https://jobright.ai/jobs/info/6abee33c0e027c0f3b39bbad?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Oct 01 |
 | **[Jonas Software](http://www.jonassoftware.com)** | **[Business Development Rep - Intern](https://jobright.ai/jobs/info/6abed705372c01f6cd726180?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 01 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Sales Development Representative Intern (Unpaid)](https://jobright.ai/jobs/info/6abed5644ac55253f5d631bb?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 01 |
@@ -113,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Museum Store Digital Commerce Intern - Spring 2027](https://jobright.ai/jobs/info/6abead1c0e027c0f3b39a1e1?utm_campaign=1051&utm_source=git)** | Indianapolis, IN 46208, United States | On Site | Oct 01 |
 | ↳ | **[Individual Giving Intern - Spring 2027](https://jobright.ai/jobs/info/6abeac9ad9621c5b28390a24?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 01 |
 | **[Swiss Re](http://www.swissre.com)** | **[Summer Internship 2027 - Early Talent](https://jobright.ai/jobs/info/6abe5a4f4ac55253f5d601ec?utm_campaign=1051&utm_source=git)** | Armonk, NY, United States | On Site | Oct 01 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/6abe66e7064da25272e006bf?utm_campaign=1051&utm_source=git)** | Beachwood, OH, United States | Remote | Oct 01 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/6abe5ca4372c01f6cd7232d9?utm_campaign=1051&utm_source=git)** | Beachwood, OH, United States | Remote | Oct 01 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/6abe98b1064da25272e01ae9?utm_campaign=1051&utm_source=git)** | Lancaster, PA, United States | On Site | Oct 01 |
 | ↳ | **[Supply Chain Wholesale Internship](https://jobright.ai/jobs/info/6abe98b04ac55253f5d617fc?utm_campaign=1051&utm_source=git)** | Lancaster, PA, United States | On Site | Oct 01 |
 | **[Tanium](http://www.tanium.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6aa1cad22f936e4a53dae277?utm_campaign=1051&utm_source=git)** | Addison, TX, United States | Hybrid | Oct 01 |
@@ -133,28 +140,21 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Building Automation Solutions Sales Intern](https://jobright.ai/jobs/info/6abecf2a372c01f6cd725f67?utm_campaign=1051&utm_source=git)** | Plano, TX, United States | On Site | Oct 01 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Banks Coverage Analyst](https://jobright.ai/jobs/info/6abe870d4ac55253f5d61247?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Oct 01 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/6a4624380dd56c76cc2f69e9?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Oct 01 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a45d8e50dd56c76cc2f46cd?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Oct 01 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69cb74de8fc6090c5d457de8?utm_campaign=1051&utm_source=git)** | Hagerstown, Maryland, United States of America | On Site | Oct 01 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a2052dcc00e701fe83688ba?utm_campaign=1051&utm_source=git)** | Hagerstown, Maryland, United States of America | On Site | Oct 01 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a45d8e50dd56c76cc2f46cd?utm_campaign=1051&utm_source=git)** | Pasadena, CA, United States | On Site | Oct 01 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Connected Sales Intern](https://jobright.ai/jobs/info/6a8618cee459fa3baa865fff?utm_campaign=1051&utm_source=git)** | Watertown, SD, United States | On Site | Oct 01 |
 | **[Fraym](https://fraym.io/)** | **[SkillBridge - Solutions Engineer / Mission Success Intern](https://jobright.ai/jobs/info/6abe85064ac55253f5d61174?utm_campaign=1051&utm_source=git)** | Arlington, VA, United States | Hybrid | Oct 01 |
-| **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f5c927c79391ad0757d?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | Hybrid | Oct 01 |
+| **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f56927c79391ad07574?utm_campaign=1051&utm_source=git)** | Madison, WI, United States | Remote | Oct 01 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f6819ce4e6e9d9367cc?utm_campaign=1051&utm_source=git)** | Brookings, SD, United States | Hybrid | Oct 01 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f56927c79391ad07574?utm_campaign=1051&utm_source=git)** | Madison, WI, United States | Remote | Oct 01 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f5ce2030208f276cae8?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | Remote | Oct 01 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f45927c79391ad0755b?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | Remote | Oct 01 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6a7f3f5c927c79391ad0757d?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | Hybrid | Oct 01 |
 | **[Symphony](http://www.symphony.com)** | **[Intern, Customer Success](https://jobright.ai/jobs/info/6a998b5f8a8b765bc55f39ae?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Oct 01 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Summer 2027 - Corporate Development Intern](https://jobright.ai/jobs/info/6ab2c8c0326574570a00314c?utm_campaign=1051&utm_source=git)** | McLean, VA, United States | On Site | Oct 01 |
 | **[PPA Tour](https://www.ppatour.com)** | **[Sponsorship Sales Intern](https://jobright.ai/jobs/info/6abe81644ac55253f5d60fdc?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | On Site | Oct 01 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/6abe7ffd8ff3fb9b3bc740f8?utm_campaign=1051&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 01 |
 | **[IBM](http://www.ibm.com)** | **[2027 Technical Sales Engineer Co-Op - Entry Level Sales Program](https://jobright.ai/jobs/info/6a94e7ebd18f75674827fdf1?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Oct 01 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Supplier Relations Intern](https://jobright.ai/jobs/info/6aa18e3b3272060a8e3f0752?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 01 |
-| ↳ | **[Supplier Relations Intern](https://jobright.ai/jobs/info/6ab40d7def911c35dffa30d3?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 01 |
-| **[Houston Rockets](http://rockets.com)** | **[Internship - Retail Operations](https://jobright.ai/jobs/info/6abee0200e027c0f3b39b8f8?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Oct 01 |
-| **[Hotchkiss Insurance](https://hotchkissinsurance.com/)** | **[Insurance Sales Internship](https://jobright.ai/jobs/info/6abe79668ff3fb9b3bc73df0?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Oct 01 |
-| ↳ | **[Insurance Sales Internship](https://jobright.ai/jobs/info/6abe79534ac55253f5d60bb6?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Oct 01 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a997620040e5c3d0759660d?utm_campaign=1051&utm_source=git)** | Red Bank, NJ, United States | On Site | Oct 01 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a997664138838706058dfd7?utm_campaign=1051&utm_source=git)** | Campbell, CA, United States | On Site | Oct 01 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a997629ad752e2ad54ffab7?utm_campaign=1051&utm_source=git)** | Woodland Hills, CA, United States | On Site | Oct 01 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a997617040e5c3d07596606?utm_campaign=1051&utm_source=git)** | Moosic, PA, United States | On Site | Oct 01 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a99763190a313642c6506f3?utm_campaign=1051&utm_source=git)** | Springfield, MA, United States | On Site | Oct 01 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Supplier Relations Intern](https://jobright.ai/jobs/info/6ab40d7def911c35dffa30d3?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 01 |
+| ↳ | **[Supplier Relations Intern](https://jobright.ai/jobs/info/6aa18e3b3272060a8e3f0752?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
