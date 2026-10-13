@@ -50,6 +50,12 @@ For a complete list, click the following sortable link below:
 </div>
 
 ---
+
+## Related Canadian Student Job Resource 🇨🇦
+
+- [Hanzilla Jobs — Canadian business, sales, and student roles](https://jobs.hanzilla.co/business/) — a free daily-updated Canada-focused board for students and recent graduates looking for internships, co-ops, new-grad, junior, and entry-level roles across business, sales/customer success, finance, engineering, tech, sciences, arts, and related fields.
+
+---
 ## Daily Job List  🌐 🧭 🏆
 
 
