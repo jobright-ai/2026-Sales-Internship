@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6acdddb487bf8b219cb9f3a0?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 13 |
 | **[LMCU](https://www.lmcu.org/)** | **[Small Business Lending Intern](https://jobright.ai/jobs/info/6acdcc1d3e2155b545aa1e86?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 12 |
-| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Field Sales](https://jobright.ai/jobs/info/6acd75e4a56e5406e57c1615?utm_campaign=1051&utm_source=git)** | Johnstown, CO, United States | On Site | Oct 12 |
-| ↳ | **[Intern, Field Sales](https://jobright.ai/jobs/info/6acd7391002e496d4bef23f9?utm_campaign=1051&utm_source=git)** | Johnstown, Colorado, United States | On Site | Oct 12 |
+| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Field Sales](https://jobright.ai/jobs/info/6acd7391002e496d4bef23f9?utm_campaign=1051&utm_source=git)** | Johnstown, Colorado, United States | On Site | Oct 12 |
+| ↳ | **[Intern, Field Sales](https://jobright.ai/jobs/info/6acd75e4a56e5406e57c1615?utm_campaign=1051&utm_source=git)** | Johnstown, CO, United States | On Site | Oct 12 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/6a960fe5c8763a3a87ffe2dd?utm_campaign=1051&utm_source=git)** | Anchorage, AK, United States | On Site | Oct 12 |
 | ↳ | **[Spring 2027 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/6abb25cd3db4ca81fc7c6f57?utm_campaign=1051&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 12 |
 | ↳ | **[Spring 2027 Management Trainee Sales Internship - Bothell](https://jobright.ai/jobs/info/6a960ff84c22023a07937d90?utm_campaign=1051&utm_source=git)** | Bothell, WA, United States | On Site | Oct 12 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Perigon Wealth Management](https://www.perigonwealth.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6acda0b82bd01b08973f0c46?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 12 |
 | **[Mars](https://www.mars.com)** | **[Summer 2027 Mars Petcare Sales Internship - Bentonville](https://jobright.ai/jobs/info/6acd7771d113c967e3c7de64?utm_campaign=1051&utm_source=git)** | Bentonville, AR, United States | On Site | Oct 12 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development (Internship)](https://jobright.ai/jobs/info/6acd96b7002e496d4bef2c47?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Remote | Oct 12 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer Internship - Sales Management Trainee](https://jobright.ai/jobs/info/6a95a78df28891320e85cf26?utm_campaign=1051&utm_source=git)** | Tyler, TX, United States | On Site | Oct 12 |
-| ↳ | **[Spring 2027 Sales Management Trainee Intern - Stroudsburg](https://jobright.ai/jobs/info/6a95bd454c22023a07935742?utm_campaign=1051&utm_source=git)** | Stroudsburg, PA, United States | On Site | Oct 12 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Sales Management Trainee Intern - Stroudsburg](https://jobright.ai/jobs/info/6a95bd454c22023a07935742?utm_campaign=1051&utm_source=git)** | Stroudsburg, PA, United States | On Site | Oct 12 |
+| ↳ | **[Summer Internship - Sales Management Trainee](https://jobright.ai/jobs/info/6a95a78df28891320e85cf26?utm_campaign=1051&utm_source=git)** | Tyler, TX, United States | On Site | Oct 12 |
 | ↳ | **[Spring 2027 Sales Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/6a95bd529fcec5442372ec44?utm_campaign=1051&utm_source=git)** | Williamsport, PA, United States | On Site | Oct 12 |
 | ↳ | **[Sales Management Trainee Intern - Spring 2027- Sioux Falls, SD](https://jobright.ai/jobs/info/6a9592eaf28891320e85c838?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD, United States | On Site | Oct 12 |
 | ↳ | **[Summer Internship - Sales Management Trainee](https://jobright.ai/jobs/info/6a9593053843db0159905d0f?utm_campaign=1051&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 12 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship - Sales Management Trainee](https://jobright.ai/jobs/info/6a95a786cabc9f6703e18ecb?utm_campaign=1051&utm_source=git)** | Shreveport, LA, United States | On Site | Oct 12 |
 | ↳ | **[Spring 2027 Sales Management Trainee Intern - Shamokin Dam](https://jobright.ai/jobs/info/6a95bd339fcec5442372ec3c?utm_campaign=1051&utm_source=git)** | Shamokin Dam, PA, United States | On Site | Oct 12 |
 | ↳ | **[Sales Management Trainee Intern - Spring 2027- Peoria, IL](https://jobright.ai/jobs/info/6a9592d9c8763a3a87ffab19?utm_campaign=1051&utm_source=git)** | Peoria, IL, United States | On Site | Oct 12 |
-| ↳ | **[Summer Internship - Sales Management Trainee](https://jobright.ai/jobs/info/6a95a76d3843db0159906404?utm_campaign=1051&utm_source=git)** | Ruston, LA, United States | On Site | Oct 12 |
 | ↳ | **[Sales Management Trainee Intern - Spring 2027- Omaha, NE](https://jobright.ai/jobs/info/6a9592fdc8763a3a87ffab31?utm_campaign=1051&utm_source=git)** | Omaha, NE, United States | On Site | Oct 12 |
+| ↳ | **[Summer Internship - Sales Management Trainee](https://jobright.ai/jobs/info/6a95a76d3843db0159906404?utm_campaign=1051&utm_source=git)** | Ruston, LA, United States | On Site | Oct 12 |
 | ↳ | **[Sales Management Trainee Intern - Spring 2027- Pella, IA](https://jobright.ai/jobs/info/6a9592fcf28891320e85c841?utm_campaign=1051&utm_source=git)** | Pella, IA, United States | On Site | Oct 12 |
 | ↳ | **[Sales Management Trainee Intern - Spring 2027- Mattoon, IL](https://jobright.ai/jobs/info/6a9592c1c8763a3a87ffab09?utm_campaign=1051&utm_source=git)** | Mattoon, IL, United States | On Site | Oct 12 |
 | ↳ | **[Sales Management Trainee Intern - Spring 2027- Lincoln, NE](https://jobright.ai/jobs/info/6a9592f24c22023a0793471a?utm_campaign=1051&utm_source=git)** | Lincoln, NE, United States | On Site | Oct 12 |
@@ -102,11 +103,11 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Oct 12 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a574b0821f64463ad358a1f?utm_campaign=1051&utm_source=git)** | Evergreen Park, IL, United States | On Site | Oct 12 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern – Account Manager Starting Summer 2027](https://jobright.ai/jobs/info/6ab2a2ea1e4847ddae91550c?utm_campaign=1051&utm_source=git)** | Memphis, TN, United States | On Site | Oct 12 |
-| ↳ | **[Intern – Account Manager Starting Summer 2027](https://jobright.ai/jobs/info/6ac94f26d4a5a03707411c5d?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 12 |
-| ↳ | **[Intern – Account Manager Starting Summer 2027](https://jobright.ai/jobs/info/6abd9844064da25272dfe92a?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK, United States | On Site | Oct 12 |
-| ↳ | **[Intern – Account Manager Starting Summer 2027](https://jobright.ai/jobs/info/6ac7f7ca0e573df8adc7551b?utm_campaign=1051&utm_source=git)** | Plano, TX, United States | On Site | Oct 12 |
-| ↳ | **[Intern – Account Manager Starting Summer 2027](https://jobright.ai/jobs/info/6aa9b3d928e24cb38513b7f9?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 12 |
 | ↳ | **[Intern – Account Manager Starting Summer 2027](https://jobright.ai/jobs/info/6ab2a2e2326574570a001f03?utm_campaign=1051&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 12 |
+| ↳ | **[Intern – Account Manager Starting Summer 2027](https://jobright.ai/jobs/info/6ac7f7ca0e573df8adc7551b?utm_campaign=1051&utm_source=git)** | Plano, TX, United States | On Site | Oct 12 |
+| ↳ | **[Intern – Account Manager Starting Summer 2027](https://jobright.ai/jobs/info/6abd9844064da25272dfe92a?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK, United States | On Site | Oct 12 |
+| ↳ | **[Intern – Account Manager Starting Summer 2027](https://jobright.ai/jobs/info/6ac94f26d4a5a03707411c5d?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 12 |
+| ↳ | **[Intern – Account Manager Starting Summer 2027](https://jobright.ai/jobs/info/6aa9b3d928e24cb38513b7f9?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 12 |
 | **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Fall 2026 Business Development Intern](https://jobright.ai/jobs/info/6a560ee1efb06a45240d3a15?utm_campaign=1051&utm_source=git)** | Nashville, TN, United States | Remote | Oct 12 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Services Sales Program, Internship](https://jobright.ai/jobs/info/6a95c763cabc9f6703e19c64?utm_campaign=1051&utm_source=git)** | Campbell, CA, United States | On Site | Oct 12 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Sales Management Trainee Intern - Easton](https://jobright.ai/jobs/info/6a95bcf33843db0159906da7?utm_campaign=1051&utm_source=git)** | Easton, PA, United States | On Site | Oct 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SPW Consulting Services](https://www.linkedin.com/company/106451818)** | **[Sales Development Intern — Remote](https://jobright.ai/jobs/info/6acd3081002e496d4bef10c3?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 12 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Account Management & Sales Strategy Intern 2027](https://jobright.ai/jobs/info/6acd0c9ca56e5406e57bf517?utm_campaign=1051&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 12 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Consumer Group: Verizon Value Summer 2027 Internship](https://jobright.ai/jobs/info/6acd247c3c831dc4086c0d93?utm_campaign=1051&utm_source=git)** | Basking Ridge, NJ, United States | Hybrid | Oct 12 |
-| **[Insco Distributing, Inc.](https://www.insco.com/)** | **[Internship](https://jobright.ai/jobs/info/6aa80916930bff471a2a4c7c?utm_campaign=1051&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
