@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Seller Strategy Business Analyst Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6a6b7cbc5c54bc4752ce9376?utm_campaign=1051&utm_source=git)** | Seattle, WA, United States | On Site | Oct 24 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a5b96d54da96a42cfd9ab6c?utm_campaign=1051&utm_source=git)** | Woodland Hills, CA, United States | On Site | Oct 24 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a545d4fc8eb0843027afab4?utm_campaign=1051&utm_source=git)** | Woodland Hills, CA, United States | On Site | Oct 24 |
+| **[PeopleLens](https://peoplelens.ai)** | **[Sales Development Intern - AI Native (Fall 2026)](https://jobright.ai/jobs/info/6add6595389e06bb41ad8bcc?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Bluegrass Stream](https://www.linkedin.com/company/109155083)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/6add4a3bc5c64fa3d9cb5d8b?utm_campaign=1051&utm_source=git)** | Little Rock, AR, United States | On Site | Oct 24 |
 | **[3M](https://www.3m.com)** | **[Internship – 2027 Undergraduate Sales Enablement, Operations & Analytics Intern - Safety & Industrial Business Group (SIBG)](https://jobright.ai/jobs/info/6aa8d4a93387a3d9b67d3371?utm_campaign=1051&utm_source=git)** | Maplewood, MN, United States | Hybrid | Oct 24 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) – Greater Long Beach, CA (Starting Summer 2027)](https://jobright.ai/jobs/info/6a8644f5d34f700f87fc1423?utm_campaign=1051&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 24 |
@@ -89,10 +93,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer C&I Gas Sales Intern (Remote in NE)](https://jobright.ai/jobs/info/6ac9968dfe8f33a85d5044a1?utm_campaign=1051&utm_source=git)** | Omaha, NE, United States | Remote | Oct 24 |
 | **[Yazaki North America](https://www.yii.tech)** | **[2027 Business Majors Internship Pool](https://jobright.ai/jobs/info/6aa3dcd4c1928370a285ae8c?utm_campaign=1051&utm_source=git)** | Canton, MI, United States | On Site | Oct 24 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Sales Intern](https://jobright.ai/jobs/info/6adcd354389e06bb41ad7651?utm_campaign=1051&utm_source=git)** | Columbus, OH, United States | Remote | Oct 24 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2027 Purchasing Intern](https://jobright.ai/jobs/info/6aa45201f7baf881567ce48f?utm_campaign=1051&utm_source=git)** | Chattanooga, TN, United States | On Site | Oct 24 |
-| ↳ | **[Summer 2027 Purchasing Intern](https://jobright.ai/jobs/info/6aa1865e3272060a8e3f02b3?utm_campaign=1051&utm_source=git)** | Sarasota, FL, United States | On Site | Oct 24 |
-| ↳ | **[Summer 2027 Purchasing Intern](https://jobright.ai/jobs/info/6a9b0b2c2cdc5958f53ea935?utm_campaign=1051&utm_source=git)** | St. Johns, Florida, United States | On Site | Oct 24 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2027 Purchasing Intern](https://jobright.ai/jobs/info/6a9b0b2c2cdc5958f53ea935?utm_campaign=1051&utm_source=git)** | St. Johns, Florida, United States | On Site | Oct 24 |
+| ↳ | **[Summer 2027 Purchasing Intern](https://jobright.ai/jobs/info/6aa45201f7baf881567ce48f?utm_campaign=1051&utm_source=git)** | Chattanooga, TN, United States | On Site | Oct 24 |
 | ↳ | **[Summer 2027 Purchasing Intern](https://jobright.ai/jobs/info/6aa0893b500b01124c779aac?utm_campaign=1051&utm_source=git)** | Coconut Creek, FL, United States | On Site | Oct 24 |
+| ↳ | **[Summer 2027 Purchasing Intern](https://jobright.ai/jobs/info/6aa1865e3272060a8e3f02b3?utm_campaign=1051&utm_source=git)** | Sarasota, FL, United States | On Site | Oct 24 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Florida State University](https://jobright.ai/jobs/info/6abfeea18ff3fb9b3bc79ac1?utm_campaign=1051&utm_source=git)** | Tallahassee, FL, United States | Hybrid | Oct 24 |
 | **[Owens Corning](http://www.owenscorning.com/)** | **[Roofing Sales Internship (2027) Job Details / Owens Corning](https://jobright.ai/jobs/info/6aa905cc10b1cd4f416046a9?utm_campaign=1051&utm_source=git)** | Toledo, OH, United States | On Site | Oct 24 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Analyst Intern](https://jobright.ai/jobs/info/6a7f6ac5ad9ff00c26bae117?utm_campaign=1051&utm_source=git)** | United States, United States | Remote | Oct 24 |
@@ -103,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Johnson Financial Group](https://www.johnsonfinancialgroup.com/)** | **[Wealth Fiduciary Summer Internship 2027](https://jobright.ai/jobs/info/6aa427101d92e2d05d11392b?utm_campaign=1051&utm_source=git)** | Madison, WI, United States | On Site | Oct 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall/Winter - Sales Management Trainee Intern](https://jobright.ai/jobs/info/6abff108d9621c5b28395609?utm_campaign=1051&utm_source=git)** | Troy, AL, United States | On Site | Oct 24 |
 | **[Johnson Financial Group](https://www.johnsonfinancialgroup.com/)** | **[Commercial Banking Rotational Internship Summer 2027](https://jobright.ai/jobs/info/6acfed8978d51ae69ce08f6c?utm_campaign=1051&utm_source=git)** | Madison, Wisconsin, United States | On Site | Oct 24 |
-| **[Southwire Company](http://southwire.com)** | **[Market Development and Industry Partnership Intern](https://jobright.ai/jobs/info/6aa441f31d92e2d05d114197?utm_campaign=1051&utm_source=git)** | Carrollton, GA, United States | On Site | Oct 24 |
-| ↳ | **[Market Development and Industry Partnership Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6adaafd44c3adc437cecf2d7?utm_campaign=1051&utm_source=git)** | Carrollton, GA, United States | On Site | Oct 24 |
+| **[Southwire Company](http://southwire.com)** | **[Market Development and Industry Partnership Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6adaafd44c3adc437cecf2d7?utm_campaign=1051&utm_source=git)** | Carrollton, GA, United States | On Site | Oct 24 |
+| ↳ | **[Market Development and Industry Partnership Intern](https://jobright.ai/jobs/info/6aa441f31d92e2d05d114197?utm_campaign=1051&utm_source=git)** | Carrollton, GA, United States | On Site | Oct 24 |
 | ↳ | **[Market Development and Industry Partnership Intern Job Details / Southwire Company LLC](https://jobright.ai/jobs/info/6aaf9ed96956574eac8ba215?utm_campaign=1051&utm_source=git)** | Carrollton, GA, United States | On Site | Oct 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6aa40c42c1928370a285c357?utm_campaign=1051&utm_source=git)** | Richmond, VA, United States | On Site | Oct 24 |
 | **[Unum](http://www.unum.com)** | **[Sales & Client Management Intern- Phoenix, Arizona](https://jobright.ai/jobs/info/6a870410cde3717f9e9af9e2?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 24 |
@@ -130,31 +134,27 @@ For a complete list, click the following sortable link below:
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern - Residential Lending Strategy, Winter 2027](https://jobright.ai/jobs/info/6aa44ee08275e3a21175fdae?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 24 |
 | **[STO Building Group](https://stobuildinggroup.com)** | **[Intern - MV](https://jobright.ai/jobs/info/6a52eb5f8a74e077472f69b8?utm_campaign=1051&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 24 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2026/27](https://jobright.ai/jobs/info/6a7227f902d93145bf892dfb?utm_campaign=1051&utm_source=git)** | Glastonbury, CT, United States | On Site | Oct 24 |
-| **[Reyes Coca-Cola Bottling](https://www.reyescocacola.com/)** | **[Sales Internship (Foodservice & On Premise)](https://jobright.ai/jobs/info/6a96045af28891320e85fb59?utm_campaign=1051&utm_source=git)** | Caledonia, MI, United States | On Site | Oct 24 |
-| ↳ | **[Sales Internship (Foodservice & On Premise)](https://jobright.ai/jobs/info/6aa3cd86626f9945308b35a1?utm_campaign=1051&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 24 |
+| **[Reyes Coca-Cola Bottling](https://www.reyescocacola.com/)** | **[Sales Internship (Foodservice & On Premise)](https://jobright.ai/jobs/info/6aa3cd86626f9945308b35a1?utm_campaign=1051&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 24 |
+| ↳ | **[Sales Internship (Foodservice & On Premise)](https://jobright.ai/jobs/info/6a96045af28891320e85fb59?utm_campaign=1051&utm_source=git)** | Caledonia, MI, United States | On Site | Oct 24 |
 | ↳ | **[Sales Internship (Foodservice & On Premise)](https://jobright.ai/jobs/info/6aa5f3452ed333b4ea5c8ac2?utm_campaign=1051&utm_source=git)** | Eagan, Minnesota, United States | On Site | Oct 24 |
-| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Internship - Des Moines](https://jobright.ai/jobs/info/6a97e18fdef18223c854cd54?utm_campaign=1051&utm_source=git)** | IA-Des Moines | On Site | Oct 24 |
-| ↳ | **[Summer 2027 Internship](https://jobright.ai/jobs/info/6a97009c455eaf6a08c19ee8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 24 |
-| ↳ | **[Summer 2027 Internship - Birmingham](https://jobright.ai/jobs/info/6a96ff94d13b4819f39de4e7?utm_campaign=1051&utm_source=git)** | Birmingham, Michigan, United States | On Site | Oct 24 |
-| ↳ | **[Summer 2027 Internship - Kansas City](https://jobright.ai/jobs/info/6a97e068c8ed473c5c761723?utm_campaign=1051&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 24 |
-| ↳ | **[Summer 2027 Internship](https://jobright.ai/jobs/info/6a96ff9d246d697dcee0292c?utm_campaign=1051&utm_source=git)** | Omaha, Nebraska, United States | On Site | Oct 24 |
+| **[Lockton](https://global.lockton.com)** | **[Summer 2027 Internship - Kansas City](https://jobright.ai/jobs/info/6a97e068c8ed473c5c761723?utm_campaign=1051&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 24 |
 | ↳ | **[Summer 2027 Internship](https://jobright.ai/jobs/info/6a96ff83d13b4819f39de4da?utm_campaign=1051&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 24 |
+| ↳ | **[Summer 2027 Internship - Des Moines](https://jobright.ai/jobs/info/6a97e18fdef18223c854cd54?utm_campaign=1051&utm_source=git)** | IA-Des Moines | On Site | Oct 24 |
+| ↳ | **[Summer 2027 Internship](https://jobright.ai/jobs/info/6a96ff9d246d697dcee0292c?utm_campaign=1051&utm_source=git)** | Omaha, Nebraska, United States | On Site | Oct 24 |
+| ↳ | **[Summer 2027 Internship - Birmingham](https://jobright.ai/jobs/info/6a97009d455eaf6a08c19eea?utm_campaign=1051&utm_source=git)** | Birmingham, Michigan, United States | On Site | Oct 24 |
+| ↳ | **[Summer 2027 Internship](https://jobright.ai/jobs/info/6a97009c455eaf6a08c19ee8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 24 |
 | ↳ | **[Summer 2027 Internship](https://jobright.ai/jobs/info/6ab6338b4873fd3fd852ce12?utm_campaign=1051&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 24 |
 | **[Dell Technologies](https://www.dell.com)** | **[OEM Solutions Sales Undergraduate Intern](https://jobright.ai/jobs/info/6adaf4e291f93f4b0571577c?utm_campaign=1051&utm_source=git)** | Round Rock, TX, United States | On Site | Oct 24 |
-| **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e8a9c5e6f4d06f429e7f?utm_campaign=1051&utm_source=git)** | San Marcos, TX, United States | On Site | Oct 24 |
+| **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e9d6097baf4fb049e70b?utm_campaign=1051&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 24 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e8a6ac037ffd0b62017c?utm_campaign=1051&utm_source=git)** | Lubbock, TX, United States | On Site | Oct 24 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e958c5e6f4d06f429edc?utm_campaign=1051&utm_source=git)** | Medford, MA, United States | On Site | Oct 24 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e95ec5e6f4d06f429ee6?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI, United States | On Site | Oct 24 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e8a39e2fdc1ecc1c41d1?utm_campaign=1051&utm_source=git)** | McKinney, TX, United States | On Site | Oct 24 |
+| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e8b56b3a581bc8817cd4?utm_campaign=1051&utm_source=git)** | Saint George, UT, United States | On Site | Oct 24 |
+| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e94ac5e6f4d06f429ec5?utm_campaign=1051&utm_source=git)** | Johnson City, TN, United States | On Site | Oct 24 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e899ac037ffd0b620166?utm_campaign=1051&utm_source=git)** | Fort Worth, TX, United States | On Site | Oct 24 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e9f5097baf4fb049e733?utm_campaign=1051&utm_source=git)** | New Orleans, LA, United States | On Site | Oct 24 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e949097baf4fb049e6c8?utm_campaign=1051&utm_source=git)** | Orem, UT, United States | On Site | Oct 24 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e9d76b3a581bc8817d55?utm_campaign=1051&utm_source=git)** | Hammond, LA, United States | On Site | Oct 24 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e89e977ae951c8e014f7?utm_campaign=1051&utm_source=git)** | Ogden, UT, United States | On Site | Oct 24 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e8b8977ae951c8e0152e?utm_campaign=1051&utm_source=git)** | Knoxville, TN, United States | On Site | Oct 24 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e964c5e6f4d06f429eeb?utm_campaign=1051&utm_source=git)** | Denton, TX, United States | On Site | Oct 24 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e9449e2fdc1ecc1c4228?utm_campaign=1051&utm_source=git)** | Rochester Hills, MI, United States | On Site | Oct 24 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e9489e2fdc1ecc1c422f?utm_campaign=1051&utm_source=git)** | Arlington, TX, United States | On Site | Oct 24 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e8af9e2fdc1ecc1c41f0?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Oct 24 |
+| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e8b9977ae951c8e01530?utm_campaign=1051&utm_source=git)** | Waco, TX, United States | On Site | Oct 24 |
+| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e95d9e2fdc1ecc1c424e?utm_campaign=1051&utm_source=git)** | Bridgewater, MA, United States | On Site | Oct 24 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e9d0977ae951c8e015b5?utm_campaign=1051&utm_source=git)** | Chestnut Hill, MA, United States | On Site | Oct 24 |
+| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e8a9c5e6f4d06f429e7f?utm_campaign=1051&utm_source=git)** | San Marcos, TX, United States | On Site | Oct 24 |
+| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e9da9e2fdc1ecc1c4278?utm_campaign=1051&utm_source=git)** | Lafayette, LA, United States | On Site | Oct 24 |
+| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e9d9ac037ffd0b620222?utm_campaign=1051&utm_source=git)** | El Paso, TX, United States | On Site | Oct 24 |
+| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6ad1e9e99e2fdc1ecc1c428e?utm_campaign=1051&utm_source=git)** | American Fork, UT, United States | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
