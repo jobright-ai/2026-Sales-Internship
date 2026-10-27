@@ -57,38 +57,49 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hilti North America](https://www.hilti.com/)** | **[Sales Intern -Fairfax, Virginia - Summer 2027](https://jobright.ai/jobs/info/6adfd0205dc7953215a432bc?utm_campaign=1051&utm_source=git)** | Fairfax, VA, United States | On Site | Oct 26 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adc1e5b46a8cabdc1ff62c4?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
+| **[Excel Sports Management](http://www.excelsm.com)** | **[Spring 2027 - Intern, Media](https://jobright.ai/jobs/info/6adf7f139e3e874dbfbacc0a?utm_campaign=1051&utm_source=git)** | West Hollywood, CA, United States | Hybrid | Oct 26 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Sales/Showroom Intern](https://jobright.ai/jobs/info/6adfcf929e3e874dbfbb06e9?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
+| **[Excel Sports Management](http://www.excelsm.com)** | **[Spring 2027 - Intern, Football Sales](https://jobright.ai/jobs/info/6adf87510a4cc7090f98025f?utm_campaign=1051&utm_source=git)** | West Hollywood, CA, United States | Hybrid | Oct 26 |
+| ↳ | **[Spring 2027 - Intern, Properties (New York)](https://jobright.ai/jobs/info/6adf82a6065c4e77efaf83c8?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Oct 26 |
+| **[Brookfield](https://www.brookfield.com)** | **[Intern, Private Wealth](https://jobright.ai/jobs/info/6adfbb11065c4e77efafae17?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
+| **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Fleet Intern](https://jobright.ai/jobs/info/6adfd44dc5c64fa3d9cc000d?utm_campaign=1051&utm_source=git)** | Deerfield Beach, FL, United States | On Site | Oct 26 |
+| ↳ | **[Sales Planning Intern](https://jobright.ai/jobs/info/6adfd44c9e3e874dbfbb0a2c?utm_campaign=1051&utm_source=git)** | Deerfield Beach, FL, United States | On Site | Oct 26 |
+| **[Manufacturers’ Agents Association for the Foodservice Industry (MAFSI)](http://www.mafsi.org/)** | **[Foodservice Sales Intern - Summer ...](https://jobright.ai/jobs/info/6adfd41b065c4e77efafbf94?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN, United States | On Site | Oct 26 |
+| **[World Wide Technology](http://www.wwt.com)** | **[GES Sales/Sales Operations and Business Development Intern -2027 (EG)](https://jobright.ai/jobs/info/6adfd3bd065c4e77efafbf5e?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO, United States | On Site | Oct 26 |
+| ↳ | **[GES Sales/Sales Operations and Business Development Intern -2027](https://jobright.ai/jobs/info/6adfd3ba9e3e874dbfbb09dc?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO, United States | On Site | Oct 26 |
+| **[Baco Properties](https://bacoproperties.com)** | **[Real Estate Acquisition and Development Intern - Spring 2027](https://jobright.ai/jobs/info/6adfd2b85dc7953215a43472?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 26 |
+| **[PACCAR](http://www.paccar.com/)** | **[Summer 2027 - Global Sales Intern](https://jobright.ai/jobs/info/6adfc15d5dc7953215a42920?utm_campaign=1051&utm_source=git)** | Kirkland, WA, United States | On Site | Oct 26 |
+| **[PTC](https://www.ptc.com/en)** | **[Sales Intern (Summer 2027)](https://jobright.ai/jobs/info/6adf9bf9065c4e77efaf97e0?utm_campaign=1051&utm_source=git)** | Boston, MA, United States | On Site | Oct 26 |
+| **[Hilti North America](https://www.hilti.com/)** | **[Sales Intern -Fairfax, Virginia - Summer 2027](https://jobright.ai/jobs/info/6adfd0205dc7953215a432bc?utm_campaign=1051&utm_source=git)** | Fairfax, VA, United States | On Site | Oct 26 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor](https://jobright.ai/jobs/info/6ac32a994ac55253f5d6da91?utm_campaign=1051&utm_source=git)** | Montreal, QC, Canada | On Site | Oct 26 |
-| ↳ | **[Client Advisor](https://jobright.ai/jobs/info/6ad6d546e4b94611ab841fe8?utm_campaign=1051&utm_source=git)** | St. John's, NL, Canada | On Site | Oct 26 |
 | ↳ | **[Client Advisor](https://jobright.ai/jobs/info/6ad15722a4f99fef81943d45?utm_campaign=1051&utm_source=git)** | Edson, AB, Canada | On Site | Oct 26 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6ada3d4ce4b94611ab85a674?utm_campaign=1051&utm_source=git)** | North Bay, ON, Canada | On Site | Oct 26 |
-| ↳ | **[banking advisor intern](https://jobright.ai/jobs/info/6ad10d31a4f99fef81941592?utm_campaign=1051&utm_source=git)** | Surrey, BC, Canada | On Site | Oct 26 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6ad261b325289a0b3bf566ac?utm_campaign=1051&utm_source=git)** | Flin Flon, MB, Canada | On Site | Oct 26 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6adf9ef69e3e874dbfbae592?utm_campaign=1051&utm_source=git)** | Petawawa, ON, Canada | On Site | Oct 26 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6ad1570f256e49282e65496f?utm_campaign=1051&utm_source=git)** | Burnaby, BC, Canada | On Site | Oct 26 |
+| ↳ | **[Client Advisor](https://jobright.ai/jobs/info/6ad6d546e4b94611ab841fe8?utm_campaign=1051&utm_source=git)** | St. John's, NL, Canada | On Site | Oct 26 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6ad6d53e67bec1d0d9c72344?utm_campaign=1051&utm_source=git)** | Oakville, ON, Canada | On Site | Oct 26 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6adf82bb065c4e77efaf83e6?utm_campaign=1051&utm_source=git)** | Huntsville, Ontario, Canada | On Site | Oct 26 |
-| ↳ | **[Relationship Manager Intern, Business Market](https://jobright.ai/jobs/info/6adfc3cf0a4cc7090f982ec8?utm_campaign=1051&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Oct 26 |
-| ↳ | **[Client Advisor intern](https://jobright.ai/jobs/info/6ad261aac4290cef1412a947?utm_campaign=1051&utm_source=git)** | Hamilton, ON, Canada | On Site | Oct 26 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6ad28c63f04335fc70ed6233?utm_campaign=1051&utm_source=git)** | Guelph, Ontario, Canada | On Site | Oct 26 |
+| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6ad9401054bbabbab070e3ec?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Oct 26 |
+| ↳ | **[banking advisor intern](https://jobright.ai/jobs/info/6ad10d31a4f99fef81941592?utm_campaign=1051&utm_source=git)** | Surrey, BC, Canada | On Site | Oct 26 |
+| ↳ | **[Relationship Manager Intern, Business Market](https://jobright.ai/jobs/info/6adfc3cf0a4cc7090f982ec8?utm_campaign=1051&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Oct 26 |
+| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6ad2b286c4290cef1412c870?utm_campaign=1051&utm_source=git)** | Dawson Creek, British Columbia, Canada | On Site | Oct 26 |
+| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6ad2702ef04335fc70ed58bb?utm_campaign=1051&utm_source=git)** | Brantford, ON, Canada | On Site | Oct 26 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6ad261b325289a0b3bf566ac?utm_campaign=1051&utm_source=git)** | Flin Flon, MB, Canada | On Site | Oct 26 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6ace31f8680c80c8753bb51e?utm_campaign=1051&utm_source=git)** | Saguenay, QC, Canada | On Site | Oct 26 |
+| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6ada3d4ce4b94611ab85a674?utm_campaign=1051&utm_source=git)** | North Bay, ON, Canada | On Site | Oct 26 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6ad15712256e49282e654976?utm_campaign=1051&utm_source=git)** | Burnaby, BC, Canada | On Site | Oct 26 |
+| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6adf82bb065c4e77efaf83e6?utm_campaign=1051&utm_source=git)** | Huntsville, Ontario, Canada | On Site | Oct 26 |
+| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6ad7c1cb54bbabbab0701f20?utm_campaign=1051&utm_source=git)** | Six Nations (Part) 40, Ontario, Canada | On Site | Oct 26 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6ad79a473dc655658d8edefa?utm_campaign=1051&utm_source=git)** | Oakville, ON, Canada | On Site | Oct 26 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6ab0a41dd3af3856cd9933b1?utm_campaign=1051&utm_source=git)** | Fredericton, NB, Canada | On Site | Oct 26 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6ad2b286c4290cef1412c870?utm_campaign=1051&utm_source=git)** | Dawson Creek, British Columbia, Canada | On Site | Oct 26 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6ad27e0783ada13a9da062f4?utm_campaign=1051&utm_source=git)** | Kawartha Lakes, Ontario, Canada | On Site | Oct 26 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6ad7c1cb54bbabbab0701f20?utm_campaign=1051&utm_source=git)** | Six Nations (Part) 40, Ontario, Canada | On Site | Oct 26 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6ace31f8680c80c8753bb51e?utm_campaign=1051&utm_source=git)** | Saguenay, QC, Canada | On Site | Oct 26 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6adf9ef69e3e874dbfbae592?utm_campaign=1051&utm_source=git)** | Petawawa, ON, Canada | On Site | Oct 26 |
 | ↳ | **[Relationship Manager Intern, Business Markets](https://jobright.ai/jobs/info/6ad059d3fe4980b99fedc391?utm_campaign=1051&utm_source=git)** | Prince Albert, SK, Canada | On Site | Oct 26 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6ad2702ef04335fc70ed58bb?utm_campaign=1051&utm_source=git)** | Brantford, ON, Canada | On Site | Oct 26 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6ad9401054bbabbab070e3ec?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Oct 26 |
+| ↳ | **[Client Advisor intern](https://jobright.ai/jobs/info/6ad261aac4290cef1412a947?utm_campaign=1051&utm_source=git)** | Hamilton, ON, Canada | On Site | Oct 26 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6ad27e0783ada13a9da062f4?utm_campaign=1051&utm_source=git)** | Kawartha Lakes, Ontario, Canada | On Site | Oct 26 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall/Winter Sales Management Trainee Internship - Tallahassee, FL](https://jobright.ai/jobs/info/6adfce055dc7953215a431a6?utm_campaign=1051&utm_source=git)** | Tallahassee, FL, United States | On Site | Oct 26 |
 | ↳ | **[Fall/Winter Sales Management Trainee Internship - Panama City, FL](https://jobright.ai/jobs/info/6adfcdf6c5c64fa3d9cbfbfa?utm_campaign=1051&utm_source=git)** | Panama City, FL, United States | On Site | Oct 26 |
 | ↳ | **[Fall/Winter Sales Management Trainee Internship - Pensacola, FL](https://jobright.ai/jobs/info/6adfcdf49e3e874dbfbb0612?utm_campaign=1051&utm_source=git)** | Pensacola, FL, United States | On Site | Oct 26 |
 | ↳ | **[Fall/Winter Sales Management Trainee Internship - Mobile, AL](https://jobright.ai/jobs/info/6adfcde95dc7953215a4318c?utm_campaign=1051&utm_source=git)** | Mobile, AL, United States | On Site | Oct 26 |
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2027 Growth & Business Development Intern](https://jobright.ai/jobs/info/6abadc091acb8fc6f09c1f87?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Oct 26 |
 | **[WOW Brand](http://www.wowpayments.com)** | **[Account Executive Internship(WINTER 2026)](https://jobright.ai/jobs/info/6adfc455065c4e77efafb4ff?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6adc1e5b46a8cabdc1ff62c4?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
-| **[PACCAR](http://www.paccar.com/)** | **[Summer 2027 - Global Sales Intern](https://jobright.ai/jobs/info/6adfc15d5dc7953215a42920?utm_campaign=1051&utm_source=git)** | Kirkland, WA, United States | On Site | Oct 26 |
 | **[MechNova](joinmechnova.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6adfc0f9065c4e77efafb31d?utm_campaign=1051&utm_source=git)** | Baltimore, MD, United States | On Site | Oct 26 |
 | **[Ally Logistics](https://allylogistics.com/)** | **[Sales Internship [Summer 2027]](https://jobright.ai/jobs/info/6adfbcf09e3e874dbfbafae7?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 26 |
 | **[Insco Distributing, Inc.](https://www.insco.com/)** | **[Internship](https://jobright.ai/jobs/info/6aa80916930bff471a2a4c7c?utm_campaign=1051&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 26 |
@@ -111,9 +122,6 @@ For a complete list, click the following sortable link below:
 | **[McLane Company, Inc.](https://www.mclaneco.com/)** | **[Sales Internship (Summer 2027)](https://jobright.ai/jobs/info/6aa82c2ca77a53f5a1577c45?utm_campaign=1051&utm_source=git)** | Temple, TX, United States | On Site | Oct 26 |
 | **[Southern Glazer's Wine & Spirits](http://www.southernglazers.com/)** | **[2027 Summer Internship / Sales / Kansas City, MO](https://jobright.ai/jobs/info/6adfac28065c4e77efafa46d?utm_campaign=1051&utm_source=git)** | Kansas City, Missouri, United States | On Site | Oct 26 |
 | **[Amwins](http://www.amwins.com/)** | **[Brokerage Internship - Kansas City, MO](https://jobright.ai/jobs/info/6adfab3e0a4cc7090f981dc9?utm_campaign=1051&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 26 |
-| **[Excel Sports Management](http://www.excelsm.com)** | **[Spring 2027 - Intern, Media](https://jobright.ai/jobs/info/6adf7f139e3e874dbfbacc0a?utm_campaign=1051&utm_source=git)** | West Hollywood, CA, United States | Hybrid | Oct 26 |
-| ↳ | **[Spring 2027 - Intern, Properties (New York)](https://jobright.ai/jobs/info/6adf82a6065c4e77efaf83c8?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Oct 26 |
-| ↳ | **[Spring 2027 - Intern, Football Sales](https://jobright.ai/jobs/info/6adf87510a4cc7090f98025f?utm_campaign=1051&utm_source=git)** | West Hollywood, CA, United States | Hybrid | Oct 26 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a547bee8576ec69c01534bd?utm_campaign=1051&utm_source=git)** | Woodland Hills, CA, United States | On Site | Oct 26 |
 | **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern - Atlanta](https://jobright.ai/jobs/info/6adfa25e0a4cc7090f98171b?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 26 |
 | **[Muon Space](https://www.muonspace.com)** | **[International Business Development Intern (Summer 2027)](https://jobright.ai/jobs/info/6abab0efad8589219ef7eb2d?utm_campaign=1051&utm_source=git)** | Washington, DC, United States | On Site | Oct 26 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2027 MBA Intern - Corporate Development](https://jobright.ai/jobs/info/6adf80170a4cc7090f97fad1?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 26 |
 | **[Ecolab](http://www.ecolab.com)** | **[Mining Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6a8beaf6d34f700f87fcec02?utm_campaign=1051&utm_source=git)** | Blacksburg, VA, United States | Hybrid | Oct 26 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6a8beb1625fc4e7ae3db695d?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI, United States | Hybrid | Oct 26 |
-| **[PatientPoint®](http://patientpoint.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6adf8d3bc5c64fa3d9cbcd5e?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Merchandising & Retail Intern - Spring 2027](https://jobright.ai/jobs/info/6adf8c719a8c91d5c3586824?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 26 |
-| **[BASF](https://www.basf.com/)** | **[Bilingual Summer Sales Intern](https://jobright.ai/jobs/info/6aab0891f6bd9d2d17c1b0de?utm_campaign=1051&utm_source=git)** | London, ON, Canada | On Site | Oct 26 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6adf831bc5c64fa3d9cbc520?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Oct 26 |
-| ↳ | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6ad6b9133dc655658d8e8ad4?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Oct 26 |
-| ↳ | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6a760c4c4817aa4307046658?utm_campaign=1051&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Oct 26 |
-| **[Cirrus](http://cirrusaircraft.com)** | **[Cirrus Store Intern](https://jobright.ai/jobs/info/6adf6ea40a4cc7090f97f0d0?utm_campaign=1051&utm_source=git)** | Alcoa, TN, United States | On Site | Oct 26 |
-| **[Black Diamond Networks](http://blackdiamondnet.com)** | **[Sales Internship (FL)](https://jobright.ai/jobs/info/6a618438d51f6101c8fbc06d?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL, United States | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
