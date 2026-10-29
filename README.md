@@ -57,20 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CFSB - Community Financial Services Bank](https://www.cfsbky.com/)** | **[Business Development Intern (Part-time)](https://jobright.ai/jobs/info/6ae3ab37d45dc30fb7d2b83e?utm_campaign=1051&utm_source=git)** | Murray, KY, United States | On Site | Oct 29 |
+| **[LifeWorx](https://lifeworx.com)** | **[2027 Internship Program (multiple departments)](https://jobright.ai/jobs/info/6ad1371cae21edea94fd47d3?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Remote | Oct 29 |
+| **[Southern Farm Bureau Casualty Insurance Company](https://w3.sfbcic.com)** | **[Intern - Sales](https://jobright.ai/jobs/info/6ae3bc5cc3139b475b5afe01?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA, United States | On Site | Oct 29 |
+| **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Originations and Underwriting Intern](https://jobright.ai/jobs/info/6ae3bc4a77c09cb3bd4a8ac7?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Real Estate Student Intern - Summer 2027](https://jobright.ai/jobs/info/6ae3bb6cfb2cd420ace53aa0?utm_campaign=1051&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 29 |
 | **[Storage Scholars LLC](https://www.storagescholars.com)** | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a233c3139b475b5aee2f?utm_campaign=1051&utm_source=git)** | Kansas, United States | Remote | Oct 29 |
 | ↳ | **[Sales Representative Internship (Remote, select U.S. states)](https://jobright.ai/jobs/info/6ae3a23177c09cb3bd4a7b5a?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Oct 29 |
-| ↳ | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a21dd7424a2a828e1935?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Oct 29 |
-| ↳ | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a21deab1f96730975d37?utm_campaign=1051&utm_source=git)** | Mississippi, United States | Remote | Oct 29 |
-| ↳ | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a21bd45dc30fb7d2b410?utm_campaign=1051&utm_source=git)** | Idaho, United States | Remote | Oct 29 |
-| ↳ | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a21bd7424a2a828e1934?utm_campaign=1051&utm_source=git)** | LA, United States | Remote | Oct 29 |
-| ↳ | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a21977c09cb3bd4a7b54?utm_campaign=1051&utm_source=git)** | KY, United States | Remote | Oct 29 |
+| ↳ | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a21bd7424a2a828e1934?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 29 |
+| ↳ | **[Inbound Sales Specialist  (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a21977c09cb3bd4a7b54?utm_campaign=1051&utm_source=git)** | KY, United States | Remote | Oct 29 |
 | ↳ | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a218c3139b475b5aee25?utm_campaign=1051&utm_source=git)** | West Virginia, United States | Remote | Oct 29 |
-| ↳ | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a218d45dc30fb7d2b40f?utm_campaign=1051&utm_source=git)** | GA, United States | Remote | Oct 29 |
 | ↳ | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a217eab1f96730975d35?utm_campaign=1051&utm_source=git)** | Iowa, United States | Remote | Oct 29 |
+| ↳ | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a21deab1f96730975d37?utm_campaign=1051&utm_source=git)** | Mississippi, United States | Remote | Oct 29 |
+| ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae39afcfb2cd420ace52771?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Remote | Oct 29 |
+| ↳ | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a21bd45dc30fb7d2b410?utm_campaign=1051&utm_source=git)** | Idaho, United States | Remote | Oct 29 |
 | ↳ | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a21777c09cb3bd4a7b52?utm_campaign=1051&utm_source=git)** | New Hampshire, United States | Remote | Oct 29 |
-| ↳ | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a217d45dc30fb7d2b40e?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 29 |
 | ↳ | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a21777c09cb3bd4a7b53?utm_campaign=1051&utm_source=git)** | North Dakota, United States | Remote | Oct 29 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2027](https://jobright.ai/jobs/info/6ae3abcf77c09cb3bd4a7fdc?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 29 |
+| **[CFSB - Community Financial Services Bank](https://www.cfsbky.com/)** | **[Business Development Intern (Part-time)](https://jobright.ai/jobs/info/6ae3ab37d45dc30fb7d2b83e?utm_campaign=1051&utm_source=git)** | Murray, KY, United States | On Site | Oct 29 |
+| **[Storage Scholars LLC](https://www.storagescholars.com)** | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a21dd7424a2a828e1935?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Oct 29 |
+| ↳ | **[Inbound Sales Specialist (Part Time Internship)](https://jobright.ai/jobs/info/6ae3a218d45dc30fb7d2b40f?utm_campaign=1051&utm_source=git)** | GA, United States | Remote | Oct 29 |
 | **[Seismic](https://seismic.com/)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6ae3a13eeab1f96730975cd2?utm_campaign=1051&utm_source=git)** | Seattle, WA, United States | On Site | Oct 29 |
 | **[Rowmark, LLC](http://www.rowmarkllc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6ae39f2a77c09cb3bd4a79d6?utm_campaign=1051&utm_source=git)** | Findlay, OH, United States | On Site | Oct 29 |
 | **[Lincoln International](http://www.lincolninternational.com)** | **[2027 M&A Summer Associate Intern](https://jobright.ai/jobs/info/6a7260de45b6af1c30dbe696?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 29 |
@@ -81,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae39828fb2cd420ace525d5?utm_campaign=1051&utm_source=git)** | Mississippi, United States | Remote | Oct 29 |
 | ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae3982bd7424a2a828e140c?utm_campaign=1051&utm_source=git)** | Indiana, United States | Remote | Oct 29 |
 | ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae3980efb2cd420ace525be?utm_campaign=1051&utm_source=git)** | Wisconsin, United States | Remote | Oct 29 |
-| ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae39b0ad7424a2a828e1564?utm_campaign=1051&utm_source=git)** | LA, United States | Remote | Oct 29 |
 | ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae3980deab1f96730975816?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Oct 29 |
+| ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae39b0ad7424a2a828e1564?utm_campaign=1051&utm_source=git)** | LA, United States | Remote | Oct 29 |
 | ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae39852fb2cd420ace525fb?utm_campaign=1051&utm_source=git)** | Wyoming, United States | Remote | Oct 29 |
 | ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae39822eab1f96730975828?utm_campaign=1051&utm_source=git)** | New Hampshire, United States | Remote | Oct 29 |
 | ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae39819eab1f9673097581f?utm_campaign=1051&utm_source=git)** | Oklahoma, United States | Remote | Oct 29 |
@@ -90,11 +95,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae39b00c3139b475b5aea74?utm_campaign=1051&utm_source=git)** | West Virginia, United States | Remote | Oct 29 |
 | ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae39805eab1f9673097580f?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Oct 29 |
 | ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae260c41f9d9308370b16fc?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC, United States | Hybrid | Oct 29 |
-| ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae39afcfb2cd420ace52771?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Remote | Oct 29 |
-| ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae39808c3139b475b5ae8d6?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | Oct 29 |
 | ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae39afcd45dc30fb7d2b04d?utm_campaign=1051&utm_source=git)** | GA, United States | Remote | Oct 29 |
-| ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae39816c3139b475b5ae8e7?utm_campaign=1051&utm_source=git)** | North Dakota, United States | Remote | Oct 29 |
+| ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae39808c3139b475b5ae8d6?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | Oct 29 |
 | ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae3980a77c09cb3bd4a75db?utm_campaign=1051&utm_source=git)** | Idaho, United States | Remote | Oct 29 |
+| ↳ | **[Inside Sales Representative (Part Time Internship)](https://jobright.ai/jobs/info/6ae39816c3139b475b5ae8e7?utm_campaign=1051&utm_source=git)** | North Dakota, United States | Remote | Oct 29 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6ae396c7c3139b475b5ae818?utm_campaign=1051&utm_source=git)** | Shreveport, LA, United States | On Site | Oct 29 |
 | **[TH Experiential](https://thexperiential.com)** | **[ACCOUNT MANAGEMENT/PM INTERNSHIP](https://jobright.ai/jobs/info/6ae39629c3139b475b5ae7a5?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Vervint](http://www.vervint.com)** | **[Sales Executive Intern](https://jobright.ai/jobs/info/6ae3953077c09cb3bd4a73e9?utm_campaign=1051&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 29 |
@@ -102,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[CHS Inc.](https://www.chsinc.com)** | **[Commodity Merchandising Intern](https://jobright.ai/jobs/info/6ae20d0ceb7e8f715a609857?utm_campaign=1051&utm_source=git)** | Inver Grove Heights, MN, United States | On Site | Oct 29 |
 | **[BNY](https://www.bny.com)** | **[2027 BNY Summer Internship Program – BNY Investments (New York, NY)](https://jobright.ai/jobs/info/6a8c4f24d34f700f87fcfa8d?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Oct 29 |
 | **[Michaels Stores](https://www.michaels.com/)** | **[Intern - Store Communications](https://jobright.ai/jobs/info/6ae36483d45dc30fb7d29044?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Oct 29 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[National Accounts Casualty Intern - Business Insurance](https://jobright.ai/jobs/info/6aa9f06b09ae03adcace05cb?utm_campaign=1051&utm_source=git)** | Golden Valley, MN, United States | Hybrid | Oct 29 |
 | **[Greenix](https://greenixpc.com)** | **[Paid Summer Sales Intern](https://jobright.ai/jobs/info/6ae38cd3d45dc30fb7d2a7fb?utm_campaign=1051&utm_source=git)** | Detroit, MI, United States | On Site | Oct 29 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2027 Season Internship / Ticketing & Marketing](https://jobright.ai/jobs/info/6ae38bb5d45dc30fb7d2a711?utm_campaign=1051&utm_source=git)** | Mansfield, TX, United States | On Site | Oct 29 |
 | ↳ | **[2027 Season Internship / North Texas SC / Corporate Partnership](https://jobright.ai/jobs/info/6ae38bb0c3139b475b5ae0bd?utm_campaign=1051&utm_source=git)** | Mansfield, TX, United States | On Site | Oct 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2027 Internship:  Sales (Troy, MI)](https://jobright.ai/jobs/info/6ae34d78c3139b475b5abd8f?utm_campaign=1051&utm_source=git)** | Troy, Michigan, United States | On Site | Oct 29 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Sales & Marketing Intern - Somerset, NJ - Summer 2027](https://jobright.ai/jobs/info/6ac6a0600e027c0f3b3b3875?utm_campaign=1051&utm_source=git)** | Somerset, NJ, United States | On Site | Oct 29 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Bloomsburg](https://jobright.ai/jobs/info/6ad0c9d718608b6f36f7ef17?utm_campaign=1051&utm_source=git)** | Bloomsburg, PA, United States | Hybrid | Oct 29 |
-| ↳ | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/6ad0c9e0256e49282e6500f9?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL, United States | Hybrid | Oct 29 |
-| ↳ | **[Semester Sales Internship - University of Tampa](https://jobright.ai/jobs/info/6ad0c9d8256e49282e6500f6?utm_campaign=1051&utm_source=git)** | Tampa, FL, United States | Hybrid | Oct 29 |
-| **[Kautex Textron](https://www.kautex.com)** | **[2027 Internship:  Sales (Troy, MI)](https://jobright.ai/jobs/info/6ae3471477c09cb3bd4a4944?utm_campaign=1051&utm_source=git)** | Troy, Michigan, United States | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
