@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[REGENT](https://www.regentcraft.com)** | **[Defense Team - Business Development Co-Op (Spring 2027)](https://jobright.ai/jobs/info/6af27617905985ccaa40c9ef?utm_campaign=1051&utm_source=git)** | North Kingstown, RI, United States | On Site | Nov 09 |
+| **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Non-Alc Intern](https://jobright.ai/jobs/info/6af2756162fb9f5fcd897bdf?utm_campaign=1051&utm_source=git)** | Sacramento, CA, United States | On Site | Nov 09 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a574b0821f64463ad358a1f?utm_campaign=1051&utm_source=git)** | Evergreen Park, IL, United States | On Site | Nov 09 |
+| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a5a7919686b4755d1e1568a?utm_campaign=1051&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Nov 09 |
+| **[HomlyHouse](https://www.homlyhouse.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6af26d930cb834dad9326e6d?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Remote | Nov 09 |
+| **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Sales/Marketing Intern - Visalia, CA Job Details / My Career Site](https://jobright.ai/jobs/info/6af26bc9905985ccaa40c6b7?utm_campaign=1051&utm_source=git)** | Visalia, CA, United States | On Site | Nov 09 |
+| ↳ | **[Sales/Marketing Intern - Fresno, CA Job Details / My Career Site](https://jobright.ai/jobs/info/6af26bc80cb834dad9326da6?utm_campaign=1051&utm_source=git)** | Fresno, CA, United States | On Site | Nov 09 |
+| **[EZSpot](https://ezspot.ai)** | **[Field Business Development Associate - Summer Internship](https://jobright.ai/jobs/info/6af26b121116f6f0a076916d?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 09 |
+| **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6af22d7c0cb834dad9324a22?utm_campaign=1051&utm_source=git)** | Newport, Rhode Island, United States | On Site | Nov 09 |
+| **[Chubb](https://www.chubb.com/us-en)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6aeb7ebef40efa43f4a18056?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 09 |
 | **[CDW](http://cdw.com)** | **[2027 Sales Internship - Shelton](https://jobright.ai/jobs/info/6af250ca1aaffa49f7383e3b?utm_campaign=1051&utm_source=git)** | Shelton, CT, United States | Hybrid | Nov 09 |
 | ↳ | **[2027 Sales Internship - Tampa](https://jobright.ai/jobs/info/6af250ea905985ccaa40bd7c?utm_campaign=1051&utm_source=git)** | Tampa, FL, United States | Hybrid | Nov 09 |
 | **[BENTELER Group](https://www.benteler.com/)** | **[Intern - Sales Service](https://jobright.ai/jobs/info/6af232638cbcfef4a59da2ff?utm_campaign=1051&utm_source=git)** | Auburn Hills, Michigan, United States | On Site | Nov 09 |
@@ -70,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Supply Chain Wholesale Intern (Summer 2027)](https://jobright.ai/jobs/info/6af255e71aaffa49f7384074?utm_campaign=1051&utm_source=git)** | Bethlehem, PA, United States | On Site | Nov 09 |
 | **[Conversations to Remember](https://conversationstoremember.org)** | **[Healthcare & Community Partnerships Intern](https://jobright.ai/jobs/info/6af255ab62fb9f5fcd8970f2?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 09 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Commercial Strategy](https://jobright.ai/jobs/info/6af200038cbcfef4a59d7434?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
-| **[Vizient](https://www.vizientinc.com)** | **[2027 Summer Internship - Revenue Intelligence](https://jobright.ai/jobs/info/6aee0ed2e0c9de7b05f899a4?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Nov 09 |
-| ↳ | **[2027 Summer Internship – Enterprise Account Management](https://jobright.ai/jobs/info/6af219c162fb9f5fcd893bf3?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Nov 09 |
+| **[Vizient](https://www.vizientinc.com)** | **[2027 Summer Internship – Enterprise Account Management](https://jobright.ai/jobs/info/6af219c162fb9f5fcd893bf3?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Nov 09 |
+| ↳ | **[2027 Summer Internship - Revenue Intelligence](https://jobright.ai/jobs/info/6aee0ed2e0c9de7b05f899a4?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Nov 09 |
 | ↳ | **[2027 Summer Internship – Data & Digital Sales Operations](https://jobright.ai/jobs/info/6af23245905985ccaa40a7f2?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 09 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Corporate Coverage Intern – Summer 2027](https://jobright.ai/jobs/info/6af251cf62fb9f5fcd896fd6?utm_campaign=1051&utm_source=git)** | Montreal, QC, Canada | On Site | Nov 09 |
 | **[Canada Life](https://www.canadalife.co.uk/)** | **[Wealth Management Intern (Student/New Grad Position)](https://jobright.ai/jobs/info/6af2305c905985ccaa40a655?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 09 |
@@ -80,16 +90,16 @@ For a complete list, click the following sortable link below:
 | **[LOFT](https://www.loft.com)** | **[Sales Associate](https://jobright.ai/jobs/info/6aee72eebd2f33eea72dc430?utm_campaign=1051&utm_source=git)** | Woodstock, GA, United States | On Site | Nov 09 |
 | **[World Food Program USA](http://wfpusa.org)** | **[Intern, Institutional Partnerships](https://jobright.ai/jobs/info/6af24d9862fb9f5fcd896d14?utm_campaign=1051&utm_source=git)** | Washington, DC, United States | On Site | Nov 09 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Farmer Business Development Intern - New Roots](https://jobright.ai/jobs/info/6aeb92bd82f0ac077443b118?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 09 |
-| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e28b905985ccaa40671d?utm_campaign=1051&utm_source=git)** | Carrollton, GA, United States | On Site | Nov 09 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e2881aaffa49f737e83e?utm_campaign=1051&utm_source=git)** | Nashville, TN, United States | On Site | Nov 09 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6ac3d6b2064da25272e0fb08?utm_campaign=1051&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 09 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e28d8cbcfef4a59d6271?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL, United States | On Site | Nov 09 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e28b62fb9f5fcd891972?utm_campaign=1051&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 09 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af219c70cb834dad9323068?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS, United States | On Site | Nov 09 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af21a8e1116f6f0a07657f3?utm_campaign=1051&utm_source=git)** | Starkville, MS, United States | On Site | Nov 09 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6ad69daf54bbabbab06fa19e?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 09 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af21a8e1116f6f0a07657f3?utm_campaign=1051&utm_source=git)** | Starkville, MS, United States | On Site | Nov 09 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e2a30cb834dad9320df8?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | On Site | Nov 09 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af219c70cb834dad9323068?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS, United States | On Site | Nov 09 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6a761f93a26ccc369f833d50?utm_campaign=1051&utm_source=git)** | Broussard, LA, United States | On Site | Nov 09 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e28b62fb9f5fcd891972?utm_campaign=1051&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 09 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e28d8cbcfef4a59d6271?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL, United States | On Site | Nov 09 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6ac3d6b2064da25272e0fb08?utm_campaign=1051&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 09 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e2881aaffa49f737e83e?utm_campaign=1051&utm_source=git)** | Nashville, TN, United States | On Site | Nov 09 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6ad69daf54bbabbab06fa19e?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 09 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e28b905985ccaa40671d?utm_campaign=1051&utm_source=git)** | Carrollton, GA, United States | On Site | Nov 09 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Sales Management Trainee Intern - Spring 2027- Decatur, IL](https://jobright.ai/jobs/info/6a9592b7cabc9f6703e18808?utm_campaign=1051&utm_source=git)** | Decatur, IL, United States | On Site | Nov 09 |
 | ↳ | **[Sales Management Trainee Intern - Spring 2027- Dubuque, IA](https://jobright.ai/jobs/info/6a9592b84c22023a079346fd?utm_campaign=1051&utm_source=git)** | Dubuque, IA, United States | On Site | Nov 09 |
 | ↳ | **[Sales Management Trainee Intern - Spring 2027- Dekalb, IL](https://jobright.ai/jobs/info/6a9592c04c22023a07934702?utm_campaign=1051&utm_source=git)** | DeKalb, IL, United States | On Site | Nov 09 |
@@ -106,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Amwins](http://www.amwins.com/)** | **[Access Internship - St. Petersburg, FL](https://jobright.ai/jobs/info/6af240771116f6f0a0767b7a?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL, United States | On Site | Nov 09 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2027 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6af2402562fb9f5fcd896250?utm_campaign=1051&utm_source=git)** | Burlington, ON, Canada | On Site | Nov 09 |
 | ↳ | **[2027 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6af2401e8cbcfef4a59dab4e?utm_campaign=1051&utm_source=git)** | Waterloo, ON, Canada | On Site | Nov 09 |
-| ↳ | **[2027 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6af24019905985ccaa40b024?utm_campaign=1051&utm_source=git)** | Hamilton, ON, Canada | On Site | Nov 09 |
 | ↳ | **[2027 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6af240190cb834dad932569e?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 09 |
+| ↳ | **[2027 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6af24019905985ccaa40b024?utm_campaign=1051&utm_source=git)** | Hamilton, ON, Canada | On Site | Nov 09 |
 | ↳ | **[Stagiaire en Vente – Été 2027 - Vantage](https://jobright.ai/jobs/info/6af240171116f6f0a0767b18?utm_campaign=1051&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 09 |
 | ↳ | **[2027 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6af2401662fb9f5fcd896241?utm_campaign=1051&utm_source=git)** | Montreal, QC, Canada | On Site | Nov 09 |
 | ↳ | **[2027 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6af24004905985ccaa40b002?utm_campaign=1051&utm_source=git)** | London, ON, Canada | On Site | Nov 09 |
@@ -134,7 +144,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Intern NE Ohio- Summer 2027](https://jobright.ai/jobs/info/6af2162b62fb9f5fcd893310?utm_campaign=1051&utm_source=git)** | Seven Hills, OH, United States | On Site | Nov 09 |
 | ↳ | **[Retail Management Intern NW Chicago- Summer 2027](https://jobright.ai/jobs/info/6af2162f1aaffa49f7380327?utm_campaign=1051&utm_source=git)** | St. Charles, IL, United States | On Site | Nov 09 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6aeb79a1a0b134121d99b15a?utm_campaign=1051&utm_source=git)** | Chattanooga, TN, United States | On Site | Nov 09 |
-| ↳ | **[Underwriting Intern](https://jobright.ai/jobs/info/6aeb7ebef40efa43f4a18056?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 09 |
 | **[ENGIE Italia](https://www.engie.it)** | **[Customer Value Generation intern](https://jobright.ai/jobs/info/6af20d550cb834dad9322575?utm_campaign=1051&utm_source=git)** | Milano, Texas, United States | On Site | Nov 09 |
 | **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern SW Chicago- Summer 2027](https://jobright.ai/jobs/info/6af2163b0cb834dad9322816?utm_campaign=1051&utm_source=git)** | Homer Glen, IL, United States | On Site | Nov 09 |
 | ↳ | **[Retail Management Intern Cincinnati- Summer 2027](https://jobright.ai/jobs/info/6af216cd1aaffa49f738066a?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 09 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2027 Summer Sales Student Internship](https://jobright.ai/jobs/info/6af207e462fb9f5fcd892f3c?utm_campaign=1051&utm_source=git)** | Aurora, Ontario, Canada | On Site | Nov 09 |
 | ↳ | **[Sales Representative - Summer 2027](https://jobright.ai/jobs/info/6af207c71116f6f0a07648d5?utm_campaign=1051&utm_source=git)** | St. Catharines, ON, Canada | On Site | Nov 09 |
 | **[Symbotic](https://www.symbotic.com)** | **[Intern- Buyer](https://jobright.ai/jobs/info/6af208391116f6f0a0764942?utm_campaign=1051&utm_source=git)** | Wilmington, MA, United States | On Site | Nov 09 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine: Sales Operations & Market Intelligence Intern](https://jobright.ai/jobs/info/6a9aeb6890a313642c656a89?utm_campaign=1051&utm_source=git)** | Fond du Lac, WI, United States | Hybrid | Nov 09 |
-| **[Soul Society](https://introducingsoulsociety.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6aeca164a9ea762a040907f8?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Nov 09 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6ad7f659950ef68d51845e22?utm_campaign=1051&utm_source=git)** | Laredo, TX, United States | On Site | Nov 09 |
-| ↳ | **[Access Your Future Parts Intern](https://jobright.ai/jobs/info/6a511f4fae4052672fe971a0?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Nov 09 |
-| **[Excel Sports Management](http://www.excelsm.com)** | **[Spring 2027 - Intern, Properties (New York)](https://jobright.ai/jobs/info/6adf82a6065c4e77efaf83c8?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
-| ↳ | **[Spring 2027 - Intern, Football Sales](https://jobright.ai/jobs/info/6adf87510a4cc7090f98025f?utm_campaign=1051&utm_source=git)** | West Hollywood, CA, United States | Hybrid | Nov 09 |
-| ↳ | **[Spring 2027 - Intern, Media](https://jobright.ai/jobs/info/6adf7f139e3e874dbfbacc0a?utm_campaign=1051&utm_source=git)** | West Hollywood, CA, United States | Hybrid | Nov 09 |
-| **[Clark National Accounts](https://www.clarknationalaccounts.com)** | **[Sales Development Internship](https://jobright.ai/jobs/info/6af200b462fb9f5fcd892b16?utm_campaign=1051&utm_source=git)** | Lititz, PA, United States | Hybrid | Nov 09 |
-| **[Pyrotek](https://www.pyrotek.com)** | **[Intern - Sales Applications & AI Analyst](https://jobright.ai/jobs/info/6af1fff91aaffa49f737fa6a?utm_campaign=1051&utm_source=git)** | Spokane, WA, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
