@@ -57,21 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Year-Round -Technology Partnership Agreements, Licensing, and Intellectual Property (IP), Hybrid](https://jobright.ai/jobs/info/6af3ff03e229a09f42379f7a?utm_campaign=1051&utm_source=git)** | Albuquerque, NM, United States | Hybrid | Nov 10 |
+| **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Enterprise Partnerships Internship - PBDP - Owensboro, KY](https://jobright.ai/jobs/info/6af3480910c7aed778618c0f?utm_campaign=1051&utm_source=git)** | Owensboro, KY, United States | On Site | Nov 10 |
+| ↳ | **[Enterprise Partnerships Internship - PBDP - Walnut Creek, CA](https://jobright.ai/jobs/info/6af34815f6053e296fc7ad0b?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA, United States | On Site | Nov 10 |
 | **[Premier Roofing Company](http://premier-roofing.com)** | **[2027 Paid Summer Internship – Sales Representative at Premier Roofing](https://jobright.ai/jobs/info/6a9720deb22f636c8141608a?utm_campaign=1051&utm_source=git)** | St. Louis, MO, United States | On Site | Nov 10 |
 | **[LOFT](https://www.loft.com)** | **[Sales Lead,  Meadows at American](https://jobright.ai/jobs/info/6ae3b154c3139b475b5af6a6?utm_campaign=1051&utm_source=git)** | American Fork, UT, United States | On Site | Nov 10 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Sales Intern](https://jobright.ai/jobs/info/6af3f3a4ebe39ae3299d98c5?utm_campaign=1051&utm_source=git)** | Baltimore, MD, United States | Remote | Nov 10 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f2c6ebe39ae3299d97cc?utm_campaign=1051&utm_source=git)** | Mount Vernon, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f2b150da4f7200923b23?utm_campaign=1051&utm_source=git)** | Hempstead, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f2abe229a09f423797b3?utm_campaign=1051&utm_source=git)** | Babylon, NY, United States | On Site | Nov 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f2a9e229a09f423797ae?utm_campaign=1051&utm_source=git)** | Niagara Falls, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f2a9e229a09f423797ad?utm_campaign=1051&utm_source=git)** | Schenectady, NY, United States | On Site | Nov 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f2a9e229a09f423797ae?utm_campaign=1051&utm_source=git)** | Niagara Falls, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f2a250da4f7200923b18?utm_campaign=1051&utm_source=git)** | Irondequoit, NY, United States | On Site | Nov 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f2a1e229a09f423797a1?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f2a1e841cc0145ad67b4?utm_campaign=1051&utm_source=git)** | Yonkers, NY, United States | On Site | Nov 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f2a1e229a09f423797a1?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f2a0e229a09f4237979f?utm_campaign=1051&utm_source=git)** | Syracuse, NY, United States | On Site | Nov 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f29f39bc2e330fdbc7b0?utm_campaign=1051&utm_source=git)** | Oyster Bay, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f29f39bc2e330fdbc7af?utm_campaign=1051&utm_source=git)** | Clay, New York, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f29ffee40b4fffbdce34?utm_campaign=1051&utm_source=git)** | Fresno, CA, United States | On Site | Nov 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f29f39bc2e330fdbc7b0?utm_campaign=1051&utm_source=git)** | Oyster Bay, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f29ee229a09f42379799?utm_campaign=1051&utm_source=git)** | Huntington, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f29d39bc2e330fdbc7a8?utm_campaign=1051&utm_source=git)** | Levittown, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f29d39bc2e330fdbc7aa?utm_campaign=1051&utm_source=git)** | North Hempstead, New York, United States | On Site | Nov 10 |
@@ -82,16 +85,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f299e841cc0145ad67a9?utm_campaign=1051&utm_source=git)** | Southampton, New York, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f298e841cc0145ad67a8?utm_campaign=1051&utm_source=git)** | Amherst, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f298ebe39ae3299d97af?utm_campaign=1051&utm_source=git)** | Rochester, NY, United States | On Site | Nov 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f29750da4f7200923b0f?utm_campaign=1051&utm_source=git)** | Kiryas Joel, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f29739bc2e330fdbc7a1?utm_campaign=1051&utm_source=git)** | Tonawanda Town, NY, United States | On Site | Nov 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f29750da4f7200923b0f?utm_campaign=1051&utm_source=git)** | Kiryas Joel, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f296e229a09f4237978d?utm_campaign=1051&utm_source=git)** | Smithtown, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f29650da4f7200923b0d?utm_campaign=1051&utm_source=git)** | Colonie, NY, United States | On Site | Nov 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f29550da4f7200923b0c?utm_campaign=1051&utm_source=git)** | New Rochelle, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f295e229a09f4237978b?utm_campaign=1051&utm_source=git)** | Binghamton, NY, United States | On Site | Nov 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f29550da4f7200923b0c?utm_campaign=1051&utm_source=git)** | New Rochelle, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f294e841cc0145ad67a6?utm_campaign=1051&utm_source=git)** | Greenburgh, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f293e229a09f42379787?utm_campaign=1051&utm_source=git)** | Ramapo, NY, United States | On Site | Nov 10 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f292fee40b4fffbdce28?utm_campaign=1051&utm_source=git)** | Tonawanda, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f292e229a09f42379786?utm_campaign=1051&utm_source=git)** | Sacramento, CA, United States | On Site | Nov 10 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f292fee40b4fffbdce28?utm_campaign=1051&utm_source=git)** | Tonawanda, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f29239bc2e330fdbc797?utm_campaign=1051&utm_source=git)** | San Jose, CA, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f291e229a09f42379785?utm_campaign=1051&utm_source=git)** | Perinton, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f29139bc2e330fdbc795?utm_campaign=1051&utm_source=git)** | San Diego, CA, United States | On Site | Nov 10 |
@@ -99,19 +102,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f28debe39ae3299d97a8?utm_campaign=1051&utm_source=git)** | Greece, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f28dfee40b4fffbdce26?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f27f50da4f7200923afa?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 10 |
-| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e2a30cb834dad9320df8?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | On Site | Nov 10 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e28d8cbcfef4a59d6271?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL, United States | On Site | Nov 10 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e28d8cbcfef4a59d6271?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL, United States | On Site | Nov 10 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6a761f93a26ccc369f833d50?utm_campaign=1051&utm_source=git)** | Broussard, LA, United States | On Site | Nov 10 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6ad69daf54bbabbab06fa19e?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 10 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e28b905985ccaa40671d?utm_campaign=1051&utm_source=git)** | Carrollton, GA, United States | On Site | Nov 10 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af24f8c1116f6f0a076873f?utm_campaign=1051&utm_source=git)** | Pensacola, FL, United States | On Site | Nov 10 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af24f90905985ccaa40bc91?utm_campaign=1051&utm_source=git)** | Mobile, AL, United States | On Site | Nov 10 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af21a8e1116f6f0a07657f3?utm_campaign=1051&utm_source=git)** | Starkville, MS, United States | On Site | Nov 10 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af219c70cb834dad9323068?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS, United States | On Site | Nov 10 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e2a30cb834dad9320df8?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | On Site | Nov 10 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6ac3d6b2064da25272e0fb08?utm_campaign=1051&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 10 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af24f901116f6f0a0768742?utm_campaign=1051&utm_source=git)** | Flowood, MS, United States | On Site | Nov 10 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e28b62fb9f5fcd891972?utm_campaign=1051&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 10 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e2881aaffa49f737e83e?utm_campaign=1051&utm_source=git)** | Nashville, TN, United States | On Site | Nov 10 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af219c70cb834dad9323068?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS, United States | On Site | Nov 10 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af24f90905985ccaa40bc91?utm_campaign=1051&utm_source=git)** | Mobile, AL, United States | On Site | Nov 10 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af24f8c1116f6f0a076873f?utm_campaign=1051&utm_source=git)** | Pensacola, FL, United States | On Site | Nov 10 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6ac3d6b2064da25272e0fb08?utm_campaign=1051&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 10 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af21a8e1116f6f0a07657f3?utm_campaign=1051&utm_source=git)** | Starkville, MS, United States | On Site | Nov 10 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6af1e28b905985ccaa40671d?utm_campaign=1051&utm_source=git)** | Carrollton, GA, United States | On Site | Nov 10 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6ad69daf54bbabbab06fa19e?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 10 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f1eafee40b4fffbdcd9c?utm_campaign=1051&utm_source=git)** | Hamburg, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f1e7ebe39ae3299d9727?utm_campaign=1051&utm_source=git)** | Utica, NY, United States | On Site | Nov 10 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6af3f1dee229a09f423796e2?utm_campaign=1051&utm_source=git)** | Poughkeepsie, NY, United States | On Site | Nov 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Internship - Springfield, IL - Summer 2027](https://jobright.ai/jobs/info/6a96eb94e4e60e4b8da5abb7?utm_campaign=1051&utm_source=git)** | Springfield, IL, United States | On Site | Nov 10 |
 | ↳ | **[Sales Management Trainee Internship - Omaha, NE - Summer 2027](https://jobright.ai/jobs/info/6a96eb85246d697dcee02037?utm_campaign=1051&utm_source=git)** | Omaha, NE, United States | On Site | Nov 10 |
 | ↳ | **[Sales Management Trainee Internship - Peoria, IL - Summer 2027](https://jobright.ai/jobs/info/6a96eb87d13b4819f39ddbde?utm_campaign=1051&utm_source=git)** | Peoria, IL, United States | On Site | Nov 10 |
-| ↳ | **[Sales Management Trainee Internship - Pella, IA - Summer 2027](https://jobright.ai/jobs/info/6a96eb7ff5337b2cf731eb11?utm_campaign=1051&utm_source=git)** | Pella, IA, United States | On Site | Nov 10 |
-| **[Texas Instruments](http://www.ti.com)** | **[Sales, Marketing, and Content Enablement Intern](https://jobright.ai/jobs/info/6af378ac80020ca3a8975e58?utm_campaign=1051&utm_source=git)** | Dallas, TX, United States | On Site | Nov 10 |
-| **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Sales Intern- Beverly](https://jobright.ai/jobs/info/6af3873b769e9374033c7625?utm_campaign=1051&utm_source=git)** | Beverly, MA, United States | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
