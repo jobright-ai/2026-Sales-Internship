@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Adobe Sales Academy BDR](https://jobright.ai/jobs/info/6b04be96b4933fb9f4360ea5?utm_campaign=1051&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 23 |
+| **[Farmers Coop Society](https://www.farmerscoopsociety.com/)** | **[Feed Sales Intern](https://jobright.ai/jobs/info/6b04be2413646880439e4ea1?utm_campaign=1051&utm_source=git)** | Sioux Center, IA, United States | On Site | Nov 23 |
+| **[Henkel](http://www.henkel.com)** | **[North America Sales and Business Support Intern – Summer 2027](https://jobright.ai/jobs/info/6b04b9327bec27df08f93be2?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ, United States | On Site | Nov 23 |
+| **[RBC](https://www.rbc.com)** | **[Relationship Manager, Business Markets - Intern](https://jobright.ai/jobs/info/6afc8a2b93c0a36328a8c73b?utm_campaign=1051&utm_source=git)** | London, ON, Canada | On Site | Nov 23 |
+| ↳ | **[Relationship Manager Intern, Business Markets](https://jobright.ai/jobs/info/6afdc0dbf3e7976cc6108482?utm_campaign=1051&utm_source=git)** | Weyburn, SK, Canada | On Site | Nov 23 |
+| ↳ | **[Relationship Manager Intern, Business Markets](https://jobright.ai/jobs/info/6b046ce1a72582cade08d546?utm_campaign=1051&utm_source=git)** | Burnaby, BC, Canada | On Site | Nov 23 |
+| ↳ | **[Relationship Manager Intern, Business Markets](https://jobright.ai/jobs/info/6af3818010c7aed77861b28e?utm_campaign=1051&utm_source=git)** | Langley, BC, Canada | On Site | Nov 23 |
+| **[Capital Technology Group](https://www.capitaltg.com/)** | **[Summer Internship - Business Development](https://jobright.ai/jobs/info/6b04b4f713646880439e492c?utm_campaign=1051&utm_source=git)** | Silver Spring, MD, United States | Hybrid | Nov 23 |
+| **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern - Phoenix](https://jobright.ai/jobs/info/6adfa24d5dc7953215a412f4?utm_campaign=1051&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Nov 23 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[2027 Business Development Intern](https://jobright.ai/jobs/info/6b04ad2413646880439e45a4?utm_campaign=1051&utm_source=git)** | Hanover, MD, United States | Hybrid | Nov 23 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2027 Seasonal Sales Student Intern](https://jobright.ai/jobs/info/6b04ac437fd2e33bde096501?utm_campaign=1051&utm_source=git)** | Richmond Hill, ON, Canada | On Site | Nov 23 |
 | **[GadellNet Consulting Services](https://gadellnet.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6b04a62e13646880439e410b?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 23 |
@@ -70,10 +79,10 @@ For a complete list, click the following sortable link below:
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[PT Retail Ops Intern - Internal](https://jobright.ai/jobs/info/6b049f952d88b678f1177dfe?utm_campaign=1051&utm_source=git)** | Ellsworth, ME, United States | On Site | Nov 23 |
 | ↳ | **[PT Retail Ops Intern - Internal](https://jobright.ai/jobs/info/6b049f86b4933fb9f435f8d6?utm_campaign=1051&utm_source=git)** | Bangor, ME, United States | On Site | Nov 23 |
 | ↳ | **[FT Retail Ops Intern Internal](https://jobright.ai/jobs/info/6b049f84b4933fb9f435f8d5?utm_campaign=1051&utm_source=git)** | Brewer, ME, United States | On Site | Nov 23 |
-| ↳ | **[PT Retail Ops Intern - Internal](https://jobright.ai/jobs/info/6b049f832d88b678f1177de8?utm_campaign=1051&utm_source=git)** | Lincoln, ME, United States | On Site | Nov 23 |
 | ↳ | **[FT Retail Ops Intern Internal](https://jobright.ai/jobs/info/6b049f832d88b678f1177de9?utm_campaign=1051&utm_source=git)** | Bucksport, ME, United States | On Site | Nov 23 |
-| ↳ | **[FT Retail Ops Intern Internal](https://jobright.ai/jobs/info/6b049f827fd2e33bde09591a?utm_campaign=1051&utm_source=git)** | Fort Kent, ME, United States | On Site | Nov 23 |
+| ↳ | **[PT Retail Ops Intern - Internal](https://jobright.ai/jobs/info/6b049f832d88b678f1177de8?utm_campaign=1051&utm_source=git)** | Lincoln, ME, United States | On Site | Nov 23 |
 | ↳ | **[PT Retail Ops Intern - Internal](https://jobright.ai/jobs/info/6b049f822d88b678f1177de6?utm_campaign=1051&utm_source=git)** | Brewer, ME, United States | On Site | Nov 23 |
+| ↳ | **[FT Retail Ops Intern Internal](https://jobright.ai/jobs/info/6b049f827fd2e33bde09591a?utm_campaign=1051&utm_source=git)** | Fort Kent, ME, United States | On Site | Nov 23 |
 | ↳ | **[FT Retail Ops Intern Internal](https://jobright.ai/jobs/info/6b049f7a7bec27df08f928f9?utm_campaign=1051&utm_source=git)** | Old Town, ME, United States | On Site | Nov 23 |
 | ↳ | **[PT Retail Ops Intern - Internal](https://jobright.ai/jobs/info/6b049f797bec27df08f928f6?utm_campaign=1051&utm_source=git)** | Old Town, ME, United States | On Site | Nov 23 |
 | ↳ | **[PT Retail Ops Intern - Internal](https://jobright.ai/jobs/info/6b049f7913646880439e38d1?utm_campaign=1051&utm_source=git)** | Millinocket, ME, United States | On Site | Nov 23 |
@@ -86,17 +95,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FT Retail Ops Intern Internal](https://jobright.ai/jobs/info/6b049f66b4933fb9f435f8bc?utm_campaign=1051&utm_source=git)** | Caribou, ME, United States | On Site | Nov 23 |
 | ↳ | **[FT Retail Ops Intern Internal](https://jobright.ai/jobs/info/6b049f6558147eafa2994444?utm_campaign=1051&utm_source=git)** | Lincoln, ME, United States | On Site | Nov 23 |
 | ↳ | **[PT Retail Ops Intern - External](https://jobright.ai/jobs/info/6b049f6513646880439e38b1?utm_campaign=1051&utm_source=git)** | York, ME, United States | On Site | Nov 23 |
-| ↳ | **[FT Retail Ops Intern Internal](https://jobright.ai/jobs/info/6b049f6413646880439e38af?utm_campaign=1051&utm_source=git)** | Machias, ME, United States | On Site | Nov 23 |
 | ↳ | **[FT Retail Ops Intern Internal](https://jobright.ai/jobs/info/6b049f6413646880439e38b0?utm_campaign=1051&utm_source=git)** | Bangor, ME, United States | On Site | Nov 23 |
+| ↳ | **[FT Retail Ops Intern Internal](https://jobright.ai/jobs/info/6b049f6413646880439e38af?utm_campaign=1051&utm_source=git)** | Machias, ME, United States | On Site | Nov 23 |
 | ↳ | **[FT Retail Ops Intern Internal](https://jobright.ai/jobs/info/6b049f632d88b678f1177dd1?utm_campaign=1051&utm_source=git)** | Blue Hill, ME, United States | On Site | Nov 23 |
-| ↳ | **[FT Retail Ops Intern Internal](https://jobright.ai/jobs/info/6b049f622d88b678f1177dcf?utm_campaign=1051&utm_source=git)** | Hampden, ME, United States | On Site | Nov 23 |
+| ↳ | **[PT Retail Ops Intern - Internal](https://jobright.ai/jobs/info/6b049f627fd2e33bde0958f4?utm_campaign=1051&utm_source=git)** | Hampden, ME, United States | On Site | Nov 23 |
 | ↳ | **[FT Retail Ops Intern Internal](https://jobright.ai/jobs/info/6b049f622d88b678f1177dd0?utm_campaign=1051&utm_source=git)** | Newport, ME, United States | On Site | Nov 23 |
 | ↳ | **[PT Retail Ops Intern - Internal](https://jobright.ai/jobs/info/6b049f6213646880439e38a8?utm_campaign=1051&utm_source=git)** | Bucksport, ME, United States | On Site | Nov 23 |
-| ↳ | **[PT Retail Ops Intern - Internal](https://jobright.ai/jobs/info/6b049f627fd2e33bde0958f4?utm_campaign=1051&utm_source=git)** | Hampden, ME, United States | On Site | Nov 23 |
+| ↳ | **[FT Retail Ops Intern Internal](https://jobright.ai/jobs/info/6b049f622d88b678f1177dcf?utm_campaign=1051&utm_source=git)** | Hampden, ME, United States | On Site | Nov 23 |
 | ↳ | **[PT Retail Ops Intern - Internal](https://jobright.ai/jobs/info/6b049f6158147eafa299443e?utm_campaign=1051&utm_source=git)** | Presque Isle, ME, United States | On Site | Nov 23 |
 | ↳ | **[PT Retail Ops Intern - Internal](https://jobright.ai/jobs/info/6b049f607bec27df08f928e5?utm_campaign=1051&utm_source=git)** | Blue Hill, ME, United States | On Site | Nov 23 |
-| ↳ | **[PT Retail Ops Intern - Internal](https://jobright.ai/jobs/info/6b049f5f58147eafa2994438?utm_campaign=1051&utm_source=git)** | Caribou, ME, United States | On Site | Nov 23 |
 | ↳ | **[PT Retail Ops Intern - External](https://jobright.ai/jobs/info/6b049f5f7fd2e33bde0958f0?utm_campaign=1051&utm_source=git)** | Wells, ME, United States | On Site | Nov 23 |
+| ↳ | **[PT Retail Ops Intern - Internal](https://jobright.ai/jobs/info/6b049f5f58147eafa2994438?utm_campaign=1051&utm_source=git)** | Caribou, ME, United States | On Site | Nov 23 |
 | ↳ | **[PT Retail Ops Intern - Internal](https://jobright.ai/jobs/info/6b049f5d7fd2e33bde0958ec?utm_campaign=1051&utm_source=git)** | Madawaska, ME, United States | On Site | Nov 23 |
 | ↳ | **[PT Retail Ops Intern - External](https://jobright.ai/jobs/info/6b049f5c58147eafa2994435?utm_campaign=1051&utm_source=git)** | Kennebunk, ME, United States | On Site | Nov 23 |
 | ↳ | **[FT Retail Ops Intern Internal](https://jobright.ai/jobs/info/6b049f5b13646880439e389c?utm_campaign=1051&utm_source=git)** | Madawaska, ME, United States | On Site | Nov 23 |
@@ -118,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PT Retail Ops Intern - External](https://jobright.ai/jobs/info/6b04835f4c822a415e6718ac?utm_campaign=1051&utm_source=git)** | Delmar, NY, United States | On Site | Nov 23 |
 | ↳ | **[Retail Management Internship](https://jobright.ai/jobs/info/6b04835cc8533c23e3c36913?utm_campaign=1051&utm_source=git)** | South Portland, ME, United States | On Site | Nov 23 |
 | ↳ | **[Retail Management Internship](https://jobright.ai/jobs/info/6b04835a21f0a1e0c849bbfc?utm_campaign=1051&utm_source=git)** | Westbrook, ME, United States | On Site | Nov 23 |
-| ↳ | **[PT Retail Ops Intern - External](https://jobright.ai/jobs/info/6b0483594c822a415e6718a2?utm_campaign=1051&utm_source=git)** | Albany, NY, United States | On Site | Nov 23 |
 | ↳ | **[PT Retail Ops Intern - External](https://jobright.ai/jobs/info/6b048359c8533c23e3c3690c?utm_campaign=1051&utm_source=git)** | Brunswick, ME, United States | On Site | Nov 23 |
+| ↳ | **[PT Retail Ops Intern - External](https://jobright.ai/jobs/info/6b0483594c822a415e6718a2?utm_campaign=1051&utm_source=git)** | Albany, NY, United States | On Site | Nov 23 |
 | ↳ | **[Retail Management Internship](https://jobright.ai/jobs/info/6b04835821f0a1e0c849bbf7?utm_campaign=1051&utm_source=git)** | Gorham, ME, United States | On Site | Nov 23 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2027 Summer Internship – Store Development](https://jobright.ai/jobs/info/6ab0d240dd960b415641a1a2?utm_campaign=1051&utm_source=git)** | Memphis, TN, United States | On Site | Nov 23 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[Retail Management Internship](https://jobright.ai/jobs/info/6b048342526905eb2bcf7c39?utm_campaign=1051&utm_source=git)** | Scarborough, Maine, United States | On Site | Nov 23 |
@@ -146,15 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Banking Analyst (Coverage/M&A) Summer Internship Program 2028 New York City](https://jobright.ai/jobs/info/6b0433da4c822a415e66f2e8?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Nov 23 |
 | **[BankUnited](https://www.bankunited.com/)** | **[Sr Intern - Wholesale Banking Credit Products](https://jobright.ai/jobs/info/6b0471a421f0a1e0c849b110?utm_campaign=1051&utm_source=git)** | Miami Lakes, FL, United States | On Site | Nov 23 |
 | **[Novareth](novareth.us)** | **[Key Account Management Sales Intern](https://jobright.ai/jobs/info/6b0471124c822a415e670d84?utm_campaign=1051&utm_source=git)** | El Segundo, CA, United States | On Site | Nov 23 |
-| **[Playfly Sports](https://www.playfly.com/)** | **[National Sales Intern](https://jobright.ai/jobs/info/6b044ac121f0a1e0c8499b81?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Remote | Nov 23 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Sponsorship Sales Intern (Marquee)](https://jobright.ai/jobs/info/6b044bf421f0a1e0c8499bdc?utm_campaign=1051&utm_source=git)** | Berwyn, PA, United States | Hybrid | Nov 23 |
 | ↳ | **[Global Partnerships Intern](https://jobright.ai/jobs/info/6b04499cc8533c23e3c347f1?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Nov 23 |
-| ↳ | **[Integrated Sales Intern (Chicago)](https://jobright.ai/jobs/info/6b044aba566251ad7b8609eb?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 23 |
-| ↳ | **[Activation Intern (Summer)](https://jobright.ai/jobs/info/6b044d03c8533c23e3c3491c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 23 |
-| ↳ | **[Sponsorship Sales Intern (Marquee)](https://jobright.ai/jobs/info/6b044bf421f0a1e0c8499bdc?utm_campaign=1051&utm_source=git)** | Berwyn, PA, United States | Hybrid | Nov 23 |
-| ↳ | **[Integrated Sales Intern (NYC)](https://jobright.ai/jobs/info/6b044ac921f0a1e0c8499b86?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Nov 23 |
-| ↳ | **[Integrated Sales Intern (LA)](https://jobright.ai/jobs/info/6b044ac0a72582cade08c3e2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 23 |
-| ↳ | **[Research & Insights Intern](https://jobright.ai/jobs/info/6b044bfba72582cade08c455?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Nov 23 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6b044860c8533c23e3c3479c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 23 |
-| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2027 Intern - Healthcare & Life Sciences Division [UG/Masters]](https://jobright.ai/jobs/info/6b0464fc526905eb2bcf6811?utm_campaign=1051&utm_source=git)** | Boston, MA, United States | On Site | Nov 23 |
-| **[LOFT](https://www.loft.com)** | **[Sales Lead (SLPT) -Lane Bryant](https://jobright.ai/jobs/info/6a73d9f28cd88e7ccbf5aae0?utm_campaign=1051&utm_source=git)** | American Fork, UT, United States | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
