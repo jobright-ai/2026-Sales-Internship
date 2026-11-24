@@ -89,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern Indianapolis- Summer 2027](https://jobright.ai/jobs/info/6b05d94263d280053ef857e4?utm_campaign=1051&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 24 |
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Student Co-op or Intern - Sales](https://jobright.ai/jobs/info/6b05c3b62835ccc63ff54ab4?utm_campaign=1051&utm_source=git)** | Evansville, IN, United States | On Site | Nov 24 |
 | ↳ | **[Student Co-op or Intern Job Details / Crown Equipment Corporation](https://jobright.ai/jobs/info/6afe11e2758942b6422b70fd?utm_campaign=1051&utm_source=git)** | Wilmington, NC, United States | On Site | Nov 24 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6b05c3bc2835ccc63ff54ab9?utm_campaign=1051&utm_source=git)** | Plainfield, IN, United States | On Site | Nov 24 |
 | ↳ | **[Student Co-op or Intern Job Details / Crown Equipment Corporation](https://jobright.ai/jobs/info/6afe11e9f170d82b396710be?utm_campaign=1051&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 24 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6b05c3bc2835ccc63ff54ab9?utm_campaign=1051&utm_source=git)** | Plainfield, IN, United States | On Site | Nov 24 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6acd8642e7a1d93332112024?utm_campaign=1051&utm_source=git)** | Wilmington, MA, United States | On Site | Nov 24 |
 | **[Gridvanta PowerTech](gridvantapowertech.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6b05ce7a707ad7f35053ad15?utm_campaign=1051&utm_source=git)** | Boston, MA, United States | On Site | Nov 24 |
 | **[GGP](http://www.ggp.com/)** | **[Oakbrook Center Property Management Summer Internship (6/7/2027 - 8/13/2027)](https://jobright.ai/jobs/info/6a94cc62d18f75674827fc43?utm_campaign=1051&utm_source=git)** | Chicago, IL, United States | On Site | Nov 24 |
@@ -113,12 +113,12 @@ For a complete list, click the following sortable link below:
 | **[CDW](http://cdw.com)** | **[2027 Sales Internship - Cherry Hill](https://jobright.ai/jobs/info/6aec20818d18f1312e926c0a?utm_campaign=1051&utm_source=git)** | Cherry Hill, NJ, United States | Hybrid | Nov 24 |
 | **[Electro](electrogum.com)** | **[NIL Sales & Partnerships Intern](https://jobright.ai/jobs/info/6b05b6db707ad7f350539cec?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | On Site | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Technical Sales Engineer Co-Op - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6b0597530a025d0ca4ff3c54?utm_campaign=1051&utm_source=git)** | Raleigh, NC, United States | Remote | Nov 24 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6aeba14ca0b134121d99cadd?utm_campaign=1051&utm_source=git)** | Saguenay, QC, Canada | On Site | Nov 24 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6af73dabc7349029d70937e2?utm_campaign=1051&utm_source=git)** | London, ON, Canada | On Site | Nov 24 |
 | ↳ | **[Client Advisor](https://jobright.ai/jobs/info/6b051e6d2d88b678f117b373?utm_campaign=1051&utm_source=git)** | Terrace, British Columbia, Canada | On Site | Nov 24 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6af73dabc7349029d70937e2?utm_campaign=1051&utm_source=git)** | London, ON, Canada | On Site | Nov 24 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6b05aba82835ccc63ff53b3c?utm_campaign=1051&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Nov 24 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6aff3078aea17e3f50eae5fa?utm_campaign=1051&utm_source=git)** | Delta, British Columbia, Canada | On Site | Nov 24 |
 | ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6af79207e3d8d612bf424fc4?utm_campaign=1051&utm_source=git)** | Brantford, ON, Canada | On Site | Nov 24 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6b05aba82835ccc63ff53b3c?utm_campaign=1051&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Nov 24 |
+| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/6aeba14ca0b134121d99cadd?utm_campaign=1051&utm_source=git)** | Saguenay, QC, Canada | On Site | Nov 24 |
 | **[Taylor Corporation](https://taylor.taylor.com)** | **[Taylor Sales Intern (Temporary) - Summer 2027](https://jobright.ai/jobs/info/6b05ab730a025d0ca4ff44f0?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN, United States | On Site | Nov 24 |
 | **[Welch Fluorocarbon Inc.](http://www.welchfluorocarbon.com)** | **[Sales Internship - Summer 2027](https://jobright.ai/jobs/info/6ae90fd26c51033758f45e10?utm_campaign=1051&utm_source=git)** | Dover, NH, United States | On Site | Nov 24 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Regional Footwear Merchandise Intern - KEEN Utility](https://jobright.ai/jobs/info/6ae8d60d6c51033758f434d0?utm_campaign=1051&utm_source=git)** | Portland, OR, United States | On Site | Nov 24 |
